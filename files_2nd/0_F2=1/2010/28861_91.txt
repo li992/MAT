@@ -1,0 +1,157 @@
+Business review continued Risk management: Other risk exposures All the disclosures in this section pages 204 to 220 are audited unless otherwise indicated with an asterisk.
+Explanatory note These disclosures provide information on certain elements of the Group's credit market activities, the majority of which are in Non-Core and, to a lesser extent, Global Banking & Markets, US Retail & Commercial and Group Treasury.
+For credit valuation adjustments CVA, leveraged finance and conduits disclosures, the information presented has been analysed between the Group's Core and Non-Core businesses.
+Definitions of acronyms used in this section can be found in the Glossary on pages 434 to 439.
+Asset-backed securities The Group structures, originates, distributes and trades debt in the form of loan, bond and derivative instruments in all major currencies and debt capital markets in North America, Western Europe, Asia and major emerging markets.
+The carrying value of the Group's debt securities is detailed below.
+2009 2008 Group Group 2010 before before Group RFS MI Group RFS MI Group bn bn bn bn bn Securities issued by central and local governments 124.0 134.1 146.9 95.1 105.8 Asset-backed securities 70.8 87.6 88.1 111.1 111.1 Securities issued by corporates and other entities 9.7 13.4 14.4 24.3 26.2 Securities issued by banks and building societies 13.0 14.0 17.8 22.7 24.4 217.5 249.1 267.2 253.2 267.5 The Groups credit market activities gave rise to risk concentrations in The following tables summarise the gross and net exposures and asset-backed securities ABS.
+The Group has exposures to ABS which carrying values of these securities by geography of the underlying assets are predominantly debt securities, but can also be held in derivative form.
+Gross exposures represent the ABS have an interest in an underlying pool of referenced assets.
+The principal amounts relating to ABS.
+G10 government RMBS comprises risks and rewards of the referenced pool are passed onto investors by the securities that are: a guaranteed or effectively guaranteed by the US issue of securities with varying seniority, by a special purpose entity.
+government, by way of its support for US federal agencies and government sponsored enterprises or b guaranteed by the Dutch Debt securities include residential mortgage-backed securities RMBS, government.
+Net exposures represent the carrying value after taking commercial mortgage-backed securities CMBS, collateralised debt account of the hedge protection purchased from monoline insurers and obligations CDOs, collateralised loan obligations CLOs and other ABS.
+other counterparties, but exclude the effect of counterparty credit In many cases the risk associated with these assets is hedged by way of valuation adjustments.
+The hedge provides credit protection of both credit derivative protection, purchased over the specific asset or relevant principal and interest cash flows in the event of default by the ABS indices.
+The counterparty to some of these hedge transactions are counterparty.
+The value of this protection is based on the underlying monoline insurers.
+The tables at 31 December 2009 exclude RMBS covered bonds in RFS MI, comprising gross exposure - 558 million, carrying value - 579 million, and net exposure - 579 million.
+4 Designated as at fair value.
+RBS Group 2010 207 Business review continued Risk management: Other risk exposures continued The table below summarises the rating levels of ABS carrying values.
+Credit ratings are based on those from rating agencies Standard & Poors S&P, Moodys and Fitch and have been mapped onto the S&P scale.
+1.1 billion portfolios reflecting respectively balance sheet management and repositioning in light of increased liquidity in the x Within G10 government RMBS, net sell-downs by the US US RMBS market.
+Mortgage Trading business in GBM in the first quarter of 2010, as part of the Groups repositioning in light of the US governments x CDO and CLO portfolios declined by 3.7 billion reflecting asset purchase of US assets was off-set by purchases in the second reductions in Non-Core: however, some CDO exposures were half of the year, with the latter reflecting the perceived investor downgraded during the year resulting in increased nonappetite.
+The decrease in the US AFS portfolio reflected balance investment grade positions.
+sheet restructuring in US Retail & Commercial during the third quarter of 2010.
+208 RBS Group 2010 Business review Risk and balance sheet management Non-investment grade and unrated ABS The table below summarises the carrying values by accounting classification of non-investment grade or not publicly rated ABS.
+RBS Group 2010 209 Business review continued Risk management: Other risk exposures continued The main categories of mortgages that serve as collateral to RMBS held Residential mortgage-backed securities by the Group with related vintages are set out below and described in the RMBS are securities that represent an interest in a portfolio of residential Glossary on pages 434 to 439.
+The US market has more established mortgages.
+Repayments made on the underlying mortgages are used to definitions of differing underlying mortgage quality and these are used as make payments to holders of the RMBS.
+The risk of the RMBS will vary the basis for the Group's RMBS categorisation.
+primarily depending on the quality and geographic region of the underlying mortgage assets and the credit enhancement of the The Group classifies RMBS as sub-prime or Alt-A based on industry securitisation structure.
+Several tranches of notes are issued, each standard criteria, including Fair Isaac Corporation scores FICO, level of secured against the same portfolio of mortgages, but providing differing documentation and loan-to-value LTV ratios of the underlying mortgage levels of seniority to match the risk appetite of investors.
+RMBS are classified as sub-prime if the mortgage portfolio or equity notes will suffer early capital and interest losses experienced comprises loans with FICO scores between 500 and 650 with full or by the referenced mortgage collateral, with each more senior note limited documentation.
+Mortgages in Alt-A RMBS portfolios have FICO benefiting from the protection provided by the subordinated notes below.
+scores of 640 to 720, limited documentation and an original LTV of 70% Additional credit enhancements may be provided to the holder of senior to 95%.
+The FICO score is the determining factor in the classification of RMBS notes, including guarantees over the value of the exposures, often the Groups RMBS as sub-prime or Alt-A.
+The table below analyses the vintage of the Group's carrying value of RMBS portfolios by geography and classification.
+The table below details the Groups CVA by type of counterparty.
+2010 2009 2008 m m m Monoline insurers 2,443 3,796 5,988 CDPCs 490 499 1,311 Other counterparties 1,714 1,588 1,738 4,647 5,883 9,037 Monoline insurers The methodology employed to calculate the monoline CVA uses market The Group has purchased protection from monoline insurers implied probability of defaults and internally assessed recovery levels to monolines, mainly against specific ABS.
+Monolines specialise in determine the level of expected loss on monoline exposures of different providing credit protection against the principal and interest cash flows maturities.
+The probability of default is calculated with reference to due to the holders of debt instruments in the event of default by the debt market observable credit spreads and recovery levels.
+CVA is calculated instrument counterparty.
+This protection is typically held in the form of at a trade level by applying the expected loss, corresponding to each derivatives such as credit default swaps CDSs referencing underlying trades expected maturity, to the gross mark-to-market of the monoline exposures held directly or synthetically by the Group.
+The expected maturity of each trade reflects the scheduled notional amortisation of the underlying reference instruments and The gross mark-to-market of the monoline protection depends on the whether payments due from the monoline are received at the point of value of the instruments against which protection has been bought.
+A default or over the life of the underlying reference instruments.
+positive fair value, or a valuation gain, in the protection is recognised if the fair value of the instrument it references decreases.
+For the majority The table below summarises the Group's exposure to monolines, all of of trades the gross mark-to-market of the monoline protection is which are in Non-Core.
+determined directly from the fair value price of the underlying reference instrument, however for the remainder of the trades, the gross mark-tomarket is determined using industry standard models.
+2010 2009 2008 m m m Gross exposure to monolines 4,023 6,170 11,581 Hedges with financial institutions 71 531 789 Credit valuation adjustment 2,443 3,796 5,988 Net exposure to monolines 1,509 1,843 4,804 Credit valuation adjustment as a % of gross exposure 61% 62% 52% Counterparty and credit risk RWAs 17.8bn 13.7bn 7.3bn The net income statement effect relating to monoline exposures is detailed below.
+2010 2009 2008 m m m Credit valuation adjustment at 1 January 3,796 5,988 862 Credit valuation adjustment at 31 December 2,443 3,796 5,988 Decrease increase in credit valuation adjustment 1,353 2,192 5,126 Net debit relating to realisations, hedges, foreign exchange and other movements 844 3,290 347 Net debit credit relating to reclassified debt securities 305 1,468 1,916 Net credit debit to income statement 1 204 2,566 3,557 Note: 1 Comprises the following elements for the year ended 2010 and 2009: - a loss of 5 million 2009 - 2,387 million in income from trading activities: - impairment reversals losses of 71 million 2009 - 239 million : and - other income of 138 million 2009 - 60 million relating to reclassified debt securities.
+unaudited RBS Group 2010 211 Business review continued Risk management: Other risk exposures continued The fair value of these reclassified debt securities at 31 December 2010 Monoline insurers continued was 5,572 million 1 July 2008 - 6,293 million after adjusting for both A number of debt instruments with monoline protection were reclassified principal based cash flows and foreign exchange effects between 1 July from HFT to AFS in 2008.
+Changes in the fair value since the 2008 and 31 December 2010.
+As a result of these reclassifications, total reclassification are recognised in the income statement to the extent that cumulative losses of 331 million have not been recognised in the they are considered to be impaired.
+Changes in the fair value of the income statement.
+related monoline CDSs continue to be recorded in the income statement.
+The table below summarises monoline exposures by rating.
+Credit ratings are based on those from rating agencies S&P and Moody's.
+Where the ratings differ, the lower of the two is taken.
+CDPCs are similar to monoline insurers, underlying reference instruments, partially offset by the however, they are not regulated as insurers.
+strengthening of the US dollar against sterling.
+The Group has purchased credit protection from CDPCs through x The CVA decreased on a total basis, reflecting the reduction in tranched and single name credit derivatives.
+The Group's exposure to exposure, but was stable on a relative basis with the impact of CDPCs is predominantly due to tranched credit derivatives tranches.
+A tighter credit spreads offset by an increase in the expected lives of tranche references a portfolio of loans and bonds and provides protection certain trades.
+against total portfolio default losses exceeding a certain percentage of the portfolio notional the attachment point up to another percentage the x The reduction in the Groups RWA requirements over the quarter detachment point.
+was driven by the reduction in exposure to monolines and the impact of restructuring certain risk structures.
+The Group has predominantly traded senior tranches with CDPCs, the average attachment and detachment points are 13% and 49% x During the year there was a significant increase in the RWA respectively 2009 - 15% and 51% respectively: 2008 - 16% and 50% requirements of RBS N. V. following its migration to the Basel II respectively, and the majority of the loans and bonds in the reference regime.
+Regulatory intervention at certain monoline counterparties portfolios are investment grade.
+triggered International Swaps and Derivative Association ISDA credit events in the period.
+At the point of trigger the exposure to The gross mark-to-market of the CDPC protection is determined using these counterparties was excluded from the RWA calculations and industry standard models.
+The methodology employed to calculate the capital deductions of 171 million were taken instead.
+The impact of CDPC CVA is different to that outlined above for monolines, as there are this together with restructuring certain exposures and an no market observable credit spreads and recovery levels for these improvement in the rating of underlying reference bonds held by the entities.
+The level of expected loss on CDPC exposures is estimated with Group to investment grade status were the main drivers of the reference to recent market events impacting CDPCs, including reduction in RWA requirements during the second half of the year.
+communication activity, and by analysing the underlying trades and the cost of hedging expected default losses in excess of the capital in each The Group also has indirect exposures to monoline insurers through vehicle.
+wrapped securities and other assets with credit enhancement from monoline insurers.
+These securities are traded with the benefit of this A summary of the Group's exposure to CDPCs all of which are in Noncredit enhancement.
+Any deterioration in the credit rating of the monoline Core is detailed below.
+is reflected in the fair value of these assets.
+2010 2009 2008 m m m Gross exposure to CDPCs 1,244 1,275 4,776 Credit valuation adjustment 490 499 1,311 Net exposure to CDPCs 754 776 3,465 Credit valuation adjustment as a % of gross exposure 39% 39% 27% Counterparty and credit risk RWAs 7.2bn 7.5bn 5.0bn Capital deductions 280m 347m unaudited RBS Group 2010 213 Business review continued Risk management: Other risk exposures continued Credit derivative product companies continued The table below details CDPC exposures by rating.
+2010 2009 2008 m m m Credit valuation adjustment at 1 January 499 1,311 44 Credit valuation adjustment at 31 December 490 499 1,311 Decrease increase in credit valuation adjustment 9 812 1,267 Net debit credit relating to realisations, hedges, foreign exchange and other movements 150 1,769 652 Income from trading activities - net losses 141 957 615 Key points Other counterparties x Losses reduced significantly in 2010 due to smaller exposures and The CVA for all other counterparties is calculated on a portfolio basis reduced losses on hedges that were introduced to cap the reflecting an estimate of the amount a third party would charge to assume exposures.
+x The CVA decrease for the year reflected exposure reductions, due Expected losses are determined from the market implied probability of to trade commutations, tighter credit spreads of the underlying defaults and internally assessed recovery levels.
+The probability of reference portfolios, partially offset by an increase in the relative default is calculated with reference to observable credit spreads and value of senior tranches compared with the underlying reference observable recovery levels.
+For counterparties where observable data do portfolios and foreign currency movements.
+not exist, the probability of default is determined from the average credit spreads and recovery levels of baskets of similarly rated entities.
+A x Counterparty and credit RWAs and capital deductions decreased in weighting of 50% to 100% is applied to arrive at the CVA.
+The weighting line with the exposure.
+reflects portfolio churn and varies according to the counterparty credit quality.
+x Certain CDPCs, where the Group has hedges in place to cap the exposure, are excluded from the RWA calculations with capital deduction taken instead.
+214 RBS Group 2010 Business review Risk and balance sheet management Expected losses are applied to estimated potential future exposures Collateral held under a credit support agreement is factored into the CVA which are modelled to reflect the volatility of the market factors which calculation.
+In such cases where the Group holds collateral against drive the exposures and the correlation between those factors.
+Potential counterparty exposures, CVA is held to the extent that residual risk future exposures arising from vanilla products including interest rate and remains.
+foreign exchange derivatives are modelled jointly using the Group's core counterparty risk systems.
+The majority of the Group's CVA held in CVA is held against exposures to all counterparties with the exception of relation to other counterparties arises on these vanilla products.
+The the CDS protection that the Group has purchased from HM Treasury, as exposures arising from all other product types are modelled and part of its participation in the Asset Protection Scheme, due to the unique assessed individually.
+The potential future exposure to each counterparty features of this derivative.
+is the aggregate of the exposures arising on the underlying product types.
+The net income statement effect arising from the change in level of CVA The correlation between exposure and counterparty risk is also for all other counterparties and related trades is shown in the table below.
+incorporated within the CVA calculation where this risk is considered significant.
+The risk primarily arises on trades with emerging market counterparties where the gross mark-to-market value of the trade, and therefore the counterparty exposure, increases as the strength of the local currency declines.
+2010 2009 m m Credit valuation adjustment at 1 January 1,588 1,738 Credit valuation adjustment at 31 December 1,714 1,588 Increase decrease in credit valuation adjustment 126 150 Net debit relating to realisations, hedges, foreign exchange and other movements 19 841 Income from trading activities - net losses 145 691 Key points x The increase in CVA held against exposures to other counterparties x Losses on hedges and realised defaults are the primary driver of the was driven by rating downgrades of certain counterparties and the loss arising on foreign exchange, hedges, realisations and other net impact of changes in credit spreads and counterparty exposures movements.
+This increase was partially offset by a decrease due to the disposal of parts of the RBS Sempra Commodities JV business during the year.
+RBS Group 2010 215 Business review continued Risk management: Other risk exposures continued The gross exposure represents the total amount of leveraged finance Leveraged finance committed by the Group.
+The net exposure represents the balance sheet Leveraged finance is commonly employed to facilitate corporate finance carrying values of drawn leveraged finance and the total undrawn amount.
+transactions, such as acquisitions or buy-outs, and is so called due to the The difference between gross and net exposures is principally due to the high ratio of debt to equity leverage common in such transactions.
+A cumulative effect of impairment provisions and historic write-downs on bank acting as a lead manager for a leveraged finance transaction will assets prior to reclassification.
+typically underwrite a loan, alone or with others, and then syndicate the loan to other participants.
+The Group typically held a portion of these The table below shows the Groups global markets sponsor-led leveraged loans as part of its long-term portfolio once primary syndication is finance exposures, all of which are in Non-Core, by industry and completed.
+Most of the leveraged finance loans held as part of the geography.
+syndicated lending portfolio were reclassified from HFT to LAR in 2008.
+2 All of the above exposures are classified as LAR, except 154 million 2009 - 143 million: 2008 - 102 million which are classified as HFT.
+The table below shows the Groups movement in leveraged finance exposures during the year.
+2010 2009 Drawn Undrawn Total Drawn Undrawn Total m m m m m m Balance at 1 January 10,540 2,280 12,820 12,619 3,150 15,769 Transfers out in from credit trading business 38 12 26 563 41 604 Sales and restructurings 3,575 273 3,848 247 144 391 Repayments and facility reductions 488 272 760 934 392 1,326 Funded deals 11 11 166 166 Lapsed collapsed deals 19 19 Changes in fair value 73 73 31 31 Accretion of interest 50 50 100 100 Net recoveries impairment provisions 131 131 1,041 1,041 Exchange and other movements 70 12 82 655 190 845 Balance at 31 December 6,752 1,770 8,522 10,540 2,280 12,820 Key points x Approximately 92% of the above exposures represent senior x Reduction in exposures reflect the Non-Core strategy.
+216 RBS Group 2010 Business review Risk and balance sheet management In addition to the above, UK Corporate and Ulster Bank have leveraged finance exposures as set out below.
+2010 2009 2008 m m m UK Corporate - debt financing 1 3,664 4,041 4,496 - senior debt transactions 2 2,604 3,034 2,330 Total UK Corporate 6,268 7,075 6,826 Ulster Bank 597 621 694 6,865 7,696 7,520 Notes: 1 Loans for UK mid-market buyouts, supplementing equity capital provided by third party private equity investors.
+2 Loans to UK mid-corporates supporting acquisitions, recapitalisations or general corporate purposes where higher leverage criteria were met.
+Special purpose entities lowest ranking notes in the priority of payments.
+Investors in the most The Group arranges securitisations to facilitate client transactions and senior ranking debt securities are typically shielded from loss, since any undertakes securitisations to sell financial assets or to fund specific subsequent losses may trigger repayment of their initial principal.
+The Group also acts as an underwriter and depositor in securitisation transactions involving both client and proprietary The Group also employs synthetic structures, where assets are not sold transactions.
+In a securitisation, assets, or interests in a pool of assets, to the SPE, but credit derivatives are used to transfer the credit risk of the are transferred generally to a special purpose entity SPE which then assets to an SPE.
+Securities may then be issued by the SPE to investors, issues liabilities to third party investors.
+SPEs are vehicles established for on the back of the credit protection sold to the Group by the SPE.
+a specific, limited purpose, usually do not carry out a business or trade and typically have no employees.
+They take a variety of legal forms - Residential and commercial mortgages and credit card receivables form trusts, partnerships and companies - and fulfil many different functions.
+the types of assets generally included in cash securitisations, while As well as being a key element of securitisations, SPEs are also used in corporate loans and commercial mortgages typically serve as reference fund management activities to segregate custodial duties from the fund obligations in synthetic securitisations.
+management advice provided by the Group.
+The Group sponsors own-asset securitisations primarily as a way of It is primarily the extent of risks and rewards assumed that determines diversifying funding sources.
+The Group purchases the securities issued whether these entities are consolidated in the Group's financial in own asset securitisations.
+During 2008, the Group was able to pledge statements.
+The following section aims to address the significant AAA rated asset-backed securities as collateral for repurchase exposures which arise from the Group's activities through specific types agreements with major central banks under schemes such as the Bank of of SPEs.
+England's Special Liquidity Scheme, launched in April 2008, which allowed banks to temporarily swap high-quality mortgage-backed and The Group sponsors and arranges own-asset securitisations, whereby other securities for liquid UK treasury bills.
+This practice contributed to the sale of assets or interests in a pool of assets into an SPE is financed the Group's sources of funding in the face of the contraction in the UK by the issuance of securities to investors.
+The pool of assets held by the market for inter-bank lending, particularly during 2008 and 2009, and SPE may be originated by the Group, or in the case of whole loan investor base for securitisations.
+programmes purchased from third parties, and may be of varying credit quality.
+Investors in the debt securities issued by the SPE are rewarded The table below sets out the asset categories, together with the carrying through credit-linked returns, according to the credit rating of their value of the assets and associated liabilities for those securitisations and securities.
+The majority of securitisations are supported through liquidity other asset transfers, other than conduits discussed below, where the facilities, other credit enhancements and derivative hedges extended by assets continue to be recorded on the Group's balance sheet financial institutions, some of which offer protection against initial defaults in the pool of assets.
+Thereafter, losses are absorbed by investors in the 2010 2009 2008 Assets Liabilities Assets Liabilities Assets Liabilities m m m m m m Residential mortgages 76,212 18,215 69,927 15,937 55,714 20,075 Credit card receivables 3,993 34 2,975 1,592 3,004 3,197 Other loans 30,988 974 36,448 1,010 1,679 1,071 Finance lease receivables 510 510 597 597 1,077 857 Assets are significantly greater than liabilities, as all notes issued by funding related own asset securitisation SPEs are purchased by Group companies.
+RBS Group 2010 217 Business review continued Risk management: Other risk exposures continued vehicle is such that the vehicle is controlled by the Group.
+Liquidity Conduits commitments from the Group to the conduit exceed the nominal amount The Group sponsors and administers a number of asset-backed of assets funded by the conduit as liquidity commitments are sized to commercial paper ABCP conduits.
+A conduit is an SPE that issues cover the funding cost of the related assets.
+commercial paper and uses the proceeds to purchase or fund a pool of assets.
+The commercial paper is secured on the assets and is redeemed During the year both multi-seller and own asset conduit assets have been either by further commercial paper issuance, repayment of assets or reduced in line with wider Group balance sheet management.
+The total assets held by Group-sponsored conduits were 20.0 billion at 31 funding from liquidity facilities.
+Commercial paper is typically short-dated, usually up to three months.
+Group-sponsored conduits can be divided into multi-seller conduits and own-asset conduits.
+3 Maximum exposure to loss is determined as the Groups total liquidity commitments to the conduits and additionally programme-wide credit support which would absorb first loss on transactions where liquidity support is provided by a third party.
+Information relating to assets in the conduits is set out on pages 219 to liquidity facilities have been provided by third-party banks.
+This 220. typically occurs on transactions where the third-party bank does not use, or have, its own conduit vehicles.
+Multi-seller conduits accounted for 44% of the total liquidity and credit enhancements committed by the Group at 31 December 2010 2009 - x The Groups maximum exposure to loss on its multi-seller conduits 43%: 2008 - 69%.
+The Groups multi-seller conduits have continued to is 22.8 billion 2009 - 25.2 billion: 2008 - 43.2 billion, being the fund the vast majority of their assets solely through ABCP issuance.
+total amount of the Groups liquidity commitments plus the extent of There have been no significant systemic failures within the financial PWCE of conduit assets for which liquidity facilities were not markets similar to that experienced in the second half of 2008 following provided by third parties.
+Lehman Brothers bankruptcy filing in September 2008.
+The improvement in market conditions has allowed these conduits to move to normal ABCP x The Group holds two own-asset conduits, which have assets that funding conditions and reduced the need for backstop funding from the were previously funded by the Group.
+exposure to loss on these two conduits was 4.1 billion in 2010 2009 - 9.1 billion: 2008 - 15.9 billion, with 2.2 billion of ABCP Key points outstanding at that date 2009 - 7.7 billion: 2008 - 14.8 billion.
+x Total assets decreased during the year by 7.4 billion in line with the Groups strategy of reducing conduit exposure.
+x Additionally the Group established an own-asset conduit in 2009 with a committed liquidity of 26.0 billion 2009 - 25.1 billion to x The average maturity of ABCP issued by the Groups conduits has access the Bank of Englands open market operations for contingent risen throughout 2010, to 69.4 days 2009 - 58.4 days: 2008 - 72.1 funding purposes.
+The Group also extends liquidity commitments to multi-seller conduits x The maturity of the commercial paper issued by the Groups sponsored by other banks, but typically does not consolidate these conduits to mitigate the short-term contingent liquidity risk of entities as the Group does not retain the majority of risks and rewards.
+The Groups limits sanctioned for such The Groups exposure from third-party conduits was 136 million 2009 - liquidity facilities in 2010 totalled approximately 22.6 billion for 587 million: 2008 - 3.9 billion representing deal specific liquidity.
+For a very small number of transactions within one multi-seller conduit the 218 RBS Group 2010 Business review Risk and balance sheet management Collateral analysis, profile, credit ratings and weighted average lives relating to the Groups consolidated conduits are detailed below.

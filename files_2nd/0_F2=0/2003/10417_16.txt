@@ -1,0 +1,8 @@
+Customers are treated as being active if they have used the network in the preceding three months.
+2 Average Revenue Per User ARPU is calculated by dividing total service revenue from sales to customers for the preceding 12 months by the weighted average number of active customers for the same period.
+3 Data as a percentage of service revenue data revenue comprises revenue generated from the sale of SMS, WAP and GPRS services.
+Comparable data for 2001 is not available.
+4 Churn is calculated by expressing the sum of disconnections for the preceding 12 months as a percentage of the weighted average number of active customers for the same period.
+5 Subscriber Acquisition Costs SAC per Connection are calculated by dividing the total costs total cost of handset including handset costs, SIM costs and packaging less handset revenue plus commissions paid to sales channels for the preceding 12 months by the total number of connections over the same period.
+6 Comparable data not available: registered pre-pay customer base previously reported.
+7 O Germany ARPU and SAC for the year ending 31 March 2001, ARPUs and SAC shown is December 2000.

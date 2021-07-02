@@ -1,0 +1,33 @@
+16 Fair values of financial instruments not carried at fair value The classification of financial instruments is determined in accordance with the accounting policies set out in Note 2.
+Fair values of financial instruments which are not carried at fair value and bases of valuation At 31 December 2013 At 31 December 2012 Fair value Valuation techniques With significant Quoted Using unobservmarket observable able Carrying price inputs inputs Carrying Fair amount Level 1 Level 2 Level 3 Total amount value US$m US$m US$m US$m US$m US$m US$m Assets and liabilities not held for sale Assets Loans and advances to banks........... 211,521 201,643 9,858 211,501 152,546 152,823 1 Loans and advances to customers... 1,080,304 98,932 971,555 1,070,487 997,623 973,741 Financial investments: debt 25,084 1,432 23,960 25 25,417 23,413 25,458 securities.......................................
+2 Including financial instruments within disposal groups held for sale.
+Fair values are determined according to the hierarchy set out in Note 15.
+It does not reflect the economic benefits and costs that HSBC expects to flow from the instruments cash flows over their expected future lives.
+Other reporting entities may use different valuation methodologies and assumptions in determining fair values for which no observable market prices are available.
+The fair values of loans and advances to customers in the US are substantially lower than their carrying amount, reflecting the market conditions at the balance sheet date.
+The secondary market demand and estimated value for US loans and advances have been heavily influenced by the challenging economic conditions during the past number of years, including house price depreciation, rising unemployment, changes in consumer behaviour, changes in discount rates and the lack of financing options available to support the purchase of loans and advances.
+Many investors are non-bank financial institutions or hedge funds with high equity levels and a high cost of debt.
+For certain consumer loans, investors take a more conservative view of future performance than HSBC.
+As a result, third parties are likely to assume higher charge-off levels and or slower voluntary prepayment speeds than HSBC believes will ultimately be the case.
+The investor discount rates reflect this difference in the overall cost of capital as well as the potential 496 volatility in the underlying cash flow assumptions, the combination of which may yield a significant pricing discount from HSBCs intrinsic value.
+The relative fair value of loans and advances to customers increased during 2013 largely due to improved conditions in the housing industry driven by increased property values and, to a lesser extent, lower required market yields and increased investor demand for these types of loans and advances.
+The fair value of loans and advances to customers has improved in Europe relative to carrying amounts, primarily in the UK mortgage market where increased competition and Central Bank policies to stimulate lending have reduced interest rates and increased fair values accordingly.
+The overall improvement in fair value has also benefited from higher valuations of ABSs classified as loans and advances following improved market appetite for such securities.
+The fair values of loans and advances to customers in Latin America are higher than their carrying amount, primarily driven by mortgages where the market interest rate remains below the historic average.
+Fair values of the following assets and liabilities are estimated for the purpose of disclosure as described below: Loans and advances to banks and customers The fair value of loans and advances is based on observable market transactions, where available.
+In the absence of observable market transactions, fair value is estimated using valuation models that incorporate a range of input assumptions.
+These assumptions may include value estimates from third party brokers which reflect over-the-counter trading activity, forward looking discounted cash flow models using assumptions which HSBC believes are consistent with those which would be used by market participants in valuing such loans, and trading inputs from other market participants which includes observed primary and secondary trades.
+Loans are grouped, as far as possible, into homogeneous groups and stratified by loans with similar characteristics to improve the accuracy of estimated valuation outputs.
+The stratification of a loan book considers all material factors including vintage, origination period, estimates of future interest rates, prepayment speeds, delinquency rates, loanto-value ratios, the quality of collateral, default probability, and internal credit risk ratings.
+Valuation techniques are calibrated on a regular basis and tested for validity using prices from observable current market transactions in the same instrument, without modification or repackaging, or are based on any available observable market data.
+The fair value of a loan reflects both loan impairments at the balance sheet date and estimates of market participants expectations of credit losses over the life of the loans, and the fair value effect of repricing between origination and the balance sheet date.
+Financial investments The fair values of listed financial investments are determined using bid market prices.
+The fair values of unlisted financial investments are determined using valuation techniques that take into consideration the prices and future earnings streams of equivalent quoted securities.
+Deposits by banks and customer accounts For the purpose of estimating fair value, deposits by banks and customer accounts are grouped by remaining contractual maturity.
+Fair values are estimated using discounted cash flows, applying current rates offered for deposits of similar remaining maturities.
+The fair value of a deposit repayable on demand is approximated by its carrying value.
+Debt securities in issue and subordinated liabilities Fair values are determined using quoted market prices at the balance sheet date where available, or by reference to quoted market prices for similar instruments.
+The fair values in this note are stated at a specific date and may be significantly different from the amounts which will actually be paid on the maturity or settlement dates of the instruments.
+In many cases, it would not be possible to realise immediately the estimated fair values given the size of the portfolios measured.
+Accordingly, these fair values do not represent the value of these financial instruments to HSBC as a going concern.
+497 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report

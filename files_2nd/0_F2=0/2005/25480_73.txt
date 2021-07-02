@@ -1,0 +1,26 @@
+Reconciliation of principal differences between UK GAAP and SA GAAP The results as presented on pages 160 to 166 have been prepared in accordance with accounting principles generally accepted in the United Kingdom.
+Such principles vary in significant respects from those generally accepted in South Africa.
+Preparing the financial statements requires management to make estimates and assumptions that affect the reported results and disclosures.
+Actual results could be different from those estimates.
+The significant differences between SA GAAP and UK GAAP, applicable to Investecs accounts during the year under review are summarised below.
+For the year ended 31 March 000 Notes 2005 2004 Earnings before goodwill amortisation and exceptional items attributable to ordinary shareholders under UK GAAP 151 146 106 203 SA GAAP adjustments: Acquisition accounting 1 612 3 036 Employee share option plans 2 2 200 7 519 AC 133 adjustments 3 5 749 9 230 Debenture interest 4 5 811 8 471 Interest rate swaps 5 2 339 3 224 Embedded value earnings 6 2 174 783 Revaluation of investment properties 7 4 478 13 982 Treasury shares 8 2 345 1 427 Other 222 482 Earnings before goodwill amortisation and exceptional items attributable to ordinary shareholders under SA GAAP 9 163 206 131 305 Restated refer to accounting policy 230 Notes: 1.
+Under SA GAAP, certain acquisitions incorporated a sign-on guarantee to select members of staff which were treated as goodwill and amortised over the period over which these guarantees remained in force.
+For UK GAAP, they are treated as prepayments and expensed to personnel costs within administrative expenses over a similar period.
+Investec has established a number of employee share incentive schemes, some of which place greater residual risk in the hands of the participants.
+"On certain of the executive schemes where participants have assumed substantially all the risks and rewards of the scheme, the accounting treatment for SA GAAP continues to recognise these schemes as external to the group such that the loans advanced to the schemes remain under ""advances"" and interest income generated therefrom recognised in the income statement."
+Conversely, UK GAAP requires Investec, as a sponsoring company of such schemes, to consolidate their financial position with the result that the balance sheet and the profit and loss effects representing the component of the scheme which has not fully vested with the participants are added to those of the group and the respective intercompany items eliminated.
+These adjustments unwound as a greater percentage of the scheme vests with the participants.
+AC133 is a South African accounting statement on recognition and measurement of financial instruments.
+The adoption of AC133 under SA GAAP has resulted in a further difference between SA and UK GAAP.
+Investec has issued Compulsorily Convertible Debentures, which under SA GAAP have been classified as shareholders' equity.
+UK GAAP requires capital instruments other than shares to be classified as liabilities if they contain an obligation or contingent obligation to transfer an economic benefit.
+At the time that they were issued, certain of these instruments were split into their debt and equity components.
+"Under UK GAAP, the debt component has been recorded as a liability in the balance sheet and the equity component accounted for as ""shares to be issued"" and share capital within shareholders funds."
+Accordingly, the interest payable on the debt portion has been split between interest and repayments of the principal.
+This has the effect of reducing the interest charge on convertible debt under UK GAAP compared to SA GAAP.
+Differences arising on the accrual of certain income items e. g. Income on certain trading related interest swaps which was recognised upfront under SA GAAP but phased in over a period of time under UK GAAP.
+Under UK GAAP the shareholders interest in the inforce life assurance and fund pensions policies of the long-term assurance fund are valued at the net present value of the profits inherent in such policies embedded value.
+Under SA GAAP the value of these profits is not recognised.
+The revaluation on investment properties is recognised in earnings pre-goodwill amortisation and exceptional items under SA GAAP whereas UK GAAP requires the net movements to be taken to the statement of recognised gains and losses and hence excluded from operational earnings.
+To the extent that no new assets are created by the group on the issue of shares, such shares are treated as treasury shares under UK GAAP with any income derived from such capital excluded from earnings.
+The exchange rates used in the above reconciliation was based on the actual rates ruling on the date of the transactions.

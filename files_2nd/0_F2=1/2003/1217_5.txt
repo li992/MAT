@@ -1,0 +1,31 @@
+ARM: connected continued power consumption brings benefits to a wide range of applications.
+Achieving this continues to be a driving force in our research and development activities, but extra functions on, for example, a mobile telephone simply devour battery power and we saw the need to find a means of controlling this.
+During the year we launched our Intelligent Energy Manager IEM product, which is incorporated into our ARM1176JZ-S core.
+IEM technology is what is called a closed-loop control system: it monitors how much power the application needs and adjusts the battery power accordingly.
+The principle is much the same as installing a thermostat on a central heating system.
+By eliminating waste, IEM technology enables equipment to be always on without sacrificing usage time.
+We made further strides in improving our signal processing IP portfolio when we acquired Belgium-based Adelante Technologies N. V. in July 2003.
+The team, now ARM Belgium N. V. is established as our data engine business and is already playing an important part in our future.
+The market for ever-more sophisticated multimedia and networking communications continues to increase, but the rapidly-changing demands on the technology cannot always be met efficiently with conventional signal processing.
+In collaboration with other ARM businesses, ARM Belgium is developing OptimoDE, which comprises a configurable data engine signal processor solution with related IP and tools.
+OptimoDE technology will be used in systems together with our existing cores and other system IP.
+The configurability of OptimoDE technology enables designers to match signal processing at the heart The ARM architecture is at the heart of advanced digital products: it provides access to information at home, in the office or on the move.
+10 ARM Annual report and accounts 2003 Page heads solutions to the needs of a specific application Designers have historically tried to implement or algorithm.
+This provides excellent processing secure systems by adding logic to a core in a flexible solution which meets the power design: this is complicated, costly and, in and cost constraints set by the new generation the end, the product is never truly protected.
+In addition to high performance, Our approach results in a reliable and secure OptimoDE technology offers low power and a system which is integrated in the core, is cost fast route to implementation.
+effective and resistant to software hacks.
+Connected to security In November, we expanded our smart card Security is an issue for a wide range of people portfolio when we launched our SecurJC and organisations, from manufacturers, service technology.
+The increasing demand for smart providers and network operators to content cards has created a need for products that creators and end users: and for a wide range are secure as well as high performance.
+Our of products, from smart cards, set-top boxes SecurJC technology is appropriate for any type and mobile telephones to cars and household of smart card, including SIM cards.
+Hackers and viruses that corrupt developers of cards based on JavaCard computers can equally corrupt other devices technology to focus on application design by and the more applications there are on, for eliminating what is usually the most timeexample, a mobile telephone, the more consuming element of the design cycle the vulnerable it is to attack.
+Without the owners need to redevelop an entire implementation.
+knowledge, a mobile telephone could send thousands of text messages or voice calls to Connected to software other mobiles and, by doing so, could not only We have always maintained the backwards corrupt or contaminate the other devices, but compatibility of software so that a partners could also overload the network to the point investment in our technology is protected: of collapse.
+This clearly has huge financial equally, in addition to creating innovative new implications for everyone concerned.
+products, we upgrade and improve existing technology.
+Content providers, such as movie companies, could be faced with unauthorised distribution In 1995, we introduced our popular Thumb a problem the music industry has contended solution, a breakthrough technology that with for some time and car manufacturers enabled software developers to create highly need to be able to protect the computer compact code to run our architecture, but systems which control vehicles operating the problem of providing high performance and safety systems.
+at low cost, combined with long battery life, continued.
+In May 2003, we launched Thumb-2 Our engineers came up with an innovative core technology, an extension of our 32-bit idea that we were able to convert into a new architecture.
+Thumb-2 technology improves product: TrustZone technology.
+This creates performance and saves power by enabling a barrier a secure area within a processor system makers to condense software to fit and the system around it within which only into a smaller memory device.
+Because the designated, secure tasks can be performed.
+code delivers more performance, the processor Enabling technologies Coresight SecurJC Thumb-2 Intelligent Energy Swerve TrustZone Manager OptimoDE ARM Annual report and accounts 2003 11

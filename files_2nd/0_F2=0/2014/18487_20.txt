@@ -1,0 +1,407 @@
+Accounting policies A summary of the principal accounting policies, all of which have been applied consistently throughout the year, is set out below.
+a Basis of accounting The consolidated accounts have been prepared and approved in accordance with International Financial Reporting Standards IFRS as adopted by the EU, interpretations issued by the International Financial Reporting Standards Committee, applicable legal and regulatory requirements of the Companies Guernsey Law, 2008 and the Listing Rules of the UK Listing Authority.
+The consolidated accounts give a true and fair view and are also in compliance with the Companies Guernsey Law, 2008.
+Where presentational guidance set out in the Statement of Recommended Practice SORP for investment trust companies issued by the Association of Investment Companies AIC in January 2009 is consistent with the requirements of IFRS, the Directors have sought to prepare the financial statements on a basis compliant with the recommendations of the SORP.
+The AIC has issued an updated SORP which is applicable for accounting periods commencing on or after 1 January 2015.
+The recommendations of the revised SORP have not been adopted early.
+The consolidated accounts have been prepared on a historical cost basis, except for investment property and derivative financial instruments that have been measured at fair value.
+The notes and financial statements are presented in pounds sterling being the functional currency of the Company and presentational currency for the Company and the Group and are rounded to the nearest thousand except where otherwise indicated.
+The preparation of financial statements requires management to make estimates and assumptions that affect the amounts reported for assets and liabilities as at the balance sheet date and the amounts reported for revenue and expenses during the period.
+The nature of the estimation means that actual outcomes could differ from those estimates.
+Estimates and underlying assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period in which the estimates are revised and in any future periods affected.
+significant estimates and assumptions are made in the valuation of the investment properties held.
+Further information on the valuation, market risk and sensitivity to market changes are provided in notes 1 f, 9 and 18.
+After making enquiries, and bearing in mind the nature of the Companys business and assets, the Directors consider that the Company has adequate resources to continue in operational existence for the foreseeable future.
+In assessing the going concern basis of accounting the Directors have had regard to the guidance issued by the Financial Reporting Council.
+They have considered the current cash position of the Group, forecast rental income and other forecast cash ows.
+The Group has agreements relating to its borrowing facilities with which it has complied during the year.
+Based on this information the Directors believe that the Group has the ability to meet its financial obligations as they fall due for a period of at least twelve months from the date of approval of the accounts.
+For this reason, they continue to adopt the going concern basis in preparing the accounts.
+The accounting policies adopted are consistent with those of the previous financial year, except that the following new standards have been adopted in the current year: In October 2012, the International Accounting Standards Board IASB issued amendments to IFRS 10 Consolidated Financial Statements, IFRS 12 Disclosure of Interests in Other Entities and IAS 27 Separate Financial Statements Investment Entities.
+The amendments define an investment entity and introduce an exception to consolidating particular subsidiaries for investment entities.
+These amendments require an investment entity to measure those subsidiaries at fair value through profit or loss in accordance with IFRS 9 Financial Instruments in its consolidated and separate financial statements.
+The amendments also introduce new disclosure requirements for investment entities in IFRS 12 and IAS 27.
+These amendments do not have any material impact on the consolidated financial statements as presented.
+In December 2011, the International Accounting Standards Board IASB issued an amendment to IAS 32 Offsetting Financial Assets and Financial Liabilities.
+The amendment claried the meaning of currently has a legally enforceable right of set-off and that some gross settlement systems may be considered equivalent to net settlement.
+The amendment was effective for annual periods beginning on or after 1 January 2014 and is required to be applied retrospectively.
+The Group has applied offsetting regarding the repayment of its Secured Bonds Due 2017 see note 13 for details : however this amendment has not had any material impact on net assets or the Consolidated Statement of Comprehensive Income.
+In May 2013, the IASB issued IFRIC Interpretation 21 Levies, an Interpretation on the accounting for levies imposed by governments.
+The interpretation claries that the obligating event that gives rise to a liability to pay a levy is the activity described in the relevant legislation that triggers the payment of the levy.
+The adoption of this interpretation does not have any material impact on the consolidated financial statements as presented for the current, or comparative, reporting periods.
+40 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 41 1.
+Accounting policies continued a Basis of accounting The following new standard has been issued but is not effective for this accounting period and has not been adopted early: In July 2014, the IASB published the final version of IFRS 9 Financial Instruments which replaces the existing guidance in IAS 39 Financial Instruments: Recognition and Measurement.
+The IFRS 9 requirements represent a change from the existing requirements in IAS 39 in respect of financial assets.
+The standard contains two primary measurement categories for financial assets: amortised cost and fair value.
+A financial asset would be measured at amortised cost if it is held within a business model whose objective is to hold assets in order to collect contractual cash ows, and the assets contractual terms give rise on specified dates to cash ows that are solely payments of principal and interest on the principal outstanding.
+All other financial assets would be measured at fair value.
+The standard eliminates the existing IAS 39 categories of held-to-maturity, available-for-sale and loans and receivables.
+For financial liabilities, IFRS 9 largely carries forward without substantive amendment the guidance on classication and measurement from IAS 39.
+The main change is that, in cases where the fair value option is taken for financial liabilities, the part of a fair value change due to an entitys own credit risk is recorded in other comprehensive income rather than in profit or loss.
+The standard introduces new requirements for hedge accounting that align hedge accounting more closely with risk management and establishes a more principles-based approach to hedge accounting.
+The standard also adds new requirements to address the impairment of financial assets and means that a loss event will no longer need to occur before an impairment allowance is recognised.
+The standard will be effective for annual periods beginning on or after 1 January 2018, and is required to be applied retrospectively with some exemptions.
+The Group is yet to assess IFRS 9s full impact but it is not currently anticipated that this standard will have any material impact on the Groups financial statements as presented for the current year.
+There are no other IFRSs or IFRIC interpretations that are not yet effective that would be expected to have a material impact on the Group.
+b Basis of consolidation The consolidated financial statements comprise the financial statements of the Company and all of its subsidiaries drawn up to 31 December each year.
+Subsidiaries are those entities, including special purpose entities, controlled by the Company.
+An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+The Company owns 100 per cent of the issued ordinary share capital of FCPT Holdings Limited, a company registered in Guernsey which was, until the group reconstruction in 2009, the top company in the group structure.
+The principal activity of FCPT Holdings Limited is now to act as a holding company and it owns 100 per cent of the ordinary share capital of F&C Commercial Property Holdings Limited, a company registered in Guernsey whose principal business is that of an investment and property company.
+The Company owns 100 per cent of the issued ordinary share capital of SCP Estate Holdings Limited, a company registered in Guernsey.
+The principal activity of SCP Estate Holdings Limited is to act as a holding company and it owns 100 per cent of the ordinary share capital of SCP Estate Limited, a company registered in Guernsey whose principal business is that of an investment and property company, and 100 per cent of the ordinary share capital of Prime Four Limited, a company registered in Guernsey whose principal business is that of an investment and property company.
+For the year ended 31 December 2014 the Company owned 100 per cent of the issued ordinary share capital of Winchester Burma Limited, a company registered in Guernsey whose principal business is that of an investment and property company.
+On 31 December 2014, the Company transferred, at fair value, ownership of 100 per cent of the issued ordinary share capital of Winchester Burma Limited to FCPT Holdings Limited.
+The Company owns 100 per cent of the issued ordinary share capital of Accede Limited, a company incorporated in England and Wales.
+At 31 December 2014 this Company was dormant, having previously acted as an investment and property company.
+The Group also consolidates the results of F&C Commercial Property Finance Limited, a special purpose vehicle incorporated in Guernsey to issue the interest-bearing bonds.
+F&C Commercial Property Finance Limited has the same board of directors as the Company and the Company has the majority of the risks and rewards associated with the vehicle.
+F&C Commercial Property Finance Limited is therefore consolidated as a subsidiary.
+Annual Report and Accounts 2014 41 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 42 Notes to the Accounts continued 1.
+Accounting policies continued c Revenue recognition Rental income, excluding VAT, arising on investment properties is accounted for in the Consolidated Statement of Comprehensive Income on a straight-line basis over the lease term of ongoing leases.
+Lease incentives granted are recognised as an integral part of the total rental income.
+The Group from time to time receives surrender premiums from tenants who break their leases early.
+To the extent they are deemed capital receipts to compensate the Group for loss in value of property to which they relate, they are credited to capital reserve investments held.
+All other surrender premiums are recognised within rental income in the Statement of Comprehensive Income.
+Distribution income received from any indirect property funds is recognised on the date the Group becomes entitled to the distribution and recorded separately from any unrealised or realised gains or losses on revaluation of indirect property funds.
+Interest income is accounted for on an accruals basis.
+d Expenses Expenses are accounted for on an accruals basis.
+The Groups investment management and administration fees, finance costs and all other expenses are charged to the Consolidated Statement of Comprehensive Income.
+e Taxation The tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year.
+Taxable profit differs from profit before taxation reported in the Consolidated Statement of Comprehensive Income because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred income tax is provided, using the liability method, on all temporary differences at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
+Deferred income tax liabilities are measured at the tax rates that are expected to apply to the period when the liability is settled, based on tax rates and tax laws that have been enacted or substantively enacted at the balance sheet date.
+Deferred income tax assets are only recognised if it is considered more likely than not that there will be suitable profits from which the future reversal of the underlying timing differences can be deducted.
+As the Directors consider the value of the property portfolio is likely to be realised by sale rather than use over time, and that no charge to Guernsey or United Kingdom taxation will arise on capital gains, no provision has been made for deferred tax on valuation uplifts.
+f Investment properties Investment properties consist of land and buildings held to earn rental income together with the potential for capital and income growth.
+Investment properties are initially recognised at cost, being the fair value of consideration given, including associated transaction costs.
+Any subsequent capital expenditure incurred in improving investment properties is capitalised in the period during which the expenditure is incurred and included within the book cost of the properties.
+After initial recognition, investment properties are measured at fair value, with unrealised gains and losses recognised in the Consolidated Statement of Comprehensive Income and transferred to the Capital Reserve Investments Held.
+Fair value is based on valuations provided by CBRE Limited, Registered Valuers, at the balance sheet date using recognised valuation techniques.
+For the purposes of these financial statements, in order to prevent double accounting, the assessed fair value provided by CBRE is reduced by the carrying amount of any accrued income resulting from the spreading of lease incentives and or minimum lease payments.
+This accrued income is separately recorded in the accounts within current assets.
+Techniques used for valuing investment properties The Traditional Method converts anticipated future cash ow benets in the form of rental income into present value.
+This approach requires careful estimation of future benets and application of investor yield or return requirements.
+One approach to value the property on this basis is to capitalise net rental income on the basis of an Initial Yield, generally referred to as the All Risks Yield approach or Net Initial Yield approach.
+The Discounted Cash Flow Method involves the projection of a series of periodic cash ows either to an operating property or a development property.
+To this projected cash ow series an appropriate market-derived discount rate is applied to establish an indication of the present value of the income stream associated with the property.
+The calculated periodic cash 42 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 43 1.
+Accounting policies continued f Investment properties continued ow is typically estimated as gross income less vacancy and collection losses and operating expenses outgoings.
+A series of periodic net operating incomes, along with an estimate of the reversion terminal exit value which uses the traditional valuation approach anticipated at the end of the projection period, are discounted to present value.
+The aggregate of the net present values equals the market value of the property.
+The fair value of investment properties is measured based on each propertys highest and best use from a market participants perspective and considers the potential uses of the property that are physically possible, legally permissible and nancially feasible.
+Investment properties held under finance leases and leased out under operating leases are classied as investment properties and stated at fair value.
+On derecognition, realised gains and losses on disposals of investment properties are recognised in the Consolidated Statement of Comprehensive Income and transferred to the Capital Reserve Investments Sold.
+Recognition and derecognition occurs on the completion of a sale between a willing buyer and a willing seller.
+Any investment properties on which contracts for sale have been exchanged but which had not completed at the period end are disclosed as properties held for sale and stated at fair value.
+g Investments Investments in any unquoted indirect property funds are recognised and derecognised on the trade date, and are initially measured at fair value.
+Investments in any unquoted indirect property funds are financial instruments and are classied on initial recognition as fair value through profit or loss given that their fair value can be reliably determined based on the criteria set out in IAS 39.
+Financial assets designated as fair value through profit or loss are measured at subsequent reporting dates at fair value.
+The Company measures financial instruments and non-financial assets, such as investment properties, at fair value at each balance sheet date.
+Fair values of financial instruments measured at amortised cost, if any, are disclosed in note 18.
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+Accounting standards recognise a hierarchy of fair value measurements for financial instruments which gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities Level 1 and the lowest priority to unobservable inputs Level 3.
+The classication of financial instruments depends on the lowest significant applicable input, as follows: Level 1 Unadjusted, fully accessible and current quoted prices in active markets for identical assets or liabilities.
+Examples of such instruments would be investments listed or quoted on any recognised stock exchange.
+The fair value of the interest-bearing bonds issued by the Company, as disclosed in note 13, is included in Level 1.
+Level 2 Quoted prices for similar assets or liabilities, or other directly or indirectly observable inputs which exist for the duration of the period of investment.
+Examples of such instruments would be those for which the quoted price has been suspended, forward exchange contracts and certain other derivative instruments.
+The interest rate swap entered into to hedge the interest rate on the 50 million bank loan and the forward interest rate swap are included in Level 2.
+Level 3 External inputs are unobservable.
+Value is the Directors best estimate, based on advice from relevant knowledgeable experts, use of recognised valuation techniques and on assumptions as to what inputs other market participants would apply in pricing the same or similar instrument.
+All investments in direct property, and any investments in indirect property funds, are included in Level 3. h Derivative financial instruments The Group uses derivative financial instruments to hedge its risk associated with interest rate uctuations.
+The Groups policy is not to trade in derivative instruments.
+Derivative instruments are initially recognised in the Balance Sheet at their fair value.
+Fair value is determined by a model using market values for similar instruments.
+Transaction costs are expensed immediately.
+Gains or losses arising on the fair value of cash ow hedges in the form of derivative instruments are taken directly to Other Comprehensive Income.
+Such gains and losses are taken to the Hedging Reserve.
+On maturity or early redemption the unrealised gains or losses arising from cash ow hedges in the form of derivative instruments, initially recognised in Other Comprehensive Income, are reclassied to profit or loss.
+Annual Report and Accounts 2014 43 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 44 Notes to the Accounts continued 1.
+Accounting policies continued h Derivative financial instruments continued The Group considers that its interest rate swaps qualify for hedge accounting when the following criteria are satisfied: The instruments must be related to an asset or liability: They must change the character of the interest rate by converting a variable rate to a xed rate or vice versa: They must match the principal amounts and maturity dates of the hedged items: and As cash-ow hedges the forecast transactions incurring interest payable on the bank loans that are subject to the hedges must be highly probable and must present an exposure to variations in cash ows that could ultimately affect the profit or loss.
+The effectiveness of the hedges must be capable of reliable measurement and must be assessed as highly effective on an ongoing basis throughout the financial reporting periods for which the hedges were designated.
+i Cash and cash equivalents Cash in banks and short-term deposits are carried at cost.
+Cash and cash equivalents consist of cash in hand and short-term deposits in banks with an original maturity of three months or less.
+j Trade and other receivables Trade receivables, which are generally due for settlement at the relevant quarter end, are recognised and carried at the original invoice amount less an allowance for any uncollectable amounts.
+An estimate for doubtful debts is made when collection of the full amount is no longer probable.
+Bad debts are written off when identied.
+Reverse lease premia and other capital incentives paid to tenants are recognised as a current asset and amortised over the period from the date of lease commencement to the earliest termination date.
+k Interest-bearing borrowings All non-current borrowings are initially recognised at cost, being fair value of the consideration received, net of arrangement costs associated with the borrowings.
+After initial recognition, all interest-bearing borrowings are subsequently measured at amortised cost using the effective interest method.
+Amortised cost is calculated by taking into account any loan arrangement costs and any discount or premium on settlement.
+Fees 2014 2013 000 000 a Investment management fee base management fee 4,415 3,731 performance fee 2,897 2,571 7,312 6,302 Throughout the year the Groups investment manager was F&C Investment Business Limited FCIB, a wholly-owned subsidiary of F&C Asset Management plc.
+The property management arrangements of the Group have been delegated by FCIB, with the approval of the Company, to F&C REIT Property Asset Management plc, which is also part of the F&C Asset Management plc group.
+FCIB is entitled to a base management fee of 0.50 per cent per annum of the Groups net assets and reduced to 0.25 per cent per annum on cash net of gearing in excess of 5 per cent of net assets, payable quarterly in arrears.
+The fees of any managing agents appointed by the investment managers are payable out of the management fee.
+FCIB is also entitled to a performance fee equal to 20 per cent of the amount by which the total return whether positive or negative on the directly held properties exceeds 110 per cent of the total return 90 per cent if the total return is negative on the benchmark and multiplied by the Groups average total assets excluding any indirect property holdings.
+The benchmark for measuring the comparative performance of directly held properties is the total return from the IPD Quarterly Universe.
+The performance fee payable in each financial year is capped at an amount which, when taken with the aggregate base management fee payable in each financial year, equals 0.60 per cent of the gross assets of the Group.
+Performance fees in excess of this capped return can be carried forward for up to two subsequent financial years subject to the annual 0.60 per cent cap.
+The performance fee is measured over a rolling three year period and the performance fee payable in respect of any one financial year is equal to the total performance fee earned over that three year period less any performance fees already paid in the previous two years.
+In the event that the amount already paid in the previous two years is in excess of the amount earned over the rolling three year period, such excess shall be repaid to the Group by FCIB.
+44 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 45 2.
+Fees continued The performance fee is accrued based on the relative performance of the directly held properties at the balance sheet date up to a maximum of the capped amount in any financial year.
+No recognition is made of any excess paid by the Group in the previous two years until the Groups entitlement to any repayment is certain.
+FCIB is also entitled to an administration fee which is payable quarterly in arrears.
+It received 143,000 for administration services provided in respect of the year ended 31 December 2014 2013: 140,000.
+The investment management agreement may be terminated by either party by giving not less than six months notice.
+The agreement may be terminated earlier by the Company provided that a payment in lieu of notice, equivalent to the amount FCIB would otherwise have received during the notice period, is made.
+b Valuers fees The valuers of the investment properties, CBRE Limited, have agreed to provide valuation services in respect of the property portfolio.
+The valuation agreement was for a xed term to 30 September 2014, continuing thereafter until determined, and an annual fee is payable equal to 0.01 per cent of the aggregate value of the direct property portfolio.
+Other expenses 2014 2013 000 000 Direct operating expenses of let rental property 3,711 5,209 Fees relating to continuation vote and renancing 636 Valuation and other professional fees 633 528 Directors fees 251 240 Administration fee 143 140 Auditors remuneration for: statutory audit 74 65 audit-related services 11 13 Other 395 607 5,854 6,802 An analysis of the Directors fees is provided in the Directors Emoluments for the Year table within the Directors Remuneration Report on page 30.
+Finance costs 2014 2013 000 000 Interest on the 5.23 per cent Secured Bonds due 2017 12,218 12,165 Interest on the interest-bearing bank loans 2,823 1,344 Interest in respect of the interest rate swap agreements 1,310 1,207 Interest on the L&G loan 213 Early repayment premium on the 5.23 per cent Secured Bonds due 2017 5,601 22,165 14,716 Annual Report and Accounts 2014 45 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 46 Notes to the Accounts continued 6.
+Taxation 2014 2013 000 000 Current income tax Current income tax charge 185 239 Adjustment to provision for prior years 21 39 Total tax charge 164 278 A reconciliation of the income tax charge applicable to the results at the statutory income tax rate to the charge for the year is as follows: 2014 2013 000 000 profit before taxation 174,065 92,263 UK income tax at a rate of 20 per cent 34,813 18,453 Effects of: Capital gains on investment properties not taxable 30,104 13,313 Income not taxable, including interest receivable 69 192 Expenditure not allowed for income tax purposes 4,862 3,220 Allowable intercompany loan interest paid 9,564 8,685 Losses carried forward to future years 539 858 Utilisation of losses brought forward from prior years 205 Capital allowances claimed 87 102 Adjustment to provision for prior years 21 39 Total tax charge 164 278 The Company and its subsidiaries are exempt from Guernsey taxation under the Income Tax Exempt Bodies Guernsey Ordinance, 1989.
+An annual fee of 600 per company was paid to the States of Guernsey in respect of this exemption.
+No charge to Guernsey taxation will arise on capital gains.
+The Directors intend to conduct the Groups affairs such that management and control is not exercised in the United Kingdom and so that neither the Company nor any of its subsidiaries carries on any trade in the United Kingdom.
+Accordingly, the Company and its subsidiaries will not be liable for United Kingdom taxation on their income or gains other than certain income deriving from a United Kingdom source.
+The Group had unutilised tax losses carried forward of 10,567,000 2013: 9,731,000 at 31 December 2014.
+No deferred tax asset has been recognised on this amount as it is uncertain that there will be taxable profits arising within the relevant subsidiary from which the future reversal of the deferred tax asset could be deducted.
+The Company and its subsidiaries are subject to United Kingdom income tax on income arising on the property portfolio after deduction of its allowable debt nancing costs and other allowable expenses.
+46 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 47 7.
+Dividends 2014 2014 2013 2013 Total Rate Total Rate 000 pence 000 pence In respect of the previous period: Ninth interim dividend 3,793 0.5 3,738 0.5 Tenth interim dividend 3,794 0.5 3,753 0.5 Eleventh interim dividend 3,793 0.5 3,778 0.5 Twelfth interim dividend 3,794 0.5 3,794 0.5 In respect of the period under review: First interim dividend 3,793 0.5 3,794 0.5 Second interim dividend 3,794 0.5 3,794 0.5 Third interim dividend 3,793 0.5 3,794 0.5 Fourth interim dividend 3,794 0.5 3,794 0.5 Fifth interim dividend 3,997 0.5 3,794 0.5 Sixth interim dividend 3,997 0.5 3,794 0.5 Seventh interim dividend 3,997 0.5 3,793 0.5 Eighth interim dividend 3,997 0.5 3,793 0.5 46,336 6.0 45,413 6.0 Two further interim dividends for the year to 31 December 2014, of 0.5 pence per share, were paid on 30 January and 27 February 2015 and a third was paid on 27 March 2015.
+The twelfth, and last, interim dividend in respect of the year, of 0.5p per share, will be paid on 30 April 2015 to shareholders on the register on 10 April 2015.
+Although these payments relate to the year ended 31 December 2014, under IFRS they will be accounted for in the year ending 31 December 2015, being the period during which they are paid.
+It is the Directors intention that the Company will continue to pay dividends monthly.
+Earnings per share The Groups basic and diluted earnings per Ordinary Share are based on the profit for the year of 173,901,000 2013: 91,985,000 and on 771,857,477 2013: 756,792,414 Ordinary Shares, being the weighted average number of shares in issue during the year.
+Annual Report and Accounts 2014 47 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 48 Notes to the Accounts continued 9.
+Investment properties 2014 2013 Level 3 Level 3 000 000 Freehold and leasehold properties Opening book cost 805,760 818,145 Opening unrealised appreciation 108,423 51,002 Opening fair value 914,183 869,147 Purchases development 123,737 8,523 Sales proceeds 36,000 gain on sale 9,146 Capital expenditure 7,152 5,946 Unrealised gains realised during the year 9,344 Increase in unrealised appreciation 150,521 66,765 1,195,593 914,183 Closing book cost 936,649 805,760 Closing unrealised appreciation 258,944 108,423 Closing fair value 1,195,593 914,183 There were no properties held for sale at 31 December 2014 2013: nil.
+All the Groups investment properties were valued as at 31 December 2014 by RICS Registered Valuers working for the company of CBRE Limited CBRE, commercial real estate advisors, acting in the capacity of external valuers.
+All such valuers are Chartered Surveyors, being members of the Royal Institution of Chartered Surveyors RICS.
+CBRE completed the valuation of the Groups investment properties at 31 December 2014 on a fair value basis and in accordance with The RICS Valuation Professional Standards January 2014.
+The CBRE valuation report is dated 14 January 2015 the Valuation Report.
+Fair value is the amount for which the assets could be exchanged at the date of valuation between a willing buyer and a willing seller in an arms length transaction after proper marketing and where the parties had acted knowledgeably, prudently and without compulsion.
+The fair value of these investment properties per the Valuation Report amounted to 1,212,610,000 2013: 927,940,000.
+The difference between the Valuation Report and the closing fair value of investment properties disclosed above of 1,195,593,000 2013: 914,183,000 consists of capital incentives paid to tenants totalling 5,323,000 and accrued income relating to the pre-payment for rent free periods recognised over the life of the lease totalling 11,694,000, which are both separately recorded in the accounts as current assets within trade and other receivables see note 10.
+The Valuation Report is signed by David M. Tudor, MRICS who has been the signatory of valuation reports provided to the Group for the same purpose as the Valuation Report for a continuous period since December 2011.
+CBRE has been carrying out valuations for the Group for the same purpose as the Valuation Report for the same period.
+CBRE also values properties held by other companies for which the F&C Asset Management plc group is also the investment manager.
+CBRE provides, and has provided in the past, ad hoc investment and occupational agency advice, landlord and tenant and building consultancy advice to members of the F&C Asset Management plc group.
+The proportion of total fees payable by the F&C Asset Management plc group to the total fee income of CBRE was less than 5 per cent of total UK revenues.
+The property valuer is independent and external to the Group.
+The property valuer takes account of deleterious materials included in the construction of the investment properties in arriving at its estimate of fair value, when the Managers advise the presence of such materials.
+All leasehold properties are carried at fair value rather than amortised over the term of the lease.
+The same valuation criteria are therefore applied to leasehold as freehold properties.
+All leasehold properties have more than 60 years remaining on the lease term.
+The Group has entered into leases on its property portfolio as lessor see note 20 for further information.
+All of the properties per fair value band are shown on page 20.
+There are no restrictions on the realisability of the Groups investment properties or on the remittance of income or proceeds of disposal.
+However, the Groups investments comprise UK commercial property, which may be difficult to realise as described in Liquidity Risk in note 18.
+48 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 49 9.
+Investment properties continued Other than the capital commitments disclosed in note 19, the Group is under no contractual obligations to purchase, construct or develop any investment property.
+The majority of leases are on a full repairing basis and, as such, the Group is not liable for costs in respect of repairs, maintenance or enhancements to those investment properties.
+All investment properties are categorised as Level 3 fair values as they use significant unobservable inputs.
+There have not been any transfers between Levels during the year.
+Investment properties have been classed according to their real estate sector.
+Individual tenancies within properties may fall outside these ranges.
+Annual Report and Accounts 2014 49 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 50 Notes to the Accounts continued 9.
+Investment properties continued For the majority of properties the fair value was determined by using the market comparable method.
+This means that valuations performed by CBRE are based on inputs determined from active markets, adjusted for differences in the nature, location or condition of the specic property.
+Most valuations are based on net initial yield, although equivalent yield may also be taken into consideration.
+Where properties are vacant at the date of valuation a comparable capital value per square foot is used.
+In determining the net initial yield, or capital value per square foot, the valuers may have regard to the terms of any existing lease including current rental values, lease length and covenant strength, along with assumptions regarding estimated rental values, rental growth rates, vacancy rates and void or rent free periods expected after the end of each lease.
+The highest and best use of the properties does not differ from their current use.
+Sensitivity analysis The valuations of investment properties are sensitive to changes in the assumed significant unobservable inputs.
+A significant increase decrease in estimated rental values in isolation would result in a signicantly higher lower fair value of the properties.
+A significant increase decrease in the all risks yield in isolation would result in a signicantly lower higher fair value.
+There are interrelationships between the yields and rental values as they are partially determined by market rate conditions.
+The sensitivity of the valuation to changes in the most significant inputs per class of investment property are shown below: Industrial, Estimated movement in fair value Retail Logistics of investment properties at Retail Warehouses Ofces and other Total 31 December 2014 arising from: 000 000 000 000 000 Increase in rental value by 5% 16,195 11,136 23,191 10,109 60,631 Decrease in rental value by 5% 16,195 11,136 23,191 10,109 60,631 Increase in net initial yield by 0.25% 20,062 10,634 23,763 8,068 62,527 Decrease in net initial yield by 0.25% 22,899 11,756 26,476 8,767 69,898 Industrial, Estimated movement in fair value Retail Logistics of investment properties at Retail Warehouses Ofces and other Total 31 December 2013 arising from: 000 000 000 000 000 Increase in rental value by 5% 13,749 9,600 14,818 8,230 46,397 Decrease in rental value by 5% 13,749 9,600 14,818 8,230 46,397 Increase in net initial yield by 0.25% 14,782 9,527 14,101 6,644 45,054 Decrease in net initial yield by 0.25% 16,562 10,577 15,584 7,227 49,950 10.
+Trade and other receivables 2014 2013 000 000 Capital and rental lease incentives 17,017 13,757 Cash deposits held for tenants 2,510 2,364 Cash deposits held in escrow for property purchases 5,128 Rents receivable net of provision for bad debts 1,722 926 Other debtors and prepayments 328 648 Accrued income 4 22 21,581 22,845 Rents receivable, which are generally due for settlement at the relevant quarter end, are recognised and carried at the original invoice amount less an allowance for any uncollectable amounts.
+Capital and rental lease incentives consist of 11,694,000 2013: 9,473,000 being the prepayment for rent-free periods recognised over the life of the lease and 5,323,000 2013: 4,284,000 relating to capital incentives paid to tenants.
+Cash and cash equivalents All cash balances at the year end were held in cash, current accounts or in banks on short-term deposits with an original maturity of three months or less.
+50 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 51 12.
+Trade and other payables 2014 2013 000 000 Rental income received in advance 9,812 8,164 Rental deposits 2,510 2,364 VAT payable 1,619 1,209 Managers fees payable 4,314 3,739 Income tax payable 69 353 Other payables 3,801 1,701 22,125 17,530 The Groups payment policy is to ensure settlement of supplier invoices in accordance with stated terms.
+Interest-bearing bonds 2014 2013 000 000 Principal amount outstanding 230,000 230,000 Issue costs 1,196 1,196 Amortisation of issue costs 1,196 1,007 Early repayment premium 5,601 Secured cash retained for repayment of Bonds 235,601 229,811 The Group, through F&C Commercial Property Finance Limited, had issued 230,000,000 of Secured Bonds due 2017.
+The bonds carried interest at a fixed rate of 5.23 per cent per annum and had an expected maturity date of 30 June 2015.
+If the bonds were not redeemed at this date they would have carried interest at 0.60 per cent over six-month LIBOR until the final maturity date of 30 June 2017.
+During the year to 31 December 2014, these bonds were secured by means of a fixed and floating charge over the whole of the assets of the Secured Group which comprised FCPT Holdings Limited, F&C Commercial Property Holdings Limited and F&C Commercial Property Finance Limited.
+On 10 November 2014, the Group gave an irrevocable commitment that it would redeem the Secured Bonds in full on 2 January 2015.
+On 31 December 2014, monies equal to the total redemption value of the bonds were paid into a secured bank account under control of the Bond Trustee and the security over the assets of FCPT Holdings Limited and F&C Commercial Property Holdings Limited was released.
+The monies held in this secured bank account could not be used for any purpose other than the redemption of the Secured Bonds.
+The Secured Bonds were redeemed in full, at a capital value of 235,601,000, on 2 January 2015.
+As the cash held for the repayment of the Secured Bonds, including the early repayment premium, was held in a secured account as at 31 December 2014 under the control of the Bond Trustee and could not be used for any purpose other than fulfilling the irrevocable commitment given by the Group to repay the Secured Bonds on 2 January 2015, the Group has offset the cash balance against the bond liability at 31 December 2014, as set out in the above table.
+The Group has not offset any other financial assets and financial liabilities in the Consolidated Balance Sheet.
+Under the covenants relating to the bonds the Company had to ensure that for the Secured Group during the year ended 31 December 2014: the loan to value percentage remained less than, or equal to, 50 per cent defined as financial indebtedness expressed as a percentage of gross secured asset value : the secured loan to value percentage remained less than, or equal to, 40 per cent defined as the principal amount outstanding on the bonds expressed as a percentage of gross secured asset value : the interest cover ratio was greater than 1.5 times on any calculation date: payments were not made in respect of shares unless the ratio of free cash flow to interest was greater than 2.0 times and, after deduction of an amount equal to the proposed payment, greater than 1.75 times: no single property measured by market value accounted for more than 15 per cent of the gross asset value: the sector weightings measured by market value did not exceed the following percentages of the gross asset value: All industrial: 40 per cent: All office: 50 per cent: All retail: 65 per cent: the five largest properties measured by market value did not exceed 40 per cent of the gross asset value: no single tenant exceeded 15 per cent of the total annual net rental income from the properties: the five largest tenants did not exceed 40 per cent of the total annual net rental income from the properties: and short leasehold properties measured by market value did not exceed 10 per cent of the gross asset value.
+The Secured Group complied with all the bond covenants during the year.
+The fair value of the interest-bearing bonds based on the mid-market price at 31 December 2013 was 241,247,000 and was classified as level 1 under the hierarchy of fair value measurements.
+Annual Report and Accounts 2014 51 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 52 Notes to the Accounts continued 14.
+Interest-bearing loans and interest rate swap liabilities 2014 2013 000 000 L&G loan Principal amount outstanding 260,000 Set-up costs 2,678 Amortisation of set-up costs 257,322 Bank loan Principal amount outstanding 50,000 50,000 Set-up costs 727 1,192 Amortisation of set-up costs 516 399 49,789 49,207 307,111 49,207 260 million L&G Loan 2024 As part of the restructuring of the Groups long-term financing, the Group entered into a 260 million ten year term loan facility agreement with Legal & General Pensions Limited L&G during the year.
+The transaction was conducted by L&Gs lending arm, LGIM Commercial Lending Limited.
+The loan has a maturity date of 31 December 2024.
+L&G provided committed funds on 22 December 2014 and the Group drew down the loan in full on 31 December 2014.
+The loan proceeds were used to repay the 230 million Secured Bonds due 2017 and 30 million bank loan due 2015.
+Interest is payable on this loan from the commitment date, quarterly in arrears, at a fixed rate of 3.32 per cent per annum for the duration of the loan.
+The loan is secured by means of a fixed and floating charge over the whole of the assets of the Secured Group which, at 31 December 2014, comprised FCPT Holdings Limited, F&C Commercial Property Holdings Limited and Winchester Burma Limited.
+Under the financial covenants related to this loan, the Group has to ensure that for the Secured Group: the loan to value percentage does not exceed 50 per cent: the interest cover is greater than 1.50 times on any calculation date: the sector weightings measured by market value do not exceed the following percentages of the gross secured asset value: Industrial: 40 per cent: Offices: 60 per cent: Retail: 40 per cent: Retail Warehouses: 40 per cent: Other: 25 per cent: the combined holding in London and the South East of England exceeds a minimum of 40 per cent of gross secured asset value: the combined holding in Northern Ireland, Scotland, Wales, North East of England and Yorkshire and Humberside does not exceed a maximum of 30 per cent of gross secured asset value: and the five largest tenants do not exceed 40 per cent of the aggregate net rental income from all of the secured properties.
+The Secured Group has complied with all the applicable L&G loan covenants during the year.
+The fair value of the interest-bearing L&G loan as at 31 December 2014, based on the yield on the Treasury 5% 2025 which would be used as the basis for calculating the early repayment of such loan plus the appropriate margin would be 271,746,000.
+50 million bank loan 2017 The Group has a 50 million facility with Barclays Bank plc Barclays which remained fully drawn throughout the year.
+The loan facility is repayable on 28 June 2017.
+Interest accrues on the bank loan at a variable rate, based on 3 month LIBOR plus margin and mandatory lending costs, and is payable quarterly.
+The margin is 1.95 per cent per annum for the duration of the loan.
+52 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 53 14.
+Bank loans and interest rate swap liabilities continued This bank loan is secured by way of a fixed and floating charge over the whole of the assets of SCP Estate Holdings Limited and SCP Estate Limited the SCP Group, whose assets consist mainly of the properties held at St. Christophers Place Estate, London W1.
+In addition, the SCP Group has granted security to Barclays pursuant to Guernsey security interest agreements over bank accounts and shares.
+Under the bank covenants related to this loan, the Company is to ensure that for the SCP Group: the loan to value percentage does not exceed 60 per cent: and the interest cover is greater than 1.4 times on any calculation date.
+The SCP Group has complied with all the bank loan covenants during the year.
+Interest rate exposure has been hedged by the purchase of an interest rate swap contract.
+The hedge has been achieved by matching the notional amount of the swap with the loan principal and matching the swap term to the loan term.
+Interest on the swap is receivable at a variable rate calculated on the same LIBOR basis as for the bank loan as detailed above but excluding the margin and payable quarterly at a fixed rate of 2.9265 per cent per annum.
+The interest rate swap is due to expire on 28 June 2017.
+The fair value of the liability in respect of the interest rate swap contract at 31 December 2014 was 2,455,000 2013: 2,378,000, which is based on the marked to market value.
+The interest rate swap is classified as Level 2 under the hierarchy of fair value measurements.
+30 million bank loan 2015 On 31 July 2012 the Group entered into a 30 million committed facility with Barclays which had a final maturity date of 30 June 2015.
+This facility was drawn down in full on 20 March 2014 in order to partially finance the purchase of Blocks 1 and 2, Prime Four Business Park, Kingswells, Aberdeen.
+As part of the restructuring of the long-term financing of the Group this loan was repaid in full and the facility cancelled on 31 December 2014.
+There were no early repayment charges arising on repayment.
+For the period it remained undrawn, a commitment fee of 1.35 per cent per annum was payable on this facility.
+Once drawn interest was payable quarterly in arrears on the bank loan at a variable rate, based on 3 month LIBOR plus margin and mandatory lending costs.
+The margin was 2.70 per cent per annum for the duration of the drawn loan.
+The bank loan was secured by way of a fixed and floating charge over the properties held at St. Christophers Place Estate, London W1 and the whole of the assets of Prime Four Limited.
+Under the bank covenants related to this loan, for the period during which the loan was drawn down, the Group had to ensure that for Prime Four Limited: the loan to value percentage did not exceed 60 per cent: and the interest cover was greater than 2.75 times on any calculation date.
+Interest rate exposure was hedged by the purchase of a forward interest rate swap contract which had a commencement date, at the Groups discretion, at any point during the starting window of 22 October 2013 and 31 July 2014.
+The hedge was achieved by matching the notional amount of the swap with the loan principal and matching the swap term to the loan term.
+Due to the level of prevailing market interest rates, the Group chose to commence the interest rate swap at the end of the starting window.
+From commencement on 31 July 2014, interest on the swap was receivable at a variable rate calculated on the same LIBOR basis as for the bank loan as detailed above but excluding the margin and payable quarterly at a fixed rate of 1.005 per cent per annum.
+The interest rate swap was closed on 17 December 2014 and therefore there was no liability remaining to be recognised at 31 December 2014.
+At 31 December 2013, the fair value of the liability in respect of the forward interest rate swap contract was 25,000 based on the marked to market value.
+The forward interest rate swap was classified as Level 2 under the hierarchy of fair value measurements.
+Share capital and reserves 000 Allotted, called-up and fully paid 758,715,702 Ordinary Shares of 1p each in issue at 31 December 2013 7,587 Issue of 40,650,406 Ordinary Shares of 1p each 407 799,366,108 Ordinary Shares of 1p each in issue at 31 December 2014 7,994 Annual Report and Accounts 2014 53 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 54 Notes to the Accounts continued 15.
+Share capital and reserves continued Share capital Under the Companys Articles of Incorporation, the Company may issue an unlimited number of Ordinary Shares.
+The Company did not repurchase any Ordinary Shares during the year.
+Subject to the solvency test contained in the Companies Guernsey Law, 2008 being satisfied, ordinary shareholders are entitled to all dividends declared by the Company and to all of the Companys assets after repayment of its borrowings and ordinary creditors.
+Ordinary shareholders have the right to vote at meetings of the Company.
+All Ordinary Shares carry equal voting rights.
+At 31 December 2014, the Company did not hold any Ordinary Shares in treasury 2013: nil.
+Share premium The surplus of net proceeds received from the issue of new shares over the par value of such shares is credited to this account.
+Reverse acquisition reserve Created as a result of the Group reconstruction in July 2009 to reect the difference arising between the total of the issued share capital including the Capital Redemption Reserve immediately before and after the reconstruction.
+Special reserve The Special Reserve was created by the cancellation of FCPT Holdings Limiteds Share Premium Account by the Royal Court of Guernsey in July 2005 and a subsequent smaller cancellation in March 2008.
+In addition, approval of the Royal Court of Guernsey was received in March 2008 to reduce the nominal value of the Ordinary Shares from 90p to 1p, resulting in an amount of 679.6 million being transferred from Share Capital to the Special Reserve.
+It is a distributable reserve to be used for all purposes permitted under Guernsey law, including the buy back of shares and the payment of dividends.
+The costs of the Group reconstruction during 2009 which related directly to the issue of new Ordinary Shares were charged to the Special Reserve.
+Capital reserve investments sold The following are accounted for in this reserve: gains and losses on the disposal of investments and investment properties, including the transfer of any unrealised gains or losses now realised which were previously recognised through Capital Reserve Investments Held: and the buy back of shares up to the balance on this reserve, thereafter any buy back of shares is charged to the Special Reserve.
+Capital reserve investments held The following are accounted for in this reserve: increases and decreases in the fair value of investment properties held at the year end: and increases and decreases in the fair value of any investments in indirect property funds held at the year end.
+Hedging reserve Movements relating to the interest rate swap arrangements accounted for as a cash ow hedge are recognised in this reserve.
+Revenue reserve Any surplus arising from the profit after taxation after payment of dividends is taken to this reserve, with any deficit up to the level of the Special Reserve being transferred from that reserve.
+Capital management The Groups capital is represented by the Ordinary Shares, Share Premium, Reverse Acquisition Reserve, Special Reserve, Capital Reserve-Investments Sold, Capital Reserve-Investments Held, Hedging Reserve and Revenue Reserve.
+The Group is not subject to any externally-imposed capital requirements.
+The capital of the Group is managed in accordance with its investment policy, in pursuit of its investment objective.
+Capital management activities may include the allotment of new shares, the buyback or re-issuance of shares from treasury, the management of the Groups discount to net asset value and consideration of the Groups net gearing level.
+54 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 55 16.
+Net asset value per share The Groups net asset value per Ordinary Share of 122.1p 2013: 105.3p is based on equity shareholders funds of 975,980,000 2013: 799,014,000 and on 799,366,108 2013: 758,715,702 Ordinary Shares, being the number of shares in issue at the year end.
+Related party transactions The Directors are considered to be the Groups key management personnel.
+No Director has an interest in any transactions which are, or were, unusual in their nature or significant to the nature of the Group.
+The Directors of the Company received fees for their services.
+Further details are provided in the Directors Emoluments for the Year table in the Directors Remuneration Report on page 30.
+No fees remained payable at the year end.
+Financial instruments The Companys investment objective is to provide ordinary shareholders with an attractive level of income together with the potential for capital and income growth from investing in a diversied UK commercial property portfolio.
+Consistent with that objective, the Group holds UK commercial property investments.
+In addition, the Groups financial instruments during the year comprised interest-bearing bonds, interest-bearing loans, cash and receivables and payables that arise directly from its operations.
+The Group does not have exposure to any derivative instruments other than the interest rate swaps entered into to hedge the interest paid on the Barclays interest-bearing bank loans.
+The Group is exposed to various types of risk that are associated with financial instruments.
+The most important types are credit risk, liquidity risk, interest rate risk and market price risk.
+There is no foreign currency risk as all assets and liabilities of the Group are maintained in pounds sterling.
+The Board reviews and agrees policies for managing the Groups risk exposure.
+These policies are summarised below and have remained unchanged for the year under review.
+These disclosures include, where appropriate, consideration of the Groups investment properties which, whilst not constituting financial instruments as dened by IFRS, are considered by the Board to be integral to the Groups overall risk exposure.
+As at 31 December 2014, the Group had placed monies in a secured bank account sufficient to fully cover the redemption value of the Secured Bonds Due 2017 see note 13.
+Whilst the Secured Bonds were not fully redeemed until 2 January 2015, the redemption value was known with certainty as at 31 December 2014, an irrevocable commitment to repay the Secured Bonds had been given and the redemption value was fully covered by a cash balance held in an account under full control of the Bond Trustee and could be used for no other purpose than redemption of the Secured Bonds.
+The Secured Bonds, and the related cash balance, therefore, did not represent a credit, liquidity, interest rate or market price risk as at 31 December 2014 and have been offset and thereby excluded from the following risk disclosures.
+Credit risk Credit risk is the risk that an issuer or counterparty will be unable or unwilling to meet a commitment that it has entered into with the Group.
+In the event of default by an occupational tenant, the Group will suffer a rental shortfall and incur additional costs, including legal expenses, in maintaining, insuring and re-letting the property.
+The Board receives regular reports on concentrations of risk and any tenants in arrears.
+The Managers monitor such reports in order to anticipate, and minimise the impact of, defaults by occupational tenants.
+The Group has a diversied tenant portfolio.
+The maximum credit risk from the rent receivables of the Group at 31 December 2014 was 1,722,000 2013: 926,000.
+The maximum credit risk is stated after deducting a bad debt provision of 204,000 2013: 577,000.
+As at 31 December 2014, rent receivable of 204,000 that was greater than three months overdue was fully provided for.
+As at 31 December 2013 the provision was 577,000.
+Of this amount 396,000 was subsequently written off, 90,000 is still outstanding and 91,000 was recovered.
+Apart from the rent receivable disclosed above there were no financial assets which were either past due or considered impaired at 31 December 2014 2013: nil.
+All of the Groups cash is placed with financial institutions with a long-term credit rating of A or better.
+Bankruptcy or insolvency of such financial institutions may cause the Groups ability to access cash placed on deposit to be delayed or limited.
+Should the credit quality or the financial position of the banks currently employed signicantly deteriorate, cash holdings would be moved to another bank.
+Annual Report and Accounts 2014 55 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 56 Notes to the Accounts continued 18.
+Financial instruments continued During the year and the prior year, due to the quantum of cash balances held, counterparty risk was spread by placing cash across a number of different financial institutions.
+Liquidity risk Liquidity risk is the risk that the Group will encounter in realising assets or otherwise raising funds to meet financial commitments.
+The Groups investments comprise UK commercial property.
+Property and property-related assets in which the Group invests are not traded in an organised public market and may be illiquid.
+As a result, the Group may not be able to liquidate quickly its investments in these properties at an amount close to their fair value in order to meet its liquidity requirements.
+The Groups liquidity risk is managed on an ongoing basis by the Managers and monitored on a quarterly basis by the Board.
+In order to mitigate liquidity risk the Group aims to have sufficient cash balances including the expected proceeds of any property sales to meet its obligations for a period of at least twelve months.
+At the reporting date, the Groups financial assets and financial liabilities were on a contractual maturity basis : Within More than one year 12 years 35 years 5 years Total Financial assets 000 000 000 000 000 As at 31 December 2014 Cash and cash equivalents 90,497 90,497 Cash deposits held for tenants 2,510 2,510 Rents receivable 1,722 1,722 As at 31 December 2013 Cash and cash equivalents 160,937 160,937 Cash deposits held for tenants 2,364 2,364 Rents receivable 926 926 Within More than one year 12 years 35 years 5 years Total Financial liabilities 000 000 000 000 000 As at 31 December 2014 Trade and other payables 22,125 22,125 Interest-bearing bonds 67 67 Interest-bearing 50m bank loan and interest rate swap 2,438 53,658 56,096 Interest-bearing 260m L&G loan 8,845 8,632 25,896 303,160 346,533 As at 31 December 2013 Trade and other payables 17,530 17,530 Interest-bearing bonds 12,029 236,015 248,044 Interest-bearing 50m bank loan and interest rate swap 2,438 2,438 53,658 58,534 Interest-bearing 30m bank facility and forward interest rate swap 469 278 747 The table above details the total payment due to Barclays, combining the interest-bearing 50 million bank loan and related interest rate swap, as this total amount is known with certainty.
+The exact amount attributable to each of the interest-bearing 50 million bank loan and the related interest rate swap will vary depending on the rate of 3 month LIBOR over the instruments duration.
+The terms of both the interest-bearing bank loan and the interest rate swap are detailed in note 14.
+In certain circumstances, the terms of the Groups interest-bearing loans entitle the lender to require early repayment and, in such circumstances, the Groups ability to maintain dividend levels and the net asset value attributable to the Ordinary Shares could be adversely affected.
+In the prior year, the total amount due to Barclays under the interest-bearing 30 million bank facility, which was undrawn at 31 December 2013, and the related forward interest rate swap, included both the commitment fee payable under the facility and the expected payments due under the swap, commencing on the forward starting date, based on the rate of 3 month LIBOR as at 31 December 2013.
+This assumed the facility remained undrawn for the full period until expiry on 30 June 2015.
+The 30 million bank facility was drawn and then repaid prior to 31 December 2014.
+56 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 57 18.
+Financial instruments continued Interest rate risk Some of the Groups financial instruments are interest-bearing.
+They are a mix of both xed and variable rate instruments with differing maturities.
+As a consequence, the Group is exposed to interest rate risk due to uctuations in the prevailing market rate.
+The Groups exposure to interest rate risk relates primarily to its long-term debt obligations.
+Interest rate risk on long-term debt obligations is managed by xing the interest rate on such borrowings, either directly or through interest rate swaps for the same notional value and duration.
+Long-term debt obligations and the interest rate risk they confer to the Group is considered by the Board on a quarterly basis.
+Long-term debt obligations consist of a 260 million L&G loan on which the rate has been xed at 3.32 per cent until the maturity date of 31 December 2024.
+The Group also has a 50 million interest-bearing bank loan on which the rate has been xed through an interest rate swap at 4.88 per cent per annum until the maturity date of 28 June 2017.
+The following table sets out the carrying amount of the Groups financial instruments that are exposed to interest rate risk: Assets Weighted liabilities Weighted average where no average period for Fixed Variable interest is interest which rate Total rate rate received rate is xed Type 000 000 000 000 % years As at 31 December 2014 Financial assets Cash and cash equivalents 90,497 5,655 84,842 0.33 0.7 Cash deposits held for tenants 2,510 2,510 Rents receivable 1,722 1,722 Financial liabilities L&G loan 257,322 257,322 3.46 10.0 Bank loan and interest rate swap 52,244 52,244 4.88 2.5 As at 31 December 2013 Financial assets Cash and cash equivalents 160,937 5,616 155,321 0.38 0.8 Cash deposits held for tenants 2,364 2,364 Rents receivable 926 926 Financial liabilities 5.23 per cent Secured Bonds due 2017 229,811 229,811 5.29 1.5 Bank loan and interest rate swaps 51,610 51,585 25 4.88 3.5 Apart from the L&G loan as at 31 December 2014 as disclosed in note 14, and the Secured Bonds as at 31 December 2013 as disclosed in note 13, the fair value of financial assets and liabilities is not materially different from their carrying value in the financial statements.
+Considering the effect on the L&G loan at 31 December 2014, it is estimated that an increase of 150 basis points in interest rates would have decreased its fair value by approximately 31,591,000, and a decrease of 150 basis points would have increased its fair value by approximately 36,802,000.
+Considering the effect on the Secured Bonds at 31 December 2013, it is estimated that an increase of 150 basis points in interest rates would have decreased their fair value by 5,102,000, and a decrease of 150 basis points would have increased their fair value by approximately 5,291,000.
+The carrying value of the L&G loan Secured Bonds in the financial statements would have remained unchanged.
+Considering the effect on the 50 million bank loan and related interest rate swap combined, it is estimated that an increase of 150 basis points in interest rates as at the balance sheet date would have decreased their fair value by approximately 1,781,000 2013: 2,403,000, and a decrease of 150 basis points would have increased their fair value by approximately 1,873,000 2013: 2,562,000.
+The carrying value of the interest rate swap liability in the financial statements would have been adjusted by these amounts, thereby increasing decreasing net assets and income for the year.
+Annual Report and Accounts 2014 57 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 58 Notes to the Accounts continued 18.
+Financial instruments continued As at 31 December 2013, considering the effect on the forward interest rate swap, it is estimated that an increase of 150 basis points in interest rates as at the balance sheet date would have decreased its fair value by 400,000, and a decrease of 150 basis points would have increased its fair value by approximately 415,000.
+The carrying value of the forward interest rate swap liability in the financial statements would have been adjusted by these amounts, thereby increasing decreasing net assets and income for the year.
+The forward interest rate swap was exercised and then terminated prior to 31 December 2014.
+When the Group retains cash balances, they are ordinarily held on interest-bearing deposit accounts.
+The benchmark which determines the interest income received on interest-bearing cash balances is the bank base rate which was 0.5 per cent as at 31 December 2014 2013: 0.5 per cent.
+The Companys policy is to hold cash in variable rate or short-term xed rate bank accounts and not usually in xed rate securities with a term greater than three months.
+Considering the effect on cash balances, an increase of 150 basis points in interest rates would have increased net assets and income for the year by 1,357,000 2013: 2,414,000.
+A decrease of 150 basis points would have had an equal but opposite effect.
+The calculations are based on the cash balances at the respective balance sheet dates.
+Market price risk The Groups strategy for the management of market price risk is driven by the investment policy as outlined within the Business Model and Strategy on page 8.
+The management of market price risk is part of the investment management process and is typical of commercial property investment.
+The portfolio is managed with an awareness of the effects of adverse valuation movements through detailed and continuing analysis, with an objective of maximising overall returns to shareholders.
+Investments in property and property-related assets are inherently difficult to value due to the individual nature of each property.
+As a result, valuations are subject to substantial uncertainty.
+There is no assurance that the estimates resulting from the valuation process will reect the actual sales price even where such sales occur shortly after the valuation date.
+Such risk is minimised through the appointment of external property valuers.
+The basis of valuation of the property portfolio is set out in detail in the accounting policies and note 9.
+Any changes in market conditions will directly affect the profit or loss reported through the Consolidated Statement of Comprehensive Income.
+Details of the Groups investment property portfolio held at the balance sheet date are disclosed on page 20.
+A 15 per cent increase in the fair value of the direct properties at 31 December 2014 would have increased net assets and income for the year by 179,339,000 2013: 137,127,000.
+A decrease of 15 per cent would have had an equal but opposite effect.
+The calculations above are based on the investment property valuations at the respective balance sheet dates and are not representative of the year as a whole.
+Capital commitments The Group had capital commitments totalling 1,719,000 as at 31 December 2014 2013: 17,901,000.
+These commitments related mainly to contracted development works at the Groups properties at St. Christophers Place Estate, London W1.
+Lease length The Group leases out its investment properties under operating leases.
+The total future income based on the unexpired lessor lease length at the year end was as follows based on annual rentals : 2014 2013 000 000 Less than one year 57,976 51,025 Between two and five years 185,822 149,456 Over five years 215,676 159,340 Total 459,474 359,821 The largest single tenant at the year end accounted for 5.2 per cent 2013: 6.0 per cent of the current annual rental income.
+Unoccupied property expressed as a percentage of estimated total rental value excluding properties under development was 4.5 per cent 2013: 6.0 per cent at the year end.
+The Group has entered into commercial property leases on its investment property portfolio.
+These properties, held under operating leases, are measured under the fair value model as the properties are held to earn rentals.
+The majority of these non-cancellable leases have remaining non-cancellable lease terms of more than five years.
+58 F&C Commercial Property Trust Limited 120513 CPropTxt PRINT 120513 CPropTxt V12 14 04 2015 09:51 Page 59 21.
+Operating segments The Board has considered the requirements of IFRS 8 Operating Segments.
+The Board is of the view that the Group is engaged in a single segment of business, being property investment, and in one geographical area, the United Kingdom, and that therefore the Group has only a single operating segment.
+The Board of Directors, as a whole, has been identied as constituting the chief operating decision maker of the Group.
+The key measure of performance used by the Board to assess the Groups performance is the total return on the Groups net asset value.
+As the total return on the Groups net asset value is calculated based on the net asset value per share calculated under IFRS as shown at the foot of the Balance Sheet, assuming dividends are re-invested, the key performance measure is that prepared under IFRS.
+Therefore no reconciliation is required between the measure of profit or loss used by the Board and that contained in the financial statements.
+The view that the Group is engaged in a single segment of business is based on the following considerations: one of the key financial indicators received and reviewed by the Board is the total return from the property portfolio taken as a whole.
+there is no active allocation of resources to particular types or groups of properties in order to try to match the asset allocation of the benchmark.
+the management of the portfolio is delegated to a single property manager, F&C REIT.
+Alternative Investment Fund Managers AIFM Directive In accordance with the AIFM Directive, information in relation to the Groups leverage and the remuneration of the Companys AIFM, F&C Investment Business Limited, is required to be made available to investors.
+In accordance with the Directive, the AIFMs remuneration policy is available from F&C Investment Business Limited on request and the numerical remuneration disclosures in relation to the AIFMs first relevant accounting period will be made available in due course.
+The Groups maximum and average actual leverage levels at 31 December 2014 are shown below: Gross Commitment Leverage exposure method method Maximum limit 300% 300% Actual 128% 137% For the purposes of the AIFM Directive, leverage is any method which increases the Groups exposure, including the borrowing of cash and the use of derivatives.
+It is expressed as a percentage of the Groups exposure to its net asset value and is calculated on both a gross and commitment method.
+Under the gross method, exposure represents the sum of the Groups positions after deduction of cash balances, without taking account of any hedging or netting arrangements.
+Under the commitment method, exposure is calculated without the deduction of cash balances and after certain hedging and netting positions are offset against each other.
+The leverage limits are set by the AIFM and approved by the Board and are in line with the maximum leverage levels permitted in the Companys Articles of Incorporation.
+The AIFM is also required to comply with the gearing parameters set by the Board in relation to borrowings.
+Detailed regulatory disclosures to investors in accordance with the AIFM Directive are contained on the Companys website under Key Documents.

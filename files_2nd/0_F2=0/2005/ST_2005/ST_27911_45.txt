@@ -1,0 +1,11 @@
+CREDITORS_NNS THE_DT GROUP_NNP THE_DT COMPANY_NNP 2005 2004 2005 2004_CD m_FW m_FW m_FW m_FW Amounts_NNPS falling_VBG due_JJ within_IN one_CD year_NN Bank_NNP loans_NNS and_CC overdrafts_NNS 0.5_CD 1.2_CD -_: ._.
+0_CD Amounts_NNS owed_VBN to_TO Group_NNP companies_NNS -_: ._.
+0_CD A_DT maturity_NN analysis_NN of_IN the_DT above_JJ borrowings_NNS and_CC further_JJ details_NNS of_IN asset_NN backed_VBD loan_NN notes_NNS and_CC bank_NN loans_NNS are_VBP given_VBN in_IN note_NN 29_CD ._.
+FINANCIAL_NNP INSTRUMENTS_NNPS The_DT Groups_NNS operations_NNS are_VBP financed_VBN principally_RB by_IN floating_VBG rate_NN ,_, asset_NN backed_VBD loan_NN notes_NNS and_CC ,_, to_TO a_DT lesser_JJR extent_NN ,_, by_IN a_DT mixture_NN of_IN share_NN capital_NN ,_, retained_VBN earnings_NNS ,_, corporate_JJ debt_NN and_CC bank_NN borrowings_NNS ._.
+The_DT Group_NNP issues_NNS financial_JJ instruments_NNS to_TO finance_VB its_PRP$ lending_NN operations_NNS and_CC uses_VBZ derivative_JJ financial_JJ instruments_NNS to_TO hedge_VB interest_NN rate_NN risk_NN arising_VBG from_IN fixed_VBN rate_NN lending_NN or_CC borrowing_NN ._.
+In_IN addition_NN ,_, various_JJ financial_JJ instruments_NNS ,_, for_IN example_NN debtors_NNS ,_, prepayments_NNS and_CC accruals_NNS ,_, arise_VB directly_RB from_IN the_DT Groups_NNS operations_NNS ._.
+It_PRP is_VBZ ,_, and_CC has_VBZ been_VBN throughout_IN the_DT year_NN under_IN review_NN ,_, the_DT Groups_NNS policy_NN that_IN no_DT trading_NN in_IN financial_JJ instruments_NNS shall_MD be_VB undertaken_VBN ._.
+The_DT principal_JJ risks_NNS arising_VBG from_IN the_DT Groups_NNS financial_JJ instruments_NNS are_VBP credit_NN risk_NN ,_, liquidity_NN risk_NN and_CC interest_NN rate_NN risk_NN ._.
+The_DT Board_NNP operates_VBZ through_IN the_DT Asset_NNP and_CC Liability_NNP Committee_NNP to_TO review_VB and_CC agree_VB policies_NNS for_IN managing_VBG each_DT of_IN these_DT risks_NNS and_CC they_PRP are_VBP summarised_VBN below_IN ._.
+These_DT policies_NNS have_VBP remained_VBN unchanged_JJ throughout_IN the_DT year_NN and_CC since_IN the_DT year_NN end_NN and_CC the_DT position_NN disclosed_VBD below_IN is_VBZ materially_RB similar_JJ to_TO that_DT existing_VBG throughout_IN the_DT year_NN ._.
+The_DT Paragon_NNP Group_NNP of_IN Companies_NNPS PLC_NNP 61_CD

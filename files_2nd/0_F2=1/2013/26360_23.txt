@@ -1,0 +1,41 @@
+The Groups approach to risk 124 Lloyds Banking Group Lloyds Banking Group Emerging risks 126 126 127 Annual Report and Accounts 2013 Annual Report and Accounts 2013 Stress testing 127 Risk governance 129 Full analysis of risk drivers 133 1 44 69 197 377 Stress testing Overview Stress testing is recognised as an essential risk management tool within the Group by the Board, senior management, the businesses and the risk and finance functions.
+Stress testing is embedded in the planning process of the Group and is applied to the base case plan.
+This allows senior management and Board to assess the base case plan in adverse circumstances and to adjust strategies propose mitigating actions if the plan does not meet risk appetite in a stressed scenario.
+A rigorous review and challenge process ensures that senior management are actively involved in stress testing.
+The Group uses scenario stress testing to: Provide an assessment of strategic plans against Board Risk Appetite, alongside a comparison of portfolio performance in adverse circumstances against risk appetite limits, to ensure the Group is managed within risk appetite.
+Drive the development of potential actions and contingency plans to mitigate the impacts of adverse scenarios.
+Stress testing also links directly to the Groups recovery planning process.
+Support the Internal Capital Adequacy Assessment Process ICAAP and setting of Individual Capital Guidance ICG.
+Meet the standards required and information needs of internal and external stakeholders, including regulators.
+At least on an annual basis, the Group conducts a detailed macroeconomic stress testing exercise based on the five-year operating plan, which is supplemented with higher-level refreshes of the stress testing exercise when necessary.
+The exercise aims to highlight the key vulnerabilities of the Group to adverse changes in the economic environment and to ensure that there are adequate financial resources in the event of a downturn.
+The exercise includes a range of economic scenarios, including the PRA Anchor Scenarios these are the PRAs published supervisory recommended scenarios for the uK, details of which are publicly available on the Bank of englands website.
+Ad hoc stress testing exercises are also undertaken to assess emerging risks, as well as in response to regulatory requirements.
+The Group also takes part in regular external, industry-wide stress testing exercises, such as those run by the european Banking Authority and will take part in the forthcoming uK-wide Bank of england stress testing exercise.
+In addition to the running of macroeconomic scenarios, the Groups stress testing programme involves undertaking assessment of operational risk scenarios, liquidity scenarios, financial market disruption scenarios, market risk sensitivities, reverse stress testing and business specific scenarios see relevant risk section for further information on risk specific level stress testing.
+This provides a comprehensive view of the potential impacts arising from the risks to which the Group is exposed and reflects the nature, scale and complexity of the Group.
+Methodology The Chief economists Office develops the macroeconomic scenarios to be used by the Group.
+Internal scenarios are developed based on key uncertainties for the economic outlook.
+A wide set of economic parameter assumptions is constructed, with over 150 metrics provided such as Gross Domestic Product, Base Rate, unemployment, Property Indices, Insolvencies, Corporate Failures to facilitate modelling of scenarios across the Group.
+Where an external scenario is provided, the Chief economists Office broadens the supplied parameter to the level of detail required by the Group.
+The stress tests at all levels must comply with all legal and regulatory requirements, and are put through a rigorous review and challenge process.
+This is supported by analysis and insight into impacts on customers and business drivers.
+The engagement of all required risk and control areas is built into the preparation process, so that the appropriate analysis of each risk drivers impact upon the business plans are understood and documented.
+The methodologies and modelling approach used for stress testing ensures that a clear link is shown between the macro-economic scenarios, the business drivers for each area and the resultant stress testing outputs.
+All material assumptions used in modelling are documented and justified, with a clearly communicated review and sign off process.
+Modelling is supported by expert judgement is subject to the Group Risk Model Governance Policy.
+Below is an overview of the principal output responsibilities by team.
+Finance teams in the business prepare and review finance related stress testing results including, but not limited to, income, margins, costs, lending and deposit volumes.
+Credit Risk and Market Risk teams prepare and review risk-related stress outputs, including, but not limited to, impairment charges, risk-weighted assets, expected loss, probability of default, loss given default and trading losses.
+The Central Group Stress testing team which sits in Risk Division reviews the finance and risk stress submissions and produces a consolidated Group view of the results, including analysis packs for the Groups senior committees.
+The Group Capital and Regulatory Reporting team, supported by Group Corporate Treasury, reviews all capital related stress outputs, including the calculation of indicative capital ratios.
+The Group Corporate Treasury team also reviews the stress outputs from divisions and evaluates the impact upon the Groups Capital and Funding Plan.
+Reverse stress testing Reverse stress testing is used to explore the vulnerabilities of the Groups strategies and plans to extreme adverse events, and to help improve contingency planning.
+The scenarios used in such a stress test are those that would cause a failure in the business model.
+Where reverse stress testing reveals plausible scenarios with an unacceptably high risk when considered against the Groups risk appetite, the Group will undertake measures to prevent or mitigate that risk, which are then reflected in strategic plans.
+Strategic report Financial results Governance Risk management Financial statements Other information Lloyds Banking Group Lloyds Banking Group 128 129 Annual Report and Accounts 2013 Annual Report and Accounts 2013 RISK MAnAGeMenT Governance Clear accountabilities and responsibilities for stress testing are assigned to senior management and the risk and finance functions throughout the Group.
+This is formalised through the Business Planning and Stress Testing Policy and Procedure, which are reviewed at least annually.
+The Group Financial Risk Committee GFRC, chaired by the Chief Risk Officer, is the Committee that has primary responsibility for overseeing the development and execution of the Groups stress tests.
+The main economic assumptions developed by the Chief economists Office are reviewed and challenged at Group Risk Committee GRC, Group executive Committee GeC and Board Risk Committee BRC, and approved by the Board before being cascaded across the Group.
+The stress test outputs go through a rigorous review and challenge process at divisional level, including sign-off by the divisional Finance Directors and Risk Directors.
+The outputs are then presented to GFRC, GRC and BRC for review and challenge, before being approved by the Board.

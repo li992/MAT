@@ -1,0 +1,62 @@
+83_CD BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP REPORT_NNP AND_CC ACCOUNTS_NNS FOR_IN THE_DT PERIOD_NN ENDED_VBD 31_CD MARCH_NNP 2005_CD GLOSSARY_NNP ADRs_NNPS FGD_NNP FLUE_NNP GAS_NNP DESULPHURISATION_NNP American_NNP depositary_NN receipts_NNS ._.
+Equipment_NNP fitted_VBD to_TO coal-fired_JJ power_NN stations_NNS to_TO reduce_VB sulphur_NN dioxide_NN emissions_NNS ._.
+AGR_NNP ADVANCED_VBD GAS-COOLED_JJ REACTOR_NN GW_NN GIGAWATT_NNP :_: GWH_NNP GIGAWATT-HOUR_NNP The_NNP second_JJ generation_NN of_IN gas-cooled_JJ nuclear_JJ reactor_NN built_VBN in_IN the_DT UK_NNP ._.
+One_CD gigawatt_NN equals_VBZ 1,000_CD MW_NNP :_: one_CD gigawatt-hour_NN represents_VBZ one_CD hour_NN of_IN electricity_NN consumed_VBN at_IN a_DT constant_JJ rate_NN of_IN 1_CD GW_NNP ._.
+AMERGEN_NNP AmerGen_NNP Energy_NNP Company_NNP LLC_NNP ._.
+Our_PRP$ former_JJ 50_CD 50_CD joint_JJ venture_NN with_IN Exelon_NNP ._.
+INES_NNP International_NNP Nuclear_NNP Event_NNP Scale_NNP ._.
+The_DT standard_JJ scale_NN measuring_VBG the_DT significance_NN BEDL_NNP of_IN nuclear_JJ safety_NN events_NNS ._.
+KW_NNP KILOWATT_NNP :_: KWH_NNP KILOWATT-HOUR_NNP BETTA_NNP A_NNP kilowatt_NN is_VBZ a_DT unit_NN of_IN power_NN ,_, representing_VBG the_DT rate_NN at_IN which_WDT energy_NN is_VBZ used_VBN or_CC British_JJ Electricity_NNP Transmission_NNP and_CC Trading_NNP Arrangements_NNP ._.
+produced_VBN :_: one_CD kilowatt-hour_NN is_VBZ a_DT unit_NN of_IN energy_NN and_CC represents_VBZ one_CD hour_NN of_IN electricity_NN consumption_NN at_IN a_DT constant_JJ rate_NN of_IN 1_CD kW_NN ._.
+BASELOAD_NNP GENERATION_NNP Mode_NNP of_IN operation_NN of_IN a_DT power_NN station_NN at_IN a_DT constant_JJ high_JJ level_NN of_IN output_NN for_IN a_DT LCPD_NNP sustained_VBD period_NN of_IN time_NN to_TO assist_VB in_IN meeting_NN minimum_JJ national_JJ demand_NN ._.
+BNFL_NNP LLW_NNP ,_, ILW_NNP ,_, HLW_NNP LOW_RB ,_, INTERMEDIATE_NNP ,_, HIGH_NNP LEVEL_NNP WASTE_NNP British_NNP Nuclear_NNP Fuels_NNP plc._NN ._.
+Radioactive_JJ waste_NN is_VBZ classified_VBN as_RB low_JJ ,_, intermediate_JJ or_CC high_JJ level_NN waste_NN according_VBG to_TO its_PRP$ heat_NN generating_VBG capacity_NN and_CC radioactivity_NN ._.
+LLW_NNP comprises_VBZ slightly_RB radioactive_JJ BNG_NNP materials_NNS ,_, such_JJ as_IN discarded_VBN protective_JJ clothing_NN and_CC used_VBD wrapped_VBN materials_NNS ._.
+ILW_NNP comprises_VBZ more_RBR radioactive_JJ materials_NNS ,_, including_VBG sludges_NNS and_CC resins_NNS from_IN the_DT cleaning_NN of_IN fuel_NN storage_NN pond_NN water_NN ,_, fuel_NN cladding_NN and_CC other_JJ materials_NNS arising_VBG from_IN BRUCE_NNP the_DT reprocessing_NN of_IN spent_VBN fuel_NN ,_, and_CC some_DT radioactive_JJ components_NNS arising_VBG from_IN the_DT The_DT Bruce_NNP A_NNP and_CC B_NNP nuclear_JJ power_NN stations_NNS in_IN Ontario_NNP ,_, Canada_NNP ._.
+HLW_NNP comprises_VBZ nuclear_JJ waste_NN products_NNS separated_VBD out_RP from_IN uranium_NN and_CC plutonium_NN during_IN the_DT reprocessing_NN of_IN spent_VBN nuclear_JJ fuel_NN ._.
+CASH_NN RESERVE_NN Under_IN the_DT terms_NNS of_IN the_DT Restructuring_NNP ,_, British_NNP Energy_NNP is_VBZ required_VBN to_TO establish_VB and_CC MARKET_NNP PRICE_NNP maintain_VBP a_DT cash_NN reserve_NN to_TO provide_VB collateral_NN for_IN trading_NN and_CC operations_NNS ,_, cover_VBP lost_VBN The_DT price_NN for_IN annual_JJ forward_RB baseload_JJ contracts_NNS ._.
+revenue_NN and_CC costs_NNS resulting_VBG from_IN plant_NN outages_NNS and_CC to_TO meet_VB our_PRP$ working_VBG capital_NN requirements_NNS ._.
+The_DT initial_JJ target_NN amount_NN for_IN the_DT cash_NN reserve_NN is_VBZ 490m_JJ plus_IN the_DT MATERIEL_NNP CONDITION_NNP amount_NN by_IN which_WDT cash_NN employed_VBN as_IN collateral_NN exceeds_VBZ 200m_JJ ._.
+A_DT term_NN used_VBN by_IN nuclear_JJ operators_NNS ,_, particularly_RB in_IN the_DT United_NNP States_NNPS ,_, in_IN relation_NN to_TO nuclear_JJ power_NN stations_NNS ,_, and_CC used_VBD to_TO describe_VB the_DT physical_JJ condition_NN of_IN plant_NN DECOMMISSIONING_NNP and_CC equipment_NN and_CC the_DT condition_NN of_IN operating_VBG procedures_NNS ,_, engineering_NN drawings_NNS ,_, The_DT process_NN whereby_WRB a_DT nuclear_JJ power_NN station_NN is_VBZ shut_VBN down_RP at_IN the_DT end_NN of_IN its_PRP$ specifications_NNS and_CC manuals_NNS taking_VBG safety_NN ,_, maintenance_NN and_CC plant_NN reliability_NN into_IN economic_JJ life_NN ,_, eventually_RB dismantled_VBD ,_, and_CC the_DT site_NN made_VBN available_JJ for_IN other_JJ consideration_NN ._.
+MW_NNP MEGAWATT_NNP :_: MWH_NNP MEGAWATT-HOUR_NNP NUCLEAR_NN DECOMMISSIONING_VBG FUND_NNP One_CD megawatt_NN equals_VBZ 1,000_CD kW_NN :_: one_CD megawatt-hour_NN represents_VBZ one_CD hour_NN of_IN An_DT independently_RB administered_VBN fund_NN into_IN which_WDT the_DT Group_NNP makes_VBZ contributions_NNS to_TO electricity_NN consumption_NN at_IN a_DT constant_JJ rate_NN of_IN 1_CD MW_NNP ._.
+cover_VB all_DT costs_NNS of_IN decommissioning_VBG nuclear_JJ power_NN stations_NNS ,_, except_IN defuelling_VBG costs_NNS ._.
+NDA_NNP DSB_NNP Nuclear_NNP Decommissioning_NNP Authority_NNP ._.
+NUCLEAR_NN ENERGY_NNP AGREEMENT_NNP DTI_NNP An_DT electricity_NN sales_NNS contract_NN between_IN British_NNP Energy_NNP ,_, Scottish_NNP Power_NNP and_CC Scottish_NNP The_DT United_NNP Kingdom_NNP Department_NNP of_IN Trade_NNP and_CC Industry_NNP ._.
+EEA_NNP NEW_NNP BONDS_NNS European_JJ Economic_NNP Area_NNP ._.
+Bonds_NNS issued_VBN by_IN British_NNP Energy_NNP Holdings_NNP plc._NN ._.
+ENERGY_NNP SUPPLY_NNP COSTS_NNP NEW_NNP SHARES_NNP These_DT mainly_RB comprise_VBP the_DT costs_NNS incurred_VBN for_IN the_DT use_NN of_IN the_DT distribution_NN and_CC Ordinary_JJ shares_NNS in_IN British_NNP Energy_NNP Group_NNP plc._NN ._.
+transmission_NN systems_NNS ,_, recovered_VBD through_IN turnover_NN ,_, and_CC for_IN the_DT first_JJ time_NN this_DT year_NN ,_, includes_VBZ Renewable_NNP Obligation_NNP Certificates_NNPS ROCs_NNPS ._.
+NLF_NNP The_DT former_JJ Nuclear_NNP Decommissioning_NNP Fund_NNP enlarged_JJ and_CC renamed_VBD the_DT Nuclear_NNP ETS_NNP Liabilities_NNPS Fund_NNP ._.
+NYSE_NNP EXELON_NNP New_NNP York_NNP Stock_NNP Exchange_NNP ._.
+An_DT American_JJ utility_NN and_CC our_PRP$ former_JJ 50_CD 50_CD joint_JJ venture_NN partner_NN in_IN AmerGen_NNP ._.
+84_CD BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP REPORT_NNP AND_CC ACCOUNTS_NNS FOR_IN THE_DT PERIOD_NN ENDED_VBD 31_CD MARCH_NNP 2005_CD GLOSSARY_NNP OPERATING_NNP UNIT_NNP COST_NNP REVALORISATION_NNP Calculated_VBN by_IN dividing_VBG the_DT total_JJ operating_NN cost_NN ,_, before_IN exceptional_JJ items_NNS and_CC energy_NN Revalorisation_NNP arises_VBZ because_IN nuclear_JJ liabilities_NNS are_VBP stated_VBN in_IN the_DT balance_NN sheet_NN supply_NN costs_NNS ,_, by_IN total_JJ output_NN ._.
+at_IN current_JJ price_NN levels_NNS ,_, discounted_VBN at_IN 3_CD %_NN per_IN annum_NN from_IN the_DT eventual_JJ payment_NN dates_NNS ._.
+The_DT revalorisation_NN charge_NN is_VBZ the_DT adjustment_NN that_WDT results_VBZ from_IN restating_VBG these_DT liabilities_NNS to_TO take_VB into_IN account_NN the_DT effect_NN of_IN inflation_NN in_IN the_DT year_NN and_CC to_TO OUTAGE_VB PLANNED_JJ AND_CC UNPLANNED_JJ remove_VB the_DT effect_NN of_IN one_CD years_NNS discount_NN as_IN the_DT eventual_JJ dates_NNS of_IN payment_NN A_DT period_NN during_IN which_WDT a_DT reactor_NN is_VBZ shut_VBN down_RP ._.
+The_DT periodic_JJ shutdown_NN of_IN a_DT reactor_NN become_VB one_CD year_NN closer_RBR ._.
+A_DT similar_JJ revalorisation_NN credit_NN arises_VBZ from_IN restatement_NN including_VBG for_IN maintenance_NN ,_, inspection_NN and_CC testing_NN or_CC ,_, in_IN some_DT cases_NNS ,_, for_IN refuelling_NN of_IN the_DT decommissioning_VBG fund_NN assets_NNS ._.
+is_VBZ known_VBN as_IN a_DT planned_VBN outage_NN ._.
+In_IN the_DT UK_NNP ,_, some_DT planned_VBN outages_NNS are_VBP known_VBN as_IN statutory_JJ outages_NNS and_CC are_VBP required_VBN by_IN the_DT conditions_NNS attached_VBN to_TO the_DT nuclear_JJ site_NN RPI_NNP licence_NN needed_VBD to_TO operate_VB the_DT station_NN ._.
+Unscheduled_JJ shutdown_NN of_IN a_DT reactor_NN for_IN a_DT Retail_NNP Price_NNP Index_NNP ._.
+period_NN is_VBZ known_VBN as_IN an_DT unplanned_JJ outage_NN ._.
+RPIX_NNP PiP_NNP Retail_NNP Price_NNP Index_NNP minus_CC mortgage_NN interest_NN payments_NNS ._.
+SIEVERT_NNP SV_NNP PROSPECTUS_NNP The_NNP standard_JJ unit_NN used_VBN to_TO measure_VB human_JJ exposure_NN to_TO ionising_VBG radiation_NN ._.
+The_DT prospectus_NN issued_VBN by_IN British_NNP Energy_NNP Group_NNP plc_NN and_CC British_JJ Energy_NNP Holdings_NNP plc_NN in_IN November_NNP 2004_CD ._.
+STATUTORY_JJ OUTAGE_NN The_DT planned_VBN shutdown_NN of_IN nuclear_JJ reactors_NNS for_IN regulatory_JJ inspection_NN and_CC PSEG_NNP maintenance_NN ._.
+An_DT American_JJ energy_NN services_NNS company_NN ._.
+TW_NNP TERAWATT_NNP :_: TWH_NNP TERAWATT-HOUR_NNP PWR_NNP PRESSURISED_NNP WATER_NNP REACTOR_NN One_CD terawatt_NN equals_VBZ 1,000_CD GW_NNP :_: one_CD terawatt-hour_NN represents_VBZ one_CD hour_NN of_IN The_DT most_RBS recent_JJ type_NN of_IN nuclear_JJ reactor_NN to_TO be_VB constructed_VBN in_IN the_DT UK_NNP which_WDT uses_VBZ electricity_NN consumption_NN at_IN a_DT constant_JJ rate_NN of_IN 1_CD TW_NNP ._.
+pressurized_VBN water_NN as_IN both_DT the_DT coolant_NN and_CC the_DT moderator_NN ._.
+UNIT_NN CAPABILITY_NN FACTOR_NN QUINQUENNIAL_NNP REVIEW_NNP The_DT percentage_NN of_IN maximum_JJ energy_NN generation_NN that_IN a_DT plant_NN is_VBZ capable_JJ of_IN supplying_VBG The_DT five-yearly_JJ review_NN of_IN the_DT assumptions_NNS underlying_VBG the_DT Groups_NNS provision_NN for_IN to_TO the_DT electrical_JJ grid_NN ,_, limited_VBN only_RB by_IN factors_NNS within_IN the_DT control_NN of_IN plant_NN certain_JJ nuclear_JJ liabilities_NNS ._.
+RBS_NNP UNPLANNED_NNP CAPABILITY_NNP LOSS_NNP FACTOR_NNP The_NNP Royal_NNP Bank_NNP of_IN Scotland_NNP plc._NN ._.
+Unplanned_JJ capability_NN loss_NN factor_NN is_VBZ defined_VBN as_IN the_DT ratio_NN of_IN the_DT unplanned_JJ energy_NN losses_NNS during_IN a_DT given_VBN period_NN of_IN time_NN ,_, to_TO the_DT reference_NN energy_NN generation_NN ,_, expressed_VBD REALISED_NNP PRICE_NNP as_IN a_DT percentage_NN ._.
+Previously_RB described_VBN as_IN achieved_VBN price_NN ._.
+This_DT is_VBZ the_DT average_JJ price_NN of_IN electricity_NN sold_VBN during_IN the_DT relevant_JJ period_NN ._.
+It_PRP is_VBZ calculated_VBN by_IN dividing_VBG turnover_NN ,_, net_NN of_IN energy_NN supply_NN UKLA_NNP costs_NNS ,_, miscellaneous_JJ and_CC exceptional_JJ income_NN ,_, by_IN total_JJ output_NN during_IN the_DT period_NN ._.
+RENEWABLE_NNP OBLIGATION_NNP CERTIFICATES_NNPS WANO_NNP Eligible_JJ renewable_JJ generators_NNS receive_VBP Renewable_NNP Obligation_NNP Certificates_NNP ROCs_NNP The_NNP World_NNP Association_NNP of_IN Nuclear_NNP Operators_NNP ._.
+A_DT nuclear_JJ industry_NN organization_NN which_WDT for_IN each_DT MWh_NNP of_IN electricity_NN generated_VBD ._.
+These_DT certificates_NNS can_MD then_RB be_VB sold_VBN to_TO encourages_VBZ peer_VB review_NN and_CC collects_VBZ and_CC shares_VBZ operating_VBG data_NNS worldwide_NN which_WDT is_VBZ suppliers_NNS ,_, in_IN order_NN to_TO fulfil_VB their_PRP$ renewables_NNS obligation_NN ._.
+then_RB used_VBN to_TO benchmark_JJ performance_NN ._.
+RESTRUCTURING_NN WARRANTS_NNS The_DT restructuring_NN of_IN the_DT Group_NNP completed_VBD on_IN 14_CD January_NNP 2005_CD ._.
+Warrants_NNS entitling_VBG the_DT holder_NN to_TO subscribe_VB for_IN New_NNP Shares_NNP ._.
+RESTRUCTURING_NN EFFECTIVE_NNP DATE_NNP RED_NNP 14_CD January_NNP 2005_CD ._.
+DESIGNED_VBN AND_CC PRODUCED_VBN BY_IN BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP EMPEROR_NNP DESIGN_NNP CONSULTANTS_NNPS LTD_NNP WWW_NNP ._.
+COM_NNP PHOTOGRAPHY_NNP BY_IN MONTY_NNP RAKUSEN_NNP BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP REPORT_NNP &_CC ACCOUNTS_NNP IMPROVEMENT_NNP THROUGH_NNP INVESTMENT_NNP 04_CD 05_CD BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP BRITISH_JJ ENERGY_NNP GROUP_NNP PLC_NNP SYSTEMS_NNP HOUSE_NNP ALBA_NNP CAMPUS_NNP WWW_NNP ._.

@@ -1,0 +1,9 @@
+Section 7 Review of Access Markets Section 7.2 - Access Markets Review Annex 10 & 11 Section 7.2.
+1 - Access Markets Group Level Review Annex 10 In the Wholesale Line Rentals WLR Access markets, the reduction in WLR lines has continued, primarily due to migrations to Metallic Path Facilities MPF and the increasing number of mobile-only households.
+Local Loop Unbundling LLU operators have continued to migrate significant numbers of lines to MPF from WLR and Shared Metallic Path Facilities SMPF.
+For Partial Private Circuits PPCs, competition and customer demand for alternative technologies is resulting in falling volumes in these markets.
+Price changes in these markets took place in October 2012 to enable compliance with charge controls and regulatory obligations.
+The Alternative Interface Symmetric Broadband Origination AISBO Market has continued to show growth.
+Ethernet Access Direct EAD access products have grown in particular, due to the increased demand from mobile operators and a general migration from older technologies including products within the Traditional Interface Symmetric Broadband Origination TISBO Market.
+Access Markets Openreach Level Review A calculation of the return for all Openreach markets has been performed and is described as part of the Openreach Notes in Section 10.7.
+This explains the return before and after adjusting for a number of significant items.

@@ -1,0 +1,386 @@
+Notes to the financial statements IFRS 1 The Group and a summary of its significant accounting policies 1a General information about the Group The business of the Group ARM Holdings plc and its subsidiary companies ARM or the Group design reduced instruction set computing RISC microprocessors, physical IP and related technology and software and sell development systems, to enhance the performance, cost-effectiveness and power-efficiency of high-volume embedded applications.
+The Group licenses and sells its technology and products to leading international electronics companies, which in turn manufacture, market and sell microprocessors, application-specic integrated circuits ASICs and application-specic standard processors ASSPs based on the Groups architecture to systems companies for incorporation into a wide variety of end products.
+By creating a network of Partners, and working with them to best utilise the Groups technology, the Group is establishing its architecture as a RISC processor for use in many high-volume embedded microprocessor applications, including digital cellular phones, storage devices and automotive functions and for potential use in many growing markets, including smart cards, household goods and digital video.
+The Group also licenses and sells development systems direct to systems companies and provides consulting and support services to its licensees, systems companies and other systems designers.
+The Groups principal geographic markets are Europe, the US and Asia Pacic.
+Incorporation and history ARM is a public limited company incorporated and domiciled under the laws of England and Wales.
+The registered ofce of the Company is 110 Fulbourn Road, Cambridge, CB1 9NJ.
+The Company was formed on 16 October 1990, as a joint venture between Apple Computer UK Limited and Acorn Computers Limited, and operated under the name Advanced RISC Machines Holdings Limited until 10 March 1998, when its name was changed to ARM Holdings plc.
+Its initial public offering was on 17 April 1998.
+Group undertakings include ARM Limited incorporated in the UK, ARM Inc. incorporated in the US, ARM KK incorporated in Japan, ARM Korea Limited incorporated in South Korea, ARM France SAS incorporated in France, merged with Soisic SA during 2007 another Group company incorporated in France, ARM Belgium NV incorporated in Belgium, ARM Germany GmbH incorporated in Germany, Keil Elektronik GmbH incorporated in Germany, ARM Norway AS incorporated in Norway, ARM Embedded Technologies Pvt.
+Limited incorporated in India, ARM Physical IP Asia Pacic Pte.
+Limited incorporated in Singapore, ARM Taiwan Limited incorporated in Taiwan and ARM Consulting Shanghai Co. Limited incorporated in PR China.
+1b Summary of significant accounting policies The principal accounting policies applied in the presentation of these consolidated financial statements are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated.
+Basis of preparation These consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS, as adopted by the EU, IFRIC interpretations and with those parts of the Companies Act 1985 applicable to companies reporting under IFRS.
+This is in accordance with the Listing Rules of the Financial Services Authority.
+The consolidated financial statements have been prepared under the historical cost convention as modied by the revaluation to fair value of available-for-sale investments: share-based payments: financial assets and liabilities including derivative instruments at fair value through the income statement: and embedded derivatives.
+Restatement The 2006 results and balance sheet have been restated to harmonise the Groups treatment of accounting for provisions for sabbatical leave under IFRS and US GAAP.
+Following the adoption of EITF 06-2 under US GAAP, the Group has re-assessed its accounting for sabbatical leave under IFRS, and has determined that provision for the cost of sabbatical leave should be made under IFRS.
+Previously no such provision had been made under IFRS.
+The change in policy has been accounted for as a prior year adjustment.
+This has resulted in shareholders equity at 31 December 2006 being reduced by 2.3 million and the profit for the year ended 31 December 2006 being reduced by 0.4 million, when compared with the amounts previously reported.
+Critical accounting estimates and judgments The preparation of these financial statements requires the directors to make critical accounting estimates and judgments that affect the amounts reported in the financial statements and accompanying notes.
+These estimates and judgments are summarised in note 1d.
+52 ARM Holdings plc 1b Summary of significant accounting policies continued New standards, amendments and interpretations a Standards, amendments and interpretations effective in 2007 IFRS 7, Financial instruments: Disclosures This is a new standard on disclosures in respect of financial instruments.
+It replaces IAS 30 and the disclosure requirements in IAS 32 such that all disclosures relating to financial instruments are located in one place.
+The new requirements incorporate many of IAS 32s disclosures as well as additional qualitative and quantitative disclosures on the risks arising from financial instruments.
+Amendment to IAS 1, Capital disclosures This requires new disclosures about entities management of their capital resources.
+Both these standards were published by the IASB in August 2005 and are effective for annual periods beginning on or after 1 January 2007.
+Their adoption by the Group has resulted in revised disclosure of the Groups financial risk management policies and its financial instruments but has had no impact on the classication and valuation of the Groups financial instruments.
+IFRIC 8, Scope of IFRS 2 This requires consideration of transactions involving the issuance of equity instruments, where the identiable consideration received is less than the fair value of the equity instrument issued in order to establish whether or not they fall in the scope of IFRS 2.
+This standard does not have any impact on the Groups financial statements.
+IFRIC 9, Re-assessment of embedded derivatives This claries that an entity should assess whether an embedded derivative is required to be separated from the host contract and accounted for as a derivative when the entity first becomes a party to the contract.
+Subsequent reassessment is prohibited, unless there is a change in the contracts terms, in which case it is required.
+This interpretation does not have any impact on the Groups financial statements.
+IFRIC 10, Interim financial reporting and goodwill This prohibits the impairment losses recognised in an interim period on goodwill and investments in equity instruments and in financial assets carried at cost to be reversed at a subsequent balance sheet date.
+b Standards and interpretations early adopted by the Group IFRS 8, Operating segments This supersedes IAS 14, Segmental reporting, under which segments were identied and reported on risk and return analysis.
+Under IFRS 8, segments are reported based on internal reporting, bringing segment reporting in line with the requirements of US standard FAS 131.
+Published by the IASB in November 2006, this standard is effective for annual periods beginning on or after 1 January 2009 but has been early adopted by the Group.
+IFRIC 11, IFRS 2, Group and treasury share transactions This interpretation provides guidance on how share-based transactions involving treasury shares or options should be accounted for.
+Published by the IASB in November 2006 and effective for annual periods beginning on or after 1 March 2007, this interpretation has been early adopted by the Group in 2007 but has no impact on the Groups financial statements.
+c Standards, amendments and interpretations effective in 2007 but not relevant Revised guidance on implementing IFRS 4, Insurance contracts This reects the changes made to IFRS 4 by IFRS 7, Financial instruments: Disclosures.
+Published by the IASB In December 2005, it applies when an entity adopts IFRS 7.
+As the Group does not provide insurance, this guidance is not relevant.
+IFRIC 7, Applying the restatement approach under IAS29, Financial reporting in hyper-inationary economies Since the Group does not operate in hyper-inationary economies, this guidance is not relevant.
+d Standards, amendments and interpretations that are not yet effective and have not been early adopted Amendment to IFRS 2, Share-based payments This claries what events constitute vesting conditions and also species that all cancellations, whether by the Group or by another party, should receive the same accounting treatment.
+This may have an impact on the Groups financial statements and is currently being assessed.
+Published by the IASB on 17 January 2008, this amendment is effective for annual periods beginning on or after 1 January 2009.
+IFRS 3, Revised, Business combinations This is equivalent to FAS 141R issued by the FASB in December 2007.
+The revision to this standard changes accounting for business combinations.
+While the acquisition method is still applied, there are significant changes to the treatment of contingent payments, transaction costs and the calculation of goodwill.
+Published by the IASB in January 2008, the standard is applicable to business combinations occurring in accounting periods beginning on or after 1 July 2009, with earlier application permitted.
+This could impact the Groups financial statements in future if it makes further acquisitions.
+ARM Holdings plc 53 Notes to the financial statements IFRS continued 1b Summary of significant accounting policies continued New standards, amendments and interpretations continued IAS 1 Revised, Presentation of financial statements This new standard will require non-owner changes in equity to be presented separately from owner changes in equity.
+As the Group currently does not have any minority interests, it will not be relevant.
+Published by the IASB in September 2007, this standard is effective for annual periods beginning on or after 1 January 2009.
+IAS 23 Revised, Borrowing costs A result of the joint short-term convergence project with the FASB, this new standard requires an entity to capitalise borrowing costs directly attributable to the acquisition, construction or production of a qualifying asset as part of the cost of that asset.
+The option of immediately expensing those borrowing costs has been removed.
+This will be relevant if the Group funds acquisitions with debt in the future.
+Published by the IASB March 2007, this is effective for annual periods beginning on or after 1 January 2009 prospective application.
+IAS 27 Revised, Consolidated and separate financial statements This is similar to FAS 160 issued by the FASB in December 2007.
+Both revise the accounting for transactions with non-controlling interests.
+Published by the IASB in January 2008.
+This is not relevant to the Group as it does not have any non-controlling interests.
+IFRIC 12, Service concession arrangements This applies to contractual arrangements whereby a private sector operator participates in the development, nancing, operation and maintenance of infrastructure for public sector services, for example, under private finance initiative contracts PFI contracts.
+It is not relevant for the Group.
+Published by the IASB November 2006, it is effective for annual periods beginning on or after 1 January 2008.
+IFRIC 13, Customer loyalty programmes relating to IAS 18, Revenue This provides guidance on accounting for customer loyalty programmes.
+As the Group does not offer such incentives, it will not be relevant.
+Published by the IASB in June 2007, it is effective for annual periods beginning on or after 1 July 2008.
+IFRIC 14, IAS 19, The limit on a dened benefit asset, minimum funding requirements and their interaction This provides guidance on accounting for dened benefit pension schemes.
+The Group does not have any such schemes and therefore it will not be relevant.
+Published by the IASB in July 2007, it is effective for annual periods beginning on or after 1 January 2008.
+The directors expect that the adoption of these standards and interpretations in future periods will have no material impact on the financial statements when they come into effect for periods after 1 January 2008.
+Consolidation Principles of consolidation The consolidated financial statements incorporate the financial statements of the Company and all its subsidiaries.
+Intra-group transactions, including sales, profits, receivables and payables, have been eliminated on consolidation.
+All subsidiaries use uniform accounting policies for like transactions and other events and similar circumstances.
+Business combinations The results of subsidiaries acquired in the year are included in the income statement from the date they are acquired.
+On acquisition, all of the subsidiaries assets and liabilities that exist at the date of acquisition are recorded at their fair values reecting their condition at that date.
+Revisions were made retrospectively in 2007 to goodwill recognised on acquisitions from earlier years see note 16.
+Segment reporting The Group now accounts for segmental results under IFRS 8, which brings the disclosure in line with that presented under US GAAP per FAS 131.
+This has no impact on the denition of the Groups primary and secondary reporting segments nor on how items are allocated between those segments.
+However, it has led to revised disclosures see note 2.
+At 31 December 2007, the Group is organised on a worldwide basis into three business segments, namely the Processor Division PD, the Physical IP Division PIPD and the Systems Design Division SDD previously known as DevSys.
+This is based upon the Groups internal organisation and management structure and is the primary way in which the Chief Operating Decision Maker CODM and the rest of the board are provided with financial information.
+Segment expenses are expenses that are directly attributable to a segment together with the relevant portion of other expenses that can reasonably be allocated to the segment.
+Foreign exchange gains or losses, gains or losses on the disposal of available-for-sale investments, investment income, interest payable and tax are not allocated by segment.
+Segment assets and liabilities include items that are directly attributable to a segment plus an allocation on a reasonable basis of shared items.
+Corporate assets and liabilities are not included in business segments and are thus unallocated.
+At 31 December 2007 and 2006, these comprise cash and cash equivalents, short-term investments, shortterm marketable securities, tax-related and other assets and the fair value of currency exchange contracts.
+Any current and deferred tax assets and liabilities are also not included in business segments and are thus unallocated.
+Foreign currency translation a Functional and presentation currency The functional currency of each Group entity is the currency of the primary economic environment in which each entity operates.
+The consolidated financial statements are presented in sterling, which is the presentation currency of the Group.
+54 ARM Holdings plc 1b Summary of significant accounting policies continued Foreign currency translation continued b Transactions and balances Transactions denominated in foreign currencies have been translated into the functional currency of each Group entity at actual rates of exchange ruling at the date of transaction.
+Monetary assets and liabilities denominated in foreign currencies have been translated at rates ruling at the balance sheet date.
+Such exchange differences have been included in general and administrative expenses.
+c Group companies The results and financial position of all the Group entities none of which has the currency of a hyper-inationary economy not based in the UK are translated into sterling as follows: i Assets and liabilities for each balance sheet presented are translated at the closing rate of exchange at the balance sheet date: ii Income and expenses for each income statement presented are translated at the average monthly exchange rates during the period: and iii All resulting exchange differences are recognised as a separate component of equity, being taken directly to equity via the cumulative translation adjustment.
+When a foreign operation is partially disposed of or sold, exchange differences that were recognised in equity are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+Fair value estimation The fair value of financial instruments traded in active markets such as trading and available-for-sale securities is based on quoted market prices at the balance sheet date.
+The quoted market price used for financial assets held by the Group is the current bid price.
+The fair value of financial instruments that are not traded in an active market for example, over-the-counter derivatives is determined using valuation techniques.
+The Group uses a variety of methods and makes assumptions that are based on market conditions existing at each balance sheet date.
+The fair value of forward exchange contracts is determined using quoted forward exchange rates at the balance sheet date.
+The fair value of foreign currency options is based upon valuations performed by an independent bank as well as managements view of market conditions.
+The carrying value less impairment provision of trade receivables and payables are assumed to approximate their fair values as this is the amount which would be receivable payable if the assets liabilities had crystallised at the balance sheet date.
+Any current tax liabilities are not included in this category.
+Revenue recognition The Group follows the principles of IAS 18, Revenue recognition, in determining appropriate revenue recognition policies.
+In principle, therefore, revenue is recognised to the extent that it is probable that the economic benets associated with the transaction will ow into the Group.
+Revenue is shown net of value-added tax, returns, rebates and discounts, and after eliminating sales within the Group.
+Revenue comprises the value of sales of licences, royalties arising from the resulting sale of licencees ARM technologybased products, revenues from support, maintenance and training, consulting contracts and the sale of boards and software toolkits.
+Revenue from standard licence products which are not modied to meet the specic requirements of each customer is recognised when the risks and rewards of ownership of the product are transferred to the customer.
+Many licence agreements are for products which are designed to meet the specic requirements of each customer.
+Revenue from the sale of such licences is recognised on a  basis over the period from signing of the licence to customer acceptance.
+Under the  method, provisions for estimated losses on uncompleted contracts are recognised in the period in which the likelihood of such losses is determined.
+The  is measured by monitoring progress using records of actual time incurred to date in the project compared with the total estimated project requirement, which approximates to the extent of performance.
+Where invoicing milestones on licence arrangements are such that the receipts fall due signicantly outside the period over which the customisation is expected to be performed or signicantly outside its normal payment terms for standard licence arrangements, the Group evaluates whether it is probable that economic benets associated with these milestones will ow to the Group and therefore whether these receipts should initially be included in the arrangement consideration.
+ARM Holdings plc 55 Notes to the financial statements IFRS continued 1b Summary of significant accounting policies continued Revenue recognition continued In particular, it considers: Whether there is sufficient certainty that the invoice will be raised in the expected timeframe, particularly where the invoicing milestone is in some way dependent on customer activity: Whether it has sufficient evidence that the customer considers that the Groups contractual obligations have been, or will be, fullled: Whether there is sufficient certainty that only those costs budgeted to be incurred will indeed be incurred before the customer will accept that a future invoice may be raised: and The extent to which previous experience with similar product groups and similar customers support the conclusions reached.
+Where the Group considers that there is insufficient evidence that it is probable that the economic benets associated with such future milestones will ow to the Group, taking into account these criteria, such milestones are excluded from the arrangement consideration until there is sufficient evidence that it is probable that the economic benets associated with the transaction will ow into the Group.
+The Group does not discount future invoicing milestones, as the effect of so doing would be immaterial.
+Where agreements involve several components, the entire fee from such arrangements is allocated to each of the individual components based on each components fair value, where fair value is the price that is regularly charged for an item when sold separately.
+The Group uses vendor-specic objective evidence VSOE of fair value to determine fair value of the individual components in multiple-component agreements.
+VSOE is determined by reference to licence agreements with other customers where the components are sold, where fair value is the price that is regularly charged for an item when sold separately.
+Where, in substance, two elements of a contract are linked and cannot be allocated to the individual components, the revenue recognition criteria are applied to the elements as if they were a single element.
+Agreements including rights to unspecified products as opposed to unspecified upgrades and enhancements are accounted for using subscription accounting, with revenue from the arrangement being recognised on a straight-line basis over the term of the arrangement, or an estimate of the economic life of the products offered if no term is specified, beginning with the delivery of the first product.
+Certain products have been co-developed by the Group and a collaborative partner, with both parties retaining the right to sell licences to the product.
+In those cases where the Group makes sales of these products and is exposed to the significant risks and benets associated with the transaction, the total value of the licence is recorded as revenue and the amount payable to the collaborative partner is recorded as cost of sales.
+Where the collaborative partner makes sales of these products, the Group records as revenue the commission it is due when informed by the collaborative partner that a sale has been made.
+In addition to the licence fees, contracts generally contain an agreement to provide post-delivery service support, in the form of support, maintenance and training which consists of the right to receive services and or unspecified product upgrades or enhancements that are offered on a  basis.
+Fees for post-delivery service support, which takes place after customer acceptance of delivery, are generally specified in the contract.
+Revenue related to post-delivery service support is recognised based on VSOE of fair value, which is determined with reference to contractual renewal rates.
+If no renewal rates are specified, the entire fee under the transaction is amortised and recognised on a straight-line basis over the contractual post-delivery service support period.
+Where renewal rates are specified, revenue for post-delivery service support is recognised on a straight-line basis over the period for which support and maintenance is contractually agreed by the Group with the licensee.
+If the amount of revenue recognised exceeds the amounts invoiced to customers, the excess amount is recorded as amounts recoverable on contracts within accounts receivable.
+The excess of licence fees and post-delivery service support invoiced over revenue recognised is recorded as deferred revenue.
+Sales of software, including development systems, which are not specically designed for a given licence such as off-the-shelf software are recognised upon delivery, when the significant risks and rewards of ownership have been transferred to the customer.
+At that time, the Group has no further obligations except that, where necessary, the costs associated with providing post contract support PCS have been accrued.
+Services such as training that the Group provides which are not essential to the functionality of the IP are separately stated and priced in the contract and, therefore, accounted for separately.
+Revenue is recognised as services are performed and it is probable that the economic benets associated with the transaction will ow into the Group.
+Royalty revenues are earned on sales by the Groups customers of products containing ARM technology.
+Royalty revenues are recognised when it is probable that the economic benets associated with the transaction will ow to the Group and the amount of revenue can be reliably measured.
+56 ARM Holdings plc 1b Summary of significant accounting policies continued Revenue recognition continued Revenue from consulting is recognised when the service has been provided and all obligations to the customer under the consulting agreement have been fullled.
+For larger consulting projects containing several project milestones, revenue is recognised on a  basis as milestones are achieved.
+Consulting costs are recognised when incurred.
+As disclosed above, in accordance with IAS 8, Accounting policies, changes in accounting estimates and errors, the Group makes significant estimates in applying its revenue recognition policies.
+In particular, as discussed in detail above, estimates are made in relation to the use of the  accounting method, which requires that the extent of progress toward completion of contracts may be anticipated with reasonable certainty.
+The use of the  method is itself based on the assumption that, at the outset of licence agreements, there is an insignicant risk that customer acceptance is not obtained.
+The Group also makes assessments, based on prior experience, of the extent to which future milestone receipts represent a probable future economic benefit to the Group.
+In addition, when allocating revenue to various components of arrangements involving several components, it is assumed that the fair value of each element is reected by its price when sold separately.
+The complexity of the estimation process and issues related to the assumptions, risks and uncertainties inherent with the application of the revenue recognition policies affect the amounts reported in the financial statements.
+If different assumptions were used, it is possible that different amounts would be reported in the financial statements.
+Research and development expenditure All ongoing research expenditure is expensed in the period in which it is incurred.
+Where a product is technically feasible, production and sale are intended, a market exists, expenditure can be measured reliably, and sufficient resources are available to complete the project, development costs are capitalised and amortised on a straight-line basis over the estimated useful life of the respective product.
+The Group believes its current process for developing products is essentially completed concurrently with the establishment of technological feasibility which is evidenced by a working model.
+Accordingly, development costs incurred after the establishment of technological feasibility have not been significant and, therefore, no costs have been capitalised to date.
+Where no internally-generated intangible asset can be recognised, development expenditure is recognised as an expense in the period in which it is incurred.
+Any collaborative agreement whereby a third party agrees to partially fund the Groups research and development is recognised over the period of the agreement as a credit within research and development costs.
+Government grants Grants in respect of specic research and development projects are credited to research and development costs within the income statement to match the projects related expenditure.
+Retirement benefit costs The Group contributes to dened contribution plans substantially covering all employees in Europe and the US and to government pension schemes for employees in Japan, South Korea, Taiwan, PR China, Israel and India.
+The Group contributes to these plans based upon various xed percentages of employee compensation, and such contributions are expensed as incurred.
+Operating leases Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classied as operating leases.
+Costs in respect of operating leases are charged on a straight-line basis over the lease term even if payments are not made on such a basis.
+Investment income Investment income relates to interest income, which is accrued on a time basis, by reference to the principal outstanding and at the effective interest rate applicable.
+Dividends Distributions to equity holders are not recognised in the income statement under IFRS, but are disclosed as a component of the movement in shareholders equity.
+A liability is recorded for a dividend when the dividend is approved by the Companys shareholders.
+Interim dividends are recognised as a distribution when paid.
+Earnings per share Basic earnings per share is calculated by dividing the earnings attributable to ordinary shareholders by the weighted average number of ordinary shares in issue during the period, excluding treasury stock and those shares held in the Employee Share Ownership Plan ESOP which are treated as cancelled.
+For diluted earnings per share, the weighted number of ordinary shares in issue is adjusted to assume conversion of all dilutive potential ordinary shares.
+The diluted share base for the year ended 31 December 2007 excludes incremental shares of approximately 8,786,000 2006: 33,390,000 related to employee share options.
+These shares are excluded due to their anti-dilutive effect as a result of the exercise price of these shares being higher than the market price.
+ARM Holdings plc 57 Notes to the financial statements IFRS continued 1b Summary of significant accounting policies continued Property, plant and equipment The cost of property, plant and equipment is their purchase cost, together with any incidental costs of acquisition.
+External costs and internal costs are capitalised to the extent they enhance the future economic benefit of the asset.
+Depreciation is calculated so as to write off the cost of property, plant and equipment, less their estimated residual values, which are adjusted, if appropriate, at each balance sheet date, on a straight-line basis over the expected useful economic lives of the assets concerned.
+The principal economic lives used for this purpose are: Freehold buildings 25 years Leasehold improvements Five years or term of lease, whichever is shorter Computers Three to five years Fixtures and ttings Five to ten years Motor vehicles Four years Provision is made against the carrying value of property, plant and equipment where an impairment in value is deemed to have occurred.
+Asset lives and residual values are reviewed on an annual basis.
+Intangible assets a Goodwill Goodwill represents the excess of the fair value of the consideration paid on acquisition of a business over the fair value of the assets, including any intangible assets identied and liabilities acquired.
+Goodwill is not amortised but is measured at cost less impairment losses.
+In determining the fair value of consideration, the fair value of equity issued is the market value of equity at the date of completion, the fair value of share options assumed is calculated using the Black-Scholes valuation model, and the fair value of contingent consideration is based upon whether the directors believe any performance conditions will be met and thus whether any further consideration will be payable.
+As permitted by IFRS 1, First-time adoption of international financial reporting standards, goodwill arising on acquisitions before 1 January 2004 date of transition to IFRS has been frozen at the UK GAAP amounts subject to being tested for impairment at that date.
+b Other intangible assets Computer software, purchased patents and licences to use technology are capitalised at cost and amortised on a straight-line basis over a prudent estimate of the time that the Group is expected to benefit from them, which is typically three to ten years.
+Costs that are directly attributable to the development of new business application software and which are incurred during the period prior to the date that the software is placed into operational use, are capitalised.
+Although an independent valuation is made of any intangible assets purchased as part of a business combination, the directors are primarily responsible for determining the fair value of intangible assets.
+Developed technology, existing agreements and customer relationships, core technology, trademarks and tradenames, and order backlog are capitalised and amortised over a period of one to six years, being a prudent estimate of the time that the Group is expected to benefit from them.
+In-process research and development projects purchased as part of a business combination may meet the criteria set out in IFRS 3, Business combinations, for recognition as intangible assets other than goodwill.
+The directors track the status of in-process research and development intangible assets such that their amortisation commences when the assets are brought into use.
+This typically means a write off period of one to five years.
+Amortisation is calculated so as to write off the cost of intangible assets, less their estimated residual values, which are adjusted, if appropriate, at each balance sheet date, on a straight-line basis over the expected useful economic lives of the assets concerned.
+The principal economic lives used for this purpose are: Computer software Three to five years Patents and licences Three to ten years In-process research and development One to five years Developed technology One to five years Existing agreements and customer relationships Two to ten years Core technology Five years Trademarks and tradenames Four to five years Order backlog One year Impairment of non-financial assets Assets that have an indefinite useful life, for example goodwill, are not subject to amortisation but are tested annually for impairment.
+Assets that are subject to amortisation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For purposes of assessing impairment assets are grouped at the lowest levels for which there are separately identiable cash ows cash-generating units.
+Non-financial assets other than goodwill that suffered an impairment are reviewed for possible reversal of the impairment at each reporting date.
+58 ARM Holdings plc 1b Summary of significant accounting policies continued Impairment of non-financial assets continued At the date of transition to IFRS, and at the annual tests in 2006 and 2007, impairment tests showed there was no impairment with respect to goodwill.
+Furthermore, no trigger events have been identied that would suggest the impairment of any of the Groups other intangibles.
+Financial assets The Group does not trade in financial instruments.
+The Group classies its financial assets in the following categories: at fair value through profit or loss, loans and receivables, and available for sale.
+The classication depends on the purpose for which the financial assets were acquired.
+Management determines the classication of its financial assets at initial recognition.
+a Financial assets at fair value through profit or loss Financial assets at fair value through profit or loss are financial assets held for trading that is, assets that have been acquired principally for the purpose of selling in the short-term.
+Assets in this category are classied as current assets.
+They are initially recognised at fair value with transaction costs being expensed in the income statement.
+Specically, the Groups currency exchange contracts fall within this category.
+Gains or losses arising from changes in the fair value of financial assets at fair value through profit or loss are presented in the income statement within general and administrative expenses in the period in which they arise.
+b Loans and receivables Loans and receivables are non-derivative financial assets with xed or determinable payments that are not quoted in an active market.
+They are included in current assets, except for maturities greater than 12 months after the balance sheet date.
+These are classied as non-current assets.
+Accounts receivable and cash and cash equivalents are classied as Loans and receivables in the balance sheet.
+c Available-for-sale investments Available-for-sale financial assets are non-derivatives that are either designated in this category or not classied in any of the other categories.
+They are included in non-current assets unless management intends to dispose of the investment within 12 months of the balance sheet date.
+Publicly-traded investments are classied as available-for-sale.
+Initially recognised at fair value plus transaction costs on the trade date, they are revalued at market value at each period end.
+Unrealised holding gains or losses on such securities are included, net of related taxes, directly in equity via a revaluation reserve except where there is evidence of permanent impairment see below.
+Equity securities that are not publicly traded are also classied as available-for-sale and are recorded at fair value plus transaction costs at the trade date.
+Given the markets for these assets are not active, the Group establishes fair value by using valuation techniques.
+At 31 December 2007 and 2006, the estimated fair value of these investments approximated to cost less any permanent diminution in value, based on estimates determined by the directors.
+Impairment of financial assets The Group considers at each reporting date whether there is any indication that any financial asset is impaired.
+If there is such an indication, the Group carries out an impairment test by measuring the assets recoverable amount, which is the higher of the assets fair value less costs to sell and their value in use.
+If the recoverable amount is less than the carrying amount an impairment loss is recognised, and the assets are written down to their recoverable amount.
+In the case of equity securities classied as available for sale, a significant or prolonged decline in the fair value of the security below its cost is considered as an indicator that the securities are permanently impaired.
+If any such evidence exists for available-for-sale financial assets, the cumulative loss measured as the difference between the acquisition cost and the current fair value, less any permanent impairment loss on that financial asset previously recognised in profit or loss is removed from equity and recognised in the income statement.
+Impairment losses recognised in the income statement on equity instruments are not reversed through the income statement.
+When securities classied as available-for-sale are sold or permanently impaired, the accumulated fair value adjustments recognised in equity are recycled through the income statement.
+Impairment testing of trade receivables is described under Accounts receivable below.
+Derivative financial instruments The Group utilises currency exchange contracts to manage the exchange risk on actual transactions related to accounts receivable, denominated in a currency other than the functional currency of the business.
+The Groups currency exchange contracts do not subject the Group to risk from exchange rate movements because the gains and losses on such contracts offset losses and gains, respectively, on the transactions being hedged.
+The currency exchange contracts and related accounts receivable are recorded at fair value at each period end.
+Fair value is estimated using the settlement rates prevailing at the period end.
+All recognised gains and losses resulting from the settlement of the contracts are recorded within general and administrative expenses in the income statement.
+The Group does not enter into currency exchange contracts for the purpose of hedging anticipated transactions.
+Cash and cash equivalents Cash and cash equivalents includes cash in hand, deposits held at call with banks and other short-term highly liquid investments with original maturities of three months or less.
+ARM Holdings plc 59 Notes to the financial statements IFRS continued 1b Summary of significant accounting policies continued Short-term investments and short-term marketable securities The Group considers all highly-liquid investments with original maturity dates of greater than three months but less than one year to be either short-term investments or short-term marketable securities.
+Any investments with a maturity date of greater than one year from the balance sheet date are classied as long-term.
+Accounts receivable Accounts receivable are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method, less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+Accounts receivable are first assessed individually for impairment.
+significant financial difficulties of the debtor, probability that the debtor will enter bankruptcy or financial reorganisation, and default or delinquency in payments more than 90 days overdue are considered indicators that the trade receivable may be impaired.
+The amount of the provision is the difference between the assets carrying amount and the present value of estimated future cash ows, discounted at the original effective interest rate.
+Where there is no objective evidence of impairment for an individual receivable, it is included in a group of receivables with similar credit risk characteristics and these are collectively assessed for impairment.
+In the case of impairment, the carrying amount of the asset s is reduced through the use of an allowance account, and the amount of the loss is recognised in the income statement within general and administrative costs.
+When a trade receivable is uncollectible, it is written off against the allowance account for trade receivables.
+Subsequent recoveries of amounts previously written off are credited against general and administrative costs in the income statement.
+Inventories Inventories are stated at the lower of cost and net realisable value.
+In general, cost is determined on a first-in, first-out basis and includes transport and handling costs.
+Where necessary, provision is made for obsolete, slow-moving and defective inventory.
+Accounts payable Accounts payable are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method.
+Income taxes The current income tax charge is calculated on the basis of tax laws enacted or substantively enacted at the balance sheet date in the countries where the Groups subsidiaries operate and generate taxable income.
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is subject to interpretation and establishes provisions where appropriate on the basis of amounts expected to be paid to the tax authorities.
+Deferred income taxes are computed using the liability method.
+Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities and are measured using enacted rates and laws that will be in effect when the differences are expected to reverse.
+The deferred tax is not accounted for if it arises from initial recognition of an asset or liability in a transaction, other than a business combination, that at the time of the transaction affects neither accounting nor taxable profit or loss.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will arise against which the temporary differences will be utilised.
+Deferred tax is provided on temporary differences arising on investments in subsidiaries except where the timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred tax assets and liabilities arising in the same tax jurisdiction are offset.
+In the UK and the US, the Group is entitled to a tax deduction for amounts treated as compensation on exercise of certain employee share options under each jurisdictions tax rules.
+As explained under Share-based payments below, a compensation expense is recorded in the Groups income statement over the period from the grant date to the vesting date of the relevant options.
+As there is a temporary difference between the accounting and tax bases, a deferred tax asset is recorded.
+The deferred tax asset arising is calculated by comparing the estimated amount of tax deduction to be obtained in the future based on the Companys share price at the balance sheet date with the cumulative amount of the compensation expense recorded in the income statement.
+If the amount of estimated future tax deduction exceeds the cumulative amount of the remuneration expense at the statutory rate, the excess is recorded directly in equity, against retained earnings.
+As explained under Share-based payments below, no compensation charge is recorded in respect of options granted before 7 November 2002 or in respect of those options which have been exercised or have lapsed before 1 January 2005.
+Nevertheless, tax deductions have arisen and will continue to arise on these options.
+The tax effects arising in relation to these options are recorded directly in equity, against retained earnings.
+60 ARM Holdings plc 1b Summary of significant accounting policies continued Provisions Provisions for restructuring costs and legal claims are recognised when: the Group has a present legal or constructive obligation as a result of past events: it is more likely than not that an outow of resources will be required to settle the obligation: and the amount of the outow can be reliably estimated.
+Embedded derivatives In accordance with IAS 39, Financial instruments: recognition and measurement, the Group has reviewed all its contracts for embedded derivatives that are required to be separately accounted for if they do not meet certain requirements set out in the standard.
+From time to time, the Group may enter into contracts denominated in a currency typically US dollars that is neither the functional currency of the Group entity nor the functional currency of the customer or the collaborative partner.
+Where there are uninvoiced amounts on such contracts, the Group carries such derivatives at fair value.
+The resulting gain or loss is recognised in the income statement under general and administrative expenses, as shown below: 2007 2006 000 000 Gain loss in income statement 1,400 898 Share-based payments The Group issues equity-settled share-based payments to certain employees.
+In accordance with IFRS 2, Share-based payments, equity-settled share-based payments are measured at fair value at the date of grant.
+Fair value is measured by use of the Black-Scholes pricing model.
+The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Groups estimate of the number of shares that will eventually vest.
+The Group operates Save As You Earn SAYE schemes in the UK and an Employee Share Purchase Plan ESPP in the US.
+Options under the SAYE schemes are granted at a 20% 2006: 15% discount to market price of the underlying shares on the date of grant and at a 15% discount to the lower of the market prices at the beginning and end of the scheme for the ESPP.
+The UK SAYE schemes are approved by the UK tax authorities, which stipulates that the saving period must be at least 36 months.
+The Group has recognised a compensation charge in respect of the SAYE plans and US ESPPs.
+The charges for these are calculated as detailed above.
+The Group also has a Long Term Incentive Plan LTIP on which it is also required to recognise a compensation charge under IFRS 2, calculated as detailed above.
+The Group has applied the exemption available, and has applied the provisions of IFRS 2 only to those options granted after 7 November 2002 and which were outstanding at 31 December 2004.
+The share-based payments charge is allocated to cost of sales, research and development expenses, sales and marketing expenses and general and administrative expenses on the basis of headcount.
+Employers taxes on share options Employers National Insurance in the UK and equivalent taxes in other jurisdictions are payable on the exercise of certain share options.
+In accordance with IFRS 2, this is treated as a cash-settled transaction.
+A provision is made, calculated using the intrinsic value of the relevant options at the balance sheet date, pro-rated over the vesting period of the options.
+Employee share ownership plans The Groups Employee benefit Trust the Trust was set up on 16 April 1998 to administer the Groups Employee Share Ownership Plan ESOP.
+The Trust is funded by loans from the Group, with its assets comprising shares in the Company.
+The Group recognises the assets and liabilities of the Trust in its own accounts and the carrying value of the Companys shares held by the Trust are recorded as a deduction in arriving at shareholders funds until such time as the shares vest unconditionally to employees.
+Treasury shares Where the Group purchases its own equity share capital treasury shares, the consideration paid, including any directly attributable incremental costs is deducted from equity attributable to the Companys equity holders until the shares are cancelled or reissued.
+Where such shares are subsequently sold or reissued, any consideration received, net of any directly attributable incremental transaction costs and the related income tax effects, is included in equity attributable to equity holders of the Company.
+Equity instruments Equity instruments issued by the Group are recorded at the proceeds received, net of direct issue costs.
+ARM Holdings plc 61 Notes to the financial statements IFRS continued 1b Summary of significant accounting policies continued 1c Financial risk management The Group operates in the intensely competitive semiconductor industry which has been characterised by price erosion, rapid technological change, short product life cycles, cyclical market patterns and heightened foreign and domestic competition.
+significant technological changes in the industry could affect operating results.
+The Groups operations expose it to a variety of financial risks that include currency risk, interest rate risk, price risk, credit risk and liquidity risk.
+Given the size of the Group, the directors have not delegated the responsibility for monitoring financial risk management to a sub-committee of the board.
+The policies set by the board of directors are implemented by the Groups finance department.
+The department has a policy and procedures manual that sets out specic guidelines to manage currency risk, interest rate risk, securities price risk, credit risk and liquidity risk and also sets out circumstances where it would be appropriate to use financial instruments to manage these.
+Currency risk The Groups earnings and liquidity are affected by uctuations in foreign currency exchange rates, principally in respect of the US dollar, reecting the fact that most of its revenues and cash receipts are denominated in US dollars, while a significant proportion of its costs are settled in sterling.
+The Group seeks to use currency exchange contracts and currency options to manage the US dollar sterling risk as appropriate, by monitoring the timing and value of anticipated US dollar receipts which tend to arise from low-volume, high-value licence deals and royalty receipts in comparison with its requirement to settle certain expenses in US dollars.
+The Group reviews the resulting exposure on a regular basis and hedges this exposure using currency exchange contracts and currency options for the sale of US dollars as appropriate.
+Such contracts are entered into with the objective of matching their maturity with projected US dollar cash receipts.
+The Group is also exposed to currency risk in respect of the foreign currency denominated assets and liabilities of its overseas subsidiaries.
+At present, the Group does not mitigate this risk, for example by using foreign currency intragroup loans, as it has currently no requirement for external borrowings.
+At 31 December 2007, the Group had outstanding currency exchange contracts to sell $34 million 2006: $29 million for sterling.
+In addition, the Group utilises option instruments which have various provisions that, depending on the spot rate at maturity, give either the Group or the counterparty the option to exercise.
+At 31 December 2007, the Group had outstanding currency options under which the Group may, under certain circumstances, be required to sell up to $145 million 2006: $118 million for sterling.
+A common scenario with options of this type is that the spot price at expiry is such that neither the Group nor the counterparty chooses to exercise the option.
+The Group had $88 million 2006: $91 million of accounts receivable denominated in US dollars at that date, and US dollar cash, cash equivalents, short-term investments and short-term marketable securities balances of $78 million 2006: $111 million.
+Thus the Groups currency exchange contracts and currency options at the year end potentially exceeded its US dollar current assets.
+This compares to 2006, when they only represented 73% of the total balance of the Groups US dollar current assets.
+This is because the Group has taken longer term positions through its option contracts in 2007 given the expected nature of the Groups cash ow during 2008.
+The Group does not qualify for hedge accounting, and all movements in the fair value of derivative foreign exchange instruments are recorded in the income statement, offsetting the foreign exchange movements on the accounts receivable, cash, cash equivalents, short-term investments and short-term marketable securities balances being hedged.
+In addition, certain customers remit royalties and licence fees in other currencies, primarily the euro.
+The Group is also required to settle certain expenses in euros, primarily in its French, Belgian and German subsidiaries, and as the net amounts involved are not considered significant, the Group does not take out euro currency exchange contracts.
+As at 31 December 2007, if sterling had strengthened by 10% against foreign currencies with all other variables held constant, post-tax profit for the year would have been 5.6 million 2006: 3.3 million lower, mainly as a result of the mix of financial instruments at respective year-ends.
+Equity would have been 9.1 million 2006: 8.8 million lower, for the same reason.
+Interest rate risk At 31 December 2007, the Group had 54 million 2006: 128 million of interest-bearing assets.
+At 31 December 2007, 79% 2006: 68% of interest-bearing assets, comprising cash equivalents: short-term investments: short-term marketable securities: and the Groups long-term investment in W&W Communications Inc. see note 14, are at xed rates and are therefore exposed to fair value interest rate risk.
+Floating rate cash earns interest based on relevant national LIBID equivalents and is therefore exposed to cash ow interest rate risk.
+The proportion of funds held in xed rather than oating rate deposits is determined in accordance with the policy outlined under Liquidity risk below.
+Other financial assets, such as available-for-sale investments, are not directly exposed to interest rate risk.
+Whilst the Group had no borrowings at 31 December 2007, it did have limited level of borrowings during the year.
+Had interest rates been 1% higher throughout the year, interest payable would have increased by less than 0.01 million.
+However, a 1% decrease in the average interest rate during the year would have reduced interest income by approximately 1.0 million and profit after tax by 0.7 million.
+62 ARM Holdings plc 1c Financial risk management continued Interest rate risk continued The Group has no derivative financial instruments to manage interest rate uctuations in place at the year-end since it has no loan nancing, and as such no hedge accounting is applied.
+The Groups cash ow is carefully monitored on a daily basis.
+Excess cash, considering expected future cash ows, is placed on either short-term or medium-term deposit to maximise the interest income thereon.
+Daily surpluses are swept into higher-interest earning accounts overnight.
+Securities price risk The Group is exposed to equity securities price risk on available-for-sale investments.
+As there can be no guarantee that there will be a future market for securities which are generally unlisted at the time of investment or that the value of such investments will rise, the directors evaluate each investment opportunity on its merits before committing ARMs funds.
+The board of directors reviews holdings in such companies on a regular basis to determine whether continued investment is in the best interests of the Group.
+Funds for such ventures are strictly limited in order that the financial effect of any potential decline of the value of investments will not be substantial in the context of the Groups financial results.
+i Listed investments At present the Groups only listed investment is a minority stake in Superscape Group plc Superscape, the carrying value of which as at 31 December 2007 was 1.2 million 2006: 1.9 million.
+A 10% decrease in Superscapes share price as at 31 December 2007 from 7.98 pence to 7.18 pence would have reduced the Groups post-tax profit by nil 2006: nil and resulted in a 0.1 million 2006: 0.2 million charge to other components of equity on the basis that such a reduction in value would have been deemed temporary.
+Superscape was acquired by Glu Mobile Inc. post year-end for 10 pence per share, this being the value that the Group had permanently impaired its investment to as at 31 December 2007. ii Unlisted investments The Group has unlisted investments with a carrying value as at 31 December 2007 of 3.7 million 2006: 2.0 million.
+A permanent 10% fall in the underlying value of these companies as at 31 December 2007 would therefore have reduced the Groups post-tax profit by 0.4 million 2006: 0.2 million and resulted in a nil 2006: nil reduction in other components of equity.
+Credit risk Credit risk is managed on a Group basis.
+Credit risk arises from cash and cash equivalents, derivative financial instruments and deposits with banks and financial institutions, as well as credit exposures to customers, including outstanding receivables and committed transactions.
+As at 31 December 2007, the Group has no significant concentrations of credit risk.
+The amount of exposure to any individual counterparty is subject to a limit, which is reassessed annually by the board of directors.
+Financial instrument counterparties are subject to pre-approval by the board of directors and such approval is limited to financial institutions with at least an AA rating, or in the case of UK building societies had over 1 billion in assets, except in certain jurisdictions where the cash holding concerned is immaterial.
+At 31 December 2006 and 2007, the Groups cash, cash equivalents, short-term investments and marketable securities were deposited with major clearing banks and building societies in the UK and US in the form of money market deposits and corporate bonds for varying periods up to two years.
+Over 90% of the Groups cash and cash equivalents: short-term investments and short-term marketable securities were held with global financial institutions with at least an AA rating, or in the case of UK building societies had over 1 billion in assets, as at 31 December 2007 and 2006.
+The Group has implemented policies that require appropriate credit checks on potential customers before sales commence.
+The Group generally does not require collateral on accounts receivable, as many of its customers are large, well-established companies.
+The Group has not experienced any significant losses related to individual customers or groups of customers in any particular industry or geographic area.
+The Group markets and sells to a relatively small number of customers with individually large value transactions.
+At 31 December 2007 and 2006 no customers accounted for more than 10% of accounts receivable.
+Over 80% of the year-end accounts receivable balance was owed by large, established semiconductor companies where the risk of default on monies owed is deemed negligible.
+The Group performs credit checks on all customers other than those paying in advance in order to assess their credit worthiness and ability to pay its invoices as they become due.
+As such, the balance of accounts receivable not owed by the large semiconductor companies is still deemed by management to be of low risk of default due to the nature of the checks performed on them, and accordingly a relatively small allowance against these receivables is in place to cover this low risk of default.
+No credit limits were exceeded during the reporting period and management does not expect any losses from non-performance by these counterparties.
+ARM Holdings plc 63 Notes to the financial statements IFRS continued 1c Financial risk management continued Liquidity risk The Groups policy is to maintain balances of cash, cash equivalents, short-term investments and short-term marketable securities, such that highly liquid resources exceed the Groups projected cash outows at all times.
+Surplus funds are placed on xedor oating-rate deposits depending on the prevailing economic climate at the time with reference to forward interest rates and also on the required maturity of the deposit as driven by the expected timing of the Groups cash receipts and payments over the short to medium term.
+Management monitors rolling forecasts of the Groups liquidity reserve comprising an undrawn borrowing facility, and cash and cash equivalents on the basis of expected cash ow.
+This is carried out at both a local and a Group level although only the parent company has access to the borrowing facility.
+The table below analyses the Groups financial liabilities which will be settled on a net basis into relevant maturity groupings based on the remaining period at the balance sheet to the contractual maturity date.
+The amounts disclosed in the table are the contractual undiscounted cash ows.
+Balances due within 12 months equal their carrying balances as the impact of discounting is not significant.
+Between Less than six months six months and one year 000 000 At 31 December 2007: Trade and other payables 2,230 At 31 December 2006: Trade and other payables 1,826 The table below analyses the Groups derivative financial instruments which will be settled on a gross basis into relevant maturity groupings based on the remaining period at the balance sheet to the contractual maturity date.
+Over three months but Between Less than less than six months three months six months and one year 000s 000s 000s Forward foreign exchange contracts held-for-trading at 31 December 2007 Outow $34,000 Inow 16,772 Foreign exchange options held-for-trading at 31 December 2007 Outow maximum $34,000 $36,000 $75,000 Inow maximum 17,210 18,152 38,077 Forward foreign exchange contracts held-for-trading at 31 December 2006 Outow $29,000 Inow 15,153 Foreign exchange options held-for-trading at 31 December 2006 Outow maximum $27,000 $37,000 $54,000 Inow maximum 14,599 20,095 29,198 Capital risk management The Groups objectives when managing capital are to safeguard the Groups ability to continue as a going concern in order to provide returns for shareholders and benets for other stakeholders and to maintain an optimal capital structure to reduce the cost of capital.
+In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital to shareholders, issue new shares, sell assets to raise cash or take on debt.
+During 2007, the Groups strategy, which was unchanged from 2006, was to increase its balance sheet efficiency by reducing its cash balance and looking to take on new debt facilities.
+In 2008, while the Group plans to continue to return cash to shareholders through share buybacks and dividends, the current uncertain economic climate has meant that the Groups focus will be on decreasing liquid resources that is cash and cash equivalents, short-term investments and short-term marketable securities towards its 50m target rather than on achieving a specic debt-to-equity ratio in the short term.
+64 ARM Holdings plc 1c Financial risk management continued Capital risk management continued During the year, the Group entered into a 100 million revolving credit facility providing the Group access to funds for any corporate purpose.
+Whilst the Group did drawdown on this facility at various times during the year, these funds had been fully repaid, and the facility was undrawn at the balance sheet date.
+Any drawn amounts accrue interest at a LIBOR-plus rate whilst there is a nominal charge for the undrawn portion.
+Furthermore, the facility requires the Group to adhere to various financial covenants relating to EBITDA multiples and interest cover: the Group adhered to all covenants during the year.
+Fair value of currency exchange contracts The fair value of currency exchange contracts is estimated using the settlement rates.
+The estimation of the fair value of the liability in respect of currency exchange contracts is 496,000 at 31 December 2007 2006: asset of 439,000.
+The decrease in 2007 is due to the mix of contracts, settlement rates, year-end spot rates and currency volatility.
+The resulting gain or loss on the movement of the fair value of currency exchange contracts is recognised in the income statement under general and administrative expenses, as shown below: 2007 2006 000 000 Gain loss in income statement 935 2,147 1d Critical accounting estimates and judgments The preparation of financial statements in accordance with generally accepted accounting principles requires the directors to make critical accounting estimates and judgments that affect the amounts reported in the financial statements and accompanying notes.
+These estimates and judgments are continually evaluated and are based on historical experiences and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The resulting accounting estimates will, by denition, seldom equal the related actual results.
+The estimates and assumptions that have significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+Impairment of goodwill The Group tests goodwill for impairment at least annually.
+This requires an estimation of the value in use of the cash generating units CGUs to which goodwill is allocated.
+As discussed in detail in note 16, estimating the value in use requires the Group to make an estimate of the expected future cash ows from the CGUs and also to choose a suitable discount rate in order to calculate the present values of those cash ows.
+Revenue recognition Revenue from the sale of licence agreements which are designed to meet the specic requirements of each customer is recognised on a  method basis.
+Use of this method requires the directors to estimate the total project resource requirement and also any losses on uncompleted contracts.
+Provisions for income taxes The Group is subject to income taxes in numerous jurisdictions.
+significant judgment is required in determining the worldwide provision for income taxes.
+There are many transactions and calculations for which the ultimate tax determination is uncertain during the ordinary course of business.
+The Group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due.
+Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will impact the income tax and deferred tax provisions in the period in which such determination is made.
+Provision for impairment of trade receivables The Group assesses trade receivables for impairment which requires the directors to estimate the likelihood of payment forfeiture by customers.
+Legal settlements and other contingencies Determining the amount to be accrued for legal settlement requires the directors to estimate the committed future legal and settlement fees the Group is expecting to incur.
+Where suits are led against the Group for infringement of patents, the directors assess the extent of any potential infringement based on legal advice and written opinions received from external counsel and then estimate the level of accrual required.
+Contingent consideration for an acquisition is recognised as part of the purchase consideration if the contingent conditions are expected to be satisfied.
+This requires the directors to estimate the acquirees future financial performance, typically more than one year post-acquisition.

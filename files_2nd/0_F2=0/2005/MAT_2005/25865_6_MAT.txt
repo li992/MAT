@@ -1,0 +1,60 @@
+In_PIN
+1996_CD
+and_CC
+following_VBG
+years_NN
+50_CD
+%_NN
+of_PIN
+the_DT
+management_NOMZ
+fee_NN
+and_CC
+50_CD
+%_NN
+of_PIN
+the_DT
+finance_NN
+costs_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+charged_VBN
+to_PIN
+the_DT
+capital_NN
+reserve_NN
+._.
+2_CD
+Prior_RB
+to_PIN
+1997_CD
+the_DT
+Total_JJ
+Expense_NN
+Ratio_NN
+was_VBD [PASS]
+not_XX0
+included_VBN
+in_PIN
+the_DT
+report_NN
+and_PHC
+accounts_NN
+._.
+The_DT
+calculation_NOMZ
+is_VPRT [SPAU] [PASS]
+now_TIME
+based_VBN
+upon_PIN
+the_DT
+Fitzrovia_NN
+method_NN
+and_CC
+all_QUAN
+prior_JJ
+years_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+._.

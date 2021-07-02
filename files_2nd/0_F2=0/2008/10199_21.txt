@@ -1,0 +1,152 @@
+Consolidated financial statements and notes Summary of significant accounting policies for the year ended 30 April 2008 The principal accounting policies applied in the preparation of these consolidated financial statements are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated.
+1 Group accounting policies A Basis of preparation The consolidated financial statements of Micro Focus International plc have been prepared in accordance with EU Endorsed International Financial Reporting Standards IFRS, IFRIC interpretations and the Companies Act 1985 applicable to companies reporting under IFRS.
+The consolidated financial statements have been prepared under the historical cost convention as modied by the share options at fair value through the income statement.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies.
+The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the consolidated financial statements are disclosed in Note 2, critical accounting estimates and assumptions.
+B Consolidation The financial statements of the Group comprise the financial statements of the Company and entities controlled by the Company, its subsidiaries, prepared at the balance sheet date.
+Control exists where the Group has the power to govern the financial and operating policies of the entity so as to obtain benets from its activities.
+The purchase method of accounting is used to account for the acquisition of subsidiaries by the Group.
+The cost of acquisition is measured as the fair value of the assets given, equity instruments issued and liabilities incurred or assumed at the date of exchange, plus costs directly attributable to the acquisition.
+Identiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition date, irrespective of the extent of any minority interest.
+The excess of the cost of acquisition over the fair value of the Groups share of the identiable net assets acquired is recorded as goodwill.
+Inter-company transactions, balances and unrealised gains on transactions between Group companies are eliminated.
+C Revenue recognition The Group recognises revenues from sales of software licences to end-users or resellers upon persuasive evidence of an arrangement, delivery of the software and determination that collection of a xed or determinable fee is reasonably assured.
+When the fees for software upgrades and enhancements, maintenance, consulting and training are bundled with the licence fee, they are unbundled using the Groups objective evidence of the fair value of the elements represented by the Groups customary pricing for each element in separate transactions.
+If evidence of fair value exists for all undelivered elements and there is no such evidence of fair value established for delivered elements, revenue is first allocated to the elements where fair value has been established and the residual amount is allocated to the delivered elements.
+If evidence of fair value for any undelivered element of the arrangement does not exist, all revenue from the arrangement is deferred until such time that evidence of fair value exists or undelivered elements of the arrangement are delivered.
+If the arrangement includes acceptance criteria, revenue is not recognised until the Group can objectively demonstrate that the software or service can meet the acceptance criteria, or the acceptance period lapses, whichever is earlier.
+The Group recognises licence revenue derived from sales to resellers, upon delivery to resellers, provided that all other revenue recognition criteria are met, otherwise revenue is deferred and recognised upon delivery of the product to the end-user.
+Maintenance revenue is derived from providing technical support and software updates to customers.
+Maintenance revenue is recognised on a straight-line basis over the term of the contract, which in most cases is one year.
+Revenue from consulting and training services is recognised as the services are performed.
+Amounts collected prior to satisfying the above revenue recognition criteria are included in deferred income.
+D Segmental reporting A geographical segment is engaged in providing products or services within a particular economic environment that are subject to risks and returns that are different from those of components operating in other economic environments.
+A business segment is a group of assets and operations engaged in providing products or services that are subject to risks and returns that are different from those of other business segments.
+The Group considers there to be only one business segment being the provision of enterprise application management and modernisation solutions.
+48 Micro Focus International plc Annual report 2008 Consolidated financial statements and notes E Leases Leases of property, plant and equipment where the Group has substantially all the risks and rewards of ownership are classied as finance leases.
+Finance leases are capitalised at the leases commencement at the lower of the fair value of the leased property and the present value of the minimum lease payments.
+Each lease payment is allocated between the liability and finance charges so as to achieve a constant rate of interest on the liability outstanding.
+The corresponding rental obligations, net of finance charges, are included in financial liabilities borrowings.
+The property, plant and equipment acquired under finance leases is depreciated over the shorter of the assets useful life and the lease term.
+Leases where the lessor retains a significant portion of the risks and rewards of ownership are classied as operating leases.
+Payments made under operating leases net of any incentives received from the lessor are charged to the income statement on a straight-line basis over the period of the lease.
+F Foreign currency translation a Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements are presented in US Dollars, which is the Groups functional currency.
+b Transactions and balances Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation at year-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in the income statement.
+c Group companies The results and financial position of all the Group entities that have a functional currency different from the presentation currency are translated into the presentation currency as follows: i assets and liabilities for each balance sheet presented are translated at the closing rate at the date of that balance sheet: ii income and expenses for each income statement are translated at average exchange rates unless this average is not a reasonable approximation of the cumulative effect of the rates prevailing on the transaction dates, in which case income and expenses are translated at the dates of the transactions : and iii all resulting exchange differences are recognised as a separate component of equity.
+On consolidation, exchange differences arising from the translation of the net investment in foreign entities are taken to shareholders equity.
+When a foreign operation is sold, such exchange differences are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate, with exception for goodwill arising before 1 May 2004 which is treated as an asset of the Company and expressed in the Companys functional currency.
+G Borrowings Borrowings are recognised initially at fair value, net of transaction costs incurred.
+Transaction costs incurred in the arrangement of new borrowing facilities are capitalised and netted against the capital element of the outstanding borrowing.
+These costs are then amortised over the life of the facility to which the costs relate on the effective interest basis.
+Micro Focus International plc Annual report 2008 49 Consolidated financial statements and notes Summary of significant accounting policies for the year ended 30 April 2008 1 Group accounting policies continued H Property plant and equipment All property, plant and equipment are stated at historical cost less accumulated depreciation and impairment.
+Historical cost includes expenditure that is directly attributable to the acquisition of the items.
+Subsequent costs are included in the assets carrying amount or recognised as a separate asset, as appropriate, only when it is probable that future economic benets associated with the item will ow to the Group and the cost of the item can be measured reliably.
+All other repairs and maintenance expenditures are charged to the income statement during the financial period in which they are incurred.
+Depreciation is calculated using the straight-line method to write off the cost of each asset to its residual value over its estimated useful life as follows: Leasehold improvements Over the lease term Furniture and xtures Five to seven years Computer equipment One to five years The assets residual values and useful lives are reviewed, and adjusted if appropriate, at each balance sheet date.
+An assets carrying amount is written down immediately to its recoverable amount if the assets carrying amount is greater than its estimated recoverable amount.
+Gains and losses on disposals are determined by comparing the disposal proceeds with the carrying amount and are included in the income statement.
+I Intangible assets a Goodwill Goodwill represents the excess of the cost of an acquisition over the fair value of the net identiable assets of the acquired subsidiary at the date of acquisition.
+Goodwill on acquisitions of subsidiaries is included in intangible assets.
+Goodwill is tested annually for impairment and carried at cost less accumulated impairment losses.
+Gains and losses on the disposal of an entity include the carrying amount of goodwill relating to the entity sold.
+Goodwill is allocated to cash-generating units for the purpose of impairment testing.
+Each of those cash-generating units represents the Groups investment in each area of operation by each primary reporting segment.
+As permitted under IFRS 1, the Group has elected to deem the UK GAAP net book value at 1 May 2004 as the IFRS cost of goodwill at transition date.
+b Computer software Computer software licences are capitalised on the basis of the costs incurred to acquire and bring to use the specic software.
+These costs are amortised using the straight-line method over their estimated useful lives of three to five years.
+c Research and development Research expenditure is recognised as an expense as incurred.
+Costs incurred on development projects relating to the developing of new computer software programmes and significant enhancement of existing computer software programmes are recognised as intangible assets when it is probable that the project will be a success, considering its commercial and technological feasibility, and costs can be measured reliably.
+Only direct costs are capitalised which include the software development employee costs and an appropriate portion of relevant overheads.
+Development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Development costs are amortised from the commencement of the commercial production of the product on a straight-line basis over the period of its expected benefit, typically being three years.
+d Intangible assets arising on business combinations Other intangible assets that are acquired by the Group are stated at cost less accumulated amortisation.
+Amortisation is charged to the income statement on a straight-line basis over the estimated useful lives of each intangible asset.
+Intangible assets are amortised from the date they are available for use.
+The estimated useful lives will vary for each category of asset acquired and to date are as follows: Trade names Three years Technology Seven to ten years Customer relationships Two to ten years Non-compete agreements Five years J Impairment of tangible and intangible assets Assets that have an indefinite useful life are not subject to amortisation and are tested annually for impairment.
+Assets that are subject to amortisation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identiable cash ows cash generating units.
+50 Micro Focus International plc Annual report 2008 Consolidated financial statements and notes K Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost is determined using the weighted average method.
+The cost of nished goods comprises software for resale and packaging materials.
+Net realisable value is the estimated selling price in the ordinary course of business, less applicable variable selling expenses.
+L Trade receivables Trade receivables are recognised at fair value less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of receivables.
+The amount of the provision is the difference between the assets carrying amount and the present value of estimated future cash ows, discounted at the effective interest rate.
+The amount of the provision is recognised in the income statement.
+M Employee benefit costs a Pension obligations Group companies operate various pension schemes.
+All of the major schemes are dened contribution plans for which the Group pays contributions to publicly or privately administered pension insurance plans on a mandatory, contractual or voluntary basis.
+The Group has no further payment obligations once the contributions have been paid.
+The contributions are recognised as an employee benefit expense when they are due.
+Prepaid contributions are recognised as an asset to the extent that a cash refund or a reduction in the future payments is available.
+b Share-based compensation The Group operated various equity-settled, share-based compensation plans during the year.
+For shares or share options granted after 7 November 2002 and vested after 1 January 2005 the fair value of the employee services received in exchange for the grant of the shares or options is recognised as an expense.
+The total amount to be expensed over the vesting period is determined by reference to the fair value of the shares or options granted.
+Non-market vesting conditions are included in assumptions about the number of options that are expected to become exercisable.
+At each balance sheet date, the Group revises its estimates of the number of options that are expected to become exercisable.
+It recognises the impact of the revision of original estimates, if any, in the income statement, and a corresponding adjustment to equity over the remaining vesting period.
+The shares are recognised when the options are exercised and the proceeds received allocated between share capital and share premium.
+Fair value is measured using the Black-Scholes pricing model.
+The expected life used in the model has been adjusted, based on managements best estimate for the effects of non-transferability, exercise restrictions and behavioural considerations.
+N Share capital, share premium and dividend distribution Incremental costs directly attributable to the issue of new shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Dividend distributions to the Companys shareholders are recognised as a liability in the Groups financial statements in the period in which the dividends are approved by the Companys shareholders.
+O Deferred income tax Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+However, if the deferred income tax arises from initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affects neither accounting nor taxable profit or loss, it is not accounted for.
+Deferred income tax is determined using tax rates and laws that have been enacted or substantially enacted by the balance sheet date and are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Deferred income tax is provided on temporary differences arising on investments in subsidiaries, except where the timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not reverse in the foreseeable future.
+Micro Focus International plc Annual report 2008 51 Consolidated financial statements and notes Summary of significant accounting policies for the year ended 30 April 2008 1 Group accounting policies continued P Cash and cash equivalents Cash and cash equivalents includes cash in hand, deposits held at call with banks, other short-term highly liquid investments with original maturities of three months or less, and bank overdrafts.
+Bank overdrafts are shown within borrowings in current liabilities on the balance sheet.
+Q Exceptional items Exceptional items are those significant items which are separately disclosed by virtue of their size or incidence to enable a full understanding of the Groups financial performance.
+R Financial instruments and hedge accounting Financial assets and liabilities are recognised in the Groups balance sheet when the Group becomes a party to the contractual provision of the instrument.
+Trade receivables are non-interest bearing and are stated at their nominal value less the amount of any appropriate provision for irrecoverable amounts.
+Trade payables are non-interest bearing and are stated at their nominal value.
+In accordance with its treasury policy, the Group does not hold or issue derivative financial instruments or hedge accounting for trading purposes.
+S Adoption of new and revised International Financial Reporting Standards At the date of approval of these financial statements, the following standards, amendments and interpretations were issued but not yet mandatory effective for the Group: International Financial Reporting Standards IFRS IFRS 8, Operating Segments 1 January 2009 International Financial Reporting Interpretations Committee IFRIC interpretations: IFRIC 12, Service Concession arrangements 1 January 2008 IFRIC 13, Customer Loyalty Programmes 1 July 2008 IFRIC 14, IAS19 The Limit of a Dened benefit Asset, Minimum Funding Requirements and their Interaction 1 January 2009 Amendments to existing standards: Amendment to IAS 1, Presentation of Financial Statements Capital Disclosures 1 January 2009 Amendment to IAS 23, Borrowing Costs 1 January 2009 Amendment to IAS 27, Consolidated and Separate Financial Statements 1 January 2010 Amendment to IFRS 2, Share-based Payment Vesting Conditions and Cancellations 1 January 2009 Amendment to IFRS 3, Business Combinations 1 January 2010 All the IFRS, IFRIC interpretations and amendments to existing standards had been adopted by the EU at the date of approval of these consolidated statements with the exception of: IFRS 8, IFRIC 12, IFRIC 13, IFRIC 14, IAS 23 revised, IFRS 2 revised and IFRS 3 revised.
+The implementation date for the above will be the annual period beginning on or after the date shown.
+The directors anticipate that the future adoption of these standards, interpretations and amendments listed above will not have a material impact on the consolidated financial statements.
+2 Critical accounting estimates and assumptions The Group makes estimates and assumptions concerning the future.
+The resulting accounting estimates will, by denition, seldom equal the related actual results.
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are summarised below.
+a Impairment of goodwill The Group tests annually whether goodwill has suffered any impairment, in accordance with the accounting policy stated in note I.
+The recoverable amounts of cash-generating units have been determined based on value-in-use calculations.
+These calculations require the use of estimates.
+52 Micro Focus International plc Annual report 2008 Consolidated financial statements and notes b Income taxes The Group is subject to income taxes in numerous jurisdictions.
+significant judgement is required in determining the worldwide provision for income taxes.
+There are many transactions and calculations for which the ultimate tax determination is uncertain during the ordinary course of business.
+The Group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due.
+Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will impact the income tax and deferred tax provisions in the period in which such determination is made.
+c Acquisitions When making acquisitions, the Group has to make judgements and best estimates about the fair value allocation of the purchase price.
+Appropriate advice is sought from professional advisors before making such allocations.
+The valuation of goodwill and other intangibles is tested annually or whenever there are changes in circumstances indicating that the carrying amounts may not be recoverable.
+These tests require the use of estimates.
+The Group makes judgements on specic items when applying its accounting policies.
+The judgement that has a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year is discussed below.
+The Group invests in the development of future products in accordance with the accounting policy stated in note Ic.
+The assessment as to whether this expenditure will achieve a complete product for which the technical feasibility is assured is a matter of judgement, as is the forecasting of how the product will generate future economic benefit.
+Finally, the period of time over which the economic benefit associated with the expenditure occurred will arise is also a matter of judgement.
+These judgements are made by evaluating the development plan prepared by the research and development department and approved by management, regularly monitoring progress by using an established set of criteria for assessing technical feasibility and benchmarking to other products.
+3 Financial risk factors The Groups multi-national operations expose it to a variety of financial risks that include the effects of changes in credit risks, foreign currency exchange rates, liquidity and interest rates.
+a Credit risk Financial instruments which potentially expose the Group to a concentration of credit risk consist primarily of cash equivalents and accounts receivable.
+Cash equivalents are deposited with high-credit quality financial institutions.
+The Group provides credit to customers in the normal course of business.
+Collateral is not required for those receivables, but ongoing credit evaluations of customers financial conditions are performed.
+The Group maintains a provision for impairment based upon the expected collectibility of accounts receivable.
+The Group sells products and services to a wide range of customers around the world and, therefore, believes there is no material concentration of credit risk.
+b Foreign currency risk The Group operates internationally and is exposed to foreign exchange risk arising from various currency exposures, primarily with respect to the UK Sterling, the Euro and the Japanese Yen.
+Foreign exchange risk arises from future commercial transactions, recognised assets and liabilities and net investments in foreign operations.
+Foreign exchange risk arises when future commercial transactions, recognised assets and liabilities are denominated in a currency that is not the entitys functional currency.
+There were no hedging transactions in place at 30 April 2008.
+The Group has certain investments in foreign operations, whose net assets are exposed to foreign currency translation risk.
+c Interest rate risk The Groups income and operating cash ows are substantially independent of changes in market interest rates.
+The interest rates of finance leases to which the Group is lessee are xed at inception of the lease.
+These leases expose the Group to fair value interest rate risk.
+The Groups cash ow interest rate risk arises from cash deposits.
+Deposits placed at variable rates expose the Group to cash ow interest rate risk.
+Micro Focus International plc Annual report 2008 53

@@ -1,0 +1,122 @@
+Business review ARMs progress against strategy Outperforming the market The semiconductor industry demonstrated strong growth in 2010, following the downturn of 2009.
+ARMs royalty revenue outperformed the industry in the recovery as well as the downturn.
+In 2010 the industry grew by For example, STMicroelectronics both industry revenues in the short- 1 about 23% over 2009, and licensed ARMs Cortex-A9 originally term and the longer term investment ARM grew by about 29% during for use in applications processors for plans of technology companies.
+They are now also However, we believe that our the semiconductor industry using Cortex-A9 in chips for digital TVs.
+innovative business model will enable through both the downturn and us to continue to gain market share in Shortly after the start of 2011, the recovery, and expects to long-term secular growth markets.
+Microsoft announced that the next continue this outperformance version of the Microsoft Windows as we gain share.
+operating system and Microsoft Office This year our customers have would be available on ARM processorincreased their R&D investments.
+This will help ARMs However, they are still looking to licensees to win designs in mobile reduce their long-term costs, and computers and PCs where consumers have continued to outsource some expect to find Microsofts products.
+of their development by licensing ARM partners reported shipping over ARMs technology.
+six billion ARM processor-based chips In 2010 ARM signed 91 processor in 2010.
+This has taken our market licences, including ten for graphics share from 23% in 2009 to 28% processors, and we also signed nine to 2010. physical IP foundry platform licences.
+Analysts are divided on how the In addition, we have seen customers industry will fare in 2011 and beyond.
+who have licensed ARM technology The probability and duration of another in one division now start to reuse that recession is unclear, but any reduction 1 Source: Semiconductor Industry Association, design in other areas of their business.
+in consumer spending may impact November 2010.
+Market share ARM royalty revenue vs semiconductor industry revenue 40% 30% % 20% 10% 28 0% -10% ARMs market share -20% 06 07 08 09 10 ARM royalty revenue Industry revenue Aligned with ARMs royalty reporting period.
+6 ARM Holdings plc Annual Report 2010 Business review Licenses by end-market New licences 91 We signed 91 new processor licences in 2010 Mobile 28 Embedded 29 Enterprise 16 Home 18 KPI Every licence represents the is becoming more broadly applicable opportunity for a future royalty stream.
+as digital electronics continue to In most years ARM adds between demand smarter chips to control Building the base 60-90 processor licences to its the world in which we live.
+ARM of licences that existing base of licences.
+In 2010, continues to see licensing and design we signed 91 processor licences, wins within mobile products, and will drive future taking the licensing base to nearly increasingly ARM is being designed royalties 750 licences.
+As companies looked in other non-mobile applications such to take advantage of the opportunities as digital TVs, hard disk drives and the recovery was creating, they still microcontrollers.
+wanted to manage their own costs.
+The future opportunity This led to strong licensing in 2010, ARM expects that its customers will as companies chose ARM processors continue to re-equip themselves with for a broadening range of end the latest processors for their existing markets.
+This included influential product lines.
+In addition, ARMs market leaders such as Microsoft technology is becoming increasingly taking their first ever ARM technology relevant to new markets such as licence, and companies such as sensors, mobile computers and Freescale announcing that they are servers: leading to new customers planning to use ARM technology in taking their first ever ARM licence.
+their MCU division for the first time.
+ARM also introduced new processor products that will take ARM into new markets such as servers and digital signal controllers.
+ARM technology ARM licences 06 61 07 62 08 61 To view the Annual Report online visit 09 87 www.
+com annualreport10 10 91 743 ARM Holdings plc Annual Report 2010 7 Business review ARMs progress against strategy Processor family 2010 unit shipments End-market 2010 unit shipments 6x 55% Increase in Cortex Increase in unit shipments shipments ARM7 50% Mobile 62% ARM9 33% Embedded 17% ARM11 8% Enterprise 16% Cortex 9% Home 5% KPI In 2010, ARMs customers reported continues to gain share.
+Shipments 6.1 billion chips shipped, a 55% of ARM processor-based chips increase over 2009, much higher than are growing most rapidly in Growing the the overall industrys growth of 30%.
+microcontroller products as several number of This demonstrates ARMs increasing major semiconductor vendors ramp relevance to equipment manufacturers into high volume.
+ARM processoras they choose ARM processor-based The future opportunity based chips chips over proprietary designs.
+In 2009 As ARM technology continues to be ARM had a 23% market share and chosen by market leaders developing in 2010 this rose to 28%.
+Shipments chips for a wide range of end-markets, of ARM processor-based chips into we expect to continue to gain share.
+mobile devices increased by 50% In addition, with major semiconductor driven by the growth in smartphones companies, such as Atmel, Freescale, and tablets.
+Shipments of ARM Fujitsu, Infineon and NVIDIA due to processor-based chips into nonstart shipping Cortex processors in mobile devices increased by 60% as high volume markets in 2011, ARM ARM technology is deployed in other expects that Cortex will become market segments.
+a greater proportion of overall unit Compared to 2009, ARMs underlying shipments.
+royalty revenue grew by 36% excluding $9 million of catch-up royalty received in Q2 2010.
+ARM expects unit shipments and royalty revenue to grow faster than the semiconductor industry as ARM Shipments of ARM processor-based chips bn 06 2.4 07 2.9 08 4.0 09 3.9 10 6.1 8 ARM Holdings plc Annual Report 2010 Business review Leveraging the benefit of smartphones 6x ARM typically receives about six times more royalty from a smartphone than from a voiceonly phone KPI During 2010, the number of mobile The future opportunity phones sold increased by 20% and ARM expects that smartphones the number of smartphones sold Increasing the will continue to become a higher increased by 55%.
+Smartphones proportion of the overall handset value that ARM have more chips per handset than market, further increasing ARMs voice-only phones and this has helped gets for every value per handset.
+At the Consumer to increase the average number of Electronics Show CES in January mobile handset ARM processor-based chips per 2011, many Original Equipment handset to 2.5 from 2.1 in 2009.
+Manufacturers OEMs announced sold Smartphone chips also have a higher new tablets and other mobile price than basic phones, and a typical computers, most of them using smartphone will generate about six ARM processor-based chips.
+times more royalty per phone than In addition, there are other product sales of a voice-only phone.
+So, more categories that may soon contain chips and more higher-priced chips multiple ARM processor-based chips, are helping to increase the average such as digital TVs and electronic value ARM gets per handset.
+2010 also saw the introduction of mobile computers, such as tablets, utilising ARM technology within the applications processor.
+Like smartphones, mobile computers can also contain several ARM processorbased chips and generate similar amounts of royalty revenues.
+Average ARM processor-based chips ARM value per phone per phone indexed to 2006 06 1.5 06 1.0 07 1.6 07 1.1 08 1.9 08 1.4 09 2.0 09 1.5 10 2.5 10 1.6 ARM Holdings plc Annual Report 2010 9 Business review ARMs progress against strategy Hard disk drives Digital TVs Microcontrollers % % % 85 35 10 Market share Market share Market share Up from 65% in 2009 Up from 30% in 2009 Up from 6% in 2009 ARMs penetration into hard disk drives Digital TVs and set-top boxes are becoming ARM processor-based microcontrollers HDD and solid state drives grew strongly more internet connected, creating an gained share as more leading in 2010.
+Leading HDD controller companies opportunity for ARM technology.
+semiconductor companies launched designed ARM processors technology into ARM processor-based products in 2010. their new products in 2010.
+KPI ARM has increased market share in 10% The microcontroller market is each of its key end-markets outside highly fragmented, and OEMs are of mobile: set-top box and digital increasingly requesting that their Increasing market TVs, hard disk drive controllers semiconductor suppliers use a penetration and microcontrollers.
+ARM is also common processor architecture.
+developing new technology that will ARM is often the choice as it is a in target endposition our customers to gain share in suitable architecture that is available markets markets such as servers and medical to all the semiconductor suppliers.
+The future opportunity 85% Hard disk drives HDDs are used All of these target end-markets have in applications such as servers, PCs, long-term growth prospects and laptops and other storage applications.
+ARMs market share gains look set to Leading HDD manufacturers are using continue as many of ARMs licensees ARM technology as disk capacity have announced new products in and density increases and the chips these areas.
+controlling the disks become smarter.
+35% ARM processor-based chips are used to decode the TV signal, to improve image quality on the screen and to display and control the electronic programme guide.
+Highend digital TVs are also using ARM technology to connect to the internet.
+Market penetration Hard disk Digital Micro Year drives TVs controllers 06 40% 15% 1% 07 50% 20% 2% 08 55% 25% 4% 09 65% 30% 6% 10 85% 35% 10% 10 ARM Holdings plc Annual Report 2010 Business review Foundry licences Repeating the business model for other technologies Base of Number of licences licences in by end of 2010 2010 Royalties in 2010 Physical IP 9 77 Twelve of the top 20 semiconductor companies used physical IP in their chips 20nm driving royalties through the foundries.
+Leading foundries Video and 10 39 Six leading semiconductor manufacturers graphics IP paid royalties on ARM video and graphics IP.
+have licensed ARM physical IP to 20nm The design and manufacture of semiconductor chips is getting increasingly complex and costly.
+Licensing IP, rather than developing it in-house, reduces both cost and risk for the semiconductor company, so ARM is developing new technology that supports a licensing plus royalty business model.
+These technologies can generate additional royalty streams from an ARM processorbased chip.
+KPI Physical IP for advanced Multimedia IP for enhanced manufacturing processes user interfaces Developing new ARM develops physical IP for use by For many consumer electronics leading semiconductor companies devices the user interface is a vital technology to that manufacture chips using part of the communication with the generate additional advanced processes.
+Mobile phones, digital TVs and the leading physical IP provider and computers are familiar, and cars, royalty streams is well-placed as semiconductor media players and navigation devices companies increasingly outsource are emerging.
+ARM is developing manufacturing to ARMs foundry graphics and video IP to improve the During 2010, ARM continued to Partners.
+user interface for these devices and so deliver on its strategic goals to create enhance the user experience.
+During new technologies that are suitable for During 2010 ARM saw strong 2010, ARM signed ten graphics IP licensing to leading semiconductor licensing and signed nine foundry licences.
+Also leading semiconductor companies, and for generating platform licences for ARMs physical IP companies in mobile and consumer additional royalty streams in the future.
+that will drive future royalty revenues, electronics markets such as Samsung including TSMC licensing ARMs and STMicroelectronics launched their advanced physical IP at 28nm and first chips based on Mali technology.
+In addition, early in 2011, IBM and ARM announced a collaboration The future opportunity to develop advanced physical IP from With a growing base of licences 20nm to 14nm.
+just starting to sell their chips in high quantities, we expect that the number of chips enabled by ARMs physical IP and multimedia technology will continue to grow.
+Cumulative licences Multimedia Physical IP Year licences platforms 06 2 40 07 6 50 08 14 60 09 28 68 10 39 77 ARM Holdings plc Annual Report 2010 11 Business review ARMs progress against strategy Investing in innovators ARM invests in our employees through hiring a mix of well educated graduates and seasoned industry experts, developing them and providing a supportive culture to maximise their capability and potential.
+KPI ARM specialises in designing The future opportunity innovative technology and developing ARM expects to continue to invest a sophisticated community of Partners Investing in in its employees as we develop our to bring that technology to market.
+Our engineering capability and operational ARMs product people are our strength for designing execution.
+Due to the inherent the next generation of technology, development leverage in the business model, over delivering it to our customers, and the medium term we expect that we capability and for growing and maintaining the will be able to grow our revenues ARM partnership.
+ARM invests in our faster than our costs.
+operational employees through hiring a mix of well educated graduates and seasoned execution industry experts, developing them and providing a supportive culture to maximise their capability and potential.
+In 2010 ARM hired an additional net 179 people.
+Over 90% of our new hires were engineers, to increase our R&D capability.
+Most of this investment was in our processor and multimedia engineering teams to take advantage of the new opportunities for new ARM technology in servers, computing and 3D graphics.
+Number of employees Year Employees Engineers Percentage 06 1,659 1,049 63% 07 1,728 1,102 64% 08 1,740 1,071 62% 09 1,710 1,024 60% 10 1,889 1,191 63% 12 ARM Holdings plc Annual Report 2010 Business review Operating margin % Earnings per share pence 5.02 06 18.7 31.1 06 3.43 2.59 4.79 07 15.3 31.7 07 08 20.1 08 3.39 5.66 32.7 09 15.0 31.2 09 3.11 5.45 10 26.3 10 6.36 9.34 40.4 Diluted EPS under IFRS Operating margin under IFRS Normalised operating margin Normalised diluted EPS Normalised net cash generation m Dividend pence 06 52.2 06 1.00 07 60.2 07 2.00 08 95.3 08 2.20 86.1 09 09 2.42 10 179.9 10 2.90 KPI ARMs business model and exposure Given our broad base of Partners and to structural growth markets means end-markets, ARM is not overly reliant that ARM is well positioned to become on any one company or consumer Growing increasingly profitable, to generate product for its future profits and cash.
+normalised cash and to support a progressive During 2010, ARM generated dividend.
+ARM intends to cover most 180 million of cash, compared to operating margin, of its operational costs from the licence 86 million in 2009.
+The increase in EPS, cash revenues of each new technology.
+cash generation is primarily due to the This leaves the majority of royalties increase in revenue.
+Since 2004, ARM generation as profits.
+Over the medium term, we has returned over 400 million of cash expect royalties to grow faster than to shareholders through a combination and dividends licence revenues and costs.
+of share buybacks and dividends.
+In 2010 ARMs financial discipline The future opportunity focused investment in areas of As royalty revenues become a greater maximum opportunity such as the proportion of ARMs overall revenues, recruitment of more engineers to ARMs profitability and cash generation develop next generation processor IP is expected to increase.
+As our customers are the worlds largest semiconductor manufacturers, their regular royalty payments have become a highly reliable cash flow.
+To view the Annual Report online visit www.
+com annualreport10 ARM Holdings plc Annual Report 2010 13 20 20 vision ARM was 20 years old in 2010.
+In these next few pages the ARM executive team discuss the journey the company has been on for the last two decades and how ARM may benefit as current trends unfold between now and 2020.
+ARM is still a young company and, with only about 28% of processor development out-sourced, the opportunity ahead of us is far greater than what we have achieved so far.
+The first ARM processor was developed by Acorn in 1985 for a low-cost PC.
+Although a technical breakthrough, commercial success was limited until ARM was founded in 1990 to take the technology forward.
+Twelve engineers, with some technology from Acorn and seed funding from Apple, started to look for applications that needed a low-cost, low-power embedded processor.
+No one could have guessed that a new consumer product was about to take the world by storm, and that it needed a chip with a smart processor which was both low-power and cheap to build... the mobile phone.
+Apple Newton In the early 1990s, developers of the first Apple was one of the early investors in ARM, and their Apple Newton one of the first devices to digital mobile phones were looking for a contain an ARM processor-based chip.
+Over the processor to run the phones 2G protocol past 20 years ARMs customers have sold about stack.
+It needed to be smart enough to 25 billion chips, with a value of approximately $150 billion.
+keep the phone connected to the network, and to manage the user interface, but low The ARM team Nokia 6110 The 12 founders from Acorn were all engineers.
+power enough not to drain the battery.
+One of the first phones to take advantage of ARMs They were joined by Robin Saxby as CEO to add It needed to be in an embedded systemlow-power technology was the iconic Nokia 6110. some commercial experience.
+At the end of 2010, Today, over 95% of all the worlds mobile phones on-chip to keep the cost down.
+Industry ARM employed nearly 1,900 people: the majority contain ARM processor-based chips.
+pioneers such as Nokia, Philips, Texas Sir Robin Saxby Instruments and Samsung recognised Robin was ARMs CEO until 2001 and was that ARMs technology was well suited to once described by a Morgan Stanley analyst as the grit in the oyster that formed the pearl.
+this task and that ARMs new processor 14 ARM Holdings plc Annual Report 2010 20 20 vision SWOT 21 days after the Company started From the start ARM knew that one of its unique strengths was its low-power, small processor, and it had opportunities in portable devices and in global markets.
+Sony Bravia digital-TV In 2010, ARM was in about 28% of all the worlds chips with embedded processors, up from 23% the previous year.
+This trend is likely to continue as semiconductor companies look set to continue out-sourcing their technology to ARM.
+The barn ARMs first home was in a converted turkey shed in Cambridge, UK.
+Samsung Galaxy Tab Samsungs Galaxy Tab was one of many ARMbased mobile computers launched in 2010.
+More ARM processor-based computers are expected to be launched in 2011, and ARMs partners are developing technology for servers and PCs.
+ARMs HQ remains in Cambridge and now ARM has 30 offices in 14 countries.
+design, the ARM7TDMI, was an ideal development and the management of by reusing those designs in chips for fit.
+ARMs business model, with an a high-tech business.
+Together these digital cameras, hard disk drives and upfront fee to gain access to the design combine to give a great opportunity for printers, and more recently in digital and a royalty on any chips based on that future growth.
+Since then design, enabled multiple companies to ARM has introduced new generations benefit from ARMs innovation.
+The of processor families that are smarter combination of ARMs technology and and even more efficient, and ARM business model enabled ARMs processor technology has become increasingly to become adopted in the majority of the suitable for a wider range of end markets mobile phones ever made.
+The mobile phone was just the first of Over 20 years, ARM has grown from a many waves of consumer electronic start up to almost ubiquity, developing devices that needed smart chips with technology that spans from sensors Over the last 20 years, ARMs processors that were low-power or low to servers.
+This has been achieved Partners have shipped about 25 billion ARM technology-based cost-to-build.
+Although some of ARMs through the combination of the best chips.
+Over six billion of these Partners had originally acquired the technology, the best business model, chips were shipped in 2010. technology for use in mobile devices, the best ecosystem, built around people they were now entering new markets with vision and who excel in technology ARM Holdings plc Annual Report 2010 15

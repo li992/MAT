@@ -1,0 +1,48 @@
+Company Significant Accounting Policies As at 31 March 2008 Basis of preparation The Company accounts have been prepared under the historical cost convention, modified to include revaluation to fair value of certain financial instruments as described below, and in accordance with UK Company Law and UK Generally Accepted Accounting Practice UK GAAP.
+The Group accounts have been prepared in accordance with International Financial Reporting Standards as adopted by the European Union and are presented on pages 30 to 62.
+Under section 230 4 of the Companies Act 1985 the Company is exempt from the requirements to present its own Profit and Loss Account.
+Under Financial Reporting Standard 25, the Company is exempt from disclosure requirements of FRS 25 Financial Instruments: Presentation on the grounds that the parent undertaking Electrocomponents plc includes the Company in its own published consolidated accounts.
+Disclosures are provided in note 21 under IAS 32 Financial Instruments: Presentation which comply with the disclosure requirements of FRS 25.
+The following paragraphs describe the main accounting policies under UK GAAP, which have been applied consistently.
+Investments in subsidiary undertakings Investments in subsidiary undertakings including long-term loans are included in the Balance Sheet of the Company at the lower of cost and the expected recoverable amount.
+Any impairment is recognised in the Profit and Loss Account.
+Translation of foreign currencies Transactions in foreign currencies are recorded using the rate of exchange ruling at the date of the transaction or monetary assets and liabilities denominated in foreign currencies are translated using the rate of exchange ruling at the balance sheet date and the gains and losses on translation are included in the Profit and Loss Account.
+Financial instruments Derivative financial instruments The Company uses derivative financial instruments to hedge its exposure to foreign exchange and interest rate risks arising from operational and financing activities.
+It principally employs forward foreign exchange contracts to hedge against changes in exchange rates over the catalogue periods of the majority of its operating companies.
+In addition there are also a small number of interest rate swaps which swap certain fixed rate loans into floating rate.
+In accordance with its treasury policies, the Company does not hold or issue derivative financial instruments for trading purposes.
+Certain derivative financial instruments are designated as hedges in line with the Companys risk management policies.
+Hedges are classified as follows: Fair value hedges when they hedge the exposure to changes in the fair value of a recognised asset or liability.
+Cash flow hedges when they hedge the exposure to variability in cash flows that is attributable to a particular risk associated with a forecast transaction.
+Net investment hedges when they hedge the exposure to changes in the value of the Companys interests in the net assets of foreign operations.
+All the Groups derivatives are initially and in subsequent periods recognised in the Balance Sheet at fair value.
+Changes in the fair value of derivative financial instruments that do not qualify for cash flow or net investment hedge accounting are recognised in the Profit and Loss Account as they arise.
+Cash flow hedge accounting Where a derivative financial instrument is designated as a hedge of the variability in cash flows of a recognised asset or liability, or a highly probable forecast transaction, the effective part of any gain or loss on the derivative financial instrument is recognised directly in equity.
+The ineffective part of any gain or loss is recognised immediately in the Profit and Loss Account.
+When the forecast transaction subsequently results in the recognition of a non-financial asset or liability the associated cumulative gain or loss is removed from equity and included in the initial cost of the non-financial asset or liability.
+When the forecast transaction subsequently results in the recognition of a financial asset or liability, the associated cumulative gain or loss that was recognised directly in equity is reclassified into the Profit and Loss Account in the same period during which the asset acquired or liability assumed affects profit or loss.
+When a hedging instrument expires or is sold, terminated or exercised, or the entity revokes designation of the hedge relationship but the hedged forecast transaction is still expected to occur, the cumulative gain or loss at that point remains in equity and is recognised in accordance with the above policy when the transaction occurs.
+If the hedged transaction is no longer expected to take place, the cumulative unrealised gain or loss recognised in equity is recognised immediately in the Profit and Loss Account.
+The fair value of forward foreign exchange contracts is the difference between their discounted contractual forward price and their current forward price.
+Fair value hedge accounting The Company uses derivative financial instruments to hedge exposure to interest rate risks arising from financing activities, holding a small number of interest rate swaps which swap certain fixed rate loans into floating rate.
+The fair value of the interest rate swaps is the market value of the swap at the balance sheet date, taking into account current interest rates.
+64 Electrocomponents plc Annual Report and Accounts 2008 Pension costs The Company participates in Group operated defined contribution and defined benefit pension schemes.
+The assets of the schemes are held separately from those of the Company in independently administered funds.
+The Company is unable to identify its share of the defined benefit schemes underlying assets and liabilities and therefore accounts for its defined contribution.
+The amounts charged against profits represent contributions to the schemes in respect of the accounting period.
+Share-based payments The Company operates several share-based payment schemes, the largest of which are the Savings Related Share Option Scheme SAYE, the Long Term Incentive Option Plan LTIOP, the Long Term Incentive Plan LTIP and the Executive Incentive Plan EIP.
+The fair value of options granted is recognised as an employee expense with a corresponding increase in equity and spread over the period during which employees become unconditionally entitled to the options.
+The fair values are calculated using an appropriate option pricing model.
+The Profit and Loss Account charge is then adjusted to reflect expected and actual levels of vesting based on non-market performance related criteria.
+All Profit and Loss Account charges relating to options held by members of other Group companies are charged to the appropriate Group company.
+The Company has chosen to adopt the exemption whereby FRS 20, Share-Based Payment, is applied only to awards made after 7 November 2002.
+The Company has adopted UITF 44 Group and Treasury Share Transactions.
+The adoption of UITF 44 requires the company to recognise an increase in the cost of investment in its subsidaries.
+The effect of this change has resulted in an increase in investments in 2007 of 4.7m and a further increase in investments during 2008 of 1.1m, with corresponding credits to reserves.
+Depreciation No depreciation has been charged on freehold land.
+Other assets have been depreciated to residual value, on a straight-line basis at the following annual rates: Freehold buildings 2% Warehouse systems 10%-20% Plant and equipment 10%-20% Mainframe computer equipment 20% Network computer equipment 33% Portable computers 50% Computer software costs 12.5%-50% Other office equipment 20% Taxation The charge for taxation is based on the profit for the year and takes into account taxation deferred because of timing differences.
+Deferred tax is recognised, without discounting, in respect of all timing differences between the treatment of certain items for taxation and accounting purposes.
+Leases Operating lease rentals are charged to the Profit and Loss Account on a straight-line basis over the course of the lease period.
+The benefits of rent free periods and similar incentives are credited to the Profit and Loss Account on a straight-line basis over the period up to the date on which the lease rentals are adjusted to the prevailing market rate.
+Own shares held The Companys own shares held by the Electrocomponents Employee Trust and the QUEST are deducted from shareholders funds until they vest unconditionally with employees as required by UITF 38: Accounting for ESOP Trusts.
+Electrocomponents plc Annual Report and Accounts 2008 65

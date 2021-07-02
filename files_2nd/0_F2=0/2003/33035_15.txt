@@ -1,0 +1,161 @@
+United States Generally Accepted Accounting Principles The United States Generally Accepted Accounting Principles are divided into the following sections: 128 Differences between United Kingdom and United States generally accepted accounting principles 130 Net income and shareholders equity reconciliation statements 131 Minority interests 131 Accounting for share options 131 Consolidated statements of cash ows 132 Current asset investments 132 Pension costs 134 US GAAP developments BT Annual Report and Form 20-F 2003 127 United States Generally Accepted Accounting Principles The groups consolidated financial statements are prepared in accordance with accounting principles generally accepted in the UK UK GAAP, which differ in certain respects from those applicable in the US US GAAP.
+I Differences between United Kingdom and United States generally accepted accounting principles The following are the main differences between UK and US GAAP which are relevant to the groups financial statements.
+a Sale and leaseback of properties Under UK GAAP, the sale of BTs property portfolio is treated as a xed asset disposal and the subsequent leaseback is an operating lease.
+Under US GAAP, the transaction is regarded as nancing and the land and buildings are recorded on the balance sheet at their net book value, an obligation equivalent to the cash proceeds is recognised and the gain on disposal is deferred until the properties are vacated by BT.
+Rental payments made by BT are reversed and replaced by a finance lease interest charge and a depreciation charge.
+b Pension costs Under UK GAAP, pension costs are accounted for in accordance with UK Statement of Standard Accounting Practice No.
+24, costs being charged against profits over employees working lives.
+Under US GAAP, pension costs are determined in accordance with the requirements of US Statements of Financial Accounting Standards SFAS Nos.
+Differences between the UK and US GAAP gures arise from the requirement to use different actuarial methods and assumptions and a different method of amortising surpluses or deficits.
+c Accounting for redundancies Under UK GAAP, the cost of providing incremental pension benets in respect of workforce reductions is taken into account when determining current and future pension costs, unless the most recent actuarial valuation, combined with the provision for pension costs in the group balance sheet, under UK actuarial conventions, shows a deficit.
+In this case, the cost of providing incremental pension benets is included in redundancy charges in the year in which the employees agree to leave the group.
+Under US GAAP, the associated costs of providing incremental pension benets are charged against profits in the period in which the termination terms are agreed with the employees.
+d Capitalisation of interest Under UK GAAP, the group does not capitalise interest in its financial statements.
+To comply with US GAAP, the estimated amount of interest incurred whilst constructing major capital projects is included in xed assets, and depreciated over the lives of the related assets.
+This included capitalisation of interest incurred on funding the 3G licences up to the date of the demerger.
+The amount of interest capitalised is determined by reference to the average interest rates on outstanding borrowings.
+At 31 March 2003 under US GAAP, gross capitalised interest of 461 million 2002 330 million with regard to the company and its subsidiary companies was subject to depreciation generally over periods of 3 to 25 years.
+e Goodwill Under UK GAAP, in respect of acquisitions completed prior to 1 April 1998, the group wrote off goodwill arising from the purchase of subsidiary undertakings, associates and joint ventures on acquisition against retained earnings.
+The goodwill is reected in the net income of the period of disposal, as part of the calculation of the gain or loss on divestment.
+All unamortised and pre-April 1998 goodwill will be brought back to the profit and loss account on disposal.
+Following the implementation of UK Financial Reporting Standard No.
+10 FRS 10, goodwill arising on acquisitions completed after 1 April 1998 is capitalised and amortised on a straight line basis over its useful economic life.
+Under US GAAP up to 31 March 2002, goodwill arising on the acquisition of subsidiaries, associates and joint ventures was capitalised as an intangible asset and amortised over its useful life.
+With effect from 1 April 2002 BT has adopted SFAS No.
+142, and goodwill is no longer amortised but tested annually for impairment.
+In connection with the adoption of SFAS No.
+142 transitional and annual impairment reviews were performed.
+There was no transitional impairment charge recorded.
+As a result of the annual impairment review, a goodwill impairment charge of 54 million has been recognised in the year ended 31 March 2003.
+Goodwill of 20 million amortised under UK GAAP is written back through the income statement.
+f Mobile cellular telephone licences, software and other intangible assets Certain intangible xed assets recognised under US GAAP purchase accounting requirements are subsumed within goodwill under UK GAAP.
+Under US GAAP these separately identied intangible assets are valued and amortised over their useful lives of 20 years.
+g Financial instruments Under UK GAAP, investments are held on the balance sheet at historical cost, and own shares held in trust for share schemes are recorded in xed asset investments.
+Gains and losses on instruments used for hedges are not 128 BT Annual Report and Form 20-F 2003 United States Generally Accepted Accounting Principles I Differences between United Kingdom and United States generally accepted accounting principles continued recognised until the exposure being hedged is recognised.
+Under US GAAP, trading securities and available-forsale securities are carried at market value with appropriate valuation adjustments recorded in profit and loss and shareholders equity, respectively.
+Certain derivative financial instruments which qualify for hedge accounting under UK GAAP do not qualify for hedge accounting under US GAAP.
+Under US GAAP, financial instruments do not qualify for hedge accounting due to the extensive documentation requirements.
+These financial instruments, under US GAAP, are carried at market value with valuation adjustments recorded in the profit and loss account.
+The reassessment and purchase of derivatives in the year ended 31 March 2003 gave rise to an adjustment increasing net income by 610 million net of tax 2002 reduction 20 million.
+The net unrealised holding gain on available-for-sale securities for the year ended 31 March 2003 was 22 million 2002 271 million, 2001 8 million.
+SFAS 133 became effective for BT on 1 April 2001 and the unamortised transitional adjustment of 26 million net of tax remains in shareholders equity at 31 March 2003. h Deferred gain Under UK GAAP, assets contributed to a joint venture by the groups partners are measured at their net replacement cost.
+Any difference between the groups share of the joint ventures resulting net assets and the net book value of assets contributed by the group to the joint venture, including certain accrued start up costs, is immediately reected by adjusting the groups investment in the joint venture and recording a deferred difference in shareholders equity.
+Under US GAAP, the assets contributed by all joint venture partners are carried at their historical net book value and any difference between the groups share of the joint ventures resulting net assets and the net book value of assets contributed by the group to the joint venture is amortised over the life of the items giving rise to the difference.
+i Employee share plans Certain share options have been granted under BT save-as-you-earn plans at a 20% discount.
+Under UK GAAP, the share issues are recorded at their discounted price when the options are exercised.
+Under US GAAP, a plan is considered compensatory when the discount to market price is in excess of 15%.
+Compensation cost is recognised for the difference between the exercise price of the share options granted and the quoted market price of the shares at the date of grant or measurement date and accrued over the vesting period of the options.
+Under UK GAAP, shares held by employee share ownership trusts are recorded as xed asset investments at cost less amounts written off.
+Under US GAAP, those shares not fully vested are regarded as treasury stock and recorded at cost as a deduction from shareholders equity.
+j Investments in associates Under UK GAAP, the economic interest in the associates operating profits before minority interest is reported as part of the total operating profit.
+For those associates in whom a minority interest is recognised in their respective statements of profit and loss, such minority interest is reported as minority interest in the consolidated profit and loss account.
+Under US GAAP, the minority interest in the associates is reclassied from minority interest and reported within the share of results of associates.
+k Deferred taxation Under UK GAAP, provision is made for deferred tax in so far as a liability or asset arose as a result of transactions that had occurred by the balance sheet date and give rise to an obligation to pay more tax in the future, or a right to pay less tax in the future.
+Under US GAAP, deferred taxation is provided for on a full liability basis.
+Future tax benets are recognised as deferred tax assets to the extent that their realisation is more likely than not.
+As a result of changes in circumstances, previously recognised deferred tax liabilities have been released in the 2003 financial year.
+At 31 March 2003 total deferred tax liabilities were 2,806 million primarily in respect of accelerated capital allowances and total deferred tax assets were 2,491 million, primarily in respect of pension obligations.
+l Dividends Under UK GAAP, dividends are recorded in the year in respect of which they are declared in the case of interim or any special dividends or proposed by the board of directors to the shareholders in the case of final dividends.
+Under US GAAP, dividends are recorded in the period in which dividends are declared.
+m Impairment Under UK GAAP, if there is an indication of impairment the assets should be tested for impairment and, if necessary written down to the value in use, calculated based on discounted future pre-tax cash ows related to the asset or the income generating unit to which the asset belongs.
+US GAAP requires that an entity assess whether impairment has occurred based on the undiscounted future cash ows.
+An impairment loss exists if the sum of these cash ows is less than the carrying amount of the asset.
+The impairment loss recognised in the income statement is based on the assets fair value, being either market value or the sum of discounted future cash ows.
+BT Annual Report and Form 20-F 2003 129 United States Generally Accepted Accounting Principles I Differences between United Kingdom and United States generally accepted accounting principles continued n Discontinued operations Under UK GAAP, the disposal of certain lines of business and joint ventures and associates are shown as discontinued activities.
+Under US GAAP, only the disposals of lines of business under SFAS No.
+144 would be reported as discontinued operations.
+o Directories in progress Under UK GAAP, the cost of classied advertising directories in progress deferred in stock represents direct xed and variable costs as well as directly attributable overhead costs.
+Under US GAAP, the deferred costs associated with directories in progress comprise only the incremental direct costs associated with selling and creating the directories.
+Directories in progress acquired in a business purchase are valued at replacement value under UK GAAP and at retail value under US GAAP.
+Under UK GAAP, this difference is included in goodwill.
+p Disposals of businesses There are timing differences between UK GAAP and US GAAP for recognition of gains on the sale of certain businesses.
+Foreign exchange movements taken to reserves under UK GAAP are reported in the income statement under US GAAP.
+Historical GAAP differences on disposed businesses are also shown under this line item.
+q Property rationalisation provision Under UK GAAP in the 2003 financial year, a provision in connection with the rationalisation of the Groups London ofce property portfolio was recognised.
+Under US GAAP, in accordance with SFAS No 146, these costs are not recognised until the group fully exits and therefore ceases to use the affected properties.
+II Net income and shareholders equity reconciliation statements The following statements summarise the material estimated adjustments, gross of their tax effect, which reconcile net income and shareholders equity from that reported under UK GAAP to that which would have been reported had US GAAP been applied.
+Net income 2003 2002 2001 Years ended 31 March m m m Net income loss applicable to shareholders under UK GAAP 2,686 995 1,870 Restatement for deferred tax under FRS 19 60 Net income loss applicable to shareholders under UK GAAP as previously reported 2,686 995 1,810 Adjustment for: Sale and leaseback of properties 114 1,178 Pension costs 177 106 42 Redundancy charges 140 453 Capitalisation of interest, net of related depreciation 17 398 348 Goodwill 35 11 55 Mobile licences, software and other intangible asset capitalisation and amortisation, net 26 32 32 Financial instruments 731 23 133 Deferred gain 313 71 Impairment 24 147 Employee share plans 11 8 38 Property rationalisation provision 147 Directories in progress 82 Disposals of businesses 130 254 Deferred taxation 976 1,320 64 4,266 643 2,432 Tax effect of US GAAP adjustments 132 89 75 Net income loss as adjusted for US GAAP 4,134 732 2,357 a Basic earnings loss per American Depositary Share as adjusted for US GAAP 4.80 0.88 3.24 a Diluted earnings loss per American Depositary Share as adjusted for US GAAP 4.77 0.88 3.24 a Each American Depositary Share is equivalent to ten ordinary shares.
+In the 2003 financial year all the adjustments relate to continuing operations 2002 2,009 million reduction, 2001 823 million reduction.
+Net income from continuing operations was 4,134 million 2002 1,680 million loss, 2001 809 million.
+The adjustments to net income relating to discontinued operations are nil 2002 282 million, 2001 276 million.
+130 BT Annual Report and Form 20-F 2003 United States Generally Accepted Accounting Principles II Net income and shareholders equity reconciliation statements continued Shareholders equity 2003 2002 At 31 March m m Shareholders equity under UK GAAP 2,642 358 Adjustment for: Sale and leaseback of properties 1,292 1,178 Pension costs 6,371 3,003 Capitalisation of interest, net of related depreciation 225 250 Goodwill 113 186 Mobile licences, software and other intangible asset capitalisation and amortisation 482 Financial instruments 86 592 Impairment 124 147 Disposals of businesses 120 Property rationalisation provision 147 Deferred taxation 63 1,375 Dividend declared after the financial year end 366 173 4,023 5,148 Tax effect of US GAAP adjustments 1,765 901 Shareholders equity as adjusted for US GAAP 2,258 4,247 III Minority interests Under US GAAP, the income to minority interests would have been reduced by 27 million 2002 26 million, 2001 122 million after adjusting for goodwill amortisation and accounting for associates and joint ventures.
+Net assets attributable to minority interests would have been unchanged 2002 26 million higher after adjusting for financial instruments.
+IV Accounting for share options Under UK GAAP, the company does not recognise compensation expense for the fair value, at the date of grant, of share options granted under the employee share option schemes.
+Under US GAAP, the company adopted the disclosure-only provisions in SFAS No.
+Accordingly, the company accounts for share options in accordance with APB Opinion No.
+25 Accounting for Stock Issued to Employees, under which no compensation expense is recognised.
+Had the group expensed recognised compensation cost for options granted in accordance with SFAS No.
+123, the groups pro forma net income loss, basic earnings loss per share and diluted earnings loss per share under US GAAP would have been 4,127 million 2002 792 million loss, 2001 2,419 million loss, 47.9p 2002 9.5p loss, 2001 33.2p loss and 47.6p 2002 9.5p loss, 2001 33.2p loss, respectively.
+123 method of accounting does not apply to share options granted before 1 January 1995, and accordingly, the resulting pro forma compensation costs may not be representative of that to be expected in future years.
+123 disclosures of the fair value of options granted under employee schemes at date of grant.
+V Consolidated statements of cash ows Under UK GAAP, the Consolidated Statements of Cash Flows are presented in accordance with UK Financial Reporting Standard No.
+The statements prepared under FRS 1 present substantially the same information as that required under SFAS No.
+95 cash and cash equivalents include cash and short-term investments with maturities of three months or less at the date of purchase.
+Under FRS 1 cash comprises cash in hand and at bank and overnight deposits, net of bank overdrafts.
+Under FRS 1, cash ows are presented for operating activities: returns on investments and servicing of finance: taxation: capital expenditure and financial investments: acquisitions and disposals: dividends paid to the companys shareholders: management of liquid resources and nancing.
+95 requires a classication of cash ows as resulting from operating, investing and nancing activities.
+Cash ows under FRS 1 in respect of interest received, interest paid net of that capitalised under US GAAP and taxation would be included within operating activities under SFAS No.
+Cash ows from purchases, sales and maturities of trading securities, while not separately identied under UK GAAP, would be included within operating activities under US GAAP.
+Capitalised interest, while not recognised under UK GAAP, is included in investing activities under US GAAP.
+Dividends paid are included within nancing activities under US GAAP.
+BT Annual Report and Form 20-F 2003 131 United States Generally Accepted Accounting Principles V Consolidated statements of cash ows continued The following statements summarise the statements of cash ows as if they had been presented in accordance with US GAAP, and include the adjustments which reconcile cash and cash equivalents under US GAAP to cash at bank and in hand reported under UK GAAP.
+2003 2002 2001 m m m Net cash provided by operating activities 3,395 1,455 5,515 Net cash provided by used in investing activities 1,253 3,049 22,785 Net cash used in provided by nancing activities 2,852 5,611 18,311 Net increase decrease in cash and cash equivalents 1,796 1,107 1,041 Effect of exchange rate changes on cash 13 50 15 Cash and cash equivalents under US GAAP at beginning of year 1,124 2,281 1,255 Cash and cash equivalents under US GAAP at end of year 2,933 1,124 2,281 Short-term investments with original maturities of less than three months 2,842 966 1,869 Cash at bank and in hand under UK GAAP at end of year 91 158 412 VI Current asset investments Under US GAAP, investments in debt securities would be classied as either trading, available-for-sale or held-to-maturity.
+Trading investments would be stated at fair values and the unrealised gains and losses would be included in income.
+Securities classied as available-for-sale would be stated at fair values, with unrealised gains and losses, net of deferred taxes, reported in shareholders equity.
+Debt securities classied as held-to-maturity would be stated at amortised cost.
+The following analyses do not include securities with original maturities of less than three months.
+At 31 March 2003, the group held trading investments as dened by US GAAP with fair values totalling 935 million 2002 1,260 million.
+Held-to-maturity securities at 31 March 2002 and 2003 consisted of the following: Amortised Estimated cost fair value m m Commercial paper, medium-term notes and other investments 2,565 2,565 Total at 31 March 2003 2,565 2,565 Commercial paper, medium-term notes and other investments 2,372 2,372 Total at 31 March 2002 2,372 2,372 The contractual maturities of the held-to-maturity debt securities at 31 March 2003 were as follows: Cost Fair value m m Maturing on or before 31 March 2004 1,663 1,663 Maturing after 31 March 2004 902 902 Total at 31 March 2003 2,565 2,565 VII Pension costs The following position for the main pension scheme is computed in accordance with US GAAP pension accounting rules under SFAS No.
+88, the effect of which is shown in the above reconciliation statements.
+The pension cost determined under SFAS No.
+87 was calculated by reference to an expected long-term rate of return on scheme assets of 6.9% 2002 6.5%, 2001 6.25%.
+The components of the pension cost for the main pension scheme comprised: 2003 2002 2001 m m m Service cost 453 564 580 Interest cost 1,707 1,739 1,673 Expected return on scheme assets 1,813 1,863 1,850 Amortisation of prior service costs 24 24 24 Amortisation of net obligation at date of limited application of SFAS No.
+87 52 52 52 Recognised gains 22 67 133 Additional cost of termination benets 60 140 349 Pension cost for the year under US GAAP 461 589 695 132 BT Annual Report and Form 20-F 2003 United States Generally Accepted Accounting Principles VII Pension costs continued The information required to be disclosed in accordance with SFAS No.
+132 concerning the funded status of the main scheme at 31 March 2002 and 31 March 2003, based on the valuations at 1 January 2002 and 1 January 2003, respectively, is given below.
+2003 Minimum liability, intangible asset and other comprehensive income m Plan assets at fair value 22,757 Accumulated benefit obligation 28,551 Minimum liability 5,794 Net amount recognised at end of year 2,497 Minimum additional liability 3,297 Intangible asset as at 31 March 2003: Unrecognised net transition obligation 2 Unrecognised prior service cost 103 Accumulated other comprehensive income 3,192 Changes in benefit obligation 2003 2002 m m benefit obligation at the beginning of the year 29,097 31,184 Service cost 453 564 Interest cost 1,707 1,739 Employees contributions 156 180 Additional cost of termination benets 60 140 Actuarial movement 152 3,428 Other changes 13 27 Benets paid or payable 1,361 1,309 benefit obligation at the end of the year 30,277 29,097 Changes in scheme assets 2003 2002 m m Fair value of scheme assets at the beginning of the year 26,597 29,031 Actual return on scheme assets 3,255 2,355 a Employers contributions 607 1,023 Employees contributions 156 180 Other changes 13 27 Benets paid or payable 1,361 1,309 Fair value of scheme assets at the end of the year 22,757 26,597 Funded status under US GAAP 2003 2002 m m Projected benefit obligation in excess of scheme assets 7,520 2,500 b Unrecognised net obligation at date of initial application of SFAS No.
+87 2 54 c Unrecognised prior service costs 103 127 Other unrecognised net actuarial gains losses 4,918 324 Net amount recognised under US GAAP 2,497 2,643 a The employers contributions for the year ended 31 March 2003 includes special contributions of 200 million paid on 11 December 2002 and 129 million paid on 12 December 2002 2002 300 million paid on 21 November 2001 and 300 million paid on 4 December 2001. b The unrecognised net obligation at the date of initial application is being amortised over 15 years from 1 April 1988. c Unrecognised prior service costs on scheme benefit improvements are being amortised over periods of 15 or 16 years commencing in the years of the introduction of the improvements.
+The benefit obligation for the main pension scheme was determined using the following assumptions at 1 January 2002 and 1 January 2003: 2003 2002 per annum per annum % % Discount rate 5.6 6.0 Rate of future pay increases 3.8 4.0 Rate of future pension increases 2.25 2.5 The accumulated benefit obligation at 31 March 2003 was 28,551 million 2002 27,127 million.
+BT Annual Report and Form 20-F 2003 133 United States Generally Accepted Accounting Principles VIII US GAAP developments In July 2001, the Financial Accounting Standards Board FASB issued SFAS No.
+143 Accounting for Asset Retirement Obligations which is applicable to financial years commencing after 15 June 2002.
+143 requires that the fair value of a liability for an asset retirement obligation be recognised in the period in which it is incurred if it is possible to make a reasonable estimate of the fair value.
+The associated asset retirement costs are required to be capitalised as part of the carrying value of the long lived asset.
+143 is not expected to have a material impact on the consolidated financial statements.
+In July 2002, the FASB issued SFAS No.
+146, Accounting for Costs Associated with Exit or Disposal Activities which is applicable to disposals initialised after 31 December 2002.
+The Statement requires costs associated with exit or disposal activities to be recognised when the costs are incurred rather than at the date of the commitment to an exit or disposal plan.
+Accordingly, we have reected the impact of SFAS No.
+146 may apply to future activities which are not currently envisaged and accordingly it is not possible to assess the impact of SFAS No.
+146 on any such activities at this time.
+In December 2002, the FASB issued SFAS No.
+148, Accounting for Stock Based Compensation Transition and Disclosure an amendment of FASB Statement No.
+123 which is applicable to financial years beginning after 15 December 2002.
+The Statement permits two additional transition methods for an entity voluntarily adopting fair value based accounting for stock based compensation.
+It also amends the disclosure requirements to require prominent disclosure about the effects on reported net income of an entitys accounting policy decisions with respect to stock based employee compensation.
+This Statement does not have a significant impact on the consolidated financial statements as SFAS No.
+123 continues to be satisfied for disclosure purposes only.
+In April 2003 the FASB issued SFAS No 149 Amendment of Statement 133 on Derivative Instruments and Hedging Activities.
+This Statement amends and claries financial accounting and reporting for derivative instruments, including certain derivative instruments embedded in other contracts collectively referred to as derivatives and for hedging activities under SFAS No.
+133, Accounting for Derivative Instruments and Hedging Activities.
+BT is currently evaluating the impact of this change.
+In November 2002, the FASB issued FASB Interpretation No.
+FIN 45, Guarantors Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others.
+FIN 45 requires that certain guarantees must be recognised at fair value.
+FIN 45 also requires disclosure of detailed information about each guarantee or group of guarantees.
+The disclosure requirements are effective for financial statements ending after 15 December 2002.
+The recognition and measurement provisions of FIN 45 are applicable to guarantees issued or modied after 31 December 2002.
+FIN 45 could have an impact on the future results of BT depending on guarantees issued: however, at this time the adoption of this statement did not have a material impact on BTs consolidated financial statements.
+In January 2003, the FASB issued FIN 46, Consolidation of Variable Interest Entities an Interpretation of Accounting Research Bulletin ARB No.
+FIN 46 requires the primary beneciary to consolidate a variable interest entity VIE if it has a variable interest that will absorb a majority of the entitys expected losses if they occur, receive a majority of the entitys expected residual returns if they occur, or both.
+FIN 46 applies immediately to VIEs created after 31 January 2003, and to VIEs in which the entity obtains an interest after that date.
+This statement is not expected to have a material impact on BTs consolidated financial statements.
+In November 2002, the Emerging Issues Task Force EITF reached a consensus on EITF 00-21, Revenue Arrangements with Multiple Deliverables.
+The consensus addresses how to account for arrangements that may involve multiple revenue-generating activities, for example, the delivery or performance of multiple products, services, and or rights to use assets.
+In applying this guidance, separate contracts with the same party, entered into at or near the same time, will be presumed to be a package, and the consideration will be measured and allocated to the separate units based on their relative fair values.
+This consensus guidance will be applicable to agreements entered into after 15 June 2003.
+BT is currently evaluating the impact of this new pronouncement.
+In January 2003, the EITF reached a consensus on EITF 02-18, Accounting for Subsequent Investments in an Investee after Suspension of Equity Method Loss Recognition.
+This consensus states that if the additional investment, in whole or in part, represents the funding of prior losses, the investor should recognise previously suspended losses.
+When appropriate to recognise prior losses, the amount recognised would be limited to the amount of the additional investment determined to represent the funding of prior losses.
+The consensus is effective for additional investments made after 5 February 2003.
+This consensus is not expected to have a material impact on BTs consolidated financial statements.
+134 BT Annual Report and Form 20-F 2003

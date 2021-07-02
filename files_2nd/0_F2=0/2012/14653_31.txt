@@ -1,0 +1,81 @@
+glossary 2G Second Generation Second generation remains the most common type of wireless cellular communication in use globally.
+Although its primary focus has been voice service and short message service SMS, it has also been enhanced to allow low rate data communication.
+3G Third Generation Third generation of mobile communications that promises data rates of hundreds of kilobits per second to tens of megabits per second.
+4G Fourth Generation Fourth generation of mobile communications that promises data rates of tens to hundreds of megabits per second.
+Future 4G technologies promise data rates in excess of one gigabit per second.
+Application Security The use of software, hardware and procedural methods to prevent security flaws in applications and protect them from external threats.
+Backhaul The portion of a network that comprises the intermediate links between the core network, or backbone, and the subnetworks at the edge of the entire hierarchical network.
+BeiDou2 formerly Compass Chinas second generation global satellite navigation system, which is under construction but eventually planned to consist of 35 satellites.
+Service was launched in China during 2011, with plans to provide service globally by 2020.
+Bluetooth A wireless technology used to exchange data between devices over short distances, generally less than 10 metres 33 feet, using a low power, low cost transceiver in the devices.
+Broadband Generic term for bit rates greater than approximately 1.5 to 2 megabits per second.
+CDMA Code Division Multiple Access A digital cellular technology standard which allows numerous signals to occupy a single transmission channel, thus increasing network capacity: used in 2G and 3G radio communications.
+Cellular Networks Wireless communications networks consisting essentially of two parts: the Radio Access Network RAN, which controls transmission and reception of radio signals, and the Core Network, which provides switching, transport and enhanced services for traffic emanating from and directed to the cellular networks RAN.
+Chipset Platforms A device a chip or part of a chip that comprises a baseband processor to manage the radio functions in a mobile device, which may include WiFi and Bluetooth.
+Some chipset platforms may also integrate an application processor.
+Cloud Computing The delivery of computing as a service rather than a product, whereby shared resources, software, and information are provided to computers and other devices as a metered service over a network typically the internet.
+Content Delivery The delivery of media content such as audio, video, software and video games over online delivery mediums, such as broadcasting or the internet.
+Converged Network A single network able to carry voice, video and data.
+Usually based on Internet Protocol IP.
+Core Networks A combination of high capacity switches and transmission facilities which form the backbone of a carrier network.
+End users gain access to the core of the network from the Edge Network.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+Deep Packet Inspection A term used to describe the capabilities of a firewall or an intrusion detection system to look within the application payload of a packet or traffic stream and make decisions on the significance of that data based on the content of that data.
+141 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 glossary CONTINUED DSL Digital Subscriber Line Technology that uses existing telephone copper lines to transport high bandwidth data such as multimedia and video to service subscribers.
+Ethernet A family of networking technologies originally developed for local area networks, which migrated to metro area networks and eventually became the dominant standard in wireline networks worldwide.
+Galileo A global navigation satellite system being built by the European Union and European Space Agency that will offer users anywhere in the world metreclass geographic positioning when it becomes operational between 2014 and 2019.
+Gateway An internetworking system capable of joining together two networks that use different base protocols.
+GbE Gigabit Ethernet A transmission technology based on the Ethernet frame format and protocol used in local area networks that provides a data rate of 1 billion bits per second one gigabit and which is used as the backbone in many enterprise networks.
+GLONASS Global Navigation A global navigation satellite system operated by the Russian Federation.
+Deployment Satellite System began in 1976 and, although the system fell into disrepair in the 1990s, full global service was restored in 2011.
+GNSS Global Navigation Satellite Systems The standard generic term for satellite navigation systems that provide autonomous geospatial positioning with global coverage.
+GNSS allows users receivers to determine their location to within a few metres by employing a triangulation technique that uses information from multiple satellites.
+GPS Global Positioning System A global navigation satellite system operated by the United States government for determining a users location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+IMS Internet Protocol Multimedia A standardised nextgeneration architecture for telecoms operators who want to provide Subsystems mobile and fixed multimedia services.
+Intrusion Detection Prevention A technology that gathers and analyses information across gateways, servers and desktops to identify possible security breaches that can occur from within or outside an organisation.
+IP Internet Protocol A network protocol used on the internet and other network devices to facilitate and control the flow of data.
+Each computer known as a host has at least one IP address that uniquely identifies it from all other computers.
+Infrastructure Test Optimization The practices required to ensure that infrastructures meet a defined quality of service and quality of experience that are necessary to meet strategic business objectives.
+Load Balancer In server farms, a load balancer accepts IP packets and then distributes them among identical web servers, enabling web servers to be added or taken out of service as loads fluctuate.
+Location Based Services The delivery of location specific information, mapping, business and public data over a wireless network.
+These services require the ability to locate a users mobile device by means of direct satellite or cellular assisted satellite signals.
+LTE Long Term Evolution An advanced wireless data communications technology standard sometimes called 4G which is an evolution of 3G UMTS standards.
+In addition to a new wireless interface specification, LTE uses a simplified flat IPbased network architecture.
+142 LTEAdvanced An evolution of LTE technology, specified in 3GPP Release 10 and later specifications, regarded by some as the first true 4G technology.
+Mobile Packet Core An integrated IPbased mobile transport network with the ability to support 2G, 3G and LTE coexistence.
+MultipleSystem Operator A company that owns more than one cable system, often in different locations.
+Most commonly used to refer only to companies that own a large number of cable systems.
+NFC Near Field Communication A standard for smartphones and similar devices which allows them to establish radio communication with each other by touching them together or bringing them into close proximity, usually no more than a few centimetres.
+Applications include contactless transactions such as payments and data exchange.
+OpenFlow An open standard network protocol from the Open Network Foundation ONF.
+OpenFlow enables softwaredefined networking for programmable networks.
+OTA OvertheAir Any kind of event, transfer, or transaction that takes place wirelessly using the cellular network, as opposed to using a cable or other local connection.
+Testing of mobile device performance is commonly carried out using OTA techniques that take into account antenna design and implementation.
+Physical Layer In the Open Systems Interconnection OSI communications model, the physical layer supports the electrical or mechanical interface to the physical medium.
+RF Radio Frequency A technology used for wireless broadcasting and or communications that uses radio waves within the range over which they may be transmitted, from about 3 kilohertz to about 300,000 megahertz.
+SDN Software Defined Networking An approach to networking in which control is decoupled from hardware and given to a software application called a controller.
+Small Cell A generic term for microcells, picocells and femtocells.
+Small cells provide network coverage in dead zones within a macrocell the coverage area of a traditional cellular base station and extra network capacity by offloading mobile data traffic from macrocells.
+Switch A mechanical, electrical or electronic device which opens or closes circuits, completes or breaks an electrical path, or selects paths or circuits.
+Switching Fabric The component at the heart of a data communications switch that allows any input port to send data to any output port.
+TDLTE Time Division LTE LTE standards accommodate cellular network and subscriber transmissions in different frequency bands Frequency Division Duplex, as well as in the same frequency band Time Division Duplex, often referred to as TDLTE.
+TDLTE is expected to be widely deployed in major Asian markets such as China, India and Japan, as well as parts of North America and Europe.
+TDM Time Division Multiplexing A digital transmission method that combines signals from multiple sources on a common path increasing capacity.
+Test Automation The ability to control all elements of a test system from a single point in order to execute test cases automatically.
+Timing Clock synchronization between the different elements in a communications network.
+UMTS Universal Mobile The most common 3G wireless technology globally, which uses WCDMA on its underlying Telecommunications System air interface and offers support for data transfer rates from hundreds of kilobits per second to tens of megabits per second.
+143 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 glossary CONTINUED Virtualization Technologies designed to provide a layer of abstraction from the physical characteristics of computing resources to simplify the way in which other systems, applications, or end users interact with those resources.
+VoLTE Voice over LTE A standardsbased scheme adopted by the GSMA, the cellular industrys association, to provide voice service over dataonly LTE networks.
+VoLTEs use of an IP Media Subsystem enables voice to be offered as part of a rich communications solution, integrated with services such as messaging, live video sharing and file transfer.
+WCDMA Wideband CDMA An International Telecommunication Union standard derived from CDMA which is used globally in 3G mobile communications.
+WiFi A mechanism that enables devices such as personal computers, video game consoles, smartphones or digital audio players to exchange data wirelessly over a computer network and connect to network resources, such as the internet.
+Coverage ranges from a few rooms to several square miles, depending on the number of access points used.
+144 ContaCt details Registered office ADR Depositary Spirent Communications plc The Bank of New York Mellon Corporation Northwood Park PO Box 358516 Gatwick Road Pittsburgh PA 152528516 Crawley West Sussex RH10 9XN USA United Kingdom Tel: 1 888 269 2377 toll free US Tel: 1 201 680 6825 outside US Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: shrrelations@bnymellon.
+com Brokers Joint Registered in England No: 470893 Jefferies Hoare Govett Vintners Place Auditor Ernst & Young LLP 68 Upper Thames Street London EC4V 3BJ 1 More London Place London SE1 2AF United Kingdom United Kingdom Tel: 44 0 20 7029 8000 Website: www.
+com UBS Limited Registrar 1 Finsbury Avenue London EC2M 2PP Equiniti Limited Aspect House United Kingdom Spencer Road Lancing Tel: 44 0 20 7567 8000 Website: www.
+com West Sussex BN99 6DA United Kingdom Financial PR Advisers Tel: 0871 384 2126 UK FTI Consulting Limited Holborn Gate Tel: 44 0 121 415 7047 overseas Text phone for shareholders with hearing difficulties : 26 Southampton Buildings London WC2A 1PB 0871 384 2255 UK 44 0 121 415 7028 overseas Website: www.
+co. uk United Kingdom Tel: 44 0 20 3077 0500 Website: www.
+com Registered office Spirent Communications plc Northwood Park Gatwick Road Crawley West Sussex RH10 9XN United Kingdom Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: investor.
+com Registered in England No: 470893 Spirent and the Spirent logo are trademarks or registered trademarks of Spirent Communications plc.
+All other trademarks or registered trademarks mentioned herein are held by their respective companies.

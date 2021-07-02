@@ -1,0 +1,48 @@
+10 Computacenter plc In partnership The following pages illustrate how we worked closely with five of our customers in 2002, understanding their issues and developing innovative solutions to help them reduce cost and realise value from technology.
+Additional case studies, are available on our website at www.
+11 Greater London Authority 12 THUS plc 13 Royal Mail 14 Bank of Ireland UK Financial Services 15 Swift 11 Computacenter plc Greater London Authority The challenge needs.
+This included deploying six new Compaq the network is more reliable and we expect to see a To provide a flexible, scalable and reliable IT DL380 servers to underpin the new email system and reduction in our IT support costs.
+The infrastructure infrastructure to underpin the current and future desktop environment, plus upgrading more than 500 also has the scalability and flexibility to enable us to needs of the GLA, including various e-government desktops.
+Several applications and services were progress our e-government programme.
+Manny Lewis, the GLAs Executive Director consolidated on to single machines, freeing up a of Corporate Services, explains, We didnt have the number of servers and enabling the GLA to make Services provided technical expertise in-house for such a roll-out and, more effective use of its IT infrastructure.
+The Technical consultancy, systems integration, project to be honest, neither should we expect to.
+We also solution was thoroughly tested in a proof of concept management, technology supply and systems had a tight window to complete the project, as the laboratory and then migrated over three weeks.
+infrastructure had to be in place prior to the relocation to City Hall.
+The benefits Manny singles out the new infrastructure for praise.
+The solution There have been a lot of benefits, many of them Computacenter assessed the functional requirements hidden to users and the outside world.
+For example of the GLA, and tailored a solution to the authoritys the IT team are finding it much easier to do fixes, 12 Computacenter plc THUS plc The challenge The solution more remote fixing capabilities, comments Bob.
+THUS, one of the UKs leading providers of voice, Computacenter was awarded a five-year contract Computacenter has successfully managed to data, internet and contact centre services, sought for the end-to-end management of desktops and reduce our IT costs, but at the same time helped to reduce its IT operating costs while still retaining laptops, as well as THUSs file and print servers.
+us build an IT strategy that is stable and flexible, and high-performance systems and customer service.
+Computacenter was able to prove that it had the can respond to the changing needs of the market.
+resourcing capacity and expertise to scale its Bob Baxter, Architecture and Standards Manager, services according to the needs of the business, Services provided comments, Not only do IT departments have to says Bob Baxter.
+Computacenter is helping THUS Managed desktop service, encompassing technology cope with the day-to-day management of their standardise on Windows 2000. procurement and deployment, systems installation infrastructures, they also have to identify strategic and support, and asset management.
+ways to enhance the use of technology.
+Plus, there The benefits is a constant need to find ways to reduce the total We have already been able to reduce the number cost of ownership of IT systems.
+of helpdesk calls and support costs, by introducing 13 Computacenter plc Royal Mail The challenge that could be re-sold and safely dispose of the refurbishment of our old systems.
+Not only does With a third of its IT systems replaced every year, remainder.
+Within a short while RDC was able to that help to reduce our acquisition budget Royal Mail was keen to maximise the value of its return enough money to the company from the re-sale significantly, it will really drive up our return on aged assets.
+Also, with the imminent introduction of systems to cover the cost of disposing of the rest.
+of a new EU Environmental Directive, the company needed to ensure that all its IT equipment was The benefits Services provided recycled, and harmful materials were not discharged Not only have we turned disposal from an overhead Equipment refurbishment, re-sale of usable systems, into the environment.
+into a revenue stream, but the ability to re-use old re-cycling of hazardous components and asset systems is exceptionally cost effective, says Paul management.
+The solution Jopp, Infrastructure Deployment Manager for Royal As part of the implementation of a standard Mail.
+When you compare the cost of upgrading at operating environment, RDC the total asset 250 per system with the cost of replacement at management business of Computacenter, helped around 650, you soon see the economic sense.
+the customer identify systems that could be We expect in future to see around one-third of each refurbished for re-use, separate them from those years intake of new systems coming from RDCs 14 Computacenter plc Bank of Ireland UK Financial Services The challenge guaranteed 99.8% uptime during core business Colin Halsall, Director of IS Bank of Ireland Personal To provide an optimum, end-to-end mortgage hours.
+This is achieved through the use of remote Lending UK, adds, The business benefits of the service, Bank of Ireland UK required the roll-out monitoring tools that continuously review the implementation are numerous.
+By enhancing the of an application to deal with the entire mortgage performance of all the key components and capacity, flexibility and scalability of our IT, we have process, from requesting credit checks to providing identify in advance any problems before they been able to improve the efficiency of our lending formal offers.
+However, it needed to minimise impact the business.
+services for the benefit of both the business and business continuity risks during the implementation our customers.
+and, once the application was operational, ensure The benefits ongoing high availability.
+Peter Stafford, Director of IS for Bank of Ireland UK, Services provided says, With so much riding on its success, we did Technical consultancy, systems integration and The solution not want to have any risks around the technology, engineering, project management, managed Computacenter successfully designed, tested and and so looked to Computacenter to help develop the availability via remote monitoring, and technology deployed an infrastructure to underpin the new platform, and then manage the ongoing availability supply.
+mortgage application, and provides an ongoing of the infrastructure.
+We have been pleased with the managed availability service.
+The infrastructure is results, and have suffered no outages.
+15 Computacenter plc SWIFT The challenge teams in each country, which work under the service best practice, Computacenter has both standardised Over 7,000 financial institutions in 197 countries desks control.
+The contract commits to service and improved the level of service, while a contractual connect to one another through SWIFT, exchanging levels agreed with the customer and provides cost reduction plan has allowed SWIFT to reduce millions of messages, valued in trillions of dollars, coverage 24 hours a day for 1,800 users in Europe, service costs on a year-by-year basis.
+To sharpen its focus on this core Asia Pacific and the USA.
+business, SWIFT wanted to provide a common, high Services provided level of support to its internal IT users across all The benefits Global 24x5 service desk, first and second-level geographies, through one point of contact.
+It also Werner Hellinckx, Head of MIS Management incident and problem management, asset sought to reduce its IT support costs.
+of Internal Services at SWIFT, comments, management and request management with Our agreement with Computacenter is a desk-side services in Belgium, Netherlands, The solution move away from SWIFTs traditional resourcing Hong Kong and USA.
+Computacenter provides SWIFT with IT helpdesk arrangements.
+With the service level agreements that and related services within a global three-year Computacenter offers, were able to provide the contract.
+"We provide a centralised IT user support same level of service globally to all of our internal desk in La Hulpe, Belgium, and deskside support customers. """
+Working to ITIL service management

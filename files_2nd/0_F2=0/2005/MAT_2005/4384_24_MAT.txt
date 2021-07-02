@@ -1,0 +1,68 @@
+Notes_NN
+to_PIN
+the_DT
+Group_NN
+Financial_NN
+Statements_NOMZ
+continued_VBD
+11_CD
+._.
+The_DT
+fair_JJ
+value_NN
+of_PIN
+these_DEMO
+assets_NN
+at_PIN
+1_CD
+January_NN
+2004_CD
+is_VPRT [BEMA]
+31,290,000_CD
+._.
+The_DT
+carrying_VBG
+amount_NN
+of_PIN
+these_DEMO
+assets_NN
+at_PIN
+1_CD
+January_NN
+2004_CD
+reported_VBN [PUBV]
+under_IN
+UK_NN
+GAAP_NN
+was_VBD [BEMA]
+36,733,000_CD
+._.
+Therefore_CONJ
+,_,
+the_DT
+aggregate_JJ
+adjustment_NOMZ
+to_PIN
+the_DT
+carrying_VBG
+amounts_NN
+of_PIN
+these_DEMO
+assets_NN
+using_VBG [WZPRES]
+fair_JJ
+value_NN
+as_IN
+deemed_VBN [PRIV] [THATD]
+cost_NN
+was_VBD [BEMA]
+5,443,000_CD
+._.
+52_CD
+|_NN
+Dana_NN
+Petroleum_NN
+plc_NN
+2005_CD
+Annual_JJ
+Report_NN

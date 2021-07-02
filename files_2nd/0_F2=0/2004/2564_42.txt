@@ -1,0 +1,27 @@
+Glossary of footnotes ratio taken as per pricing assumptions since volumes are too low to Footnotes to the Network Statement of Costs permit reliable measurement.
+a These components include a number of different elements which are e Part of Core IN & Cambridge IN as shown in the Network Statement of used in different proportions for the delivery of services within this Costs.
+See also note 9 to the Statements of costs and charges for heading.
+As a result, no single volume of usage can be applied and so no Standard Services.
+f Costs and charges associated with PSTN, ISDN, PRS, Freefone, local b mm million minutes: ms million seconds: L lines: trans call fee & national call fee are all the same.
+transactions: cust customers: r rooms: ca cables: cct circuits: km kilometres.
+d This component is directly allocated to a single activity within the BT i Not used.
+j System set-up of 25.34p and 38.88p is included in the connection e This component had no costs for the year ending 31 March 2003. charges for LLU and Shared LLU respectively.
+f For those components included in core, the floors are distributed long k The services disclosed represent bundles of PPC standard services run incremental costs.
+For other network components, the floors are which do not correspond directly to the basis of charging for standard long run incremental costs.
+service hence a comparable average charge cannot be derived.
+g The ceilings are distributed stand alone costs.
+l See note 10 to the Statements of costs and charges for Standard Services.
+i See note 3 a. m See note 7 to the Statements of costs and charges for Standard j See note 3 b.
+Footnotes to the Notes to the Current Cost Financial Statements and n See note 11 to the Statements of costs and charges for Standard the Statements of costs and charges for Standard Services Services.
+o These units are the per annum average charge for 2mb circuits.
+a Zero volumes are attributed therefore an average price is shown.
+b Cost per DLE port independent of direction concentrator or network p mm million minutes: ms million seconds: L lines: trans transactions: cust customers: r rooms: ca cables: cct circuits: facing.
+km kilometres: ct2 2mb circuits: lk links: le local ends: eq c Usage factor for DLE FRIACO Virtual Path assumed to be consistent equipments.
+with pricing methodology Virtual Path LECO circuit excl.
+FRIACO q This is the total cost for this component.
+port DLE LECO adjustment ratio FRIACO port PPP.
+Adjustment ratio taken to be average outturn value for year.
+r BT's definition of mean capital employed includes short term investments calculated on a daily average basis rather than a simple d Usage factor for Single Tandem FRIACO Virtual Path assumed to be consistent with pricing methodology Virtual Path LECO circuit excl.
+mean of opening and closing balances.
+outgoing port Single Tandem LECO adjustment ratio plus outgoing s See note 3 c. port @ DLE LTC adjustment ratio plus LTC circuit excl.
+FRIACO port LTC adjustment ratio plus FRIACO port plus PPP.

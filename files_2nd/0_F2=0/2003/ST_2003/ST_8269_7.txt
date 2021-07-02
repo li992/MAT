@@ -1,0 +1,44 @@
+GLOSSARY_NNP ADJUSTED_NNP excluding_VBG the_DT effect_NN of_IN exceptional_JJ items_NNS and_CC MANAGEMENT_NNP CONTRACT_NNP a_DT contract_NN to_TO operate_VB a_DT hotel_NN on_IN behalf_NN of_IN the_DT any_DT relevant_JJ tax_NN ._.
+AVERAGE_JJ DAILY_NNP RATE_NNP ADR_NNP room_NN revenue_NN divided_VBN by_IN the_DT number_NN of_IN room_NN MARKET_NNP CAPITALISATION_NNP the_DT value_NN attributed_VBD to_TO a_DT listed_VBN company_NN by_IN nights_NNS sold_VBN ._.
+Also_RB known_VBN as_IN average_JJ room_NN rate_NN ._.
+multiplying_VBG its_PRP$ share_NN price_NN by_IN the_DT number_NN of_IN shares_NNS in_IN issue_NN ._.
+BASIC_JJ EARNINGS_NNS PER_IN SHARE_NN earnings_NNS available_JJ for_IN ordinary_JJ shareholders_NNS divided_VBN by_IN the_DT weighted_JJ average_JJ number_NN of_IN MIDSCALE_NNP HOTEL_NNP a_DT hotel_NN in_IN the_DT three_CD four_CD star_NN category_NN ,_, e._FW g._FW ordinary_JJ shares_NNS in_IN issue_NN during_IN the_DT year_NN ._.
+Holiday_NNP Inn_NNP ,_, Holiday_NNP Inn_NNP Express_NNP ._.
+BOND_NN a_DT long-dated_JJ note_NN ,_, being_VBG an_DT obligation_NN to_TO repay_VB ._.
+NET_NNP CAPITAL_NNP EXPENDITURE_NNP cash_NN expended_VBD on_IN fixed_JJ assets_NNS ,_, less_JJR cash_NN received_VBN from_IN selling_VBG fixed_VBN assets_NNS ,_, excluding_VBG COMMERCIAL_JJ PAPER_NN a_DT negotiable_JJ short-term_JJ unsecured_JJ promissory_JJ major_JJ acquisitions_NNS and_CC disposals_NNS ._.
+note_NN ,_, issued_VBN by_IN a_DT corporate_JJ or_CC other_JJ borrower_NN normally_RB for_IN a_DT maximum_NN of_IN one_CD year_NN ._.
+NET_NNP CASH_NNP FLOW_NNP cash_NN flow_NN from_IN all_DT operations_NNS ,_, including_VBG major_JJ and_CC one-off_JJ payments_NNS and_CC receipts_NNS ._.
+COMPETITIVE_JJ SEGMENT_NN the_DT broad_JJ market_NN segment_NN against_IN which_WDT a_DT hotel_NN brand_NN competes_VBZ ._.
+NET_NNP DEBT_NN borrowings_NNS less_RBR current_JJ asset_NN investments_NNS and_CC cash_NN at_IN bank_NN and_CC in_IN hand_NN ._.
+COMPETITIVE_NNP SET_NNP the_DT specific_JJ local_JJ hotels_NNS against_IN which_WDT a_DT particular_JJ hotel_NN competes_VBZ ._.
+NET_NNP OPERATING_NNP ASSETS_NNP total_JJ assets_NNS less_RBR liabilities_NNS ,_, excluding_VBG all_DT assets_NNS and_CC liabilities_NNS of_IN a_DT financing_NN nature_NN ._.
+CONTINGENT_JJ LIABILITY_NN a_DT liability_NN that_WDT is_VBZ contingent_JJ upon_IN the_DT occurrence_NN of_IN one_CD or_CC more_JJR uncertain_JJ future_NN events_NNS ._.
+NORMAL_JJ CASH_NN FLOW_NN cash_NN flow_NN from_IN all_DT operations_NNS before_IN major_JJ and_CC one-off_JJ payments_NNS and_CC receipts_NNS ._.
+CONTINUING_VBG OPERATIONS_NNS operations_NNS not_RB classified_VBN as_IN discontinued_VBN and_CC including_VBG acquisitions_NNS made_VBN during_IN the_DT year_NN ._.
+OCCUPANCY_NN RATE_NN rooms_NNS occupied_VBN by_IN hotel_NN guests_NNS ,_, expressed_VBD as_IN a_DT percentage_NN of_IN rooms_NNS that_WDT are_VBP available_JJ ._.
+CURRENCY_NN SWAP_NN an_DT exchange_NN of_IN a_DT deposit_NN and_CC a_DT borrowing_NN ,_, each_DT denominated_VBN in_IN a_DT different_JJ currency_NN ,_, for_IN OPERATING_NNP CASH_NNP FLOW_NNP cash_NN flow_NN from_IN operations_NNS but_CC before_IN payments_NNS an_DT agreed_JJ period_NN of_IN time_NN ._.
+for_IN tax_NN and_CC to_TO providers_NNS of_IN finance_NN through_IN interest_NN and_CC dividends_NNS ,_, and_CC before_IN major_JJ and_CC DEBENTURE_NNP a_DT long-term_JJ loan_NN ,_, usually_RB secured_VBN by_IN property_NN ._.
+DISCONTINUED_JJ OPERATIONS_NNS operations_NNS that_WDT have_VBP been_VBN sold_VBN or_CC terminated_VBN OPERATING_NNP MARGIN_NNP operating_NN profit_NN expressed_VBD as_IN a_DT percentage_NN and_CC where_WRB the_DT sale_NN or_CC termination_NN has_VBZ had_VBN a_DT of_IN turnover_NN ._.
+material_NN effect_NN on_IN the_DT nature_NN and_CC focus_NN of_IN the_DT Groups_NNS operations_NNS ._.
+PIPELINE_NNP signed_VBD executed_VBN agreements_NNS ,_, including_VBG franchises_NNS and_CC management_NN contracts_NNS ,_, for_IN EBITDA_NNP earnings_NNS before_IN interest_NN ,_, taxation_NN ,_, depreciation_NN hotels_NNS which_WDT will_MD enter_VB the_DT InterContinental_NNP and_CC amortisation_NN and_CC exceptional_JJ items_NNS ._.
+Hotels_NNPS system_NN at_IN a_DT future_JJ date_NN ._.
+EXCEPTIONAL_JJ ITEMS_NNS material_NN items_NNS deriving_VBG from_IN ordinary_JJ activities_NNS REVENUE_NNP PER_NNP AVAILABLE_NNP room_NN revenue_NN divided_VBN by_IN the_DT number_NN of_IN room_NN but_CC which_WDT are_VBP disclosed_VBN separately_RB because_IN ROOM_NNP RevPAR_NNP nights_NNS that_WDT are_VBP available_JJ can_MD be_VB mathematically_RB of_IN their_PRP$ size_NN or_CC incidence_NN ._.
+derived_VBN from_IN occupancy_NN rate_NN multiplied_VBN by_IN EXTENDED-STAY_NNP HOTEL_NNP a_DT hotel_NN designed_VBN for_IN guests_NNS staying_VBG for_IN periods_NNS average_JJ room_NN rate_NN ._.
+of_IN time_NN longer_RBR than_IN a_DT few_JJ nights_NNS and_CC tending_VBG to_TO ROOM_NNP REVENUE_NNP revenue_NN generated_VBD from_IN the_DT sale_NN of_IN room_NN nights_NNS ._.
+have_VB a_DT higher_JJR proportion_NN of_IN suites_NNS than_IN normal_JJ hotels_NNS ,_, e._FW g._FW Staybridge_NNP Suites_NNP ._.
+ROYALTY_NN RATE_NN the_DT percentage_NN of_IN room_NN revenue_NN that_IN a_DT franchisee_NN pays_VBZ to_TO the_DT brand_NN owner_NN for_IN use_NN of_IN FORWARD_NNP RATE_NNP AGREEMENT_NNP a_DT contract_NN to_TO receive_VB or_CC pay_VB the_DT difference_NN the_DT brand_NN name_NN ._.
+between_IN an_DT agreed_JJ interest_NN rate_NN and_CC the_DT actual_JJ rate_NN at_IN an_DT agreed_JJ future_JJ date_NN ,_, on_IN a_DT specified_VBN SUBSIDIARY_NNP UNDERTAKING_NNP a_DT company_NN in_IN which_WDT the_DT Group_NNP holds_VBZ a_DT stake_NN notional_JJ principal_NN ._.
+and_CC over_IN which_WDT it_PRP exercises_VBZ dominant_JJ influence_NN ._.
+FRANCHISEE_NN operator_NN who_WP uses_VBZ a_DT brand_NN under_IN licence_NN from_IN SYSTEM_NNP SIZE_NNP number_NN of_IN hotels_NNS or_CC rooms_NNS owned_VBN ,_, managed_VBD the_DT brand_NN owner_NN e._FW g._FW InterContinental_NNP Hotels_NNPS ._.
+or_CC franchised_VBN by_IN InterContinental_NNP Hotels_NNPS ._.
+FRANCHISOR_NN brand_NN owner_NN e._FW g._FW InterContinental_NNP Hotels_NNPS who_WP UNDERLYING_NNP adjusted_VBN to_TO remove_VB items_NNS that_WDT distort_VBP licenses_NNS brands_NNS for_IN use_NN by_IN other_JJ operators_NNS ._.
+GEARING_VBG net_JJ debt_NN expressed_VBN as_IN a_DT percentage_NN of_IN UPSCALE_NNP HOTEL_NNP a_DT four_CD five_CD star_NN full-service_JJ hotel_NN characterised_VBD shareholders_NNS funds_NNS ._.
+by_IN superior_JJ service_NN ,_, e._FW g._FW InterContinental_NNP ,_, Crowne_NNP Plaza_NNP ._.
+GOODWILL_NN the_DT difference_NN between_IN the_DT consideration_NN given_VBN for_IN a_DT business_NN and_CC the_DT total_NN of_IN the_DT values_NNS of_IN UK_NNP GAAP_NNP accounting_NN principles_NNS generally_RB accepted_VBD the_DT separable_JJ assets_NNS and_CC liabilities_NNS comprising_VBG in_IN the_DT United_NNP Kingdom_NNP ._.
+US_NNP GAAP_NNP accounting_NN principles_NNS generally_RB accepted_VBD GROSS_NNP OPERATING_NNP MARGIN_NNP operating_NN profit_NN before_IN fixed_VBN costs_NNS and_CC in_IN the_DT United_NNP States_NNPS ._.
+overheads_NNS ,_, expressed_VBD as_IN a_DT percentage_NN WEIGHTED_NNP AVERAGE_NNP the_DT average_NN of_IN the_DT monthly_JJ exchange_NN of_IN turnover_NN ._.
+EXCHANGE_NN RATE_NN rates_NNS ,_, weighted_VBN by_IN reference_NN to_TO monthly_JJ HEDGING_NN the_DT reduction_NN of_IN risk_NN ,_, normally_RB in_IN relation_NN to_TO operating_VBG profit_NN ._.
+foreign_JJ currency_NN or_CC interest_NN rate_NN movements_NNS ,_, WORKING_VBG CAPITAL_NN the_DT sum_NN of_IN stocks_NNS ,_, debtors_NNS ,_, creditors_NNS and_CC by_IN making_VBG offsetting_VBG commitments_NNS ._.
+accruals_NNS of_IN a_DT trading_NN nature_NN ,_, excluding_VBG HOLIDEX_NNP FEES_NNS charges_NNS to_TO hotels_NNS under_IN management_NN and_CC financing_NN items_NNS such_JJ as_IN corporate_JJ taxation_NN franchise_NN agreements_NNS for_IN the_DT use_NN of_IN Holidex_NNP ,_, and_CC proposed_VBD dividends_NNS ._.
+INCOME-GENERATING_NNP UNIT_NNP a_DT portfolio_NN of_IN similar_JJ assets_NNS that_WDT are_VBP subject_JJ to_TO the_DT same_JJ economic_JJ and_CC commercial_JJ influences_NNS ._.
+INTEREST_NN RATE_NN SWAP_VBP an_DT agreement_NN to_TO exchange_VB fixed_VBN for_IN floating_VBG interest_NN rate_NN streams_NNS or_CC vice_NN versa_RB on_IN a_DT notional_JJ principal_NN ._.

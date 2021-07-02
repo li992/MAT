@@ -1,0 +1,70 @@
+Accounting policies Basis of preparation The groups main accounting policies are set out below.
+The financial statements are prepared in accordance with the historical cost convention, except for the companys investments see below, and all applicable United Kingdom accounting standards.
+As the group profit and loss account is already at historical cost no separate note of historical cost profit and loss is included as allowed by Financial Reporting Standard FRS 3.
+No profit and loss account is presented for the company as permitted by S230 2 of the Companies Act 1985.
+Basis of consolidation The consolidated group profit and loss account and balance sheet include the financial statements of the company and its subsidiary undertakings made up to 31 December 2003.
+The results of subsidiaries sold or acquired are included in the consolidated profit and loss account up to, or from, the date control passes.
+Intra-group sales and profits are eliminated fully on consolidation.
+On acquisition of a subsidiary, all of the subsidiarys assets and liabilities that exist at the date of acquisition are recorded at their fair values reflecting their condition at that date.
+All changes to those assets and liabilities, and the resulting gains and losses, that arise after the group has gained control of the subsidiary are dealt with in the post acquisition profit and loss account.
+Foreign currencies The results of the overseas subsidiary, joint venture and associated undertakings are translated at the average exchange rates of the period during which they arise.
+Overseas subsidiary undertakings assets and liabilities and the net investment in joint ventures and associated undertakings are translated at the year end exchange rates.
+Differences arising on translation, together with differences on foreign currency loans of the group which match investments, are dealt with through reserves.
+Derivative financial instruments The group enters into derivative instruments primarily to manage exposures to fluctuations in interest rates and foreign currency exchange rates.
+Interest differentials under interest rate swap instruments and forward rate agreements FRAs are recognised on an accruals basis.
+It is the groups policy, where appropriate, to protect the sterling value of its estimated future foreign currency net receivables through the use of forward contracts or currency options.
+Net revenues and related net receivables covered by forward exchange contracts or options are translated into sterling at contract rates.
+No account is taken of profits or losses on forward exchange contracts or options which are intended as a hedge against future transactions: such profits and losses are accounted for so as to match the exchange differences arising on the underlying currency transactions.
+Research and development expenditure Research and development expenditure is written off as it is incurred.
+Fixed assets Fixed assets are stated at cost less depreciation and provision for impairment, where appropriate.
+Cost includes appropriate labour and directly attributable costs.
+Finance costs on borrowings used to finance the construction of tangible fixed assets are written off to the profit and loss account as incurred.
+Directly acquired intangible assets, comprising patents, patent applications, trademarks and know-how, are stated at cost less amortisation.
+Intangible assets, other than goodwill, acquired in a business combination, which are not separable and measurable are not capitalised.
+Goodwill arising on consolidation represents the excess of the fair value of the consideration over the fair value of the identifiable net assets acquired.
+Goodwill and negative goodwill arising on the acquisition of subsidiary undertakings, joint ventures and associated undertakings on or prior to 31 December 1997 was written off immediately against reserves.
+Goodwill arising on acquisitions on or after 1 January 1998 is capitalised and amortised over its estimated useful economic life where the goodwill is regarded as having a limited useful economic life.
+In accordance with the requirement of Financial Reporting Standard FRS 10, capitalised goodwill is reviewed for evidence of impairment at the end of the first full financial year following the initial date of recognition.
+35 Depreciation and amortisation are calculated as follows: Intangible assets Amortised on straight-line basis at rates from 5% to 36% p. a.
+Goodwill Amortised on a straight-line basis at rates currently from 5% to 14% p. a. Tangible assets Depreciation is calculated by the straight-line method at the following annual rates: Land Nil Buildings 2.5% Plant and machinery, fixtures, At varying rates calculated to write off the assets over their expected fittings, tools and equipment useful lives.
+A substantial part of the groups plant represents production support facilities depreciated at the same rate, 2.5% p. a. as the buildings in which they are contained.
+Most of the other assets are depreciated at rates currently from 9% to 12% p. a.
+Assets under construction Nil Investments a Trade investments Trade investments are valued at cost, less any provision for impairment, restated to year end exchange rates if the underlying investment is denominated in foreign currency.
+b Investments in joint ventures and associated undertakings A joint venture is an undertaking which the group controls jointly with one or more other venturers.
+An associated undertaking is one in which the group has a long term participating interest and over which it exercises significant influence.
+The groups share of the profits less losses of joint venture and associated undertakings is included in the consolidated profit and loss account and its interest in their net assets and associated goodwill arising on acquisition net of amortisation is included in investments in the consolidated balance sheet.
+c Company investments Investments in subsidiary and other undertakings are held at original cost less any provision for impairment, except where they are foreign currency investments hedged in whole or part by related foreign currency borrowings or other hedging instruments.
+Hedged investments are held at cost less provision for impairment but are retranslated for foreign exchange movements to the extent that they are hedged.
+Where the amount of foreign currency hedge is in excess of cost, the investment is stated at the underlying foreign currency net asset value.
+Turnover Turnover consists of royalties and sales of goods and services at invoiced values net of discounts, returns and value added tax.
+Revenue generated under Technology Transfer agreements is recognised evenly over the life of the agreement.
+Sales between group companies are excluded.
+Revenues are recognised once the realisation of the consideration is reasonably assured and the provision of goods or services is substantially complete with respect to the delivery of the specific product or performance of the related service.
+This will normally be the case when there are no material uncertainties or performance duties outstanding which could prevent the group from enforcing the sales transaction, and collectability is reasonably assured.
+Stocks Stocks are stated at the lower of cost and net realisable value.
+Cost is determined on a first in, first out basis and includes all direct expenditure and, in the case of manufactured items, production overheads based on the normal level of business activity.
+Net realisable value is the price at which the stocks can be realised in the normal course of business after allowing for the costs of realisation and, where appropriate, the costs of conversion.
+Provision is made for obsolescent and slow moving stocks and for radioactive decay.
+Effluent costs The costs associated with radioactive waste arising from operations for which an authorised disposal route is available, principally low level and very low level waste, are written off in the year in which they are incurred.
+36 Provision is also made as incurred for the eventual disposal costs of the groups intermediate level waste which arises from its operations.
+These provisions are based on the latest technical assessment of the process and methods likely to be used to dispose of this waste and on industry estimates of the likely costs of the necessary disposal facilities under the relevant Governments preferred disposal route.
+They are stated in the balance sheet at current price levels, with the restatement of provisions made in prior years to reflect current price levels included as a charge in the profit and loss account for the year.
+Radioactive decommissioning costs The group recognises in full a provision discounted using a real discount rate of 4% for the cost of radioactive decommissioning when the relevant fixed asset becomes operational and an equivalent asset is also recognised.
+The cost of radioactive decommissioning is determined on a going concern basis assuming that the manufacture or handling of radioactive products continues at the relevant site or facility on which the asset is operated for the foreseeable future.
+In the unlikely event that the group is required to totally discontinue activities at one of its nuclear operating sites the full costs of exiting and decommissioning would be higher.
+The relevant decommissioning asset is capitalised in the balance sheet in association with the fixed asset to which it relates and is amortised over the life of the asset.
+The unwinding of the discount on the decommissioning provision is charged in the profit and loss account as part of the interest charge.
+Further details on the groups decommissioning policy can be found in note 22.
+Government grants Investment grants have been treated as deferred income and are released to the profit and loss account at the same rate as the depreciation charge on the assets to which they relate.
+Revenue grants are matched with the related expenditure.
+Taxation Taxation charged against profits is calculated at the appropriate local rate of tax for each group company.
+Except for timing differences relating to revaluations, rolled over taxable gains and unremitted income, provision is made for all timing differences that would give rise to a deferred tax liability.
+Deferred tax assets are recognised to the extent that it is more likely than not they will be recoverable.
+Pensions The group operates defined benefit and defined contribution pension schemes under arrangements which have been separately established by the relevant group company.
+In respect of the defined benefit schemes, actuarial valuations are made regularly and the contributions payable are adjusted as appropriate.
+Pension costs are accounted for on the basis of charging the expected cost of providing pensions over the period during which the group benefits from the employees services.
+The effects of variations from regular cost are spread over the expected remaining service lives of members of the scheme.
+In respect of defined contribution pension schemes, costs are charged as incurred.
+Leases Rentals payable under operating leases are charged over the lease term on a straight-line basis or on the basis of actual rentals payable where this fairly reflects usage.
+Rentals receivable are treated as income in the periods to which they relate.
+Where assets are financed by leasing arrangements that give rights approximating to ownership, the assets are treated as if they had been purchased outright and the corresponding liability to the leasing company is included as an obligation under finance leases.

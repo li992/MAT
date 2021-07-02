@@ -1,0 +1,20 @@
+Notes to the financial statements 125 17.
+Directors remuneration Information covering directors remuneration, interests in shares and share options of BT Group plc, the ultimate parent and pension benefits is included in note 26 to the consolidated financial statements of BT plc.
+Derivatives All of the companys derivative financial instruments are held at fair value on the companys balance sheet.
+The fair values of outstanding swaps and foreign exchange contracts are estimated using discounted cash flow models and market rates of interest and foreign exchange at the balance sheet date.
+Current Non current Current Non current Derivatives asset asset liability liability At 31 March 2015 m m m m Designated in a cash flow hedge 86 941 161 698 Designated in a fair value hedge 6 143 Other 5 148 7 229 Total derivatives 97 1,232 168 927 Current Non current Current Non current Derivatives asset asset liability liability At 31 March 2014 m m m m Designated in a cash flow hedge 73 394 74 514 Designated in a fair value hedge 6 61 Other 35 84 65 165 Total derivatives 114 539 139 679 During the year the company deferred a gain of nil 2013 14: 16m relating to the fair value of a derivative energy contract at initial recognition.
+At 31 March 2015 the amount deferred which is not yet recognised in the income statement is 14m 2013 14: 14m.
+With the exception of this contract which is included at Level 3, and valued using assumptions on volumes, inflation, and market energy prices, all other derivative financial instruments are categorised at Level 2 of the fair value hierarchy as defined on page 97.
+Hedging activities Derivatives may qualify as hedges for accounting purposes if they meet the criteria for designation as fair value hedges or cash flow hedges in accordance with FRS 26.
+Cash flow hedges Instruments designated in a cash flow hedge include interest rate swaps and cross-currency swaps hedging Euro and US Dollar denominated borrowings.
+Forward currency contracts are taken out to hedge step-up interest on currency denominated borrowings relating to our 2030 US Dollar bond.
+The hedged cash flows will affect profit or loss as interest and principal amounts are repaid over the remaining term of the borrowings see note 7.
+Forecast foreign currency purchases, principally denominated in US Dollar, Euro and Asia Pacific currencies are hedged 12 months forward, with certain specific transactions hedged further forward.
+The related cash flows will be recognised in the income statement over this period.
+All cash flow hedges were fully effective in the period.
+See note 12 for details of the movements in the cash flow hedge reserve.
+Fair value hedges Fair value hedges consist of interest rate and cross-currency swaps that are used to protect against changes in the fair value of the 2028 Sterling bond due to movements in market interest rates.
+The fair value movement on derivatives designated as hedging instruments in fair value hedges was a credit of 82m 2013 14: charge of 47m.
+Other derivatives The companys policy is not to use derivatives for speculative purposes.
+however, due to the complex nature of hedge accounting under FRS 26, some derivatives may not qualify for hedge accounting, or are specifically not designated as a hedge where natural offset is more appropriate.
+Derivative instruments that do not qualify for hedge accounting are classified as held for trading and held at fair value through profit or loss under FRS 26.

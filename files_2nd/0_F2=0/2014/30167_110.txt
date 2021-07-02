@@ -1,0 +1,28 @@
+130 Notes to the consolidated financial statements for the year ended 31 December 2014 Managing financial risk continued 26.
+Capital resources The Group seeks to maintain astrong capital base which meets both its regulatory requirements and supports the growth of the business, even under stressed conditions.
+The table below presents the Groups regulatory capital resources.
+From 1 January 2014 capital resources have been measured in accordance with CRD IV.
+Prior to this, they were measured under theBasel II framework.
+2014 2013 million million Shareholders equity 1,634.4 1,306.7 Regulatory deductions 41.4 110.6 Common Equity Tier 1 Total Tier 1 capital 1,593.0 1,196.1 Tier 2 capital 384.3 Total capital resources 1,977.3 1,196.1 Total capital resources increased during 2014 primarily reflecting the issue of Tier 2 capital in the form of subordinated liabilities on 1 May 2014 note 4, the issue of ordinary shares on 19 May 2014 note 23 and retained profits in the year.
+Further information is available in the Risk report on page 95.
+Market risk Definition and exposure Market risk is the risk of areduction in earnings, value or reserves caused by changes in the prices of financial instruments.
+Inaddition, market risk can arise as aresult of changes in customer behaviour, which may affect the maturity profiles of the Groups assets and liabilities.
+The Groups market risk consists almost entirely of exposure to changes in interest rates, includingthe margin between customer and market rates.
+This is the potential impact on earnings and value that could occur when, if rates fall, liabilities cannot be re-priced as quickly or by as much as assets: or when, if rates rise, assets cannot be re-priced as quickly or by as much as liabilities.
+Management and measurement Risk exposure is monitored monthly using, primarily, net interest income and earnings sensitivity.
+This methodology considers allre-pricing mismatches in the current balance sheet and calculates the change in net interest income that would result from asetof defined interest rate shocks.
+Alimit structure exists to ensure that risks stemming from residual and temporary positions orfrom changes in assumptions about customer behaviour remain within the Groups risk appetite.
+TSB Banking Group plc Annual Report and Accounts 2014 131 Strategic report Governance Risk report Financial statements Additional information 28.
+Market risk continued A 12 month view of the sensitivity of net interest income is calculated on the basis of the Groups current balance sheet with re-pricing dates adjusted according to behavioural assumptions.
+At 31 December 2014, the projected change in 12 month net interest income in response to an immediate parallel shift in all relevant interest rates, market and administered, would be an increase of 0.7 million 2013: 0.7 million from a25bps increase in rates, and adecrease of 8.2 million 2013: 10.5 million from a25bps decrease.
+The measure, however, is relatively simplistic in that it assumes all interest rates move at the same time and by the same amount.
+Derivative financial instruments The Group holds derivative financial instruments in the normal course of its banking business for interest rate risk management and margin stabilisation purposes.
+Derivatives are held at fair value on the Groups balance sheet.
+The fair values and notional amounts of derivative instruments are presented in the following table: 31 December 2014 31 December 2013 Contract Contract notional Fair value of Fair value of notional Fair value of Fair value of amount assets liabilities amount assets liabilities million million million million million million Interest rate swaps 10,874.0 56.8 42.8 13,491.0 99.4 85.6 Designated as fair value hedges 5,246.8 66.3 73.9 Total 16,120.8 123.1 116.7 13,491.0 99.4 85.6 From 1 January 2014, the Group has established fair value hedge accounting relationships for interest rate risk.
+The Group designates certain of its fixed rate customer loans, debt securities available-for-sale, bank accounts, savings accounts and subordinated debt in fair value hedge accounting relationships.
+Gains of 74.2 million 2013: nil were recognised on the derivatives in hedge accounting relationships.
+Losses of 74.6 million 2013: nil were recognised on the hedged items attributable to the hedged interest rate risk.
+Derivative assets of 108.9 million 2013: 76.5 million are expected to be recovered after more than one year.
+ of 112.3 million 2013: 74.2 million are expected to be settled after more than one year.
+Offsetting financial assets and financial liabilities The following information relates to financial assets and liabilities which have not been set off but for which the Group has enforceable master netting agreements in place with counterparties.
+Related amounts where set off in the balance sheet is not permitted Related Net amounts financial Cash reported on instrument collateral Gross Amounts the balance amounts received Potential amounts offset sheet not offset pledged net amount 31 December 2014 million million million million million million Derivative financial assets 123.1 123.1 113.7 9.4 Total 123.1 123.1 113.7 9.4 Derivative financial liabilities 116.7 116.7 113.7 3.0 Total 116.7 116.7 113.7 3.0 31 December 2013 Derivative financial assets 99.4 99.4 85.6 13.8 Total 99.4 99.4 85.6 13.8 Derivative financial liabilities 85.6 85.6 85.6 Total 85.6 85.6 85.6 TSB Banking Group plc Annual Report and Accounts 2014

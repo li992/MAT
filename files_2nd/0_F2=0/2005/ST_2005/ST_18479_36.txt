@@ -1,0 +1,3 @@
+,_, PurchaseofOwnShares_NNP Ordinance1998_NNP the_DT Ordinance_NNP ,_, OrdinaryShares_NNP ,_, providedthat_NN :_: a_DT :_: b_NN :_: c_NN themaximumprice_NN exclusiveofexpenses_VBZ :_: and_CC d_LS ,_, revokedorrenewed_VBD ,_, ,_, oron28October2007_NNP ,_, ,_, ,_, priortosuch_NN expiry_NN ,_, ._.
+ByorderoftheBoard_NNP Guernsey_NNP Limited_NNP Secretary_NNP TrafalgarCourt_NNP LesBanques_NNP StPeterPort_NNP GuernseyGY13QL_NNP 20March2006_NNP Notes_NNP :_: 1_LS ._.
+,_, orotherauthority_NN ifany_NN underwhichitissigned_VBD ,_, ,_, soastoreach_JJ CI_NNP Limited_NNP ,_, OrdnanceHouse_NNP ,_, 31PierRoad_NNP ,_, StHelier_NNP ,_, 26April2006_NNP ._.

@@ -1,0 +1,195 @@
+spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 operational and financial review bestinclass financial performance Summary financial performance After a positive start to 2012 in the first quarter of the year we experienced a marked change in sentiment impacting growth rates from the second quarter to the end of the year.
+Revenue from continuing operations was similar yearonyear at $472.4 million 2011 $470.5 million.
+Spirents 2012 acquisitions, Mu Dynamics, Inc. Mu and Metrico Wireless, Inc. Metrico generated $12.7 million of revenue in total since acquisition.
+Service Assurance revenues were down $15.7 million yearonyear and our positioning products in Performance Analysis were down by $13.8 million 26 per cent compared with 2011.
+Overall Performance Analysis division revenue was up by 4 per cent.
+There were some areas of rapid growth: for example, 4G LTE wireless device test, data center switching and high speed Ethernet test.
+In addition, during the fourth quarter of 2012 the Service Assurance division delivered a much improved result.
+Towards the end of 2012 Spirent commenced a review of its organisational eric hutchinson reporting structure which is expected to Chief Financial Officer be completed in the first quarter of 2013.
+This may result in a change to Spirents segmental reporting structure in 2013.
+Once the review is complete any changes will be communicated and restated comparative disclosures provided.
+18 overview business review governance financial statements Description of the business as well as on 100Gb Ethernet for service Performance analysis Spirent puts innovation to the test.
+Spirent was once again With a concentration on Ethernet, data honoured by Frost & Sullivan, receiving the center including cloud computing and 2012 Market Share Leadership Award for virtualization, mobility, security and Ethernet Testing, reflecting Spirents satellite positioning, as well as the leadership over its nearest competitors applications that enrich these networks, in every segment tracked by the leading Spirents Performance Analysis division analyst organisation.
+facilitates device and network testing, from the research and development stage The growth in cloud computing and server to the launch of communications networks virtualization has led to a strong interest and services.
+We push the limits of these in softwaredefined networking SDN networks, their elements, mobile and and OpenFlow protocol, with their satellite positioning devices and potential to greatly simplify network applications by allowing equipment design, implementation and operation.
+return on sales makers, service providers, enterprises Amongst multiple engagements that and government to subject their offerings showcased Spirents capability in this to functional, conformance and performance space, we announced a collaboration 26.8% testing that simulates realworld conditions, with Indiana university to develop an open 2011 27.6% before a commercial launch.
+source OpenFlow conformance test suite.
+Revenue market conditions The convergence of mobile and fixed $ million 2012 saw our customers invest in 4G LTE networks, mobile data explosion and mobile networks, devices and services, scarcity of available radio spectrum are in high speed Ethernet and data centers to causing operators to evolve their access increase 434.0 416.4 of 4% enable cloud computing and virtualization, networks, employing carriergrade WiFi 365.8 and in optimization of their testing, despite offload and small cells.
+Core networks are 316.8 the generally unfavourable macroeconomic becoming ever more intelligent, with conditions.
+We experienced a fall in powerful networking devices that integrate investments in legacy and mature capabilities such as deep packet inspection, technologies such as DSL, 1Gb Ethernet application security, backhaul, timing and and CDMA wireless.
+Spirent has added support for WiFi offloading to its Landslide solution and 09 10 11 12 Continuing growth in the scale of data converged its test solutions on a single high centers requires the rapid evolution of performance, high scale platform which their switching fabrics to higher speeds enables testing of these converged network Operating profit $ million and higher densities.
+Spirents leadership elements with less equipment than was in testing the performance of these fabrics previously possible.
+at massive scale was showcased in a increase 116.4 115.1 public test of QFabric from Juniper The growth in mobility and applications of 1% 97.9 Networks, the largest test of its kind has resulted in a paramount need for ever conducted.
+Cisco also partnered application security.
+In acquiring Mu 78.3 with Spirent to test the performance of Dynamics, Spirent added Studio to its its latest Nexus 3548 ultralowlatency, portfolio, the industrys first solution high density, high performance switch.
+to emulate real application traffic while generating comprehensive security The data center is a key factor in the threats.
+We subsequently integrated 09 10 11 12 migration of Ethernet technologies to Studio with Spirents market leading higher speeds.
+We saw strong growth performance test platforms, enabling in spending on 10Gb and 40Gb Ethernet, us to offer bestinclass security test 19 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 operational and financial review CONTINuED solutions with higher performance The penetration of smartphones, tablets and of cellular base stations and devices and greater scale than any other other connected devices continued in 2012, to support TDLTE and LTEAdvanced.
+while a new generation of services enabled by IP Multimedia Subsystems IMS, Subscriber location awareness is a key The trends mentioned above have in particular Voice over LTE VoLTE, saw element in many mobile applications, increased time to market pressure on its first commercial rollouts.
+The acquisition leading to demand for accurate subscriber our customers and have led service of Metrico Wireless in September added location under any conditions, whether providers to drive tighter equipment to our portfolio the capability to analyse indoors or outdoors.
+The resulting vendor ecosystems, while R&D teams have performance and subscriber quality innovation in enabling technologies includes become more globalised.
+As a result, we of experience of mobile devices on hybrid positioning techniques that make saw a broader adoption of holistic and live networks.
+use of signals from satellites, WiFi access integrated infrastructure test automation.
+points, cellular networks and sensors in The Spirent iTest solution, acquired with For infrastructure vendors, key drivers mobile devices.
+Spirent retains its global Fanfare in February 2011, is a leader in included timedivision LTE TDLTE, leadership in testing these cutting edge addressing this emerging infrastructure with large scale trials in China and early location technologies.
+In September 2012, test optimization trend, and this segment commercial rollouts in Japan and India.
+a Spirent solution was used in the industrys grew strongly during 2012.
+Infrastructure development also focused first independent benchmark study of the on LTEAdvanced technology, the first location performance of leading chipset With the acceleration of 4G LTE deployments of which are expected in platforms and smartphones.
+network rollouts in 2012, especially in 2013.
+Spirents radio frequency channel North America and Asia, operators and emulator family continued to be a leader Investment in GNSS test slowed as the device manufacturers are refocusing their in addressing the unique testing needs government sector saw a sharp decline in investments on this fast growing technology.
+The test market for the Chinese BeiDou2 satellite system failed to develop as expected in 2012, with release of wireless test leadership detailed technical specifications for the system being delayed until late December.
+Powerful user interface Spirent is a leader in testing the receivers and revenue eliminates complexity multipleantenna schemes used in 4G LTE devices in test setups, saving Revenue in the Performance Analysis time and money.
+division grew by 4 per cent in 2012 to $434.0 million 2011 $416.4 million.
+The performance gains from 4G LTE technology come at Although 10 40 100Gb Ethernet sales the cost of greatly increased complexity over 3G and 2G experienced strong growth, this was technologies.
+By accurately emulating radio channel offset by a fall in our legacy business.
+characteristics, the Spirent VR5 makes it possible to find The Infrastructure Test Optimization performance problems in the development lab well before segment, built on assets acquired with commercial deployment.
+Fanfare in 2011, experienced growth on the back of tighter ecosystems between service providers and equipment manufacturers to support accelerated innovation and time to market.
+Replays conditions captured on live networks for the most Our portfolio of LTE mobile device test realistic testing solutions experienced very strong growth.
+We continued to address the needs of the North American operator ecosystem of toptier device suppliers, achieved the business objectives for our initiative to build our presence in device R&D labs, 20 overview business review governance financial statements and strengthened our leadership in our core technologies, that enables IT The Metrico Wireless acquisition in September brought with it leadership location based testing.
+Orders for CDMA professionals to validate the performance technology test declined in line with of applications and networks.
+in services and tools that enable carriers, device vendors and technology providers expectations.
+uMTS test sales also declined, as our customers reallocated Wireless is one of Spirents key focus to analyse the performance and subscriber quality of experience of mobile devices resources to higher growth 4G LTE areas.
+In addition to its integration with opportunities.
+Our physical layer radio Mus Studio TestCloud, we enhanced the on live networks.
+Integration of Metricos subscriber experience measurement tools frequency solutions had a record year, ability of our Landslide solution to test on the back of market and technology mobile infrastructures readiness for with Spirents labbased device test solutions positions Spirent strongly to drivers that included overtheair testing, 4G LTE services such as VoLTE, video TDLTE and LTEAdvanced.
+streaming and multiplayer mobile gaming.
+bring unprecedented realism to labbased testing and to harmonise methodologies Landslide also gained the capability to test Sales of positioning products declined WiFi offload gateways and saw major across live and lab testing, together with a true endtoend test capability.
+significantly due to sharply reduced performance enhancements, maintaining government spending, investment caution its leadership in testing mobile networks at Our positioning solutions expanded into amongst many commercial customers, and massive scale, enabling service providers delays in the release of detailed technical to address the challenge of explosive new areas including multiradio WiFi, Bluetooth, NFC production test, simulation specifications for the Chinese BeiDou2 mobile data growth.
+of sensors in mobile devices, and the first shipment of a solution for Chinas BeiDou2 The acquisition of Fanfare and its iTest family Profitability of products in 2011 has enabled Spirent to satellite system testing.
+Operating profit grew 1 per cent to $116.4 address the shift in customer budgets million from $115.1 million and operating towards optimising testing in their existing Strategy In 2013 we will complete the integration margin was slightly lower at 26.8 per cent labs and building out new highly automated compared with 27.6 per cent in 2011 due test environments.
+In 2012, we released a of assets acquired with Mu and Metrico comprehensive lab management solution into the Spirent portfolio, enabling us to to the higher investment in product development which increased from that enables network operators and network build leadership in the growing application equipment vendors to improve their lab security and 4G LTE mobile subscriber $74.4 million to $79.1 million in 2012. equipment utilisation, productivity and experience markets.
+We will consolidate test cycle time.
+our leadership in high speed Ethernet Product development We extended the ability of our flagship and data center test, as well as in mobile Spirent enhanced its wireless test infrastructure test, including packet core Spirent TestCenter family to address evolving data center test needs, with a solutions that focus on our customers and the emerging wireless data offload 4G LTE testing needs.
+We will further expand focus on high speed Ethernet, SDN and application testing.
+Studio, acquired with test coverage of our solution family that our innovative solutions portfolio that validates the performance of LTE devices addresses the fast growing test automation Mu in April, was integrated into Spirent TestCenter to take advantage of its into new areas, including call reliability.
+We will enter an important new We addressed a wider range of device R&D growth segment of the Enterprise market.
+performance, scale and high speed Ethernet abilities, resulting in the applications, including a comprehensive We will also bring solutions to market for capability to test VoLTE and other other growing and emerging market development of the market leading solution for assessment of applicationaware IMSenabled services.
+Our physical opportunities, including the new Chinese layer products were enhanced to address global navigation satellite system, 4G networks and security.
+We expanded the Spirent TestCenter portfolio to include a testing of TDLTE technology in devices TDLTE technology being deployed in key and base stations.
+We also released a new Asia Pacific markets, and hybrid location cost effective, portable solution that gives our customers the flexibility to test across solution to test the performance of devices technologies in smartphones and other utilising hybrid location technologies, mobile devices.
+a broader spectrum of the product lifecycle, expanding our served available market.
+maintaining Spirents leadership in the location based services test segment.
+In addition, we have developed a new test platform for the Enterprise market, utilising 21 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 operational and financial review CONTINuED Description of the business revenue Service assurance Spirents service assurance solutions allow We saw a steep decline in revenue for our service providers to diagnose, troubleshoot legacy TDM solutions, especially in the and determine how to resolve issues with first half, which caused us to implement networks and systems within the live cost saving measures in the second network.
+Building on the expertise gained quarter to reestablish the divisions through testing technologies and systems profitability.
+Revenue was down by in the lab, Spirent enables service providers $15.7 million to $38.4 million from to deploy and maintain efficient, cost $54.1 million in 2011. effective and high performing networks, helping to reduce subscriber churn by The second half of the year saw expansion providing better quality of experience.
+of our STC Live solutions in toptier North Spirents solutions also allow service American service providers.
+We closed return on sales providers to reduce operational costs multiyear service contracts, which are through better identification of potential essential to our service provider customers network problems, from the core of the and will contribute to our future revenues.
+network to inside the subscribers home, 21.9% and use of the most appropriate resources Profitability 2011 12.9% to address those issues.
+Adjusted operating profit was up 20 per cent yearonyear to $8.4 million from market conditions $7.0 million in 2011.
+Cost savings were Revenue 2012 saw continuing caution around implemented in the second quarter of 2012, $ million service provider investment, especially at a cost of $1.5 million which improved on wireline networks.
+The focus of service the profitability of the division.
+In addition, 57.0 providers capital expenditure has shifted an inventory provision of $1.4 million has 54.1 52.6 rapidly from TDM to high speed Ethernet.
+been incurred in relation to excess legacy Intense competition among service products.
+Including these costs, which have 38.4 decrease providers has helped drive the need been classified as exceptional, reported of 29% for enterprise Ethernetbased service operating profit was $5.5 million.
+assurance solutions, although buying decisions were frequently delayed and the Product development size of the deals were reduced as rollouts Our development focus remains 09 10 11 12 were scaled back.
+Investment in mobile on Ethernet service assurance for networks continued, driven by the multiple nextgeneration networks.
+For Spirent 4G LTE network rollouts underway in TestCenter Live Ethernet service 1 Operating profit North America.
+We saw toptier uS service assurance, we are expanding our flexible $ million providers invest in service assurance platform capabilities, which include our solution upgrades to support their combined 1Gb and 10Gb Ethernet probes 13.0 wireless and wireline Ethernet networks.
+along with network troubleshooting capabilities.
+We put a new development focus on mobile test and diagnostics, as well as performance monitoring 8.4 7.5 solutions for 4G LTE expansion and 7.0 increase of 20% data center network rollouts.
+22 overview business review governance financial statements Strategy leader in Service assurance for ethernet Services In 2013 we will continue to invest in our Spirent TestCenter Live portfolio of service assurance solutions in order to maximize Spirent is a leader in performance our benefit from service provider monitoring, testing and diagnostics investments that will remain focused of Ethernet services for wireless on growth areas such as 4G LTE mobile, higher bandwidth enterprise business and wireline service providers.
+services, as well as the drive to cloud Spirent TestCenter Live service assurance computing offerings and the data centers solutions allow service providers to to enable them.
+Our innovations will diagnose, troubleshoot and determine enable service providers to improve how to resolve issues within the live efficiencies through test automation network to ensure quality of service and service level network monitoring and subscriber quality of experience.
+by their operations, administration and maintenance organisations.
+We will also enable installation and maintenance teams at leading multisystem operators with unique field test tools.
+Software platforms provide powerful user interface and reporting capabilities for monitoring, testing and diagnosis.
+The use of multiple Spirent TestCenter Live probes provides maximum visibility into the network.
+23 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 operational and financial review CONTINuED group financial performance On 1 November 2012 the Group disposed of the Systems division.
+Systems is reported as a discontinued operation in these results.
+All numbers provided below are for continuing operations unless otherwise stated.
+The following table shows the key performance indicators monitored by the Board in order to measure performance: Change 2012 2011 % Continuing operations 1 Book to bill ratio 97 103 Revenue $ million 472.4 470.5 Gross profit margin % 71.3 69.6 2 Operating profit $ million 119.4 116.9 2 2 Return on sales % 25.3 24.8 3 Adjusted basic earnings per share cents 13.38 12.92 4 4 Free cash flow $ million 84.0 69.3 21 Notes 1 Ratio of orders booked to revenue billed.
+2 Before exceptional items, acquisition related costs, acquired intangible asset amortisation and sharebased payment.
+3 Adjusted basic earnings per share is based on adjusted earnings as set out in note 13 of Notes to the consolidated financial statements.
+4 Operating cash flow after tax, net interest and net capital expenditure.
+Europe represents 14 with 103 for 2011, with the strong start to Group revenue was similar to the prior year per cent 2011 15 per cent and was down, the year being followed by weaker demand at $472.4 million 2011 $470.5 million.
+as had been expected, by 7 per cent in the second halfyear.
+Service Assurance revenues were down compared with 2011.
+Asia Pacific has been $15.7 million, and those for positioning a very positive market for Spirent in the operating profit products in Performance Analysis by $13.8 last few years, and it continued to expand Reported operating profit for continuing million 26 per cent on 2011.
+Revenue for in 2012, by 9 per cent, which was a lower operations was $109.2 million compared the Performance Analysis division as a rate of growth than that for the prior year.
+Operating whole grew 4 per cent, despite the drop in The key contributing factor being the profit before exceptional items, acquisition positioning products, and saw some good slowdown in China where revenue related costs, acquired intangible asset areas of growth particularly in 4G LTE declined by 1 per cent.
+Asia Pacific amortisation and sharebased payment, mobile device, data center switching and accounts for 32 per cent of continuing adjusted operating profit which is the high speed Ethernet test.
+Positioning Group revenue in 2012 2011 29 per cent.
+measure of profit used by the Group to products were impacted by lower uS The Rest of the World represents the evaluate performance, increased by Government spend and delays to the remaining 3 per cent 2011 5 per cent 2 per cent to $119.4 million compared release of the technical specifications for of revenue.
+with $116.9 million in 2011. a satellite navigation system from China.
+Geographic revenue by market was as A reconciliation is set out below: Service Assurance reported significantly follows: $ million 2012 2011 lower revenues for the first three quarters $ million 2012 2011 Adjusted operating profit 119.4 116.9 of 2012: however, the fourth quarter Exceptional items united States 239.2 238.8 yielded better results including revenue Asia Pacific, Rest of Inventory provision 1.4 on several Ethernet software and services World 166.0 159.1 Reorganisation costs 1.5 contracts and winning the renewal of large Acquisition related costs 1.2 1.2 Europe 67.2 72.6 long term maintenance contracts with Acquired intangible major customers.
+472.4 470.5 asset amortisation 4.5 1.6 Sharebased payment 1.6 1.1 By geographic region, revenue in the The book to bill ratio, which is a measure Reported operating profit 109.2 113.0 united States was flat compared with of the visibility of our future revenues, was 2011.
+The uS remains the largest market 97 for the year for the Group compared accounting for 51 per cent of revenue 24 overview business review governance financial statements Return on sales, based on adjusted $1.0 million.
+Surplus funds are held which $3.2 million was due to the 2012 operating profit was maintained at acquisitions of Mu and Metrico.
+Within principally in the united Kingdom and 25 per cent.
+united States and earn market rates of operating expenses is a charge of $1.2 million of acquisition related costs for Mu interest which remain negligible.
+cost of sales and operating expenses and Metrico 2011 $1.2 million for the Gross margin increased to 71.3 per cent Fanfare Group, Inc..
+Excluding these No finance costs were incurred in 2012 2011 69.6 per cent due to a better overall 2011 $0.4 million.
+costs, operating costs were $132.6 million product mix with a higher software and compared with $127.3 million in 2011, an services content.
+An excess inventory In 2013 the changes to IAS 19 increase of 4 per cent, which reflects the provision was charged in relation to overheads of the acquired businesses.
+Service Assurance of $1.4 million in the In addition to the increase in corporate period as a result of the significantly corporate costs costs discussed above, the expected rate reduced levels of demand for our legacy of return on pension plan assets is now Corporate costs are those expenses products in this division.
+This provision which cannot be attributed to the Groups required to be the same as the discount has been reported as an exceptional item rate used to discount plan liabilities.
+operating segments and comprise the in the period.
+Excluding this provision costs of the Board and other corporate Comparative numbers will be restated gross margin was 71.6 per cent.
+for 2012 giving an interest cost on the activities.
+These costs were $5.4 million for the year 2011 $5.2 million.
+pension plans of $0.5 million compared to Focus has been maintained on growing interest income reported in 2012 of $0.7 the business organically as well as The revised Accounting Standard IAS 19 million.
+It is estimated that the net interest through acquisition.
+Investment in product expense for the pension plans for 2013 Employee Benefits will be mandatory development rose by 3 per cent to $86.1 in 2013.
+The effect for Spirent will be an will be approximately $1.0 million.
+million in 2012, 18 per cent of revenue, increase in corporate costs and a reduction from $83.3 million and 18 per cent of in interest income.
+In 2013 the costs of Profit before tax revenue in 2011.
+The majority of this, Reported profit before tax for continuing administering the defined benefit pension $79.1 million 2011 $74.4 million, was plans will be charged to corporate operations was $110.7 million compared incurred within the Performance Analysis with $114.3 million for 2011.
+Adjusted operating expenses, these are currently division.
+The higher pace of innovation deducted from the interest income in the profit before tax was up 2 per cent at in product development engineering is $120.9 million 2011 $118.2 million.
+The comparative numbers expected to continue into 2013, enabling will be restated accordingly.
+On restatement further enhancement of Spirents tax this will result in an increase in corporate capabilities and to address many of the costs of $1.1 million for 2012 compared to For the Group taxable profits principally new market opportunities that exist.
+arise in the united States.
+The tax charge the reported number.
+It is estimated that the administration costs for the pension for the continuing Group in 2012 was Other operating expenses were higher $29.0 million 2011 $26.4 million, plans will be $1.1 million in 2013. at $141.4 million in 2012 compared representing a current year effective with $131.2 million in 2011, 30 per cent tax rate of 27.8 per cent of pretax profit currency impact of sales 2011 28 per cent.
+In Service The effect of fluctuating exchange rates in both 2012 and 2011, excluding a prior Assurance, in response to the rapid fall in year tax credit of $1.8 million 2011 $5.4 is relatively minimal as the Groups legacy business experienced at the start revenue and profits are denominated million.
+At 31 December 2012 deferred of 2012, steps were taken to address the predominantly in uS dollars or uS tax assets amounting to $28.4 million cost base, which resulted in savings of dollarlinked currencies.
+have been recognised on the balance approximately $5.0 million per annum sheet 31 December 2011 $29.4 million.
+at a oneoff cost of $1.5 million.
+finance income and costs At 31 December 2012 there are deferred Other operating expenses also include Finance income for 2012 was $1.5 million tax assets amounting to a tax value of $1.6 million for sharebased payment, compared with $1.7 million in 2011.
+In $16.3 million 31 December 2011 $22.0 up from $1.1 million for 2011, due to a 2012 this comprises $0.7 million 2011 million which remain unrecognised in modest increase in the number of new $0.7 million in respect of defined benefit respect of unutilised nontrading loan awards granted during the year.
+pension plan interest and income earned relationship losses $14.7 million and Acquired intangible asset amortisation on surplus funds of $0.8 million 2011 temporary differences $1.6 million.
+was $4.5 million 2011 $1.6 million, of 25 spirent COMMUniCAtiOns plC AnnUAl repOrt 2012 operational and financial review CONTINuED For 2013 it is expected that the effective business combinations financial risk management tax rate will be in the region of 28 per cent.
+Spirent made two acquisitions during 2012.
+The key objective of the Groups treasury department is to manage the financial Discontinued operations On 23 April 2012 the Group acquired risks of the business and to ensure that The Systems division has been classified 100 per cent of the share capital of sufficient liquidity is available to the as a discontinued operation.
+The division Mu Dynamics, Inc. Mu for a total Group.
+All treasury activity operates within was sold to CurtissWright Corporation for consideration of $39.8 million in cash.
+The Board has a cash consideration of $63.2 million with Mu is included within the Performance approved treasury policies and guidelines the sale completing on 1 November 2012.
+and periodically reviews treasury The operating result for Systems after tax activities.
+Additionally, it is the Groups was $2.6 million for the period up to At acquisition the fair value of the assets policy that speculative treasury disposal 2011 $6.7 million, and the and liabilities acquired were determined in transactions are expressly forbidden.
+net profit on disposal was $44.5 million.
+accordance with accounting standards and this gave rise to $13.9 million of intangible Spirents financial risk management The net proceeds from the sale are in the assets, which are being amortised over objectives and policies and its exposure process of being returned to Spirents five years, and goodwill of $24.7 million.
+to risks are discussed in note 26 of Notes shareholders by way of on market to the consolidated financial statements.
+Revenue from Mu was $6.3 million in the period from acquisition and it made a financing and cash flow earnings per share small loss of $0.5 million in the period Cash and cash equivalents increased Adjusted basic earnings per share for from the 23 April 2012 closing date.
+to $248.6 million at 31 December continuing operations rose to 13.38 cents Mu is on track to generate a positive 2012 compared with $236.5 million at from 12.92 cents for 2011, an increase of return in 2013, in line with plan.
+Spirent continues to 4 per cent.
+There were 655.7 million be debt free.
+The majority is held as cash weighted average Ordinary Shares in issue Metrico Wireless, Inc. Metrico was on demand or in short term bank deposits 2011 667.3 million.
+Basic earnings per acquired on 13 September 2012 for and 80 per cent of the balance was share for the continuing Group was $52.2 million.
+Metrico is included within denominated in uS dollars.
+Currency 12.46 cents for 2012 compared with the Performance Analysis division.
+translation has increased cash and 13.17 cents for 2011. cash equivalents by $2.2 million in 2012.
+At acquisition the fair value of the assets A reconciliation of adjusted profit is and liabilities acquired were determined in Continuing operating activities generated provided below for continuing operations: accordance with accounting standards and $120.3 million of cash in the year this gave rise to $20.5 million of intangible compared with $113.0 million in 2011.
+$ million 2012 2011 assets, which are being amortised over Free cash flow is set out below for the Profit for the year 81.7 87.9 two and a half to seven years, and continuing Group: Exceptional items 2.9 goodwill of $30.9 million.
+$ million 2012 2011 Acquisition related costs 1.2 1.2 Cash flow from Revenue from Metrico was $6.4 million Acquired intangible operations 120.3 113.0 in the period from acquisition and it asset amortisation 4.5 1.6 Tax paid 23.1 21.8 contributed $0.5 million of profit in the Sharebased payment 1.6 1.1 period from the 13 September 2012 Cash inflow from Tax effect on the above closing date.
+Metricos results are operating activities 97.2 91.2 items 2.4 0.2 in line with plan.
+Net interest received 0.6 0.9 Prior year tax credit 1.8 5.4 Net capital expenditure 13.8 22.8 Adjusted profit for Free cash flow 84.0 69.3 the year 87.7 86.2 Adjusted basic earnings per share 13.38 12.92 26 overview business review governance financial statements Cash conversion was good with free cash The next triennial actuarial valuation Ordinary Share.
+The dividend is covered flow for continuing operations of $84.0 at 1 April 2012 is in the process of being 4.2 times by adjusted earnings.
+This is an million for 2012, which represents 105 per finalised.
+Such a valuation involves increase of 10 per cent over the full year cent 2011 84 per cent of reported a complete review of all assumptions dividend for 2011 of 2.93 cents and earnings before noncash prior year tax.
+Once reflects the strong cash generation complete it is likely that there will be of the Group.
+Cash inflows include the $63.2 million increases to future Company contributions, received from the divestment of Systems, although these are unlikely to be material.
+Subject to approval by the shareholders expenses of $3.3 million were paid on at the Annual General Meeting, the final the transaction.
+The Group has also reported a liability dividend will be paid on 3 May 2013 to of $0.8 million 31 December 2011 Ordinary shareholders on the register at Cash outflow on the acquisitions of $0.6 million in respect of united Kingdom 8 March 2013.
+Payment to ADR holders Mu and Metrico was $92.0 million with unfunded plan liabilities.
+In 2012 a final dividend for 2011 and an interim capital structure dividend for 2012 totalling $20.3 million During 2012 the Company repurchased 2011 $17.5 million were paid.
+Share 13.4 million shares at a cost of $30.8 million repurchases have resulted in a cash 2011 17.6 million at a cost of $34.2 million.
+outflow of $31.6 million in the period All shares repurchased during 2012 were 2011 $33.4 million of which $0.8 million cancelled.
+In 2011 13.2 million were relates to share repurchases made at the cancelled and 4.4 million were placed end of 2011 but settled in 2012. in trust.
+Defined benefit pension plans Shares were repurchased at an average The Group operates two funded defined share price of 143 pence per share in benefit pension plans which are in the 2012.
+The Board intends to continue to united Kingdom.
+Both of these schemes repurchase shares to manage the dilution were closed some time ago to new attributable to the Groups share incentive entrants and the main plan now has schemes and it is also envisaged that the less than ten active members.
+return of the remainder of the proceeds on the divestment of Systems, $32.7 The accounting valuation of these plans million, will be made through on market at the end of 2012 was a net deficit of share buy backs.
+$24.8 million compared with a net deficit of $11.8 million at 31 December 2011 and Dividend was based on the latest triennial actuarial Spirents policy is to maintain a valuation at 1 April 2009.
+The deficit of $24.8 sustainable progressive dividend with million is all in the main plan 31 December high dividend cover.
+At 31 December 2011 there was a surplus of $0.7 million in a The Board are therefore recommending smaller plan which had reduced to zero the payment of a final dividend for 2012 of at 31 December 2012.
+The increase in the 1.83 cents 1.21 pence per Ordinary Share deficit in the main plan is a result of a rise which, with the interim dividend of 1.39 in the liabilities due to changes in the cents 0.89 pence per Ordinary Share paid underlying assumptions, principally the in September 2012, brings the full year discount rate which is based on high dividend to 3.22 cents 2.10 pence per quality corporate bonds.

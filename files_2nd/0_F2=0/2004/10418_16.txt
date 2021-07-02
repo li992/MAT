@@ -1,0 +1,8 @@
+Customers are treated as being active if they have used the network in the preceding three months.
+2 Average Revenue Per User ARPU is calculated by dividing total service revenue from sales to customers for the preceding 12 months by the weighted average number of active customers for the same period.
+Total service revenue includes revenue from inbound roaming.
+ARPU is calculated using gross service revenue before deduction of wholesale discounts.
+3 Data as a percentage of service revenue data revenue comprises revenue generated from the sale of SMS, WAP and GPRS services.
+4 Churn is calculated by expressing the sum of disconnections for the preceding 12 months as a percentage of the weighted average number of active customers for the same period.
+5 Subscriber Acquisition Costs SAC per Connection are calculated by dividing the total costs total cost of handset including handset costs, SIM costs and packaging less handset revenue plus commissions paid to sales channels for the preceding 12 months by the total number of connections over the same period.
+6 O Netherlands was sold on 3 June 2003.

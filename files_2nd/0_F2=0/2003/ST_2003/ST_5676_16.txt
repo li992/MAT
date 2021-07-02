@@ -1,0 +1,5 @@
+Internet_NNP Sites_NNP Euromoney_NNP Institutional_NNP Investor_NNP Internet_NNP Sites_VBZ all_DT www_NN ._.
+com_NN For_IN further_JJ information_NN on_IN all_DT Euromoney_NNP financialdirectories_NNS ._.
+com_NN Institutional_JJ Investor_NN products_NNS ,_, call_VBP the_DT Hotline_NNP on_IN :_: ._.
+com_NN or_CC e-mail_NN to_TO :_: iijournals_NNS ._.
+com_NN Page_NNP 66_CD Annual_JJ Report_NNP &_CC Accounts_NNPS 2003_CD Euromoney_NNP Institutional_NNP Investor_NNP PLC_NNP Shareholders_NNP Notes_NNP Annual_JJ Report_NNP &_CC Accounts_NNPS 2003_CD Page_NNP 67_CD Shareholders_NNP Notes_NNP Page_NNP 68_CD Annual_JJ Report_NNP &_CC Accounts_NNPS 2003_CD

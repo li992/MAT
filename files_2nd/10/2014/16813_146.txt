@@ -1,0 +1,164 @@
+Vodafone Group Plc 196 Annual Report 2014 Principal risk factors and uncertainties Revised existing risks Identification and assessment of the Groups key risks Two existing risks from prior year have been revised into a single The Board acknowledges it is responsible for determining the nature combined risk: and extent of the significant risks it is willing to take in achieving its strategic objectives.
+A Group wide risk assessment exercise is formally a Our business could be adversely affected by a failure or significant conducted annually to help fulfil this responsibility.
+interruption to our telecommunications networks or IT systems and Failure to deliver enterprise service offerings may adversely Local market risk assessment affect our business have been combined into the former risk: Our Risk coordinators in each local market facilitate the identification business could be adversely affected by a failure or significant of the top 10 risks and associated mitigating actions for their entity.
+interruption to our telecommunications networks or IT systems.
+With the oversight and approval of local executive teams and Audit Committees, these risks are assessed for their likelihood and impact The description of the risk has been revised to more specifically after consideration is given to existing mitigating controls.
+reflect the level of dependence enterprise customers have on our An overall market view of the major risks is obtained by identifying telecommunications infrastructure to provide their services and the similar risks that are then aggregated and categorised into the following resilience needed in our infrastructure to meet our committed service risk categories: level agreements.
+a strategy: The Groups key risks are outlined below: a reputational damage: 1.
+Our business could be adversely affected by a failure a legal and regulatory compliance: or significant interruption to our telecommunications networks or IT systems.
+a financial: Risk: We are dependent on the continued operation of our a operational: and telecommunications networks.
+The importance of mobile and fixed communication in everyday life is increasing, especially during times a malicious events.
+Individuals and organisations who rely on our networks and systems 24 hours per day, 365 days per year to provide their products Assess the current risk exposure for the Group and services, look to us to maintain service.
+Major failures in the network, Using the market view of the major risks, an exercise is conducted with our IT systems or a failure to maintain our infrastructure to the required Group executives and functional leaders to determine the top Group levels of resilience and associated service level agreement may result risks and identify the current net risk exposure level for each risk.
+in our services being interrupted, resulting in serious damage to our Compare the current risk exposure to the acceptable level reputation, a consequential customer and revenue loss and the risk of risk of financial penalties.
+The exposure from each of the Groups top risks is then compared There is a risk that an attack by a malicious individual or group with the desired level of acceptable risk.
+The result of this assessment could be successful on our networks and impact the availability highlights the perceived tolerance for the exposure associated of critical systems.
+Our network is also susceptible to interruption due with a particular risk and indicates whether specific, additional action to a physical attack and theft of our network components as the value is required.
+and market for network components increases for example copper, Three tolerance categories are used: batteries, generators and fuel.
+We dont believe that Vodafone should do more: Assessment: This risk is possible in all markets in which we operate and has the potential for significant impact.
+We believe that Vodafone should do more and has plans in place dispersed nature of our networks, both mobile and fixed, the impacts to reduce the net risk to an acceptable level: and of a wide spread and long lasting outage should be primarily restricted 3.
+We are not sufficiently prepared and immediate action is necessary.
+Mitigation: Specific back-up and resilience requirements are built into Confirmation of key risks and mitigations commensurate with our networks.
+We monitor our ability to replace strategic equipment Vodafones risk tolerances quickly in event of failure, and for high risk components, we maintain The risk exposure assessment and comparison to the acceptable dedicated back-up equipment ready for use.
+Dedicated access network level of risk identifies the key risks and associated mitigations that are equipment is installed on trucks ready to be moved on site if required.
+reviewed and approved by the Group Executive Committee, the Audit and Risk Committee and the Board.
+Our critical infrastructure has been enhanced to prevent unauthorised access and reduce the likelihood and impact of a successful attack.
+Changes from prior year risk assessment Network contingency plans are linked with our business continuity and One new risk for 2014 has been added: disaster recovery plans which are in place to cover the residual risks a The integration of newly acquired businesses does not provide that cannot be mitigated.
+A crisis management team and escalation the benefits anticipated at the time of acquisition.
+The risk processes are in place both nationally and internationally, and crisis is that we do not deliver the revenue benefits and or the cost simulations are conducted annually.
+synergies expected from recently acquired businesses and that, We also manage the risk of malicious attacks on our infrastructure using as a consequence of this, we subsequently need to write down the our global security operations centre that provides 24 7 monitoring carrying value of the assets.
+of our network in many countries.
+Vodafone Group Plc Strategy Additional 196 Annual Report 2014 Overview review Performance Governance Financials information 197 2.
+We could suffer loss of consumer confidence and or legal 4.
+Regulatory decisions and changes in the regulatory action due to a failure to protect our customer information.
+environment could adversely affect our business.
+Risk: Our networks carry and store large volumes of confidential Risk: We have ventures in both emerging and mature markets, spanning personal and business voice traffic and data.
+We host increasing a broad geographical area including Europe, Africa, Middle East, and Asia quantities and types of customer data in both enterprise and consumer Pacific.
+We need to comply with an extensive range of requirements segments.
+We need to ensure our service environments are sufficiently that regulate and supervise the licensing, construction and operation secure to protect us from loss or corruption of customer information.
+of our telecommunications networks and services.
+Pressure on political Failure to adequately protect customer information could have and regulatory institutions both to deliver direct consumer benefit a material adverse effect on our reputation and may lead to legal action and protect consumers interests, particularly in recessionary periods, against the Group.
+can lead to adverse impacts on our business.
+Financial pressures on smaller competitors can drive them to call for regulators to protect Assessment: This risk is possible in all markets in which we operate.
+Increased financial pressures on governments may lead them The impacts of this risk have the potential to be major in mature to target foreign investors for further taxes or licence fees.
+markets, with robust data protection regulations and a higher proportion of customers paying their bills by automated bank transfer Assessment: This risk is highly likely in emerging markets, where or credit card, than in some of the emerging markets who have a more there is experience of regulation being used as a revenue gathering cash based pre-pay customer population.
+mechanism that has the potential for a significant impact in that market.
+Mitigation: Both the hardware and software applications which hold Mitigation: We monitor political developments in our existing and or transmit confidential personal and business voice and data traffic potential markets closely, identifying risks in our current and proposed include security features.
+Security related reviews are conducted commercial propositions.
+Regular reports are made to our Executive according to our policies and security standards.
+Security governance Committee on current political and regulatory risks.
+These risks are and compliance is managed and monitored through software tools considered in our business planning process, including the importance that are deployed to all local markets and selected partner markets.
+of competitive commercial pricing and appropriate product strategies.
+Our data centres are managed to international information security Authoritative and timely intervention is made at both national and standards.
+Third party data security reviews are conducted jointly with international level in respect of legislative, fiscal and regulatory our technology security and corporate security functions.
+proposals which we feel are not in the interests of the Group.
+We have regular dialogue with trade groups that represent network operators 3.
+Increased competition may reduce our market share and other industry bodies to understand underlying political pressures.
+Risk: We face intensifying competition: in particular competing with 5.
+Our existing service offerings could become established competitors in mature markets and competing with new disadvantaged as compared to those offered by converged entrants in emerging markets, where all operators are looking to secure competitors or other technology providers over the top a share of the potential customer base.
+Competition could lead OTT competitors.
+to a reduction in the rate at which we add new customers, a decrease Risk: In a number of markets, we face competition from providers who in the size of our market share and a decline in our average revenue per have the ability to sell converged services combinations of fixed line, customer, if customers choose to receive telecommunications services broadband, public Wi-Fi, TV and mobile on their existing infrastructure or other competing services from alternate providers.
+Competition can which we cannot either replicate or cannot provide at a similar price also lead to an increase in customer acquisitions and retention costs.
+Additionally, the combination of services may allow competitors The focus of competition in many of our markets has shifted from to subsidise the mobile component of their offering.
+This could lead acquiring new customers to retaining existing customers, as the market to an erosion of our customer base and reduce the demand for our core for mobile telecommunications has become increasingly mature.
+mobile services and impact our future profitability.
+Assessment: This is a major risk that is relevant to all markets.
+The source Advances in smartphone technology places more focus on applications, of the risk varies depending upon the maturity of each market operating systems, and devices, rather than the underlying services as mentioned above.
+The development of applications which make use of the internet as a substitute for some of our more Mitigation: We will continue to promote our differentiated propositions traditional services, such as messaging and voice, could erode by focusing on our points of strength such as network quality, revenue.
+Reduced demand for our core services of voice, messaging capacity and coverage, quality of customer service and the value and data and the development of services by application developers, of our products and services.
+We are enhancing distribution channels operating system providers, and handset suppliers commonly referred to get closer to customers and using targeted promotions where to as over the top or OTT competition could significantly impact our appropriate to attract and retain specific customers.
+monitor and model competitor behaviour, network builds and product offerings to understand future intentions so that we are able to react Assessment: This risk is likely in mature markets where more in a timely manner.
+competitors have the assets to offer converged offers and where, in high density population areas, alternative data services are commonly available and has the potential for a major impact on service revenues.
+Mitigation: In some markets we are already providing fixed line telecommunication services voice and broadband.
+In other existing markets we actively look for opportunities to provide services beyond mobile through acquisition, partnerships, or joint ventures.
+We have also developed strategies which strengthen our relationships with customers by accelerating the introduction of integrated voice, messaging and data price plans to avoid customers reducing their out of bundle usage through internet Wi-Fi based substitution.
+Vodafone Group Plc 198 Annual Report 2014 Principal risk factors and uncertainties continued 6.
+Continuing weak economic conditions could impact one 8.
+The integration of newly acquired businesses do not provide or more of our markets.
+the benefits anticipated at the time of acquisition.
+Risk: Economic conditions in many of the markets we operate, Risk: In line with its strategy to be a scale data player, a strong especially in Europe, continue to stagnate or show nominal levels player in Enterprise, a leader in emerging markets and a selective of growth.
+These conditions combined with the impact of continuing innovator in services: we have acquired, and will continue to acquire, austerity measures results in lower levels of disposable income and may new businesses.
+The price paid for these businesses is based upon their result in significantly lower revenues as customers give up their mobile current cash flows, as well as the expected incremental cash flows that phones or move to cheaper tariffs.
+will be generated from increased revenues and lower costs that being part of the Vodafone Group will generate.
+There is a risk that we fail There is also a possibility of adverse economic conditions impacting to deliver these expected benefits and synergies which could result currency exchange rates in countries where the Group has operations, in an impairment of the carrying value of the acquired business.
+leading to a reduction in our revenue and impairment of our financial and non-financial assets.
+Assessment: This risk is possible in markets where major acquisitions have occurred e. g. Cable & Wireless Worldwide in the UK and Kabel Assessment: This risk is evident across a number of our markets and Deutschland in Germany and has the potential to impact forecast in particular within our southern European markets where it may profitability and cash flows.
+continue to have a significant impact.
+Mitigation: We have experience of acquiring and integrating businesses Mitigation: We are closely monitoring international economic and into the Group and for all significant transactions we develop and currency situations.
+Executive Committee briefings have been provided implement a structured integration plan, led by a senior business with specific actions identified to reduce the impact of the risk.
+Integration plans are systematically implemented and executed developed a detailed business continuity plan in the event of a country to ensure that revenue benefits and cost synergies are delivered and economic crisis leading to a banking system freeze and a need that the acquired businesses are successfully integrated through to transition to a cash based operating system for a number of months.
+the alignment of policies, processes and systems.
+Our business may be impacted by actual or perceived health against acquisition business cases and the status of integration plans risks associated with the transmission of radio waves from is monitored and reviewed as part of the Groups governance and mobile telephones, transmitters and associated equipment.
+Risk: Concerns have been expressed that electromagnetic signals 9.
+We depend on a number of key suppliers to operate emitted by mobile telephone handsets and base stations may pose our business.
+Authorities including the World Health Organization WHO Risk: We depend on a limited number of suppliers for strategically agree there is no evidence that convinces experts that exposure to radio important network and IT infrastructure and associated support frequency fields from mobile devices and base stations operated within services to operate and upgrade our networks and provide key guideline limits has any adverse health effects.
+A change to this view services to our customers.
+Our operations could be adversely impacted could result in a range of impacts from a change to national legislation, by the failure of a key supplier who could no longer support our to a major reduction in mobile phone usage or to major litigation.
+existing infrastructure: from a key supplier commercially exploiting Assessment: This is an unlikely risk: however, it would have their monopolistic oligopolistic position in a product area following a major impact on services consumed by our customers in all our the corporate failures of, or the withdrawal from, a specific market markets particularly in countries that have a very low tolerance for by competitors: or from major suppliers significantly increasing prices environmental and health related risks.
+on long term programmes where the cost or technical feasibility of switching supplier becomes a significant barrier.
+Mitigation: We have a global health and safety policy that includes standards for electromagnetic fields EMF that are mandated in all Assessment: This risk is possible in all markets in which we operate.
+We have a Group EMF Board that manages It is a common business strategy to consolidate major purchases potential risks through cross sector initiatives and which oversees of equipment and services amongst a select group of international a coordinated global programme to respond to public concern, suppliers in order to negotiate better commercial terms and level and develop appropriate advocacy related to possible precautionary of service: so this risk has the potential to significantly impact operations legislation.
+We monitor scientific developments and engage with or profitability.
+relevant bodies to support the delivery and transparent communication Mitigation: We regularly review the performance of key suppliers, both of the scientific research agenda set by the WHO.
+operationally and financially, across individual markets and from the Group perspective.
+Other processes are in place to regularly identify and manage suppliers at risk.
+Most supplier categories have business continuity plans in place in the event of single supplier failure.
+Vodafone Group Plc Strategy Additional 198 Annual Report 2014 Overview review Performance Governance Financials information 199 10.
+We may not satisfactorily resolve major tax disputes.
+Currency related risks Risk: We operate in many jurisdictions around the world and from time The Group continues to face currency, operational and financial risks to time have disputes on the amount of tax due.
+In particular, in spite resulting from the challenging economic conditions particularly in the of the positive India Supreme Court decision relating to an on-going Eurozone.
+We continue to keep our policies and procedures under tax case in India, the Indian Government has introduced retroactive review to endeavour to minimise the Groups economic exposure and tax legislation which would in effect overturn the Courts decision to preserve our ability to operate in a range of potential conditions that and has raised challenges around the pricing of capital transactions.
+Such or similar types of action in other jurisdictions, including changes in local or international tax rules or new challenges by tax authorities, Our ability to manage these risks needs to take appropriate account may expose us to significant additional tax liabilities which would affect of our needs to deliver a high quality service to our customers, meet the results of the business.
+licence obligations and the significant capital investments we may have made and may need to continue to make in the markets Assessment: This is a risk that could occur in any market but is currently most impacted.
+more relevant for emerging markets where the disputed tax payable and any related penalties could be significant.
+While our share price is denominated in sterling, the majority of our financial results are generated in other currencies.
+As a result the Mitigation: We maintain constructive but robust engagement with Groups operating profit is sensitive to either a relative strengthening the tax authorities and relevant government representatives, as well or weakening of the major currencies in which we transact.
+as active engagement with a wide range of international companies and business organisations with similar issues.
+Where appropriate we engage The Operating results section of the annual report on pages 40 to 45 advisors and legal counsel to obtain opinions on tax legislation sets out a discussion and analysis of the relative contributions from each and principles.
+of our regions and the major geographical markets within each, to the Groups service revenue and EBITDA performance.
+Changes in assumptions underlying the carrying value basis our markets in Greece, Ireland, Italy, Portugal and Spain continue of certain Group assets could result in impairment.
+to be the most directly impacted by the current market conditions and Risk: Due to the substantial carrying value of goodwill, revisions to the in order of contribution represent 12% Italy, 6% Spain, 3% Ireland assumptions used in assessing its recoverability, including discount and Greece combined and 2% Portugal of the Groups EBITDA for rates, estimated future cash flows or anticipated changes in operations, the year ended 31 March 2014.
+An average 3% decline in the sterling could lead to the impairment of certain Group assets.
+While impairment equivalent of these combined geographical markets due to currency does not impact reported cash flows, it does result in a non-cash revaluation would reduce the Groups EBITDA by approximately charge in the consolidated income statement and thus no assurance 0.1 billion.
+Our foreign currency earnings were for the year ended can be given that any future impairment would not affect our reported 31 March 2014, diversified through our 45% equity interest in Verizon distributable reserves and therefore, our ability to make dividend Wireless VZW, which operates in the United States and generates its distributions to our shareholders or repurchase our shares.
+Our interest in VZW, which was equity accounted Assessment: This risk is relevant for the markets facing tough economic to 2 September 2013, contributed 40% of the Groups adjusted conditions and increasing competition: where an impairment may have operating profit for the year ended 31 March 2014.
+Our interest a significant impact on reported earnings.
+in VZWwas disposed of on 21 February 2014.
+Mitigation: We review the carrying value of the Groups property, plant We employ a number of mechanisms to manage elements and equipment, goodwill and other intangible assets at least annually, of exchange rate risk at a transaction, translation and economic or more frequently where the circumstances require, to assess level.
+At the transaction level our policies require foreign exchange whether carrying values can be supported by the net present value risks on transactions denominated in other currencies above certain of future cash flows derived from such assets.
+This review considers the fide minimis levels to be hedged.
+Further, since the Companys sterling continued appropriateness of the assumptions used in assessing for share price represents the value of its future multi-currency cash impairment, including an assessment of discount rates and long-term flows, principally in euro and to a lesser extent sterling, the Indian growth rates, future technological developments, and the timing rupee and South African rand following the disposal of our interest and amount of future capital expenditure.
+Other factors which may in VZW, we aim to align the currency of our debt and interest charges affect revenue and profitability for example intensifying competition, in proportion to our expected future principal multi-currency cash flows, pricing pressures, regulatory changes and the timing for introducing thereby providing an economic hedge in terms of reduced volatility new products or services are also considered.
+Discount rates are in the sterling equivalent value of the Group and a partial hedge in part derived from yields on government bonds, the level of which against income statement translation exposure, as interest costs will may change substantially period to period and which may be affected be denominated in foreign currencies.
+by political, economic and legal developments which are beyond our In the event of a countrys exit from the Eurozone, this may necessitate control.
+For further details see Critical accounting judgements and key changes in one or more of our entities functional currency and sources of estimation uncertainty in note 1 Basis of preparation to the potentially higher volatility of those entities trading results when consolidated financial statements.
+translated into sterling, potentially adding further currency risk.
+A summary of this sensitivity of our operating results and our foreign exchange risk management policies is set out within note 23 Capital and financial risk management to the consolidated financial statements.
+Vodafone Group Plc 200 Annual Report 2014 Principal risk factors and uncertainties continued Risk of change in carrying amount of assets and liabilities Going concern The main potential short-term financial statement impact of the current The Group believes it adequately manages or mitigates its solvency and economic uncertainties is the potential impairment of non-financial and liquidity risks through two primary processes, described below.
+Business planning process and performance management We have significant amounts of goodwill, other intangible assets and The Groups forecasting and planning cycle consists of three in year plant, property and equipment allocated to, or held by, companies forecasts, a budget and a long range plan.
+These cycles all consist operating in the Eurozone.
+of a bottom up process whereby the Groups operating companies submit income statement, cash flow and net debt projections.
+These are We have performed impairment testing for each country in Europe then consolidated and the results assessed by Group management and as at 31 March 2014 and identified aggregate impairment charges the Board.
+of 6.6 billion in relation to Vodafone Germany, Spain, Portugal, Czech Republic and Romania.
+See note 4 Impairment losses to the consolidated Each forecast is compared with prior forecasts and actual results financial statements for further detail on this exercise, together with the so as to identify variances and understand the drivers of the changes sensitivity of the results to reasonably possible adverse assumptions.
+and their future impact so as to allow management to take action where appropriate.
+Additional analysis is undertaken to review and sense check Our operating companies in Italy, Ireland, Greece, Portugal and Spain have the key assumptions underpinning the forecasts as well as stress-testing billed and unbilled trade receivables totalling 2.1 billion.
+IFRS contains the results through sensitivity analysis.
+specific requirements for impairment assessments of financial assets.
+We have a range of credit exposures and provisions for doubtful debts that Cash flow and liquidity reviews are generally made by reference to consistently applied methodologies The business planning process provides outputs for detailed cash flow overlaid with judgements determined on a case-by-case basis reflecting and liquidity reviews, to ensure that the Group maintains adequate the specific facts and circumstances of the receivable.
+See note 23 Capital liquidity throughout the forecast periods.
+The prime output is a two year and financial risk management to the consolidated financial statements liquidity forecast which is prepared and updated on a daily basis which for detailed disclosures on provisions against loans and receivables as well highlights the extent of the Groups liquidity based on controlled cash as disclosures about any loans and receivables that are past due at the end flows and the headroom under the Groups undrawn revolving credit of the period, concentrations of risk and credit risk more generally.
+Additional risk The key inputs into this forecast are: The significant areas of additional risk for the Group are investment risk, a free cash flow forecasts, with the first three months inputs being particularly in relation to the management of the counterparties holding sourced directly from the operating companies analysed on a daily our cash and liquid investments: trading risks primarily in relation basis, with information beyond this taken from the latest forecast to procurement and related contractual matters: and business budget cycle: continuity risks focused on cash management in the event of disruption to banking systems.
+a bond and other debt maturities: and Financial investment risk: We remain focused on counterparty risk a expectations for shareholder returns, spectrum auctions and management and in particular the protection and availability of cash M&A activity.
+We carefully manage counterparty limits with financial institutions holding the Groups liquid investments and The liquidity forecast shows two scenarios assuming either maturing maintain a significant proportion of liquid investments in sterling and commercial paper is refinanced or no new commercial paper issuance.
+Our policies require cash sweep The liquidity forecast is reviewed by the Group CFO and included in each arrangements, to ensure no operating company has more than of his reports to the Board.
+5 million on deposit on any one day.
+Further, we have had collateral In addition, the Group continues to manage its foreign exchange and support agreements in place for a number of years, with a significant interest rate risks within the framework of policies and guidelines number of counterparties, to pass collateral to the Group under certain authorised and reviewed by the Board, with oversight provided by the circumstances.
+We have a net 1,055 million of collateral assets in our Treasury Risk Committee.
+statement of financial position at 31 March 2014.
+For further details see note 13 Other investments and note 23 Capital and financial risk management to the consolidated financial statements.
+Trading risks: We continue to monitor and assess the structure of certain procurement contracts to place the Group in a better position in the event of the exit of a country from the Eurozone.
+Business continuity risks: Key business continuity priorities are focused on planning to facilitate migration to a more cash-based business model in the event banking systems are frozen, developing dual currency capability in contract customer billing systems or ensuring the ability to move these contract customers to prepaid methods of billing, and the consequential impacts to tariff structures.
+We also have in place contingency plans with key suppliers that would assist us to continue to support our network infrastructure, retail operations and employees.
+We continue to maintain appropriate levels of cash and short-term investments in many currencies, with a carefully controlled group of counterparties, to minimise the risks to the ongoing access to that liquidity and therefore our ability to settle debts as they become due.
+For further details see Capital and financial risk management in note 23 to the consolidated financial statements.

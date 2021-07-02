@@ -1,0 +1,121 @@
+54 Financial risk management Financial instruments are fundamental to the Groups business and constitute the core element of its operations.
+The risks associated with financial instruments are a significant component of the risks faced by the Group.
+Financial instruments create, modify or reduce the liquidity, credit and market risks of the Groups balance sheet.
+These risks and the Groups policies and objectives for managing such risks are outlined below.
+Credit Risk Management Credit risk is the risk that the Groups customers, clients or counterparties will not be able or willing to pay interest, repay capital or otherwise to fulfil their contractual obligations under loan agreements or other credit facilities.
+Credit risk also arises through the downgrading of counterparties whose credit instruments the Group may be holding, causing the value of those assets to fall.
+Furthermore, credit risk is manifested as country risk where difficulties experienced by the country in which the exposure is domiciled may impede payment or reduce the value of the asset or where the counterparty may be the country itself.
+Settlement risk is another special form of credit risk which is the possibility that the Group may pay a counterparty for example, a bank in a foreign exchange transaction and fail to receive the corresponding settlement in return.
+Credit risk is the Groups largest risk and considerable resources, expertise and controls are devoted to managing it.
+The importance of credit risk is illustrated by noting that nearly two-thirds of risk-based economic capital is allocated to businesses for credit risks.
+The credit risk management teams in each business are accountable to the Business Risk Directors in those businesses who, in turn, report to the heads of their businesses and also to the Risk Director.
+The Credit Risk function, led by the Credit Risk Director, provides Group-wide direction of credit risk-taking.
+This functional team manages the resolution of all significant credit policy issues and administers the Credit Committee which approves major credit decisions.
+The principal committees that review credit risk management are the Risk Oversight Committee and the Board Risk Committee.
+The Board Audit Committee reviews and approves impairment allowance decisions.
+Credit Risk Measurement Barclays uses statistical modelling techniques throughout its businesses in its credit rating systems.
+These systems assist the bank in front line credit decisions on new commitments and in managing the portfolio of existing exposures.
+They enable the application of consistent risk measurement across all credit exposures, retail and wholesale.
+The key building blocks in the measurement system are the probability of customer default PD expressed through an internal risk rating, exposure at default EAD, and severity of loss-given-default LGD.
+Barclays assesses the credit quality and assigns an internal risk rating to all borrowers and other counterparties, including retail customers.
+Each internal rating corresponds to the statistical probability of a customer in that rating class defaulting within the next 12-month period.
+Exposure at default represents the expected level of utilisation of the credit facility when default occurs.
+At default the customer may not have drawn the loan fully or may already have repaid some of the principal, so that exposure is typically less than the approved loan limit.
+For derivative instruments, EAD is the estimated cost of replacing contracts with a positive value if counterparties should fail to perform their obligations.
+When a customer defaults, much of the amount outstanding on its loan or loans is usually recovered.
+The part that is not recovered, the actual loss, is called the LGD.
+The severity of the loss is measured as a percentage of the EAD.
+The three components described above PD, EAD and LGD are building blocks used in a variety of applications that measure credit risk across the entire portfolio.
+One of these applications is a measurement of expected loss called Risk Tendency RT.
+RT is a statistical estimate of the average loss for the loan portfolio for the forthcoming 12 months, taking into account the portfolios size and risk characteristics under current credit conditions.
+RT provides insight into the credit quality of the portfolio and assists management in tracking risk changes as the Groups stock of credit exposures evolves in the course of business.
+RT is calculated for both corporate and retail loans as follows: RT probability of default x expected exposure at default x loss given default.
+3.5 Barclays PLC Annual Report 2005 217 Notes to the accounts For the year ended 31st December 2005 54 Financial risk management continued Credit Risk Mitigation Barclays actively manages its credit exposures.
+When weaknesses in exposures are detected either in individual exposures or in groups of exposures action is taken to mitigate the risks.
+These include steps to reduce the amounts outstanding in discussion with the customers, if appropriate, the use of credit derivatives and, on occasion, the sale of the loan assets.
+Barclays employs a range of policies and practices to mitigate credit risk.
+The most traditional of these is the taking of security for funds advanced which is common practice.
+Barclays manages the diversification of its portfolio to avoid unwanted credit risk concentrations.
+For example: maximum exposure guidelines are in place relating to the exposures to any individual counterparty: country risk policy specifies risk appetite by country and avoids excessive concentrations of credit in individual countries: and policies are in place that limit lending to certain industries, for example commercial real estate.
+Credit derivatives are traded for profit and used for managing non-trading credit exposures.
+Liquidity Risk Management Liquidity risk is the risk that the Group is unable to meet its payment obligations when they fall due and to replace funds when they are withdrawn, the consequence of which may be the failure to meet obligations to repay depositors and fulfil commitments to lend.
+Liquidity management within the Group has several strands.
+The first is day-to-day funding, managed by monitoring future cash flows to ensure that requirements can be met.
+This includes replenishment of funds as they mature or are borrowed by customers.
+The Group maintains an active presence in global money markets to enable that to happen.
+The second is maintaining a portfolio of highly marketable assets that can easily be liquidated as protection against any unforeseen interruption to cash flow.
+Finally, the ability to monitor, manage and control intraday liquidity in real time is recognised by the Group as a mission critical process: any failure to meet specific intraday commitments would be a public event and may have an immediate impact on the Groups reputation.
+Securitisation remains a proportion of the Groups current funding profile, providing additional flexibility, and is an important tool in the management of the Groups capital and funding.
+During 2005 the Group has continued to securitise elements of the balance sheet, such as credit cards, and has selectively securitised other parts, such as UK mortgages and commercial loans.
+The ability to raise funds is in part dependent on maintaining the banks credit rating.
+The funding impact of a credit downgrade is regularly estimated.
+Whilst the impact of a single downgrade may affect the price at which funding is available, the effect on liquidity is not considered material in Group terms.
+Absa monitor their cash flow against limits expressed as a percentage of their total deposits and current accounts rather than against absolute mismatch limits.
+Absa also continues to assess the ongoing Rand money markets appetite for the Absa name and to improve their stress testing.
+The difference in approach is not a major risk, and the integration project is working to more closely align Absas policies and practices with the Barclays liquidity control requirements.
+Liquidity Risk Measurement Monitoring and reporting take the form of cash flow measurement and projections for the next day, week and month as these are key periods for liquidity management.
+This is based on principles agreed by the UK Financial Services Authority.
+In addition to cash flow management, Treasury also monitors unmatched medium-term assets and the level and type of undrawn lending commitments, the usage of overdraft facilities and the impact of contingent liabilities such as standby letters of credit and guarantees.
+Treasury develops and implements the process for submitting the Groups projected cash flows to stress scenarios.
+The output of stress testing informs the Groups contingency funding plan.
+This is maintained by Barclays Treasury and is aligned with the Group and country business resumption plans to encompass decision-making authorities, internal and external communication and, in the event of a systems failure, the restoration of liquidity management and payment systems.
+Sources of liquidity are regularly reviewed to maintain a wide diversification by currency, geography, provider, product and term.
+Whilst 2005 saw relatively stable markets, with no significant consequences for the Groups liquidity, significant market events over recent years including corporate scandals contributed to a short-term flight to quality in financial markets from which Barclays benefited.
+An important source of structural liquidity is provided by our core retail deposits in the UK, Europe and Africa, mainly current accounts and savings accounts.
+Although current accounts are repayable on demand and savings accounts at short notice, the Groups broad base of customers numerically and by depositor type helps to protect against unexpected fluctuations.
+Such accounts form a stable funding base for the Groups operations and liquidity needs.
+To avoid reliance on a particular group of customers or market sectors, the distribution of sources and the maturity profile of deposits are also carefully managed.
+Important factors in assuring liquidity are competitive rates and the maintenance of depositors confidence.
+Such confidence is based on a number of factors including the Groups reputation, the strength of earnings and the Groups financial position.
+Barclays PLC 218 Annual Report 2005 54 Financial risk management continued Market Risk Management Market Risk is the risk that Barclays earnings or capital, or its ability to meet business objectives, will be adversely affected by changes in the level or volatility of market rates or prices such as interest rates, credit spreads, foreign exchange rates, equity prices, and commodity prices.
+The main market risks arise from trading activities.
+Barclays is also exposed to non-trading market risks relating to the Pension Fund and, to a lesser extent, asset and liability management.
+Categorisation of Market Risk To facilitate the management, control, measurement and reporting of market risk, Barclays has grouped market risk into three broad categories: Trading market risk These risks arise in trading transactions where Barclays acts as principal with clients or with the market.
+Barclays policy is that market risks arising from trading activities are concentrated in Barclays Capital.
+Asset and liability risk These risks arise from banking activities, including those incurred on non-trading positions such as customer assets and liabilities and capital balances.
+Other market risks In some instances Barclays also incurs market risks that do not fit into the above categories.
+The principal risks of this type are defined benefit pension scheme risk and asset management structural market risk.
+Market Risk Management and Control Responsibilities The Board Risk Committee approves the market risk appetite for all types of market risk.
+The Market Risk Director is responsible for the market risk control framework and, under delegated authority from the Risk Director and Risk Oversight Committee, sets a limit framework within the context of the approved market risk appetite.
+The Market Risk Director is assisted by a central market risk team and by risk management departments in the businesses.
+In Barclays Capital, the Head of Market Risk is responsible for the market risk governance and control framework.
+Day-to-day responsibility for market risk lies with the senior management of Barclays Capital, supported by the Global Market Risk Management team that operates independently of the trading areas.
+Daily market risk reports are produced for the main Barclays Capital business areas covering the six main risk factor categories, namely interest rate, credit spread, inflation, foreign exchange, equity and commodity risk.
+Market Risk Measurement The measurement techniques used to measure and control market risk include: Daily Value at Risk DVaR : Stress Tests: Annual Earnings at Risk: Economic Capital.
+DVaR is an estimate of the potential loss which might arise from unfavourable market movements, if the current positions were to be held unchanged for one business day, measured to a confidence level of 98%.
+Daily losses exceeding the DVaR figure are likely to occur, on average, twice in every 100 business days.
+Stress Tests Stress tests provide an indication of the potential size of losses that could arise in extreme conditions.
+The stress tests carried out by Barclays Capital include risk factor stress testing where stress movements are applied to each of the six risk categories as discussed above: emerging market stress testing where emerging market portfolios are subject to stress movements: and ad hoc stress testing, which includes applying possible stress events to specific positions or regions, e. g. the stress outcome to a region following a currency peg break.
+If potential stress loss exceeds the trigger limit, the positions captured by the stress test are reviewed and discussed by Barclays Capital Market Risk and the respective Business Head s. Outside Barclays Capital, stress testing is carried out by the business centres and is reviewed by the senior management and business-level asset and liability committees.
+The stress testing is tailored to the business and is typically scenario analysis and historical stress movements applied to respective portfolios.
+Annual Earnings at Risk AEaR measures the sensitivity of annual earnings to shocks in market rates at the 99th percentile for change over a oneyear period.
+This shock is consistent with the standardised interest rate shock recommended by the Base II framework for assessing banking book interest rate risk.
+3.5 AEaR is used to measure structural interest rate market risk and structural asset management risk.
+Barclays PLC Annual Report 2005 219 Notes to the accounts For the year ended 31st December 2005 54 Financial risk management continued Trading Market Risk Group policy is to concentrate trading activities in Barclays Capital.
+This includes transactions where Barclays Capital acts as principal with clients or with the market.
+For maximum efficiency, client and market activities are managed together.
+In Barclays Capital, trading risk occurs in both the trading book and the banking book as defined for regulatory purposes not IFRS.
+In anticipation of future customer demand, Barclays maintains access to market liquidity by quoting bid and offer prices with other market makers and carries an inventory of capital market and treasury instruments, including a broad range of cash, securities and derivatives.
+Trading positions and any offsetting hedges are established as appropriate to accommodate customer or Barclays requirements.
+Derivatives entered into for trading purposes include swaps, forward rate agreements, futures, credit derivatives, options and combinations of these instruments.
+Analysis of trading market risk exposures The table below shows the DVaR statistics for Barclays Capitals trading activities trading book and banking book.
+Barclays Capital DVaR: Summary table for 2005 and 2004 12 months to 12 months to 31st December 2005 31st December 2004 a a a a Average High Low Average High Low m m m m m m Interest rate risk 25.3 44.8 15.4 25.0 53.6 15.1 Credit spread risk 23.0 28.3 19.0 22.6 32.9 16.0 Foreign exchange risk 2.8 5.3 1.4 2.4 7.4 0.9 Equities risk 5.9 8.2 3.9 4.2 7.9 2.2 Commodities risk 6.8 11.4 4.5 6.0 14.4 2.2 Diversification effect 31.9 25.9 b Total DVaR 31.9 40.4 25.4 34.3 46.8 24.0 Notes a The high and low DVaR figures reported for each category did not necessarily occur on the same day as the high and low DVaR reported as a whole.
+Consequently a diversification effect number for the high and low DVaR figures would not be meaningful and it is therefore omitted from the above table.
+Barclays PLC 220 Annual Report 2005 54 Financial risk management continued Barclays Capitals market risk exposure, as measured by average total Daily Value at Risk, decreased by 7% in 2005.
+This was mainly a consequence of increased geographical and product diversification resulting from business growth.
+The graph below shows the history of total DVaR on a daily basis for 2004 and 2005.
+Total DVaR in 2004 and 2005 daily values m 50 40 30 20 0 2004 2005 DVaR Back-testing Barclays recognises the importance of assessing the effectiveness of its DVaR model.
+The main approach employed is the technique known as backtesting, which counts the number of days when trading losses are bigger than the estimated DVaR figure.
+The regulatory standard for backtesting is to measure DVaR assuming a one-day holding period with a 99% level of confidence.
+For Barclays Capitals regulatory trading book, there were no instances in 2005 or 2004, of a daily trading revenue loss exceeding the corresponding back-testing DVaR.
+Asset and Liability Market Risk Interest rate exposures arising from mismatches of fixed rate assets and liabilities in UK banking operations are passed to Treasury.
+Treasury aggregates these positions and then passes the net position to the market via Barclays Capital.
+Due mainly to timing considerations, market risk can arise when some of the net position stays with Treasury.
+Similarly, market risk can arise due to the impact of interest rates on customer behaviour.
+The latter risk is managed and measured by the Retail Market Risk team using behavioural models.
+The positions are converted into wholesale swap or option exposures, passed to Treasury and managed by the process outlined above.
+Structural interest rate risk arises from the variability of income from non-interest bearing products, managed variable rate products and the Groups equity.
+This risk is managed by Treasury, assisted by the Retail Market Risk team.
+Interest rate exposures, structural interest rate risk and other market risks may be managed through the use of derivatives.
+Where this is the case, hedge accounting is obtained where possible so that the benefits of risk management are reflected in the financial statements.
+Hedge accounting techniques used include cash flow hedge accounting and fair value hedge accounting and may involve obtaining hedge accounting with respect to future anticipated transactions.

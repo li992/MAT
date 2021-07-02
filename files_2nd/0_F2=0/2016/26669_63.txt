@@ -1,0 +1,43 @@
+Strategic report Governance Financial statements Additional information 20 Financial instruments Financial instruments by category The accounting policies for financial instruments have been applied to the line items below: Loans and receivables Total At 1 October 2016 m m Assets as per the balance sheet Trade receivables before provision 42.4 42.4 Other receivables before provision 20.7 20.7 Trade loans before provision 12.7 12.7 Cash and cash equivalents 185.6 185.6 261.4 261.4 Liabilities at fair value Derivatives through Other used for profit or financial hedging loss liabilities Total At 1 October 2016 m m m m Liabilities as per the balance sheet Derivative financial instruments 202.7 38.0 240.7 Borrowings 1,455.0 1,455.0 Trade payables 88.2 88.2 Other payables 15.4 15.4 202.7 38.0 1,558.6 1,799.3 Loans and receivables Total At 3 October 2015 m m Assets as per the balance sheet Trade receivables before provision 42.5 42.5 Other receivables before provision 16.5 16.5 Trade loans before provision 14.5 14.5 Cash and cash equivalents 193.1 193.1 266.6 266.6 Liabilities at fair value Derivatives through Other used for profit or financial hedging loss liabilities Total At 3 October 2015 m m m m Liabilities as per the balance sheet Derivative financial instruments 167.0 25.7 192.7 Borrowings 1,438.1 1,438.1 Trade payables 88.1 88.1 Other payables 16.0 16.0 167.0 25.7 1,542.2 1,734.9 Fair values of financial instruments The only financial instruments which the Group holds at fair value are derivative financial instruments, which are classified as at fair value through profit or loss or derivatives used for hedging.
+IFRS 13 Fair Value Measurement requires fair value measurements to be recognised using a fair value hierarchy that reflects the significance of the inputs used in the measurements, according to the following levels: Level 1 unadjusted quoted prices in active markets for identical assets or liabilities.
+Level 2 inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+Level 3 inputs for the asset or liability that are not based on observable market data.
+The table below shows the level in the fair value hierarchy into which fair value measurements have been categorised: 2016 2015 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total Liabilities as per the balance sheet m m m m m m m m Derivative financial instruments 240.7 240.7 192.7 192.7 There were no transfers between Levels 1, 2 and 3 fair value measurements during the current or prior period.
+95 Marstons PLC Annual Report and Accounts 2016 Financial statements Notes continued For the 52 weeks ended 1 October 2016 20 Financial instruments continued The Level 2 fair values of derivative financial instruments have been obtained using a market approach and reflect the estimated amount the Group would expect to pay or receive on termination of the instruments.
+The Group utilises valuations from counterparties who use a variety of assumptions based on market conditions existing at each balance sheet date.
+The fair values of all non-derivative financial instruments are equal to their book values, with the exception of borrowings note 17.
+The carrying amount less impairment provision of trade receivables, other receivables and trade loans, and the carrying amount of trade payables and other payables, are assumed to approximate their fair values.
+Financial risk factors The Groups activities expose it to a variety of financial risks: market risk including interest rate risk and foreign currency risk, counterparty risk, credit risk and liquidity risk.
+The Groups overall risk management programme focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the Groups financial performance.
+The Group uses derivative financial instruments to hedge certain risk exposures.
+Risk management is carried out by a central treasury department Group Treasury under policies approved by the Board.
+Group Treasury identifies, evaluates and hedges financial risks.
+The Board provides principles for overall risk management, as well as policies covering specific areas, such as interest rate risk, credit risk, investment of excess liquidity and use of derivative and non-derivative financial instruments.
+Interest rate risk: The Groups income and operating cash flows are substantially independent of changes in market interest rates, and as such the Groups interest rate risk arises from its borrowings.
+Borrowings issued at variable rates expose the Group to cash flow interest rate risk.
+Borrowings issued at fixed rates expose the Group to fair value interest rate risk.
+The Group analyses its interest rate exposure on a dynamic basis.
+Various scenarios are simulated taking into consideration refinancing, renewal of existing positions, alternative financing and hedging.
+Based on these scenarios, the Group calculates the impact on the income statement of a defined interest rate shift.
+The scenarios are run only for liabilities that represent the major interest-bearing positions.
+The Group manages its cash flow interest rate risk by using floating-to-fixed interest rate swaps.
+Such interest rate swaps have the economic effect of converting borrowings from floating rates to fixed rates.
+Generally, the Group raises borrowings at floating rates and often swaps them into fixed rates that are lower than those available if the Group borrowed at fixed rates directly.
+Under the interest rate swaps, the Group agrees with other parties to exchange, at specified intervals, the difference between fixed contract rates and floating rate interest amounts calculated by reference to the agreed notional amounts.
+If interest rates had been 0.5% higher lower during the period ended 1 October 2016, with all other variables held constant, post-tax profit for the period would have been 0.6 million 2015: 0.4 million lower higher as a result of higher lower interest expense.
+Interest rate swaps designated as part of a hedging arrangement The Group uses interest rate swaps to fix the interest rate payable on the floating rate tranches of its securitised debt note 19.
+The notional principal amounts of these interest rate swap contracts at 1 October 2016 totalled 270.5 million 2015: 297.2 million.
+These interest rate swaps, including borrowing margins, fix interest at 6.2% and 6.1%.
+The movement in fair value recognised in other comprehensive income in the period was a loss of 39.6 million 2015: 43.9 million.
+The movement in fair value recognised in the income statement in the period was a gain of 3.9 million 2015: loss of 2.4 million.
+Interest rate swaps not designated as part of a hedging arrangement On 22 March 2012 the Group entered into two forward starting interest rate swaps of 60.0 million each to fix the interest rate payable on the Groups unsecured bank borrowings.
+These interest rate swaps previously fixed interest at 3.0% until 28 April 2016 and at 4.5% thereafter and were due to terminate on 28 April 2023.
+In the current period the termination date of the swaps was extended to 30 April 2025 and the terms were amended to fix interest at 3.0% until 30 April 2018 and 4.5% and 4.6% thereafter.
+In total, the fair value of the two swaps at inception was 18.9 million.
+The movement in fair value recognised in the income statement in the period was a loss of 12.3 million 2015: 6.2 million.
+The interest rate risk profile, after taking account of derivative financial instruments, is as follows: 2016 2015 Floating rate Fixed rate Floating rate Fixed rate financial financial financial financial liabilities liabilities Total liabilities liabilities Total m m m m m m Borrowings 519.4 959.6 1,479.0 474.5 986.3 1,460.8 The weighted average interest rate of the fixed rate financial borrowings was 5.3% 2015: 5.3% and the weighted average period for which the rate is fixed was 13 years 2015: 14 years.
+Foreign currency risk: The Group buys and sells goods denominated in non-sterling currencies, principally US dollars and euros.
+As a result, movements in exchange rates can affect the value of the Groups income and expenditure.
+The Groups exposure in this area is not considered to be significant.
+Counterparty risk: The Groups counterparty risk in respect of its cash and cash equivalents is mitigated by the use of various banking institutions for its deposits.
+There is no significant concentration of counterparty risk in respect of the Groups pension assets, as these are held with a range of institutions.

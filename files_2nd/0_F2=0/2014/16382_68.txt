@@ -1,0 +1,43 @@
+DERIVATIVES AND HEDGING CONTINUED MASTER NETTING OR SIMILAR AGREEMENTS A number of legal entities within our Group enter into derivative transactions under International Swap and Derivatives Association ISDA master netting agreements.
+In general, under such agreements the amounts owed by each counter-party on a single day in respect of all transactions outstanding in the same currency are aggregated into a single net amount that is payable by one party to the other.
+In certain circumstances such as when a credit event such as a default occurs, all outstanding transactions under the agreement are terminated, the termination value is assessed and only a single net amount is payable in settlement of all transactions.
+The ISDA agreements do not meet the criteria for offsetting the positive and negative values in the consolidated balance sheet.
+This is because the Group does not have any currently legally enforceable right to offset recognised amounts, between various Group and bank affiliates, because the right to offset is enforceable only on the occurrence of future credit events such as a default.
+The column Related amounts not set off in the balance sheet Financial instruments shows the netting impact of our ISDA agreements, assuming the agreements are respected in the relevant jurisdiction.
+A FINANCIAL ASSETS The following financial assets are subject to offsetting, enforceable master netting arrangements and similar agreements.
+Related amounts not set off in the balance sheet million million million million million million Gross amounts of recognised Net amounts of Gross amounts of financial liabilities financial assets recognised set off in the presented in the Financial Cash collateral As at 31 December 2014 financial assets balance sheet balance sheet instruments received Net amount Derivative financial assets 773 356 417 246 24 147 As at 31 December 2013 Derivative financial assets 376 376 82 5 289 B FINANCIAL LIABILITIES The following financial liabilities are subject to offsetting, enforceable master netting arrangements and similar agreements.
+Related amounts not set off in the balance sheet million million million million million million Gross amounts of Net amounts of Gross amounts of recognised financial recognised financial liabilities liabilities financial set off in the presented in the Financial Cash collateral As at 31 December 2014 liabilities balance sheet balance sheet instruments pledged Net amount Derivative financial liabilities 870 356 514 246 268 As at 31 December 2013 Derivative financial liabilities 395 395 82 313 17.
+INVESTMENT AND RETURN CASH AND CASH EQUIVALENTS Cash and cash equivalents in the balance sheet include deposits, investments in money market funds and highly liquid investments.
+To be classified as cash and cash equivalents, an asset must: be readily convertible into cash: have an insignificant risk of changes in value: and have a maturity period of three months or less at acquisition.
+Cash and cash equivalents in the cash flow statement also include bank overdrafts and are recorded at amortised cost.
+OTHER FINANCIAL ASSETS Other financial assets are first recognised on the trade date.
+At that point, they are classified as: i held-to-maturity investments: ii loans and receivables: iii available-for-sale financial assets: or iv financial assets at fair value through profit or loss.
+Unilever Annual Report and Accounts 2014 Financial statements 119 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS UNILEVER GROUP CONTINUED 17.
+INVESTMENT AND RETURN CONTINUED I HELD-TO-MATURITY INVESTMENTS These are assets with set cash flows and fixed maturities which Unilever intends to hold to maturity.
+They are held at cost plus interest using the effective interest method, less any impairment.
+II LOANS AND RECEIVABLES These are assets with an established payment profile and which are not listed on a recognised stock exchange.
+They are initially recognised at fair value, which is usually the original invoice amount plus any directly related transaction costs.
+Afterwards, loans and receivables are carried at amortised cost, less any impairment.
+III AVAILABLE-FOR-SALE FINANCIAL ASSETS Any financial assets not classified as either loans and receivables or financial assets at fair value through profit or loss are designated as available-for-sale.
+They are initially recognised at fair value, usually the original invoice amount plus any directly related transaction costs.
+Afterwards, they are measured at fair value with changes being recognised in equity.
+When the investment is sold or impaired, the accumulated gains and losses are moved from equity to the income statement.
+Interest and dividends from these assets are recognised in the income statement.
+IV FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS These are derivatives and assets that are held for trading.
+Related transaction costs are expensed as incurred.
+Unless they form part of a hedging relationship, these assets are held at fair value, with changes being recognised in the income statement.
+IMPAIRMENT OF FINANCIAL ASSETS Each year, the Group assesses whether there is evidence that financial assets are impaired.
+A significant or prolonged fall in value below the cost of an asset generally indicates that an asset may be impaired.
+If impaired, financial assets are written down to their estimated recoverable amount.
+Impairment losses on assets classified as loans and receivables are recognised in profit and loss.
+When a later event causes the impairment losses to decrease, the reduction in impairment loss is also recognised in profit and loss.
+Impairment losses on assets classified as available-for-sale are recognised by moving the loss accumulated in equity to the income statement.
+Any subsequent recovery in value of an available-for-sale debt security is recognised within profit and loss.
+However, any subsequent recovery in value of an equity security is recognised within equity, and is recorded at amortised cost.
+FINANCIAL ASSETS The Groups treasury function aims to protect the Groups financial investments, while maximising returns.
+The Groups cash resources and other financial assets are shown below.
+million million million million million million NonNonCurrent current Total Current current Total a Financial assets 2014 2014 2014 2013 2013 2013 Cash and cash equivalents Cash at bank and in hand 1,390 1,390 834 834 Short-term deposits with maturity of less than three months 540 540 1,360 1,360 Other cash equivalents 221 221 91 91 2,151 2,151 2,285 2,285 Other financial assets Held-to-maturity investments 17 72 89 72 3 75 b Loans and receivables 180 28 208 100 4 104 c Available-for-sale financial assets 157 514 671 274 486 760 Financial assets at fair value through profit or loss: Derivatives 296 296 294 294 Other 21 101 122 20 12 32 671 715 1,386 760 505 1,265 Total 2,822 715 3,537 3,045 505 3,550 a For the purposes of notes 15C and 17A, financial assets and liabilities exclude trade and other current receivables and trade payables and other liabilities which are covered in notes 13 and 14 respectively.
+b Current loans and receivables include short-term deposits with banks with maturities of longer than three months.
+c Current available-for-sale financial assets include government securities and Aor higher rated money and capital market instruments.
+Non-current available-for-sale financial assets predominantly consist of investments in a number of companies and financial institutions in Europe, India and the US, including 86 million 2013: 84 million of assets in a trust to fund benefit obligations in the US see also note 4B on page 97.
+120 Financial statements Unilever Annual Report and Accounts 2014

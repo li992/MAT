@@ -1,0 +1,670 @@
+206697_CD
+Report_NN
+&_CC
+Accounts_NN
+Back_RB
+20_CD
+3_CD
+06_CD
+7:46_CD
+pm_NN
+Page_NN
+65_CD
+NOTES_NN
+TO_PIN
+THE_DT
+ACCOUNTS_NN
+continued_VBD
+2_CD
+._.
+CRITICAL_NN
+ACCOUNTING_GER
+ESTIMATES_NN
+AND_PHC
+JUDGEMENTS_NOMZ
+IN_PIN
+APPLYING_GER
+ACCOUNTING_GER
+POLICIES_NN
+The_NN
+primary_JJ
+area_NN
+in_PIN
+which_WDT [PIRE]
+the_DT
+Group_NN
+has_VPRT [PEAS]
+applied_VBN
+judgement_NOMZ
+in_PIN
+applying_VBG
+accounting_GER
+policies_NN
+lies_VPRT
+in_PIN
+the_DT
+classification_NOMZ
+and_PHC
+unbundling_GER
+of_PIN
+contracts_NN
+between_PIN
+insurance_NN
+and_PHC
+investment_NOMZ
+business_NOMZ
+._.
+Contracts_NN
+with_PIN
+a_DT
+significant_JJ
+degree_NN
+of_PIN
+insurance_NN
+risk_NN
+are_VPRT [PASS]
+treated_VBN
+as_IN
+insurance_NN
+:_:
+pension_NN
+contracts_NN
+in_PIN
+general_JJ
+have_VPRT [PEAS]
+been_VBN [PASS]
+treated_VBN
+as_IN
+investment_NOMZ
+contracts_NN
+and_CC
+,_,
+where_RB
+they_TPP3
+contain_VPRT
+a_DT
+significant_JJ
+degree_NN
+of_PIN
+insurance_NN
+risk_NN
+,_,
+they_TPP3
+have_VPRT [PEAS]
+been_VBN [BEMA]
+unbundled_PRED
+._.
+All_QUAN
+other_JJ
+contracts_NN
+are_VPRT [PASS]
+treated_VBN
+as_IN
+investment_NOMZ
+contracts_NN
+._.
+The_DT
+Group_NN
+has_VPRT [SPAU] [PEAS]
+also_RB
+elected_VBN
+to_TO
+treat_VB
+all_QUAN
+assets_NN
+backing_VBG [WZPRES]
+linked_VBN
+and_CC
+non_JJ
+unit-linked_JJ
+contracts_NN
+as_IN
+fair_JJ
+value_NN
+through_PIN
+profit_NN
+or_CC
+loss_NN
+although_CONC
+some_QUAN
+of_PIN
+the_DT
+assets_NN
+in_PIN
+question_NOMZ
+may_POMD [SPAU]
+ultimately_RB
+be_VB [PASS]
+held_VBN [PRIV]
+to_PIN
+maturity_NOMZ
+._.
+The_DT
+principal_JJ
+areas_NN
+in_PIN
+which_WDT [PIRE]
+the_DT
+Group_NN
+applies_VPRT
+accounting_GER
+estimates_NN
+and_PHC
+assumptions_NOMZ
+are_VPRT [BEMA]
+in_PIN
+deciding_VBG [SUAV] [PRIV]
+the_DT
+amount_NN
+of_PIN
+management_NOMZ
+expenses_NN
+that_TSUB
+are_VPRT [PASS]
+treated_VBN
+as_IN
+acquisition_NOMZ
+expenses_NN
+,_,
+the_DT
+amortisation_NOMZ
+of_PIN
+deferred_JJ
+acquisition_NOMZ
+costs_NN
+and_CC
+deferred_JJ
+income_NN
+,_,
+providing_VBG [PRESP]
+for_PIN
+long-term_JJ
+insurance_NN
+business_NOMZ
+and_CC
+in_PIN
+determining_VBG [SUAV] [PRIV]
+the_DT
+fair_JJ
+value_NN
+and_PHC
+amortisation_NOMZ
+of_PIN
+acquired_VBN
+in-force_NN
+business_NOMZ
+._.
+Estimates_NN
+are_VPRT [SPAU] [PASS]
+also_RB
+applied_VBN
+in_PIN
+determining_VBG [SUAV] [PRIV]
+the_DT
+recoverability_NOMZ
+of_PIN
+deferred_JJ
+acquisition_NOMZ
+costs_NN
+and_CC
+the_DT
+acquired_VBN
+value_NN
+of_PIN
+in-force_NN
+business_NOMZ
+._.
+Certain_JJ
+management_NOMZ
+expenses_NN
+vary_VPRT
+with_PIN
+the_DT
+level_NN
+of_PIN
+sales_NN
+and_CC
+have_VPRT [PEAS]
+been_VBN [PASS]
+treated_VBN
+as_IN
+acquisition_NOMZ
+costs_NN
+._.
+Each_QUAN
+line_NN
+of_PIN
+costs_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+reviewed_VBN
+and_CC
+its_PIT
+variability_NOMZ
+to_PIN
+sales_NN
+volumes_NN
+estimated_VBN [PRIV] [WZPAST]
+on_PIN
+the_DT
+basis_NN
+of_PIN
+the_DT
+level_NN
+of_PIN
+costs_NN
+that_TSUB
+would_PRMD
+be_VB [PASS]
+incurred_VBN
+if_COND
+sales_NN
+ceased_VBD
+._.
+Deferred_JJ
+acquisition_NOMZ
+costs_NN
+and_CC
+deferred_JJ
+income_NN
+are_VPRT [PASS]
+amortised_VBN
+on_PIN
+a_DT
+straight-line_JJ
+basis_NN
+over_IN
+the_DT
+average_JJ
+lifetime_NN
+of_PIN
+the_DT
+underlying_VBG
+investment_NOMZ
+contracts_NN
+._.
+The_DT
+average_JJ
+lifetime_NN
+of_PIN
+the_DT
+contracts_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+estimated_VBN [PRIV]
+from_PIN
+the_DT
+experienced_JJ
+termination_NOMZ
+rates_NN
+and_CC
+the_DT
+average_JJ
+age_NN
+of_PIN
+clients_NN
+at_PIN
+inception_NOMZ
+and_PHC
+maturity_NOMZ
+._.
+There_EX
+have_VPRT [PEAS]
+been_VBN
+no_SYNE
+new_JJ
+business_NOMZ
+combinations_NOMZ
+during_PIN
+the_DT
+year_NN
+._.
+The_DT
+acquired_VBN
+value_NN
+of_PIN
+the_DT
+in-force_NN
+business_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+amortised_VBN
+on_PIN
+a_DT
+basis_NN
+that_TSUB
+reflects_VPRT [PRIV]
+the_DT
+expected_JJ
+profit_NN
+stream_NN
+arising_VBG [WZPRES]
+from_PIN
+the_DT
+business_NOMZ
+acquired_VBD
+at_PIN
+the_DT
+date_NN
+of_PIN
+acquisition_NOMZ
+._.
+This_DEMO
+profit_NN
+stream_NN
+was_VBD [PASS]
+estimated_VBN [PRIV]
+from_PIN
+the_DT
+experienced_JJ
+termination_NOMZ
+rates_NN
+,_,
+expenses_NN
+of_PIN
+management_NOMZ
+and_PHC
+age_NN
+of_PIN
+the_DT
+clients_NN
+under_IN
+the_DT
+individual_JJ
+contracts_NN
+as_RB
+well_RB
+as_IN
+global_JJ
+estimates_NN
+of_PIN
+investment_NOMZ
+growth_NN
+,_,
+based_VBN [PASTP]
+on_PIN
+recent_JJ
+experience_NN
+at_PIN
+the_DT
+date_NN
+of_PIN
+acquisition_NOMZ
+._.
+Deferred_JJ
+acquisition_NOMZ
+costs_NN
+and_CC
+acquired_VBN
+value_NN
+of_PIN
+in-force_NN
+business_NOMZ
+relating_VBG [WZPRES]
+to_PIN
+insurance_NN
+and_PHC
+investment_NOMZ
+contracts_NN
+are_VPRT [PASS]
+tested_VBN
+annually_RB
+for_PIN
+recoverability_NOMZ
+by_PIN
+reference_NN
+to_PIN
+expected_JJ
+future_JJ
+income_NN
+levels_NN
+._.
+The_DT
+assumptions_NOMZ
+used_VBN [WZPAST]
+in_PIN
+the_DT
+calculation_NOMZ
+of_PIN
+insurance_NN
+business_NOMZ
+liabilities_NOMZ
+that_TSUB
+have_VPRT
+the_DT
+greatest_JJ
+effect_NN
+on_PIN
+the_DT
+income_NN
+statement_NOMZ
+of_PIN
+the_DT
+Group_NN
+are_VPRT [BEMA]
+the_DT
+assumed_JJ
+rate_NN
+of_PIN
+investment_NOMZ
+return_NN
+,_,
+the_DT
+expenses_NN
+assumed_VBD [PRIV]
+and_CC
+the_DT
+mortality_NOMZ
+and_PHC
+morbidity_NOMZ
+tables_NN
+used_VBN [WZPAST]
+for_PIN
+the_DT
+calculation_NOMZ
+of_PIN
+non-linked_JJ
+insurance_NN
+liabilities_NOMZ
+._.
+The_DT
+valuation_NOMZ
+discount_NN
+rate_NN
+for_PIN
+non-linked_JJ
+business_NOMZ
+was_VBD [PASS]
+set_VBN
+at_PIN
+3.0_CD
+%_NN
+at_PIN
+31_CD
+December_NN
+2005_CD
+3.0_CD
+%_NN
+as_IN
+at_PIN
+31_CD
+December_NN
+2004_CD
+._.
+This_DEMO
+rate_NN
+is_VPRT [PASS]
+based_VBN
+on_PIN
+the_DT
+regulatory_JJ
+maximum_NN
+allowable_JJ
+rate_NN
+rounded_VBD
+to_PIN
+the_DT
+lower_JJ
+0.1_CD
+%_NN
+._.
+The_DT
+expenses_NN
+assumed_VBD [PRIV]
+for_PIN
+the_DT
+insurance_NN
+business_NOMZ
+are_VPRT [PASS]
+based_VBN
+on_PIN
+an_DT
+investigation_NOMZ
+of_PIN
+the_DT
+expenses_NN
+incurred_VBN [WZPAST]
+in_PIN
+respect_NN
+of_PIN
+each_QUAN
+line_NN
+of_PIN
+business_NOMZ
+._.
+They_TPP3
+are_VPRT [PASS]
+assumed_VBN [PRIV]
+to_TO
+increase_VB
+with_PIN
+inflation_NOMZ
+each_QUAN
+year_NN
+._.
+The_DT
+inflation_NOMZ
+rate_NN
+assumed_VBD [PRIV]
+at_PIN
+31_CD
+December_NN
+2005_CD
+is_VPRT [BEMA]
+between_PIN
+2.9_CD
+%_NN
+and_CC
+4.0_CD
+%_NN
+depending_VBG [WZPRES]
+on_PIN
+the_DT
+territory_NN
+of_PIN
+the_DT
+contract_NN
+between_PIN
+2.9_CD
+%_NN
+and_CC
+4.0_CD
+%_NN
+as_IN
+at_PIN
+31_CD
+December_NN
+2004_CD
+._.
+Mortality_NOMZ
+costs_NN
+are_VPRT [PASS]
+determined_VBN [SUAV] [PRIV]
+following_VBG
+a_DT
+comparison_NN
+of_PIN
+market_NN
+data_NN
+with_PIN
+actual_JJ
+experience_NN
+._.
+The_DT
+rates_NN
+used_VBN [WZPAST]
+are_VPRT [PASS]
+based_VBN
+on_PIN
+recognized_VBN [PRIV]
+industry_NN
+tables_NN
+,_,
+suitably_RB
+adjusted_VBN
+to_TO
+reflect_VB [PRIV]
+this_DEMO
+comparison_NN
+._.
+The_DT
+rates_NN
+used_VBN [WZPAST]
+in_PIN
+the_DT
+valuation_NOMZ
+were_VBD [BEMA]
+between_PIN
+60_CD
+%_NN
+and_CC
+242_CD
+%_NN
+of_PIN
+TM_NN
+TF92_NN
+._.
+Morbidity_NOMZ
+rates_NN
+were_VBD [PASS]
+based_VBN
+on_PIN
+those_DEMP
+charged_VBN
+by_PIN
+our_FPP1
+reassurers_NN
+for_PIN
+recent_JJ
+new_JJ
+business_NOMZ
+._.
+Estimates_NN
+are_VPRT [SPAU] [PASS]
+also_RB
+applied_VBN
+in_PIN
+determining_VBG [SUAV] [PRIV]
+the_DT
+level_NN
+of_PIN
+deferred_JJ
+tax_NN
+asset_NN
+on_PIN
+unrelieved_JJ
+expenses_NN
+and_CC
+other_JJ
+provisions_NN
+these_DEMP
+are_VPRT [PASS]
+set_VBN
+out_PIN
+in_PIN
+notes_NN
+12_CD
+and_CC
+20_CD
+respectively_RB
+._.

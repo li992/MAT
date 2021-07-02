@@ -1,0 +1,167 @@
+Overview Strategic Report Governance Financials Notes to the European embeddedvalue Supplementary financial statements 1 Basis of presentation The Groups primary financial statements have been prepared in accordance with International Financial Reporting Standards as adopted by the European Union.
+The Group has also prepared these supplementary financial statements that have been prepared in accordance with the European Embedded Value Principles.
+As explained in note 1 to the IFRS consolidated financial statements, during the period the Group has performed a reorganisation whereby JRGHL has been replaced by Just Retirement Group plc JRG as the Group holding company and has subsequently completed a premium listing on the London Stock Exchange.
+These supplementary financial statements are presented as a continuation of the supplementary financial statements of JRH, the previous intermediate Group holding company.
+The comparatives have been adjusted to reflect consolidation adjustments at JRGHL.
+The EEV basis results have been prepared in accordance with the EEV principles issued in May 2004 by the European Insurance CFO Forum the CFO Forum, and supplemented by the Additional Guidance on EEV Disclosures published in October 2005.
+The Group has in addition adopted a method for calculating the liquidity premium consistent with that proposed in the March 2010 paper published by the Committee of European Insurance and Occupational Pensions Supervisors, CEIOPS in conjunction with the CFO Forum and the CRO Forum a professional risk management group that focuses on developing and promoting industry best practices in risk management primarily in the insurance industry.
+The Directors believe that the supplementary statements appropriately reflect its underlying profitability whilst continuing to adhere to EEV Principles.
+The Directors view is that embedded value reporting provides shareholders with additional information on the financial position and current performance of the Group to that otherwise provided in the primary financial statements.
+Under the EEV method, the total profit recognised overthe lifetime of a policy is the same as that recognised under alternative reporting bases, but the timing of recognition is different.
+The Group uses EEV methodology to value all lines of insurance business within Just Retirement Limited JRL, or the Company, the covered business of the Group.
+No other Group companies contain any covered business and the value of these companies has been included in the Group EEV at IFRS net asset value less the value of goodwill and intangibles to the extent that their recovery is supported by future profits.
+The Directors of the Group are responsible for the preparation of these supplementary financial statements.
+2 Methodology The following methodology applies to the covered business of the Group.
+A. Embedded value overview In reporting under the EEV Principles, the Group has chosen to adopt a bottom-up approach to the allowance for risk.
+The approach makes an explicit allowance for part of the spread that part being referred to as liquidity premium expected to be earned on corporate bonds.
+This has been achieved by increasing the discount rate used for valuing annuity liabilities by that liquidity premium.
+The embedded value is the sum of adjusted net worth of the Group companies, plus the value of in-force covered business, this being the present value of profits that will emerge over time.
+The net worth is the market value of the shareholders funds and the shareholders interest in the surplus held in the long-term business fund.
+The shareholders net assets in respect of the life company have been derived from the annual regulatory returns submitted to the Prudential Regulation Authority PRA.
+The net worth represents the market value of the assets of the life company in excess of the insurance and noninsurance liabilities of the life company as assessed on the regulatory basis.
+For other Group companies, the net worth is the IFRS net asset value less the value of goodwill and intangibles to the extent that their recovery is supported by future profits.
+The value of in-force business is the present value of projected after-tax profits emerging in future from the current in-force business less the cost arising from holding the required capital to support the in-force business.
+The future cash flows are projected using best estimate assumptions for each component of the cash flow.
+The value of new business is the present value of projected after-tax profits emerging in future from new business sold in the period less the cost arising from holding additional capital to support this business.
+The figures shown also include the additional expected return between the point of sale and the reporting date.
+Covered business The business to which the EEV Principles have been applied is defined as the covered business.
+The covered business includes all business written by the life company.
+In particular: Long-term business operations.
+This is business falling under the definition of long-term insurance business for UK regulatory purposes and principally comprises: Pension lifetime annuities: Fixed term pension annuity contracts: Defined Benefit Scheme contracts: and Immediate Needs Annuities In addition, some purchased life annuity business has been written, but this has not been written in significant volumes.
+Although it has been allowed for in the calculations, it has not been explicitly modelled.
+The impact of this approximate treatment is not material.
+These are held as investments to back the pension annuity contracts.
+Annual Report & Accounts 2014 121 Notes to the European embeddedvalue continued Supplementary financial statements 2 Methodology continued C. New business All of the covered business is written on a single premium basis.
+New business is defined to be all single premiums received in the period in respect of annuity policies completed in the period and all cash advances made during the period in respect of lifetime mortgages.
+No allowance is made in the embedded value for the value of any future new business written after the reporting date.
+For the value of new business, the Group has used economic assumptions determined at point of sale and has generally used opening period non-economic assumptions.
+The Group considers point of sale economic assumptions, rather than economic assumptions determined at either the opening or closing dates, to be more appropriate given the nature of its business.
+Any changes to non-economic assumptions and methodology in respect of new business are introduced at the reporting date.
+The impact of these changes on the value of new business at the end of the year is therefore included within the analysis of the embedded value profit in the operating assumption changes.
+D. Components of value The values of in-force business and new business each comprise four components: Certainty equivalent value: less Time value of financial options and guarantees: less Allowance for non-market risk: less Cost of capital.
+i Certainty equivalent value The certainty equivalent value is the value of the future cash flows, excluding the time value of financial options and guarantees.
+It is calculated assuming assets earn the reference rate and the cash flows are discounted at the reference rate.
+The future cash flows are those arising from the assets backing the liabilities as assessed on a regulatory basis and from the liabilities themselves.
+The projection of the regulatory liabilities assumes the continuation of the bases used to calculate the liabilities at the valuation date.
+The regulatory equivalent of the value of the provision for the guarantee described in ii below is included in the shareholders net assets and this is reversed out in the certainty equivalent value.
+ii Time value of financial options and guarantees The only material financial options and guarantees within the covered business arise from the no-negative equity guarantee under the lifetime mortgage business.
+Under this guarantee, the amount recoverable by the Group on termination of the mortgage is generally capped at the net sale proceeds of the property.
+Circumstances where this guarantee does not apply are those where the mortgage redemption is not accompanied by a sale of the underlying property.
+This could occur when, for example, the property is remortgaged with another provider.
+This guarantee is explicitly allowed for in the calculations.
+The value of this guarantee has been estimated using a variant of the Black-Scholes option pricing formula.
+The formula incorporates a number of assumptions, including those for risk-free rates, future property growth and property volatility.
+The value of the financial options and guarantee shown in the presentation is the total value of this guarantee, net of tax, assessed on a realistic basis it includes any intrinsic value in the option.
+iii Allowance for non-market risk The key non-market or diversifiable risks faced by the Company are mortality including longevity, early redemptions on lifetime mortgages and operational risks.
+In principle no explicit adjustment is required for non-market risks because the capital markets do not require an additional return for risks which can be diversified away.
+However, this is only true if the assumptions made as regards future experience are set so as to give the mean of the expected outcome including allowing for the tails of the distribution and that all cash flows have been allowed for.
+The Company has set the assumptions in respect of mortality and lifetime mortgage early redemptions with the intention that they give the mean ofthe expected outcome, including allowing for the tails of the distribution.
+As such, no further adjustment has been made in respect of these risks.
+However, the certainty equivalent value and the time value of financial options and guarantees make no allowance for the cost of possible operational risks and the Company has made an explicit allowance for these risks.
+In the valuation approach used, the market or non-diversifiable risks faced by the Company are allowed for directly in the valuation of the cash flows.
+iv Cost of capital In addition to holding assets to back the covered business, the Company also has to hold additional shareholder capital to support the business.
+The amount of capital has been assessed taking into account the Companys own internal assessment of its capital requirements and the amount required under the UK Solvency I regulatory environment.
+The cost of capital represents the frictional costs of having to retain this capital.
+The Group has taken these frictional costs to be any tax payable inrespect of future investment returns earned on this capital and the associated investment management costs.
+The required capital is provided by the retained surplus in the long-term business fund and the retained earnings and issued share capital in the shareholder fund.
+122 Just Retirement Group plc Overview Strategic Report Governance Financials 2 Methodology continued E. Valuation of cash flows Within the calculation of the value of in-force business and value of new business, the reference rate used for valuing the annuity cash flows has been set equal to the mid-market swap rate, plus a liquidity premium adjustment.
+The same rate has been used to value the lifetime mortgage cash flows deemed to be backing the annuity business.
+All other cash flows including those from the lifetime mortgages that are not deemed toback the annuity business and those underlying the calculation of the cost of capital have been valued using the mid-market swap rate, asthereference rate.
+i In-force business For the in-force business the liquidity premium adjustment has been derived from the iBOXX Sterling Corporate Bond Index.
+The liquidity premium is calculated as 50% of the Index Asset Swap Margin at the relevant reporting date less 40bp, with that result then subject to rounding.
+ii New business For new business written during the financial year the liquidity premium varies by the month of policy inception.
+The liquidity premium adjustment applied to each months new business is consistent with the approach adopted for in-force business except that the value of the Index Asset Swap Margin for each months new business is a weighted average for the month using the amounts of annuity premium received each day as the weights.
+In the calculations it has been assumed that each months new lifetime mortgage business is available to match part of that months new annuity business and the remaining new annuity cash flows are backed by bonds.
+F. Reinsurance The Group has put in place reinsurance arrangements in respect of the annuity business, whereby part of the mortality risk is transferred to the reinsurers.
+In addition the Group receives an initial financing payment which is repayable out of future surplus emerging.
+Some associated initial and renewal fees are also payable to the reinsurers.
+The face value of the amount owed to the reinsurers at the relevant reporting date together with all management fees expected to be paid in the future has been explicitly allowed for in the value of the in-force business at the reporting date.
+The risk transfer is not reflected in the EEV because, on the assumptions used, the Group expects to recapture the treaty once remaining financing has been repaid.
+The Group has put in place separate reinsurance arrangements for the defined benefit and immediate needs annuity business.
+Part of the mortality risk is transferred to the reinsurers by means of a mortality swap arrangement where JRL will pay reinsurance premiums equal to their share of expected claims according to the reinsurers mortality assessment, and the reinsurers will pay reinsurance claims equal to their share of actual payments made.
+G. Taxation The projected cash flows take into account all tax which the Company expects to pay.
+The calculations are undertaken assuming current tax legislation and rates continue unaltered.
+Embedded value profits have been calculated on an after-tax basis and have then been grossed up at the full corporation tax rate to arrive atapre-tax level for reporting in the Summarised statement of comprehensive income.
+Economic assumptions Reference rates The term structure of the reference rates has been derived from mid-market swap rates.
+The resulting rates reflect the shape of the swap rate curve.
+For new business the rates have been derived from the swap rates applicable on the date each payment was received for annuity policies orthe date each mortgage advance was completed as appropriate.
+Sample mid-market swap rates at 30 June 2014 and 30 June 2013 are shown in the following table: Swap rates at sample terms, % Term years 1 5 10 20 30 30 June 2014 0.9 2.2 2.8 3.2 3.2 30 June 2013 0.7 1.5 2.6 3.2 3.3 The in-force liquidity premium adjustment as at 30 June 2014 was 51bp 2013: 77bp.
+The liquidity premium adjustment for each months new business has varied over the financial year but the effect is equivalent to an average adjustment of 59bp 2013: 84bp for each months new business.
+Residential property assumptions When calculating the value of the no-negative equity guarantee on the lifetime mortgages, certain economic assumptions are required within the variant of the Black-Scholes formula.
+The market against which to assess these assumptions and calibrate the cost of the no-negative equity guarantee at any point in time is neither deep nor liquid.
+The Group has therefore set these assumptions taking into account information available to it from within the capital markets linked to the assessment of the indicative costs of hedging out such exposures and published UK residential property historic price movements.
+Annual Report & Accounts 2014 123 Notes to the European embeddedvalue continued Supplementary financial statements 3 Assumptions continued A.
+Economic assumptions continued In the formula the risk-free rate used is the mid-market swap rate.
+In the absence of a reliable long-term forward curve for UK residential property price inflation, the Group has assumed that residential property will grow in line with a bespoke house price inflation curve.
+This has been derived by reference to mid-market UK retail price inflation swap rates together with an explicit term dependent house price inflation spread.
+Sample mid-market house price inflation rates at 30 June 2014 and 30 June 2013 are shown in the following table: House price inflation rates at sample terms, % Term years 1 5 10 20 30 30 June 2014 2.1 1.3 3.4 4.2 4.2 30 June 2013 3.9 1.0 3.3 4.3 4.3 In deriving an assessment of long-term UK residential property price volatility, the Group has used house price data published by the Nationwide Building Society.
+The Group has adjusted the derived value to allow for the additional volatility expected to be observed in the Companys portfolio compared with the market as a whole.
+The volatility assumption used at 30 June 2014 was 9.8% p. a.
+The volatility assumption used for new business was 9.9% p. a.
+Expense inflation For the annuities, the assumed future rate of increases in per policy maintenance expenses is 3.7% p. a.
+2013: 3.7% p. a.. For the lifetime mortgages, the assumed future rate of increases in maintenance expenses is 3.9% p. a.
+The difference reflects the difference in average duration of the cash flows and the shape of the RPI curve at the valuation date.
+Taxation The rate of corporation tax assumed is 22.5% throughout being the effective weighted average tax rate for the financial year 2013: 23.75%.
+Operating assumptions Operating assumptions have been reviewed as part of the reporting process.
+Mortality The mortality assumptions have been set by the Group taking into account the Companys own mortality experience together with relevant studies undertaken by the Continuous Mortality Investigation Bureau of the Institute and Faculty of Actuaries CMI, population studies undertaken by offices of the UK Government, published research materials, input from the Groups lead reinsurer and managements own industry experience.
+For the annuity policies the mortality assumptions are based on the PCMA00 males and PCFA00 females mortality tables and the CMI 2012 model improvement factors.
+These base factors are overlaid by a series of underwriting factors applied to the base mortality rates.
+These adjustments are made to reflect the nature and likely incidence of the underlying risks inherent within the business written.
+These assumptions are unchanged from those used as at 30 June 2013.
+For Defined Benefit annuity policies the mortality basis is set with reference to the base table and mortality improvement rates provided by RGA i. e. the reinsurer with whom each DB scheme is reinsured.
+For Immediate Needs annuity policies the mortality basis is set with reference to the table provided by Gen Re i. e. the reinsurer with whom each INA policy is individually underwritten.
+For the lifetime mortgages the mortality assumptions are based on the PCMA00 and PCFA00 mortality tables and the CMI 2012 model improvement factors.
+These assumptions have been updated from those used at 30 June 2013 to reflect the emerging experience on this business.
+For Lump Sum Plus mortgages on standard terms the same mortality basis applies as used for the normal roll-up business.
+The underlying basis for the underlying mortgages is the same, with adjustments applied to reflect the nature and likely incidence of the underlying risks.
+Mortgage repayments Assumptions are made about the number of future mortgage repayments resulting from individuals moving into long-term care or through voluntary repayments.
+When deriving appropriate assumptions the Group has taken into account its own experience together with other relevant available information.
+The decrement for moving into long-term care is expressed as a proportion of the underlying mortality assumption for the relevant lives.
+Thedecrement for voluntary repayments is expressed as annual percentages of the portfolio in force and exhibits a term structure based on duration in force.
+124 Just Retirement Group plc Overview Strategic Report Governance Financials 3 Assumptions continued B.
+Operating assumptions continued Expenses The expense levels are based on internal expense analysis investigations and are appropriately allocated to the new business and policy maintenance functions.
+Acquisition expenses have been fully allocated to the values of new business for each product.
+The Group has set maintenance expense allowances for each product which it considers to be realistic.
+In calculating the embedded value, an adjustment has been made equal to the net present value of any expected future maintenance expenseoverruns.
+Investment expenses have been set by reference to the expenses payable under the investment management arrangements.
+Some of the expenses incurred in the financial period to 30 June 2014 have been considered exceptional and one-off in nature.
+These exceptional expenses have been identified separately and have not been included in the calculation of the value of in-force business or in the value of new business although they have been reflected in the operating profit.
+Total exceptional expenses for the year ended 30 June 2014 were 10.8m 2013: 5.8m.
+The look-through principle has not been applied to the losses in the Distribution Company arising from the sale of products arising from the covered business, and so these losses have not been included as a deduction against the value of new business.
+The Distribution Company is considered to be a stand-alone business and its activities do not relate solely to the sale of JRL products.
+The recognised loss in the Distribution Company has been accounted for on an IFRS basis, separately to the results of the covered business.
+The remaining expenses are included within operating results of the Distribution and other Group companies and have been accounted for onanIFRS basis.
+Non-market risk At 30 June 2014 the provision for non-market risk has been established as 0.18% of the mathematical reserves in respect of annuity business.
+At30 June 2013 the provision was 0.22% of the mathematical reserves in respect of annuity business.
+For the value of new business in the period to 30 June 2014, a deduction of 0.22% of gross statutory reserves at point of sale has been applied.
+Required capital At 30 June 2014 the assumed level of required capital to support the business represents 175% of JRLs long-term insurance capital requirement LTICR together with 175% of the resilience capital requirement RCR, as set out in PRA regulations.
+At 30 June 2013 the assumed level of required capital to support the business represented 140% of the LTICR and 140% of the RCR.
+4 Group embedded value The following table sets out the Group embedded value as at the current and previous reporting dates: Year ended Year ended 30 June 30 June 2014 2013 m m Just Retirement Limited Shareholders net assets 496.6 357.4 Value of in-force business Certainty equivalent value 293.6 214.6 Time value of financial options and guarantees 45.1 46.1 Allowance for non-market risk 10.0 10.2 Cost of capital 36.0 24.5 Value of in-force business 202.5 133.8 Embedded value of Just Retirement Limited 699.1 491.2 Net assets liabilities of other Group companies 260.0 302.4 Group embedded value 959.1 188.8 Based on the appropriate year-end assumptions, as set out above, the amount of required capital as at 30 June 2014 was 501.5m 2013: 337.8m.
+The free surplus of Just Retirement Limited at 30 June 2014 was 4.9 m 2013: 19.6m.
+Annual Report & Accounts 2014 125 Notes to the European embeddedvalue continued Supplementary financial statements 5 After-tax value of new covered business of JRL The following table sets out the after-tax value of the new business for the financial years ended 30 June 2014 and 30 June 2013: Year ended Year ended 30June 30June 2014 2013 m m Certainty equivalent value 131.7 114.8 Time value of financial options and guarantees 8.9 6.7 Allowance for non-market risk 2.0 2.3 Cost of capital 5.9 5.3 Value of new business 114.9 100.5 During the year ended 30 June 2014 the amount of required capital for new business was 73.7m 2013: 69.3m.
+6 Covered business analysis of movement in gross of tax embedded value of JRL The following table sets out an analysis of the embedded value profit for the year ended 30 June 2014 together with the comparative figures for the year ended 30 June 2013.
+In order to explain better the movement in capital flows, the composition of the embedded value profit for the current year is shown separately between the movement in free surplus, required capital and the value of in-force business.
+Total for Total for Value of yearended yearended Free Required in-force 30 June 30 June surplus capital business 2014 2013 m m m m m Opening embedded value 19.6 337.8 133.8 491.2 366.2 Expected return on opening embedded value 0.2 3.2 40.3 43.7 56.8 Expected surplus from in-force business 13.2 12.2 1.0 New business contribution 15.0 73.7 89.5 148.2 131.8 Operating experience variance 20.9 0.5 19.1 39.5 18.2 Operating assumption changes 103.0 101.1 43.3 45.2 82.9 Interest on Tier 2 loan 9.5 9.5 3.0 Operating profit for covered business 135.0 166.3 66.4 97.7 84.5 1 Economic variance 86.4 2.6 22.2 106.0 46.7 Embedded value profit before tax 48.6 163.7 88.6 203.7 131.2 Tax 25.9 19.9 45.8 31.2 Profit after tax 74.5 163.7 68.7 157.9 100.0 New capital 50.0 50.0 25.0 Closing embedded value 4.9 501.5 202.5 699.1 491.2 1 The economic variance of 106.5m 2013: 48.2m reported in the Group Statement of comprehensive income includes 0.5m 2013: 1.5m in respect of the fair value movement on the interest rate swap derivatives held by Just Retirement Holdings Limited.
+The expected return on opening embedded value is the expected change in the embedded value resulting from a projection of the assets and liabilities over the period using expected real world investment returns.
+The expected surplus from in-force business represents the surplus expected to emerge during the period from business that was in-force at the beginning of that period.
+The effect is a transfer of value between the value of in-force business and shareholders net assets, with the overall effect on the embedded value being zero.
+The new business contribution is the value of new business at the point of sale, together with the expected return on this value between the point of sale and the end of the period.
+The operating experience variance represents the profits and losses caused by differences between the actual experience during the period and that expected on the operating assumptions, relating to both the business in-force at the start of the period and new business written.
+The operating assumption changes reflect changes in the assumptions in respect of future operating experience between the start and end of the period.
+126 Just Retirement Group plc Overview Strategic Report Governance Financials 6 Covered business analysis of movement in gross of tax embedded value of JRL continued The economic variance arises from the impact of differences between the actual investment returns in the period and the expected investment returns, and the impact of the change to the end of period future economic assumptions.
+Further impacts have arisen between the shareholders net assets and value of in-force business figures due to changes in the economic assumptions used in the regulatory reserving bases.
+All of these impacts are calculated in relation to the start of period economic assumptions for business in-force at the start of the period and point of sale economic assumptions for new business sold in the period.
+7 Operating experience variances before tax for JRL An analysis of the key operating experience variances before tax is set out in more detail in the following table: Total for Total for Value of yearended yearended Shareholders in-force 30June 30 June net assets business 2014 2013 m m m m Reinsurance arrangements 6.1 11.4 5.3 0.1 Maintenance and investment expenses 7.2 7.2 7.0 Exceptional expenses 10.8 10.8 5.8 Tax variances 2.1 2.1 0.5 Experience variances 6.4 7.7 14.1 4.8 Total operating experience variances 20.4 19.1 39.5 18.2 8 Operating assumption changes before tax for JRL An analysis of the operating assumption changes item before tax is set out in more detail in the following table: Total for Total for Value of yearended yearended Shareholders in-force 30June 30 June net assets business 2014 2013 m m m m Annuitant mortality assumptions 82.3 Maintenance expenses 0.5 0.5 0.1 Mortgage assumption 0.2 46.3 46.5 4.0 Tax 3.5 3.5 2.9 Non-market risk 2.9 2.9 0.6 Cost of capital 10.2 10.2 Reinsurance changes 2.5 1.6 4.1 Non-policy reserves 9.6 9.6 Model changes 0.3 1.2 0.9 Total operating assumption changes 1.9 43.3 45.2 82.9 The tax item reflects the change from the effective tax rate used at the previous reporting date 23.75% to the rate used at this reporting date22.5%.
+9 Sensitivities The Group embedded value at 30 June 2014 and the value of new business for the year to 30 June 2014 have been recalculated to show thesensitivity of the results to changes in certain of the assumptions discussed above.
+Most of the sensitivities are as prescribed by the additional guidance provided by the CFO Forum in October 2005.
+There is no lapse surrender risk for the annuities and so no sensitivity to this assumption has been shown for this business.
+The sensitivities chosen do not represent the boundaries of possible outcomes, nor are they intended to represent events of equal likelihood, but rather illustrate how certain alternative assumptions would affect the results.
+For each of the sensitivities all the other assumptions remain unchanged, unless otherwise stated.
+In all of the sensitivities, the statutory reservingbasis was left unchanged, except for the first two where the valuation rate of interest was changed to reflect the sudden change ineconomic conditions.
+Annual Report & Accounts 2014 127 Notes to the European embeddedvalue continued Supplementary financial statements 9 Sensitivities continued The sensitivities tested were: Interest rates 1% lower than in the central case with resulting changes in asset values and reference rates.
+The impact for the values of new business has not been calculated for this sensitivity as the Group actively reviews its premium rates and in the event of such a sudden change in economic conditions the Group would change its rates: Interest rates 1% higher than in the central case with resulting changes in asset values and reference rates: Reference rates 10bp lower than in the central case, with no change in asset values.
+The purpose of this sensitivity is to illustrate the impact of using a different definition of the reference rate than basing it on mid-market swap rates: Credit spreads represented by the difference between corporate bond yields and swap rates 10bp narrower than in the central case.
+For this sensitivity there is no change to the liquidity premium: Credit spreads 10bp wider than in the central case.
+For this sensitivity there is no change to the liquidity premium: Liquidity premium 10bp lower than in the central case: Property market values 10% lower than in the central case: Implied property volatility assumption 125% of the assumption in the central case: Implied property volatility assumption 75% of the assumption in the central case: Annuitant base mortality 5% lower than in the central case i. e. 95% of the central mortality rates : Lifetime mortgage base mortality 5% lower than in the central case i. e. 95% of the central mortality rates.
+For this sensitivity, the allowance for moving into long-term care is also assumed to be 5% lower: Lifetime mortgage voluntary redemption assumption 10% lower than in the central case i. e. 90% of the base case assumption : Maintenance expenses 10% lower than in the central case i. e. 90% of base case costs including the resulting reduction in the maintenance expense overrun: Corporation tax rate set to 21.5% i. e. 1% lower than in the central case : and Required capital equal to 100% of the LTICR plus 100% of the RCR.
+Sensitivity of values to changes in assumptions Value of new Embedded business for value at year ended 30June 30June 2014 2014 m m Central value 959.1 114.9 Impact of: 1% reduction in yield curves 83.5 n a 1% increase in yield curves 66.9 n a 10bp reduction in reference rate 9.4 1.7 10bp reduction in credit spreads 20.3 n a 10bp increase in credit spreads 20.1 n a 10bp reduction in liquidity premium 18.0 3.7 10% reduction in property values 18.9 5.0 125% of implied property volatilities 37.0 10.0 75% of implied property volatilities 24.3 5.2 5% reduction in annuitant base mortality 68.9 6.9 5% reduction in lifetime mortgage base mortality 18.7 3.8 10% reduction in lifetime mortgage voluntary redemptions 18.7 2.1 10% reduction in maintenance expenses 11.6 2.3 1% reduction in corporation tax rate 4.1 1.9 Required capital equal to 100% of LTICR plus 100% of RCR 15.3 2.8 128 Just Retirement Group plc

@@ -1,0 +1,83 @@
+22 The Strategic Report Delivering our strategy Financial performance Our main competitor for consumer services is Virgin Media, whose a a 2014 2013 2012 network covers just under half of UK homes.
+We have many Year ended 31 March m m m competitors in the business market, where the focus is on selling high Revenue 2,422 2,608 2,943 capacity data connections.
+Our main competitors are Virgin Media, Underlying revenue excluding transit 3 % 3 % 2 % Colt and Vodafone.
+Operating costs 1,808 1,988 2,276 Products and services EBITDA 614 620 667 Openreach sells three main products: bre broadband, copper-based Depreciation and amortisation 245 254 259 services and Ethernet.
+Operating profit 369 366 408 Capital expenditure 244 233 336 Fibre broadband Operating cash ow 372 348 259 Our wholesale bre broadband product is called Generic Ethernet a Restated.
+See note 1 to the consolidated financial statements.
+The FTTC variant of GEA uses copper for the final connection to the customer.
+It offers speeds of up to 80Mbps.
+The Total revenue declined 7% 2012 13: 11%, or 10% excluding the FTTP variant offers faster speeds of up to 330Mbps and uses bre all impact of ladder pricing, see page 25, mainly due to a 119m the way to the customer premises.
+In April 2013, we launched FTTP-on-Demand.
+This lets end-customers Underlying revenue excluding transit declined 3% 2012 13: 3%, or in FTTC areas get an FTTP connection if they need one we think SMEs 1% excluding the impact of ladder pricing.
+This was primarily due to will be especially interested in the faster speeds that this supports.
+We a 15% decline in broadband revenues, as lines continue to migrate to have initially made FTTP-on-Demand available in 42 exchange areas, LLU and a 16% decline in traditional calls and lines revenue which and plan to make it available across our entire bre broadband includes the impact of the Narrowband Market Review NBMR.
+These effects were partially offset by strong growth in IP services of 28% as well as 7% growth in managed solutions.
+We have introduced more installation choices for our CP customers.
+While we continue to offer managed installation of bre broadband Revenue from managed solutions accounted for 37% of revenue this which entails an Openreach engineer visiting a home or business year, up from 32% last year.
+site, we now offer CPs the option of providing the service without an EBITDA declined 1% 2012 13: 7%, or 3% excluding the impact of Openreach engineer visit.
+ladder pricing as cost transformation helped to offset the impact We also offer Fibre Voice Access which allows CPs to offer voice of lower revenues.
+Depreciation and amortisation were down 4% services over FTTP that are similar in functionality to copper-based 2012 13: 2% contributing to operating profit increasing 1% voice services.
+Our bre broadband network can also carry broadcast and onCapital expenditure increased 5% 2012 13: 31% decrease.
+This demand internet protocol television IPTV services.
+We provide a was primarily due to higher spend on the IPX platform to increase multicast service which cuts the cost of delivering broadcast TV over capacity to meet growing demand and investment in systems to our network and means CPs generally triple-play providers can drive future efficiencies.
+prioritise broadcast TV over other web trafc.
+Operating cash ow increased 7% 2012 13: 34% principally due to Passive Infrastructure Access PIA the timing of customer receipts.
+PIA products allow CPs to rent space in Openreachs ducts or on OPENREACH telephone poles.
+CPs can use this space for their own bre networks We are delivering the bre broadband rollout programme on behalf instead of buying bre broadband services directly from us.
+of the group and are playing our part in building Britains connected Wholesale Line Rental WLR future helping businesses to grow and communities to prosper.
+WLR is a copper-based service which lets CPs offer own-branded Openreach is responsible for providing services over the local loop phone services with their own pricing and billing using our sometimes known as the local access network or the last mile.
+This is equipment and network.
+They pay to use the copper lines between made up of the copper and bre connections between our our exchanges and customer premises but can avoid investing in exchanges, and homes and businesses.
+We also offer backhaul extra network equipment or infrastructure.
+products to connect exchanges to CPs networks.
+Local Loop Unbundling LLU BTs Undertakings more on page 26 commit us to selling our main LLU is also a copper-based service.
+It allows CPs to offer broadband products and services to all CPs openly and equally and on the same services by installing their own equipment in our exchanges and terms as we do to BTs own lines of business.
+To make this work renting the copper line to the customer premises.
+CPs can use our properly, Openreachs operational, engineering and systems shared metallic path facility SMPF product to offer broadband over capabilities are separate from those of the rest of BT.
+Around 99.7% a WLR line or our metallic path facility MPF product to offer both of Openreach revenue is subject to these Undertakings.
+phone and broadband services over a copper line using their own equipment.
+Markets and customers BT serves the wholesale telecoms customer segment in Great Britain Ethernet through Openreach and BT Wholesale.
+In Northern Ireland and the Our Ethernet products offer business-grade, dedicated bre Republic of Ireland, BT serves wholesale customers through BT connections.
+CPs use them in their own networks and to provide high Ireland.
+quality, high bandwidth services to businesses and the public sector.
+Openreach has around 540 CP customers, the largest of which are other BT lines of business particularly BT Consumer and BT Business, Sky and TalkTalk.
+Openreach does not sell directly to end-customers.
+The Strategic Report Delivering our strategy 23 Performance in the year Cost transformation Our bre broadband network passes more than 19m premises and is Operating costs reduced 1% 2012 13: 4% as cost efficiencies offset being used by 2.7m end-customers.
+Our physical line base grew by pay ination and the additional engineering resource we have 83,000 in the year.
+But our service performance was affected by the recruited to support bre provision in rural areas.
+The weather extreme weather conditions and widespread ooding across the UK.
+conditions also impacted our costs in the year.
+We are increasing the efficiency of our operations through process Operating Performance improvements, better training, improved tools and equipment for our During the year we largely nished building bre broadband engineers, and by recruiting engineers with more exible terms and infrastructure in areas where the business case is viable without conditions.
+We also started to roll out bre to wider communities, supported by public funding from the Broadband This year we: Delivery UK BDUK programme.
+This funding was awarded to us provided over 13,000 new PCs and mobile devices to our following competitive tenders.
+We are now in the build phase for workforce: each of these contracts.
+launched 20 bespoke smartphone apps that simplify or automate Take-up of bre broadband is growing strongly, with 1.3m new bre a large number of engineering tasks: and connections during the year and over 2.7m homes and businesses helped our engineers become more productive.
+Investing for the future There are 18.5m DSL and bre broadband users on our network, an We continue to invest in both our network and our people to improve increase of 0.8m in the year.
+the service we provide to our customers.
+This year we: The UK was first in eight out of twelve measures in Ofcoms 2013 EU invested 1.0bn 2012 13: 1.1bn in our copper and bre Broadband scorecard which assesses factors such as broadband networks to extend coverage, improve service and increase coverage, take-up and usage in the UK, France, Germany, Italy and functionality.
+This supports our aim to be trusted to deliver reliably Spain.
+and consistently: Despite the problems caused by the poor weather, we managed totrialled vectoring technology this could potentially increase our grow our physical line base by 83,000 in the year.
+This is the third FTTC broadband speeds to above 100Mbps: consecutive year of growth.
+provided 140,000 hours of training 30% more than last year, to ensure that our people have the right skills for their roles: The number of Ethernet circuits we provide grew 14% in the year.
+recruited around 2,000 people into permanent roles, including This reects more demand for connections for CPs business 500 apprentices: and customers as well as CPs requiring greater speeds and capacity within announced plans to invest 50m in the next three years to their own networks.
+improve broadband coverage in UK cities.
+Customer service delivery Financial performance a a People are increasingly reliant on their xed-lines for continuous 2014 2013 2012 Year ended 31 March m m m access to the internet.
+This means customer expectations have risen around the time taken to install, upgrade or repair their line.
+Ofcom is Revenue 5,061 5,115 5,187 proposing to introduce minimum service levels around the repair and Operating costs 2,460 2,473 2,569 provision of lines.
+EBITDA 2,601 2,642 2,618 Depreciation and amortisation 1,406 1,428 1,416 Although we have made progress improving some aspects of our service, we have not always kept pace with customers shifting Operating profit loss 1,195 1,214 1,202 expectations.
+The main area where we did improve was in providing Capital expenditure 1,049 1,144 1,075 new lines to homes and businesses.
+The average time to provide a Operating cash ow 1,492 1,475 1,514 new line was around ten days, in line with the commitments we had a Restated.
+We installed 93% of lines on the day agreed with Revenue declined 1% 2012 13: 1% as regulatory price changes had customers, and only 6% of lines developed a fault within 28 days.
+a negative impact of around 260m, or the equivalent of 5%.
+This But we need to increase the speed and consistency with which we was partly offset by 86% growth in bre broadband revenue and a repair faults in our network.
+We repaired only 70% of faults within 4% increase in Ethernet revenue driven by higher volumes.
+the timeframe we had committed to customers.
+While repair Operating costs reduced 1% 2012 13: 4%.
+EBITDA and operating performance was hampered by the extreme weather between profit decreased 2% 2012 13: 1% increase.
+December and February, we are committed to increasing investment in the resilience of our network.
+While our commercial bre build is nearing completion, we have maintained the For our business customers, our Ethernet provision performance was same intensity of overall bre rollout through the BDUK programme.
+In particular, we missed the agreed customer We received 110m of funding relating to this programme.
+Operating delivery date for around one in six Ethernet orders.
+More positively, cash ow increased 1% 2012 13: 3% decrease.
+once provided, our Ethernet services proved robust and less than 12% of circuits required a repair during the year.
+Our RFT was up on average for the first three quarters but then declined 1.9% due to widespread storms and ooding across the UK, which led to record fault volumes and meant it took longer than normal to provide our services.

@@ -1,0 +1,522 @@
+Minerva_NN
+plc_NN
+51_CD
+Annual_JJ
+report_NN
+and_PHC
+accounts_NN
+2005_CD
+22_CD
+._.
+Financial_NN
+instruments_NOMZ
+continued_VBD
+Hedges_NN
+The_NN
+table_NN
+below_PLACE
+shows_NN
+the_DT
+extent_NN
+to_PIN
+which_WDT [PIRE]
+the_DT
+Group_NN
+has_VPRT
+unrecognised_JJ
+gains_NN
+and_PHC
+losses_NN
+in_PIN
+respect_NN
+of_PIN
+financial_JJ
+instruments_NOMZ
+used_VBN
+as_IN
+hedges_NN
+at_PIN
+the_DT
+beginning_GER
+and_PHC
+end_NN
+of_PIN
+the_DT
+year_NN
+,_,
+separately_RB
+identifying_VBG
+those_DEMO
+gains_NN
+and_PHC
+losses_NN
+which_WDT [WHSUB]
+have_VPRT [PEAS]
+been_VBN [PASS]
+included_VBN
+in_PIN
+the_DT
+profit_NN
+and_PHC
+loss_NN
+account_NN
+for_PIN
+this_DEMO
+year_NN
+and_CC
+those_DEMO
+gains_NN
+and_PHC
+losses_NN
+which_WDT [WHSUB]
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+be_VB [PASS]
+included_VBN
+in_PIN
+the_DT
+profit_NN
+and_PHC
+loss_NN
+account_NN
+of_PIN
+subsequent_JJ
+periods_NN
+:_:
+30_CD
+June_NN
+2005_CD
+30_CD
+June_NN
+2004 000 000_CD
+Unrecognised_JJ
+net_JJ
+losses_NN
+on_PIN
+hedges_NN
+at_PIN
+beginning_GER
+of_PIN
+year_NN
+2,586_CD
+28,693_CD
+Net_JJ
+losses_NN
+in_PIN
+previous_JJ
+years_NN
+that_TSUB
+were_VBD [PASS]
+recognized_VBN [PRIV]
+during_PIN
+the_DT
+year_NN
+2,967_CD
+6,961_CD
+Net_JJ
+gains_NN
+losses_NN
+arising_VBG [WZPRES]
+on_PIN
+hedges_NN
+in_PIN
+existence_NN
+as_IN
+at_PIN
+previous_JJ
+year_NN
+end_NN
+and_CC
+not_XX0
+recognized_VBN [PRIV]
+during_PIN
+current_JJ
+year_NN
+381_CD
+21,732_CD
+Net_JJ
+losses_NN
+gains_NN
+arising_VBG [WZPRES]
+this_DEMO
+year_NN
+that_TSUB
+were_VBD [PASS]
+not_XX0
+recognized_VBN [PRIV]
+in_PIN
+current_JJ
+year_NN
+16,314_CD
+19,146_CD
+Unrecognised_JJ
+net_JJ
+losses_NN
+on_PIN
+hedges_NN
+at_PIN
+end_NN
+of_PIN
+year_NN
+15,933_CD
+2,586_CD
+of_PIN
+which_WDT [PIRE]
+:_:
+Net_JJ
+losses_NN
+expected_VBN [PRIV]
+to_TO
+be_VB [PASS]
+recognized_VBN [PRIV]
+within_PIN
+one_CD
+year_NN
+3,144_CD
+2,679_CD
+Net_JJ
+losses_NN
+gains_NN
+expected_VBN [PRIV]
+to_TO
+be_VB [PASS]
+recognized_VBN [PRIV]
+beyond_IN
+one_CD
+year_NN
+12,789_CD
+93_CD
+15,933_CD
+2,586_CD
+The_DT
+losses_NN
+arising_VBG [WZPRES]
+during_PIN
+the_DT
+year_NN
+reflect_VPRT [PRIV]
+the_DT
+effect_NN
+of_PIN
+lower_JJ
+medium_NN
+long-term_JJ
+interest_NN
+rates_NN
+when_RB
+measured_VBN
+against_PIN
+those_DEMP
+prevailing_VBG
+at_PIN
+30_CD
+June_NN
+2004_CD
+._.
+Gearing_VBG
+Net_JJ
+gearing_VBG
+,_,
+measured_VBN
+as_IN
+Group_NN
+net_JJ
+debt_NN
+before_IN
+offsetting_VBG
+unamortised_JJ
+loan_NN
+issue_NN
+costs_VPRT
+to_PIN
+equity_NOMZ
+shareholders_NN
+funds_NN
+,_,
+was_VBD [BEMA]
+67_CD
+per_PIN
+cent_NN
+at_PIN
+30_CD
+June_NN
+2005_CD
+2004_CD
+:_:
+96_CD
+per_PIN
+cent_NN
+._.
+Currency_NN
+risk_NN
+The_NN
+Group_NN
+has_VPRT
+no_SYNE
+currency_NN
+risk_NN
+as_IN
+all_QUAN
+monetary_JJ
+assets_NN
+and_PHC
+liabilities_NOMZ
+are_VPRT [PASS]
+denominated_VBN
+in_PIN
+sterling_GER
+._.
+Further_JJ
+details_NN
+are_VPRT [PASS]
+set_VBN
+out_PIN
+in_PIN
+the_DT
+Finance_NN
+Directors_NN
+review_NN
+on_PIN
+pages_NN
+14_CD
+to_PIN
+19_CD
+._.
+Provisions_NN
+for_PIN
+liabilities_NOMZ
+and_PHC
+charges_NN
+Group_NN
+Group_NN
+30_CD
+June_NN
+2005_CD
+30_CD
+June_NN
+2004 000 000_CD
+At_PIN
+1_CD
+July_NN
+2004_CD
+6,116_CD
+5,223_CD
+Credit_NN
+charge_NN
+for_PIN
+the_DT
+year_NN
+4,804_CD
+893_CD
+At_PIN
+30_CD
+June_NN
+2005_CD
+1,312_CD
+6,116_CD
+The_DT
+provision_NN
+which_WDT [WHSUB]
+is_VPRT [BEMA]
+entirely_AMP
+for_PIN
+deferred_VBN
+tax_NN
+,_,
+comprises_VPRT
+:_:
+Group_NN
+Group_NN
+30_CD
+June_NN
+2005_CD
+30_CD
+June_NN
+2004 000 000_CD
+Accelerated_JJ
+capital_NN
+allowances_NN
+and_CC
+other_JJ
+timing_NN
+differences_NN
+10,216_CD
+18,303_CD
+Losses_NN
+available_JJ
+to_TO
+offset_VB
+8,904_CD
+12,187_CD
+1,312_CD
+6,116_CD
+On_PIN
+the_DT
+basis_NN
+that_DEMO
+capital_NN
+allowances_NN
+claimed_VBD [PUBV]
+to_PIN
+date_NN
+will_PRMD
+not_XX0
+be_VB [BYPA]
+retained_VBN
+by_PIN
+the_DT
+Group_NN
+,_,
+the_DT
+potential_JJ
+amount_NN
+of_PIN
+further_JJ
+taxation_NOMZ
+,_,
+for_PIN
+which_WDT [PIRE]
+no_SYNE
+provision_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+and_ANDC
+which_WDT
+could_POMD
+arise_VB
+if_COND
+the_DT
+properties_NN
+held_VBD [PRIV]
+as_IN
+investments_NOMZ
+were_VBD [PASS]
+sold_VBN
+at_PIN
+the_DT
+values_NN
+at_PIN
+which_WDT [PIRE]
+they_TPP3
+appear_VPRT [SMP]
+in_PIN
+the_DT
+balance_NN
+sheet_NN
+,_,
+has_VPRT [PEAS]
+been_VBN [PASS]
+estimated_VBN [PRIV]
+at_PIN
+51.7_CD
+million_CD
+._.
+Tax_NN
+losses_NN
+of_PIN
+approximately_RB
+90.1_CD
+million_CD
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+recognized_VBN [PRIV]
+in_PIN
+the_DT
+balance_NN
+sheet_NN
+,_,
+of_PIN
+which_WDT [PIRE]
+approximately_RB
+60.4_CD
+million_CD
+have_VPRT [PEAS]
+been_VBN [PASS]
+used_VBN
+to_TO
+reduce_VB
+the_DT
+contingent_JJ
+tax_NN
+._.
+If_COND
+account_NN
+is_VPRT [PASS]
+taken_VBN
+of_PIN
+the_DT
+likelihood_NN
+that_DEMO
+capital_NN
+allowances_NN
+claimed_VBD [PUBV]
+to_PIN
+date_NN
+will_PRMD
+be_VB [BYPA]
+retained_VBN
+by_PIN
+the_DT
+Group_NN
+,_,
+then_RB
+the_DT
+potential_JJ
+tax_NN
+liability_NOMZ
+which_WDT [WHSUB]
+could_POMD
+arise_VB
+if_COND
+the_DT
+properties_NN
+were_VBD [PASS]
+sold_VBN
+at_PIN
+the_DT
+values_NN
+at_PIN
+which_WDT [PIRE]
+they_TPP3
+appear_VPRT [SMP]
+in_PIN
+the_DT
+balance_NN
+sheet_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+estimated_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+43.3_CD
+million_CD
+._.
+This_DEMP
+is_VPRT [PASS]
+calculated_VBN [PRIV]
+on_PIN
+the_DT
+same_JJ
+basis_NN
+as_IN
+above_PLACE
+except_PIN
+that_DEMO
+additional_JJ
+tax_NN
+losses_NN
+of_PIN
+28.1_CD
+million_CD
+would_PRMD
+be_VB [BEMA]
+available_PRED
+to_TO
+reduce_VB
+the_DT
+contingent_JJ
+tax_NN
+._.

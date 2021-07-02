@@ -1,0 +1,89 @@
+ARM Strategic Report 2015 Overview Strategy Performance Commitment Financials 9 Our marketplace Where the market is now Overview of the semiconductor market As silicon chip designs become more complex it is expected that the semiconductor industry will Semiconductors, or silicon chips, are the electronic The semiconductor industry develops continue to license semiconductor IP.
+As the global controllers that manage many of the digital devices leader, ARM is well-positioned to benefit from that we use every day.
+Computers, mobile phones, the chips that manage all of the worlds this trend.
+televisions, washing machines and cars can contain many silicon chips.
+Also, many enterprise and industrial applications, from sensors to servers, are The market in 2015 electronic devices.
+PCs, mobile phones made smarter and more efficient by silicon chips.
+In 2015, approximately 750 billion silicon chips were manufactured.
+Of these, some 47 billion contained and even modern washing machines The semiconductor ecosystem a processor.
+The processor is the brain of the chip, and controls not just the operation of the chip, but As consumer electronic products and industrial also the operation of the product that the chip goes equipment have become more sophisticated, the have some form of chip providing their into.
+ARM estimates that the total value of chips with chips that control them have become more complex processors sold in 2015 was about $115 billion, and and more costly to develop.
+Over many years the that by 2020 the value of this market will have grown semiconductor industry has disaggregated into intelligence.
+Each generation of chip is to about $150 billion.
+specialist companies that focus on each stage in the creation, design and manufacture of a silicon chip.
+typically smarter than its predecessor, ARM processor designs were in around 15 billion This allows each company to invest and innovate in chips, a 32% market share.
+About 45% of the the area where they can add the most expertise in ARM-based chips went into mobile devices.
+In recent the value chain.
+enabling more capable and more years we have also started to gain share in important growth markets such as networking infrastructure Some companies specialise in designing the chip: whilst and embedded intelligence.
+efficient consumer and embedded some companies, such as ARM, specialise in developing critical intellectual property IP components within the design: others in building the tools needed to Over the next few pages we look at the main electronic products.
+manufacture the chips: others in the chip fabrication: and others in developing software, such as operating systems and apps.
+ARM works closely with all the leading companies within the semiconductor ecosystem to ensure that its technology works well with other companies products, that silicon chip designers can quickly build low-power and high-performance chips, and that OEMs can create complex programmes using acombination of third-party and in-house operating systems and applications.
+World Semiconductor Trade Statistics, January 2016.
+10 ARM Strategic Report 2015 Mobile computing Connecting us to each other, and our data For many people, mobile computers, including At the same time, basic smartphones are becoming Total available market TAM for smartphones and tablets, have become their primary cheaper and are proliferating across the world.
+mobile applications processors device for sending emails, browsing the internet and In developing economies and in remote parts of the engaging with friends on social networking sites.
+world, smart mobile devices are allowing people to be better connected, not just to each other, but Over the past few years most of the innovation also to education and information, and banking and in smartphones has been along conventional medical services.
+Even these basic smartphones can TAM Value parameters: speed of the main chip, screen size and contain several chips that utilise ARM processor and 2015 connectivity.
+And these are going to continue to be physical IP technology.
+$18bn Today ARM-based application processors can be Other technologies are now being introduced into found in about an 85% share of mobile devices, smartphones.
+Sensors, such as microphones, noise including smartphones, tablets and laptops.
+Over the cancellation technology and location awareness, past five years this market has grown by anaverage are being integrated into your mobile computer, of 30% per year.
+Analysts predict that the average Smartphones that cost less than $100 aretaking mobile technology ARM Market Share 85% of chips enabling it to do more than it has ever been able to annual growth rate to 2020 of this market is to developing economies, enabling do before.
+Next generation smartphones will be expected to be about 7%.
+Although this is a lower everyone to connect not just to their able to interact better with other devices: sharing rate of growth, it still makes mobile computing one families and friends but also to medical information such as context or location.
+This will of the fastest growing markets in the semiconductor and banking services.
+enable them to change their behaviour when you industry, which will continue to benefit ARM.
+are at home, in your car, or in the office or at school.
+Future mobile devices will be able to interact with you in a much more natural way: understanding TAM Value what you say, reading your handwriting, and 2020 recognising your gestures.
+The smartphone is going to signicantly improve over the next few years, $25bn and all of this is going to require more processing capability and more technology from ARM to enable it to happen.
+ARM Target Market Share ARM is targeting to at least maintain market share Including smartphones, tablets and laptops.
+Based on ARM and market data.
+ARM Strategic Report 2015 Overview Strategy Performance Commitment Financials 11 Efficient networking infrastructure Moving more data, without using more energy Networking infrastructure equipment moves Networking infrastructure data around the world.
+It includes mobile phone base stations, WiFi hotspots in cafs and train stations, corporate networks, cable and satellite TV distribution, video-on-demand servers and the entire infrastructure of routers and switches that connects the internet together.
+Huge numbers of TAM Value chips are needed within these systems and analysts 2015 estimate that there were about 140 million chips soldfor use in networking infrastructure in 2015, $13bn worth about $13 billion.
+The network operators who own and run these networks believe that they can offer new services to consumers and enterprises that will generate ARM Market Share 15% of chips new revenue streams for them.
+However, networks today are mainly built up using xed function hardware, requiring relatively simple chips to control them.
+Operators want to transition these networks to much more intelligent and exible systems, requiring sophisticated computer chips that will run new software that is being created to enable these new services.
+All of the major semiconductor TAM Value companies that make chips for this market have 2020 licensed an ARM processor to help them add more intelligent chips to their product portfolios.
+$16bn ARM is well positioned to gain share in networking infrastructure as future ARM is confident that ARM-based chips will gain networks require more exible compute share, however the rate of share gain is harder to capability, and all the major chip vendors predict as it depends on many factors including the for this market have already licensed investment plans of network operators.
+ARM Target Market Share 45% of chips Based on ARM and market data.
+12 ARM Strategic Report 2015 Low-power servers Optimised for specic applications Servers are powerful computers that sit at the heart The opportunity in servers is very large, andthere Servers of many large corporations.
+They run internet search will be competition from well-resourced companies engines and websites, provide video and music who use alternative architectures.
+Some of these streaming services, manage the inventory of large have established very strong barriers to entry.
+manufacturing companies and analyse huge amounts These companies say they intend to further improve of data in scientific institutes.
+their chips and systems, and that may make it difficult for ARMs Partners to be successful.
+TAM Value Many servers need to be general purpose as they 2015 have to perform a very wide range of tasks during Despite this strong competition the changes in their operational lifetime.
+However, in recent years the server market are creating opportunities for $15bn servers are increasingly being used for only one new types of chips that ARMs customers plan to specic application.
+For example there are storage target.
+Based on the progress of our customers servers in some social networking companies and feedback from the major web-scale companies that will only ever be used to store photographs.
+and some large enterprises, we are targeting that a There are servers that will only be used as a web or 25%share of servers shipped in 2020 will be using ARM Market Share 1% of server chips email server.
+And there are servers that will perform ARM-based chips.
+analytics on similar sets of sales data all day, every day.
+Some companies are now looking to build The first ARM-based servers were application-specic chips for these servers running deployed in 2015.
+These are mainly a single application.
+Through being optimised for a experimental systems that are being single application, these chips can be much more used to test which workloads run best on the energy-efficient chips from efficient and effective than a general purpose TAM Value ARMs customers.
+This new approach to building server chips is 2020 creating an opportunity for ARMs Partners to gain The Barcelona Supercomputing share.
+See page 20 for more information about the Centre successfully tested its Mont Blanc software on ARM-based $20bn products that ARM Partners are developing for supercomputers in 2015.
+is housed in the facility shown above.
+Image by courtesy of Barcelona Supercomputing Center www.
+es ARM Target Market Share 25% of server chips Based on ARM and market data.
+ARM Strategic Report 2015 Overview Strategy Performance Commitment Financials 13 Embedded intelligence Connecting billions of smart sensors into the Internet of Things Many of the products and services Opportunities for embedded weuse every day are enabled by small smart microcontrollers.
+For example, chips in 2020 microcontrollers can be found in the control panels and electric motors in air-conditioning systems and elevators, Smart Home theremote controls for TVs, and electronic passports and credit cards.
+During 2015, the market for microcontrollers and smartcards $2.3bn grew 40% to 5.5 billion devices.
+The average selling price of these chips was around 85 cents, which allows them to be integrated into low-cost products and make almost any Smart City device smart.
+These tiny computers are also being $1.8bn combined with sensors and wireless radios, thereby adding new functionality to existing products and even creating entirely new ones for consumers, enterprises, agriculture and infrastructure.
+Collectively, Industrial these technologies are referred to as the Internet of Things IoT.
+Although this is still $1.1bn a nascent market, it is expected to become very large.
+ARM technology is increasingly being This large opportunity, combined with deployed in embedded computer relatively low barriers to entry, is attracting systems.
+In 2015 we estimated that about Other many semiconductor IP companies 25% of embedded computer chips that wish to compete for market share.
+contained an ARM processor, from chips in washing machines to lift controllers to ARM is well positioned for this market as $3.1bn commercial drones.
+we have already licensed our technology to many of the companies that currently sell microcontrollers.
+Numbers show the forecast value of silicon chip sales.
+Forecasts based on ARM and Gartner data.
+14 ARM Strategic Report 2015 Fish are better with chips In South Korea, sh farmers are growing healthier sh through the combination of smart, ARMbased technology and SK Telecoms mobile communications systems.
+By installing wireless, intelligent sensors in their sh ponds, farmers can measure variations in water quality and nutrient levels, helping them know when to feed the sh, or to attend to a maintenance task.
+As these sh farms are usually in remote regions and coastal areas, only wireless technology was cost-effective.
+Find out more about innovation byARMs Partners in arangeofendmarkets visit: www.
+com markets ARM Strategic Report 2015 Overview Strategy Performance Commitment Financials 15 Smart sensor ARM Cortex-M Sensors across the sh farmmonitor the quality ofthe water.
+Data transmitted wirelessly by the sensors is collated and analysed.
+Information and alerts are transmitted to the farmers phone.
+Base station Mobile tower device

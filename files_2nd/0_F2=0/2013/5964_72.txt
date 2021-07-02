@@ -1,0 +1,101 @@
+Fidessa group plc 52 Annual Report and Accounts 2013 Notes to the consolidated financial statements continued The accounting policies set out below have, unless otherwise stated, been applied consistently in the consolidated and Company financial statements to all periods presented.
+The segment reporting for the prior year has been restated to reflect the revised structure of the business that came into effect during 2013.
+2 Significant accounting policies a Basis of consolidation The consolidated financial statements include the financial statements of Fidessa group plc and its subsidiaries.
+There are no associates or joint ventures.
+Subsidiaries are all entities over which there is the power to govern the financial and operating policies so as to obtain the benefits from its activities, generally accompanying a shareholding of more than one half of the voting rights.
+Subsidiaries are fully consolidated from the date on which control is transferred until the date on which control ceases.
+Intra-group balances, and any unrealised gains and losses or income and expenses arising from intra-group transactions, are eliminated in preparing the consolidated financial statements.
+b Foreign currency i Foreign currency transactions Transactions in foreign currencies are translated at the foreign exchange rate ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are translated to Sterling at the foreign exchange rate ruling at that date.
+Foreign exchange differences arising on translation are recognised in the income statement.
+Non-monetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated using the exchange rate at the date of the transaction.
+ii Financial statements of foreign operations The assets and liabilities of foreign operations are translated to Sterling at foreign exchange rates ruling at the balance sheet date.
+The revenues and expenses of foreign operations are translated to Sterling at rates approximating the foreign exchange rates ruling at the dates of the transactions.
+Foreign exchange differences arising on retranslation are recognised directly in the translation reserve.
+Exchange gains and losses arising on the translation of the net investment in foreign entities are recognised in the translation reserve.
+On disposal of a foreign entity the cumulative translation differences are recycled to the income statement and recognised as part of the gain or loss on disposal.
+c Business combinations Business combinations are accounted for using the acquisition method as at the acquisition date, which is the date on which control is transferred.
+Control is the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities.
+For acquisitions on or after 1st January 2010, goodwill is measured at the acquisition date as the fair value of the consideration transferred plus the recognised amount of any non-controlling interests in the acquiree less the net recognised amount of the identifiable assets acquired and liabilities assumed.
+When the excess is negative, a purchase gain is recognised immediately in profit or loss.
+Costs related to the acquisition, other than those associated with the issue of debt or equity securities, that are incurred in connection with a business combination are expensed as incurred.
+Any contingent consideration payable is recognised at fair value at the acquisition date.
+Subsequent changes to the fair value of contingent consideration are recognised in profit or loss.
+Fidessa group plc 53 Annual Report and Accounts 2013 For acquisitions between 1st January 2004 and 31st December 2009, goodwill represents the excess of the cost of acquisition over the interest in the recognised amount of identifiable assets, liabilities and contingent liabilities of the acquiree.
+Transaction costs that were incurred in connection with a business combination were capitalised as part of the cost of the acquisition.
+Any contingent consideration payable was recognised at fair value at the acquisition date.
+Subsequent changes to the fair value of contingent consideration were recognised as an adjustment to the carrying value of goodwill.
+Acquisitions prior to 1st January 2004 were recognised under the previous accounting framework, UK GAAP.
+d Revenue Revenue represents the fair value for consideration received or receivable from customers for software and related services supplied, net of discounts, VAT and other sales related taxes.
+Revenue is only recognised where there is persuasive evidence that a contract exists, delivery has occurred, the fee is fixed or determinable and collection of the resulting receivable is considered probable.
+Full allowance is made for all known or expected losses.
+Recurring revenue is derived from the provision of software rental, software as a service, connectivity services, market data and support services.
+Revenue for these services is recognised pro-rata over the period that the service is to be provided, taking account of any free of charge periods.
+Non-recurring revenue is derived from the provision of implementation, consultancy, reconfiguration support and training services, in all cases being entirely related to Fidessa products.
+These services are predominantly chargeable on a time and materials basis and the relevant revenue is recognised when the work is performed.
+When implementations are performed on a fixed price basis the relevant revenue is recognised over the period of implementation in accordance with the estimated percentage completed for each contract, based on the anticipated number of days of effort for the implementation.
+Recurring and non-recurring services can be separately identified in contracts and the fair value determined respectively.
+Deferred revenue represents amounts invoiced to customers for services not yet supplied.
+Accrued revenue represents amounts recognised as revenue to be invoiced in a future period.
+e Share-based payments A number of equity-settled share plans are operated.
+The fair value of the awards is recognised as an employee expense over the vesting period with a corresponding increase in equity.
+The fair value of the awards is measured using a Black-Scholes model, binomial model or a Monte Carlo simulation model, taking into account the terms and conditions upon of the awards.
+The amount recognised as an expense is adjusted to reflect the actual number of awards that vest except where forfeiture is only due to the share price not achieving the threshold for vesting.
+Where options over shares are granted to employees of subsidiaries Fidessa recognises, in its individual financial statements, an increase in the cost of investment in its subsidiaries equivalent to the equity-settled share-based payment charge recognised in its subsidiaries financial statements, with the corresponding credit being recognised directly in equity.
+Fidessa group plc 54 Annual Report and Accounts 2013 Notes to the consolidated financial statements continued f Post-employment benefits Certain subsidiaries operate defined contribution pension schemes for their employees.
+Pension costs are charged to the income statement as they arise.
+g Interest receivable Interest receivable on interest-bearing financial assets is recognised on an accruals basis using the effective interest rate method.
+The effective interest rate used reflects the anticipated cash flows to be received.
+h Taxation Tax on the profit or loss for the year comprises current and deferred tax.
+Tax is recognised in the income statement except to the extent that it relates to items recognised directly in equity, in which case it is recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year, using tax rates enacted or substantively enacted at the balance sheet date, and any adjustment to tax payable in respect of previous years.
+Deferred tax is provided on temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+The following temporary differences are not provided for: the initial recognition of goodwill, the initial recognition of assets or liabilities that affect neither accounting nor taxable profit other than in a business combination, and differences relating to investments in subsidiaries to the extent that they will probably not reverse in the foreseeable future.
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying amount of assets and liabilities, using tax rates enacted or substantively enacted at the balance sheet date.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be available against which the asset can be utilised.
+i Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and accumulated impairment.
+The cost is the purchase price of the goods received.
+Purchased software that is integral to the related equipment is capitalised as part of that equipment.
+Depreciation is provided to write off the cost less the estimated residual value of property, plant and equipment by equal instalments over their estimated useful economic lives as follows: Furniture and equipment 3 - 5 years Leasehold improvements 5 - 10 years or remainder of lease if shorter Long leasehold buildings 25 years Computers 2 - 3 years j Intangible assets Research and development Expenditure on research into areas such as potential new technologies, methodologies and architectures is recognised as an expense as incurred.
+Product development relates to the design, programming and testing of new and enhanced inter-related features in the product suite.
+There is a rolling programme of releases that form part of a continual process of updates to and expansion of the overall product suite with a result that there are not defined end dates.
+Costs Fidessa group plc 55 Annual Report and Accounts 2013 incurred on product development are capitalised as an intangible asset when it is probable that the development will provide economic benefits, considering its commercial and technological feasibility, resources are available for the development, and costs can be measured reliably.
+The expenditure capitalised is the direct labour cost and is managed and controlled centrally.
+Other development expenditure is recognised as an expense as incurred.
+Product development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Capitalised product development expenditure is stated at cost less accumulated amortisation and impairment.
+Product development costs that have been capitalised are amortised from the time of development on a straight-line basis over three years.
+Goodwill Goodwill represents the excess of the cost of acquisition over the fair value of the interest in identifiable assets, liabilities and contingent liabilities acquired in a business combination.
+Goodwill is stated at the amount recognised on acquisition date less accumulated impairment.
+Acquisition intangibles Intangible assets acquired from a business combination are capitalised at fair value as at the date of acquisition and amortised over their estimated useful economic life.
+Their carrying value is the fair value at acquisition less cumulative amortisation and impairments.
+An intangible asset acquired as part of a business combination is recognised outside goodwill if the asset is separable or arises from contractual or other legal rights.
+The estimated useful lives of the intangible assets are as follows: Customer relationships 10 years Other intangible assets Other purchased intangible assets are stated at cost less accumulated amortisation and impairments.
+The cost is the purchase price of the asset.
+Amortisation is charged to the income statement on a straight-line basis over the estimated useful lives of the assets.
+Expenditure on internally generated goodwill and brands is recognised in the income statement as an expense as incurred.
+Software purchased for internal use is amortised over two years.
+k Impairment of assets Goodwill is allocated to cash generating units that are no larger than an operating segment for the purposes of impairment testing.
+The recoverable amount of the cash generating unit to which the goodwill relates is estimated and the carrying amount is tested annually for impairment or when events or changes in circumstances indicate that it might be impaired.
+The carrying values of assets other than goodwill are reviewed for impairment only when events or changes in circumstances indicate that the carrying value may be impaired.
+In an impairment test, the recoverable amount of the cash generating unit or asset is estimated to determine the extent of an impairment.
+The recoverable amount is the higher of fair value less costs to sell and the value in use.
+An impairment is recognised to the extent that the carrying value exceeds the recoverable amount.
+In determining a cash generating units or assets value in use, estimated future cash flows are discounted to present value using a pre-tax discount rate that reflects current market assessments of the time value of money and risks specific to the cash generating unit or asset that have not already been included in the estimate of future cash flows.
+Fidessa group plc 56 Annual Report and Accounts 2013 Notes to the consolidated financial statements continued l Leased assets Where an operating lease is entered into the rentals are charged as an expense on a straight-line basis over the term of the lease.
+Lease incentives received are recognised in the income statement as an integral part of the total lease expense.
+m Investments and financial instruments Investments in subsidiary companies, which are all unquoted equity investments, are stated at cost less provision for any impairment in value.
+A financial instrument is recognised if Fidessa becomes a party to the contractual provisions of the instrument.
+Financial assets are derecognised when contractual rights to the cash flows from the financial assets expire or if the financial asset is transferred to another party without retaining control or substantially all risks and rewards of the asset.
+Financial liabilities are derecognised when obligations specified in the contract expire or are discharged or cancelled.
+Where financial guarantee contracts are created to guarantee the indebtedness of subsidiaries, they are considered to be insurance arrangements and are accounted for as such.
+In this respect, the guarantee contract is treated as a contingent liability until such time as it becomes probable that a payment will be required under the guarantee.
+n Trade receivables Trade receivables are stated at amortised cost, their carrying value being reduced by appropriate allowances for estimated irrecoverable amounts.
+o Cash and cash equivalents Cash and cash equivalents include cash in hand, deposits held at call with banks and other short-term highly liquid investments with original maturities of three months or less.
+p Trade payables Trade payables are stated at amortised cost.
+q Grants Grants that compensate for expenses incurred are recognised in profit or loss as a deduction from the related expense over the periods in which the expense is recognised.
+r Employee share trusts The trusts and share plan trustees, which purchase and hold shares in connection with employee share plans, are included in the financial statements and presented as a deduction from equity.
+Any consideration paid or received by them for the purchase or sale of the shares is shown as a movement in shareholders equity.
+s Provisions and contingent liabilities A provision is recognised in the balance sheet when a present legal or constructive obligation exists as a result of a past event, and it is probable that an outflow of economic benefits will be required to settle the obligation.
+If the effect is material the provision is determined by discounting the expected future cash flows.
+No provision is recognised when it is not probable that an outflow of economic benefits will be required to settle an obligation or the amount of the obligation cannot be measured with sufficient reliability and instead a contingent liability is disclosed.

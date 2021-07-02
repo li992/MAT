@@ -1,0 +1,50 @@
+Critical accounting judgements and key sources of estimation uncertainty In the process of applying the Groups accounting policies, management necessarily makes judgements and estimates that have a significant effect on the amounts recognised in the financial statements.
+Changes in the assumptions underlying the estimates could result in a significant impact to the financial statements.
+The most critical of these accounting judgement and estimation areas arenoted.
+Accounting judgements i Exceptional items and certain remeasurements As permitted by IAS 1 Presentation of Financial statements, the Group has disclosed additional information in respect of jointly controlled entities and associates, exceptional items and certain remeasurements on the face of the income statement to aid understanding of the Groups financial performance.
+An item is treated as exceptional if it is considered unusual by nature and scale and of such significance that separate disclosure is required for the financial statements to be properly understood.
+Certain remeasurements are remeasurements arising on certain commodity, interest rate and currency contracts which are accounted for as held for trading or as fair value hedges in accordance with the Groups policy for such financial instruments.
+This excludes commodity contracts not treated as financial instruments under IAS 39 where held for the Groups own use requirements.
+ii Adjusted measures The Directors assess the performance of the reportable segments based on an adjusted profit before tax measure.
+This is reconciled to reported profit before tax by adding back exceptional items, remeasurements arising from IAS 39 and after the removal of taxation on profits from jointly controlled entities and associates.
+The Directors also present details of an adjusted earnings per share measure, which is based on basic earnings per share before exceptional items, remeasurements arising from IAS 39 and after the removal of deferred taxation.
+The adjusted measures are considered more reflective of the Groups underlying performance, are consistent with way the Group is managed and avoids volatility arising from IAS 39 fair value measurements.
+iii Wind farm disposals In the current year and in previous years, the Group has disposed of 100% of the equity in various wind farm companies, including those included in the significant disposal described at Note 18b.
+At the same time as disposing of these interests, the Group has entered into long-term offtake arrangements for certain of these wind farms for a proportion of the output from the wind farms.
+The Directors have judged that these arrangements are not leasing arrangements as the Group is not purchasing substantially all of the economic output of the wind farms.
+iv Business Combinations and acquisitions Business combinations and acquisitions require a fair value exercise to be undertaken to allocate the purchase price to the fair value of the identifiable assets acquired and the liabilities assumed.
+The determination of the fair value of the assets and liabilities is based, to a considerable extent, on managements judgement.
+The amount of goodwill initially recognised as a result of a business combination is dependent on the allocation of this purchase price to the identifiable assets and liabilities with any unallocated portion being recorded as goodwill.
+Business combinations are disclosed in Note 18.
+113 Financial statements Notes on the financial statements continued for the year ended 31 March 2013 3.
+Critical accounting judgements and key sources of estimation uncertainty continued Estimation uncertainty i Revenue recognition Revenue on energy sales includes an estimate of the value of electricity or gas supplied to customers between the date of the last meter reading and the year end.
+This will have been estimated by using historical consumption patterns and takes into consideration industry reconciliation processes for total consumption by supplier.
+At the balance sheet date, the estimated consumption by customers will either have been billed estimated billed revenue or accrued unbilled revenue.
+Management apply judgement to the measurement of the quantum of the estimated consumption and to the valuation of that consumption.
+The judgements applied, and the assumptions underpinning these judgements are considered to be appropriate.
+However, a change in these assumptions would impact upon the amount of revenue recognised.
+ii Retirement benefits The assumptions in relation to the cost of providing post-retirement benefits during the period are set after consultation with qualified actuaries.
+While these assumptions are believed to be appropriate, a change in these assumptions would impact the earnings of the Group.
+The value of scheme assets is impacted by the asset ceiling test which restricts the surplus that can be recognised to assets that can be recovered fully through refunds or reductions in future contributions.
+iii Impairment testing The Group reviews the carrying amounts of its goodwill, other intangible assets and property, plant and equipment to determine whether there is any indication that the value of those assets is impaired.
+In assessing for impairment, assets that do not generate independent cash flows are allocated to an appropriate cash generating unit CGU.
+The recoverable amount of the assets, or the appropriate CGU, is measured as the higher of their fair value less costs to sell and value in use.
+Value in use calculations require the estimation of future cash flows to be derived from the respective CGUs and the selection of an appropriate discount rate in order to calculate their present value.
+The fair value less costs to sell methodology used for the wind farms CGUs also requires the discounting of cash flows from the projects within the respective CGUs.
+The estimation of the timing and value of underlying projected cash flows and the selection of appropriate discount rates involves management judgement.
+Where assets under review are able to be assessed independently, for example thermal generation plants, the value-in-use method will be applied to ascertain the extent of any potential impairment charge.
+Subsequent changes to these estimates or judgements may impact the carrying value of the assets within the respective CGUs.
+Gas production and development assets are assessed under the fair value less costs method for the respective CGUs.
+This is deemed more appropriate as it is based on post-tax cash flows arising from each field within the respective CGUs, which is consistent with the approach taken by management in determining the economic value of the underlying assets.
+This is determined by discounting the post-tax cash flows expected to be generated by the CGU, net of associated selling costs, and takes into account assumptions market participants would use in estimating fair value.
+iv Provisions and contingencies The assessments undertaken in recognising provisions and contingencies have been made in accordance with IAS 37.
+The Group has entered into a number of commodity contracts relating to specific assets.
+Where the unavoidable costs of meeting the obligations under the contracts exceed the expected net revenues from the assets, in the normal course of business, an onerous provision will be been recognised.
+The provisions are calculated based on estimations.
+The evaluation of the likelihood of the contingent events has required best judgement by management regarding the probability of exposure to potential loss.
+Should circumstances change following unforeseeable developments, this likelihood could alter.
+v Decommissioning costs The estimated costs of decommissioning at the end of the useful lives of the assets is reviewed periodically.
+Decommissioning costs in relation to gas exploration and production assets are based on expected lives of the fields and costs of decommissioning and are currently expected to be incurred predominantly between 2017 and 2030. vi Gas and liquids reserves The volume of proven and probable gas and liquids reserves is an estimate that affects the unit of production depreciation of producing gas and liquids property, plant and equipment.
+This is also a significant input estimate to the associated impairment and decommissioning calculations.
+The impact of a change in estimated proven and probable reserves is dealt with prospectively by depreciating the remaining book value of producing assets over the expected future production.
+If proven and probable reserves estimates are revised downwards, earnings could be affected by higher depreciation expense or an immediate write-down impairment of the assets book value.

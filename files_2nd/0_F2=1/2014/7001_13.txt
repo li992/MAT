@@ -1,0 +1,36 @@
+GettinG into Gear inteGrated annual report for the Year ended 28 March 2014 strateGiC report retail strateGy st GettinG into Gear 21 century inFraStructure st halfords Retails strategy is clear: we need a 21 century supply chain and it infrastructure to support our aspirations in delivering a  customer experience.
+our aim is ensure customers can purchase what they want whenever they visit stores, either because the product is on our shelves or because they have the opportunity to order goods for prompt delivery or collection.
+This means that our distribution centres hold the Over the next twelve months IT projects that will duRinG the yeaR we right stock and are able to pick orders accurately.
+It support the business in delivering its customer also requires the supply chain capability to deliver promises include: have acKnowledGed in a timely manner, at a time to suit our customers.
+A project to enable store colleagues to place the need foR ouR It also means that we need the right IT solutions orders for next-day delivery to support these activities, allowing customers to suPPly chain to Supporting improvements in distribution centre benefit from short delivery lead times, choosing from processes our extended range of products online.
+deliveR a Consistent, Refreshing store and distribution centre hardware it ConVenient and Introducing a new set of email and collaboration Recently our IT team has been significantly tools to improve knowledge-sharing reliaBle CustoMer reorganised to provide the appropriate building blocks to support the business as a whole.
+capability is now based on simplifying the technical During the year we have acknowledged the need for solutions used within the Company, putting our Supply Chain to deliver a consistent, convenient relevant and quality information at the heart of our and reliable customer experience and to do this we improvement processes.
+will be enhancing the standards of our supply chain operations.
+We will focus on procurement and stock During FY14 our IT department has supported: management, delivery scheduling and improving the The launch of new faster card-payment processes working environment for our colleagues.
+We will work in stores more closely with our suppliers, ensuring we have A trial to introduce free wi-fi into stores an efficient end-to-end supply chain, whilst adopting a continuous improvement methodology across all Moving all store telephony onto a Voice-over-IP operations.
+We will also improve flexibility, lead times network, reducing costs and delivering a more and standardise operating principles.
+robust solution The inclusion in our refurbished stores of video We are committed to putting our customer at the screens, informing customers of our additional heart of all supply chain activity.
+We will support sales service offerings and providing engaging product by balancing stock across the UK and the Far East to information on our ranges, together with point-of stabilise lead times.
+We have already introduced outsale-messaging via video of-hours deliveries to 90 stores and are trialling more frequent deliveries to stores in the UK and Ireland.
+The trials of tablets in store, enabling colleagues to have access to the Halfords extended range via We know that customers delivery expectations are halfords.
+com continually evolving: no longer are the protracted The upgrade of SAP, the core operating platform timescales of the past acceptable.
+Customers want for the business, was completed in May 2014 their purchases delivered when its convenient for them across all channels, so we need to deliver against these high expectations such as the capability to book the building of a bike or have a Sat st Nav product fitted.
+All of this requires 21 century st supply systems delivering 21 century customer solutions.
+com halfords Group plc stock code: hfd annual report and accounts 2014 Case study In 2012, Halfords embarked on a review of their payments infrastructure with aggressive roll out strategy which resulted in the successful roll out of 2,400 the aim of developing a long-term strategy across all payment systems and PEDs over a 14 week period.
+At peak, 411 PEDs were rolled out in 1 week processes.
+Not only did we want to refresh our PIN Entry Device PED estate and the full roll out completed in October 2013. and future-proof our systems in relation to PCI DSS compliance but we also Peter Lawrence, our Principal Business Analyst commented: This was a wanted to give customers a great shopping experience whilst minimising the text book project, roll out completed on time and to budget.
+We have never cost of change.
+had so much positive feedback from store colleagues on how quick the new We identified that a managed payment service would best meet our PEDs are.
+requirements and following a comprehensive procurement exercise, selected The FIS TRANSAXpay solution has enabled us to maintain PCI DSS FIS as our Payment Services Provider PSP partner.
+compliance whilst improving the customer payment experience through FIS provided PA-DSS certified EFT software TRANSAXpay EFT which meets reduced queue times and enhanced card data security.
+the latest encryption guidelines as laid down by the PCI Security Standards Internal surveys at our stores have shown that on average New CHIP & PIN Council.
+This software encrypts card data at the point of PIN entry to ensure pads in over 300 stores saved our customers 19 seconds per transaction, no card data is held in the clear on the Point of Sale PoS system or meaning we now have one of the fastest card transaction times in UK retail Halfords network.
+Card data is routed through the FIS Payment Gateway, in these stores.
+a PCI DSS Level 1-certified environment, for authorisation, settlement and financial reporting.
+When used in conjunction with certified processes, the In support of the above, Halfords has provided FIS with a selection of scope and cost of PCI compliance for retailers can be drastically reduced.
+Payment Card Performance Monitor data that we have collated from various stores during the pilot phase.
+The data shows the time difference in Following integration with Halfords BT Expedite PoS, we commenced a pilot performing various stages of the card payment transaction process, before scheme in July 2013, in a single store with 3 PEDs.
+After an initial 2 week and after the implementation of the TRANSAXpay solution, and the overall period, a further 8 PEDs were added in two stores to the pilot scheme for a time saving for comparison.
+A further pilot to 43 stores and 217 PEDs quickly proved that the concept logic and the roll out strategy worked.
+We then initiated an 37 23157.04 Proof 7 10-06-2014 Halfords AR2014-Strategic Report.
+indd 37 12 06 2014 14:21:39 shareholder strateGic report strateGic report strateGic report strateGic report information financials Governance risk performance strateGy overview

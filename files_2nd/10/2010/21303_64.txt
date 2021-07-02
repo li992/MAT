@@ -1,0 +1,187 @@
+88 Barclays PLC Annual Report 2010 www.
+com annualreport10 Risk management Credit risk management continued B. Organisation and structure Credit Risk Management Overview Barclays has structured the responsibilities of credit risk management so that decisions are taken as close as possible to the business, whilst A. Overview audited ensuring robust review and challenge of performance, risk infrastructure Credit risk is the risk of suffering financial loss should any of the Groups and strategic plans.
+customers, clients or market counterparties fail to full their contractual obligations to the Group.
+The credit risk management teams in each business are accountable to the business risk directors in those businesses who, in turn, report to the The granting of credit is one of the Groups major sources of income and, heads of their businesses and also to the Chief Risk officer.
+as the most significant risk, the Group dedicates considerable resources to its control.
+The role of the Group Risk function is to provide Group wide direction, oversight and challenge of credit risk-taking.
+Group Risk sets the Credit The credit risk that the Group faces arises mainly from wholesale and Risk Control Framework, which provides a structure within which credit risk retail loans and advances together with the counterparty credit risk arising is managed together with supporting Group Credit Risk Policies.
+Group from derivative contracts entered into with our clients.
+Other sources of Risk also provides technical support, review and validation of credit risk credit risk arise from trading activities, including debt securities, settlement measurement models across the Group.
+balances with market counterparties, available for sale assets and reverse repurchase loans.
+Group Credit Risk Policies currently in force include: Credit risk management objectives are to: Maximum Exposure Guidelines to limit the exposures to an individual customer or counterparty: establish a framework of controls to ensure credit risk-taking is based on sound credit risk management principles: Country risk policies to specify Risk Appetite by country and avoid excessive concentration of credit risk in individual countries: identify, assess and measure credit risk clearly and accurately across the Group and within each separate business, from the level of individual Aggregation policy to set out the circumstances in which counterparties facilities up to the total portfolio: should be grouped together for credit risk purposes: control and plan credit risk-taking in line with external stakeholder Expected loss policies to set out the approaches for the calculation of expectations and avoiding undesirable concentrations: the Groups expected loss, i. e. measure of anticipated loss for exposures: monitor credit risk and adherence to agreed controls: and Repayment plans policy for setting the standards for repayment plans and restructures within retail portfolios: and ensure that risk-reward objectives are met.
+Impairment and provisioning policies to ensure that measurement In the review of Barclays credit risk management that follows, we explain of impairment accurately reects incurred losses and that clear how the Group meets its credit risk management objectives through its governance procedures are in place for the calculation and approval organisation, structure and governance, mitigation techniques, of impairment allowances.
+The largest credit exposures are approved at the Credit Committee which is managed by Group Risk.
+Group Risk also manages and approves the Mandate and Scale limits and triggers which mitigate concentration risk and define appetite in risk sensitive areas of the portfolio such as commercial property finance.
+The principal committees that review credit risk management, approve overall Group credit policy and resolve all significant credit policy issues are the Board Risk Committee, the Group Risk Oversight Committee, the Wholesale Credit Risk Management Committee and the Retail Credit Risk Management Committee.
+Senior Group and business risk management are represented on the Group Risk Oversight Committee, the Wholesale Credit Risk Management Committee and the Retail Credit Risk Management Committee.
+On a semi-annual basis, the Credit Risk Impairment Committee CRIC obtains assurance on behalf of the Group that all businesses are recognising impairment in their portfolios accurately, promptly and in accordance with policy, accounting standards and established governance.
+CRIC is chaired by the Credit Risk Director and reviews the movements in impairment, including those already agreed at Credit Committee, as well as potential credit risk loans, loan loss rates, asset quality metrics and impairment coverage ratios.
+CRIC makes twice-yearly recommendations to the Board Audit Committee on the adequacy of Group impairment allowances.
+Impairment allowances are reviewed relative to the risk in the portfolio, business and economic trends, current policies and methodologies, and the Groups position relative to peer banks.
+About Barclays Strategy Performance Risk management and governance Financial statements Shareholder information Barclays PLC Annual Report 2010 www.
+com annualreport10 89 C. Credit risk mitigation D. Measurement and internal ratings Barclays employs a range of techniques and strategies to actively The principal objective of credit risk measurement is to produce the mitigate credit risks to which it is exposed.
+These can broadly be most accurate possible quantitative assessment of the credit risk to which divided into three types: the Group is exposed, from the level of individual facilities up to the total portfolio.
+Integral to this is the calculation of internal ratings, which are netting and set-off: used in numerous aspects of credit risk management and in the collateral: and calculation of regulatory and economic capital.
+The key building blocks of this process are: risk transfer.
+Probability of default PD : In many jurisdictions in which Barclays operates, credit risk exposures Exposure at default EAD : and can be reduced by applying netting and set off which uses Barclays obligations to a counterparty to produce a lower, net, credit exposure.
+This technique is commonly used in derivative transactions.
+For example, Barclays can assign an expected loss over the next 12 months Barclays will often seek to take a security interest in a tangible or financial to each customer by multiplying these three factors.
+We calculate probability asset to provide an alternative source of repayment in the event that of default PD by assessing the credit quality of borrowers and other customers, clients or counterparties are unable to meet their obligations.
+For the sake of illustration, suppose a customer has a Assets taken as collateral include cash, financial assets subject to an 2% probability of defaulting over a 12-month period.
+appropriate margin or haircut to reect their price volatility and physical assets, particularly property but also vehicles, aircraft, ships and physical The exposure at default EAD is our estimate of what the outstanding commodities amongst many others.
+Assets other than cash are subject balance will be if the customer does default.
+Supposing the current to regular revaluation to ensure they continue to achieve appropriate balance is 150,000, our models might predict a rise to 200,000 by then.
+Customer agreements often include requirements Should customers default, some part of the exposure is usually recovered.
+for provision of additional collateral should valuations decline or credit The part that is not recovered, together with the economic costs exposure increase for example due to market moves impacting a associated with the recovery process, comprise the loss given default derivative exposure.
+LGD, which is expressed as a percentage of EAD.
+Supposing the LGD in this case is estimated to be 50%, the expected loss for this customer Finally, a range of instruments including guarantees, credit insurance, is: 2% x 200,000 x 50% or 2,000. credit derivatives and securitisation can be used to transfer credit risk from one counterparty to another.
+This mitigates credit risk in two main ways: To calculate probability of default PD, Barclays assesses the credit quality of borrowers and other counterparties and assigns them an internal risk rstly, if the risk is transferred to a counterparty which is more rating.
+Multiple rating methodologies may be used to inform the overall creditworthy than the original counterparty, then overall credit risk rating decision on individual large credits, such as internal and external will be reduced: and models, rating agency ratings and other market information.
+For smaller secondly, where recourse to the first counterparty remains, a default credits, a single source may sufce such as the result from an internal of both counterparties is required before a loss materialises.
+Barclays recognises the need for two different expressions be less likely than the default of either counterparty individually so of PD depending on the purpose for which it is used.
+For the purposes credit risk is reduced.
+of calculating regulatory and economic capital, long-run average throughthe-cycle TTC PDs are required.
+However, for the purposes of pricing and Risk transfer can also be used to reduce risk concentrations within existing customer management, PDs should represent the best estimate portfolios, lowering the impact of stress events.
+of probability of default given the current position in the credit cycle.
+Hence, point-in-time PIT PDs are also required.
+com annualreport10 Risk management Credit risk management continued capital purposes is the current balance at calculation of EAD.
+For derivative Each PD model outputs an estimate of default probability that is PIT, TTC or a hybrid e. g. a 50:50 blend.
+Bespoke conversion techniques, instruments, exposure in the event of default is the estimated cost of replacing contracts where counterparties have incurred obligations which appropriate to the portfolio in question, are then applied to convert the model output to pure PIT and TTC PD estimates.
+In deriving the they have failed to satisfy.
+appropriate conversion, industry and location of the counterparty and an understanding of the current and long-term credit conditions are Should a customer default, some part of the exposure is usually recovered.
+The part that is not recovered, the actual loss, together with the economic considered.
+Both PIT and TTC PD estimates are recorded for each client.
+costs associated with the recovery process, comprise the loss given default LGD, which is expressed as a percentage of EAD.
+The Group estimates Within Barclays, the calculation of internal ratings differs between wholesale and retail customers.
+For wholesale portfolios, the rating system an average LGD using historical information.
+The level of LGD depends principally on: the type of collateral if any : the seniority or subordination is constructed to ensure that a client receives the same rating regardless of the part of the business with which it is dealing.
+To achieve this, a model of the exposure: the industry in which the customer operates if a business : the length of time taken for the recovery process and the timing of all hierarchy is adopted which requires users to adopt a specic approach to rating each counterparty depending upon the nature of the business and associated cash ows: and the work-out expense.
+The outcome is also dependent on economic conditions that may determine, for example, its location.
+A range of methods are utilised for estimating wholesale counterparty PDs.
+These include bespoke grading models developed the prices that can be realised for assets, whether a business can readily be renanced or the availability of a repayment source for personal within the Group internal models, vendor models such as MKMV Credit Edge and RiskCalc, and a conversion of external alphabet ratings from customers.
+For the purposes of regulatory capital an adjustment is made to the modelled LGD to account for the increased losses experienced either S&P, Moodys or Fitch.
+Retail models, especially those used for capital purposes, are almost exclusively built internally using Barclays under downturn conditions, giving a downturn LGD.
+In many cases bureau data is used to complement internal data.
+In addition, in some low data low default environments, external E. Reporting The Group dedicates considerable resources to gaining a clear and developments may also be utilised.
+accurate understanding of credit risk across the business and ensuring that its balance sheet correctly reects the value of the assets in A key element of the Barclays wholesale framework is the PD Masterscale see below.
+This scale has been developed to distinguish meaningful accordance with applicable accounting principles.
+This process can be summarised in five broad stages: differences in the probability of default risk throughout the risk range.
+In contrast to wholesale businesses, retail areas rarely bucket exposures measuring exposures and concentrations: into generic grades for account management purposes although they may be used for reporting purposes.
+Instead, accounts are managed monitoring weaknesses in portfolios: at a more granular and bespoke level.
+identifying potential problem loans and credit risk loans collectively known as potential credit risk loans or PCRLs : Exposure at default EAD represents the expected level of usage of the credit facility should default occur.
+At the point of default, the customer raising allowances for impaired loans: and exposure can vary from the current position due to the combined effects writing off assets when the whole or part of a debt is considered of additional drawings, repayment of principal and interest and fees.
+parameters are all derived from internal estimates and are determined from internal historical behaviour.
+The lower bound of EAD for regulatory Geographical analysis of loans and advances to customers Loans and advances to customers by industry 2010 2009 bn 1 UK 168.1 2010 Home loans 5 5 149.1 2 Other EU 2009 4 4 87.4 3 US Financial institutions 93.1 4 Africa 1 1 Cards, unsecured loans 3 46.7 3 40.6 and other personal lending 5 Rest of World 28.7 Construction and property 29.2 2 2 26.2 Business and other services 29.6 24.5 Other 25.8 Wholesale and retail 17.
+4 19.2 distribution and leisure Maturity analysis of loans and advances to customers 14.8 Manufacturing 18.2 2010 2009 9.2 Energy and water 10.7 1 On demand 5.1 2 Not more than Government 1 1 4.8 three months 2 2 3 Over three months 5 5 but not more than 3 one year 3 4 Over one year but 4 4 not more than five years 5 Over five years About Barclays Strategy Performance Risk management and governance Financial statements Shareholder information Increasing state of delinquency Increasing state of delinquency Barclays PLC Annual Report 2010 www.
+com annualreport10 91 F. Measuring exposures and concentrations to the lending, and its probability of default.
+These are updated monthly Loans and advances to customers provide the principal source of credit and circulated to the relevant risk control points.
+Once an account has been placed on watchlist WL or early warning list EWL, the exposure risk to the Group although Barclays can also be exposed to other forms of credit risk through, for example, loans to banks, loan commitments is carefully monitored and, where appropriate, exposure reductions are effected.
+Should an account become impaired, it will normally have passed and debt securities.
+Barclays risk management policies and processes are designed to identify and analyse risk, to set appropriate risk appetite, limits through each of the three categories, which reect the need for increasing caution and control.
+Where an obligors financial health gives grounds for and controls, and to monitor the risks and adherence to limits by means of reliable and timely data.
+One area of particular review is concentration risk.
+concern, it is immediately placed into the appropriate category.
+While all obligors, regardless of financial health, are subject to a full review of all A concentration of credit risk exists when a number of counterparties are engaged in similar activities and have similar economic characteristics that facilities on, at least, an annual basis, more frequent interim reviews may be undertaken should circumstances dictate.
+Specialist recovery functions would cause their ability to meet contractual obligations to be similarly affected by changes in economic and other conditions.
+As a result, Barclays deal with clients in default, collection or insolvency.
+Their mandate is to maximise shareholder value via the orderly and timely recovery of impaired constantly reviews its concentration in a number of areas including, for example, geography, maturity and industry see previous page.
+Accounts can stay in Recoveries for up to two years unless a longer-term strategy has been agreed.
+Diversication is achieved through setting maximum exposure guidelines Within the retail portfolios, which tend to comprise homogeneous assets, to individual counterparties.
+Excesses are reported to the Group Risk Oversight Committee and the Board Risk Committee.
+Mandate & Scale statistical techniques more readily allow potential weaknesses to be monitored on a portfolio basis.
+The approach is consistent with the Groups limits are used to limit the stock of current exposures in a loan portfolio and the ow of new exposures into a loan portfolio.
+Limits are typically policy of raising a collective impairment allowance as soon as objective evidence of impairment is identied.
+Retail accounts can be classied based on the nature of the lending and the amount of the portfolio meeting certain standards of underwriting criteria.
+according to specified categories of arrears status or cycle, which reects the level of contractual payments which are overdue on a loan.
+G. Monitoring weaknesses in portfolios The probability of default increases with the number of contractual Whilst the basic principles for monitoring weaknesses in wholesale and retail exposures are broadly similar, they will reect the differing nature payments missed, thus raising the associated impairment requirement.
+As a matter of policy all facilities granted to corporate or wholesale customers are subject to a review on, at least, an annual basis, Once a loan has passed through all six cycles it will enter recovery status, having been charged off.
+In most cases, charge-off will result in the account even when they are performing satisfactorily.
+moving to a legal recovery function or debt sale.
+This will typically occur after an account has been treated by a collections function.
+However, in Corporate accounts that are deemed to contain heightened levels of risk are recorded on graded early warning lists or watchlists comprising three certain cases, an account may be charged off directly from a performing up to date status, such as in the case of insolvency or death.
+categories graded in line with the perceived severity of the risk attached Monitoring weaknesses in portfolios Wholesale account status Retail account status Performing Performing Current Including EWL 1-2, WL 1-3 Arrears Status 0 Watchlist Committee Business support assists Customer misses Customer pays total flags client on the basis the client to return to in contractual payment overdue payments of evidence of financial order position.
+and moves to and returns back difficulty.
+Business Support Delinquent Collections EWL 3, WL 3.5 Arrears Status 1- 6 Customers financial Customer reaches high difficulty requires a arrears status and is moved decision on the form to the recovery function of future relationship.
+where legal action is taken.
+Default Recovery Default Charge-off Recovery Arrears Status 6 Asset is considered Asset is considered irrecoverable and irrecoverable and is written off.
+Write Off 92 Barclays PLC Annual Report 2010 www.
+com annualreport10 Risk management Credit risk management continued As a general principle, charge-off marks the point at which it becomes H. Identifying potential credit risk loans more economically efficient to treat an account through a recovery In line with disclosure requirements from the Securities Exchange Commission SEC in the US, the Group reports potentially and actually function or debt sale rather than a collections function.
+Economic efficiency includes the discounted expected amount recovered and impaired loans as Potential Credit Risk Loans PCRLs.
+PCRLs comprise two categories of loans: Potential Problem Loans PPLs and Credit Risk operational and legal costs.
+Whilst charge-off is considered an irreversible state, in certain cases, it may be acceptable for mortgage and vehicle Loans CRLs.
+finance accounts to move back from charge-off to performing or delinquent states.
+This is only considered acceptable where local legislation PPLs are loans that are currently complying with repayment terms but where serious doubt exists as to the ability of the borrower to continue requirements are in place, or where it is deemed that the customer has a renewed willingness to pay and there is a strong chance that they will be to comply with such terms in the near future.
+If the credit quality of a loan on an early warning or watch list deteriorates to the highest category able to meet their contractual obligations in the foreseeable future.
+wholesale or deteriorates to delinquency cycle 2 retail, consideration is given to including it within the PPL category.
+For the majority of products, the standard period for charging off accounts is 180 days past due of contractual obligation.
+However, in the case of Should further evidence of deterioration be observed, a loan may move customer bankruptcy or insolvency, the associated accounts will be charged off within 60 days.
+Within UKRB Local Business, accounts that to the CRL category.
+Events that would trigger the transfer of a loan from the PPL to the CRL category include a missed payment or a breach of are deemed to have a heightened level of risk, or that exhibit some unsatisfactory features which could affect viability in the short to medium covenant.
+CRLs comprise three classes of loans: term, are transferred to a separate caution stream.
+Accounts on the Impaired loans comprise loans where an individual identied caution stream are reviewed on at least a quarterly basis, at which time impairment allowance has been raised and also include loans which consideration is given to continuing with the agreed strategy, returning the are fully collateralised or where indebtedness has already been written customer to a lower risk refer stream, or instigating recovery exit action.
+down to the expected realisable value.
+This category includes all retail loans that have been charged off to legal recovery.
+The impaired loan In the retail portfolios, forbearance programmes assist personal customers category may include loans, which, while impaired, are still performing.
+in financial difficulty through agreements to accept less than contractual amounts due where financial distress would otherwise prevent satisfactory The category accruing past due 90 days or more comprises loans that are 90 days or more past due with respect to principal or interest.
+repayment within the original terms and conditions of the contract.
+These agreements may be initiated by the customer, Barclays or a third party and An impairment allowance will be raised against these loans if the expected cash ows discounted at the effective interest rate are less include approved debt counselling plans, minimum due reductions, interest rate concessions and switches from capital and interest than the carrying value.
+The category impaired and restructured loans comprises loans not included above where, for economic or legal reasons related to the In the wholesale portfolios, Barclays will on occasion participate in debt for debtors financial difficulties, a concession has been granted to the equity swaps, debt for asset swaps, debt standstills and debt restructuring debtor that would not otherwise be considered.
+Where the concession agreements as part of the business support process.
+Debt restructuring results in the expected cash ows discounted at the effective interest agreements may include actions to improve security: such as changing an rate being less than the loans carrying value, an impairment allowance overdraft to a factoring or invoice discounting facility or moving debt to will be raised.
+Consideration is also given to the waiving or relaxing of covenants where this is the optimum strategy for the survival I. Allowances for impairment and other credit provisions of our clients businesses and therefore Barclays loans and advances.
+Barclays establishes, through charges against profit, impairment allowances and other credit provisions for the incurred loss inherent in Loans in forbearance programmes are still subject to impairment in line the lending book.
+Under IFRS, impairment allowances are recognised with normal impairment policy.
+where there is objective evidence of impairment as a result of one or more loss events that have occurred after initial recognition, and where these For personal customers, the Group Retail Impairment Policy outlines events have had an impact on the estimated future cash ows of the the methodology for impairment of assets that are categorised as under financial asset or portfolio of financial assets.
+Impairment of loans and forbearance.
+Identied impairment is raised for such accounts, recognising receivables is measured as the difference between the carrying amount the agreement between the bank and customer to pay less than the and the present value of estimated future cash ows discounted at the original contractual payment and is measured using a future discounted financial assets original effective interest rate.
+If the carrying amount is less cash ow approach comparing the debt outstanding to the expected than the discounted cash ows, then no further allowance is necessary.
+This results in appropriately higher provisions being held than for fully performing assets.
+Impairment allowances are measured individually for assets that are individually significant, and collectively where a portfolio comprises For wholesale customers, impairment is raised for any portion of homogenous assets and where appropriate statistical techniques are restructured debt that Barclays does not expect to recover.
+In terms of individual assessment, the principal trigger point for identied impairment will be raised to cover the difference between impairment is the missing of a contractual payment which is evidence that the loan and the present value of future cash ow discounted at the an account is exhibiting serious financial problems, and where any further contractual interest rate.
+com annualreport10 93 deterioration is likely to lead to failure.
+Details of other trigger points can unidentified impairment allowances are also raised to cover losses which be found on page 198.
+Two key inputs to the cash ow calculation are the are judged to be incurred but not yet specically identied in customer valuation of all security and collateral, as well as the timing of all asset exposures at the balance sheet date, and which, therefore, have not been realisations, after allowing for all attendant costs.
+This method applies specically reported.
+The incurred but not yet reported calculation is based mainly in the corporate portfolios.
+on the assets probability of moving from the performing portfolio to being specically identied as impaired within the given emergence period and For collective assessment, the principal trigger point for impairment is then on to default within a specified period.
+This is calculated on the the missing of a contractual payment which is the policy consistently present value of estimated future cash ows discounted at the financial adopted across all credit cards, unsecured loans, mortgages and most assets original effective interest rate.
+The emergence periods vary across other retail lending.
+Details of other trigger points can be found on page businesses and are based on actual experience and are reviewed on an 198.
+The calculation methodology relies on the historical experience of annual basis.
+This methodology ensures that the Group captures the loss pools of similar assets: hence the impairment allowance is collective.
+incurred at the correct balance sheet date.
+These impairment allowances The impairment calculation is based on a roll-rate approach, where the are reviewed and adjusted at least quarterly by an appropriate charge or percentage of assets that move from the initial delinquency to default release of the stock of impairment allowances based on statistical analysis is derived from statistical probabilities based on historical experience.
+Where appropriate, the accuracy of this Recovery amounts and contractual interest rates are calculated using a analysis is periodically assessed against actual losses see Modelling weighted average for the relevant portfolio.
+This method applies mainly of Risk on page 71.
+As one of the controls to ensure that adequate to the Groups retail portfolios and is consistent with Barclays policy of impairment allowances are held, movements in impairment allowances raising an allowance as soon as impairment is identied.
+to individual names with total impairment of more than 10m are presented to the Credit Committee for agreement.
+The impairment allowance in the retail portfolios is mainly assessed on a collective basis and is based on the drawn balances adjusted to take Monitoring the loan loss rate LLR provides Barclays with one way of into account the likelihood of the customer defaulting PDpit and the measuring the trends in the quality of the loan portfolio at the Group, amount estimated as not recoverable LGD.
+The basic calculation is: business and product levels.
+At Barclays, the LLR represents the annualised impairment charges on loans and advances to customers and banks and Impairment allowance Total outstandings x Probability of Default PD other credit provisions as a percentage of the total, period-end loans pit and advances to customers and banks, gross of impairment allowances.
+x Loss Given Default LGD The impairment allowance is the aggregate of the identied and The PDpit increases with the number of contractual payments missed thus raising the associated impairment requirement.
+Impairment allowance coverage, or the coverage ratio, is reported at two levels: Impairment in the wholesale portfolios is generally calculated by Credit risk loans coverage ratio impairment allowances as a percentage valuing each impaired asset on a case by case basis, i. e. on an individual of CRL balances : and assessment basis.
+A relatively small amount of wholesale impairment Potential credit risk loans coverage ratio impairment allowances as a relates to unidentified or collective impairment: in such cases impairment is calculated using modelled PD x LGD x EAD adjusted percentage of total CRL and PPL balances.
+94 Barclays PLC Annual Report 2010 www.
+com annualreport10 Risk management Credit risk management continued Appropriate coverage ratios will vary according to the type of product J.
+Writing off of assets but can be broadly bracketed under three categories: secured retail home After an advance has been identied as impaired and is subject to an loans: credit cards, unsecured and other personal lending products: and impairment allowance, the stage may be reached whereby it is concluded corporate facilities.
+Analysis and experience has indicated that, in general, that there is no realistic prospect of further recovery.
+Write off will occur the severity rates for these types of products are typically within the when, and to the extent that, the whole or part of a debt is considered following ranges: irrecoverable.
+The timing and extent of write offs may involve some element of subjective judgement.
+Nevertheless, a write off will often Secured retail Home loans: 5%-20%: be prompted by a specic event, such as the inception of insolvency Credit cards, unsecured and other personal lending products: proceedings or other formal recovery action, which makes it possible to 65%-75%: and establish that some or the entire advance is beyond realistic prospect of recovery.
+In any event, the position of impaired loans is reviewed at least Corporate facilities: 30%-50%.
+quarterly to ensure that irrecoverable advances are being written off in a prompt and orderly manner and in compliance with any local regulations.
+CRL coverage ratios would therefore be expected to be at or around these levels over a dened period of time.
+In principle, a number of factors Such assets are only written off once all the necessary procedures may affect the Groups coverage ratios, including: have been completed and the amount of the loss has been determined.
+The mix of products within total CRL balances.
+Coverage ratios will Subsequent recoveries of amounts previously written off are written back tend to be lower when there is a high proportion of secured retail and and hence decrease the amount of the reported loan impairment charge corporate balances within total CRLs.
+This is due to the fact that the in the income statement.
+In 2010 total write offs of impaired financial recovery outlook on these types of exposures is typically higher than assets increased by 930m to 4,310m 2009: 3,380m.
+retail unsecured products with the result that they will have lower impairment requirements.
+The stage in the economic cycle.
+Coverage ratios will tend to be lower in the earlier stages of deterioration in credit conditions.
+At this stage, retail delinquent balances will be predominantly in the early delinquency cycles and corporate names will have only recently moved to CRL categories.
+As such balances attract a lower impairment requirement, the CRL coverage ratio will be lower.
+The balance of PPLs to CRLs.
+The impairment requirements for PPLs are lower than for CRLs, so the greater the proportion of PPLs, the lower the PCRL coverage ratio.
+The speed with which defaulted assets are written off will affect coverage ratios.
+The more quickly assets are written off, the lower the ratios will be, since stock with 100% coverage will tend to roll out of PCRL categories more quickly.

@@ -1,0 +1,59 @@
+represent the price at which a short position could be correlation between one or more market rates may be bought back.
+Valuation models will typically an important component of an exotic derivative generate mid market values.
+The bid-offer value and an uncertainty adjustment may be taken to adjustment reflects the cost that would be incurred if reflect the range of possible values that market substantially all residual net portfolio market risks participants may assume for this parameter.
+were closed using available hedging instruments or by disposing of or unwinding the actual position.
+Credit risk adjustment The majority of the bid-offer adjustment relates The credit risk adjustment is an adjustment to the to OTC derivative portfolios.
+For each portfolio, the valuation of OTC derivative contracts to reflect major risk types are identified.
+These may include, within fair value the possibility that the counterparty inter alia, delta the sensitivity to changes in the may default, and HSBC may not receive the full price of an underlying, vega the sensitivity to market value of the transactions.
+The calculation changes in volatilities and basis risk the sensitivity of the credit risk adjustment against monolines is to changes in the spread between two rates.
+For described on page 163, and for all other each risk type, the net portfolio risks are first counterparties on page 170. classified into buckets, and then a bid-offer spread is applied to each risk bucket based upon the market Model-related adjustments bid-offer spread for the relevant hedging instrument.
+These adjustments are primarily related to internal The granularity of the risk bucketing is determined factors, such as the ability of HSBCs models to by reference to several factors, including the actual incorporate all material market characteristics.
+A risk management practice undertaken by HSBC, the description of each adjustment type is given below: granularity of risk bucketing within the risk reporting process, and the extent of correlation Model limitation between risk buckets.
+Within a risk type, the bidoffer adjustment for each risk bucket may be Models used for portfolio valuation purposes, aggregated without offset or limited netting may be particularly for exotic derivative products, may be applied to reflect correlation between buckets.
+There based upon a simplifying set of assumptions that do is no netting applied between risk types or between not capture all material market characteristics or may portfolios that are not managed together for risk be less reliable under certain market conditions.
+There is no netting across Additionally, markets evolve, and models that were legal entities.
+adequate in the past may require development to capture all material market characteristics in current Uncertainty market conditions.
+In these circumstances, model limitation adjustments are adopted outside the core Certain model inputs may be less readily valuation model.
+determinable from market data, and or the choice of model itself may be more subjective, with less The adjustment methodologies vary according market evidence available from which to determine to the nature of the model.
+The Quantitative Risk and general market practice.
+In these circumstances, Valuation Group, an independent quantitative there exists a range of possible values that the support function reporting into Finance, highlights financial instrument or market parameter may the requirement for model limitation adjustments and assume and an adjustment may be necessary to develops the methodologies employed.
+Over time, as reflect the likelihood that in estimating the fair value model development progresses, model limitations of the financial instrument, market participants are addressed within the core revaluation models and would adopt rather more conservative values for a model limitation adjustment is no longer needed.
+uncertain parameters and or model assumptions than those used in the valuation model.
+Uncertainty Inception profit day 1 P&L reserves adjustments are derived by considering the potential Inception profit adjustments are adopted where the range of derivative portfolio valuation given the fair value estimated by a valuation the model is available market data.
+The objective of an based on one or more significant unobservable uncertainty adjustment is to arrive at a fair value that inputs, in accordance with IAS 39.
+At trade is not overly prudent but rather reflects a level of execution, the adjustment is equal to the inception prudence believed to be consistent with market profit which is the difference between the fair value pricing practice.
+and the price at which the transaction was Uncertainty adjustments are applied to various undertaken.
+The balance is amortised to the types of exotic OTC derivative.
+For example, the observability boundary based on the risk profile of 169 HSBC HOLDINGS PLC Report of the Directors: Impact of Market Turmoil continued Fair values of financial instruments Carried at fair value the unobservable component.
+The observability and has a zero adjustment against derivative boundary is the point at which during the lifetime of liabilities, often referred to as a debit valuation the trade the previously unobservable significant adjustment.
+The simulation methodology includes input is expected to become observable, which at the credit mitigants such as counterparty netting extreme may be the maturity date.
+agreements and collateral agreements with the counterparty.
+An analysis of the movement in the deferred Day 1 P&L reserve is provided on page 426.
+For certain types of exotic derivatives where the products are not currently supported by the Transaction costs and the future costs of simulation, or for derivative exposures in smaller administering the OTC derivative portfolio are not trading locations where the simulation tool is not yet included in the fair value calculation.
+These, along available, HSBC adopts an alternative methodology.
+with trade origination costs such as brokerage fees Alternative methodologies used by HSBC fall into and post-trade costs, are accounted for as part of two categories.
+One method maps transactions either fee expense or operating expenses.
+against the results for similar products which are accommodated by the simulation tool.
+Where such a Credit risk adjustment methodology mapping approach is not appropriate, a bespoke HSBC adopts a credit risk adjustment also methodology is used, generally following the same frequently known as a credit valuation adjustment principles as the simulation methodology, reflecting against OTC derivative transactions to reflect within the key characteristics of the instruments but in a fair value the possibility that the counterparty may manner that is computationally less intensive.
+The default, and HSBC may not receive the full market calculation is applied at a trade level, with more value of the transactions.
+HSBC calculates a separate limited recognition of credit mitigants such as credit risk adjustment for each HSBC legal entity, netting or collateral agreements than used in the and within each entity for each counterparty to simulation methodology described previously.
+which the entity has exposure.
+The calculation of the The methodologies do not, in general, account monoline credit risk adjustment is described on for wrong-way risk.
+Wrong-way risk arises where page 163.
+The description below relates to the credit the underlying value of the derivative prior to any risk adjustment taken against counterparties other credit risk adjustment is related to the probability than monolines, which totalled US$1,009 million at of default of the counterparty.
+A more detailed 31 December 2009 2008: US$1,492 million.
+description of wrong-way risk is included on HSBC calculates the credit risk adjustment page 208.
+For particular transactions where there is by applying the probability of default of the significant wrong-way risk, a trade specific approach counterparty to the expected positive exposure to the is applied to reflect the wrong-way risk within the counterparty, and multiplying the result by the valuation.
+loss expected in the event of default.
+The calculation HSBC includes all third party counterparties in is performed over the life of the potential exposure.
+the credit risk adjustment calculation and HSBC For most products, HSBC uses a simulation does not net credit risk adjustments across HSBC methodology to calculate the expected positive Group entities.
+The methodology simulates the range of During 2009, there were no material changes potential exposures of HSBC to the counterparty made by HSBC to the methodologies used to over the life of an instrument.
+The range of calculate the credit risk adjustment.
+exposures is calculated across the portfolio of transactions with a counterparty to arrive at an Consideration of other methodologies for expected overall exposure.
+The probability of default calculation of credit risk adjustments assumptions are based upon historic rating transition Unaudited matrices.
+The credit rating used for a particular The credit risk adjustment methodology used by counterparty is that determined by HSBCs internal HSBC, in the opinion of management, appropriately credit process.
+Rating transition is taken account of quantifies the exposure of HSBC to counterparty risk throughout the duration of the exposure.
+A standard on its OTC derivative portfolio and appropriately loss given default assumption of 60 per cent is reflects the risk management strategy of the generally adopted.
+HSBC considers that an business.
+appropriate spread to reflect HSBCs own probability of default within the credit risk adjustment HSBC recognises that a variety of credit risk calculation is currently zero.
+Consequently, HSBC adjustment methodologies are adopted within the does not derive the adjustment on a bilateral basis 170

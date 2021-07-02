@@ -1,0 +1,639 @@
+112 Notes to the Financial Statements General accounting policies Basis of preparation These consolidated financial statements have been prepared in compliance with International Financial Reporting Standards IFRS and IFRS Interpretations Committee interpretations as adopted by the European Union as at 31 December 2017.
+The consolidated financial statements have been prepared under the historical cost convention, as modified by the revaluation of certain financial assets and liabilities including derivative instruments.
+The Group uses a number of non-GAAP measures to present the financial performance of the business that are not defined under IFRS.
+An explanation of these Alternative Performance Measures APMs, along with a reconciliation to the nearest equivalent IFRS measure, can be found in Section E of these notes on page 145.
+After reviewing Group and Company cash balances, borrowing facilities and projected cash flows, the Directors believe that the Group and Company have adequate resources to continue operations over a period of at least twelve months from the date of approval of the financial statements.
+For this reason they continue to adopt the going concern basis in preparing the consolidated financial statements see the Directors Report on page 163.
+Consolidation a Subsidiaries Subsidiaries are entities controlled by the Group.
+The Group controls an entity when i it has power over the entity: ii is exposed or has rights to variable returns from its involvement with the entity: and iii has the ability to affect those returns through its power over the entity.
+The Group reassesses whether or not it controls a subsidiary if facts and circumstances indicate that there are changes to one or more of these three elements of control.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+Inter-company transactions, balances, and gains and losses on transactions between Group companies are eliminated on consolidation.
+Where the Group loses control of a subsidiary, the assets and liabilities are derecognised along with any related non-controlling interest and other components of equity.
+Any resulting gain or loss is recognised in the income statement.
+Any interest retained in the former subsidiary is measured at fair value when control is lost.
+Changes in the Groups interest in a subsidiary that do not result in a loss of control are accounted for as equity transactions.
+Please refer to Note B2 for details of disposals in the year.
+Losses applicable to the non-controlling interests in a subsidiary are allocated to the non-controlling interests which may cause the non-controlling interests to have a deficit balance.
+Consideration in excess of net identifiable assets acquired in respect of non-controlling interests in existing subsidiary undertakings is taken directly to reserves.
+b Associates Associates are those entities in which the Group has significant influence over the financial and operating policies, but not control.
+Significant influence is usually presumed to exist when the Group holds between 20% and 50% of the voting power of another entity.
+Associates are accounted for using the equity method and are initially recognised at cost.
+The Groups investment includes goodwill identified on acquisition, net of any accumulated impairment losses.
+The consolidated financial statements include the Groups share of the total comprehensive income and equity movements of equity accounted investees, from the date that significant influence commences until the date that significant influence ceases.
+When the Groups share of losses exceeds its interest in an equity accounted investee, the carrying amount is reduced to nil and recognition of further losses is discontinued except to the extent that the Group has incurred legal or constructive obligations or made payments on behalf of an investee.
+Gains and losses on transactions between the Group and its associates are eliminated to the extent of the Groups interest in the associates.
+Foreign currency translation a Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements are presented in sterling, which is the Groups functional and presentation currency.
+b Group companies The results and financial position of all the Group entities that have a functional currency different from the presentation currency are translated into the presentation currency as follows: i assets and liabilities for each balance sheet presented are translated at the closing rate at the date of the balance sheet: ii income and expenses for each income statement are translated at average exchange rates: and iii all resulting exchange differences are recognised as a separate component of equity.
+On consolidation, exchange differences arising from the translation of the net investment in foreign entities, and of borrowings and other currency instruments designated as hedges of such investments or deemed to be quasi-equity, are taken to other comprehensive income.
+When a foreign operation is sold, such exchange differences are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at period end exchange rates.
+c Transactions and balances Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions, or from the translation of monetary assets and liabilities denominated in foreign currencies at reporting period end exchange rates, are recognised under the appropriate heading in the income statement: except when deferred in equity as qualifying net investment hedges or where certain intra-group loans are determined to be quasi-equity normally not expected to be repaid.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 113 Notes to the Financial Statements Financial instruments Financial assets and financial liabilities are recognised when the Group becomes a party to the contractual provisions of the relevant instrument, and derecognised when it ceases to be a party to such provisions.
+Section C of these notes discusses accounting for financial instruments.
+Financial assets At initial recognition the Group classifies its financial assets depending on the purpose for which the financial assets were acquired.
+This classification is re-evaluated at every reporting date and an assessment is made as to whether there is objective evidence that financial assets are impaired.
+All financial assets are held at amortised cost except for derivatives and certain assets classified as available-for-sale, which are held at fair value.
+All financial assets are included in current assets unless they are expected to be realised, mature or disposed of after 12 months of the balance sheet date.
+Financial assets are classified in the following categories: a Financial assets at fair value through the income statement These assets are often held for trading as they are acquired for the purpose of selling in the short term or part of a portfolio of assets subjected to trading.
+Derivative assets are always held as financial assets at fair value through the income statement.
+b Loans and receivables Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They arise when the Group provides goods or services directly to a debtor with no intention of trading the receivable.
+Loans and receivables include trade and other receivables, and cash and cash equivalents.
+Loans and receivables are measured at amortised cost using the effective interest rate method, subject to impairment.
+c Available-for-sale financial assets Available-for-sale financial assets are non-derivative financial assets that are either designated in this category or not classified in any of the other categories.
+Available-for-sale assets are measured at fair value and changes to market values are recognised in other comprehensive income.
+On subsequent disposal or impairment, the accumulated gains and losses previously recognised in other comprehensive income are recognised in the income statement.
+At each balance sheet date the Group assesses whether there is objective evidence that a financial asset or a group of financial assets are impaired.
+If any such evidence exists for available-for-sale financial assets, the cumulative loss measured as the difference between the acquisition cost and the current fair value, less any impairment loss on that financial asset previously recognised in the income statement is removed from other comprehensive income and recognised in the income statement.
+Impairment losses recognised in the income statement on equity instruments are not reversed through the income statement.
+d Held-to-maturity investments Held-to-maturity investments are non-derivative financial assets with fixed or determinable payments that the Group intends, and is able, to hold to maturity.
+They do not meet the definition of loans and receivables, and are not designated on initial recognition as assets at fair value through the income statement or as available-for-sale.
+Financial liabilities All financial liabilities are stated at amortised cost using the effective interest rate method except for derivatives, which are classified as held for trading except where they qualify for hedge accounting and are held at fair value.
+Financial liabilities held at amortised cost include trade payables, vacant property provisions, deferred consideration and borrowings.
+Rentokil Initial plc Annual Report 2017 114 Notes to the Financial Statements Critical accounting estimates and assumptions The Group makes estimates and assumptions concerning the future.
+Estimates and assumptions are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The resulting accounting estimates will, by definition, seldom equal the related actual results.
+Sensitivities to the estimates and assumptions are provided, where relevant, in the relevant Notes to the Financial Statements.
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are listed below please refer to the notes for further detail.
+Estimated impairment of goodwill Note B3 Valuation of acquired intangible assets Note B1 Income taxes and deferred tax asset Notes A13 and A15 Retirement benefits Note A10 Standards, amendments and interpretations to published standards that are mandatorily effective for the current year The Group has adopted the following new standards and amendments to standards, including any consequential amendments to other standards, with effect from 1 January 2017: Income taxes amendments to IAS 12 Statement of cash flows amendments to IAS 7 The application of these amendments has had no material impact on the disclosures of the amounts recognised in the Groups consolidated financial statements.
+Consequently, no adjustment has been made to the comparative financial information at 31 December 2016.
+The Group has not early adopted any standard, interpretation or amendment that was issued but is not yet effective.
+The Group will adopt IFRS 15 Revenue from Contracts with Customers from 1 January 2018.
+Substantially all of the Groups revenue will be in the scope of IFRS 15, but no material changes to the timing of revenue recognition are required.
+The majority of revenue across the Group is currently recognised evenly over the course of the contract because this reflects the timing of the provision of the service, and therefore revenue is recognised as performance obligations are satisfied.
+Incremental costs of obtaining contracts mainly sales commissions will be recognised as an asset and amortised over the lives of the contracts to which they relate.
+It is estimated that the value of this adjustment will be in the range of 35-45m.
+The impact on the income statement from this change in treatment is expected to be a reduction in costs in 2018 due to historic year-on-year increases in sales commissions.
+Any impact is not expected to be material.
+The assessment of the impact of IFRS 15 is preliminary as not all transition work requirements have been finalised and therefore may be subject to adjustment.
+The Group will adopt IFRS 9 from 1 January 2018.
+The Group has minimal financial assets other than trade debtors and the new standard does not have a material impact on the recognition and measurement of the Groups financial assets.
+The standard will, however, result in changes in presentation in some disclosures of the Groups financial assets.
+As a result of the changes within the forthcoming standard IFRS 16 Leases which is to be adopted from 1 January 2019, the majority of our existing operating leases will be accounted for as right of use assets, which will be largely offset by corresponding lease liabilities.
+The lease liability will increase net debt.
+It is anticipated that operating expenses will decrease and financing costs will increase as the operating lease expense is replaced by depreciation and interest.
+Depreciation will be straight-line over the life of the lease but the financing charge will decrease over the lease term.
+The overall impact on net profit is not expected to be material.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 115 Notes to the Financial Statements A.
+Segment information Revenue recognition Revenue represents the fair value of consideration received, or receivable, from customers for the provision of services and goods, net of rebates and discounts, value-added tax VAT and other similar sales-based taxes.
+Non-contract service revenue and contract service revenue represents the sales value of work carried out for customers during the period.
+Contract income is recognised in accounting periods on a straight-line basis over the life of the contract in accordance with IAS 11 Revenue.
+Segment reporting Segmental information has been presented in accordance with IFRS 8 Operating Segments.
+Reporting segments reflect the internal management organisation and reporting structures.
+Each segment is headed by a Regional Managing Director who reports directly to the Chief Executive and is a member of the Groups Executive Leadership Team responsible for the review of Group performance.
+The operating businesses within each segment report to the Regional Managing Directors.
+Given the international nature of the Group foreign exchange movements can have a significant impact on regional performance.
+As a result the segmental analysis is presented at constant exchange rates.
+Restructuring costs and central and regional costs are presented at a Group level as they are not targeted or managed at reportable segment level.
+The basis of presentation is consistent with the information reviewed by internal management.
+Revenue and profit are from Ongoing operations which is defined and reconciled to the nearest equivalent GAAP measure in Section E on page 145.
+Disposed business for 2016 is restated for businesses disposed in 2017.
+Includes revenue of 8.8m 2016: nil from product sales by the Group to CWS-boco International GmbH.
+Prior to 30 June 2017, this revenue was classified as intergroup revenue and eliminated on consolidation.
+Revenue and operating profit relate to the main groups of business category and activity, as described on page 11: Pest Control, Hygiene and Protect & Enhance.
+Central and regional overheads represent corporate expenses that are not directly attributable to any reportable segment.
+Revenue at actual exchange rates AER from external customers attributed to the UK amounted to 225.0m 2016: 216.7m, with overseas countries accounting for the balance of 2,187.3m 2016: 1,951.4m.
+The only countries accounting for more than 10% of revenue from external customers are France, totalling 348.7m 2016: 340.1m, and USA, totalling 804.6m 2016: 642.2m.
+No customer accounts for more than 10% of total revenue.
+One-off items operating relates mainly to acquisition and integration costs in North America of 8.7m, various legacy issues in Europe relating to the continuing business and acquisition related costs in Asia and Pacific regions, partially offset by credits related to acquisition accounting.
+Rentokil Initial plc Annual Report 2017 116 Notes to the Financial Statements Analysis of Ongoing Revenue and Ongoing Operating Profit by business category Ongoing Ongoing Ongoing Ongoing Operating Operating Revenue Revenue Profit Profit 2017 2016 2017 2016 m m m m Pest Control 1,328.4 1,094.5 239.8 203.1 Hygiene 402.5 374.0 71.4 65.2 Protect & Enhance 362.1 359.0 37.3 47.4 Central and regional overheads 66.2 67.6 Restructuring costs 6.9 7.9 Ongoing operations at constant exchange rates 2,093.0 1,827.5 275.4 240.2 Analysis of Ongoing Revenue by type 2017 2016 m m 1 Contract service revenue 1,495.6 1,347.3 1 Non-contract service revenue 357.2 319.6 Sales of goods 240.2 160.6 Ongoing operations at constant exchange rates 2,093.0 1,827.5 1.
+Both contract service revenue and non-contract service revenue are in the scope of the forthcoming standard IFRS 15 Revenue from Contracts with Customers.
+Other segment items included in the consolidated income statement are as follows: Amortisation Amortisation and impairment and impairment 1 1 of intangibles of intangibles 2017 2016 m m Europe 6.2 6.2 UK & Rest of World 7.2 5.2 Asia 5.2 2.7 North America 26.6 24.4 Pacific 2.5 1.8 Central and regional 4.0 3.1 Total at constant exchange rates 51.7 43.4 Foreign exchange 2.1 Total at actual exchange rates 53.8 43.4 Tax effect 16.6 14.2 Total after tax effect 37.2 29.2 1.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 117 Notes to the Financial Statements A2.
+Earnings per share Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted average number of shares in issue during the year, excluding those held in the Rentokil Initial Employee Share Trust see note at the bottom of the Consolidated Statement of Changes in Equity which are treated as cancelled, and including share options for which all conditions have been met.
+Adjusted earnings per share is earnings per share adjusted for the after-tax effects of one-off items including the net gain on disposal of 1 businesses, amortisation and impairment of intangibles, and net interest credit from pensions.
+Adjusted profit and earnings per share measures are explained further in Section E on page 145.
+For diluted earnings per share, the weighted average number of ordinary shares in issue is adjusted to include all potential dilutive ordinary shares.
+The Groups potentially dilutive ordinary shares relate to the contingent issuable shares under the Groups long-term incentive share plans LTIPs to the extent the performance conditions have been met at the end of the period.
+These share options are issued for nil consideration to employees if performance conditions are met.
+Details of the adjusted earnings per share are set out below: 2017 2016 m m Profit from continuing operations attributable to equity holders of the Company 682.8 167.8 One-off items operating 6.8 8.6 One-off items associates 7.0 Net gain on disposal of businesses 449.0 Reversal of depreciation assets held-for-sale 38.5 1 Amortisation and impairment of intangibles 53.8 43.5 Net interest credit from pensions 6.8 8.4 2 Tax on above items 26.1 15.6 US tax reform net deferred tax credit 6.4 Adjusted profit from continuing operations attributable to equity holders of the Company 223.6 195.9 Weighted average number of ordinary shares in issue 1,834.8 1,826.0 Adjustment for potentially dilutive shares 15.7 16.9 Weighted average number of ordinary shares for diluted earnings per share 1,850.5 1,842.9 Basic earnings per share 37.21p 9.19p Diluted earnings per share 36.90p 9.11p Basic adjusted earnings per share 12.19p 10.73p Diluted adjusted earnings per share 12.08p 10.63p 1.
+One-off items operating 5.1m 2016: 3.1m, one-off items associates nil 2016: nil, net gain on disposal of businesses 5.7m 2016: nil, amortisation and impairment of intangibles 16.6m 2016: 14.1m, net interest credit from pensions 1.3 m 2016: 1.6 m. Rentokil Initial plc Annual Report 2017 118 Notes to the Financial Statements A3.
+Trade and other receivables The Groups trade receivables are recognised at the transaction price less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+The amount of the provision is recognised in the income statement.
+Movements on provisions for impaired trade receivables are recognised within operating expenses in the income statement.
+Amounts charged to the provision for impairment of trade receivables are generally written off when there is no expectation of recovering additional cash.
+There is limited concentration of credit risk with respect to trade receivables due to the Groups customer base being large and diverse.
+The maximum amount of credit risk with respect to customers is represented by the carrying amount on the balance sheet.
+The Group policy is that credit facilities for new customers are approved by designated managers at regional level.
+Credit limits are set with reference to trading history and reports from credit rating agencies where they are available.
+Where this is not feasible the Group may request payment in advance of work being carried out, or settlement by credit card on completion of the work.
+Overdue accounts are regularly reviewed and impairment provisions are created where necessary with due regard to the historical risk profile of the customer.
+There were no new customers in 2017 where the Group considered there was a risk of significant credit default.
+There are no trade receivables that would otherwise be past due or impaired whose terms have been renegotiated.
+2017 2016 m m Trade receivables 388.5 334.3 Less: provision for impairment of trade receivables 24.7 18.2 Trade receivables net 363.8 316.1 Other receivables 46.2 45.7 Prepayments 50.8 32.3 Total 460.8 394.1 Less non-current portion: Other receivables 11.0 10.8 Current portion 449.8 383.3 Analysis of the Groups provision for impairment of trade receivables is as follows: 2017 2016 m m At 1 January 18.2 15.2 Exchange differences 2.3 2.9 Acquisition of companies and businesses 5.9 0.9 Disposal of companies and businesses 2.4 0.1 Additional provision 8.7 8.3 Receivables written off as uncollectable 5.7 5.3 Unused amounts reversed 2.3 1.4 Transferred to disposal group held-for-sale 2.3 At 31 December 24.7 18.2 The ageing of trade receivables is as follows: 2017 2016 m m Not due 149.4 158.7 Overdue by less than 1 month 98.6 81.6 Overdue by between 1 and 3 months 73.1 40.5 Overdue by between 3 and 6 months 27.4 23.1 Overdue by between 6 and 12 months 20.1 15.4 Overdue by more than 12 months 19.9 15.0 Provision for impairment of trade receivables 24.7 18.2 363.8 316.1 The carrying amounts of the Groups trade receivables are denominated in the following currencies: 2017 2016 m m Pounds sterling 40.9 38.1 Euro 136.7 121.0 US dollar 106.7 94.6 Other currencies 104.2 80.6 388.5 334.3 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 119 Notes to the Financial Statements A4.
+Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost is determined using the first-in, first-out FIFO method.
+The cost of finished goods and work in progress comprises design costs, raw materials, direct labour, other direct costs and related production overheads based on normal operating capacity.
+Net realisable value is the estimated selling price less applicable variable selling expenses.
+2017 2016 m m Raw materials 7.6 8.0 Work in progress 3.7 1.7 Finished goods 73.0 70.3 84.3 80.0 There were no material inventory impairment charges in 2017 and 2016.
+Trade and other payables 2017 2016 m m Trade payables 152.3 119.8 Social security and other taxes 58.2 55.9 Other payables 62.0 40.8 Accruals and deferred income 241.3 233.4 Deferred and contingent consideration including put option liability of 47.7m 2016: nil 97.9 30.0 Total 611.7 479.9 Less non-current portion: Other payables 14.8 13.7 Deferred and contingent consideration including put option liability of 47.7m 2016: nil 61.2 7.7 Total non-current portion 76.0 21.4 Current portion 535.7 458.5 A6.
+Provisions for other liabilities and charges The Group has vacant property, environmental, self-insurance and other provisions.
+Provisions are recognised when the Group has a present obligation as a result of past events, it is probable that an outflow of resources will be required to settle the obligation, and the amount is capable of being reliably estimated.
+If such an obligation is not capable of being reliably estimated it is classified as a contingent liability.
+Future cash flows relating to these obligations are discounted when the effect is material.
+The discount rates used are based on government bond rates in the country of the cash flows, and were between 0.3% and 0.5% 2016: between 0.3% and 0.5% for the UK, and between 0.8% and 2.3% 2016: 2.3% for the US.
+Judgement is required in determining the worldwide provision for environmental restoration.
+These provisions tend to be long term in nature and the use of an appropriate market discount rate and forecast future utilisation based upon managements best estimate determines the level of provision required at the balance sheet date.
+The phasing and actual cash spend may be different from the forecast on which the provision is based.
+Vacant 2017 2016 properties Environmental Self-insurance Other Total Total m m m m m m At 1 January 20.4 15.4 24.9 9.8 70.5 81.4 Exchange differences 0.1 1.7 0.2 1.4 7.8 Additional provisions 1.1 6.9 8.4 21.0 37.4 29.8 Used during the year 4.4 2.1 6.8 12.0 25.3 37.3 Unused amounts reversed 2.3 1.6 1.0 4.9 8.1 Acquisition of companies and businesses 3.8 3.8 Unwinding of discount on provisions 0.1 0.1 0.2 0.3 Transferred to disposal group held-for-sale 3.4 At 31 December 14.8 20.4 23.3 21.8 80.3 70.5 Analysed as follows: Non-current 55.0 55.2 Current 25.3 15.3 Rentokil Initial plc Annual Report 2017 120 Notes to the Financial Statements Vacant properties The Group has a number of vacant and sub-let leasehold properties, with the majority of the head leases expiring before 2020.
+Provision has been made for the residual lease commitments together with other outgoings, after taking into account existing sub-tenant arrangements and assumptions relating to later periods of vacancy.
+The total future minimum sub-lease payments expected to be received under non-cancellable sub-leases at 31 December 2017 is 1.2m 2016: 1.1m.
+Environmental The Group owns a number of properties in Europe and the US where there is land contamination and provisions are held for the remediation of such contamination.
+These provisions are expected to be substantially utilised within the next seven years.
+Self-insurance The Group purchases external insurance from a portfolio of international insurers for its key insurable risks, but prior to 2008 the Group self-insured its risks.
+Provision is still held for self-insured past cover, primarily in relation to third party motor vehicle and employee liability.
+For the continuing self-insured programmes, individual claims are met in full by the Group up to agreed self-insured limits in order to limit volatility in claims.
+The calculated cost of self-insurance claims is based on an actuarial assessment of claims incurred at the balance sheet date and is accumulated as claims provisions.
+These provisions are expected to be substantially utilised within the next 10 years.
+Other Other provisions principally comprise amounts required to cover obligations arising, costs relating to disposed businesses and restructuring costs.
+Existing provisions are expected to be substantially utilised within the next five years.
+Operating expenses by nature Operating expenses from continuing operations include the following items: 2017 2016 m m Employee costs A9 1,165.9 1,054.5 Direct materials and services 473.6 375.2 Vehicle costs 109.2 94.9 Property costs 62.6 57.5 Depreciation and impairment of property, plant and equipment B4 133.9 188.3 Amortisation and impairment of intangible assets B3 67.0 55.9 Restructuring costs 7.3 7.9 One-off items operating A1 6.8 8.6 Other operating expenses 93.6 92.9 Total operating expenses 2,119.9 1,935.7 A8.
+Audit and non-audit services 2017 2016 m m Fees payable to the Companys auditor for the audit of the Parent Company and Group accounts 0.6 0.6 Audit of accounts of subsidiaries of the Group 1.9 1.9 Audit-related assurance services 0.6 0.2 Total audit and audit-related assurance services 3.1 2.7 Tax compliance services 0.1 Taxation advisory services 0.2 All other non-audit services 0.1 0.4 Total non-audit services 0.1 0.7 Total audit and non-audit services 3.2 3.4 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 121 Notes to the Financial Statements A9.
+Employee benefit expense Profit-sharing and bonus plans The Group recognises a liability and an expense for bonuses and profit-sharing, based on calculations of achievements of financial performance targets and based on the best estimate of the obligation to employees related to personal performance criteria being achieved.
+A provision is recognised where a contractual obligation exists or where past practice indicates that there is a constructive obligation to make such payments in the future.
+Holiday pay Paid holidays are regarded as an employee benefit and as such are charged to the income statement as the benefits are earned.
+An accrual is made at the balance sheet date to reflect the fair value of holidays earned but not yet taken.
+Termination benefits Termination benefits are payable when an employment is terminated before the normal retirement date, or whenever an employee accepts voluntary redundancy in exchange for these benefits.
+The Group recognises termination benefits when it is demonstrably committed to either: terminating the employment of current employees according to a detailed formal plan without possibility of withdrawal: or providing termination benefits as a result of an offer made to encourage voluntary redundancy.
+Benefits falling due more than 12 months after the balance sheet date are discounted to present value where the effect of discounting is material.
+2017 2016 m m Wages and salaries 991.8 892.0 Social security costs 136.6 129.0 Share-based payments 4.4 5.5 Pension costs: defined contribution plans 29.7 25.3 defined benefit plans 3.4 2.7 1,165.9 1,054.5 Average number of people employed by the Group during the year: 2017 2016 Number Number Processing and service delivery 26,341 23,991 Sales and marketing 4,473 3,769 Administration and overheads 5,222 4,390 36,036 32,150 Emoluments of the Directors of Rentokil Initial plc are detailed below.
+Further details are also given in the Directors Remuneration Report on pages 75 to 98.
+Highest paid Other Highest paid Other Director Directors Director Directors 2017 2017 2016 2016 000 000 000 000 Aggregate emoluments excluding share options 1,376.3 850.9 1,254.0 781.2 Aggregate gains made by Directors on exercise of share options 1,351.9 856.2 Aggregate amount receivable under long-term incentive schemes 1,471.1 945.7 1,456.6 936.4 Aggregate value of Company contributions to defined contribution pension schemes 183.9 70.9 182.0 70.2 3,031.3 3,219.4 2,892.6 2,644.0 2017 2016 Number Number Number of Directors accruing retirement benefits defined contribution schemes 2 2 defined benefit schemes Number of Directors exercising share options 1 1 Number of Directors receiving shares as part of long-term incentive schemes 2 2 Rentokil Initial plc Annual Report 2017 122 Notes to the Financial Statements A10.
+Retirement benefit obligations Apart from the legally required social security state schemes, the Group operates a number of pension schemes around the world covering many of its employees.
+The principal pension scheme in the Group is the Rentokil Initial 2015 Pension Scheme RIPS in the UK which has a defined contribution section, and a number of defined benefit sections which are now closed to new entrants and future accrual of benefits.
+The defined benefit scheme is funded through payments to a trustee-administered fund, as determined by periodic actuarial calculations.
+A number of much smaller defined benefit and defined contribution schemes operate elsewhere which are also funded through payments to trustee-administered funds or insurance companies.
+Defined benefit schemes are reappraised annually by independent actuaries based upon actuarial assumptions.
+Significant judgement is required in determining these actuarial assumptions.
+Defined benefit pension plans A defined benefit pension plan is a plan that estimates the amount of future pension benefit that an employee will receive on retirement, usually dependent on one or more factors such as age, years of service and compensation.
+The asset or liability recognised in the balance sheet in respect of defined benefit pension plans is the fair value of plan assets less the present value of the defined benefit obligation at the balance sheet date.
+The Group determines the net interest on the net defined benefit asset for the period by applying the discount rate used to measure the defined benefit obligation at the beginning of the annual period to the net defined benefit asset.
+The defined benefit obligation is calculated annually by independent actuaries using the projected unit credit method.
+The present value of the defined benefit obligation is determined by discounting the estimated future cash outflows using interest rates of high-quality corporate bonds that have a credit rating of at least AA, are denominated in the currency in which the benefits will be paid, and that have terms to maturity approximating to the terms of the related pension liability.
+The Group will recognise a pension surplus as an asset where there is an unconditional right to a refund or where the Group has a right to reduce future pension contributions, taking into account the adverse effect of any minimum funding requirements.
+Current and past service costs, to the extent they have vested, and curtailments are recognised as charges or credits against operating profit in the income statement.
+Interest costs on the net defined benefit are recognised in finance costs.
+Remeasurement gains and losses arising from experience adjustments, return on plan assets and changes in actuarial assumptions are charged or credited to the consolidated statement of comprehensive income.
+Defined contribution pension plans A defined contribution plan is a pension plan under which the Group pays fixed contributions into a separate entity.
+The Group pays contributions to publicly or privately administered pension plans on a mandatory, contractual or voluntary basis.
+The Group has no further payment obligations once the contributions have been paid.
+The contributions are recognised as an employee benefit expense when they are due.
+Prepaid contributions are recognised as an asset to the extent that a cash refund or a reduction in the future payments is available.
+Rentokil Initial 2015 Pension Scheme RIPS The assets of the RIPS are legally separated from the Group.
+The Trustee of the pension fund is Rentokil Initial Pension Trustee Limited.
+The board comprises six company-nominated directors and three member-nominated directors.
+The Trustee is required by law to act in the best interests of the plan participants and is responsible for setting certain policies e. g. investment, contribution and indexation policies of the RIPS.
+The Group has recognised an asset in relation to the RIPS surplus as the Group has an unconditional right to reduce future pension contributions, taking into account the adverse effect of any minimum funding requirements.
+At 31 December 2017 RIPS was valued at an accounting surplus of 325.4m 2016: 272.0m on the Groups balance sheet.
+The trustees of the RIPS value the scheme on a different basis every three years.
+In their valuation at 31 December 2015 the scheme is fully funded and no contributions are currently required from the Company.
+The funding position will be formally reviewed at the next actuarial valuation, which is expected to be carried out at 31 December 2018.
+The Group has put in place a guarantee in favour of the Trustee of the RIPS which provides that the Group will make payments to the RIPS up to a maximum amount equal to the lowest non-negative amount which, when added to the assets of the RIPS, would result in the RIPS being at least 105% funded on the date on which any liability arises, calculated on the basis set out in section 179 of the Pensions Act 2004.
+This amount will vary and is in any event capped at 219m, the amount assessed at 31 March 2009.
+The provision of the guarantee is reviewed on an annual basis.
+A contingent liability exists in relation to the equalisation of Guaranteed Minimum Pension GMP.
+The UK Government intends to implement legislation which could result in an increase in the value of GMP for some categories of member.
+This would increase the defined benefit obligation of the Scheme, but at this stage, it is not possible to quantify the impact of this change.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 123 Notes to the Financial Statements The defined benefit schemes are reappraised semi-annually by independent actuaries based upon actuarial assumptions in accordance with IAS 19R requirements.
+The assumptions used for the RIPS scheme are shown below.
+2017 2016 Weighted average % Discount rate 2.5% 2.6% Future salary increases n a n a Future pension increases 3.4% 3.4% RPI inflation 3.5% 3.5% CPI inflation 2.4% 2.4% The defined benefit obligation includes benefits for current employees, former employees and current pensioners.
+Approximately 40% of the liabilities are attributable to current and former employees and 60% to current pensioners.
+There have been no significant changes to the membership of the scheme over the year.
+The scheme duration is an indicator of the weighted-average time until benefit payments are made.
+For the RIPS as a whole, the duration is around 16 years.
+Where available, the bid value of assets has been used.
+In other cases the market value as provided by the investment managers has been used.
+The RIPSs liability hedge is made up of interest rate and inflation swaps, corporate bonds, fixed gilts and LPI swaps.
+The overall objective of the hedge is to match 85% of the interest rate and inflation sensitivity of the RIPSs liabilities c. 100% of assets.
+The current portfolios return-seeking assets are diversified growth funds 7.9%.
+Diversified growth funds invest in a range of asset classes including developed market equities, emerging market equities, hedge funds, infrastructure, commodities, private equity, property, high yield credit, emerging market debt, investment grade credit, reinsurance and leveraged loans.
+The remainder of assets are matching assets and consist of 83% gilts and swaps, 9% corporate bonds and a small amount of cash.
+The actual holdings in return seeking assets are currently lower than the target portfolio.
+This is monitored on a regular basis, and there are no plans to rebalance at present.
+Risks The scheme exposes the Company to a number of risks, the most significant of which are: Asset volatility The liabilities are calculated using a discount rate set with reference to corporate bond yields: if assets underperform this yield, this will create a deficit.
+The RIPS holds a small proportion of growth assets global equities and diversified growth funds which, though expected to outperform corporate bonds in the long term, create volatility and risk in the short term.
+The allocation to growth assets is monitored to ensure it remains appropriate given the RIPSs long-term objectives.
+Changes in bond yields A decrease in corporate bond yields will increase the value placed on the RIPSs liabilities for accounting purposes, although this will be partially offset by an increase in the value of the RIPSs bond holdings.
+Inflation risk A significant proportion of the RIPSs benefit obligations are linked to inflation and higher inflation will give rise to higher liabilities although, in most cases, caps on the level of inflationary increases are in place to protect against extreme inflation.
+A significant proportion of the assets are correlated with inflation, meaning the sensitivity of the funding level to changes in inflation is reduced.
+Life expectancy The majority of the schemes obligations are to provide benefits for the life of the member, so increases in life expectancy will result in an increase in the liabilities.
+Mortality assumptions The mortality assumptions are based on the recent actual mortality experience of scheme members, and allow for expected future improvements in mortality rates.
+The mortality tables used are: 98% of the SAPS S2 All base tables for male pensioners: 107% of the SAPS S2 All base tables for female pensioners: 108% of the SAPS S2 All base tables for male and female non-pensioners: and 96% of the SAPS S2 All base tables for male and female dependent pensioners.
+Future improvements are made in line with CMI 2016 Core Projections with a long-term rate of future improvement of 1.75% p. a.
+Sensitivity of significant assumptions Impact on retirement 1 benefit obligations Increase Decrease Sensitivity m m Discount rate 1% 190.7 239.3 Inflation 1% 124.6 140.4 Mortality 1 year 63.1 63.0 1.
+A positive figure indicates an increase in assets or a decrease in liabilities.
+Rentokil Initial plc Annual Report 2017 124 Notes to the Financial Statements Pension benefits The movement in the net defined benefit obligation for all pension schemes over the accounting period is as follows: Present Fair value Present Fair value value of of plan value of of plan obligation assets Total obligation assets Total 2017 2017 2017 2016 2016 2016 m m m m m m At 1 January 1,486.2 1,728.0 241.8 1,232.0 1,444.9 212.9 1 Current service costs 0.5 0.5 0.5 0.5 1 Past service costs 0.3 0.3 0.1 0.1 1 Administration expenses 1.2 1.2 1.3 1.3 1 Interest on net defined benefit asset 36.8 43.6 6.8 45.1 53.5 8.4 Exchange difference 1.0 0.3 0.7 8.2 4.1 4.1 Total pension income 39.8 43.9 4.1 55.2 57.6 2.4 Remeasurements: Remeasurement gain on scheme assets 20.1 20.1 285.9 285.9 2 Remeasurement gain loss on obligation 26.9 26.9 264.6 264.6 Transfers: Transferred on disposal of business 1.3 1.3 Transferred on acquisition of business 0.9 0.9 Transfers to held for sale asset 4.6 3.2 1.4 Contributions: Employers 0.6 1.8 1.2 0.5 1.5 1.0 Participants 0.1 0.1 0.1 0.1 Benefit payments 82.9 78.5 4.4 60.2 58.8 1.4 Administration costs 1.2 1.2 1.3 1.3 At 31 December 1,415.3 1,715.4 300.1 1,486.2 1,728.0 241.8 3 Retirement benefit obligation schemes 50.1 24.0 26.1 52.9 22.0 30.9 4 Retirement benefit asset schemes 1,365.2 1,691.4 326.2 1,433.3 1,706.0 272.7 1 Service costs, settlement and administration expenses are charged to operating expenses, and interest cost and return on plan assets to net interest credit from pensions.
+2 The actuarial movement on the UK RIPS scheme comprises remeasurement gain arising from changes in demographic assumptions of 55.2 2016: loss 18.5m, remeasurement loss arising from changes in financial assumptions of 22.2m 2016: 238.1m and remeasurement losses arising from experience of 4.4m 2016: 2.2m loss.
+3 Benefit plans in an obligation position include plans situated in Ireland, the UK, Martinique, Trinidad, Norway, South Africa, Germany, France, Italy, Korea, Philippines, and Hong Kong.
+4 Benefit plans in an asset position include plans situated in the UK, Australia and Barbados.
+Included in the table above is a defined benefit obligation of 1,360.7m 2016: 1,431.0m and plan assets of 1,686.1m 2016: 1,703.0m in relation to the UK RIPS scheme.
+Total contributions payable to defined benefit pension schemes in 2018 are expected to be between 1m and 2m.
+The fair value of plan assets at the balance sheet date is analysed as follows: 2017 2016 m m Equity instruments 136.4 234.7 Debt instruments quoted 1,548.2 1,466.4 Debt instruments unquoted 13.0 11.4 Property 0.6 0.3 Other 17.2 15.2 Total plan assets 1,715.4 1,728.0 Where available the fair values of assets are quoted prices e. g. listed equity, sovereign debt and corporate bonds.
+In other cases the market value as provided by the fund managers has been used in accordance with IFRS 13 Fair Value Measurement: Unquoted debt instruments Level 2 Interest and inflation rate hedging instruments Level 2.
+Other significant assets are valued based on observable market inputs.
+Other assets primarily consist of cash.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 125 Notes to the Financial Statements The history for the current and prior periods for the RIPS and other schemes combined is as follows: 2017 2016 2015 2014 2013 m m m m m Present value of defined benefit plan liabilities 1,415.3 1,486.2 1,232.0 1,366.2 1,230.3 Fair value of plan assets 1,715.4 1,728.0 1,444.9 1,532.6 1,277.3 Net surplus 300.1 241.8 212.9 166.4 47.0 Experience adjustments on plan liabilities 4.4 2.2 18.1 10.4 8.0 Experience adjustments on plan assets 20.1 285.9 45.2 252.9 35.5 The cumulative actuarial gain recognised in the Consolidated Statement of Comprehensive Income was 20.7m 2016: cumulative loss 26.9m.
+Aremeasurement gain of 47.0m 2016: 21.3m gain was recognised during the year.
+Share-based payments Share-based compensation The Group operates one equity-settled share-based long-term incentive plan.
+The economic cost of awarding shares and share options to employees is recognised as an expense in the income statement, equivalent to the fair value of the benefit awarded.
+The fair value is determined by reference to option pricing models, principally Monte Carlo and adjusted Black-Scholes models.
+The charge is recognised in the income statement over the vesting period of the award.
+At each balance sheet date, the Group revises its estimate of the number of shares that vest or options that are expected to become exercisable.
+Any revision to the original estimate is reflected in the income statement with a corresponding adjustment to equity immediately to the extent it relates to past service, and the remainder over the rest of the vesting period.
+Performance Share Plan The Company introduced a share-based performance plan in 2006 for senior executives worldwide.
+The main features of the scheme are as follows: For awards made in 2008, the performance conditions are share price performance and an individual performance modifier.
+For awards made in 2012 and 2013, the performance conditions are total shareholder return TSR performance and an individual performance modifier.
+No shares will vest or options become exercisable if the share price does not reach median TSR performance at the end of the three year performance period relative to the constituents of a comparator group, made up of FTSE 350 companies excluding financial services, primary resource and property sector companies.
+If TSR performance is above the upper quartile and all participants attain their maximum bonus target over the performance period, the full award will vest or become exercisable.
+For awards made between 2014 and 2017, one-third of the award is based on earnings per share EPS growth targets as outlined in the relevant years Remuneration Report, and two-thirds of the award is based on TSR over the three-year performance period as explained above.
+The value of dividends paid during the vesting period are paid on the number of shares that ultimately vest, in the form of additional shares.
+The total net charge for the year relating to equity-settled share-based payment plans was 4.4m 2016: 5.5m.
+A summary of the number of shares in active share option plans is shown below: Share options outstanding Share options exercisable Scheme Shares Shares Shares Shares Shares Shares Shares Shares interest at awarded lapsed vested Outstanding at exercisable vested exercised lapsed exercisable at 1 January during during during 31 December at 1 January during during during 31 December Year of grant Vesting year 2017 2017 2017 2017 2017 2017 2017 2017 2017 2017 2008 2011 46,689 3,151 43,538 2012 2015 593,551 211,791 381,760 2013 2016 31,952 31,952 3,475,701 31,952 1,259,782 2,247,871 2014 2017 7,257,452 434,819 697,116 6,995,155 6,995,155 4,193,475 2,801,680 2015 2018 7,524,252 143,636 7,380,616 2016 2019 7,683,656 373,615 7,310,041 2017 2020 5,625,934 103,579 5,522,355 The fair value of the 2017 awards made under the 2006 Performance Share Plan is charged to the income statement over the vesting period based on values derived from a model developed by Deloitte LLP.
+This is a closed-form solution similar to a Monte Carlo simulation which takes account of the correlation between share price performance and the likelihood of a TSR performance condition being met.
+For the shares awarded in March 2017, the significant inputs into the model were a share price of 246.4p 2016: 159.4p, an expected share price volatility of 18.1% 2016: 19%, a median share price correlation between the companies in the comparator group of 31.2% 2016: 24%, and an expected life commensurate with the three-year performance vesting period.
+The share price volatility assumption is based on analysis of historical daily share prices.
+As the awards are nil-cost i. e. there is no exercise price, the assumed risk-free rate of return has minimal impact on the fair value of the awards.
+Similarly, as dividend equivalents are paid on the vesting portion of awards, the fair value of these awards is not reduced to reflect dividends paid during the vesting period.
+The fair value of shares granted during 2017 was 9.8m 2016: 9.4m.
+Rentokil Initial plc Annual Report 2017 126 Notes to the Financial Statements A12.
+Operating leases Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases net of any incentives received from the lessor are charged to the income statement on a straight-line basis over the period of the lease.
+The Group leases properties, vehicles, and plant and equipment under non-cancellable operating lease agreements.
+The leases have varying terms, escalation clauses and renewal rights.
+Lease expenditure charged to the income statement during the year is 74.7m 2016: 68.7m.
+The future aggregate minimum lease payments under non-cancellable operating leases are as follows: 2017 2016 m m Not later than one year 50.3 50.8 Later than one year and not later than five years 89.1 99.0 Later than five years 10.3 9.6 149.7 159.4 A13.
+Income tax expense Income tax expense for the period includes both current and deferred tax.
+Current tax expense represents the amount payable on this years taxable profits and any adjustment relating to prior years.
+Deferred tax is an accounting adjustment to provide for tax that is expected to arise in the future due to differences between accounting and tax bases.
+Tax is recognised in the income statement, except to the extent that it relates to items recognised in other comprehensive income.
+In this case the tax is also recognised in other comprehensive income.
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the balance sheet date, in the countries where the Companys subsidiaries and associates operate and generate taxable income.
+Analysis of charge in the year: 2017 2016 m m UK corporation tax at 19.25% 2016: 20% 6.4 2.9 Overseas taxation 35.2 30.2 Adjustment in respect of previous periods 2.4 7.8 Total current tax 44.0 40.9 Deferred tax credit charge 7.0 1.3 Deferred tax adjustment in respect of previous periods 6.4 1.5 Total deferred tax 13.4 0.2 Total income tax expense 30.6 40.7 The tax on the Groups profit before tax differs from the theoretical amount that would arise using the weighted average tax rate applicable to profits of the consolidated companies as follows: 2017 2016 m m Profit before income tax 713.6 208.5 Tax calculated at domestic tax rates applicable to profits in the respective countries 140.8 46.9 Adjustment in respect of previous periods 4.0 6.3 Deferred tax recognised on losses 0.4 2.3 Expenses not deductible for tax purposes restructuring costs and one-off items 1.8 Expenses not deductible for tax purposes interest payable 1.0 1.1 Expenses not deductible for tax purposes other 2.9 3.0 Goodwill deduction 0.4 Income not subject to tax 1.8 2.0 Overseas financing deductions 5.0 4.2 Utilisation of previously unrecognised tax losses 0.7 12.2 Losses not relieved 3.6 0.8 Deferred tax impact of change in tax rates 0.2 4.3 Provisions utilised for which no deferred tax assets were recognised 2.1 0.6 Overseas withholding tax suffered 0.2 0.3 Deferred tax on unremitted earnings 1.6 Tax on overseas dividends 0.3 1.0 Local business taxes 2.2 2.3 Disposal gain not subject to tax 98.0 US tax reform impact 6.4 Total tax expense 30.6 40.7 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 127 Notes to the Financial Statements The Groups Effective Tax Rate ETR before the one-off impact of the US tax reforms, amortisation and impairment of intangible assets excluding computer software, disposals and one-off items, and the net interest credit from pensions for 2017 was 22.0% 2016: 22.3%.
+This compares with a blended rate of tax for the countries in which the Group operates of 24% 2016: 25%.
+The lower ETR compared to the blended tax rate is principally due to the benefit derived from financing overseas operations and a net prior year over-provision for tax.
+The Groups ETR is expected to remain above the UK tax rate due to the proportion of overseas profits which are taxed at a higher rate than UK profits.
+We expect our ETR for 2018 to be similar to 2017.
+We are not currently expecting any material change over the medium term.
+The Groups tax charge and ETR will be influenced by the global mix and level of profits, changes in future tax rates and other tax legislation, the utilisation of brought forward tax losses on which no deferred tax asset has been recognised, the resolution of open issues with various tax authorities, the ability to benefit from existing financing arrangements, acquisitions, and disposals.
+In the longer term the Groups ETR is likely to be similar to the blended tax rate once there is no further benefit from tax losses on which no deferred tax asset is currently recognised as their recoverability is not considered probable, but may become probable in the future.
+The blended tax rate is expected to reduce to 23% in 2018 as a result of the US and other tax rate reductions.
+The US tax reforms enacted at the end of 2017 are not expected to have any material impact on the Groups ETR over the medium term which is expected to be maintained at about the current rate.
+The US tax cuts did, however, result in a net reduction of the Groups deferred tax liability of 6.4m, which is considered a one-off benefit.
+Current tax liabilities The Group is subject to income taxes in numerous jurisdictions.
+The Group is subject to various uncertainties relating to the determination of its tax liabilities where the ultimate tax liability cannot be known until a resolution has been reached with the relevant tax authority, or the issue becomes time barred.
+Issues can take many years to resolve and therefore assumptions on the likely outcome have to be made by management.
+Where considered appropriate, management establishes provisions for uncertain tax positions on the basis of amounts expected to be paid to the tax authorities.
+The Groups current tax liabilities reflect managements best estimate of the future amounts of corporation tax that will be settled.
+Total tax provisions and accruals amounted to 59.9m as at 31 December 2017 2016: 62.9m.
+The decrease in the tax provision is mainly due to the settlement of certain tax liabilities during the year.
+Tax accruals can be built up over a number of years but in the year of resolution there could be adjustments to these accruals which could have a material positive or negative impact on the tax charge for a particular year.
+The settlement of a significant issue could also have a material impact on the amount of cash tax payable in any one year.
+Significant judgement is required in determining the worldwide provision for income taxes particularly in relation to the pricing of intra-group goods and services as well as debt financing.
+The majority of the tax provisions relate to transfer pricing exposures where the Group faces a number of risks in jurisdictions around the world, and is subject to audits by tax authorities in the territories in which it operates.
+Apart from transfer pricing issues the largest single provision relates to a financing structure where the amount provided is now 17.2m.
+This is a legacy issue going back to the years 2002 to 2005.
+The Group is fully provided for the potential tax and interest payable so there is not expected to be an adverse impact on the income statement.
+It is unclear when this issue will be resolved.
+In October 2017 the EU announced that it was beginning a state aid investigation into the group finance exemption in the UKs controlled foreign company rules.
+There is a risk that the exemption may be declared unlawful state aid.
+The Group has relied upon the finance company exemption and therefore there is a risk that the benefits may be clawed back, together with interest.
+At this stage the outcome of the investigation is considered sufficiently uncertain that no provision for any liability has been made.
+Deferred income tax Deferred income tax is provided on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+The following temporary differences are not provided for: the initial recognition of goodwill: the initial recognition of assets or liabilities in transactions other than a business combination that at the time of the transactions affect neither the accounting nor taxable profit or loss: and, differences relating to investments in subsidiaries to the extent that they will probably not reverse in the foreseeable future.
+The amount of deferred income tax is determined using tax rates and laws that have been enacted or substantively enacted at the balance sheet date, and are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+Reductions in the UK corporation tax rate from 20% to 19% effective from 1 April 2017 and 17% effective from 1 April 2020 are enacted in UK law at the balance sheet date.
+The UK deferred tax liability at 31 December 2017 has been calculated based on the corporation tax rate that is expected to apply when the liability is settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+In recognising the deferred tax asset in respect of UK losses, management have estimated the quantum of future UK taxable profits over the next three years.
+Rentokil Initial plc Annual Report 2017 128 Notes to the Financial Statements The movement on the deferred income tax account is as follows: 2017 2016 m m At 1 January 110.8 110.8 Exchange differences 1.5 16.6 Acquisition of companies and businesses 5.1 6.5 Net impact of disposals 0.7 Credited to the income statement 13.4 0.2 Charged credited to equity 5.6 4.1 Disposal group held for sale 18.8 At 31 December 105.9 110.8 Deferred taxation has been presented on the balance sheet as follows: Deferred tax asset within non-current assets 3.4 2.0 Deferred tax liability within non-current liabilities 109.3 112.8 105.9 110.8 The major components of deferred tax assets and liabilities at the year end without taking into consideration the offsetting of balances within the same tax jurisdiction are as follows: Unremitted Customer Accelerated earnings lists tax Retirement from Tax Share-based intangibles depreciation benefits subsidiaries losses payments Other Total m m m m m m m m At 1 January 2017 62.9 51.5 39.3 5.0 28.1 2.3 17.5 110.8 Exchange differences 4.1 0.4 0.2 0.6 1.4 1.5 Recognised in income statement 4.7 9.6 0.2 1.6 3.5 0.8 6.6 13.4 Recognised in other comprehensive income 8.3 0.3 2.4 5.6 Acquired in business combinations 6.7 0.2 1.8 5.1 Impact of disposals 0.7 0.7 At 31 December 2017 60.8 42.5 48.0 3.4 31.0 3.4 14.4 105.9 A deferred tax asset of 12.3m 2016: 22.2m has been recognised in respect of UK losses carried forward at 31 December 2017.
+This amount has been calculated by estimating the future UK taxable profits, against which the UK tax losses will be utilised, and applying the tax rates substantively enacted as at the balance sheet date applicable for each year.
+Remaining UK tax losses of 136.0m have not been recognised as at 31 December 2017.
+The reduction in the deferred tax asset recognised on the UK tax losses is due to the fact that from 1 April 2017 only 50% of current year profits in excess of 5.0m may be offset by brought forward tax losses.
+At the balance sheet date the Group has tax losses of 206.0m 2016: 229.6m on which no deferred tax asset is recognised.
+Of the losses 23.2m 2016: 36.1m will expire at various dates between 2018 and 2037.
+In addition, there are capital losses carried forward of 276.9m 2016: 277.1m on which no deferred tax asset is recognised.
+Other deferred tax assets relating to gross temporary timing differences of 6.7m 2016: 9.0m have not been recognised due to the uncertainty regarding their utilisation.
+Deferred tax assets and liabilities are only offset where there is a legally enforceable right of offset and there is an intention to settle the balances net.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 129 Notes to the Financial Statements B: Investing B1.
+Business combinations All business combinations are accounted for using the purchase method acquisition accounting in accordance with IFRS 3 Business Combinations.
+The cost of a business combination is the aggregate of the fair values, at the date of exchange, of assets given, liabilities incurred or assumed and equity instruments issued by the acquirer.
+The cost of a business combination is allocated at the acquisition date by recognising the acquirees identifiable assets, liabilities and contingent liabilities that satisfy the recognition criteria at their fair values.
+The acquisition date is the date on which the acquirer effectively obtains control of the acquiree.
+An intangible asset is recognised if it meets the definition of an intangible asset under IAS 38 Intangible Assets.
+The intangible assets arising on acquisition are goodwill, customer lists and relationships, and brands.
+Goodwill represents the synergies, workforce and other benefits expected as a result of combining the respective businesses.
+Customer lists and relationships and brands are recognised at their fair value at the date of acquisition using an income-based approach, which involves the use of assumptions including customer termination, profit margins and discount rates.
+The use of these assumptions requires estimation in the valuation approach.
+Deferred and contingent consideration is accounted for at fair value at the acquisition date with subsequent changes to the fair value of contingent consideration being recognised in the income statement.
+Costs directly attributable to business combinations are charged to the income statement as incurred and presented as one-off items.
+During the year the Group purchased 100% of the share capital or trade and assets of 40 companies and businesses, and 57% of the share capital of RentokilPCI.
+The total consideration in respect of these acquisitions was 356.5m and the cash outflow from current and past period acquisitions, net of cash acquired, was 281.1m.
+An overview of the acquisitions in the year can be found in the Financial Review on page 104.
+The acquisition of RentokilPCI includes put options whereby the non-controlling interest can require the Group to purchase the remaining 43% of shares in stages over a fixed term between five and ten years from the date of acquisition.
+The Group also holds a call option to acquire the shares from the non-controlling interest at the end of this fixed term which has not been recognised as it has a fair value of nil.
+The Group has elected not to recognise a non-controlling interest on the acquisition of RentokilPCI.
+Under this accounting policy, put and call options are accounted for as an anticipated acquisition of the underlying non-controlling interest.
+The Group refers to this treatment as the Anticipated Acquisition Method.
+The Group recognised a put option liability of 42.4m for the anticipated acquisition of the shares.
+The Group has also made an accounting policy choice to recognise movements in the carrying value of the options through equity.
+Details of goodwill and the fair value of net assets acquired are as follows: 2017 2016 m m Purchase consideration: Cash paid 269.9 82.9 Deferred and contingent consideration 86.6 24.2 Total purchase consideration 356.5 107.1 Fair value of net assets acquired 68.2 60.0 Goodwill from current year acquisitions 288.3 47.1 Deferred consideration of 15.6m and contingent consideration of 71.0m 42.4m relates to RentokilPCI put options is payable in respect of the above acquisitions.
+Contingent consideration is payable based on a variety of conditions including revenue and profit targets being met.
+Both deferred and contingent consideration are payable over the next four years.
+The Group incurred acquisition-related costs of 5.7m.
+The Group has recognised the contingent and deferred consideration based on the fair value of the consideration at the acquisition date.
+1 The provisional fair values of assets and liabilities arising from acquisitions in the year are as follows: 2017 2016 m m Non-current assets 2 Intangible assets 46.2 46.2 Property, plant and equipment 18.5 4.0 3 51.6 39.7 Current assets Current liabilities 38.1 23.3 4 Non-current liabilities 10.0 6.6 Net assets acquired 68.2 60.0 1 The provisional fair values will be finalised in the 2018 financial statements.
+The fair values are provisional since the acquisition accounting has not yet been finalised as a result of the proximity of many acquisitions to the year end.
+2 Includes 39.1m 2016: 38.3m of customer lists and relationships and 7.1m 2016: 7.9m of other intangibles.
+3 Includes trade and other receivables of 36.4m 2016: 24.1m which represents the gross and fair value of the assets acquired.
+4 Includes 5.1m of deferred tax relating to acquired intangibles 2016: 6.4m.
+Rentokil Initial plc Annual Report 2017 130 Notes to the Financial Statements The cash outflow from current and past acquisitions is as follows: 2017 2016 m m Total purchase consideration 356.5 107.1 Consideration payable in future periods 86.6 24.2 Purchase consideration paid in cash 269.9 82.9 Cash and cash equivalents in acquired companies and businesses 8.1 2.2 Cash outflow on current period acquisitions 261.8 80.7 Deferred consideration paid 19.3 28.5 Cash outflow on current and past acquisitions 281.1 109.2 From the dates of acquisition to 31 December 2017, these acquisitions contributed 135.6m to revenue and 19.1m to operating profit.
+If the acquisitions had occurred on 1 January 2017 the revenue and operating profit of the Group would have amounted to 2,493.9m and 298.5m respectively.
+Business disposals On 30 June 2017 the Group sold its Workwear and Hygiene operations in 10 countries, principally in the Benelux region and Central and Eastern Europe, to a joint venture with the CWS-boco businesses of Franz Haniel & Cie. GmbH Haniel.
+The disposal group was recognised as held for sale at 31 December 2016.
+In addition to cash consideration, the Group received a 17.8% share in the combined business: CWS-boco International GmbH.
+This is recognised as an investment in associate at 31 December 2017.
+The value of the investment in associate is based on the valuation of the combined businesses.
+The Group anticipates maintaining its stake in the joint venture for a minimum period of three years, after which the Company has various exit options under the agreement to optimise further value for shareholders.
+In relation to its investment in the combined business, the Group will receive an annual dividend of 19m for five years.
+The Group has made an accounting policy choice to recognise a full disposal of the businesses to Haniel under IFRS 10, rather than accounting for this as a partial disposal under IAS 28.
+Under this approach the full gain is recognised on the loss of control of the subsidiaries, and an element of the continuing interest in the assets and liabilities has not been eliminated in calculating the gain on disposal.
+The fair value of the retained investment in CWS-boco International GmbH is the deemed cost for the purposes of subsequent accounting.
+On 30 September 2017 the Group sold eight textile laundries in France to Rgie Linge Dveloppement RLD for a cash consideration of 32.4m.
+Details of net assets disposed and disposal proceeds in the year relating to this disposal are as follows: Europe Workwear France textile and Hygiene laundries Total 2017 2017 2017 m m m Non-current assets Intangible assets 39.4 39.4 Property, plant and equipment 201.2 63.5 264.7 Current assets Inventories 2.0 1.4 3.4 Trade and other receivables 52.6 2.2 54.8 Cash 17.4 17.4 Current liabilities Trade and other payables 43.1 2.7 45.8 Non-current liabilities Other long-term liabilities 6.0 5.0 11.0 Deferred and current tax 16.2 1.2 17.4 Net assets and liabilities disposed 247.3 58.2 305.5 Consideration 449.9 28.4 478.3 Share of investment in associate 254.0 254.0 Total consideration 703.9 28.4 732.3 Cumulative exchange recycled from translation reserve 42.8 3.7 46.5 Costs related to disposal 18.2 6.1 24.3 Net gain loss on disposal 481.2 32.2 449.0 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 131 Notes to the Financial Statements B3.
+Intangible assets Intangible assets are stated at cost less accumulated amortisation and accumulated impairment losses, where applicable.
+A breakdown of intangible assets is as shown below: Customer lists and Product Computer 2017 2016 Goodwill relationships Brands development software Total Total m m m m m m m Cost At 1 January 766.3 591.2 60.1 18.2 91.0 1,526.8 1,306.8 Exchange differences 58.1 23.9 4.1 0.6 86.7 239.8 Additions 4.7 14.4 19.1 21.0 Disposals retirements 4.1 4.1 7.8 Acquisition of companies and businesses 297.4 39.9 7.0 0.1 344.4 97.6 Disposal of companies and businesses 0.8 3.0 4.2 8.0 Transferred to disposal group held-for-sale 130.6 At 31 December 1,004.8 604.2 63.0 22.9 96.6 1,791.5 1,526.8 Accumulated amortisation and impairment At 1 January 30.3 403.4 31.2 6.0 56.3 527.2 488.5 Exchange differences 0.3 12.8 1.8 14.3 83.2 Disposals retirements 3.4 3.4 6.4 Disposal of companies and businesses 2.9 2.3 5.2 0.1 Impairment charge 2.0 0.2 2.2 Amortisation charge 43.5 4.6 3.7 13.0 64.8 55.9 Transferred to disposal group held-for-sale 93.9 At 31 December 32.6 431.2 34.0 9.7 63.8 571.3 527.2 Net book value At 1 January 736.0 187.8 28.9 12.2 34.7 999.6 818.3 At 31 December 972.2 173.0 29.0 13.2 32.8 1,220.2 999.6 The main categories of intangible assets are as follows: Intangible assets finite useful lives Intangible assets with finite useful lives are initially measured at either cost or fair value and amortised on a straight-line basis over their useful economic lives, which are reviewed on an annual basis.
+The fair value attributable to intangible assets acquired through a business combination is determined by discounting the expected future cash flows to be generated from that asset at the risk adjusted weighted average cost of capital for the Group.
+The residual values of intangible assets are assumed to be nil.
+The estimated useful economic lives of intangible assets are as follows: Customer lists and relationships: 3 to 16 years Brands: 2 to 15 years Product development up to 5 years Computer software: 3 to 5 years The following are the main categories of intangible assets with finite useful lives: a Customer lists and relationships Customer lists and relationships are acquired as part of business combinations.
+No value is attributed to internally generated customer lists or relationships.
+b Brands Brands are acquired as part of business combinations.
+No value is attributed to internally generated brands as expenditure incurred to develop, maintain and renew brands internally is recognised as an expense in the period incurred.
+c Product development Costs incurred in the design and testing of new or improved products are recognised as intangible assets only if the cost can be measured reliably, and it is probable that the project will be a success considering its commercial and technological feasibility.
+Capitalised product development expenditure is measured at cost less accumulated amortisation.
+Other development expenditure and all research expenditure is recognised as an expense as incurred.
+Development costs recognised as an expense are never reclassified as an asset in a subsequent period.
+Development costs that have been capitalised are amortised from the date the product is made available.
+d Computer software Costs that are directly associated with the production of identifiable and unique software products that are controlled by the Group including employee costs and external software development costs are recognised as intangible assets if they are expected to generate economic benefits beyond one year, in excess of their cost.
+Purchased computer software is initially recognised based on the costs incurred to acquire and bring it into use.
+Costs associated with maintaining computer software are recognised as an expense in the period in which they are incurred.
+Rentokil Initial plc Annual Report 2017 132 Notes to the Financial Statements Intangible assets indefinite useful lives Goodwill 2017 2016 m m France 9.5 9.0 Benelux 4.5 4.3 Germany 7.0 6.3 Southern Europe 22.6 21.0 Latin America 17.9 17.8 Europe 61.5 58.4 UK & Ireland 28.9 17.8 Rest of World 20.0 17.0 UK & Rest of World 48.9 34.8 Asia 122.4 36.2 1 North America 676.2 549.4 Pacific 63.2 57.2 Total 972.2 736.0 1.
+Includes 590.1m 2016: 514.0m relating to the US Pest Control CGU.
+Goodwill represents the excess of the cost of an acquisition over the fair value of the Groups share of the net identifiable assets of the acquired business at the date of acquisition.
+It is recognised as an intangible asset.
+Goodwill arising on the acquisition of an associate is included in investments in associates.
+Impairment tests for goodwill Goodwill is tested annually for impairment and carried at cost less accumulated impairment losses.
+For the purpose of impairment testing, goodwill is allocated to cash-generating units CGUs identified according to country of operation and reportable business unit.
+Gains and losses on the disposal of an entity include the carrying amount of goodwill relating to the entity sold.
+The recoverable amount of a CGU is determined based on the higher of value-in-use calculations using cash flow projections and fair value less costs to sell if appropriate.
+The cash flow projections are based on financial budgets approved by management, which are prepared as part of the Groups normal planning process.
+Cash flows for years two to five use managements expectation of sales growth, operating costs and margin, based on past experience and expectations regarding future performance and profitability for each CGU.
+Cash flows beyond the five-year period are extrapolated using estimated long-term growth rates.
+It can be demonstrated that there is material headroom in the recoverable amount of the CGU goodwill balances based on the assumptions made, and there is not considered to be any reasonably possible scenario under which material impairment could be expected to occur based on the testing performed.
+Key assumptions used by the US Pest Control CGU were a long-term growth rate of 2% 2016: 2% and a post-tax discount rate of 8% 2016: 13%.
+The negative growth rate in the North America region is due to the Puerto Rico business.
+The equivalent pre-tax discount rates range from 8.4% to 19.7% across the Group 2016: 10.2% to 15.9%.
+The growth rates used by individual CGUs are based on the long-term growth rates predicted for the relevant sector and country in which a business operates.
+They do not exceed the long-term average growth rate for that industry or country.
+The pre-tax discount rates are based on the Groups weighted average cost of capital adjusted for specific risks relating to the relevant sector and country.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 133 Notes to the Financial Statements B4.
+Property, plant and equipment Property, plant and equipment is stated at historical cost less depreciation with the exception of freehold land and assets under construction which are not depreciated.
+Historical cost includes expenditure that is directly attributable to the acquisition of the items.
+A breakdown of property, plant and equipment is shown below: Service Other plant Vehicles Land and contract and and office 2017 2016 buildings equipment equipment equipment Total Total m m m m m m Cost At 1 January 96.4 423.9 193.2 225.7 939.2 1,203.8 Exchange differences 3.1 13.0 6.4 9.8 12.7 222.4 Additions 3.8 135.8 17.0 36.1 192.7 201.8 Disposals 2.6 78.5 7.2 30.7 119.0 171.0 Acquisition of companies and businesses 2.3 4.6 2.5 8.8 18.2 12.6 Disposal of companies and businesses 24.0 79.1 54.9 5.2 163.2 Transferred to disposal group held-for-sale 530.4 At 31 December 79.0 419.7 157.0 224.9 880.6 939.2 Accumulated depreciation and impairment At 1 January 26.8 219.4 141.9 134.8 522.9 726.7 Exchange differences 1.0 7.5 4.9 5.0 8.4 140.7 Disposals 1.4 76.4 6.9 28.6 113.3 165.4 Disposal of companies and businesses 5.8 15.0 38.4 2.3 61.5 Depreciation charge 3.3 86.9 11.9 31.8 133.9 188.3 Transferred to disposal group held-for-sale 367.4 At 31 December 23.9 222.4 113.4 130.7 490.4 522.9 Net book value At 1 January 69.6 204.5 51.3 90.9 416.3 477.1 At 31 December 55.1 197.3 43.6 94.2 390.2 416.3 Depreciation of assets is calculated using the straight-line method to allocate the difference between their cost and their residual values over their estimated useful lives, as follows: Freehold buildings 50 to 100 years Leasehold buildings shorter of the lease term or estimated useful life Vehicles 4 to 5 years Plant and equipment including service contract equipment 3 to 10 years Office equipment, furniture and fittings 3 to 10 years Residual values and useful lives of assets are reviewed annually and amended as necessary.
+Fixed assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the fixed asset may exceed its recoverable amount.
+There were no impairments in the year.
+When assets are sold, the gain or loss between sale proceeds and net book value is recognised in the income statement.
+The category of service contract equipment represents the pool of assets used by the Group in delivering contracted services to customers.
+Land and buildings comprise mainly factories and offices.
+Finance leases Leases of property, plant and equipment where the Group has substantially all the risks and rewards of ownership are classified as finance leases.
+Finance leases are capitalised at the leases inception at the lower of the fair value of the leased property and the present value of the minimum lease payments.
+Each lease payment is allocated between the liability and finance charges so as to achieve a constant rate on the finance balance outstanding.
+The corresponding rental obligations, net of finance charges, are included in other payables.
+The interest element of the finance cost is charged to the income statement over the lease period so as to produce a constant periodic rate of interest on the remaining balance of the liability for each period.
+Property, plant and equipment acquired under finance leases are depreciated over the shorter of the useful life of the asset or the lease term.
+The net carrying amounts of assets held under finance leases are as follows: 2017 2016 m m Vehicles and office equipment 36.0 38.3 Other plant and equipment 0.4 Total 36.0 38.7 Rentokil Initial plc Annual Report 2017 134 Notes to the Financial Statements B5.
+Capital commitments Capital expenditure contracted for at the balance sheet date but not yet incurred is as follows: 2017 2016 m m Property, plant and equipment 10.7 17.0 Intangible assets 0.6 0.8 11.3 17.8 B6.
+Investments in associated undertakings 2017 2016 m m Interest in CWS-boco International GmbH 258.5 Interest in Nippon Calmic Ltd 20.2 17.8 At 31 December 278.7 17.8 CWS-boco International GmbH CWS-boco International GmbH is an associated undertaking in which the Group has a 17.8% ownership interest.
+The classification as an associated undertaking has been determined based on quantitative and qualitative factors which indicate that significant influence is held by the Group.
+This includes board representation, participation in policy making, interchange of managerial personnel and the provision of technical information.
+CWS-boco became a part of the Group on 30 June 2017 as a result of the sale of the Groups Workwear and Hygiene operations in 10 European countries to form a joint arrangement with Haniel see Note B2.
+The associated undertaking is unlisted and the investment value is shown below: 2017 2016 m m At 1 January Acquisition 254.0 Exchange differences 3.2 1 Share of profit 1.3 Dividends received At 31 December 258.5 1.
+Share of profit is net of tax of 0.6m Assets Liabilities Revenue Profit Assets Liabilities Revenue Profit 2017 2017 2017 2017 2016 2016 2016 2016 m m m m m m m m CWS-boco International GmbH 17.8% 277.9 166.9 88.7 1.3 Nippon Calmic Ltd Nippon Calmic Ltd Japan is an associated undertaking in which the Group has a 49% interest.
+The associate is unlisted and the investment value is shown below.
+Share of profit is net of tax of 3.8m 2016: 3.4m.
+Assets Liabilities Revenue Profit Assets Liabilities Revenue Profit 2017 2017 2017 2017 2016 2016 2016 2016 m m m m m m m m Nippon Calmic Ltd Japan 33.6 12.4 46.6 7.0 31.4 12.8 43.5 6.2 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 135 Notes to the Financial Statements C. Financing C1.
+Financial risk management The Group operates a central treasury function which manages cash, borrows on behalf of the Group, and provides finance to Group companies in their local currencies.
+Treasury activity is governed by a Treasury Committee, which is chaired by the Chief Financial Officer.
+The main financial risks faced by the Group are set out below.
+a Liquidity risk The Group is committed to ensuring it has sufficient liquidity to meet its business needs, and appropriate reserves to cover operational underperformance or dislocation in the financial markets.
+The Groups policy is to have headroom of unrestricted cash and available committed facilities of at least 150m, and the Treasury Committee manages financing requirements and associated headroom at least 12 months forward.
+The Group has a revolving credit facility RCF with 12 relationship banks and a number of bilateral committed credit facilities see Note C6 for details.
+All of these facilities contain covenants that require EBITDA: Net Interest to be at least 4.0:1.0 and that Net Debt: Adjusted EBITDA should be no greater than 3.5:1.0.
+Compliance with financial and other covenants is reviewed regularly and financial covenants are reported to the lenders semiannually in line with the requirements under the facilities.
+The Group remains compliant with its covenants.
+The Group targets a Standard & Poors S&P investment grade credit rating for debt issuance of BBB over the medium term.
+In line with S&P liquidity ratio requirements, debt maturities are financed at least 12 months in advance using available cash or committed facilities, or by issuance of new debt.
+Management maintains an active dialogue with S&P, as well as the Groups relationship banks, to ensure that any changes to the Groups financing and acquisition strategies are understood.
+At 31 December 2017 the Groups earliest maturity was the 50m bond due in March 2018.
+The Group has no other maturities falling due in 2018 following the refinancing of the Term Loan which had a final maturity date of 31 December 2018 in November 2017, with a new 400m bond.
+The Group had unrestricted cash of 267.3m and 378.0m of available commitments under its credit facilities, giving combined headroom of 645.3m to meet this obligation 2016: 275.9m of combined headroom.
+All of the Groups bonds issued under its Euro Medium-Term Note EMTN Programme, contain a coupon step-up which increases the coupon payable by 1.25% in the event that the Group is downgraded to BB or below sub-investment grade.
+The Groups EMTNs may be recalled by their investors at par in the event of a change of control of the Group.
+They may also be recalled within 120 days if the Groups debt is downgraded below investment grade, or if the rating is withdrawn and the rating agency confirms in writing, either publicly or to the Group or the Trustee, that the rating action occurred either wholly or in part due to a change of control.
+b Credit risk The Group has no significant concentration of credit risk.
+Sales are typically low-value, high-volume, spreading the risk across a large number of customers and geographies.
+Policies are in place to ensure that credit sales are only made to customers with an appropriate credit history.
+The Group operates in some territories where there is increased exposure to trade credit risks and in those territories the Group puts in place appropriate measures to manage its credit risk exposure.
+In order to protect the liquid assets and funding relationships of the Group, management aims to maintain banking relationships with counterparties that carry a long-term credit rating of at least A-.
+In countries where no banks are rated Aor above, balances are monitored monthly and kept to a minimum.
+In addition, funds held with all counterparties are subject to limits.
+All exposures are monitored daily and reported to the Treasury Committee each month.
+The Group also monitors the credit worthiness of its lenders to ensure available commitments under its facilities are available as needed.
+At 31 December 2017 the Group had a total of 12.5m of cash held on bank accounts with banks rated below Aby S&P.
+The highest concentration with any single bank rated BBB or below, was 1.8m.
+c Market risk Foreign exchange risk The Groups worldwide operations generate profits and cash flows in foreign currencies.
+Sales and purchases are typically denominated in the currency of the country in which they are transacted, and the Groups cross-border procurement is considered insignificant.
+Sterling procurement and central costs mean that foreign currencies constitute more than 100% of Group adjusted operating profit at approximately 110%.
+The Groups primary exposure to foreign exchange risk is in relation to the translation of assets and liabilities, and the Group aims to hold debt in currencies in proportion to its forecast foreign currency profits and investments.
+FX derivatives are used to manage foreign currency exposures in excess of 0.5m that are not covered by debt or assets in the same or another highly correlated currency.
+The Treasury Committee monitors foreign exchange exposures on a monthly basis.
+Dealing in foreign exchange products is controlled by dealing mandates approved by the Treasury Committee and all FX transactions are covered by ISDA documentation.
+The most significant foreign currency groups are euros and US dollars, which make up 48.5% and 30.7% of Group adjusted operating profit respectively.
+At 31 December 2017 the Groups net debt was approximately 66% euro 2016: 57%, reflecting that it is the Groups principal cash flow exposure: and 54% US dollars 2016: 48%, reflecting the size of the US market and the Groups strong growth and investment in this region.
+This is offset by 20% of cash held in other currencies.
+The translation of the interest element of euro and US dollar debt provides a partial income statement offset to the translation of earnings.
+The Group calculates the impact on the income statement and other comprehensive income of a 10% movement in foreign exchange rates.
+The Groups principal foreign currency exposure is the euro.
+A 10% movement in would result in a 13.9m increase decrease 2016: 14.0m in adjusted operating profit, offset by a 2.1m decrease increase 2016: 2.1m in interest payable.
+For US dollars, a 10% movement in $ would result in a 8.8m increase decrease 2016: 7.2m in adjusted operating profit, offset by a 1.8m decrease increase 2016: 0.8m in interest payable.
+Where possible, currency cash flows are used to settle liabilities in the same currency in preference to selling currency in the market.
+Rentokil Initial plc Annual Report 2017 136 Notes to the Financial Statements Interest rate risk The Group seeks to manage interest rate risk to ensure reasonable certainty of its interest charge while allowing an element of risk exposure consistent with the variability of its cash flows.
+Interest rate risk is managed by the use of fixed interest debt and interest rate derivatives, which are approved in advance by the Treasury Committee.
+The Group policy is to fix a minimum of 50% of its estimated future interest rate exposures excluding pensions for a minimum period of 12 months forward.
+The Treasury Committee reviews this exposure monthly.
+A hypothetical 1.0% increase in euro interest rates would reduce the market value of the Groups bond liabilities by 53.2m at 31 December 2017 2016: 36.2m.
+The income statement impact is nil as changes in interest rates do not change the expected cash flows on the bonds.
+The Group had outstanding bond debt issues at 31 December 2017 with a market value of 1,206.8m 2016: 845.1m.
+This exceeds the book value of 1,143.2m 2016: 763.0m as a result of reductions in interest rates in Europe.
+There are no circumstances where the Group would be obliged to pay the fair market value.
+The Group could however decide to redeem some or all of its bonds early and the fair market value is indicative of the price that would be required to do so.
+d Capital risk The Group is committed to maintaining a debt equity structure that allows continued access to a broad range of financing sources and sufficient flexibility to pursue commercial opportunities as they present themselves, without onerous financing terms and conditions.
+The Groups policy is to maintain a strong capital base so as to maintain investor, creditor and market confidence and to support the Groups strategy.
+Capital consists of ordinary shares, retained earnings and non-controlling interests in the Group.
+Management monitor the return on capital as well as the level of dividends to ordinary shareholders.
+e Treasury risk The Groups treasury activities are governed by a treasury policy, which is reviewed and approved by the Board on an annual basis.
+The treasury policy covers all activities associated with managing the above risks.
+The policy requires that financial instruments are only utilised to manage known financial exposures and speculative derivative contracts are not entered into.
+The treasury policy requires that treasury must approve opening and closing of all bank accounts, and that funds transfers and other payments are only made in accordance with bank mandates.
+To ensure an appropriate control environment exists in the treasury function, duties are segregated between front and back office teams.
+In addition, a number of controls are in place to protect against potential cyber security risks.
+Net debt Closing net debt comprises: 2017 2016 Notes m m 1 Cash and cash equivalents C3 310.1 160.2 Other investments loans and receivables C4 0.7 9.6 Fair value of debt-related derivatives 3.4 70.7 Bank and other short-term borrowings 58.2 60.7 Bank and other long-term borrowings 1,139.2 1,237.7 Finance leases 37.3 39.4 Total net debt 927.3 1,238.7 1.
+The currency of debt is as follows: 2017 2016 % % Euro debt principally bonds 66% 57% USD debt principally cross-currency swaps 54% 48% Other cash 20% 5% Total net debt 100% 100% The proportion of the Groups debt denominated in euro increased during the year due to the new 400m bond.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 137 Notes to the Financial Statements Reconciliation of net change in cash and cash equivalents to net debt: Non-cash Non-cash foreign Opening Cash fair value exchange Closing 2017 flows changes and other 2017 m m m m m 1 Cash and cash equivalents 160.2 152.3 2.4 310.1 Other investments loans and receivables 9.6 9.1 0.2 0.7 Fair value of debt-related derivatives 70.7 32.5 9.9 44.7 3.4 Bank and other short-term borrowings 60.7 48.3 0.4 45.4 58.2 Bank and other long-term borrowings 1,237.7 61.0 14.2 23.3 1,139.2 Finance leases 39.4 15.9 15.1 1.3 37.3 1,238.7 300.9 11.2 21.7 927.3 1.
+Foreign exchange gain on debt amounted to 24.2m 2016: loss of 203.4m for 2017.
+The gain primarily resulted from a weakening of US dollar by 10 cents offset by a strengthening of the euro by 4 cents.
+Included within net increase in cash and cash equivalents is 32.5m paid in cash settlement on debt-related foreign exchange forward contracts 2016: 2.5m.
+Cash and cash equivalents Cash and cash equivalents include cash in hand, deposits held at call with banks, and other short-term highly liquid investments with original maturities of three months or less and subject to insignificant changes in value.
+In the cash flow statement cash and cash equivalents are shown net of bank overdrafts.
+Bank overdrafts are shown within borrowings in current liabilities on the balance sheet.
+Cash at bank and in hand includes 1.9m 2016: 25.2m of restricted cash.
+This cash is held in respect of specific contracts and can only be utilised in line with terms under the contractual arrangements.
+The Group operates pooling arrangements whereby cash balances and overdrafts held within the same bank are offset to give a net balance which is included within cash and cash equivalents on the balance sheet.
+These cash and bank overdraft figures before netting are shown in the table below: Offsetting financial assets and liabilities Gross amounts Gross Net before amounts amounts offsetting set off presented m m m At 31 December 2017 Cash at bank and in hand 997.8 697.5 300.3 Short-term bank deposits 9.8 9.8 Cash and cash equivalents 1,007.6 697.5 310.1 Bank overdraft 703.5 697.5 6.0 304.1 304.1 At 31 December 2016 Cash at bank and in hand 767.9 609.7 158.2 Short-term bank deposits 2.0 2.0 Cash and cash equivalents 769.9 609.7 160.2 Bank overdraft 664.0 609.7 54.3 105.9 105.9 Credit interest rates on bank balances range between 0.0% and 0.025% and debit interest rates range between 0.0% and 6.5%.
+As far as it is practical to do so, cash balances are held centrally and are used first to repay borrowings, if any, under the Groups RCF before being placed on deposit.
+Rentokil Initial plc Annual Report 2017 138 Notes to the Financial Statements C4.
+Other investments Other investments held at year end mainly comprised term deposits maturing in more than three months from the date that the deposit was placed.
+The weighted average effective interest rate earned is 0.0% 2016: 1.0% and the weighted average rate was fixed for one year 2016: one year.
+Financial assets are denominated in the following currencies: 2017 2016 m m Pounds sterling 6.0 1 Other 0.7 3.8 0.7 9.8 1.
+Includes an investment of 0.2m 2016: 0.2m in development funds by an entity in South Africa.
+The investment is classified as available for sale.
+None of the financial assets are either past due or impaired in 2017 or 2016.
+Derivative financial instruments Accounting for derivative financial instruments and hedging activities Derivatives are initially recognised at fair value on the date a derivative contract is entered into and are subsequently remeasured at their fair value at the balance sheet date.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument and, if so, the nature of the item being hedged.
+At the inception of the transaction the Group documents the relationship between hedging instruments and hedged items, as well as its risk management objective and strategy for undertaking various hedge transactions.
+The Group also documents its assessment, both at hedge inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are effective in offsetting changes in fair values of hedged items.
+Certain financial instruments are not designated or do not qualify for hedge accounting.
+Typically the Group will not designate financial instruments for hedge accounting where a perfect or near perfect offset is expected between the change in value of assets and liabilities.
+Changes in the fair value of any derivative instruments in this category are immediately recognised in the income statement.
+Where financial instruments are designated for hedge accounting they are designated as either fair value hedge, net investment hedge or cash flow hedge.
+a Fair value hedge These instruments are used to hedge exposure to changes in the fair value of recognised assets or liabilities.
+Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recognised in the income statement, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+b Net investment hedge These instruments are used to hedge exposure on translation of net investments in foreign operations.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in other comprehensive income: the gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+In the event of disposal of a foreign operation, the gains and losses accumulated in other comprehensive income are recognised in the income statement.
+c Cash flow hedge These instruments are used to hedge a highly probable forecast transaction or a change in the cash flows of a recognised asset or liability.
+The portion of the gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in other comprehensive income.
+Any ineffective portion is immediately recognised in the income statement.
+The gains or losses that are recognised in comprehensive income are transferred to the income statement in the same period in which the hedged cash flows affect the income statement.
+In the event the hedged item occurs or is no longer expected to occur, accumulated gains or losses held in the cash flow hedge reserve are immediately recognised in the income statement.
+In the event the hedged item is expected to occur but no longer meets the requirements of hedge accounting, accumulated gains or losses remain in other comprehensive income and are only recognised in the income statement when the forecast transaction occurs or is no longer expected to occur.
+Cash flow hedge accounting has been applied to derivatives marked as cash flow hedge in the table opposite in accordance with IAS 39.
+Where no hedge accounting has been applied, related derivatives have been marked as non-hedge.
+Any ineffectiveness on the cash flow hedge is taken directly to finance costs.
+There was no ineffectiveness to be recorded from net investment in foreign entity hedges or those derivatives in a cash flow hedge relationship.
+Cash flow hedge accounting has been applied to 54.4m of the 500m 2019 bond, hedging the changes in cash flow due to volatility in the GBP EUR exchange rate.
+A new bond was issued on 22 November 2017 for 400m maturing on 22 November 2024.
+340m of the bond issue was swapped to dollars and a cash flow hedge has been applied to the volatility in GBP EUR exchange rate.
+Cash flow hedge has also been applied to the floating interest of the 50m bond maturing in 2018 that has been swapped to a fixed rate, and to the $50m term loan maturing in 2020.
+At the end of the year, the amount in comprehensive income related to cash flow hedge accounting was a loss of 8.6m 2016: 6.1m loss.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 139 Notes to the Financial Statements Fair value estimation All financial instruments held at fair value are classified by reference to the source of inputs used to derive the fair value.
+The following hierarchy is used: Level 1 unadjusted quoted prices in active markets for identical assets or liabilities: Level 2 inputs other than quoted prices that are observable for the asset or liability, either directly as prices or indirectly through modelling based on prices: Level 3 inputs for the asset or liability that are not based on observable market data.
+The Group uses the following methods to estimate fair value of its financial instruments: Hierarchy Financial instrument level Valuation method Financial assets traded in active markets 1 Current bid price Financial liabilities traded in active markets 1 Current ask price Long-term debt 1 Quoted market prices Interest rate currency swaps 1 Market swap rates at the balance sheet date Forward foreign exchange contracts 1 Forward exchange market rates at the balance sheet date Borrowings not traded in active markets 2 Cash flows discounted at current market rates Financial instruments not traded in active markets 2 or 3 Valuation assumptions based on market conditions at the balance sheet date Trade payables and receivables 3 Nominal value less estimated credit adjustments Deferred and contingent consideration 3 Fair value based on the future forecasts of the acquired businesses Other financial instruments 3 Variety of techniques including discounted cash flows Fair value Fair value Fair value Fair value assets liabilities assets liabilities 2017 2017 2016 2016 m m m m Interest rate swaps: non-hedge 4.6 6.0 cash flow hedge 4.9 12.2 1.3 0.2 net investment hedge 14.1 9.9 65.9 fair value hedge 5.0 Foreign exchange swaps: non-hedge 0.1 0.2 0.3 0.5 net investment hedge 0.6 Foreign exchange forwards: cash flow hedge 6.0 non-hedge 0.3 20.0 31.9 1.6 78.6 Analysed as follows: Current portion 6.3 5.3 1.6 56.8 Non-current portion 13.7 26.6 21.8 20.0 31.9 1.6 78.6 The effective nominal value of foreign exchange swaps is 12.1m 2016: 13.6m and foreign exchange forwards is 48.2m 2016: 2.1m.
+Rentokil Initial plc Annual Report 2017 140 Notes to the Financial Statements The table below analyses the Groups derivative financial instruments that will be settled on a gross basis, into relevant maturity groupings based on the remaining period to the contractual maturity date at the balance sheet date.
+Analysis of bank and bond debt Borrowings are recognised initially at fair value, net of transaction costs incurred.
+Borrowings are classified as current liabilities unless the Group has a continuing right to defer settlement of the liability for at least 12 months after the balance sheet date.
+The Groups bank debt comprises: Facility Drawn at Interest rate amount year end Headroom at year end m m m % Non-current $25m RCF due December 2019 18.5 18.5 420m RCF due January 2022 60m reserved for guarantees 360.0 360.0 $50m term loan due June 2020 37.0 37.0 2.17 Average cost of bank debt at year end rates 415.5 37.0 378.5 2.17 The Group has a revolving credit facility RCF of 360m available for cash drawings, and 60m for guarantees and letters of credit.
+The maturity date of the RCF is January 2022.
+At the year end, nil was drawn under the part of the facility available for cash drawings, and 34m under the part available for guarantees.
+The Group also has a $25m revolving credit facility that matures in December 2019, on terms in line with the main RCF.
+On 19 June 2017 the Group entered into a $50m term loan for three years on terms in line with its other bank facilities.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 141 Notes to the Financial Statements Medium-term notes and bond debt comprises: Bond interest Effective hedged coupon interest rate Current 50m bond due March 2018 Euribor 0.48% Fixed 0.84% Non-current 500m bond due September 2019 Fixed 3.375% Fixed 3.65% 350m bond due October 2021 Fixed 3.25% Fixed 4.31% 400m bond due November 2024 Fixed 0.95% Fixed 2.77% 1.3m perpetual debentures Fixed 5.00% Fixed 5.00% 0.3m perpetual debentures Fixed 4.50% Fixed 4.50% Average cost of bond debt at year end rates 3.45% The effective interest rate reflects the interest rate after the impact of interest from currency swaps.
+The Group hedging strategy is to hold debt in proportion to the Group foreign currency profit and cash flows which are mainly euro and US dollar.
+As a result the Group has swapped a proportion of the euro bond issue into US dollar debt which has increased the effective interest rate.
+On 22 November 2017 the Group issued a new 400m bond at a coupon of 0.95% under its EMTN Programme.
+Part of the proceeds were swapped into US dollar and used to refinance the 200m and $157m term loans.
+The rate on the US dollar swaps is floating for the first year at three month LIBOR 1.08% and fixed at 3.38% from November 2018 until maturity.
+On 30 June 2017, 141m of the 350m bond due in 2021 was swapped for US dollar at a fixed rate of 5.49%.
+The Group considers the fair value of other current liabilities to be equal to the carrying value.
+Other includes 14.8m 2016: 20.5m in respect of provisions related to onerous lease contracts and 97.9m 2016: 30.0m in respect of deferred consideration.
+Interest payable and similar charges 2017 2016 m m 1 Hedged interest payable on medium-term notes issued 24.7 28.4 1 Interest payable on bank loans and overdrafts 1.2 0.9 1 Interest payable on revolving credit facility 7.5 7.9 Interest payable on foreign exchange swaps 12.5 10.0 Interest payable on finance leases 1.4 1.3 Amortisation of discount on provisions 0.3 0.3 2,3 Fair value loss on other derivatives 0.3 0.6 4 Foreign exchange loss on translation of foreign denominated assets and liabilities 0.5 Total interest payable and similar charges 48.4 49.4 1.
+Interest expense on financial liabilities held at amortised cost.
+Loss on financial assets liabilities at fair value through the income statement.
+The fair value loss on other derivatives includes fair value losses relating to interest rate swaps.
+Comprises translation gain on financing instruments of 133.8m, offset by losses of 134.3m 2016 gains of 761.0m offset by losses of 760.2m.
+Rentokil Initial plc Annual Report 2017 142 Notes to the Financial Statements C9.
+Interest receivable 2017 2016 Notes m m Bank interest 1.0 1.1 Interest receivable on foreign exchange swaps 4.5 8.5 1,2 Fair value gain on other derivatives 0.5 Foreign exchange gain on translation of foreign denominated assets and liabilities 0.8 Interest on net defined benefit asset A10 6.8 8.4 Total interest receivable 12.3 19.3 1 Gain on financial assets liabilities at fair value through the income statement.
+2 The fair value gain on other derivatives includes fair value gains relating to interest rate swaps.
+Operating cash and free cash flow 2017 2016 m m Operating profit 741.4 232.4 Adjustments for: Depreciation of property, plant and equipment 133.9 188.3 Amortisation and impairment of intangible assets excluding computer software 53.8 43.4 Amortisation and impairment of computer software 13.2 12.4 Other non-cash items 4.7 2.3 Profit on sale of businesses 449.0 Changes in working capital excluding the effects of acquisitions and exchange differences on consolidation : Inventories 1.8 3.6 Trade and other receivables 46.1 34.6 Trade and other payables and provisions 21.7 12.0 Cash generated from operating activities before special pension contributions 462.4 452.6 Special pension contributions 1.1 1.0 Cash generated from operating activities 461.3 451.6 Add back: special pension contributions 1.1 1.0 462.4 452.6 Purchase of property, plant and equipment 174.3 186.2 Purchase of intangible fixed assets 19.1 21.0 Leased property, plant and equipment 18.7 14.6 Proceeds from sale of property, plant and equipment 4.9 6.3 Dividends received from associates 3.2 10.3 1 Operating cash flow 258.4 247.4 Interest received 5.1 12.7 Interest paid 46.5 67.3 Income tax paid 40.1 35.8 Special pension contributions 1.1 1.0 Free cash flow 175.8 156.0 Add back: free cash flow discontinued operations 0.4 Free cash flow from continuing operations 175.8 156.4 1.
+Operating cash flow includes non-ongoing operations of nil 2016: 0.4 m. Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 143 Notes to the Financial Statements D. Other D1.
+Dividends Dividend distribution to the Companys shareholders is recognised as a liability in the Groups financial statements in the period in which the dividends are approved by the Companys shareholders.
+Interim dividends are recognised when paid.
+2017 2016 m m 2015 final dividend paid 2.06p per share 37.5 2016 interim dividend paid 0.99p per share 18.0 2016 final dividend paid 2.38p per share 43.5 2017 interim dividend paid 1.14p per share 20.8 64.3 55.5 An interim dividend of 1.14p per share was paid on 13 September 2017 amounting to 20.8m.
+A final dividend in respect of 2017 of 2.74p 2016: 2.38p per share, amounting to 50.3m 2016: 43.5m, is to be proposed at the Annual General Meeting on 9 May 2018.
+These financial statements do not reflect this recommended dividend.
+Share capital The Companys share capital is made up of the shares that have been issued to its members, whether on, or subsequent to, its incorporation.
+At the year end the Companys issued share capital consisted of ordinary shares of one pence each, with one voting right per share, as detailed below.
+During the year eight million new shares were issued in relation to employee share schemes.
+The Company does not hold any shares in treasury.
+Contingent liabilities The Group has contingent liabilities relating to guarantees in respect of leasehold properties, pensions, third parties, environmental issues, tax and litigation.
+The possibility of any significant loss in respect of these items is considered to be remote.
+Related party transactions Subsidiaries Related party transactions and outstanding balances between subsidiaries within the Group are eliminated in the preparation of the consolidated financial statements and accordingly are not disclosed in this note.
+Key management personnel The Groups strategy and policy are managed by the Executive Board Executive Directors and senior management as shown on pages 52 to 54.
+Their compensation and the compensation payable to the Non-Executive Directors are shown below: 2017 2016 m m Salaries and other short-term employee benefits 6.8 5.8 Post-employment benefits 0.4 0.5 Share-based payments 1.4 1.6 8.6 7.9 Rentokil Initial plc Annual Report 2017 144 Notes to the Financial Statements Joint ventures and associate entities The Group operates in a number of joint ventures and associate entities as indicated on pages 150 to 154 where a percentage shareholding is shown.
+All transactions between these entities and the Group were transacted at arms length during the ordinary course of business and have been eliminated on consolidation.
+Joint venture and associate entity balances are disclosed in Note B6.
+CWS-boco became a part of the Group as a joint venture on 30 June 2017.
+The value of transactions and outstanding balances are shown below.
+There are no significant transactions between associates and other Group companies.
+Transaction values for the Balance outstanding year ended 31 December as at 31 December 2017 2016 2017 2016 m m m m Sales of goods and services 10.2 2.0 Purchase of goods and services 0.5 0.1 Pension scheme The Group bears the costs of administration and independent pension advice of the Rentokil Initial 2015 Pension Scheme.
+The total amount of costs in the year ended 31 December 2017 was 1.1m 2016: 1.9m of which 0.2m 2016: 0.2m was recharged to the scheme.
+Post balance sheet events There were no significant post balance sheet events affecting the Group since 31 December 2017.
+Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 145 Notes to the Financial Statements E. Alternative Performance Measures Definitions and reconciliation of non-GAAP measures to GAAP measures The Group uses a number of measures to present the financial performance of the business which are not GAAP measures as defined under IFRS.
+Management believes these measures provide valuable additional information for users of the financial statements in order to understand the underlying trading performance.
+The Groups internal strategic planning process is also based on these measures and they are used for incentive purposes.
+They should be viewed as complements to, and not replacements for, the comparable GAAP measures.
+Constant exchange rates CER Given the international nature of the Groups operations, foreign exchange movements can have a significant impact on the reported results of the Group when they are translated into sterling the functional reporting currency of the Group.
+In order to help understand the underlying trading performance of the business, unless otherwise stated, percentage movements for revenue and profit measures are presented at constant exchange rates CER.
+Constant exchange rates are calculated by retranslating current year reported numbers at the full year average exchange rates for the prior year, in order to give management and other users of the accounts better visibility of underlying trading performance against the prior period.
+Comparisons are to the year ended 31 December 2016 2016 unless otherwise stated.
+Ongoing Revenue and Ongoing Operating Profit Ongoing Revenue and Ongoing Operating Profit represent the performance of the continuing operations of the Group including acquisitions after removing the effect of disposed or closed businesses.
+Ongoing Operating Profit is an adjusted measure and is presented before amortisation and impairment of intangible assets excluding computer software, one-off items see below, gain or loss on disposal of businesses, and add-back of depreciation on held-for-sale assets.
+Ongoing measures enable the users of the accounts to focus on the performance of the businesses retained by the Group and that will therefore contribute to future performance.
+Ongoing Revenue and Ongoing Operating Profit are presented at CER unless otherwise stated.
+A reconciliation of Ongoing Revenue and Ongoing Operating Profit measures to the equivalent GAAP measure is provided in the table below and in the segmental analysis in Note A1.
+Adjusted profit and earnings per share measures Adjusted profit measures are used to give management and other users of the accounts a clear understanding of the underlying profitability of the business over time.
+Adjusted profit measures are calculated by adding the following items back to the equivalent GAAP profit measure: Amortisation and impairment of intangible assets excluding computer software One-off items operating and associates Net profit on disposal of businesses Depreciation on held-for-sale assets Net interest credit from pensions Intangible assets excluding computer software are recognised on the acquisition of businesses which, by their nature, can vary by size and amount each year.
+As a result, amortisation of intangibles is added back to assist with the understanding of the underlying trading performance of the business and to allow comparability across regions and categories.
+One-off items are significant expenses or income which will have a distortive impact on the underlying profitability of the Group.
+Typical examples are costs related to the acquisition of businesses including aborted acquisitions, material gains or losses on disposal of fixed assets, adjustments to legacy property-related provisions vacant property and environmental liabilities, and payments or receipts as a result of legal disputes.
+Similar adjustments where appropriate are also made to the share of profits from associates.
+The net profit on disposal of businesses of 449.0m has been separately presented on the face of the profit and loss below operating profit.
+In addition, following the announcement of the joint venture with Haniel in December 2016 the assets of the businesses being contributed into the JV were reported as held for sale.
+In accordance with IFRS 5, Non-current Assets Held for Sale and Discontinued Operations, the assets were not depreciated from that point which has increased the profitability of the disposed businesses by 38.5m in the year.
+In order to avoid this distorting the underlying performance of the business the non-depreciation benefit has been added back in arriving at our adjusted profit measures.
+Prior to 2016 restructuring costs were an adjustment in arriving at adjusted profit measures.
+Although they are no longer adjusted for, they are presented in the segmental analysis in order to provide comparability.
+Adjusted earnings per share is calculated by dividing adjusted profit from continuing operations attributable to equity holders of the Company by the weighted average number of ordinary shares in issue.
+Note A2 shows the adjustments made in arriving at adjusted profit from continuing operations attributable to equity holders of the Company.
+Rentokil Initial plc Annual Report 2017 146 Notes to the Financial Statements A reconciliation of non-GAAP measures to the comparable GAAP equivalents is provided below at both AER and CER: % change 2017 2017 AER CER 2016 m m m AER CER Ongoing Revenue 2,203.8 2,093.0 1,827.5 20.6% 14.5% 1 Revenue disposed and closed businesses 208.5 195.0 340.6 38.8% 42.7% Revenue 2,412.3 2,288.0 2,168.1 11.3% 5.5% Ongoing Operating Profit 294.6 275.4 240.2 22.8% 14.8% 1 Operating Profit disposed and closed businesses 58.4 55.0 44.2 32.1% 24.4% Operating Profit continuing operations 353.0 330.4 284.4 24.2% 16.3% Depreciation held-for-sale assets 38.5 36.4 Adjusted Operating Profit 314.5 294.0 284.4 10.7% 3.5% One-off items operating 6.8 6.6 8.6 19.5% 23.2% Depreciation held-for-sale assets 38.5 36.4 Amortisation and impairment of intangible assets 53.8 51.5 43.4 24.5% 19.2% Operating Profit 292.4 272.3 232.4 25.8% 17.2% Profit on disposal of businesses 449.0 465.7 Share of profit from associates net of tax 8.3 8.0 6.2 34.2% 29.8% Net interest payable excluding pensions 42.9 40.7 38.5 11.4% 5.7% Net interest credit from pensions 6.8 6.8 8.4 19.0% 19.0% Profit before tax 713.6 712.1 208.5 242.3% 241.5% Net interest credit from pensions 6.8 6.8 8.4 19.0% 19.0% One-off items operating 6.8 6.6 8.6 19.5% 23.2% 2 One-off items associates 7.0 6.5 Profit on disposal of businesses 449.0 465.7 Depreciation held for sale assets 38.5 36.4 Amortisation and impairment of intangible assets 53.8 51.5 43.4 24.5% 19.2% Adjusted profit before tax 286.9 267.8 252.1 13.8% 6.2% Basic earnings per share 37.21p 37.23p 9.19p 304.9% 305.1% Basic adjusted earnings per share 12.19p 11.29p 10.73p 13.6% 5.2% 1.
+Rentokil Initial Groups post tax share of one-off items and amortisation of intangibles of the CWS-boco International GmbH associated undertaking.
+Organic Revenue measures Acquisitions are a core part of the Groups growth strategy.
+Organic Revenue growth measures are used to help understand the underlying performance of the Group.
+Organic Revenue growth represents the growth in Ongoing Revenue excluding the effect of businesses acquired during the year.
+Acquired businesses are included in organic measures in the year following acquisition, and the comparative period is adjusted to include an estimated full year performance for growth calculations pro forma revenue.
+The Geographic reporting segments reflect the internal management organisation and reporting structure of the Group.
+The Category reporting segment has been revised in 2017 and now combines with the quadrant analysis to give new operational categories of Pest Control, Hygiene and Protect & Enhance made up of the businesses of workwear, plants and property care.
+Segmental analysis is presented at CER unless otherwise stated.
+The Category reporting segment has been revised in 2017: this table is restated.
+Rentokil Initial plc Annual Report 2017 148 Notes to the Financial Statements Operating Margin Operating Margin is calculated by dividing Ongoing Operating Profit by Ongoing Revenue, expressed as a percentage.
+Operating Margin for ongoing operations and continuing operations is calculated after central and regional overheads and restructuring costs Free Cash Flow The Group aims to generate sustainable cash flow Free Cash Flow in order to support its acquisition programme and to fund dividend payments to shareholders.
+Free Cash Flow is measured as net cash from operating activities, adjusted for cash flows related to the purchase and sale of property, plant, equipment and intangible fixed assets, and dividends received from associates.
+These items are considered by management to be non-discretionary, as continued investment in these assets is required to support the day-to-day operations of the business.
+A reconciliation of Free Cash Flow from Net Cash from Operating Activities is provided in the table below: 2017 2016 AER AER m m Net cash from operating activities 379.8 361.2 Purchase of property, plant, equipment and intangible fixed assets 193.4 207.2 Leased property, plant and equipment 18.7 14.6 Proceeds from sale of property, plant, equipment and software 4.9 6.3 Dividends received from associates 3.2 10.3 Free Cash Flow 175.8 156.0 Free Cash Flow continuing operations 175.8 156.4 Free Cash Flow discontinued operations 0.4 Rentokil Initial plc Annual Report 2017 Strategic Report Corporate Governance Financial Statements Additional Information 149 Notes to the Financial Statements Adjusted Free Cash Flow Conversion Adjusted Free Cash Flow Conversion is calculated by dividing Adjusted Profit from continuing operations attributable to equity holders of the Company further adjusted for any post tax profits and one-offs from the CWS-boco International GmbH associate by Adjusted Free Cash Flow, expressed as a percentage.
+Adjusted Free Cash Flow is measured as Free Cash Flow adjusted for one-off items operating and product development additions.
+2017 2016 AER AER m m Adjusted profit after tax from continuing operations attributable to equity holders of the Company 223.6 195.9 Share of profit of CWS-boco International GmbH associate net of tax 1.3 One-off items associates 7.0 215.3 195.9 Free Cash Flow 175.8 156.0 One-off items operating 6.8 8.6 Product development additions 4.7 6.0 187.3 170.6 Adjusted Free Cash Flow conversion 87.0% 87.1% Effective Tax Rate Effective Tax Rate is calculated by dividing adjusted income tax expense by adjusted profit before income tax, expressed as a percentage.
+The measure is used by management to assess the rate of tax applied to the Groups adjusted profit before tax from continuing operations.
+2017 2017 AER CER 2016 m m m Income tax expense A13 30.6 29.2 40.7 Tax adjustments on: Amortisation and impairment of intangible assets excluding computer software 16.6 15.8 14.1 One-off items operating 5.1 4.7 3.1 Disposal of businesses 5.7 5.4 Net interest credit from pensions 1.3 1.3 1.6 US tax reforms net impact 6.4 6.5 Adjusted income tax expense a 63.1 60.3 56.3 Adjusted profit before income tax b 286.9 267.8 252.1 Effective Tax Rate a b 22.0% 22.5% 22.3% Rentokil Initial plc Annual Report 2017

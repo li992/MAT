@@ -1,0 +1,154 @@
+2011 overview Principal risks and uncertainties Governance Financial statements This section highlights the principal risks which affect the Company.
+Betfair has a comprehensive risk management framework across the It is not intended to be an exhaustive and extensive analysis of all risks whole of the Group.
+The framework provides the Directors and Senior which may affect the Company, rather exploring those principal risks Management with a consolidated view of the key risks faced by the which have been identi ed and could have a material impact on the business which is updated and evaluated regularly.
+The Directors believe Groups long-term performance and achievement of its strategy.
+the Groups approach and capabilities in several of these areas are market leading, and will, over the long-term, contribute to the achievement of the Groups strategic objectives.
+Overview The risk management framework comprises a number of committees The business risks have been grouped under the following headings: made up of senior executives and relevant senior managers from across legal and regulatory, financial and operational.
+The Company has a long the Betfair Group, which deal with matters of policy and control and established process for analysing its key risks and adopts a proactive exercise oversight of the operational implementation of risk management, approach in this area with ultimate ownership resting with respective together with several operational teams.
+This framework is overseen by Board and Executive Board members who manage the speci c risks Betfairs Corporate Risk Committee, which reports to the Audit Committee associated with their areas of responsibility together with a dedicated and comprises three senior executives.
+A central risk management team central risk management team.
+co-ordinates, structures and embeds risk management practices across the business on an ongoing basis.
+It maintains a central risk register Risk management framework which documents the risks across the whole organisation and how they are being managed.
+Each of LMAX, Betfair US and Betfair Australia has its The Risk Management Framework is a well established process adopted own separate corporate risk committee.
+A description of the Corporate to ensure that the Company understands, evaluates and mitigates the Risk Committee, and some of the key components of Betfairs risk potential risks facing the business is shown below.
+management framework is set out below.
+Risk Management Framework Corporate Risk Committee The Corporate Risk Committee comprises the Chief Executive Of cer, the Chief Financial Of cer and the Chief Legal and Regulatory Of cer.
+The Corporate Risk Committee is responsible for the review of signi cant Betfair Board business risk issues for Betfair, including but not limited to money laundering, fraud, integrity, operations and legal and regulatory issues.
+The International Marketing Committee and Technology Risk Committee report into The Corporate Risk Committee.
+It makes recommendations to the Audit Committee and, as appropriate, to the Board as to the Betfair Audit Committee Groups overall appetite for risk and its approach to managing and mitigating risk.
+Importantly, it also reviews Betfairs risk management and internal control frameworks to ensure consistent performance and recommend improvements as necessary.
+The Corporate Risk Committee meets quarterly and otherwise as required.
+Corporate Risk Committee International Marketing Committee Betfairs International Marketing Committee plays a central role in ensuring that Betfair consistently operates within the scope of its measured and prudent approach to regulatory compliance.
+The committee reports to Risk Management Internal the Corporate Risk Committee with respect to marketing campaigns and Department Audit is responsible for approving amongst other things the Groups marketing Team campaigns and decisions concerning the offering of Betfairs products in any jurisdiction.
+The international marketing committee comprises three senior executives.
+Technology Risk Committee Risk sub-committees: Business functions: Risk functions: The Technology Risk Committee is responsible for identifying and Escalate critical risks Risks identi ed by Business Continuity mitigating key risks to Betfairs technology infrastructure, including risks requiring Risk business functions Planning, Fraud, to the current and future operating requirements of Betfairs technology.
+Committee review and documented Integrity, Anti-Money In particular it is responsible for Betfairs disaster recovery planning.
+The on the risk register Laundering etc Technology Risk Committee meets quarterly.
+Escalate key risks requiring Risk Committee review Betfair Group plc Annual Report and Accounts 2011 39 Principal risks and uncertainties continued Business continuity planning Risk management policies and practices relating to customers Through its comprehensive business continuity strategy Betfair aims to be able to continue to service its customers irrespective of any incident or Betfair has a number of important policies which are embedded in its failure which may impact on any of Betfairs key operating and technology operations to protect both its customers and Betfair from certain risks locations.
+The key components of this strategy are physical site security, often associated with gambling and the Internet.
+In part, these policies departmental continuity plans for all functions and a technology disaster also help Betfair to meet licensing and regulatory requirements and comply recovery plan.
+Annual testing is carried out by an external third party to with applicable legislation.
+They also underpin some important capabilities ensure all customer-facing functions can cope with the loss of at least one of Betfair, in particular by facilitating the close and consistent co-operation key operational location.
+Betfairs state of business continuity readiness is of several of the risk management functions described above.
+demonstrated by the business continuity plans continued certi cation under BS25999.
+Betfairs Chief Technology Of cer and direct staff have KYC Customer due diligence: Betfair operates a sophisticated primary responsibility for the business continuity plan and Technology four-level customer due diligence process referred to as Know your Risk Committee each accountable for individual components thereof.
+customer or KYC, which uses both automated and manual methods to verify a customers age, identity and source of funds.
+The Disaster recovery DR capability is a key part of the wider business KYC process also assesses the extent and quality of the customers continuity plan.
+The objective of the DR strategy is to ensure that veri cation information in determining whether to allow the customer to response and recovery of Betfairs technology infrastructure is in line with operate a Betfair betting account, either at all, or above certain levels prioritised business needs and compliant with regulatory requirements of activity.
+Betfairs KYC processes are integral to the anti-money COBIT DS4.
+Betfair has pre-placed equipment in dedicated DR sites laundering, fraud and integrity policies and practices described below.
+in Ireland and Guernsey to which all of Betfairs key products, technology operations and back end functionality can be moved over and operated Underage betting and gaming: All customers are required to con rm by Betfair remotely.
+While not in DR use, this equipment is used to upon registration that they are over the legal age for gambling within performance and capacity test new software code before deployment to each particular jurisdiction.
+As an essential and speci c component of Betfairs live environment.
+the customer due diligence policy referred to above, Betfair also carries out age veri cation checks on all customers who use payment Internal Audit Team mechanisms which may be available to under 18s, and performs The internal audit team is responsible for giving risk based, independent random age veri cation checks on all customers.
+For example, Betfair assurance on the effectiveness of risk management, control and suspends all UK based customers who fail to verify their age within 72 governance processes.
+Betfair advises and encourages its customers to prevent minors from accessing betting and gaming websites.
+It provides assurance that: Ring-fenced customer funds: Betfair holds all Core customer moneys in risk management practices are sound and operating effectively: separately managed bank accounts, which are safeguarded independently key risks are being managed to an acceptable level: of Betfairs corporate funds, under the terms of a Trust Deed.
+internal controls are effective and ef cient: and mechanisms are in place to achieve Betfairs business objectives.
+Anti-money laundering: Betfairs anti-money laundering AML compliance policy encompasses a collection of procedures, The internal audit teams responsibilities include reporting regularly technologies and techniques to make a risk-based assessment of to management on the effectiveness of Betfairs controls and the team all financial transactions using Betfair payment, betting and gaming reports to the Chief Financial Of cer and also has a direct reporting line systems, to establish and implement relevant record-keeping to the Audit Committee.
+requirements across the business, report on an ongoing basis to the relevant statutory authorities any suspicious circumstances Regulatory Compliance Team concerning financial transactions, and ensure regular staff training in The Regulatory Compliance team provides advice and administrative Betfairs AML procedures.
+A dedicated AML team is responsible for assistance across the Betfair business in the pursuit of licences in new assessing and implementing Betfairs AML policy in accordance with jurisdictions, the development, licensing and launch of new products, and the Financial Action Task Force FATF recommendations, European day-to-day compliance with existing licences and Betfair regulatory Directives and national legislation.
+The AML team is also responsible policies.
+The team comprises of compliance managers who are resident in for managing Betfairs anti-bribery strategy in accordance with the the jurisdictions where Betfair holds betting and gaming licences and requirements of the UK Bribery Act 2010. compliance analysts who work closely with Betfairs operational staff.
+Together, Betfairs compliance managers and compliance analysts maintain an ongoing dialogue with licensing regulators and relevant staff within the business, to ensure that Betfair operates in accordance with the terms of its licences and relevant legislation.
+The regulatory and compliance team reports to Betfairs Chief Legal and Regulatory Affairs Of cer.
+Betfair Group plc Annual Report and Accounts 2011 40 2011 overview Governance Financial statements Integrity team and rules and regulations committee Regulatory overview The integrity team is responsible for monitoring betting activity on the Betting Exchange, investigating any potentially suspicious activity, Betfair operates in a heavily regulated sector where changes in regulation and is the main point of liaison for sports regulatory bodies.
+Betfair can have a significant impact on its operations.
+The regulation and has MoUs in place with 48 sports regulators, under which in certain legality of online betting and gaming varies from jurisdiction to circumstances Betfair shares relevant information about its customers jurisdiction from open licensing regimes to sanctions or prohibitions and with a sports regulator to help in policing the rules which govern their in certain jurisdictions there is no directly applicable legislation.
+Online participants and or the prevention and detection of crime.
+The sports betting and gaming is subject to uncertainties in many jurisdictions and regulator may then use the personal information found by Betfair approaches to enforcement vary from jurisdiction to jurisdiction.
+Betfairs to investigate and act on any such breaches in accordance with determination as to whether or not to permit customers in a given its procedures.
+Betfair also provides some sports regulators with jurisdiction to access any one or more of its products and whether to BetMonitor, a proprietary technology portal which enables regulators to engage in different types of marketing activity and customer contact is monitor betting activity by Betfair customers in real time.
+The Directors made on the basis of its measured and prudent approach to regulatory consider Betfairs MoU framework and information sharing policy to be compliance, and is based on a number of factors which include: market leading and a key contributor to the trust with which Betfair is regarded by customers, sports regulators and governments.
+The terms of Betfairs betting and gaming licences Maintaining the integrity of Betfairs betting markets is important to The laws and regulations of the jurisdiction including state, federal or Betfairs reputation for fairness amongst customers and sports bodies.
+To supra-national law including EU law if applicable, and in particular the this end the MoU framework is complemented by a comprehensive and way in which such laws and regulations apply to the speci c betting detailed set of betting rules which Betfair applies in the operation of its and gaming products and speci c types of related activity betting markets.
+Those rules, together with decisions about the operation The approach to the application or enforcement of such laws and and settlement of betting markets and practices relating to customers, regulations by regulatory and other authorities.
+are overseen by Betfairs rules and regulations committee, which reports to the Corporate Risk Committee.
+Sustainable gambling team The sustainable gambling team develops and implements Betfairs policies and practices in relation to problem gambling and responsible play.
+Customers are educated about playing responsibly and can access tools which enable them to apply automated controls on their betting and gaming activity with Betfair, including full self exclusion and applying loss limits.
+The team is headed by the former CEO of the Responsibility in Gambling Trust now GREaT.
+The Betfair Group also makes donations to various research and treatment organisations, including GREaT and GamblingTherapy.
+It was one of the five UK betting and gaming operators that committed to underwrite any shortfall in the 2009 5 million funding target set by GREaT to ensure delivery of research and treatment programmes in the UK.
+All Betfair staff complete regular training in responsible gambling.
+Betfair is currently working with leading UK academics to develop data analysis tools and behavioural markers to create a risk profile for problem gambling so that such customers can be referred to Betfairs various tools and support services.
+Betfair is a multiple winner of the UK betting and gaming industry award for Socially Responsible Operator of the Year.
+Betfair Group plc Annual Report and Accounts 2011 41 Principal risks and uncertainties continued Risk Risk detail and key mitigations Increased regulation in Europe Many international jurisdictions, particularly in the EU, are beginning to Legal and Regulatory Risks Non European jurisdictions regulate their online gambling market by introducing a licensing regime.
+restricting market entry or This creates both opportunities and risks, some for Betfair speci cally and access.
+others to all operators including Betfair in the online gambling market.
+Betfair considers national law and its compliance with EU law before Adverse legal and regulatory offering gambling services to a jurisdiction.
+We are investing in our decisions may restrict the ability technology and products to increase exibility and provide us with to grow.
+greater opportunity to ensure that we comply with local licensing requirements.
+Entry in to new geographies may As a result of social, political and legal differences between jurisdictions, cause signi cant distraction to successful marketing in a new jurisdiction often involves local adaptations senior management and result in to Betfairs overall marketing strategy.
+Betfair may be subject to unforeseen costs and negative unfamiliar restrictive local laws and regulations which may include publicity.
+speci c technological requirements that are incompatible with Betfairs technology or business model.
+Impact of potential action by UK There could be changes made in regulation around tax, licensing or authorities in response to gaming marketing for companies operating in the UK based on non-UK licences.
+companies operating in the UK based on non-UK licences.
+We are fully engaged with the UK government regarding the ongoing review of how operators licensed elsewhere are regulated in the UK.
+Betting and gaming licence Betfairs betting and gaming licences may not be renewed or may be compliance, renewal and revoked.
+Such revocation or non-renewal may materially adversely revocation.
+affect the operations, financial performance and prospects of Betfair.
+Betfair through its experienced and accredited legal and compliance teams regularly reviews and updates senior management and the Board with key gaming licence information looking at the impact such actions might have on its operations Material litigation in Australia.
+Betfair Australia has an ongoing legal dispute with Racing NSW and Harness Racing NSW regarding the implementation of race elds legislation.
+Following a decision against Betfair Australia in the Federal Court, the company was granted leave to appeal to the High Court of Australia in March 2011.
+The case is expected to be heard in the second half of 2011.
+Impact of foreign exchange Due to the international nature of the business the Company is exposed Financial Risks exposure.
+to the impact of foreign exchange uctuations on deposits as well as cash ows.
+Betfair monitors its exposure to foreign exchange risk and where appropriate enters into financial instruments to mitigate its risk.
+Signi cant revenue is generated Whilst no single customer generates more than 1% of Betfairs revenues, from Betfairs largest customers.
+if macroeconomic factors, licensing, regulatory or tax reasons or other factors outside Betfairs control were to result in a signi cant number of large customers ceasing to use or reducing the levels of their use of Betfairs products, this may have a material adverse effect on the operations, financial performance and prospects of Betfair.
+Betfair monitors this type of customer activity and regularly reviews via its internal reporting systems any changes.
+The level of liquidity in the Betfairs Betting Exchange product operates with, and its success is Betting Exchange.
+dependent on, high levels of liquidity and a signi cant proportion of this liquidity is created by transactions generated by Key Account Customers.
+A signi cant reduction of this liquidity could have a material adverse impact on the attractiveness of Betfairs key products as well as eroding one of its key competitive strengths.
+Betfair monitors these key accounts and any activity and regularly reviews the position via its internal reporting systems any changes.
+Betfair Group plc Annual Report and Accounts 2011 42 2011 overview Governance Financial statements Risk Risk detail and key mitigations Failure to adequately protect Betfair processes personal customer data including name, address, age, Operational Risks customer account information bank details and betting and gaming history as part of its business and could have a material adverse therefore must comply with strict data protection and privacy laws in the effect on Betfair.
+EU and certain other jurisdictions from which Betfair accepts bets.
+Those laws restrict Betfairs ability to collect and use personal information relating to customers and potential customers.
+Notwithstanding Betfairs IT and data security and other systems, it has experienced a limited number of security breaches in the past which have not had a signi cant effect on Betfairs reputation, operations, financial performance and prospects and in respect of which remedial action has been taken.
+Betfair is exposed to the risk that personal data could in the future be wrongfully accessed and or used, whether by employees, customers or other third parties, or otherwise lost or disclosed or processed in breach of data protection regulation.
+If Betfair or any of the third party service providers on which it relies fails to transmit customer information and payment details online in a secure manner or if any such theft or loss of personal customer data were otherwise to occur, Betfair could face liability under data protection laws.
+This could also result in the loss of the goodwill of its customers and deter new customers.
+Each of these factors could harm the Companys business reputation and have a material adverse effect on Betfairs operations, financial performance and prospects.
+Most aspects of this risk are being addressed by an ongoing Security Fraud and Risk Programme.
+Controls over access to customer data have been given a high priority within this programme.
+Negative publicity arising from Negative publicity resulting from problem and underage betting and underage and problem betting gaming may adversely impact the reputation of Betfair and the and gaming.
+willingness of the public to participate in betting and gaming or a particular form of betting or gaming.
+Betfair products being used by Like all operators, Betfairs platform could be targeted by those who seek criminals for money laundering to bene t from corrupt activity on a market or seek to use the site for the or other criminal purposes.
+Fraud illegal transfer of funds.
+and corruption in sport resulting in negative publicity for sports Betfair has groundbreaking Memoranda of Understanding in place with betting and Betfair.
+many Sporting Regulators and a fully staffed skilled Integrity Team Anti-Money Laundering: National AML legislation is analysed to ensure Betfair has process in place to meet requirements.
+Betfair has a fully functioning Anti-Money Laundering department led by a former senior law enforcement of cer.
+We routinely carry out risk assessments for speci c territories in terms of AML, fraud, terrorism terrorist nancing and other crimes.
+Products on development Strategic decisions are made which may result in products being pipelineare not appropriate or developed and released which do not perform as well as forecast.
+This will have a negative impact on future revenues.
+The Roadmap Approval Board RAB has the overall responsibility of ensuring the appropriate products are developed.
+The scheduling and live A signi cant portion of Betfairs revenue is derived from betting on broadcasting of major horseracing and football including in-play betting.
+Disruptions to the sporting events.
+scheduling and broadcasting of those sports may have a material impact on Betfairs results of operations.
+Betfair Group plc Annual Report and Accounts 2011 43 Principal risks and uncertainties continued Risk Risk detail and key mitigations Ability to attract and retain Betfair is reliant on Senior Management and key individuals.
+Betfairs success Operational Risks executives, managers, key staff is in part dependent on the continued services and performance of certain continued and the recruitment of high quality Directors and members of Senior Management.
+While the Executive Directors staff in some overseas locations and Senior Managers have employment contracts that are generally subject may become more dif cult.
+to notice periods of up to 12 months before termination, some have shorter notice periods.
+The loss of the services of certain executive of cers or other key employees, particularly to competitors, could have a material adverse effect on Betfairs operations, financial performance and prospects.
+Betfair has in place succession planning and key processes in place which the Executive and Board monitor and review to keep current which include : Identi cation of key roles in line with business continuity plans Regular succession and talent reviews within each business segment Competitive package and career development opportunities Betfair may not be able to attract, retain or motivate highly skilled employees.
+Betfairs success and its anticipated future growth depends in part on its ability to continue to attract, retain and motivate highly skilled employees.
+Although there are highly skilled and quali ed workforces in the regions where Betfair currently locates its operating activities, competition for software professionals, engineers, sales and marketing and other personnel critical to the business of Betfair is intense.
+In some jurisdictions, for example, in Malta, there may only be a limited number of persons with the requisite skills and it may become increasingly dif cult to hire these persons.
+If Betfair is unable to attract and retain suf ciently quali ed staff, Betfair may be unable to achieve or sustain its anticipated growth or to execute its strategic objectives, which could have a material adverse effect on Betfairs operations, financial performance and prospects.
+Via routine focus on and review of its resource plan Betfair is currently able to recruit the necessary staff required.
+The Company also uses retention packages to secure key employees.
+Site outages and loss of customer Any failure of Betfairs infrastructure or the telecommunications and or connectivity.
+other third party infrastructure on which such infrastructure relies could lead to signi cant costs and disruptions that could reduce revenue, harm the Companys business reputation and have a material adverse effect on the operations, financial performance and prospects of Betfair.
+The business relies heavily on the customer base accessing markets via the internet and any extended loss of connectivity could have a material effect on revenues.
+Betfair has in place and regularly reviews its Business continuity plans via the Risk Committee Framework throughout its Group operations.
+Competitive environment There is the risk of competitor consolidation and the potential for a large competitor behaviour.
+competitor to enter the exchange business.
+By continuing to invest in our exchange technology and extend product features we make it more dif cult for a competitor to launch a comparable product.
+Data from the Betfair site being Competitors use Betfair data to enable them to offer products and used by competitors.
+services to their own customers.
+A data licensing solution is currently being implemented to ensure competitors pay fair value for Betfair data.
+Betfair takes a robust approach to this type of activity and will take the appropriate action to protect its intellectual property.
+Betfair relies on key suppliers in order to carry on certain operations.
+The failure of one or more of these third parties may have an adverse impact on the financial and operational performance of Betfair.
+Betfair through its governance framework reviews its Business continuity plan s and has service level agreements in place.
+Betfair Group plc Annual Report and Accounts 2011 44

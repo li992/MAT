@@ -1,0 +1,144 @@
+cHIeF eXecuTIves revIew The importance of the Groups technologies is reflected in Imaginations continued strong growth despite the challenges to the global economic environment.
+The full year saw good financial and strategic progress for the Technology business, with strong chip volume and royalty growth.
+The Group successfully closed a number of important licensing deals as well as securing many new partners.
+This resulted in a significant jump in operating profit for the Technology business.
+The Pure business substantially reduced the previous years loss and achieved a close to break-even position whilst continuing its strong investment in research and development.
+Its international business continued to grow strongly overall, despite some regional post-christmas channel stock overhang.
+Pures uK business saw a modest improvement in line with the initial signs of economic recovery.
+Financial Review Group revenues for the period ending 30 april 2010 were 80.9m 2009: 64.1m, an increase of 26%.
+Technology revenues, comprising licensing and royalties, were 28% ahead at 47.3m 2009: 36.9m.
+within Technology, royalty revenue increased by 75% to 24.4m 2009: 14.0m, 80% on a dollar basis, driven by increased chip volume and a strengthened royalty rate.
+The volume of chips shipped increased 47% to 126m 2009: 86m.
+The strong growth of royalty revenue over the last two years now means that this important revenue stream has overtaken licensing revenue.
+The royalty rate per chip has improved as a result of the continued transition towards chips shipping incorporating latest generation POwervr sGX cores, with the legacy revenue sharing arrangements for the mBX core having a lower impact.
+at 22.9m, licensing revenue was flat on a sterling basis, with a 2% reduction on a dollar basis.
+However, our broadening portfolio of technologies, our existing relationships with key industry players, and the strong and active pipeline of prospects with both current and new partners, means that we remain confident of the continued growth of licensing revenues.
+However, the precise timing of the closure of licensing agreements and the recognition of the resulting revenue could mean that growth may not be in a straight line.
+whilst the difficult economic environment has impacted the rate of progress, Pure has delivered a significantly improved financial result for the year.
+The progressive adoption of digital radio overseas resulted in a 35% increase in Pures international business to 7.8m 2009: 5.8m, which now accounts for 23% of its total revenues.
+Pures uK revenues increased by 20% to 25.8m 2009: 21.4m.
+Group gross profit was 55.9m, a 32% increase 2009: 42.3m.
+The gross margin has continued to improve to 69% 2009: 66% as a result of the change in the revenue mix towards the higher margin technology business, particularly royalties, as well as an improvement in Pure margins.
+research and development expenses increased 14% to 35.4m 2009: 31.1m.
+On-going investment across our full range of graphics, video, display, broadcast and processing technologies is key to ensure that the Group maximizes its opportunities and in particular continues to supply market leading IP cores to partners as well as to support such partners in deploying them effectively.
+Investment in Pure has continued to ensure that it is able to carry out its role of pathfinding and promoting the Groups technologies, notably in the area of wi-Fi and internet connectivity.
+3 sales and administrative expenses, which are stated net of currency gains, were 10.6m 2009: 8.1m.
+1.0m of the increase is accounted for by the reduced currency gain in the year of 0.3m 2009: 1.3m.
+The non cash share-based incentive cost included in the above expenses has increased to 3.3m 2009: 1.8m.
+The adjusted operating profit for the Technology business, before share-based incentive costs of 2.7m 2009: 1.5m and the net gain on investments of 0.1m 2009: write-down 0.5m, increased 78% to 13.6m 2009: 7.6m.
+The increase in Pure revenue resulted in a significantly reduced adjusted operating loss, before share-based incentive costs of 0.6m 2009: 0.3m, of 0.3m 2009: loss 2.7m.
+The adjusted Group profit before tax, before share-based incentive costs of 3.3m 2009: 1.8m and the net gain on investments of 0.1m 2009: write-down 0.5m, increased by 166% to 13.3m 2009: 5.0m.
+The reported pre-tax profit was 10.2m 2009: 2.7m.
+There was tax credit of 4.0m 2009: 5.4m in the year arising from the recognition of 4.9m of previously unrecognized tax losses, partially offset by 0.9m of tax deducted at source on overseas earnings.
+This has resulted in the deferred tax asset on the Group balance sheet, to be utilized against future profits, increasing to 11.0m 2009: 5.4m.
+In addition to this recognized deferred tax asset, there is a further 13.2m 2009: 12.5m of unrecognized deferred tax losses.
+adjusted earnings per share increased by 55% to 7.3p 2009: 4.7p.
+The Groups reported earnings per share has risen 62% to 6.0p 2009: 3.7p.
+There was an operating cash in-flow of 8.6m in the year 2009: 4.7m reflecting the jump in the Group operating profit.
+capital spend in the period was 2.0m 2009: 2.2m.
+This strong operational cash in-flow together with the 3.1m from the issue of new shares to apple Inc. in the first half has contributed to a doubling of net cash resources to 29.4m at april 2010, compared to 14.6m at april 2009. cash resources are adequate for the Groups future requirements.
+Technology Business The Technology business continued to make real progress in its three key metrics: new licensing deals, which generate short-term revenue and are the underlying driver behind future royalty generation Growth of soc design wins, which is a key measure of technology adoption Partner chip volume ramp-up, which drives royalty revenues Licensing The continuing active pipeline of opportunities led to a number of strategically and or financially significant licensing agreements or deal extensions including 12 major licensing agreements and a number of smaller deals and upgrades.
+among the major agreements, there were new partner deals with ambarella, Green Plug, Infomax, Innofidei, realtek, sis, as well as significant extensions or continuations with Intel, 4 sigma Designs, apple, TI and renesas.
+The Group also signed software licenses and upgrades with a number of partners including samsung, Frontier silicon, Trident and O2 as well as important software licensing and development agreements with a number of key Oems deploying partner chips with Imagination IP.
+The major license agreements involved 23 IP core licenses.
+The target markets for these include mobile Phone, Digital Tv, Personal media Player PmP, mobile computing Tablets, Digital camera, connected Terminals and Green smart Power.
+significantly, the Group has seen continuing momentum in design-wins for its POwervr graphics technology, which has so far achieved over 40 licenses, including five partners that are working on designs using the very latest multi-processing mP core variants of the sGX543mP and sGX544mP family.
+additionally we are seeing a steady diversification of design wins and growing interest across our other key IP cores including: video POwervr vXD and vXe families supporting the latest and emerging video decode and encode formats Display POwervr I2P and Frc enabling the best image processing for Tvs, sTBs and other consumer devices connectivity broadcast ensIGma ucc series2 and series3 programmable radio processing units rPu supporting worldwide Tv and radio reception as well as important connectivity standards such as wi-Fi - all running on the same silicon engine in software embedded processor cores meTa LTP, mTP and HTP offering multi-threading, hard realtime and signal-processing capabilities ideal for highly integrated and cost effective devices running modern operating systems and connected to the internet Partner chip shipments and royalties Partner chip unit shipments grew strongly, up 47% to 126m units 2009: 86m units.
+Growth was driven by increasing sales of mobile phones, Personal media Players PmPs, Tvs, mIDs netbooks Tablets, digital radios and car navigation information systems.
+contributions from the Tv segment and the mobile computing netbooks Tablets mIDs segments are significantly increasing.
+with current information and visibility, we remain on course to achieve our long-standing target of around 200 million partner chip shipments in the Fy 2010 11 timeframe.
+However, exact timing and the rate of product introduction by Oems and the speed of production ramp-up can create some variability.
+SoC design wins and pipeline soc design wins are the driver for future partner chip shipments and royalty revenue growth.
+strong continuing momentum saw new partner soc design wins increase to 91 net of obsolescence compared with 78 as at april 2009.
+Of these, 37 are shipping or beginning to ship, with the balance of 54 still in design.
+The latter will be the driver for significant further royalty revenue growth.
+5 These committed devices are continuing to diversify across Imaginations partners and key market segments: 33 for mobile Phone multimedia devices nine for Handheld multimedia PmP, mobile entertainment gaming, camera, mobile Tv 22 for Home consumer entertainment Tv, sTB, DvD, Digital radio and audio, connected audio, and Home entertainment devices 12 in mobile computing mID umPc netbook Tablet 11 for In-car navigation, Dashboard, PnD Four for other markets covering Green energy, Healthcare, amusement and Toys Technology business markets Mobile Phone Multimedia more than 160 handsets have so far incorporated Imaginations technologies, of which 50 use the latest POwervr sGX technology.
+many of the handsets are market-leading models with new capabilities from key Oems, including apple, Fujitsu, mitsubishi, motorola, nec, nokia, Palm, samsung, sharp and sony ericsson.
+we have visibility of many further handsets in the pipeline from various Oems that are using Imaginations technology.
+The requirement for hardware acceleration is still rapidly expanding to a larger proportion of mobile phones.
+It is also clear that smartphones, to which high-level graphics and video are most relevant, are the fastest growing segment within the mobile phone market.
+market commentators are now predicting that the smartphone category will ultimately subsume the feature phone category and account for as much as 50% of the total mobile phone market.
+with its strong partnerships in this segment, Imagination is well positioned to continue to exploit this opportunity as it grows.
+Handheld Multimedia PmP, mobile entertainment Gaming, camera and mobile Tv This segment is Imaginations second largest in chip volume terms.
+Imagination has already seen its technology deployed by the leading player in the PmP market where products increasingly require advanced graphics and video capabilities to improve user interface and content delivery capabilities.
+combined with other partner socs in design, Imagination expects to secure growing market share in this important segment.
+Imagination has also seen growing demand for a more advanced user interface on cameras.
+It sees this market as a new emerging area for a number of Imaginations technologies.
+In the mobile Tv market, Imaginations current technology is already shipping in some of the early T-DmB mobile Tv markets in asia.
+Further progress in the mobile Tv market requires other world markets such as the north american and european regions to embrace such services.
+Imagination believes it is well placed to service this market as it develops.
+Home Consumer Entertainment Digital radio, connected audio, Tv, IP Tv, sTB, DvD, Home entertainment Imaginations technologies for, and partnerships in, the Tv and sTB segments have begun to deliver growth.
+There are now several devices shipping, with an increasing number in development for these consumer segments.
+The partnership with nec electronics now renesas electronics has already resulted in Imagination IP being deployed in Tvs from a major global brand, which started shipping in Japan and europe from march 2009.
+For sTBs, Intel consumer socs, including the ce3100 and new ce4100 chips, have begun making a contribution to this segment.
+In addition, other 6 important existing partnerships with nXP Trident and sigma Designs are at customer sample delivery stage and should begin volume shipment in 2010.
+The emerging market of IP Tv is a key driver requiring advanced graphics and multi-standard video processing in both Tv and sTB socs.
+The digital radio market continues to be an important focus for Imaginations multi-standard receiver and processor DsP technologies.
+Imagination plays a leading role in providing key technologies for this market and has seen its share of digital radio technology deployment across european DaB standard reaching 80%.
+markets outside of the uK are increasingly adopting digital radio formats, many based on the DaB standard or its variants.
+Furthermore, the rapid spread of internet connectivity and wi-Fi has enabled new opportunities in the form of internet and wi-Fi based radio and audio streaming that are strongly supported by our combined broadcast radio and connected audio technology platform.
+we see this combination as an important market that Imagination will continue to lead, both from a technology licensing perspective as well as through Pure.
+Mobile Computing mID, netbook, ultra mobile Pcs and Tablet devices In this market Imaginations technologies have and are being deployed in a variety of formats and in conjunction with Intel, arm and other processor architectures.
+Imaginations partnership with Intel in the personal computing umPc and mID segments has progressed to plan with shipment of the first generation Intel atom Z range of products that deploy Imaginations graphics and video technologies.
+This solution has secured many Oem design wins with more than 85 products shipping or announced.
+recently Intel has announced the second generation of this product line atom Z6xx which is more integrated and offers much lower power consumption, higher performance and increased functionality.
+Imaginations strong partnership with Intel continues to develop with a wider scope of co-operation across several significant projects.
+In addition, the growing netbook and emerging tablet markets have opened up significant opportunities where other partners are deploying the advanced multimedia technologies that Imagination can provide.
+In-car The vast majority of the new 3D-based navigation systems in Japan continue to use partner chips that deploy Imaginations POwervr technology.
+In addition to the long-standing relationship with renesas, which is progressing well, more recent relationships with other key players in this market, such as nec electronics and sirF csr, are helping to increase our market share in both traditional in-car navigation systems and next generation PnDs.
+The attention that the traditional mobile phone application processor semiconductor companies, such as TI, and also Intel through its Intel atom technology, are paying to these markets has increased the routes through which Imaginations technologies can be deployed.
+There is now a fast-developing market, as the car manufacturers transition from the traditional mechanical displays to LcDs, for electronic dashboards: Imagination is well placed to target this market as it emerges.
+Emerging Markets Home automation, Green smart energy, Healthcare Given the diversity and capability of Imaginations IP family, it is forging partnerships in emerging markets that will see the deployment of Imaginations technologies in a wide variety of devices.
+Highly relevant to these markets are Imaginations embedded processing cores, which are able to combine modern operating system-based needs with hard real-time processing requirements involving general as well as signal processing computation.
+combined with Imaginations software programmable connectivity solutions, these cores offer a highly effective solution for next generation applications requiring the capability of a connected processor supporting advanced operating system, real-time operation and 7 internet connectivity.
+Imagination plans to complement these silicon technologies with internet and portal based solutions providing its partners with a comprehensive offering designed to address the requirements of the new connected world.
+Partnerships formed recently in these new market areas include those with Toumaz and Green Plug Inc.
+PURE Business Despite a difficult economic environment Pure was able to grow its revenues by 23%, dramatically reducing last years loss and achieve a near break even position.
+Both uK and overseas revenues grew, with the uK seeing 20% growth and international sales growing by 35%.
+excluding switzerland, where there was some stock overhang post christmas, international revenues doubled.
+The key drivers of Pures financial improvement were economic recovery in the uK, the increasing globalisation of digital radio and the emergence of new, connected audio devices for streaming internet radio from thousands of channels.
+In the uK and other markets, Pure retained its leadership position in key product categories and strengthened its line-up with significant new models including further expansion of the Flow family of internet connected products and a strengthening of the DaB range with new microsystem, bedside and portable radios.
+Overseas, it is clear that the transition from analogue to digital radio is underway on a global scale and reaching far beyond Pures early markets of the uK, switzerland, norway and australia.
+with many other countries including France, Germany and Italy beginning to switch to DaB standards, often driven by government switch-over plans, Imagination stands to gain as both the provider of the core technology and, through Pure, the leading radio manufacturer.
+The launch of Pures well received Flow connected audio family and the associated internet portal, thelounge.
+com, have opened up further significant opportunities in both DaB and nonDaB countries as such products take advantage of wi-Fi and internet connectivity.
+Following the launch of evOKe Flow last year, which became the most successful connected digital radio, Pure continues to extend this range.
+among the additions are the avanTI Flow, a high quality next-generation digital audio system with iPod connectivity, the siesta Flow bedside clock radio, and most notably sensia which brings a new dimension to not only radios but also to the emerging connected devices.
+sensia is the beginning of a convergence that brings together broadcast radio, which we see as the bedrock of mass content delivery, and the on-demand and interactive benefits of internet connectivity.
+The colour touchscreen offers a fun and easy user interface whilst at the same time offering relevant internet content such as social networking, instant messaging and other community, information and entertainment-based applications.
+Pure continues to win many prestigious accolades, including three top awards at what Hi-Fi?
+sound & visions awards 2009: the overall radio category award radio Product of the year 2009 for avanTI Flow, the prize of the Best Desktop DaB 100-200 for evOKe-2s, and the award for the Best Desktop DaB up to 100 for One elite.
+additionally, Pure won two key awards in australias 2010 sound and Image awards: Digital radio of the year for sensia and Highly commended for One classic.
+The innovative sensia also took Best Product of the year in smart House magazines Best of the Best awards.
+8 evOKe Flow has already won Get connecteds Product of the year 2010 while across the range Pure is now receiving more international awards including stuff and T3 magazines in France, Gear magazine in Denmark and cneT in Germany.
+Pure radios offer significant eco-friendly features and many Pure products are now recommended by the energy saving Trust, a message being promoted in trade and consumer campaigns.
+as a result of its continuing innovation, strong product line up and planned delivery of new technologies, Pure has maintained its strong product ranging at key retailers in the uK and has been able to develop key overseas relationships in support of its strategy to develop its international business.
+These trends will see Pure playing a key role in the uK as well as other regions as the inevitable digital wave sweeps the radio industry and connected products become a major new consumer product category.
+The Groups investment in developing the internet and web services portal, thelounge.
+com, in support of its connected radio and multimedia platform with its first deployment in the form of the Pure Flow range, is enabling the next generation of cloud-based products and services.
+These connected technologies and services are considered of significant strategic importance to Imagination as a whole, not only in the delivery of internet-based multimedia content but also for other connected services such as automation, security and remote healthcare.
+It is important to note that Pure, in its own right, is making very valuable contributions to the development of fundamental intellectual property that are critical for key aspects of the Groups future strategies.
+Outlook and way forward as the financial results demonstrate, key aspects of our long-standing strategy are beginning to deliver good returns.
+Our technologies in multimedia, connectivity broadcast and embedded processing offer both significant advantages to our partners and at the same time provide a strong and highly scalable base for our growth.
+Despite the significant progress we have made to date, the exploitation of many of our key technologies is still at an early stage in many markets.
+For example, the worldwide embedded graphics market alone has the potential to reach multi billion annual units over the next five years or so.
+similarly the rapidly developing internet connectivity and cloud-based services trends will ultimately require Tvs, sTBs and almost all other home appliances to incorporate both connectivity and advanced user interfaces.
+we remain on course to achieve significant growth as existing markets develop and new markets and applications emerge where our technology can make a significant difference to the consumer experience.
+It has been a feature of our strategy to both ride and drive key trends with new technologies: this process is still very much ongoing.
+another key aspect of our business is the cyclical nature of technology roll-out, which continues to offer opportunities for follow-on generations of previously deployed IP cores.
+This is particularly relevant to flexible and programmable solutions.
+we offer this attribute in all our key IP solutions and over time this creates a development ecosystem of considerable value to the user community.
+we therefore continue to believe that there are significant opportunities going forward to offer current customers the next generations of technologies that they have already licensed, to extend existing partnerships with completely new complementary IP categories and to engage with entirely new customers.
+9 The technologies we offer are highly relevant to many of the trends in new and evolving markets.
+These go across the three planned areas of: multimedia graphics and video processing units GPus : programmable baseband for the growing connectivity broadcast standards radio processing units rPus : and embedded processor cores offering multithreading, hard real-time, general-purpose and signal-processing capabilities all in one.
+Pure is an integral part of our strategy and focuses on targeting emerging consumer markets that can benefit from a concerted drive and pathfinder approach across the Group.
+This has been successfully executed on digital radio in the uK with the focus now moving to international development of this market.
+connected devices and the opportunities they offer are another key area where Pures efforts are directed, with a starting point that bridges the broadcast and internet arena and enables optimal delivery of both mass and individual targeted content.
+Our strategy will ultimately also lead to complementary areas involving home connectivity and the provision of useful remote services.
+The progress made by Pure in the year is a very good base for further steps including its steady expansion into other geographical markets.
+The Group remains well placed for further growth based on its active licensing pipeline, expected chip volume ramp and royalty growth, as well as the potential for Pure to exploit its strong product line-up and develop its new sales territories.
+as we set out a few years ago, among our key targets for this financial year is shipment by our partners of around 200m devices using our IP.
+we remain on course to achieve this target, and can now see annual volumes heading toward 500m units over the next few years.
+The Board remains confident that the Groups solid progress will continue.
+However, the macro economy remains volatile, with many governments implementing austerity measures which may influence consumers, potentially impacting our licensees progress and some aspects of our development.
+Hossein yassaie chief executive 23 June 2010 10

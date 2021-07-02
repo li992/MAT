@@ -1,0 +1,719 @@
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 84 Notes to the Consolidated Financial Statements 1.
+General information Serco Group plc the Group is a company incorporated in the United Kingdom under the Companies Act 1985.
+The address of the registered office is Serco House, 16 Bartley Wood Business Park, Bartley Way, Hook, Hampshire, RG27 9UY.
+These Consolidated Financial Statements the financial statements are presented in pounds Sterling because this is the currency of the primary economic environment in which the Group operates.
+Foreign operations are included in accordance with the policies set out in note 2.
+Significant accounting policies Basis of accounting The financial statements on pages 81 to 135 have been prepared in accordance with International Financial Reporting Standards IFRSs adopted for use in the European Union and therefore the Group financial statements comply with Article 4 of the EU IAS regulation.
+The financial statements have been prepared on the historical cost basis.
+The principal accounting policies adopted are set out below, and have been applied consistently in the current and preceding financial year.
+IFRIC 14 IAS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction is effective from 1 January 2008.
+The Group has considered IFRIC 14 when determining the value of all pension assets and liabilities.
+As discussed in more detail in the Finance Review, the financial statements have been prepared on a going concern basis.
+Presentation of financial information The primary statements within the financial information contained in this document have been presented in accordance with IAS 1 Presentation of Financial Statements.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company, entities controlled by the Company its subsidiaries and entities jointly controlled by the Company its joint ventures made up to 31 December each year.
+Control is achieved where the Company has the power to govern the financial and operating policies of an investee entity so as to obtain benefits from its activities.
+The results of subsidiaries and joint ventures acquired or disposed of during the year are included in the consolidated income statement from the effective date of acquisition or up to the effective date of disposal as appropriate.
+Where necessary, adjustments are made to the financial statements of subsidiaries and joint ventures to bring accounting policies used into line with those used by the Group.
+All intra-Group transactions, balances, income and expenses are eliminated on consolidation.
+Minority interests represent the portion of profit or loss and net assets in subsidiaries that is not held by the Group and is presented within equity in the consolidated balance sheet, separately from parent shareholders equity.
+Business combinations The acquisition of subsidiaries is accounted for using the purchase method.
+The cost of the acquisition is measured at the aggregate of the fair values, at the date of exchange, of assets given, liabilities incurred or assumed, and equity instruments issued by the Group in exchange for control of the acquiree, plus any costs directly attributable to the business combination.
+The acquirees identifiable assets, liabilities and contingent liabilities that meet the conditions for recognition under IFRS 3 Business Combinations are recognised at their fair value at the acquisition date.
+Goodwill arising on acquisition is recognised as an asset and initially measured at cost, being the excess of the cost of the business combination over the Groups interest in the net fair value of the identifiable assets, liabilities and contingent liabilities recognised.
+If, after reassessment, the Groups interest in the net fair value of the acquirees identifiable assets, liabilities and contingent liabilities exceeds the cost of the business combination, the excess is recognised immediately in the income statement.
+The interest of minority shareholders in the acquiree is initially measured at the minoritys proportion of the net fair value of the assets, liabilities and contingent liabilities recognised, unless there is an unconditional obligation to purchase the remaining shares and the minority has no right to future dividend flows.
+Significant accounting policies continued Goodwill Goodwill arising on consolidation represents the excess of the cost of acquisition over the Groups interest in the fair value of the identifiable net assets and liabilities of a subsidiary, associate or jointly-controlled entity, at the date of acquisition.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+Goodwill which is recognised as an asset is reviewed for impairment at least annually.
+Any impairment is recognised immediately in profit or loss and is not subsequently reversed.
+For the purpose of impairment testing, goodwill is allocated to each of the Groups cash-generating units expected to benefit from the synergies of the combination.
+Cash-generating units to which goodwill has been allocated are tested for impairment annually, or more frequently when there is an indication that the unit may be impaired.
+If the recoverable amount of the cash-generating unit is less than the carrying amount of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit.
+An impairment loss recognised for goodwill is not reversed in a subsequent period.
+On disposal of a subsidiary, associate or jointly-controlled entity, the attributable amount of goodwill is included in the determination of the profit or loss on disposal.
+Goodwill arising on acquisitions before the date of transition to IFRS has been retained at the previous UK GAAP amounts subject to being tested for impairment at that date.
+Goodwill written off to reserves under UK GAAP prior to 1998 has not been reinstated and is not included in determining any subsequent profit or loss on disposal.
+Investments in joint ventures The Groups investments in joint ventures are reported in the financial statements using the proportionate consolidation method, whereby the Groups share of each of the assets, liabilities, income and expenses of its joint ventures is combined line by line with similar items in the Groups financial statements or reported as separate line items within the Groups financial statements.
+Revenue recognition Revenue is measured at the fair value of the consideration received or receivable and represents amounts due for goods and services provided in the normal course of business, net of discounts, VAT and other sales-related taxes.
+Sales of goods are recognised when goods are delivered and title has passed.
+Interest income is accrued on a time basis, by reference to the principal outstanding and at the effective interest rate applicable, which is the rate that exactly discounts estimated future cash receipts through the expected life of the financial asset to that assets net carrying amount.
+Dividend income from investments is recognised when the shareholders rights to receive payment have been established.
+Revenue from long-term project-based contracts is recognised in accordance with the Groups accounting policy below.
+Long-term project-based contracts The Group has a number of long-term contracts for the provision of complex, project-based services.
+Where the outcome of such long-term project-based contracts can be measured reliably, revenue and costs are recognised by reference to the stage of completion of the contract activity at the balance sheet date in accordance with IAS 18 Revenue and IAS 11 Construction Contracts.
+This is measured by the proportion that contract costs incurred for work performed to date bear to the estimated total contract costs, except where this would not be representative of the stage of completion.
+Variations in contract work, claims and incentive payments are included to the extent that they have been agreed with the customer, or are virtually certain of being received.
+Where the outcome of a long-term project-based contract cannot be estimated reliably, contract revenue is recognised to the extent of contract costs that it is probable will be recovered.
+Contract costs are recognised as expenses in the period in which they are incurred.
+When it is probable that the total contract costs will exceed total contract revenue, the expected loss is recognised as an expense immediately.
+All bid costs are expensed through the income statement up to the point where contract award or full recovery of costs is virtually certain.
+Bid costs incurred after this point are then capitalised within trade and other receivables.
+On contract award these bid costs are amortised through the income statement over the contract period by reference to the stage of completion of the contract activity at the balance sheet date.
+Phase-in costs directly related to phase-in programmes of contracts are treated as an integral part of contract costs and are recognised on a straight-line basis over the life of the contract.
+Significant accounting policies continued Segmental information Segmental information is based on two segment formats: the primary format reflects the Groups management structure, whereas the secondary format is .
+Items excluded from segments comprise corporate expenses.
+Specific corporate expenses are allocated to the corresponding segments.
+Segment assets comprise goodwill, other intangible assets, property, plant and equipment, inventories, trade and other receivables excluding corporation tax recoverable and retirement benefit assets.
+Liabilities comprise trade and other payables and retirement benefit obligations.
+Inventories Inventories are stated at the lower of cost and net realisable value and comprise service spares, parts awaiting installation and long-term project-based contract balances.
+Cost comprises direct materials and, where applicable, direct labour costs that have been incurred in bringing the inventories to their present location and condition.
+Leases Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+All other leases are classified as operating leases.
+Assets held under finance leases are recognised as assets of the Group at fair value or, if lower, at the present value of minimum lease payments determined at the inception of the lease.
+The corresponding liability to the lessor is included in the balance sheet as a finance lease obligation.
+Lease payments are apportioned between finance charges and reduction of the lease obligation so as to achieve a constant rate of interest on the remaining balance of the liability.
+Finance charges are charged directly against income, unless they are directly attributable to a qualifying asset, in which case they are capitalised in accordance with the Groups general policy on borrowing costs see below.
+Total rentals payable under operating leases are charged to income on a straight-line basis over the term of the relevant lease.
+Foreign currencies Transactions in currencies other than pounds Sterling are recorded at the rates of exchange on the dates of the transactions.
+At each balance sheet date, monetary assets and liabilities that are denominated in foreign currencies are retranslated at the rates prevailing on the balance sheet date.
+Non-monetary assets and liabilities carried at fair value that are denominated in foreign currencies are translated at the date when the fair value was determined.
+Gains and losses arising on retranslation are included in the net profit or loss for the period, except for exchange differences arising on non-monetary assets and liabilities where the changes in fair value are recognised directly in equity in the statement of recognised income and expense SORIE.
+On consolidation, the assets and liabilities of the Groups overseas operations are translated at exchange rates prevailing on the balance sheet date.
+Income and expense items are translated at the average exchange rates for the period.
+Exchange differences arising, if any, are recognised directly within equity in the Groups hedging and translation reserve.
+Such translation differences are recognised as income or expenses in the period in which the operation is disposed of.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+Borrowing costs Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to the cost of those assets, until such time as the assets are substantially ready for their intended use or sale.
+No such borrowing costs have been capitalised in the year.
+All other borrowing costs are recognised as an income or expense in the period in which they are incurred.
+Retirement benefit costs Payments to defined contribution pension schemes are charged as an expense as they fall due.
+For defined benefit pension schemes, the cost of providing benefits is determined using the projected unit credit method, with actuarial valuations being carried out at each balance sheet date.
+Actuarial gains and losses are recognised in full in the period in which they occur.
+They are recognised outside the income statement and are presented in the SORIE.
+The current service cost represents the increase in the present value of the plan liabilities expected to arise from employee service in the current period.
+Significant accounting policies continued Retirement benefit costs continued Past service cost is recognised immediately to the extent that the benefits are already vested, and is amortised on a straight-line basis over the average period until the benefit becomes vested.
+Gains and losses on curtailments or settlements are recognised in the period in which the curtailment or settlement occurs.
+The retirement benefit obligation recognised in the balance sheet represents the present value of the defined benefit obligation as adjusted for unrecognised past service costs, and as reduced by the fair value of scheme assets.
+Any asset resulting from this calculation is limited to past service cost, plus the present value of available refunds and reductions in future contributions to the plan.
+The economic benefit from refunds is only recognised to the extent that the Group has an unconditional right to receive a refund.
+To the extent that an economic benefit is available as a reduction in contributions and there is a minimum funding requirement, the economic benefit available as a reduction in contributions is calculated at the present value of: a the estimated future service cost in each year: less b the estimated minimum funding contributions required in respect of the future accrual and benefits in that year.
+Defined benefit obligations arising from contractual obligations Where the Group takes on a contract and assumes the obligation to contribute variable amounts to the defined benefit pension scheme throughout the period of the contract and it is not virtually certain that the contributions will be recovered from the customer, the Groups share of the defined benefit obligation less its share of the pension scheme assets that it will fund over the period of the contract is recognised as a liability at the start of the contract with a corresponding amount being recognised as an intangible asset.
+The intangible asset, which reflects the Groups right to manage and operate the contract, is amortised over the contract period.
+The Groups share of the scheme assets and liabilities is calculated by reducing the scheme assets and liabilities by a franchise adjustment.
+The franchise adjustment represents the amount of scheme deficits that will be funded outside the contract period.
+Subsequent actuarial gains and losses in relation to the Groups share of pension obligations are recognised outside the income statement and are presented in the SORIE.
+Where the Group takes on a contract and assumes the obligation to contribute variable amounts to the defined benefit pension scheme throughout the period of the contract and it is virtually certain that the contributions will be recovered from the customer, the Groups share of the defined benefit obligation less its share of the pension scheme assets are recognised as a liability at the start of the contract with a corresponding amount being recognised as a financial asset at fair value, being the fair value of the reimbursable rights.
+In the consolidated income statement, the expense relating to the defined benefit plan is presented net of the amount recognised for reimbursement.
+The change in fair value of the reimbursable rights that is not presented in the income statement is reported in the SORIE.
+Multi-employer pension schemes Multi-employer pension schemes are classified as a defined contribution pension scheme or a defined benefit pension scheme under the terms of the scheme.
+When sufficient information is not available to use defined benefit accounting for a multi-employer defined benefit pension scheme, the Group accounts for the scheme as if it were a defined contribution scheme.
+Taxation The tax expense represents the sum of current tax expense and deferred tax expense.
+Current tax expense is based on taxable profit for the year.
+Taxable profit differs from net profit as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is provided, using the liability method, on temporary differences at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts for accounting purposes.
+Deferred tax liabilities are generally recognised for all taxable temporary differences.
+Deferred tax assets are generally recognised for all deductible temporary differences, carry forward of unused tax credits and unused tax losses, to the extent that it is probable that taxable profit will be available against which these items can be utilised.
+Deferred tax assets and liabilities are not recognised if the temporary difference arises from goodwill or from the initial recognition of an asset and liability in a transaction other than a business combination and, at the time of the transaction, affects neither the tax profit nor the accounting profit.
+Significant accounting policies continued Taxation continued Deferred tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries and joint ventures, except where the Group is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be utilised.
+Deferred tax is measured at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised, based upon tax rates and legislation that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax is charged or credited in the income statement, except where it relates to items charged or credited directly to equity, in which case the deferred tax is also recognised in equity.
+Deferred tax assets and liabilities are offset when there is a legal enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same tax authority where the Group intends to settle its current tax assets and liabilities on a net basis.
+Property, plant and equipment Assets held for use in the rendering of services, or for administrative purposes, are stated in the balance sheet at cost, net of accumulated depreciation and any provision for impairment.
+Depreciation is provided on a straight-line basis at rates to reduce the assets to their residual value over their estimated useful lives.
+The principal annual rates used are: Freehold buildings 2.5% Short-leasehold building improvements The higher of 10% or the rate produced by the lease term Machinery 15% - 20% Motor vehicles 10% - 50% Furniture 10% Office equipment 20% - 33% Leased equipment The higher of the rate produced by the lease term or useful life The gain or loss arising on the disposal or retirement of an asset is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognised in the income statement.
+Research and development costs Expenditure on research is recognised as an expense in the period in which it is incurred.
+Development costs are expensed in the period in which the costs are incurred unless the criteria for capitalisation is met see Other intangible assets policy.
+Other intangible assets Customer relationships represent the value of contracts acquired on the acquisition of subsidiaries and are amortised over the average length of contracts.
+Development expenditure is capitalised as an intangible asset only if all of the following conditions are met: an asset is created that can be identified: it is probable that the asset created will generate future economic benefits: and the development cost of the asset can be measured reliably.
+Development expenditure is amortised over the period in which the Group is expected to benefit.
+This period is between three to eight years, or the length of the contract if longer.
+Provision is also made for any impairment.
+All other development expenditure is written off as incurred.
+Assets under the course of construction are not depreciated.
+Licences comprise premiums paid for the acquisition of licences, which are amortised on a straight-line basis over the life of the licence.
+Franchises represent costs incurred in obtaining franchise rights and franchise goodwill arising on the acquisition of franchises.
+These are amortised on a straight-line basis over the life of the franchise.
+Significant accounting policies continued Other intangible assets continued Pension related intangibles represent assets arising in relation to the Groups right to manage and operate contracts where there is a defined benefit pension scheme and it is not virtually certain that contributions will be recovered from the customer but where the Groups obligation to contribute to the scheme ends when the contract ends.
+The intangible assets represent the Groups share of scheme net liabilities on the date that contracts commence and are amortised on a straight-line basis over the contract life.
+Impairment of tangible and intangible assets Annually, the Group reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash flows that are independent from other assets, the Group estimates the recoverable amount of the cash-generating unit CGU to which the asset belongs.
+A CGU is the smallest group of assets that generates cash inflows from continuing use that are largely independent of the cash flows of other assets or groups of assets.
+The goodwill acquired in a business combination, for the purpose of impairment testing, is allocated to CGUs that are expected to benefit from the synergies of the combination.
+The recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset or CGU is estimated to be less than its carrying amount, the carrying amount of the asset or CGU is reduced to its recoverable amount.
+An impairment loss is recognised as an expense immediately.
+Impairment losses recognised in respect of CGUs are allocated first to reduce the carrying amount of any goodwill allocated to the units and then to reduce the carrying amount of the other assets in the unit group of units on a pro-rata basis.
+An impairment loss in respect of goodwill is not reversed.
+In respect of other assets, impairment losses recognised in prior periods are assessed at each reporting date for indications that the loss has decreased or no longer exists.
+Where an impairment loss subsequently reverses, the carrying amount of the asset or CGU is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, had no impairment loss been recognised for the asset or CGU in prior years.
+A reversal of an impairment loss is recognised as income immediately.
+Impairment losses and reversals are included within other expenses within the consolidated income statement.
+Share-based payment The Group has applied the requirements of IFRS 2 Share-based Payment.
+In accordance with the transitional provisions, IFRS 2 has been applied to all grants of equity instruments after 7 November 2002 that were not fully vested as of 1 January 2005.
+The Group issues equity-settled share-based awards to certain employees and operates an Inland Revenue approved Save As You Earn SAYE share option scheme open to eligible employees which allows the purchase of shares at a discount.
+These are measured at fair value at the date of grant.
+The fair value is expensed on a straight-line basis over the vesting period, based on the Groups estimate of shares that will eventually vest.
+Fair value is measured by use of the Black Scholes, Binomial Lattice or Monte Carlo Simulation models depending on the type of scheme, as set out in note 35.
+The expected life used in the models has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Where relevant, the value of the option has also been adjusted to take account of market conditions applicable to the option.
+Trade receivables Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method, less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the contract.
+Significant financial difficulties of the debtor, probability that the debtor will enter bankruptcy or financial reorganisation, and default or delinquency in payments are considered indicators that a trade receivable is impaired.
+The amount of the provision is based on managements best estimate of the likelihood of the recoverable amount.
+The carrying amount of the asset is reduced through the use of a bad debt provision account and the amount of the loss is recognised in the income statement within administrative expenses.
+When a trade receivable is uncollectible, it is written off against the bad debt provision account for trade receivables.
+Subsequent recoveries of amounts previously written off are credited against administrative expenses.
+Significant accounting policies continued Cash and cash equivalents Cash and cash equivalents comprise cash in hand and balances with banks and similar institutions, which are readily convertible to known amounts of cash and which are subject to insignificant changes in value and have a maturity of three months or less.
+This definition is also used for the consolidated cash flow statement.
+Dividends Dividends are recorded in the Groups consolidated financial statements in the period in which they are approved by the Groups shareholders.
+Loans Loans are initially stated at the amount of the net proceeds after deduction of issue costs.
+The carrying amount of loans hedged by derivatives is increased by the finance cost in respect of the accounting period and reduced by payments made in the period.
+Loans which are unhedged are stated at amortised cost with accrued interest recorded separately from the associated borrowings within current liabilities.
+Loans are described as non recourse loans and classified as such only if no Group company other than the relevant borrower has an obligation, under a guarantee or other arrangement, to repay the debt.
+Derivative financial instruments and hedging activities The Group enters into a variety of derivative financial instruments to manage the exposure to interest rate and foreign exchange risk, including foreign exchange forward contracts and interest rate swaps.
+Further details of derivative financial instruments are given in note 27 to the financial statements.
+Derivatives are initially recognised at fair value at the date a derivative contract is entered into and are subsequently remeasured to their fair value at each balance sheet date.
+A derivative with a positive fair value is recognised as a financial asset whereas a derivative with a negative fair value is recognised as a financial liability.
+The resulting gain or loss is recognised in profit or loss immediately unless the derivative is designated and effective as a hedging instrument, in which event the timing of the recognition in profit or loss depends on the nature of the hedge relationship.
+The Group designates certain derivatives as either hedges of the fair value of recognised assets or liabilities or term commitments fair value hedges, hedges of highly probable forecast transactions or hedges of foreign currency risk of firm commitments cash flow hedges, or hedges of net investments in foreign operations.
+A derivative is presented as a non-current asset or a non-current liability if the remaining maturity of the instrument is more than 12 months and it is not expected to be realised or settled within 12 months.
+Other derivatives are presented as current assets or current liabilities.
+Embedded derivatives Derivatives embedded in other financial instruments or other host contracts are treated as separate derivatives when their risks and characteristics are not closely related to those of the host contracts and the host contracts are not measured at fair value through profit or loss.
+Hedge accounting The Group designates certain hedging instruments, which include derivatives, embedded derivatives and non-derivatives in respect of foreign currency risk, as either fair value hedges, cash flow hedges, or hedges of net investments in foreign operations.
+Hedges of foreign exchange risk on firm commitments are accounted for as cash flow hedges.
+At the inception of the hedge relationship, the entity documents the relationship between the hedging instrument and the hedged item, along with its risk management objectives and its strategy for undertaking various hedge transactions.
+Furthermore, at the inception of the hedge and on an ongoing basis, the Group documents whether the hedging instrument that is used in a hedging relationship is highly effective in offsetting changes in fair values or cash flows of the hedged item.
+Note 27 sets out details of the fair values of the derivative instruments used for hedging purposes.
+Movements in the hedging and translation reserve in equity are detailed in note 32.
+Significant accounting policies continued Derivative financial instruments and hedging activities continued Fair value hedges Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recorded in profit or loss immediately, together with any changes in the fair value of the hedged item that is attributable to the hedged risk.
+The change in the fair value of the hedging instrument and the change in the hedged item attributable to the hedged risk are recognised in the line of the income statement relating to the hedged item.
+Hedge accounting is discontinued when the Group revokes the hedging relationship, the hedging instrument expires or is sold, terminated, or exercised, or no longer qualifies for hedge accounting.
+The adjustment to the carrying amount of the hedged item arising from the hedged risk is amortised to profit or loss from that date.
+Cash flow hedges The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges are deferred in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in profit or loss, and is included in the other gains and losses line of the income statement.
+Amounts deferred in equity are recycled in profit or loss in the periods when the hedged item is recognised in profit or loss, in the same line of the income statement as the recognised hedged item.
+However, when the forecast transaction that is hedged results in the recognition of a non-financial asset or a non-financial liability, the gains and losses previously deferred in equity are transferred from equity and included in the initial measurement of the cost of the non-financial asset or non-financial liability.
+Any cumulative gain or loss deferred in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in profit or loss.
+When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was deferred in equity is recognised immediately in profit or loss.
+Provisions Provisions are recognised when the Group has a present obligation as a result of a past event, and it is probable that the Group will be required to settle that obligation.
+Provisions are measured at the Directors best estimate of the expenditure required to settle the obligation at the balance sheet date.
+New standards and interpretations not applied At the date of authorisation of these financial statements, the following standards and interpretations which have not been applied in these financial statements were in issue but not yet effective and in some cases had not yet been adopted by the EU : International Financial Reporting Standards IFRSs IFRS 1 amended IAS 27 amended Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate IFRS 2 amended Share-based Payment Vesting Conditions and Cancellations IFRS 3 revised 2008 Business Combinations IFRS 8 Operating Segments IAS 1 revised 2007 Presentation of Financial Statements IAS 23 revised 2007 Borrowing Costs IAS 27 revised 2008 Consolidated and Separate Financial Statements IAS 32 amended IAS 1 amended Puttable Financial Instruments and Obligations Arising on Liquidation International Financial Reporting Interpretations Committee IFRIC IFRIC 12 Service Concession Arrangements IFRIC 15 Agreements for the Construction of Real Estate IFRIC 16 Hedges of a Net Investment in a Foreign Operation The Directors do not anticipate that the adoption of these standards and interpretations will have a material impact on the Groups financial statements in the period of initial application, with the exception of additional segmental disclosures required by IFRS 8 and the treatment of acquisition of subsidiaries when IFRS 3 comes into effect for business combinations for which the acquisition date is on or after the beginning of the first annual period beginning on or after 1 July 2009.
+If IFRS 3 revised 2008 had been adopted in these accounts, directly attributable acquisitions costs of 8.0m would have been expensed during the year.
+Critical accounting judgements and key sources of estimation uncertainty Critical judgements in applying the Groups accounting policies In the process of applying the Groups accounting policies, which are described in note 2, management has made the following judgements that have the most significant effect on the amounts recognised in the financial statements apart from those involving estimations which are dealt with below.
+Revenue and profit recognition of long-term project-based contracts Revenue and profit is recognised for certain long-term project-based contracts based on the stage of completion of the contract activity.
+This is measured by the proportion of costs incurred to estimated whole-life contract costs except where this would not be representative of the stage of completion.
+Key sources of estimation uncertainty The key assumptions concerning the future, and other key sources of estimation uncertainty at the balance sheet date, that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year, are discussed below.
+Impairment of goodwill Determining whether goodwill is impaired requires an estimation of the value in use of the cash-generating units to which goodwill has been allocated.
+The value in use calculation involves an estimation of the future cash flows of cash-generating units and also the selection of appropriate discount rates, which involves judgement, to use to calculate present values see note 13.
+The carrying value of goodwill is 964.7m 2007: 542.1m at the balance sheet date.
+Retirement benefit obligations The calculation of retirement benefit obligations is dependent on material key assumptions including discount rates, future returns on assets and future contribution rates see note 28.
+The value of retirement benefit obligations at the balance sheet date is 177.1m 2007: 142.6m.
+The value of retirement benefit assets is 62.4m 2007: nil.
+Details of the impact of changes in assumptions relating to retirement benefit obligations are disclosed in the Finance Review page 43.
+Revenue An analysis of the Groups revenue is as follows: 2008 2007 m m Rendering of services 2,950.3 2,635.4 Revenue from long-term project-based contracts 173.2 175.3 Revenue as disclosed in the consolidated income statement 3,123.5 2,810.7 Investment revenue note 8 8.2 12.2 Total revenue as defined in IAS 18 3,131.7 2,822.9 92 Serco Group plc Serco AR2008 p79 -.
+Segmental information The Group manages its business on a market segment basis and these segments are the basis on which the Group reports its primary segment information.
+Market segments Civil Government Defence Transport Science Total Year ended 31 December 2008 m m m m m Revenue 1,127.3 785.8 670.8 539.6 3,123.5 Result Segment result 55.2 59.1 29.7 51.6 195.6 Corporate expenses 39.6 Operating profit 156.0 Investment revenue 8.2 Finance costs 28.1 Profit before tax 136.1 Tax 36.5 Profit for the year 99.6 Capital expenditure including acquisitions Property, plant and equipment 34.0 6.4 11.2 0.7 52.3 Goodwill 233.4 134.2.
+- 367.6 Intangible assets segments 39.8 25.3 1.7 0.8 67.6 Intangible assets corporate 7.0 74.6 Depreciation and amortisation Depreciation 13.5 4.1 4.6 3.8 26.0 Amortisation segments 14.7 0.7 4.9 1.5 21.8 Amortisation corporate 7.5 29.3 Segment assets Business segment assets 1,138.2 585.6 168.5 260.2 2,152.5 Corporate assets 67.6 2,220.1 Segment liabilities Business segment liabilities 382.0 175.7 141.2 249.9 948.8 Corporate liabilities 18.5 967.3 Serco Group plc 93 Serco AR2008 p79 -.
+Segmental information continued Market segments Civil Government Defence Transport Science Total Year ended 31 December 2007 m m m m m Revenue 952.2 720.5 655.0 483.0 2,810.7 Result Segment result 46.8 49.8 26.7 45.7 169.0 Corporate expenses 35.6 Operating profit 133.4 Investment revenue 12.2 Finance costs 31.0 Profit before tax 114.6 Tax 32.2 Profit for the year 82.4 Capital expenditure including acquisitions Property, plant and equipment 15.8 5.3 10.2 1.6 32.9 Goodwill 9.8.
+- 11.2 Intangible assets segments 11.8 1.2 1.3 0.5 14.8 Intangible assets corporate 16.2 31.0 Depreciation and amortisation Depreciation 17.7 6.2 4.6 1.7 30.2 Amortisation segments 11.3 0.6 3.8 1.5 17.2 Amortisation corporate 6.0 23.2 Segment assets Business segment assets 776.3 290.6 149.9 227.4 1,444.2 Corporate assets 56.1 1,500.3 Segment liabilities Business segment liabilities 281.4 233.8 108.0 179.4 802.6 Corporate liabilities 23.3 825.9 Geographical segments United North Europe and Asia Pacific Kingdom America Middle East and India Total Year ended 31 December 2008 m m m m m Revenue 2,334.6 369.9 237.2 181.8 3,123.5 Capital expenditure including acquisitions Property, plant and equipment 19.5 6.4 3.8 22.6 52.3 Goodwill 20.2 305.2.
+Segmental information continued Geographical segments United North Europe and Asia Pacific Kingdom America Middle East and India Total Year ended 31 December 2007 m m m m m Revenue 2,125.6 300.9 222.1 162.1 2,810.7 Capital expenditure including acquisitions Property, plant and equipment 19.2 1.2 3.0 9.5 32.9 Goodwill 9.8.
+- 11.2 Intangible assets 29.3 1.1 0.5 0.1 31.0 Assets Geographical segment assets 1,115.8 207.8 117.5 59.2 1,500.3 2008 2007 m m Segment assets comprise: Goodwill 964.7 542.1 Other intangible assets 191.3 139.4 Property, plant and equipment 115.4 95.1 Trade and other receivables non-current 121.1 104.6 Retirement benefit assets 62.4.
+- Inventories 50.2 46.3 Trade and other receivables current excluding tax recoverable 715.0 572.8 2,220.1 1,500.3 2008 2007 m m Segment liabilities comprise: Trade and other payables current 754.7 670.0 Trade and other payables non-current 35.5 13.3 Retirement benefit obligations 177.1 142.6 967.3 825.9 Serco Group plc 95 Serco AR2008 p79 -.
+Operating profit Operating profit is stated after charging crediting : 2008 2007 m m Net foreign exchange losses gains 1.0 1.1 Research and development costs 43.2 44.9 Gain loss on disposal of property, plant and equipment 4.6 1.3 Depreciation of property, plant and equipment note 17 26.0 30.2 Amortisation of intangible assets arising on acquisition note 14 9.2 8.6 Amortisation of intangible assets other note 14 20.1 14.6 Staff costs note 7 1,306.0 1,183.6 Bad debt provision charged to income statement note 20 1.3 0.5 Fair value adjustment on financial instruments - recycling of amounts on discontinued cash flow hedges 0.1 0.3 - forward foreign exchange contracts: non-designated hedges 1.3 1.1 Operating lease payments 81.7 108.4 Operating lease income 0.1 0.1 Amounts payable to Deloitte LLP and their associates by the Company and its subsidiary undertakings in respect of audit and non-audit services are shown below.
+2008 2007 m m Fees payable to the Companys auditors for the audit of the Companys annual accounts 0.9 0.8 Fees payable to the Companys auditors and their associates for other services to the Group: - audit of the Companys subsidiaries pursuant to legislation 0.7 0.8 Total audit fees 1.6 1.6 Other services pursuant to legislation 0.2 0.2 Tax services 0.2 0.4 Other services 0.4 0.2 Total non-audit fees 0.8 0.8 7.
+Staff costs The average monthly number of employees including Executive Directors was: 2008 2007 Number Number Civil Government 19,380 17,916 Defence 11,564 11,676 Transport 7,595 8,114 Science 3,882 3,525 Corporate, 263, 214 Total 42,684 41,445 Average monthly numbers of employees for joint ventures are included on a proportionately consolidated basis in the table above.
+Aggregate remuneration comprised: 2008 2007 m m Wages and salaries 1,114.0 1,011.6 Social security costs 99.1 92.0 Other pension costs note 28 85.9 75.0 1,299.0 1,178.6 Share-based payment expense note 35 7.0 5.0 Total 1,306.0 1,183.6 96 Serco Group plc Serco AR2008 p79 -.
+Investment revenue 2008 2007 m m Net fair value adjustments on derivative financial instruments 0.3 0.3 Interest receivable by PFI companies 1.0 3.2 Interest receivable on other loans and deposits 6.9 5.5 Net interest receivable on retirement benefit obligations note 28.
+Finance costs 2008 2007 m m Interest payable on non recourse loans 2.7 3.7 Interest payable on obligations under finance leases 1.3 1.0 Interest payable on other loans 23.5 26.3 Net interest payable on retirement benefit obligations note 28 0.6.
+Tax 2008 2007 m m Current tax UK corporation tax 21.2 12.2 Foreign tax 11.5 11.1 Adjustment in respect of prior years: - UK corporation tax 3.9 3.9 - Foreign tax 1.1 0.1 29.9 19.3 Deferred tax Current year 8.9 16.5 Adjustment in respect of prior years 2.3 3.6 6.6 12.9 36.5 32.2 The charge for the year can be reconciled to the profit in the consolidated income statement as follows: 2008 2007 m m Profit before tax 136.1 114.6 Tax calculated at a rate of 28.5% 2007: 30% 38.8 34.4 Expenses not deductible for tax purposes 5.9 6.5 Unrelieved tax losses and different tax rates on overseas earnings 2.7 3.2 Untaxed income and the effect of the use of unrecognised tax losses 2.6 1.3 Tax incentives 3.2 3.0 Adjustments in respect of prior years 5.1 7.6 Tax charge 36.5 32.2 The tax rate of 28.5% is derived from the blended statutory UK corporation tax rates for the year which reduced from 30% to 28% on 1 April 2008.
+Dividends 2008 2007 m m Amounts recognised as distributions to equity holders in the year: Final dividend for the year ended 31 December 2007 of 3.02p per share on 480.2 million ordinary shares 2007: Final dividend for the year ended 31 December 2006 of 2.55p per share on 471.1 million ordinary shares 14.5 12.0 Interim dividend for the year ended 31 December 2008 of 1.48p per share on 480.3 million ordinary shares 2007: Interim dividend for the year ended 31 December 2007 of 1.23p per share on 478.9 million ordinary shares 7.1 5.9 21.6 17.9 Proposed final dividend for the year ended 31 December 2008 of 3.52p per share on 481.1 million ordinary shares 2007: 3.02p on 480.2 million ordinary shares 16.9 14.5 The proposed final dividend for 2008 is subject to approval by shareholders at the Annual General Meeting and has not been included as a liability in these financial statements.
+A dividend waiver is effective for those shares held on behalf of the Company by its Employee Share Ownership Trust note 32.
+Earnings per share Basic and diluted earnings per ordinary share EPS have been calculated in accordance with IAS 33 Earnings per Share.
+EPS is shown both before and after amortisation of intangible assets arising on acquisition see note 14 to assist in the understanding of the underlying performance of the business.
+The calculation of the basic and diluted EPS is based on the following data: Number of shares 2008 2007 Millions Millions Weighted average number of ordinary shares for the purpose of basic EPS 485.7 482.4 Effect of dilutive potential ordinary shares: share options 7.3 6.8 Weighted average number of ordinary shares for the purpose of diluted EPS 493.0 489.2 Earnings 2008 2007 Per share Per share Earnings amount Earnings amount m Pence m Pence Earnings for the purpose of basic EPS being net profit attributable to the equity holders of the parent 99.5 20.49 81.9 16.98 Add back: Amortisation of intangible assets arising on acquisition, net of tax of 0.9m 2007: 0.9m 8.3 1.71 7.7 1.59 Adjusted earnings before amortisation of intangible assets arising on acquisition 107.8 22.20 89.6 18.57 Earnings for the purpose of basic EPS 99.5 20.49 81.9 16.98 Effect of dilutive potential ordinary shares.
+- 0.24 Diluted EPS 99.5 20.18 81.9 16.74 At 31 December 2008 options over 1,955,000 2007: 27,000 shares were excluded from the weighted average number of shares used for calculating diluted earnings per share because their exercise price was above the average share price for the year and they were, therefore, anti-dilutive.
+Goodwill Cost m At 1 January 2007 528.5 Additions 11.2 Exchange differences 2.4 At 1 January 2008 542.1 Additions 367.6 Exchange differences 55.0 At 31 December 2008 964.7 The goodwill acquired in business combinations is allocated, at acquisition, to the cash-generating units CGUs that are expected to benefit from that business combination.
+Goodwill has been allocated to CGUs in the following business segments: Cost 2008 2007 m m Civil Government 548.4 325.5 Defence 280.6 97.0 Science 114.3 102.3 Transport 21.4 17.3 At 31 December 964.7 542.1 The Group tests goodwill annually for impairment, or more frequently if there are indications that goodwill might be impaired.
+The recoverable amount of each CGU is based on value in use calculations.
+Key assumptions The value in use calculations use cash flow projections based on financial plans approved by senior management covering a five-year period.
+The key assumptions used are discussed below.
+Short-term growth rates Short-term revenue growth rates used in each CGU five-year plan are based on internal data regarding the current pipeline of opportunities and published industry forecasts for the relevant market.
+Short-term growth rates are tailored for each CGU taking into account the long-term contractual nature of revenues generated by the Group.
+As at 31 December 2008, the Group as a whole had revenue visibility of 90% for the next 12 month period based upon the order book.
+Visibility of planned 2010 and 2011 revenues are already 76% and 65% respectively.
+The order book at 31 December 2008 totalled 16.3bn.
+Appropriate new bid and re-bid win rates are included within each CGU forecast.
+Group wide, these rates are 50% and 90% respectively.
+Further discussion of the Groups order book and pipeline is provided in the Business review.
+Terminal growth rates The cash flows subsequent to the five-year period are based upon managements estimate of the growth rates of the sectors in which the CGUs operate.
+The terminal growth rates applied vary between 2.25% to 4%.
+These rates do not exceed the average long-term growth rates forecast for the individual market sectors.
+Capital expenditure Forecast capital expenditure is based on past practices, expectations on revenue growth and future expected capital requirements of existing opportunities within the pipeline for each CGU.
+Goodwill continued Discount rate The underlying discount rate is based on the UK ten-year gilt rate adjusted for an equity risk premium and the systematic risk of the Group.
+Management uses this pre-tax discount rate and adjusts for the risks specific to each of the CGUs, including consideration of: Customer type 90% of the Groups revenues are derived from government contracts and the Groups management of credit risk is disclosed in note 26.
+In preparation of the impairment reviews an additional premium is added for new, non government customers, if, in managements view, the credit risk is higher than other contracts within our portfolio.
+Contract length The majority of the Groups contracts within the CGUs are long-term in nature and the average length remaining on our significant contracts is nine years.
+For CGUs with contracts of a shorter duration, management consider whether it is appropriate to add a contract length premium to the base discount rate.
+Acquisition A higher discount rate is applied to acquisitions to reflect any implementation risks within the acquisition business model until these entities have been fully integrated into the Group structure.
+Geographic Consideration is given to the country in which a CGU operates, and an adjustment is applied if management considers that the economic risk is greater than that implicit in the base discount rate.
+Technology If a CGU is reliant upon new technology implementations to secure future revenue streams, an appropriate technology premium is added to the base discount rate.
+The discount rate ranges applied are disclosed below: 2008 2007 % % Civil Government 10.6 11.8 11.8 13.5 Defence 10.6 11.6 11.3 12.3 Science 10.6 11.8 11.3 Transport 11.1 13.1 11.8 The principal movement in discount rates applied from 2007 to 2008 reflects the removal of acquisition premiums relating to acquisitions in 2005, as the Group now fully understands the operating model of these businesses.
+Sensitivities Sensitivity analysis has been undertaken on each goodwill impairment review, by increasing the risk element of the discount rate, and other applicable variables for each CGU.
+The following CGU impairment tests were noted: The principal CGU within the Civil Government segment is our core technology business.
+The goodwill attributable to this CGU as at 31 December 2008 was 270.2m.
+Due to the potential impact of the adverse market conditions currently affecting the IT sector, the Group has undertaken extensive impairment testing including adjustments to growth rates, discount rates and a reduction in significant contract wins.
+None of these impairment sensitivities, either individually or combined, resulted in the carrying value of goodwill in respect of this business being reduced to the recoverable amount.
+The Transport segment contains six CGUs, including a CGU involved in the provision of aviation ground handling services with attributable goodwill of 4.3m.
+At the beginning of the financial period, the fair value of goodwill was substantially in excess of its book value.
+Owing to a contraction in the size of the business and the current adverse market conditions affecting the industry, the recoverable amount based on future cash flows has reduced as at 31 December 2008.
+The Group has conducted sensitivity analysis on the impairment testing of the CGU, and has concluded that a reduction in operating margin growth of 50% would result in the CGU requiring a goodwill impairment charge.
+Based on the Groups sensitivity analysis, no reasonably possible change in assumptions resulted in the carrying value of the goodwill being reduced to the recoverable amount, with the exception of the CGU within the Transport sector identified above.
+Other intangible assets Acquisition related Other Licences Software and Pension Customer and development related relationships franchises expenditure intangibles Total m m m m m Cost At 1 January 2008 22.4 62.0 93.9 26.7 205.0 Arising on acquisition of a company 53.7.
+- 5.5 At 31 December 2008 12.1 36.9 39.1 12.3 100.4 Net book value At 31 December 2008 65.4 31.2 80.3 14.4 191.3 Acquisition related Other Licences Software and Pension Customer and development related relationships franchises expenditure intangibles Total m m m m m Cost At 1 January 2007 22.0 54.8 61.7 26.7 165.2 Transfers.
+- 1.9 Arising on acquisition of a company 0.4.
+- 3.5 At 31 December 2007 8.4 27.7 20.2 9.3 65.6 Net book value At 31 December 2007 14.0 34.3 73.7 17.4 139.4 The following amortisation rates have been determined for the intangible assets acquired during 2008: Software and development expenditure over their estimated useful lives Customer relationships over average length of contracts acquired.
+Amortisation of intangibles arising on acquisition consists of amortisation in relation to customer relationships and licences and franchises and totals 9.2m 2007: 8.6m.
+The Group is carrying 119.4m in relation to software and development expenditure which includes assets relating to Formula 100, the Groups global SAP rollout, of 47.8m 2007: 45.3m.
+The amortisation period of this asset has six years 2007: seven years remaining.
+The Group is carrying 77.5m in relation to customer relationships of which the principal component is 51.8m acquired in the current year relating to the SI International, Inc. acquisition.
+The average remaining life of these customer relationship intangible assets is approximately seven years.
+Acquisitions SI International, Inc. On 29 December 2008, Serco acquired 100% of the issued share capital of SI International, Inc. SI International for consideration of 295.8m in cash.
+SI International is a provider of information services, technology and network solutions to the US Government.
+Due to the completion of the transaction being almost coterminous with the Groups own year end, the fair values of SI Internationals assets, liabilities and contingent liabilities, have been determined provisionally.
+The transaction was accounted for in accordance with IFRS 3 Business Combinations.
+Net liabilities acquired were: Provisional fair value Provisional Book value adjustments fair value m m m Goodwill 182.5 182.5.
+- Other intangible assets 15.3 36.5 51.8 Property, plant and equipment 9.1 3.8 5.3 Trade and other receivables 93.8 2.3 91.5 Cash and cash equivalents 13.2.
+- 25.1 25.1 Net liabilities acquired 168.5 177.9 9.4 Goodwill 305.2 Total consideration 295.8 Satisfied by: m Purchase consideration 289.8 Directly attributable costs 6.0 Total consideration 295.8 Net cash outflow arising on acquisition: m Purchase consideration 289.8 Directly attributable costs 12.8 Cash and cash equivalents acquired 13.2 289.4 Directly attributable costs include 6.8m of acquisition costs incurred by SI International which were paid post acquisition.
+In accordance with IFRS 3, these costs have not been capitalised.
+Due to the proximity of the acquisition date of 29 December 2008 to the Groups year end, SI International did not contribute to either the revenue or the profit before tax of the Group.
+If the acquisition had taken place at the start of the year, the Groups revenue and profit before tax, on a proforma basis, would have been approximately 308.3m and 13.7m higher respectively.
+SI International and Sercos existing North American business will be combined, and the combination will enhance Sercos ability to deliver integrated solutions to the US federal government services market.
+The goodwill arising on the acquisition of 305.2m is attributable to the anticipated profitability arising from new business and the anticipated future operating synergies from the combination.
+Acquisitions continued Amtech Private Limited InfoVision On 1 December 2008, the Group acquired 60% of the issued share capital of InfoVision.
+The Group is unconditionally obligated to acquire the remaining 40% of the issued share capital of InfoVision and, as part of the purchase agreement, the acquiree has waived all rights to dividends.
+As a result, the Group is accounting for InfoVision as a 100% subsidiary with no attributable minority interest.
+Consideration for the acquisition of InfoVision was 44.2m, consisting of 14.8m in cash, of which 9.7m was paid in 2008 and 5.1m falls due in 2009, 27.8m in deferred consideration and 1.6m in directly attributable costs.
+Due to the proximity of the transaction to the year end, the fair values of InfoVisions assets, liabilities and contingent liabilities, have been determined provisionally.
+This transaction has been accounted for in accordance with IFRS 3 Business Combinations.
+Net assets acquired were: Provisional fair value Provisional Book value adjustments fair value m m m Intangible assets.
+- 2.1 2.1 Property, plant and equipment 6.2 0.8 5.4 Trade and other receivables 9.9.
+- 3.0 Deferred tax liabilities assets 0.1 0.3 0.2 Provisions 2.2.
+- 2.2 Net assets acquired 2.8 0.8 2.0 Goodwill 42.2 Total consideration 44.2 Satisfied by: m Purchase consideration 42.6 Directly attributable costs 1.6 Total consideration 44.2 Net cash outflow arising on acquisition: m Purchase consideration paid in 2008 9.7 Directly attributable costs 1.6 Total consideration paid in 2008 11.3 Purchase consideration due in 2009 5.1 16.4 Deferred consideration 27.8 Total consideration 44.2 Deferred consideration is payable in two tranches, in April 2010 and April 2011.
+Deferred consideration of 27.8m represents the present value of managements best estimate of the expected liability as at 31 December 2008.
+InfoVision contributed 2.3m to revenue and 0.2m to the Groups profit before tax for the period between the date of acquisition and the balance sheet date.
+If the acquisition had taken place at the start of the year, the Groups revenue and profit before tax, on a proforma basis, would have been approximately 24.3m and 1.0m higher respectively.
+The purchase of InfoVision gives Serco an operational foothold in the Indian market.
+This rapidly growing, predominantly domestic BPO business, will be used to develop the Serco brand and grow our market presence in a fast moving, emerging market.
+This future growth potential has resulted in the recognition of goodwill of 42.2m.
+Acquisitions continued Grosvenor Health Limited On 30 May 2008, the Group acquired 100% of the equity of Grosvenor Health Limited Grosvenor Health for consideration of 19.4m in cash.
+Grosvenor Health is a leading independent provider of occupational health in the UK.
+Net liabilities acquired were: Fair value Book value adjustments Fair value m m m Intangible assets 5.8 5.5 0.3 Property, plant and equipment 0.4 0.1 0.3 Trade and other receivables 2.9 0.1 3.0 Cash and cash equivalents 0.9.
+- 0.9 Trade and other payables 6.1 0.8 5.3 Net liabilities acquired 3.9 4.7 0.8 Goodwill 20.2 Total consideration 19.4 Satisfied by: m Purchase consideration 19.0 Directly attributable costs 0.4 Total consideration 19.4 Net cash outflow arising on acquisition: m Purchase consideration 19.0 Directly attributable costs 0.4 Cash and cash equivalents acquired 0.9 18.5 Serco acquired Grosvenor Health to gain access to new markets.
+The combination of Sercos management expertise and Grosvenor Healths specialist knowledge is expected to deliver growth in the coming years and the future potential of the combined entity has lead to the recognition of goodwill of 20.2m.
+Grosvenor Health contributed 9.2m to revenue and 0.6m to the Groups profit before tax for the period between the date of acquisition and the balance sheet date.
+If the acquisition had taken place at the start of the year, the Groups revenue and profit before tax, on a proforma basis, would have been approximately 15.8m and 1.0m higher respectively.
+ER Consultants Limited As disclosed in the Annual Review and Accounts for 2007, the Group acquired ER Consultants Limited on 31 December 2007.
+The consideration in relation to this acquisition of 2.9m was paid in January 2008, together with 0.1m of related directly attributable costs.
+This has been reflected in the net cash outflow arising on acquisition in the cash flow statement for the year ended 31 December 2008.
+Disposals On 23 June 2008, Serco disposed of its equity stake in Kilmarnock Prison Services Limited, a 100% subsidiary.
+The financial effect of the disposal on the consolidated accounts for the period is as follows: Net assets disposed of were: m Trade and other receivables 2.8 PFI debtor 29.0 Cash and cash equivalents 3.0 Trade and other payables 2.3 Derivative financial instruments 0.9 Loans 20.9 Tax liabilities 7.8 2.9 The gain on sale is calculated as follows: m Cash consideration 6.2 Recycling of hedging reserve 0.7 Less: Net assets disposed of 2.9 Transaction costs 1.3 Gain on sale 2.7 The net cash inflow arising on disposal is as follows: m Cash consideration received 6.2 Less: Cash disposed of 3.0 Cash inflow 3.2 Transaction costs 1.3 Net cash inflow 1.9 Serco Group plc 105 Serco AR2008 p79 -.
+Property, plant and equipment Machinery, Shortmotor Freehold leasehold vehicles, land and building furniture and buildings improvements equipment Total m m m m Cost At 1 January 2008 6.4 29.3 205.5 241.2 Additions 0.1 5.9 35.3 41.3 Disposals 0.1 1.0 22.9 24.0 Arising on acquisition of subsidiaries.
+- 2.6 8.4 11.0 Exchange differences 1.2 2.2 20.1 23.5 At 31 December 2008 7.6 39.0 246.4 293.0 Accumulated depreciation and impairment At 1 January 2008 2.5 14.0 129.6 146.1 Charge for the year 0.3 3.5 22.2 26.0 Disposals 0.1 0.8 10.3 11.2 Exchange differences 0.6 1.2 14.9 16.7 At 31 December 2008 3.3 17.9 156.4 177.6 Net book value At 31 December 2008 4.3 21.1 90.0 115.4 Machinery, Shortmotor Freehold leasehold vehicles, land and building furniture and buildings improvements equipment Total m m m m Cost At 1 January 2007 8.4 24.2 183.2 215.8 Additions.
+- 1.3 1.3 Arising on acquisition of subsidiaries.
+- 1.1 1.1 Eliminated on disposals of joint ventures 0.2 0.2 1.8 2.2 Exchange differences 0.4 0.5 6.3 7.2 At 31 December 2007 6.4 29.3 205.5 241.2 Accumulated depreciation and impairment At 1 January 2007 2.5 11.2 108.5 122.2 Charge for the year 0.2 3.1 26.9 30.2 Eliminated on disposals 0.2 0.5 8.9 9.6 Arising on acquisition of subsidiaries.
+- 0.2 0.2 Eliminated on disposals of joint ventures 0.1 0.1 1.3 1.5 Exchange differences 0.1 0.3 4.2 4.6 At 31 December 2007 2.5 14.0 129.6 146.1 Net book value At 31 December 2007 3.9 15.3 75.9 95.1 The carrying amount of the Groups machinery, motor vehicles, furniture and equipment includes an amount of 19.5m 2007: 17.4m in respect of assets held under finance leases.
+The carrying amount of the Groups short-leasehold building improvements includes an amount of 2.4m 2007: 1.0m in respect of assets held under finance leases.
+Joint ventures The Groups interests in joint ventures are reported in the consolidated financial statements using the proportionate consolidation method.
+The effect of the Groups joint ventures on the consolidated income statement and balance sheet is as follows: Income statement 2008 2007 m m Revenue 719.7 680.1 Expenses 671.4 638.9 Operating profit 48.3 41.2 Investment revenue 5.1 4.9 Finance costs 0.7 0.9 Profit before tax 52.7 45.2 Tax 13.2 12.1 Profit for the year 39.5 33.1 Minority interest.
+- 0.3 Share of post-tax results of joint ventures 39.5 32.8 Operating profit is after allocating 4.7m 2007: 4.0m of costs incurred by Group.
+Balance sheet 2008 2007 m m Non-current assets 128.8 102.6 Current assets 117.7 124.2 Current liabilities 115.8 123.3 Non-current liabilities 103.7 75.5 Net assets 27.0 28.0 19.
+Inventories 2008 2007 m m Service spares 16.4 14.9 Parts awaiting installation 11.9 11.2 Long-term project-based contract balances 21.9 20.2 50.2 46.3 As at 31 December 2008, nil 2007: nil of advances received from customers were included within long-term project-based contract balances.
+As at 31 December 2008, the Group had nil 2007: nil of contract retentions held by customers.
+Trade and other receivables 2008 2007 m m Trade and other receivables: Non-current PFI debtor.
+- 27.4 Amounts owed by joint ventures 1.9 0.6 Amounts recoverable on retirement benefit obligations note 28 89.6 60.7 Other debtors 29.6 15.9 121.1 104.6 2008 2007 m m Trade and other receivables: Current Trade receivables 525.1 418.1 Other amounts recoverable on contracts 61.5 50.3 PFI debtor.
+- 2.4 Prepayments and accrued income 84.1 51.3 Other debtors 44.3 50.7 715.0 572.8 Corporation tax recoverable 4.5 0.8 719.5 573.6 The PFI debtor in 2007 was funded by a non recourse loan of 22.5m.
+The Directors estimate that the carrying amount of trade debtors approximates to their fair value.
+As of 31 December 2008, trade receivables of 2.7m 2007: 1.4m were considered to be impaired.
+Impairments to trade receivables are based on specific estimated irrecoverable amounts and general provisions on outstanding balances greater than a year old unless there is firm evidence that the balance is recoverable.
+The amount of the provision was 2.7m as of 31 December 2008 2007: 1.4m primarily because our customers have a sovereign credit rating being either government organisations or blue chip private sector companies.
+The ageing of trade receivables is as follows: 2008 2007 m m Neither billed, impaired nor past due 463.3 334.6 Not impaired but overdue by less than 30 days 37.3 53.4 Not impaired but overdue by between 30 and 60 days 12.3 13.5 Not impaired but overdue by more than 60 days 12.2 16.6 Impaired 2.7 1.4 Bad debt provision 2.7 1.4 525.1 418.1 Movements on the Group bad debt provision are as follows: 2008 2007 m m At 1 January 1.4 1.4 Charged to income statement 1.3 0.5 Utilised 0.6 0.5 Arising on acquisition 0.3.
+- At 31 December 2.7 1.4 The maximum exposure to credit risk in relation to trade receivables at the reporting date is the fair value of trade receivables.
+The Group does not hold any collateral as security.
+Cash and cash equivalents Other Other Sterling currencies Total Sterling currencies Total 2008 2008 2008 2007 2007 2007 m m m m m m Cash of PFI and other project companies securing credit obligations.
+- 6.2 6.2 Other cash and short-term deposits 108.8 131.6 240.4 97.6 75.5 173.1 Total cash and cash equivalents 108.8 142.0 250.8 99.3 85.7 185.0 Cash of PFI and other project companies and customer advance payments totalling 10.4m 2007: 11.9m are encumbered cash balances.
+Cash and cash equivalents which are presented as a single class of assets on the face of the balance sheet comprise cash at bank and other short-term highly liquid investments with a maturity of three months or less.
+Loans Non Non recourse recourse loans Other non loans Other non relating to recourse Other relating to recourse Other PFI assets loans loans Total PFI assets loans loans Total 2008 2008 2008 2008 2007 2007 2007 2007 m m m m m m m m Loans are repayable as follows: On demand or within one year.
+- 34.1 713.6 747.7 22.5 36.8 271.6 330.9 Less: Amount due for settlement within one year shown within current liabilities.
+- 27.6 683.3 710.9 19.7 30.9 266.8 317.4 The carrying amounts and fair values of the loans are as follows: Carrying amount Fair value 2008 2007 2008 2007 m m m m Non recourse loans relating to PFI assets.
+- 21.0 Other non recourse loans 34.1 36.8 38.0 38.2 Other loans 713.6 271.6 728.8 274.6 747.7 330.9 766.8 333.8 The fair values are based on cash flows discounted using a rate based on the borrowing rate associated with the loan.
+All loans are held at amortised cost.
+Deferred tax Deferred income taxes are calculated in full on temporary differences under the liability method using local substantively enacted tax rates.
+The gross movement on the deferred income tax account is as follows: 2008 2007 m m At 1 January 29.6 53.8 Income statement charge note 10 6.6 12.9 Acquisitions disposals 7.1.
+- Items taken directly to equity 22.2 11.5 Exchange differences.
+- 0.2 At 31 December 6.3 29.6 The movement in deferred tax assets and liabilities during the year was as follows: Temporary Share-based differences payment and Retirement Derivative Other on assets employee benefit financial temporary intangibles benefits schemes instruments differences Total m m m m m m At 1 January 2008 8.0 19.7 15.4 3.0 0.5 29.6 Charged credited to income statement 2.4 2.7 6.1.
+- 22.2 At 31 December 2008 26.2 19.5 7.5 0.6 8.5 6.3 The movement in deferred tax assets and liabilities during the previous year was as follows: Temporary Share-based differences payment and Retirement Derivative Other on assets employee benefit financial temporary intangibles benefits schemes instruments differences Total m m m m m m At 1 January 2007 11.2 19.0 41.1 5.2 0.3 53.8 Credited charged to income statement 3.0 3.6 12.2 0.1 0.2 12.9 Exchange differences 0.2.
+- 0.2 Items taken directly to equity.
+- 11.5 At 31 December 2007 8.0 19.7 15.4 3.0 0.5 29.6 Deferred income tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when the deferred income taxes relate to the same fiscal authority.
+The following is the analysis of the deferred tax balances after offset for financial reporting purposes: 2008 2007 m m Deferred tax liabilities 25.9 22.0 Deferred tax assets 19.6 51.6 6.3 29.6 At the balance sheet date, the Group did not recognise deferred tax assets of 9.7m 2007: 7.7m in respect of unused tax losses of 28.0m.
+Included in unrecognised tax losses are losses of 10.6m that will expire in 2010, 2.6m that will expire in 2014, 0.8m that will expire in 2026 and 1.3m that will expire in 2027.
+Remaining losses may be carried forward indefinitely.
+At the balance sheet date, the aggregate amount of temporary differences associated with undistributed earnings of subsidiaries for which deferred tax liabilities have not been recognised was 7.5m 2007: 6.2m.
+No liability has been recognised in respect of these differences because the Group is in a position to control the timing of the reversal of the temporary differences and it is probable that such differences will not reverse in the foreseeable future.
+Obligations under finance leases Present value Present value Minimum of minimum Minimum of minimum lease lease lease lease payments payments payments payments 2008 2008 2007 2007 m m m m Amounts payable under finance leases: Within one year 5.8 4.5 8.6 7.7 Between one and five years 12.6 10.7 9.1 7.5 After five years 2.3 2.0 1.4 1.2 20.7 17.2 19.1 16.4 Less: future finance charges 3.5.
+- Present value of lease obligations 17.2 17.2 16.4 16.4 Less: amount due for settlement within one year shown under current liabilities 5.8 4.5 8.6 7.7 Amount due for settlement after one year 11.4 12.7 7.8 8.7 Finance lease obligations are secured by the lessors title to the leased assets.
+The Directors estimate that the fair value of the Groups lease obligations approximates their carrying amount.
+Trade and other payables 2008 2007 m m Trade and other payables: Current Trade creditors 225.0 173.7 Other creditors 132.6 137.2 Accruals and deferred income 397.1 358.8 Amounts owed to joint ventures.
+- 0.3 754.7 670.0 The average credit period taken for trade purchases is 28 days 2007: 24 days.
+The Directors estimate that the fair value of trade creditors approximates to their carrying amount.
+2008 2007 m m Trade and other payables: Non-current Other creditors 35.4 13.3 Amounts owed to joint ventures 0.1.
+Financial risk management The Group held the following financial instruments at 31 December: Carrying amount 2008 2007 m m Financial assets Derivative financial instruments at fair value note 27 10.6 2.7 Loans and receivables at amortised cost - Trade receivables note 20 525.1 418.1 - Other financial assets note 26 1.4 1.4 - Cash and cash equivalents note 21 250.8 185.0 787.9 607.2 Financial liabilities Derivative financial instruments at fair value note 27 4.6 13.3 At amortised cost - Loans note 22 747.7 330.9 - Trade creditors note 25 225.0 173.7 - Obligations under finance leases note 24 17.2 16.4 994.5 534.3 Net financial instruments 206.6 72.9 Financial risk The Board is ultimately responsible for ensuring that financial and non-financial risks arising from financial instruments is monitored and managed within acceptable and known parameters.
+The Board delegates authority to the Executive Team to manage financial risks.
+The Groups treasury function acts as a service centre and operates within clearly defined guidelines and policies that are approved by the Board.
+The guidelines and policies define the financial risks to be managed: specify the objectives in managing these risks: delegate responsibilities to those managing the risks: and establish a control framework to regulate treasury activities to minimise operational risk.
+Credit facilities and liquidity management The Group maintains committed credit facilities to ensure that it has sufficient liquidity to maintain its ongoing operations.
+During the year, financing was arranged for the SI International, Inc. acquisition, along with the refinancing of the Groups main committed credit facility.
+Acquisition financing consisted of a 35m revolving credit facility and US Dollar 488m term loan facility, both fully drawn as at 31 December 2008.
+The 35m facility expires in December 2011, whilst the US Dollar 488m facility amortises from 2010 and expires in September 2013.
+The previous bank facility was refinanced with a 400m revolving credit facility, expiring in September 2013 and as at 31 December 2008 drawings were 26m and US Dollar 229m.
+As at 31 December 2007, the bank facility comprised of term loans of 26m and US Dollar 229m, and an undrawn 255m revolving credit facility.
+The banking facilities are unsecured and have financial and non-financial covenants and obligations typical of these arrangements.
+The Group has outstanding private placements of 117m which amortise in equal annual instalments from 2011 to 2015.
+The private placements comprise a tranche of 83m and a tranche of US Dollar 55m, which is hedged by two cross currency swaps note 27 a.
+Foreign exchange risk Transactional The Groups business does not involve a significant amount of cross-border trade, and therefore, the Group is not exposed to substantial foreign currency transaction risk as sales and costs are closely matched within each overseas operation.
+Any material transactional exposures that do arise are hedged by the Groups treasury function using forward foreign exchange contracts.
+Translational The foreign exchange exposure on the US Dollar tranche of the private placements has been fully hedged into Sterling.
+The exposure on US Dollar drawings under the new bank facilities is hedged against the net investment in our US business.
+Central funding of individual businesses gives rise to monetary assets and liabilities.
+The currency of funding is selected to ensure that any foreign exchange risk resides with Group.
+This risk is then managed by the Groups treasury function, using forward foreign exchange contracts and any natural hedge positions that may exist.
+Financial risk management continued Credit risk The Groups principal financial assets are cash and cash equivalents and trade and other receivables.
+The Groups credit risk is relatively low because a high proportion of our customers have a sovereign or sovereign like credit rating and the Group has a large number of counterparties and customers.
+External credit checks are completed for all new non Government customers before signing a contract above 100,000. Credit vetting for new Government body customers is performed by an internal review of the clients ability to pay and timeliness of payment.
+The review includes a consideration of the expected contract budget as well as economic and industry factors and the budget holders position within the Government body.
+At quarterly intervals, a management credit worthiness review for all ongoing customers with material outstanding balances is undertaken, including an assessment to determine if there has been any deterioration in the customers payment history and a review of the total credit authorised to the customer throughout the Group.
+The Groups treasury function only transacts with counterparties that have a public rating from a credit rating agency of single A or better.
+It also ensures that no exposure to any one institution at any given time exceeds a pre-approved exposure limit.
+Interest rate risk The Groups policy is to hedge core borrowing requirements to protect against adverse interest rate movements.
+Exposure to interest rate risk arises principally on changes to US Dollar and Sterling interest rates.
+Price risk The Group is exposed to commodity price risk through its joint venture rail operations.
+These joint ventures have used commodity derivatives to mitigate some of this risk see note 27 b.
+26 a Currency management The Groups currency exposures that result in net currency gains and losses on financial instruments, that are recognised in the income statement and equity, arise principally from US Dollar and Canadian Dollar financial instruments.
+The fluctuations in other exchange rates do not significantly alter the value of financial instruments.
+At 31 December 2008, if the US Dollar had weakened by 10% against Sterling, with all other variables held constant, post-tax profit for the year would have been 0.1m higher 2007: 0.7m lower mainly as a result of offsetting movements on working capital and derivative financial instruments.
+Equity would have been 34.8m higher 2007: 0.6m lower mainly due to exchange gains on net investment hedges denominated in US Dollars.
+However this would be predominantly offset by exchange losses on the retranslation of the net assets of the US subsidiaries.
+At 31 December 2008, if the US Dollar had weakened by 10% against the Canadian Dollar, with all other variables held constant, post-tax profit for the year would have been 0.3m lower 2007: 0.9m higher mainly as a result of exchange losses on US Dollar denominated non-current intercompany borrowings.
+Equity would have been 0.5m higher 2007: 0.4m higher due to Canadian Dollar denominated non-current intercompany borrowings.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 114 26 b Interest rate management An analysis of financial assets and liabilities exposed to interest rate risk is set out below: i Financial assets 2008 2007 Weighted Weighted average fixed average fixed interest rate interest rate Floating rate Fixed rate received Floating rate Fixed rate received m m % m m % Cash and cash equivalents 250.8.
+0- Other financial assets 0.2 1.2 6.00 0.2 1.2 6.00 251.0 1.2 185.2 1.2 ii Financial liabilities 2008 2007 Weighted Weighted average fixed average fixed interest rate interest rate Floating rate Fixed rate received Floating rate Fixed rate received m m % m m % Non recourse Sterling loans related to PFI assets.
+- 22.5 7.35 Non recourse Canadian Dollar loans.
+0- Other loans 7.5 3.3 12.59 2.9 4.8 8.00 590.5 157.2 146.3 184.6 Exposure to interest rate fluctuations is mitigated through the use of interest rate derivatives.
+Excluded from the above analysis is 17.2m 2007: 16.4m of amounts payable under finance leases, which are subject to fixed rates of interest.
+iii Interest rate sensitivity The sensitivity analyses have been determined on the exposure to interest rates for both derivatives and financial liabilities at the balance sheet date and on average balances of financial assets held throughout the past year.
+A 100 basis point movement in interest rates with all other variables held constant, would have an impact on post-tax profit for the year to 31 December 2008 of 1.1m 2007: 0.6m.
+The variance is mainly due to interest exposure on floating rate borrowings.
+The resulting impact on equity due to a 100 basis point movement is 1.2m 2007: 1.7m mainly due to the movement in the fair value of derivative financial instruments held as cash flow hedges.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 115 26 c Liquidity risk management The Groups financial liabilities will be settled on a net basis based on the remaining period at the balance sheet date to the contractual maturity date.
+The amounts disclosed below are the contractual undiscounted cash flows based on the earliest date on which the Group can be required to pay.
+On demand Between Between or within one and two and After five one year two years five years years Total m m m m m Loans 36.8 71.4 591.8 47.7 747.7 Loan interest 28.1 26.9 53.1 3.6 111.7 Finance leases 5.8 6.2 6.4 2.3 20.7 Derivative financial liabilities 1.3 0.2 0.2.
+- 173.7 At 31 December 2007 217.2 173.9 109.4 92.3 592.8 26 d Capital risk management The Groups objectives when managing capital are to safeguard its ability to continue as a going concern in order to provide returns for shareholders and benefits for other stakeholders, and to maintain an optimal capital structure.
+Access to capital takes many forms and includes, although not exhaustive, access to the equity market, debt capital market, and bank market.
+During 2008, the Group maintained sufficient debt facilities that ensured its objectives were met.
+26 e Price risk management The Group is exposed to commodity price risk arising from the volatility in the price of fuel and manages this exposure by holding commodity futures contracts.
+A US Dollar 0.2 per litre increase in the price of fuel as at the balance sheet date would result in a 6.5m increase 2007: 5.0m increase in equity.
+There is no impact in the income statement resulting from a change in fuel prices.
+The sensitivity to changes in fuel prices resulting from changes in exchange rates is included within the currency sensitivity analysis see note 26 a. Serco Group plc 115 Serco AR2008 p79 -.
+Derivative financial instruments Derivative financial instruments total a net asset of 6.0m 2007: 10.6m net liability, comprising non-current assets of 5.6m 2007: 1.2m, current assets of 5.0m 2007: 1.5m, current liabilities of 4.2m 2007: 2.1m and non-current liabilities of 0.4m 2007: 11.2m.
+Movement Movement Movement in fair in fair in fair value of nonCash flow 1 January value of cash value of fair designated hedges 31 December 2008 flow hedges value hedges hedges disposed of 2008 m m m m m m Currency swaps 6.3 10.5.
+- 1.6 0.9 6.0 The movement in interest rate swaps resulted from the disposal, on 23 June 2008, of the Groups equity stake in Kilmarnock Prison Services Limited, a 100% subsidiary of Serco Limited.
+Movement Movement Movement in fair in fair in fair value of nonCash flow 1 January value of cash value of fair designated hedges 31 December 2007 flow hedges value hedges hedges disposed of 2007 m m m m m m Currency swaps 11.4 3.7 1.4.
+- 10.6 The movement in the fair value of cash flow hedges includes an amount of 3.4m relating to the maturity of a currency swap.
+The maturity of derivative financial instruments is as follows: Forward foreign Commodity Currency exchange Interest futures swaps contracts rate swaps contracts Total At 31 December 2008 m m m m m On demand or within one year 0.2 1.5.
+- 0.4 Between two and five years 2.3 0.5.
+- 0.4 6.0 Forward foreign exchange contracts comprise a current asset of 4.8m 2007: 0.8m, a non-current asset of 1.0m 2007: nil, a current liability of 3.4m 2007: 1.4m, and a non-current liability of 0.2m 2007: 3.7m.
+Forward foreign Commodity Currency exchange Interest futures swaps contracts rate swaps contracts Total At 31 December 2007 m m m m m On demand or within one year 0.4 0.6 0.4 0.8 0.6 Between one and two years 0.3 1.0 0.4 0.6 1.1 Between two and five years 0.9 2.7 0.9 0.6 3.9 After five years 4.7.
+- 5.0 6.3 4.3 2.0 2.0 10.6 Derivative financial instruments are recognised in the balance sheet at fair value which is calculated using a discounted cash flow technique consistent for similar types of instruments.
+This technique takes into consideration assumptions based on market data.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 117 27 a Forward foreign exchange contracts and currency swaps The Group utilises currency derivatives to hedge significant future transactions and cash flows.
+The Group is party to a variety of foreign currency forward contracts and swap contracts in the management of its exchange rate exposures.
+These contracts are primarily denominated in the currencies of the Groups principal markets.
+At the balance sheet date, the total notional amount of outstanding forward foreign exchange and currency swap contracts to which the Group is committed is 99.7m 2007: 50.1m.
+These arrangements are mainly designed to address significant exchange exposures for the next seven years.
+Cash flow hedges At 31 December 2008, the Group held a number of currency swaps designated as cash flow hedges.
+Fixed interest cash flows denominated in US Dollars are exchanged for fixed interest cash flows denominated in Sterling.
+The profile of these currency swaps held by the Group is as follows: 2008 2007 Receivable Receivable Notional USD Payable GBP Notional USD Payable GBP amount interest rate interest rate amount interest rate interest rate Maturity USDm %% USDm %% August 2015 35.0 5.7 5.7 35.0 5.7 5.7 August 2015 20.0 5.7 5.7 20.0 5.7 5.7 The Group also held a number of forward foreign exchange contracts designated as cash flow hedges with a notional amount of 52.2m 2007: 15.6m.
+All currency derivatives designated as cash flow hedges are highly effective and the fair value movement of 15.7m 2007: 4.5m has been deferred as a credit in equity.
+No amounts have been recognised in the income statement except for a discontinued cash flow hedge.
+In prior periods a loss of 1.4m had been recognised in the hedging reserve.
+As at 31 December 2007, the balance remaining in the hedging reserve was 0.6m.
+The hedging reserve is recycled to the income statement as the hedged transaction affects the income statement.
+A loss of 0.1m 2007: loss of 0.3m has been included in the income statement, and the remaining loss of 0.5m 2007: loss of 0.6m is expected to be recognised in the income statement in future periods.
+27 b Commodity futures contracts The Group uses commodity futures contracts in its joint venture train operations in order to protect itself from volatility in the price of fuel.
+The Group has a contract expiring in 2011 whereby it pays a fixed rate of 0.2895 per litre and receives a floating rate for a fixed quantity which varies each month.
+The floating rate is calculated as the daily 0.2% NWE price in US Dollars per tonne converted into litres and then into Sterling at the daily spot rate.
+In November 2008, a contract was transacted whereby during the period between December 2008 and September 2009, the Group pays a fixed rate of 0.341 per litre for a fixed quantity which varies each month and receives a floating rate.
+In December 2008, a further contract was transacted whereby during the period between October 2009 and September 2010, the Group will pay a fixed rate of 0.338 per litre for a fixed quantity which varies each month and receives a floating rate.
+For both of the new contracts, the floating rate is calculated as the daily 0.1% NWE price in US Dollars per tonne converted into litres and then into Sterling at the daily spot rate.
+The commodity futures contracts are designated as cash flow hedges and are highly effective and the fair value movement of 2.4m 2007: 4.2m has been deferred as a credit in equity.
+No amounts have been recognised in the income statement.
+27 c Hedges of net investments in foreign entities The Group has US Dollar denominated borrowings, some of which have been designated as a hedge of part of the net investment in its acquired subsidiaries in the US.
+In December 2008, borrowings of Euro 17.2m were designated as a hedge of part of the net investment in the Groups subsidiaries in Europe.
+Following the acquisition of SI International, Inc. on 29 December 2008, a further US Dollar 539.7m of borrowings and US Dollar 10.3m forward foreign exchange contracts were designated as a hedge of the net investment in SI International, Inc.
+The carrying value of the designated borrowings was 426m 2007: 24.6m.
+The foreign exchange loss of 16.1m 2007: 0.4m gain on translation into Sterling of the borrowings and forward foreign exchange contracts has been recognised within the Groups hedging and translation reserve.
+The hedge is highly effective.
+Retirement benefit schemes The Group has accounted for pensions in accordance with IAS 19 Employee Benefits.
+The Group operates and is a member of a number of defined benefit schemes and defined contribution schemes.
+The pension charge for the year ended 31 December 2008, including the proportionate share of joint ventures, was 85.9m 2007: 75.0m.
+28 a Defined benefit schemes The Group operates defined benefit schemes for qualifying employees of its subsidiaries in the UK and Europe.
+In addition, the Group has interests in joint ventures, which operate defined benefit schemes for qualifying employees.
+The assets of the funded plans are held independently of the Groups assets in separate trustee administered funds.
+The Groups major plans are valued by independent actuaries annually using the projected unit credit method.
+This reflects service rendered by employees to the dates of valuation and incorporates actuarial assumptions primarily regarding discount rates used in determining the present value of benefits, projected rates of salary growth, and long-term expected rates of return for plan assets.
+Discount rates are based on the market yields of high-quality corporate bonds in the country concerned.
+Long-term expected rates of return for plan assets are based on published brokers forecasts for each category of scheme assets.
+Pension assets and liabilities in different defined benefit schemes are not offset unless the Group has a legally enforceable right to use the surplus in one plan to settle obligations in the other plan and intends to exercise this right.
+The amounts recognised in the consolidated balance sheet are grouped together as follows: Contract specific - Virtually certain costs reimbursed The Group has an obligation to contribute to the pension scheme over the term of the contract.
+At rebid any deficit or surplus would transfer to the next contractor.
+Throughout the contract, it is virtually certain that the Group will be reimbursed the expenditure required to settle the defined benefit obligation.
+The Groups share of the defined benefit obligation less its share of the fair value of scheme assets that it will fund over the period of the contract has been recognised as a liability.
+The Group has recognised the right to reimbursement as a separate asset.
+In the consolidated income statement, the expense relating to this defined benefit plan has been presented net of the amount recognised for the reimbursement, resulting in a nil charge to the income statement.
+Contract specific - Not certain costs reimbursed These are pre-funded defined benefit schemes.
+The Group has obligations to contribute variable amounts to the pension schemes over the terms of the related contracts.
+The Group has recognised as a liability the defined benefit obligation less the fair value of scheme assets that it will fund over the period of the contracts with a corresponding amount recognised as intangible assets at the start of the contracts.
+Subsequent actuarial gains and losses in relation to the Groups share of the pension obligations have been recognised in the consolidated statement of recognised income and expense SORIE.
+The intangible assets are amortised over the term of the contracts.
+Non contract specific These consist of a pre-funded defined benefit scheme which does not relate to any specific contract the funding policy is to contribute such variable amounts, on the advice of the actuary, as will achieve 100% funding on a projected salary basis and an unfunded defined benefit scheme, both of which do not relate to any specific contract.
+Any liabilities arising are recognised in full.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 119 28 a Defined benefit schemes continued The assets and liabilities of the schemes at 31 December are: Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total Year ended 31 December 2008 m m m m Scheme assets at fair value Equities 102.0 194.4 163.5 459.9 Bonds except LDI 45.1 10.6 13.4 69.1 Liability driven investments LDI.
+- 62.4 62.4 Related assets Intangible assets note 14.
+- 14.4 Trade and other receivables note 20 89.6.. -.
+- 104.0 Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total Year ended 31 December 2007 m m m m Scheme assets at fair value Equities 163.1 247.6 213.7 624.4 Bonds except LDI 47.6 8.9 18.4 74.9 Liability driven investments LDI.
+- 17.6 Net pension liability 60.7 14.0 67.9 142.6 Related assets Intangible assets note 14.
+- 17.4 Trade and other receivables note 20 60.7.
+- 78.1 Liabilities in relation to unfunded schemes included above amount to 51.2m 2007: 38.1m.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 120 28 a Defined benefit schemes continued During 2007, certain of the Groups non contract specific schemes introduced a Liability Driven Investment LDI strategy which aims to reduce volatility risk by better matching assets to liabilities.
+The main asset classes that make up the LDI investments are gilts and corporate bonds with inflation and interest swap overlays, and the assumed expected rate of return is taken to be gilts 0.3% 2007: gilts 0.2%.
+In some schemes, employee contributions vary over time to meet a specified proportion of the overall costs, including a proportion of any deficit.
+The liabilities recognised in the balance sheet for these schemes are net of the proportion attributed to employees.
+In addition, the amounts charged to the consolidated income statement for these schemes are net of the proportion attributed to employees.
+The amounts attributed to employees are shown separately in the reconciliation of changes in the fair value of scheme assets and liabilities.
+The amounts recognised in the financial statements for the year are analysed as follows: Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total Year ended 31 December 2008 m m m m Recognised in the consolidated income statement Current service cost employer 11.6 15.9 19.9 47.4 Past service cost.
+- 11.6 Recognised in arriving at operating profit.
+- 15.9 21.0 36.9 Expected return on scheme assets - employer 17.4 18.4 43.1 78.9 Interest on franchise adjustment.
+- 1.4 Interest cost on scheme liabilities - employer 17.1 16.8 46.7 80.6 Reimbursed to employer 0.3.
+- 3.0 3.6 0.6 Included within the SORIE Actual return on scheme assets 67.6 77.3 30.8 175.7 Less: expected return on scheme assets 17.4 26.0 44.6 88.0 85.0 103.3 75.4 263.7 Other actuarial gains 53.1 70.0 149.3 272.4 Actuarial gains and losses recognised in the SORIE 31.9 33.3 73.9 8.7 Change in IFRIC 14.
+- 31.9 Actuarial gains on reimbursable rights 31.9 18.7.
+- 50.6 Total pension credit cost recognised in the SORIE.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 121 28 a Defined benefit schemes continued Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total Year ended 31 December 2007 m m m m Recognised in the consolidated income statement Current service cost - employer 9.9 15.3 21.2 46.4 Past service cost.
+- 9.9 Recognised in arriving at operating profit.
+- 15.4 23.0 38.4 Expected return on scheme assets - employer 16.2 16.8 40.1 73.1 Interest on franchise adjustment.
+- 1.2 Interest cost on scheme liabilities - employer 15.1 14.5 40.4 70.0 Reimbursed to employer 1.1.
+- 3.5 0.3 3.2 Included within the SORIE Actual return on scheme assets 10.2 28.5 43.9 82.6 Less: expected return on scheme assets 16.2 23.7 41.3 81.2 6.0 4.8 2.6 1.4 Other actuarial gains 11.2 15.8 33.8 60.8 Actuarial gains recognised in the SORIE 5.2 20.6 36.4 62.2 Change in franchise adjustment.
+- 5.2 Actuarial losses on reimbursable rights 5.2 13.0 1.2 19.4 Total pension cost recognised in the SORIE.
+- 7.6 35.2 42.8 Cumulative actuarial gains recognised since 1 January 2004 are 88.4m 2007: 29.1m.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 122 28 a Defined benefit schemes continued Changes in the fair value of plan liabilities are analysed as follows: Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total m m m m At 1 January 2007 287.9 375.0 802.2 1,465.1 Arising on acquisition.
+- 0.8 0.8 Current service cost employer 9.9 15.3 21.2 46.4 Current service cost employee.
+- 0.1 1.8 1.9 Plan participants contributions 0.9 0.8 1.5 3.2 Interest cost employer 15.1 14.5 40.4 70.0 Interest cost employee.
+- 40.4 40.4 Current service cost employer 11.6 15.9 19.9 47.4 Current service cost employee.
+- 1.1 1.1 Plan participants contributions 1.6 0.5 1.3 3.4 Interest cost employer 17.1 16.8 46.7 80.6 Interest cost employee.
+qxd:Serco AR08 - Design 20 03 2009 17:13 Page 123 28 a Defined benefit schemes continued Changes in the fair value of plan assets are analysed as follows: Virtually Not certain certain costs costs Non contract reimbursed reimbursed specific Total m m m m At 1 January 2007 220.3 323.2 643.3 1,186.8 Expected return on plan assets - employer 16.2 16.8 40.1 73.1 Expected return on plan assets - employee.
+- 40.4 40.4 Expected return on plan assets - employer 17.4 18.4 43.1 78.9 Expected return on plan assets - employee.
+- 0.2 0.2 At 31 December 2008 177.6 297.3 719.2 1,194.1 Employer contributions for non contract specific schemes in 2007 include a 51m special contribution paid in January 2007.
+No assets are invested in the Groups own financial instruments, properties or other assets used by the Group.
+History of experience gains and losses 2008 2007 2006 2005 2004 Experience adjustments arising on scheme assets: Amount m 263.7 1.4 45.8 103.6 10.2 Percentage of scheme assets 22 % 0% 4% 10% 1% Experience adjustments arising on scheme liabilities: Amount m 0.1 5.1 13.1 11.8 6.4 Percentage of the present value of scheme liabilities 0% 0% 1 % 1% 1% Fair value of scheme assets m 1,194.1 1,342.8 1,186.8 992.7 776.5 Present value of scheme liabilities m 1,343.4 1,500.9 1,465.1 1,347.1 1,055.5 Deficit m 149.3 158.1 278.3 354.4 279.0 The normal contributions expected to be paid during the financial year ended 31 December 2009 are 61.0m.
+Assumptions in respect of the expected return on plan assets are based on market expectations of returns over the life of the related obligation.
+Due consideration has been given to current market conditions as at 31 December 2008 in respect to inflation, interest, bond yields and equity performance when selecting the expected return on assets assumptions.
+The expected yield on bond investments with fixed interest rates is derived from their market value.
+The yield on equity investments contains an additional premium an equity risk premium to compensate investors for the additional anticipated returns of holding this type of investment, when compared to bond yields.
+Management have considered the impact of the adverse changes and volatility in the equity market in 2008 and have concluded that an equity risk premium of 4.1% is appropriate at 31 December 2008 31 December 2007: 3.45%.
+The overall expected return on assets is calculated as the weighted average of the expected returns for the principal asset categories held by the scheme.
+qxd:Serco AR08 - Design 19 03 2009 15:52 Page 124 28 a Defined benefit schemes continued 2008 2007 % % Main assumptions: Rate of salary increases 3.10 4.70 Rate of increase in pensions in payment 2.60 3.20 Rate of increase in deferred pensions 2.60 3.20 Inflation assumption 2.60 3.20 Discount rate 6.00 5.70 Expected rates of return on scheme assets: Equities 7.95 7.95 Bonds except LDI 6.00 5.70 LDI 4.15 4.70 Gilts 3.85 4.50 Property 5.10 5.75 Cash and other 2.00 5.50 Annuity policies 6.00 5.70 2008 2007 Years Years Post-retirement mortality: Current pensioners at 65 male 20.3 20.3 Current pensioners at 65 female 23.2 23.1 Future pensioners at 65 male 21.6 21.6 Future pensioners at 65 female 24.4 24.3 In 2007, in respect of a number of the smaller schemes included above, allowance for expected future improvements in life expectancy was made by reducing the discount rate by 0.25% per annum from the rate shown above.
+Due to the change in the mortality rate assumptions used in the year, no such adjustment was required in 2008.
+28 b Defined contribution schemes The Group paid employer contributions of 34.7m 2007: 26.1m into UK and other defined contribution schemes, foreign state pension schemes and multi-employer schemes, including those of joint ventures.
+Pre-funded defined benefit schemes treated as defined contribution Serco accounts for certain pre-funded defined benefit schemes relating to contracts as defined contribution schemes because the contributions are fixed until the end of the current concession and at rebid any surplus or deficit would transfer to the next contractor.
+Cash contributions are recognised as pension costs and no asset or liability is shown on the balance sheet.
+Provisions 2008 2007 Employee Employee related Property Contract Other Total related Property Contract Other Total m m m m m m m m m m At 1 January 9.0 4.7 4.7 0.2 18.6 7.3 8.4 4.7 1.9 22.3 Arising from acquisitions.
+- 0.2 At 31 December 5.9 9.8 11.2 11.2 38.1 9.0 4.7 4.7 0.2 18.6 Employee related provisions relate to long-term service awards and terminal gratuities liabilities which have been accrued and are based on contractual entitlement together with an estimate of the probabilities that employees will stay until retirement and receive all relevant amounts.
+Property provisions relate to leased properties which are either under utilised or vacant and where the unavoidable costs associated with the lease exceed the economic benefits expected to be required.
+Management has calculated the provision based on the discounted cash outflows required to settle the lease obligations.
+Contract provisions primarily relate to the acquisition of SI International, Inc. where, as required under IAS 37, a provision has been taken for a loss making onerous contract.
+Management has used the present value of the estimated future cash outflows required to settle the contract obligations in determining the provision.
+Other provisions are provisions held for expected legal and other costs that the Group expects to incur over an extended period.
+These costs are based on past experience of similar items and other known factors and represent managements best estimate of the likely outcome.
+Share capital 2008 2007 Number Number m Millions m Millions Authorised: 550,000,000 2007: 550,000,000 ordinary shares of 2p each 11.0 550.0 11.0 550.0 Issued and fully paid: 485,051,557 2007: 476,295,589 ordinary shares of 2p each at 1 January 9.7 485.1 9.5 476.3 Issued on the exercise of share options.
+- 1.7 0.2 8.8 486,764,440 2007: 485,051,557 ordinary shares of 2p each at 31 December 9.7 486.8 9.7 485.1 The Company has one class of ordinary shares which carry no right to fixed income.
+During the year 1,712,883 2007: 8,755,968 ordinary shares of 2p each were allotted to the holders of options or their personal representatives using newly listed shares.
+Share premium account 2008 2007 m m At 1 January 299.3 283.5 Premium on shares issued 1.8 15.8 At 31 December 301.1 299.3 Serco Group plc 125 Serco AR2008 p79 -.
+Reserves Retirement ShareHedging benefit based Own and Retained obligations payment shares translation Minority earnings reserve reserve reserve reserve Total interest m m m m m m m At 1 January 2007 196.6 119.5 25.5 16.4 21.3 64.9 1.9 Profit for the year attributable to equity holders of the parent 81.9.
+- Profit for the year attributable to minority interest.
+- 17.9 1.2 Net actuarial gain on defined benefit pension schemes.
+- Actuarial loss on reimbursable rights.
+- Credit in relation to share-based payment expense.
+- Net exchange gain on translation of foreign operations.
+- 12.8 12.8 0.1 Net fair value gain on cash flow hedges during the year.
+- Tax charge on cash flow hedges.
+- Tax charge credit on items taken directly to equity.
+- Net actuarial gain on defined benefit pension schemes.
+- Actuarial gain on reimbursable rights.
+- Net fair value gain on cash flow hedges during the year.
+- Purchase of own shares for employee benefit trust ESOP.
+- Tax charge on items taken directly to equity.
+- Recycling of cumulative net hedging reserve on disposal.
+- Acquisition of minority interest by joint venture 1.3.
+The net movement of 21.3m consists of 22.2m of deferred tax 2007: 11.5m and a credit of 0.9m relating to current tax 2007: nil.
+Reserves continued The retirement benefit obligations reserve represents the actuarial gains and losses recognised in respect of annual actuarial valuations for defined benefit retirement schemes, the fair value adjustments on reimbursable rights and the related movements in deferred tax balances.
+The share-based payment reserve represents credits relating to equity-settled share-based payment transactions granted after 7 November 2002, but not fully vested as of 1 January 2005, and any gain or loss on the exercise of share options satisfied by own shares.
+The own shares reserve represents the cost of shares in Serco Group plc purchased in the market and held by the Serco Group plc Employee Share Ownership Trust ESOP to satisfy options under the Groups share options schemes.
+The hedging and translation reserve represents foreign exchange differences arising on translation of the Groups overseas operations and movements relating to cash flow hedges.
+Notes to the consolidated cash flow statement Reconciliation of operating profit to net cash inflow from operating activities 2008 2007 m m Operating profit for the year 156.0 133.4 Adjustments for: Share-based payment expense 7.0 5.0 Depreciation of property, plant and equipment 26.0 30.2 Amortisation of intangible assets 29.3 23.2 Profit loss on disposal of property, plant and equipment 4.6 1.3 Profit on disposal of business undertakings 2.7 0.7 Movement in provisions 9.0 4.3 Gain on derivatives 1.2 1.1 Operating cash inflow before movements in working capital 200.8 187.0 Decrease in inventories 0.9 5.9 Decrease increase in receivables 12.2 99.9 Decrease increase in payables 26.4 108.6 Special contribution to defined benefit pension scheme note 28.
+- 51.0 Cash generated by operations 187.5 150.6 Tax paid 24.9 16.5 Net cash inflow from operating activities 162.6 134.1 Additions to fixtures and equipment during the year amounting to 8.9m 2007: 4.2m were financed by new finance leases.
+Notes to the consolidated cash flow statement continued Analysis of net debt At 1 At 31 January Acquisitions Exchange Non cash December 2008 Cash flow disposals differences movements 2008 m m m m m m Cash and cash equivalents 185.0 33.0 11.1 21.7.
+- 250.8 Non recourse loans related to PFI assets 22.5 1.6 20.9.
+- 0.5 8.9 17.2 162.3 269.7 40.9 32.3 8.9 514.1 At 1 At 31 January Acquisitions Exchange Non cash December 2007 Cash flow disposals differences movements 2007 m m m m m m Cash and cash equivalents 217.9 38.3 1.4 6.8.
+- 185.0 Non recourse loans related to PFI assets 24.8 2.3.
+Non cash movements in 2007 primarily relate to fixed assets acquired under finance leases, and the crystallisation of the fair value adjustment of 4.0m to the value of one of the private placement loans.
+The loan was hedged by forward foreign exchange contracts and cross currency swaps.
+Capital and other commitments 2008 2007 m m Capital expenditure contracted but not provided: - Property, plant and equipment 0.5 1.9 - Intangibles.
+- 0.1 0.5 2.0 Included within the balances above is joint venture capital expenditure contracted but not provided in relation to property, plant and equipment of 0.3m 2007: 0.4m.
+At the balance sheet date, the Group had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows: 2008 2007 m m Within one year 104.9 97.0 Between one and five years 264.8 258.1 After five years 150.0 138.7 519.7 493.8 Principal lease commitments are within the Transport segment, with future minimum lease payments totalling 239.4m.
+These leases relate primarily to administrative and operational buildings, track and rolling stock within the train operating companies.
+The length of the leases is concurrent with the period of the franchises and the terms of the leases are fixed during this period.
+Capital and other commitments continued Future minimum rentals receivable under non-cancellable operating leases where the Group is the lessor are as follows: 2008 2007 m m Within one year.
+- 0.1 Between one and five years.
+Share-based payment expense The Group recognised the following expenses related to equity-settled share-based payment transactions: 2008 2007 m m Executive Option Plan 0.7 0.9 Long Term Incentive Scheme and Plan 5.3 3.7 Transformational Share Scheme.
+- 7.0 5.0 Executive Option Plan EOP Options granted under the EOP may be exercised after the third anniversary of grant, dependent upon the achievement of a financial performance target over three years.
+The options are granted at market value and awards made to eligible employees are based on between 50% and 100% of salary as at 31 December prior to grant.
+If the options remain unexercised after a period of ten years from the date of grant, the options expire.
+Furthermore, options may be forfeited if the eligible employee leaves the Group before the options vest.
+Details of the movement in all EOP options are as follows: 2008 2007 Weighted Weighted average average Number exercise Number exercise of options price of options price Thousands Thousands Outstanding at 1 January 13,724 2.53 16,530 2.42 Granted during the year 334 4.55 443 4.39 Exercised during the year 2,520 2.29 2,991 2.20 Lapsed during the year 590 2.36 258 2.83 Outstanding at 31 December 10,948 2.65 13,724 2.53 9,606,125 2007: 11,939,768 of these options were exercisable at the end of 2008, with a weighted average exercise price of 2.46 2007: 2.43.
+The options outstanding at 31 December 2008 had a weighted average contractual life of 4.22 years 2007: 4.48 years.
+The exercise prices for options outstanding at 31 December 2008 ranged from 1.39 to 4.90 2007: 1.39 to 4.90.
+The weighted average share price at the date of exercise approximates to the weighted average share price during the year, which was 4.20 2007: 4.43.
+The fair value of options granted under the EOP is measured by use of the Binomial Lattice model.
+The Binomial Lattice model is considered to be most appropriate for valuing options granted under this scheme as it allows exercise over a longer period of time between the vesting date and the expiry date.
+Share-based payment expense continued The inputs into the Binomial Lattice model for options granted during the year are: 2008 2007 Weighted average share price 453p 475p Weighted average exercise price 455p 445p Expected volatility 27.5% 33.7% Expected life 5 years 5 years Risk free rate 4.4% 5.1% Expected dividends 0.9% 0.8% Expected volatility was determined by calculating the historical volatility of the Groups share price over the previous five years.
+The expected life used in the model has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Long Term Incentive Scheme LTIS and Long Term Incentive Plan LTIP Awards made to eligible employees under the above schemes are structured as options with a zero exercise price and may be exercised after the third anniversary of grant.
+The extent to which an award vests and therefore becomes exercisable is measured by reference to the growth in the Companys earnings per share or total shareholder return over the performance period of three financial years.
+Details of the movement in all LTIS and LTIP options are as follows: 2008 2007 Weighted Weighted average average Number exercise Number exercise of options price of options price Thousands Thousands Outstanding at 1 January 7,040 Nil 4,040 Nil Granted during the year 2,224 Nil 3,055 Nil Exercised during the year 592 Nil 33 Nil Lapsed during the year 458 Nil 22 Nil Outstanding at 31 December 8,214 Nil 7,040 Nil 1,293,356 2007: 1,529,440 of these options were exercisable at the end of 2008.
+The options outstanding at 31 December 2008 had a weighted average contractual life of 8.11 years 2007: 8.33 years.
+The fair value of options granted under the LTIS and LTIP is measured by use of a Monte Carlo Simulation model.
+This model is considered to be most appropriate for valuing options granted under these schemes as it takes into account the changes in performance conditions by which the options are measured.
+The inputs into the Monte Carlo Simulation model for options granted during the year are: 2008 2007 Weighted average share price 402p 425p Weighted average exercise price Nil Nil Expected volatility 23.2% to 26.8% 21.4% to 22.1% Expected life 1 to 5 years 3 years Risk free rate 2.5% to 5.0% 4.7% to 5.5% Expected dividends 0.9% to 1.1% 0.8% 130 Serco Group plc Serco AR2008 p79 -.
+Share-based payment expense continued Expected volatility was determined by calculating the historical volatility of the Groups share price over the previous three years.
+Transformational Share Scheme Awards made to eligible employees under the Transformational Share Scheme are structured as options with a nominal exercise price and are exercisable after the third anniversary of the grant.
+The employee must exercise the options no later than 30 days after the vesting date.
+Furthermore, if the eligible employee leaves the group before the options vest, the options may be forfeited.
+2008 Weighted average Number exercise of options price Thousands Outstanding at 1 January - Nil Granted during the year 46 Nil Exercised during the year - Nil Lapsed during the year 7 Nil Outstanding at 31 December 39 Nil None of these options were exercisable at the end of the year.
+The options outstanding at 31 December 2008 had a weighted average contractual life of 2.33 years.
+The fair value of options granted under the Transformational Share Scheme are measured by use of the Binomial Lattice model.
+This model is considered to be most appropriate for valuing options granted under this scheme as the options have a nominal exercise price.
+The inputs into the Binomial Lattice model for options granted during the year are: 2008 Weighted average share price 456p Weighted average exercise price Nil Expected volatility 23.3% Expected life 3 years Risk free rate 4.0% Expected dividends 0.9% Expected volatility was determined by calculating the historical volatility of the Groups share price over the previous three years.
+Share-based payment expense continued Sharesave 2004 The Sharesave 2004 scheme provides for a purchase price equal to the daily average market price on the date of grant less 20%.
+The options can be exercised for a period of six months following their vesting.
+Details of the movement in Sharesave 2004 options are as follows: 2008 2007 Weighted Weighted average average Number exercise Number exercise of options price of options price Thousands Thousands Outstanding at 1 January 70 1.72 6,274 1.72 Exercised during the year 22 1.72 6,094 1.72 Lapsed during the year 48 1.72 110 1.72 Outstanding at 31 December - Nil 70 1.72 None 2007: 69,714 of these options were exercisable at the end of the year and the weighted average exercise price was nil 2007: 1.72.
+Sharesave 2008 The Sharesave 2008 scheme provides for a purchase price equal to the daily average market price on the date of grant less 10%.
+Details of the movement in Sharesave 2008 options are as follows: 2008 Weighted average Number exercise of options price Thousands Outstanding at 1 January - Nil Granted during the year 6,976 4.00 Exercised during the year - Nil Lapsed during the year 216 4.00 Outstanding at 31 December 6,760 4.00 None of these options were exercisable at the end of the year.
+The options outstanding at 31 December 2008 had a weighted average contractual life of 3.12 years.
+Given that options granted under the Sharesave plan can be exercised at any time up to six months after vesting, management consider the Binomial Lattice model to be appropriate to value the options granted under this scheme.
+The Binomial Lattice model allows exercise over a window in time, from vesting date to expiry date, and assumes option holders make economically rational exercise decisions.
+The model used the following assumptions when the options were granted in 2008: 2008 Weighted average share price 384p Weighted average exercise price 400p Expected volatility 23.7% to 30.9% Expected life 2 to 4 years Risk free rate 4.9% Expected dividends 1.1% Expected volatility was determined by calculating the historical volatility of the Groups share price over the previous three years.
+Related party transactions Transactions between the Company and its wholly owned subsidiaries, which are related parties, have been eliminated on consolidation and are not disclosed in this note.
+Transactions between the Group and its joint venture undertakings are disclosed below, with the relevant proportion being eliminated on consolidation.
+Transactions between the Company and its subsidiaries and joint ventures are disclosed in the Companys separate financial statements.
+Trading transactions During the year, Group companies entered into the following material transactions with joint ventures: 2008 2007 m m Royalties and management fees receivable 1.4 1.2 Dividends receivable 37.2 36.9 38.6 38.1 The following receivable balances relating to joint ventures were included in the consolidated balance sheet: 2008 2007 m m Current Loans 1.2 1.7 2008 2007 m m Non-current Loans 0.7 0.6 Joint venture receivable and loan amounts outstanding have arisen from transactions undertaken during the general course of trading, are unsecured, and will be settled in cash.
+No guarantee has been given or received.
+No provisions are required for doubtful debts in respect of the amounts owed by the joint ventures.
+Remuneration of key management personnel The Directors of Serco Group plc had no material transactions with the Group during the year other than service contracts and directors liability insurance.
+The remuneration of the key management personnel of the Group, is set out below in aggregate for each of the categories specified in IAS 24 Related Party Disclosures: 2008 2007 m m Short-term employee benefits 3.6 3.8 Termination arrangements 0.7.
+- Post-employment benefits 0.4 0.7 Share-based payment expense 1.9 1.9 6.6 6.4 The key management personnel comprise the Executive Directors, Non-Executive Directors and key members of the Global Management Board.
+List of principal undertakings The companies listed below are, in the opinion of the Directors, the principal undertakings of Serco Group plc as at 31 December 2008.
+The percentage of equity capital directly or indirectly held by Serco Group plc is shown.
+The voting rights are the same as the percentage holding.
+The companies are incorporated and principally operate in the countries stated below.
+Principal subsidiaries 2008 2007 United Kingdom Serco Limited 100% 100% Serco-IAL Limited 100% 100% NPL Management Limited 100% 100% Serco Leisure Operating Limited 100% 100% Serco Health Limited 100% 100% Serco Regional Services Limited 100% 100% Europe and Middle East Belgium Serco Belgium SA 100% 100% France Serco SARL 100% 100% Serco SAS 100% 100% Germany Serco GmbH 100% 100% Ireland Serco Services Ireland Limited 100% 100% Italy Serco SpA 100% 100% Luxembourg Serco Facilities Management SA 100% 100% The Netherlands Serco Facilities Management BV 100% 100% Spain Serco Gestion fide Negocias SL 100% 100% Switzerland Serco Facilities Management SA 100% 100% Asia Pacific Australia Serco Australia Pty Limited 100% 100% Great Southern Rail Travel Pty Limited 100% 100% Great Southern Rail Limited 100% 100% Serco Traffic Camera Services Pty Limited 100% 100% China Serco Group Consultants Shanghai Limited 100% 100% Hong Kong Serco Group HK Limited 100% 100% North America Canada Serco Facilities Management Inc. 100% 100% Serco DES Inc. 100% 100% USA Serco Inc. 100% 100% Serco Services Inc. 100% - India Serco BPO Private Limited 60% - 134 Serco Group plc Serco AR2008 p79 -.
+List of principal undertakings continued Joint venture undertakings 2008 2007 United Kingdom Serco Gulf Engineering Limited 50% 50% AWE Management Limited 33% 33% Merseyrail Services Holding Company Limited 50% 50% Northern Rail Holdings Limited 50% 50% Asia Pacific Australia Defence Maritime Services Pty Limited 50% 50% Serco Sodexho Defence Services Pty Limited 50% 50% UAE Khadamat Facilities Management Company LLC 49% 49% Dubai International Aeradio Emirates LLC 49% 49% Abu Dhabi International Aeradio Emirates LLC 49% 49% Other Bahrain Aeradio Technical Services WLL 49% 49% South Africa Equity Aviation Services Limited 50% 50% All joint ventures are accounted for using the proportionate consolidation method.
+All the subsidiaries of the Group have been consolidated.
+At 31 December 2008, Group companies had branches in United Arab Emirates UAE, Bahrain, South Africa, Luxembourg and Gibraltar.
+All the principal subsidiaries of Serco Group plc and its joint venture undertakings are engaged in the provision of support services.
+Contingent liabilities The Company has guaranteed overdrafts, finance leases, and bonding facilities of its joint ventures up to a maximum value of 4.6m 2007: 4.2m.
+The actual commitment outstanding at 31 December 2008 was 3.5m 2007: 1.9m.
+In addition to this, the Company and its subsidiaries have provided performance guarantees, and indemnities relating to performance bonds and letters of credit issued by its banks on its behalf, in the ordinary course of business.
+These are not expected to result in any material financial loss.
+Further details of the contingent liabilities of Serco Group plc are contained in note 14 to the Serco Group plc Company Financial Statements.
+qxd:Serco AR08 - Design 19 03 2009 15:53 Page 136 UK GAAP Audit Report Parent Company We report to you our opinion as to We planned and performed our audit so Independent Auditors Report whether the parent Company Financial as to obtain all the information and to the members of Serco Statements give a true and fair view and explanations which we considered Group plc whether the parent Company Financial necessary in order to provide us with We have audited the parent Company Statements have been properly prepared sufficient evidence to give reasonable Financial Statements of Serco Group plc in accordance with the Companies Act assurance that the parent Company for the year ended 31 December 2008 1985.
+We also report to you whether in Financial Statements are free from material which comprise the Balance Sheet and our opinion the Directors Report is misstatement, whether caused by fraud or the related notes 1 to 15.
+These parent consistent with the parent Company other irregularity or error.
+In forming our Company Financial Statements have been Financial Statements.
+opinion we also evaluated the overall prepared under the accounting policies set adequacy of the presentation of In addition we report to you if, in our out therein.
+information in the parent Company opinion, the Company has not kept proper We have reported separately on the Group Financial Statements.
+accounting records, if we have not Financial Statements of Serco Group plc received all the information and for the year ended 31 December 2008 and Opinion explanations we require for our audit, or if on the information in the Remuneration In our opinion: information specified by law regarding Report that is described as having the parent Company Financial Directors remuneration and other been audited.
+Statements give a true and fair view, in transactions is not disclosed.
+accordance with United Kingdom This report is made solely to the We read the other information contained in Generally Accepted Accounting Companys members, as a body, in the Annual Review and Accounts as Practice, of the state of the Company's accordance with section 235 of the described in the contents section and affairs as at 31 December 2008: Companies Act 1985.
+Our audit work has consider whether it is consistent with the been undertaken so that we might state to the parent Company Financial audited parent Company Financial the Companys members those matters Statements have been properly Statements.
+We consider the implications we are required to state to them in an prepared in accordance with the for our report if we become aware of any Auditors Report and for no other purpose.
+Companies Act 1985: and apparent misstatements or material To the fullest extent permitted by law, we inconsistencies with the parent Company the information given in the Directors do not accept or assume responsibility to Financial Statements.
+Our responsibilities Report is consistent with the parent anyone other than the Company and the do not extend to any further information Company Financial Statements.
+Companys members as a body, for our outside the Annual Review and Accounts.
+audit work, for this report, or for the opinions we have formed.
+Basis of audit opinion We conducted our audit in accordance Respective responsibilities of with International Standards on Auditing Directors and Auditors UK and Ireland issued by the Auditing Deloitte LLP The Directors responsibilities for Practices Board.
+An audit includes Chartered Accountants and Registered preparing the Annual Review and examination, on a test basis, of evidence Auditors Accounts and the parent Company relevant to the amounts and disclosures in London, United Kingdom Financial Statements in accordance with the parent Company Financial Statements.
+26 February 2009 applicable law and United Kingdom It also includes an assessment of the Accounting Standards United Kingdom significant estimates and judgements Generally Accepted Accounting Practice made by the Directors in the preparation of are set out in the statement of Directors the parent Company Financial Statements, Responsibilities.
+and of whether the accounting policies are Our responsibility is to audit the parent appropriate to the Company's Company Financial Statements in circumstances, consistently applied and accordance with relevant legal and adequately disclosed.
+regulatory requirements and International Standards on Auditing UK and Ireland.
+qxd:Serco AR08 - Design 19 03 2009 15:53 Page 137 Company Balance Sheet At 31 December 2008 2008 2007 Note m m Fixed assets Investments in subsidiary undertakings 3 799.6 792.6 799.6 792.6 Current assets Amounts owed by subsidiary companies due after more than one year 725.4 132.8 Debtors: amounts due within one year 4 34.2 42.9 Debtors: amounts due after more than one year 4 14.3 8.6 Derivative financial instruments due within one year 7 4.6 0.7 Derivative financial instruments due after more than one year 7 5.0.
+- Cash at bank and in hand 8.1 36.2 791.6 221.2 Creditors: amounts falling due within one year Loans 6 10.0.
+- Amounts owed to subsidiary companies 168.1 133.0 Trade creditors 0.3 0.2 Other creditors including taxation and social security 5 1.0 2.4 Derivative financial instruments 7 3.3 1.6 Accruals and deferred income 7.9 10.5 190.6 147.7 Net current assets 601.0 73.5 Total assets less current liabilities 1,400.6 866.1 Creditors: amounts falling due after more than one year 6 678.4 258.8 Amounts owed to subsidiary companies 237.5 146.5 Derivative financial instruments 7 0.2 9.7 Net assets 484.5 451.1 Capital and reserves Called up share capital 9 9.7 9.7 Share premium account 10 301.1 299.3 Capital redemption reserve 0.1 0.1 Share-based payment reserve 11 28.7 21.7 Hedging and translation reserve 12 3.9 6.2 Profit and loss account 13 141.0 126.5 Shareholders' funds 484.5 451.1 The Financial Statements were approved by the Board of Directors on 26 February 2009 and signed on its behalf by: Christopher Hyman Andrew Jenner Chief Executive Finance Director Serco Group plc 137 Serco AR2008 p79 -.
+qxd:Serco AR08 - Design 19 03 2009 15:53 Page 138 Notes to the Company Financial Statements 1.
+Accounting policies The principal accounting policies adopted are set out below and have been applied consistently throughout the current and preceding year.
+Basis of accounting These financial statements have been prepared in accordance with UK GAAP and applicable UK law.
+As discussed in more detail in the Finance Review, these financial statements have been prepared on a going concern basis.
+Accounting convention These accounts have been prepared under the historical cost convention.
+Fixed asset investments Investments held as fixed assets are stated at cost less provision for any impairment in value.
+Share-based payment The Company has applied the requirements of FRS 20 Share-based Payment.
+In accordance with the transitional provisions, FRS 20 has been applied to all grants of equity instruments after 7 November 2002 that were not fully vested as of 1 January 2005.
+The Company issues equity-settled share-based awards to certain employees and operates an Inland Revenue approved Save As You Earn SAYE share option scheme open to eligible employees which allows the purchase of shares at a discount.
+The fair value is expensed on a straight-line basis over the vesting period, based on the Companys estimate of shares that will eventually vest.
+Fair value is measured by use of the Black Scholes, Binomial Lattice or Monte Carlo Simulation models depending on the type of scheme.
+Dividends Dividends are recorded in the Companys financial statements in the period in which they are approved by the Board of Directors.
+Derivative financial instruments and hedging activities Derivatives are initially accounted for and measured at fair value on the date a derivative contract is entered into and subsequently measured at fair value.
+The gain or loss on re-measurement is taken to the profit and loss account except where the derivative is a designated cash flow hedging instrument.
+The accounting treatment of derivatives classified as hedges depends on their designation, which occurs on the date that the derivative contract is committed to.
+The Company designates derivatives as: a hedge of the fair value of an asset or liability fair value hedge : a hedge of the income cost of a highly probable forecast transaction or commitment cash flow hedge : and a hedge of a net investment in a foreign entity.
+Gains and losses on fair value are recorded in the profit and loss account with the gain or loss on the hedged item attributable to the hedged risk.
+Gains or losses on cash flow hedges that are regarded as highly effective are recognised in equity.
+Where the forecast transaction results in a financial asset or liability, only gains or losses previously recognised in equity are reclassified to profit or loss in the same period as the asset or liability affects profit or loss.
+Where the forecast transaction or commitment results in a non-financial asset or liability, any gains or losses previously deferred in equity are included in the cost of the related asset or liability if the forecast transaction or commitment results in future income or expenditure.
+Gains and losses deferred in equity are transferred to the profit and loss account in the same period as the underlying income or expenditure.
+The ineffective portion of the gain or loss on the hedging instrument is recognised in the profit and loss account.
+For the ineffective portion of hedges or transactions that are not designated for hedge accounting under FRS 26, any change in assets or liabilities is recognised immediately in the profit and loss account.
+Where a hedge no longer meets the effectiveness criteria, any gains or losses deferred in equity are only transferred to the profit and loss account when the committed or forecast transaction is recognised in the profit and loss account.
+However, where cash flow hedge accounting has been applied for a forecast or committed transaction that is no longer expected to occur, then the cumulative gain or loss that has been recorded in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in the profit and loss account.
+Accounting policies continued Derivative financial instruments and hedging activities continued Where the Company hedges net investments in foreign entities through currency borrowings, the gains or losses on the translation of the borrowings are recognised in equity.
+Gains and losses accumulated in equity are included in the profit and loss account when the foreign operation is disposed of.
+Current tax Current tax, including UK corporation tax, is provided at amounts expected to be paid or recovered using the tax rates and laws that have been enacted or substantially enacted at the balance sheet date.
+Deferred tax The charge for taxation takes account of taxation deferred because of differences between the timing of recognition of certain items for taxation purposes and for accounting purposes.
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date where the transactions or events that give rise to an obligation to pay more or less tax in the future have occurred by the balance sheet date.
+A deferred tax asset is recognised only when it is considered more likely than not that it will be recovered.
+Deferred tax is recognised on a non-discounted basis using tax rates in force at the date the timing differences are expected to reverse.
+Auditors remuneration Auditors remuneration of 10,000 2007: 10,000 has been borne by another group company.
+Investments held as fixed assets m Shares in subsidiary companies at cost: At 1 January 2007 596.2 Options over parents shares awarded to employees of subsidiaries 3.1 Additions: Cornwell Management Consultants plc 8.3 Serco Holdings Limited 185.0 At 1 January 2008 792.6 Options over parents shares awarded to employees of subsidiaries 5.3 Additions: Serco Holdings Limited 50.0 Disposals: Serco Investments Limited 40.0 Cornwell Management Consultants plc 8.3 At 31 December 2008 799.6 On 31 December 2008, the Company acquired one additional share 2007: four additional shares in Serco Holdings Limited for 50m 2007: 185m, following the capitalisation of long-term intercompany loans.
+Full details of the principal subsidiaries of Serco Group plc can be found in note 37 to the Groups Consolidated Financial Statements.
+The Company directly owns 100% of the ordinary share capital of the following subsidiaries except where stated.
+Name Ownership Serco Holdings Limited 100% Serco Group HK Limited 50% Serco Group plc 139 Serco AR2008 p79 -.
+Debtors 2008 2007 m m Amounts due within one year Amounts owed by subsidiary companies 23.9 15.5 Corporation tax recoverable 10.1 24.9 Other debtors 0.2 2.5 34.2 42.9 Amounts due after more than one year Amounts owed by joint ventures 0.7.
+Other creditors including taxation and social security 2008 2007 m m Other creditors 1.0 2.4 6.
+Creditors: amounts falling due after more than one year 2008 2007 m m Loans 688.4 258.8 Less: amounts included in creditors falling due within one year - loans 10.0.
+- Amounts falling due after more than one year 678.4 258.8 Loans Within one year or on demand 10.0.
+Derivative financial instruments 2008 2007 Assets Liabilities Assets Liabilities m m m m Currency swaps 4.2.
+- 9.7 Current 4.6 3.3 0.7 1.6 9.6 3.5 0.7 11.3 The Company holds derivative financial instruments in accordance with the Groups policy in relation to its financial risk management.
+Details of the disclosures are set out in note 27 of the Groups Consolidated Financial Statements.
+Deferred tax asset 2008 2007 m m Short-term timing difference 0.9 4.9 The movement in the deferred tax asset during the year was as follows: 2008 2007 m m At 1 January 4.9 5.4 Credited to income statement 0.3 0.7 Items taken directly to equity 4.3 1.2 At 31 December 0.9 4.9 9.
+Called up share capital 2008 2007 Number Number m Millions m Millions Authorised 550,000,000 2007: 550,000,000 ordinary shares of 2p each 11.0 550.0 11.0 550.0 Issued and fully paid 485,051,557 2007: 476,295,589 ordinary shares of 2p each at 1 January 9.7 485.1 9.5 476.3 Issued on the exercise of share options.
+Share-based payment reserve 2008 2007 m m At 1 January 21.7 16.8 Options over parents shares awarded to employees of subsidiaries 5.3 3.1 Share-based payment expense 1.7 1.8 At 31 December 28.7 21.7 Details of the share-based payment disclosures are set out in note 35 of the Groups Consolidated Financial Statements.
+Hedging and translation reserve 2008 2007 m m At 1 January 6.2 9.5 Fair value gain on cash flow hedges during the period 15.4 4.5 Tax charge on items taken directly to equity 4.3 1.2 Net exchange loss on translation of foreign operations 1.0.
+Profit and loss account 2008 2007 m m At 1 January 126.5 117.4 Profit for the year 36.2 27.0 Equity dividends 21.7 17.9 At 31 December 141.0 126.5 As permitted by Section 230 of the Companies Act 1985, the profit and loss account of the Company is not presented as part of these accounts.
+Contingent liabilities The Company has provided certain financial guarantees and indemnities in respect of the loans, overdraft and bonding facilities, and other financial commitments of its subsidiaries.
+The total commitment outstanding as at 31 December 2008 was 28.3m 2007: 16.6m.
+The Company has also guaranteed overdrafts, finance leases, and bonding facilities of its joint ventures up to a maximum value of 4.6m 2007: 4.2m.
+In addition to this, the Company has provided performance guarantees and indemnities relating to performance bonds and letters of credit issued by its banks on its behalf, in the ordinary course of business.
+Related parties The Directors of Serco Group plc had no material transactions with the Company or its subsidiaries during the year other than service contracts and directors liability insurance.
+Details of the Directors remuneration are disclosed in the Remuneration Report for the Group.
+The Company is exempt under the terms of FRS 8 Related party disclosure, from disclosing related party transactions with entities that are part of the Serco Group plc group.
+Full details of the transactions between Serco Group plc and its related parties can be found in note 36 to the Groups Consolidated Financial Statements.

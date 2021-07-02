@@ -1,0 +1,124 @@
+1_CD
+The_DT
+calculations_NOMZ
+of_PIN
+the_DT
+Groups_NN
+earnings_GER
+per_PIN
+share_NN
+and_PHC
+Headline_NN
+earnings_GER
+per_PIN
+share_NN
+is_VPRT [PASS]
+set_VBN
+out_PIN
+in_PIN
+note_NN
+10_CD
+._.
+2_CD
+The_DT
+main_JJ
+reporting_GER
+currency_NN
+of_PIN
+the_DT
+Group_NN
+is_VPRT [BEMA]
+the_DT
+pound_NN
+sterling_GER
+and_CC
+the_DT
+financial_JJ
+statements_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+on_PIN
+this_DEMO
+basis_NN
+._.
+For_PIN
+illustrative_JJ
+purposes_NN
+only_DWNT
+,_,
+the_DT
+income_NN
+statement_NOMZ
+set_VBN [WZPAST]
+out_PIN
+on_PIN
+this_DEMO
+page_NN
+is_VPRT [SPAU] [PASS]
+also_RB
+expressed_VBN
+in_PIN
+US_FPP1
+dollars_NN
+using_VBG [WZPRES]
+the_DT
+approximate_JJ
+average_JJ
+rate_NN
+for_PIN
+the_DT
+year_NN
+2005_CD
+:_:
+$_$
+1.8189_CD
+1_CD
+,_,
+2004_CD
+:_:
+$_$
+1.8326_CD
+1_CD
+._.
+This_DEMO
+translation_NOMZ
+is_VPRT [BEMA]
+unaudited_PRED
+and_CC
+should_NEMD
+not_XX0
+be_VB [PASS]
+construed_VBN
+as_IN
+a_DT
+representation_NOMZ
+that_TOBJ
+the_DT
+pound_NN
+sterling_GER
+amounts_NN
+actually_RB
+represent_VPRT
+,_,
+or_CC
+could_POMD
+be_VB [PASS]
+converted_VBN
+into_PIN [STPR]
+,_,
+US_FPP1
+dollars_NN
+at_PIN
+the_DT
+rates_NN
+indicated_VBD [PRIV]
+._.
+Annual_JJ
+Report_NN
+2005_CD
+150_CD
+Our_FPP1
+2005_CD
+financial_JJ
+statements_NOMZ

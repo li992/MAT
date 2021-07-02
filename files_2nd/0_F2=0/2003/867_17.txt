@@ -1,0 +1,45 @@
+Supplemental financial information Summary of differences between UK and US Generally Accepted Accounting Principles unaudited The following is a summary of the adjustments to the groups net income and shareholders equity of applying the significant differences between UK GAAP and US GAAP.
+These are summarised in the tabular reconciliation statements set out below.
+Reconciliation of consolidated net income Notes 12 months to 12 months to 31 Dec 2003 31 Dec 2002 m m Profit attributable to shareholders reported under UK GAAP 116 179 US GAAP adjustments: i Business combinations 36 114 iii Disposal of investment in Nycomed Pharma - 1 iv Derivative hedging 3 66 v Pension and post retirement costs 15 5 vi Revenue recognition 1 1 vii Deferred taxation application of full liability method 3 6 viii Compensated absences, equity instruments and other 7 - Tax effect of US GAAP adjustments 30 30 x Minority interest - 1 Total US GAAP adjustments 27 18 Net income in accordance with US GAAP 89 161 Basic net income per share in accordance with US GAAP 12.7p 23.4p Diluted net income per share in accordance with US GAAP 12.6p 23.3p Reconciliation of shareholders equity Notes 31 Dec 2003 31 Dec 2002 m m Equity shareholders funds reported under UK GAAP 1,240 1,172 US GAAP adjustments: i Business combinations 1,016 1,067 ii 41 Accounting for investment in NMP 42 iv Derivative hedging 25 33 v Pension and post retirement costs 46 69 vi Revenue recognition 3 4 vii Deferred taxation application of full liability method 27 28 viii Compensated absences, equity instruments and other 21 22 ix Ordinary dividend 42 36 Tax effect of US GAAP adjustments 113 143 Total US GAAP adjustments 968 968 Shareholders equity in accordance with US GAAP 2,208 2,140 i Business combinations Under both UK GAAP and US GAAP, acquisitions are accounted for as purchase business combinations.
+However, certain differences between UK GAAP and US GAAP in the application of the purchase method of accounting for business combinations are set out below.
+Both UK GAAP and US GAAP require purchase consideration to be allocated to the net assets acquired at their fair value on the date of acquisition, with the difference between the consideration and the fair value of the identifiable net assets recorded as goodwill.
+Under the requirements of Financial Reporting Standard FRS 10 Goodwill and intangible assets, goodwill arising on acquisitions of subsidiaries, joint ventures, and associates during accounting periods ending on or after 23 December 1998 should be capitalised and amortised over its useful economic life.
+This treatment of goodwill is similar to its treatment under US GAAP prior to the introduction of Statement of Financial Accounting Standards SFAS 142 Goodwill and Other Intangible Assets.
+However, because FRS 10 need not be applied retrospectively to goodwill written off against shareholders funds in earlier years, there will continue to be differences between the goodwill calculated under UK GAAP and US GAAP.
+For the purposes of US GAAP, goodwill written off against shareholders funds under UK GAAP has been reinstated.
+72 UK GAAP requires an allocation of purchase consideration to intangible assets, which are separable from the business.
+For UK GAAP purposes, intangible assets, other than goodwill, acquired in a business combination, which are not separable and measurable, are not capitalised.
+US GAAP requires an allocation of consideration to identifiable intangible assets if they arise from contractual or other legal rights: if intangible assets do not arise from contractual or legal rights, the asset is recognised apart from goodwill only if it is separable.
+The intangible assets recognised for US GAAP are being amortised on a straight-line basis over periods up to 15 years.
+Under US GAAP, following the introduction of SFAS 142, goodwill and intangible assets with indefinite useful lives are not amortised but reviewed annually for impairment.
+The annual goodwill amortisation charge recognised for UK GAAP has therefore been reversed for US GAAP purposes.
+Purchase of 45% minority interest in Amersham Biosciences in 2002 Under UK GAAP, fair value adjustments have been recognised for tangible fixed assets, listed investments and the funded status of pensions.
+Under US GAAP, additional fair value adjustments have been recognised for separable intangible assets, in-process research and development and the revaluation of inventory.
+Intangible assets are being amortised on a straight-line basis over periods up to 10 years.
+Profit or loss on the partial disposal of businesses Under UK GAAP, gains on the partial disposal of businesses involving non-monetary consideration are recorded in the statement of total recognised gains and losses.
+Under US GAAP, when recorded in connection with a business combination, these gains and losses are recorded in the income statement.
+ii Accounting for investment in Nihon Medi-Physics NMP Under UK GAAP the change from the cost method to the equity method in the year ended 31 March 1997, due to the acquisition of an additional interest in NMP, did not require retroactive adjustment to the financial statements.
+Under US GAAP the investment, the results of operations, and shareholders equity of the group were adjusted retroactively in a manner consistent with the accounting for a step-by-step acquisition of a subsidiary.
+iii Disposal of investment in Nycomed Pharma In 2001, the group sold its trade investment in Nycomed Pharma.
+Under US GAAP, the investment was treated as an associate company resulting in a lower profit on disposal under the equity method of accounting.
+Certain costs associated with the sale have been recognised in 2002 for US GAAP.
+iv Derivative hedging Under US GAAP, the group does not qualify for hedge accounting and so gains and losses arising on derivative instruments at the year end have been booked directly to income.
+v Pension and post retirement costs Under both UK GAAP and US GAAP, pension and post retirement costs are based on actuarial assumptions.
+However, under UK GAAP the cost is based on long term market and economic assumptions and under US GAAP the cost is based on current market and economic assumptions.
+In line with SFAS 87 Employers Accounting for Pensions an additional minimum liability equal to the unfunded accumulated benefit obligation is recognised when the accumulated benefit obligation exceeds the fair value of pension fund assets.
+A transfer of assets was received from former pension plans during 2001.
+Under UK GAAP, the proportion of the transfer relating to current employees of the group is being spread over the remaining service life of the employees in line with SSAP 24.
+Under US GAAP this was taken to income during 2001. vi Revenue recognition Under UK GAAP, contract revenue is recognised when it is earned and non-refundable and when there are no future obligations under the contract terms.
+Under US GAAP, the group applies Staff Accounting Bulletin 101 SAB 101 Revenue Recognition in Financial Statements.
+Under SAB 101, more prescriptive criteria are applied to assess whether the culmination of the earnings process has occurred and the group has a continuing obligation throughout the contract terms.
+As a result, certain non-refundable fees have been deferred over the contract terms under US GAAP.
+73 vii Deferred taxation Under UK GAAP, provision for deferred taxation is recorded under FRS 19.
+Except for certain timing differences relating to revaluations, rolled over taxable gains and unremitted income, a provision is made for all timing differences that would give rise to a deferred tax liability.
+Deferred tax assets are recognised to the extent that it is more likely than not they will be recoverable.
+Under US GAAP, deferred tax is provided for on a full liability basis, which includes these exceptions noted above.
+A valuation allowance is established when it is more likely than not that some portion or all of the deferred tax asset will not be realised.
+viii Compensated absences, equity instruments and other Differences between UK GAAP and US GAAP relate to accounting for compensated absences, investments in equity securities, ESOP transactions, social security on share option gains and stock based compensation.
+ix Ordinary dividends Under UK GAAP, dividends proposed are provided for in the period in respect of which they are recommended by the Board of Directors for approval by the shareholders.
+Under US GAAP, dividends are recorded as a reduction to retained earnings when they have been formally declared, and notice given to shareholders.
+x Minority interest The amount represents the components of the US GAAP adjustments attributable to Pharmacia Corporations 45% interest in Amersham Biosciences.
+The minority interest was extinguished in 2002 on the purchase of the 45% interest in Amersham Biosciences that the group did not already own.

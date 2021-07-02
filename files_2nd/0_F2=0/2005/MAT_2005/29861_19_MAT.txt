@@ -1,0 +1,93 @@
+TEMPLETON_NN
+EMERGING_GER
+MARKETS_NN
+INVESTMENT_NOMZ
+TRUST_NN
+PLC_NN
+KEY_NN
+DATES_NN
+The_NN
+Companys_NN
+sixteenth_NN
+Annual_JJ
+General_NN
+Meeting_VBG [WZPRES]
+will_PRMD
+be_VB [PASS]
+held_VBN [PRIV]
+on_PIN
+Tuesday_NN
+27_CD
+September_NN
+2005_CD
+._.
+Notice_NN
+of_PIN
+this_DEMO
+meeting_GER
+is_VPRT [PASS]
+given_VBN
+on_PIN
+pages_NN
+55_CD
+to_PIN
+57_CD
+._.
+Significant_JJ
+events_NN
+in_PIN
+the_DT
+Companys_NN
+year_NN
+are_VPRT [PASS]
+expected_VBN [PRIV]
+normally_RB
+to_TO
+occur_VB
+as_IN
+follows_VPRT
+:_:
+June_NN
+Preliminary_JJ
+results_NN
+and_CC
+recommended_VBN [SUAV]
+dividend_NN
+for_PIN
+the_DT
+year_NN
+announced_VBD [PUBV]
+._.
+Annual_JJ
+Report_NN
+for_PIN
+the_DT
+year_NN
+to_PIN
+30_CD
+April_NN
+published_VBN
+._.
+September_NN
+Annual_JJ
+General_NN
+Meeting_VBG [WZPRES]
+held_VBN [PRIV]
+._.
+Interim_NN
+Report_NN
+for_PIN
+the_DT
+period_NN
+to_PIN
+31_CD
+October_NN
+published_VBN
+._.
+The_DT
+Company_NN
+pays_VPRT
+no_SYNE
+interim_JJ
+dividend_NN
+._.

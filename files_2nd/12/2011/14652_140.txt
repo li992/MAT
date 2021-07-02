@@ -1,0 +1,19 @@
+overview business review governance financial statements 2.
+Summary of significant accounting policies continued The interest element of the defined benefit pension plan cost represents the change in present value of plan obligations resulting from the passage of time and is determined by applying the discount rate to the opening present value of the benefit obligation, taking into account material changes in the obligation during the year.
+The expected return on plan assets is based on an assessment made at the beginning of the year of long term market returns on plan assets, adjusted for the effect on the fair value of plan assets of contributions received, and benefits paid during the year.
+The difference between the expected return on plan assets and the interest cost is recognised in the income statement as finance costs or finance income.
+Actuarial gains and losses arising from differences between actual and expected returns on plan assets, experience adjustments on liabilities and changes in actuarial assumptions, are recognised immediately in the statement of comprehensive income.
+The defined benefit pension plan asset or liability in the balance sheet comprises the total for each plan of the present value of the defined benefit obligation using a discount rate based on high quality corporate bonds denominated in the same currency and whose term is consistent with the estimated term of the obligation, less any past service cost not yet recognised and less the fair value of plan assets out of which the obligations are to be settled directly.
+Fair value is based on market price information and, in the case of quoted securities, is the published bid price.
+The value of a net pension benefit asset is restricted to the sum of any unrecognised past service costs and the present value of any amount the Group expects to recover, by way of refunds from the plan or reductions in the future contributions.
+Revenue recognition Revenue is recognised when it is probable that economic benefits will flow to the Group, the revenue can be reliably measured and when the Group has transferred to the buyer the significant risks and rewards of ownership.
+In addition, revenue is only recognised when collectability is probable.
+For the sale of services, revenue is recognised in accounting periods in which the service is rendered.
+Revenue from maintenance contracts is recognised over the period of performance on a straight line basis.
+Revenue from product sales of hardware and software is recognised at the time of delivery and acceptance and when there are no significant vendor obligations remaining.
+It is not until acceptance has occurred that the risks and rewards of ownership are transferred to the buyer.
+Terms of acceptance are dependent upon the specific contractual arrangement agreed with the customer.
+Contractual arrangements are accounted for as two or more separate transactions only where the commercial substance is that the individual components operate independently of each other, because they are capable of being provided separately from one another and it is possible to attribute reliable fair values to every component.
+To the extent that a separate component comprises a product sale of hardware or software, revenue is recognised as described above.
+Revenue is recognised on other components as the Group fulfils its contractual obligations and to the extent that it has earned the right to consideration.
+Employee benefits When an employee has rendered services to the Group during an accounting period, short term benefits expected to be paid in exchange for those services are recognised in the same accounting period.

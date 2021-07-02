@@ -1,0 +1,71 @@
+SPIRENT COMMUNICATIONS PLC ANNUAL REPORT 2013 Glossary 2G Second Generation Second generation remains the most common type of wireless cellular communication in use globally.
+Although its primary focus has been voice service and short message service SMS, it has also been enhanced to allow low rate data communication.
+3G Third Generation Third generation of mobile communications that delivers data rates of hundreds of kilobits per second to tens of megabits per second.
+3GPP Third Generation Partnership Project A collaboration between groups of telecommunications associations from around the world, the scope of which is primarily to establish globally applicable third generation and beyond mobile phone system specifications.
+4G Fourth Generation Fourth generation of mobile communications that delivers data rates of tens to hundreds of megabits per second.
+Future 4G technologies promise data rates in excess of one gigabit per second.
+Application A software programme designed to perform a specific function for the end user which uses the services of the computers operating system and other supporting programmes.
+Applications include database programmes, spreadsheets, web browsers, graphics programmes and word processors.
+Attacks Attempts to damage, disrupt, or gain unauthorised access to a computer, computer system, or electronic communications network.
+BeiDou formerly Compass Chinas second generation global satellite navigation system, which is under construction but eventually planned to consist of 35 satellites.
+Service was launched in China during 2011, with plans to provide service globally by 2020.
+Cloud A variety of computing concepts that involve a large number of computers connected through a real-time communication network such as the internet.
+Often used in reference to network-based services served up by virtual hardware, simulated by software running on one or more physical machines.
+Code Division Multiple Access CDMA A digital cellular technology standard which allows numerous signals to occupy a single transmission channel, thus increasing network capacity: used in 2G and 3G radio communications.
+Core Router A router designed to operate in the internet backbone, able to support multiple telecommunications interfaces of the highest speed in use in the core internet, and to forward IP packets at full speed on all of them.
+It must also support the routing protocols being used in the core.
+Cyber Security aka IT Security The body of technologies, processes and practices designed to protect networks, computers, programmes and data from attack, damage or unauthorised access.
+In an IT context, the term security implies cyber security.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+Ethernet A family of networking technologies originally developed for local area networks, which migrated to metro area networks and eventually became the dominant standard in wireline networks worldwide.
+Gigabit Ethernet G A transmission technology based on the Ethernet frame format and protocol used in local area networks that provides a data rate of 1 billion bits per second one gigabit and which is used as the backbone in many enterprise networks.
+Global Navigation Satellite Systems GNSS The standard generic term for satellite navigation systems that provide autonomous geo-spatial positioning with global coverage.
+GNSS allows users receivers to determine their location to within a few metres by employing a triangulation technique that uses information from multiple satellites.
+Global Positioning System GPS A global navigation satellite system operated by the United States government for determining a users location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+140 SPIRENT COMMUNICATIONS PLC ANNUAL REPORT 2013 GLONASS The Russian Global Navigation A global navigation satellite system operated by the Russian Federation.
+Deployment began in Satellite System 1976 and, although the system fell into disrepair in the 1990s, full global service was restored in 2011.
+High Definition Voice HD Voice A technology, based on standards from the International Telecommunication Union ITU, that delivers high definition voice quality compared to standard digital telephony.
+Infrastructure Test Optimization ITO The practices required to ensure that infrastructures meet a defined quality of service and quality of experience that are necessary to meet strategic business objectives.
+Internet Protocol IP The primary network protocol used on the internet and on other network devices to facilitate and control the flow of data.
+Internet Protocol Multimedia Subsystem A standardised next-generation architecture for telecoms operators who want to provide mobile IMS and fixed multimedia services.
+Intrusion Detection Prevention A technology that gathers and analyses information across gateways, servers and desktops to identify possible security breaches that can occur from within or outside an organisation.
+Load Balancer A piece of hardware or virtual hardware for distributing network and or application traffic across multiple computing resources, with the aim of optimizing resource use, maximising throughout and improving overall reliability of applications.
+Long Term Evolution LTE An advanced wireless data communications technology standard sometimes called 4G which is an evolution of 3G UMTS standards.
+In addition to a new wireless interface specification, LTE uses a simplified flat IP-based network architecture.
+LTE-Advanced An evolution of LTE technology, specified in 3GPP Release 10 and later specifications, regarded by some as the first true 4G technology.
+Machine-to-Machine M2M A technology that enables automated wireless or wired communication between mechanical or electronic devices.
+Mobile Packet Core An integrated IP-based mobile transport network with the ability to support 2G, 3G and LTE coexistence.
+Network Functions Virtualization NFV An initiative to provide a new network production environment which lowers cost, raises efficiency and increases agility by hosting network functions previously carried out by proprietary, dedicated hardware on virtual machines running on industry-standard commodity hardware.
+OpenFlow An open standard network protocol from the Open Network Foundation ONF.
+OpenFlow enables software-defined networking for programmable networks.
+Open Networking Foundation ONF A non-profit, mutually beneficial trade organisation to improve networking through softwaredefined networking SDN and standardising the OpenFlow protocol and related technologies.
+Optical Transport Network OTN An efficient and globally-accepted approach, standardised by the ITU, to multiplexing communication services onto optical light paths, which can provide significant cost benefits to carriers.
+Small Cells A generic term for microcells, picocells and femtocells.
+Small cells provide network coverage in dead zones within a macrocell the coverage area of a traditional cellular base station and extra network capacity by offloading mobile data traffic from macrocells.
+Software-Defined Networking SDN An approach to networking in which control is decoupled from hardware and given to a software application called a controller.
+Switch A computer networking device used to connect many devices together on a computer network.
+Switches manage the flow of data across a network by only transmitting a received message to the device for which the message was intended.
+Testing-as-a-Service TaaS An outsourcing model in which testing activities associated with some of an organisations business activities are performed by a test service provider rather than employees.
+Services suited to a TaaS model include automated regression testing, performance testing, security testing, and monitoring testing of cloud-based applications.
+141 SPIRENT COMMUNICATIONS PLC ANNUAL REPORT 2013 Glossary continued Time Division LTE TD-LTE LTE standards accommodate cellular network and subscriber transmissions in different frequency bands Frequency Division Duplex, as well as in the same frequency band Time Division Duplex, often referred to as TD-LTE.
+TD-LTE is expected to be widely deployed in major Asian markets such as China, India and Japan, as well as parts of the United States and Europe.
+Time Division Multiplexing TDM A digital transmission method that combines signals from multiple sources on a common path increasing capacity.
+Triple Play Voice, video and data transmitted over a single transport medium.
+Universal Mobile Telecommunications System The most common 3G wireless technology globally, which uses WCDMA on its underlying air UMTS interface and offers support for data transfer rates from hundreds of kilobits per second to tens of megabits per second.
+Virtualization Technologies designed to provide a layer of abstraction from the physical characteristics of computing resources to simplify the way in which other systems, applications, or end users interact with those resources.
+Voice over LTE VoLTE A standards-based scheme adopted by the GSMA, the cellular industrys association, to provide voice service over data-only LTE networks.
+VoLTEs use of an IP Media Subsystem enables voice to be offered as part of a rich communications solution, integrated with services such as messaging, live video sharing and file transfer.
+Wideband CDMA WCDMA An ITU standard derived from CDMA which is used globally in 3G mobile communications.
+Wi-Fi A mechanism that enables devices such as personal computers, video game consoles, smartphones or digital audio players to exchange data wirelessly over a computer network and connect to network resources, such as the internet.
+Coverage ranges from a few rooms to several square miles, depending on the number of access points used.
+Wireless Backhaul The portion of a mobile network that provides connectivity between cellular base stations and the core network over wireline, fibre or radio links.
+Wireline Communication services provided over a physical connection, which may be copper or fibre.
+142 SPIRENT COMMUNICATIONS PLC ANNUAL REPORT 2013 Notes 143 SPIRENT COMMUNICATIONS PLC ANNUAL REPORT 2013 Notes 144 Contact details Registered office ADR Depositary The Bank of New York Mellon Corporation Spirent Communications plc Northwood Park PO Box 30170 College Station Gatwick Road Crawley TX 77842-3170 USA West Sussex RH10 9XN United Kingdom Tel: 1 888 269 2377 toll free US Tel: 44 0 1293 767676 Tel: 1 201 680 6825 outside US Email: shrrelations@.
+com Registered in England No: 470893 Brokers Joint Jefferies Hoare Govett Auditor Vintners Place Ernst & Young LLP 68 Upper Thames Street 1 More London Place London EC4V 3BJ London SE1 2AF United Kingdom United Kingdom Tel: 44 0 20 7029 8000 Tel: 44 0 20 7951 2000 Website: www.
+com UBS Limited Registrar 1 Finsbury Avenue Equiniti Limited London EC2M 2PP Aspect House United Kingdom Spencer Road Lancing Tel: 44 0 20 7567 8000 West Sussex BN99 6DA Website: www.
+com United Kingdom Financial PR Advisers Tel: 0871 384 2126 UK FTI Consulting Limited Tel: 44 0 121 415 7047 overseas 200 Aldersgate Text phone for shareholders with hearing difficulties : Aldersgate Street 0871 384 2255 UK 44 0 121 415 7028 overseas London EC1A 4HD Website: www.
+co. uk United Kingdom Tel: 44 0 20 3727 1000 Website: www.
+com Spirent Communications plc Annual Report 2013 Spirent Communications plc Northwood Park Gatwick Road Crawley West Sussex RH10 9XN United Kingdom Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: investor.
+com Registered in England No: 470893 Spirent and the Spirent logo are trademarks or registered trademarks of Spirent Communications plc.
+All other trademarks or registered trademarks mentioned herein are held by their respective companies.

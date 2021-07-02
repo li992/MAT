@@ -1,0 +1,310 @@
+Royal Mail plc | Significant accounting policies Basis of consolidation The consolidated financial statements comprise the financial statements of the Company and its subsidiary undertakings.
+The financial statements of the major subsidiaries are prepared for the same reporting year as the Company, using consistent accounting policies.
+All intra-Group balances and transactions, including unrealised profits arising from intra-Group transactions, have been eliminated in full.
+Transfer prices between business segments are set at arms length fair value on the basis of charges reached through negotiation with the respective businesses.
+Subsidiaries are consolidated from the date on which control is obtained by the Group and cease to be consolidated from the date on which control is no longer held by the Group.
+Where the Group ceases to hold control of a subsidiary, the consolidated financial statements include the results for the part of the reporting year during which the Group held control.
+Non-controlling interests represents the portion of profit loss, gains losses and net assets relating to subsidiaries that are not attributable to members of the Company.
+The non-controlling interests balance is presented within equity in the consolidated balance sheet, separately from equity attributable to shareholders of the Company.
+Changes in accounting policy and disclosures The accounting policies applied in the preparation of these financial statements are consistent with those in the Annual Report and Financial Statements for the year ended 27 March 2016, and the adoption of new and amended accounting standards with effect from 28 March 2016 as detailed below: New and amended accounting standards adopted in 2016-17 IAS 1 Amended Disclosure Initiative IAS 16 Amended and IAS 38 Amended Clarification of acceptable methods of depreciation and amortisation IAS 27 Amended Equity method in Separate Financial Statements IFRS 11 Amended Accounting for Acquisitions of Interests in Joint Operations Annual improvements 2012-2014 The adoption of these amendments to the standards has not had a material impact on the financial performance or position of the Group.
+Key sources of estimation uncertainty and critical accounting judgements The preparation of consolidated financial statements necessarily requires Management to make estimates and assumptions that can have a significant impact on the financial statements.
+These estimates and judgements are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the consolidated financial statements are disclosed below.
+Pensions The value of defined benefit pension plan liabilities and assessment of pension plan costs are determined by long-term actuarial assumptions.
+These assumptions include discount rates which are based on the long-term yield of high-quality corporate bonds, inflation rates and mortality rates.
+Differences arising from actual experience or future changes in assumptions will be reflected in the Groups consolidated statement of comprehensive income.
+The Group exercises its judgement in determining the assumptions to be adopted, after discussion with a qualified actuary.
+Details of the key actuarial assumptions used and of the sensitivity of these assumptions for RMPP are included within Note 9.
+Deferred revenue The Group recognises advance customer payments on its balance sheet, predominantly relating to stamps and meter credits purchased by customers but not yet used at the balance sheet date see Note 19.
+The valuation of this deferred revenue is based on a number of different estimation and sampling methods using external specialist resource as appropriate.
+The majority of this balance is made up of stamps sold to the general public.
+For sales to the general public, estimates of stamp volumes held are made on the basis of monthly surveys performed by an independent third-party.
+In order to avoid over-estimation of the typical number of stamps held, Management applies a cap to the results to exclude what are considered to be abnormal stamp holdings from the estimate.
+The level at which holdings are capped is judgemental and is currently set at 99 of each stamp type per household.
+The impact of applying alternative capping values on the year end public stamp deferred revenue balance is shown in the table below.
+Capped Uncapped As reported At 26 March 2017 30 99 300 Public stamp holdings value m 152 184 200 216 The value of stamps and meter credits held by retail and business customers are more directly estimated through the analysis of sales volumes and monthly meter sampling.
+Further adjustments are also made for each type of sale to take into account volume purchasing of stamps when price changes are announced.
+136 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Significant accounting policies continued The results of the above procedures are reviewed by Management in order to make a judgement of the carrying amount of the accrual.
+The total accrual is held within current trade and other payables but a portion which cannot be measured will relate to stamps and meter credits used one year or more after the balance sheet date.
+Provisions Due to the nature of provisions, a significant part of their determination is based upon estimates and or judgements concerning the future.
+The industrial diseases claims provision is considered to be the area where the application of judgement has the most significant impact.
+The industrial diseases claims provision arose as a result of a Court of Appeals judgement in 2010 and relates to individuals who were employed in the General Post Office Telecommunications division prior to October 1981.
+The provision requires estimates to be made of the likely volume and cost of future claims, as well as the discount rate to be applied to these, and is based on the best information available as at the year end, which incorporates independent expert actuarial advice.
+The result of a 0.5 per cent decrease in the discount rate estimate would be a 6 million increase in the overall industrial diseases provision.
+The carrying value of this provision is included within Note 22. Business acquisitions Identifiable assets acquired and liabilities and contingent liabilities assumed in business acquisitions are measured initially at their fair values at the acquisition date.
+The fair value of an asset or liability represents the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+Independent valuers were used to assist in the valuation of the Groups in-year acquisitions.
+In determining the fair value of the intangible assets acquired, risk-adjusted future cash flows discounted using discount rates specific to the asset are generally used.
+In determining cash flows, a combination of historical data and estimates regarding revenue growth, profit margins and operating cash flows have been used.
+customer relationships required judgement on future cash flows, churn, and the expected remaining life of the customer relationship.
+brands were measured by estimating the savings realised by owning or holding the right to use the brand name as opposed to paying a royalty fee to a third party.
+This includes an estimate of the projected revenues generated and the estimated life of the brand to a third party.
+internally developed software acquired was valued using the relief from royalty approach, taking into account software licencing costs in the postage, courier and shipping service sector.
+Internally developed software acquired, was valued on the basis of the estimated cost to recreate the software.
+tangible assets were valued by estimating the current cost to purchase or replace the assets, whilst also taking into account available market data for the sale or transfer of such assets.
+The excess of the consideration transferred over the fair value of the net identifiable assets acquired is recorded as goodwill.
+The Group has one year from the acquisition date to re-measure the fair values of the acquired assets and liabilities and the resulting goodwill if new information is obtained relating to conditions that existed at the acquisition date.
+Acquisition related costs are expensed as incurred.
+The business acquisitions during the period are disclosed in Note 10.
+Goodwill allocation and impairment testing Goodwill recognised in a business combination is not amortised and, as such, must be tested annually for impairment in line with IAS 36 Impairment of Assets.
+In making assessments for impairment, assets that do not generate independent cash flows, such as goodwill, are allocated to an appropriate cash-generating unit CGU, or group of CGUs, on the basis of whether those CGUs are expected to benefit from the synergies of the combination.
+Management necessarily applies judgement in allocating goodwill to CGUs.
+As at 26 March 2017 299 million of the total goodwill balance of 316 million was allocated to the Group of CGUs making up the GLS reportable segment.
+In assessing whether there has been any impairment of goodwill, Management determines whether the goodwill carrying value is higher than the recoverable amount of the underlying CGUs.
+The recoverable amount is the higher of a CGUs fair value less costs to sell realisable value and value-in-use.
+In the case of goodwill allocated to the GLS reportable segment the realisable value is estimated by applying an average share price earnings ratios of quoted peers to the current year results of GLS.
+Judgement must be made by Management in choosing a suitable peer group against which to compare the realisable value of GLS.
+Further details of the impairment calculations, including sensitivity of the assumptions made, are included in Note 12.
+Deferred tax Assessment of the deferred tax asset requires an estimation of future profitability.
+Such estimation is inherently uncertain in a market subject to various competitive pressures.
+Should estimates of future profitability change in future years, the amount of deferred tax recognised will also change accordingly.
+Prior to recording deferred tax assets for tax losses, relevant tax law is considered to determine the availability of the losses to offset against the future taxable profits.
+The carrying values of the deferred tax assets and liabilities are included within Note 6.
+Annual Report and Financial Statements 2016-17 | 137 Royal Mail plc | Significant accounting policies continued Revenue Revenue recognised in the income statement is net of value added tax and comprises turnover which principally relates to the rendering of services as follows: UK Parcels, International & Letters Account revenue is derived from specific contracts and recognised when the delivery of an item is complete.
+Contracted services that have not yet been rendered at the balance sheet date are designated as deferred income.
+Revenue from direct sales of products or services is recognised when services are rendered, goods are delivered and the amount of revenue that will flow to the Group can be measured reliably.
+Where payments are received for a service to be provided over a specified length of time, payments received are recognised as deferred revenue and released to the income statement over the period that the service is performed.
+Revenue derived from Network Access agreements is recognised when the delivery of the related items is complete.
+Where products are sold through third-party agents, the revenue receivable is recognised gross with any commission payments being charged to operating costs.
+Revenue relating to public, retail and business stamp and meter sales is recognised when the sale is made, adjusted to reflect a value of stamp and meter credits held but not used by the customer.
+Further details on this deferred revenue adjustment are provided in the Key sources of estimation uncertainty and critical accounting judgements section above.
+General Logistics Systems Revenue is derived from specific contracts and is recognised when the delivery of an item is complete.
+People costs These are costs incurred in respect of the Groups employees and comprise wages and salaries, pensions and social security costs.
+Distribution and conveyance costs Distribution and conveyance costs relate to non-people costs incurred in transporting and delivering mail.
+These include conveyance by rail, road, sea and air, together with costs incurred by international mail carriers and Parcelforce Worldwide delivery operators and GLS.
+These costs are disclosed separately on the face of the income statement.
+Infrastructure costs These are costs primarily relating to the day-to-day operation of the delivery network and include depreciation amortisation, IT and property facilities management costs.
+Transformation costs These costs relate to the ongoing transformation of the business, and include voluntary redundancy, project costs and other  payments.
+Operating specific items These are recurring or non-recurring items of income or expense of a particular size and or nature relating to the operations of the business that in Managements opinion require separate identification.
+These items include items that have resulted from events that are non-recurring in nature, even though related income expense can be recognised in subsequent periods.
+These items currently include the charge for Employee Free Shares, legacy costs for example, movements in the industrial diseases provision and amortisation of intangible assets in acquisitions.
+Non-operating specific items These are recurring or non-recurring items of income or expense of a particular size and or nature which do not form part of the Groups trading activity and in Managements opinion require separate identification.
+These items include profit or loss on disposal of property, plant and equipment and businesses, and the IAS 19 non-cash pension interest credit.
+Share-based payments The Group operates a number of equity-settled, share-based compensation schemes under which the Group receives services from employees as consideration for equity instruments shares of the Company.
+These include the HMRC-approved Employee Free Shares Share Incentive Plan SIP and the Save As You Earn SAYE scheme.
+Both schemes are based on non-market conditions and do not vest until the employee completes a specific period of service.
+Share-based payments awarded as part of Long Term Incentive Plans LTIP vest based on a combination of non-market and market conditions.
+The fair value of the employee services received in exchange for the grant of the shares is recognised as an expense in the income statement, with a corresponding credit entry in equity, as per the requirements of IFRS 2 Share-based Payment.
+The total amount expensed is determined by reference to the fair value of the equity instruments at the date on which they are granted.
+The fair value of each award is measured with reference to the share price upon issue and using the Black-Scholes and Monte Carlo models where appropriate.
+The total expense is recognised over the vesting period, which is the period over which all of the specified vesting conditions are to be satisfied.
+No expense is recognised for awards that do not ultimately vest.
+At each balance sheet date before vesting, the cumulative expense is calculated, representing the extent to which the vesting period has expired and Managements best estimate of the achievement or otherwise of service conditions and of the number of equity instruments that will ultimately vest.
+The movement in cumulative expense since the previous balance sheet date is recognised in the income statement, with a corresponding entry in equity.
+The social security contributions payable in connection with the grant of shares is considered an integral part of the grant itself, and the charge is treated as a cash-settled transaction.
+138 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Significant accounting policies continued Income tax and deferred tax The charge for current income tax is based on the results for the reporting year as adjusted for items that are non-assessable or disallowed.
+It is calculated using rates that have been substantively enacted at the balance sheet date.
+Deferred income tax assets and liabilities are recognised for all taxable and deductible temporary differences and unused tax assets and losses except: Initial recognition of goodwill: The initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither the accounting profit nor taxable profit and loss: Taxable temporary differences associated with investments in subsidiaries, associates and interest in joint ventures, where the timing of the reversal of the temporary difference can be controlled and it is probable that the temporary difference will not reverse in the foreseeable future: and Deferred tax assets are recognised only to the extent that it is probable that taxable profit will be available against which they can be utilised.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and increased or reduced to the extent that it is probable that sufficient taxable profit will be available to allow them to be utilised.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the period when the tax asset is realised or the liability is settled, based on tax rates and tax laws that have been substantively enacted at the balance sheet date.
+Deferred tax balances are not discounted.
+Current and deferred tax is charged or credited directly to equity if they relate to items that are credited or charged directly to equity, otherwise it is recognised in the income statement.
+Where tax credits are claimed against eligible research and development costs, these amounts are credited against the relevant expense or capitalised asset to match the accounting treatment applied to the original expenditure.
+Earnings per share EPS Basic earnings per share EPS from continuing operations is calculated by dividing the profit loss from continuing operations adjusted for the non-controlling interests share of profit by the weighted average number of ordinary shares in issue.
+The total Group EPS is calculated in the same way, except that it also includes profit loss from discontinued operations.
+Diluted EPS is calculated by adjusting the weighted average number of ordinary shares in issue on the assumption of conversion of all potentially dilutive ordinary shares arising from share-based payment schemes.
+These potential shares are treated as dilutive only when their conversion to ordinary shares would decrease EPS from continuing operations.
+Segment information The Groups operating segments are organised and managed separately according to the nature of the products and services provided, with each segment representing an operating unit that offers different products and serves largely different markets.
+The Board monitors the operating results of its main operating units separately for the purpose of making decisions about resource allocation and performance assessment.
+Segment performance is evaluated based on operating profit before and after transformation costs.
+Operating segments are made up of business units based in the UK, other parts of Europe and the United States with the latter two being relevant to the GLS operations.
+The UK operating segment comprises the various business units which make up UKPIL.
+There is no aggregation of operating segments.
+Segment revenues have been attributed to the respective countries based on the primary location of the service performed.
+Transfer prices between segments are set at arms length fair value on the basis of charges reached through negotiation between the relevant business units that form part of the segments.
+There are no differences in the measurement of the respective segments profit loss and the consolidated financial statements prepared under IFRS.
+Annual Report and Financial Statements 2016-17 | 139 Royal Mail plc | Significant accounting policies continued Property, plant and equipment Property, plant and equipment is recognised at cost, including directly attributable costs in bringing the asset into working condition for its intended use.
+Depreciation of property, plant and equipment is provided on a straight-line basis by reference to cost, the useful economic lives of assets and their estimated residual values.
+The useful lives and residual values are reviewed annually and adjustments, where applicable, are made on a prospective basis.
+The lives assigned to major categories of property, plant and equipment are: Land and buildings: Freehold land Not depreciated Freehold buildings Up to 50 years Leasehold buildings The shorter of the period of the lease, 50 years or the estimated remaining useful life Plant and machinery 3-15 years Motor vehicles 2-12 years Fixtures and equipment 2-15 years An item of property, plant and equipment is derecognised upon disposal or when no future economic benefits are expected from its use or disposal.
+Any gain or loss arising at derecognition of the asset calculated as the difference between the net disposal proceeds and the carrying amount of the asset is included in the income statement in the year that the asset is derecognised.
+Gains or losses from the disposal of assets are recognised in the income statement at the point that all significant risks and rewards of ownership are transferred.
+All subsequent expenditure on property, plant and equipment is capitalised if it meets the recognition criteria, and the carrying amount of those parts replaced is derecognised.
+All other expenditure including repairs and maintenance expenditure is recognised in the income statement as incurred.
+Business combinations and goodwill Business combinations on or after 29 March 2004 are accounted for under IFRS 3 Business Combinations using the purchase method.
+Any excess of the cost of the business combination over the Groups interest in the net fair value of the identifiable assets, liabilities and contingent liabilities at the date of acquisition is recognised in the balance sheet as goodwill and is not amortised.
+After initial recognition, goodwill is stated at cost less any accumulated impairment losses.
+Goodwill arising from business combinations is reviewed for impairment annually or more frequently if events or changes in circumstances indicate that the carrying value may be impaired.
+For the purpose of such impairment reviews, goodwill is allocated to the relevant cash-generating units CGUs, or groups of CGUs, which are expected to benefit from synergies of the combination.
+A goodwill impairment loss is recognised in the income statement for the amount by which the carrying value of the related CGU, or group of CGUs, exceeds the recoverable amount, which is the higher of a CGUs net realisable value and its value in use.
+Goodwill arising on the acquisition of equity accounted entities is included in the cost of those entities and therefore not reported on the balance sheet as goodwill.
+Purchase of noncontrolling interests NCI and treatment of NCI put options Where the Group purchases some or all of the non-controlling equity interest in a subsidiary company this is accounted for as an equity-only transaction.
+Any difference between the purchase price of the interest and the carrying amount of the NCI being derecognised will be shown as a movement through the Consolidated statement of changes in equity.
+At a point in time there may exist unexercised put options for the Group to purchase the shareholdings of non-controlling interests.
+Any such put options are recognised as a liability calculated on the assumption that they will be exercised at the earliest opportunity with a corresponding debit made to Group equity in line with IAS 32 Financial Instruments: Presentation.
+The Group has elected to recognise any change in the fair value of these put options through the Consolidated statement of changes in equity.
+Intangible assets Intangible assets acquired as part of a business combination are capitalised separately from goodwill if the fair value can be measured reliably on initial recognition.
+Intangible assets acquired separately or development costs that meet the criteria to be capitalised are initially recognised at cost and are assessed to have either a finite or indefinite useful life.
+Those with a finite life are amortised over their useful life and those with an indefinite life are reviewed for impairment annually or more frequently if events, or changes in circumstances, indicate that the carrying value may be impaired.
+An impairment loss is recognised in the income statement for the amount by which the carrying value of the intangible asset exceeds its recoverable amount, which is the higher of an assets net realisable value and its value in use.
+Amortisation of intangible assets with finite lives is charged annually to the income statement on a straight-line basis as follows: Master franchise licences 7 to 10 years Customer listings 3 to 11 years Software 3 to 10 years Brands 2 to 3 years Investment in associates The Groups investments in its associate companies are accounted for under the equity method of accounting.
+Under the equity method, an investment is carried in the balance sheet at cost plus post-acquisition changes in the Groups share of the net assets of the associate, less 140 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Significant accounting policies continued any impairment in value.
+The income statement reflects the Groups share of annual post-tax profits from the associates netted off other operating costs as the values are not material enough for separate disclosure.
+Any goodwill arising on acquisition of an associate, representing the excess of the cost of the investment compared with the Groups share of the net fair value of the identifiable assets, liabilities and contingent liabilities acquired, is included in the carrying amount and not amortised.
+Borrowing costs Interest on borrowings related to the construction or development of qualifying assets is capitalised, until such time as the assets are substantially ready for their intended use.
+Borrowing costs capitalised are deducted in determining taxable profit in the reporting year in which they are incurred.
+Non-current assets held for sale and discontinued operations Non-current assets classified as held for sale are measured at the lower of their carrying amount and fair value less costs to sell.
+Non-current assets are classified as held for sale if their carrying amounts will be recovered principally through a sale transaction, rather than through continuing use.
+This condition is regarded as met only when the sale is highly probable and the asset is available for immediate sale in its present condition.
+Management must be committed to the sale, which should be expected to qualify for recognition as a completed sale within one year from the date of classification.
+Following their classification as held for sale, the assets including those in a disposal group cease to be depreciated.
+A discontinued operation is a component of the Groups business that represents a separate major line of business or geographical area of operations, that has been disposed of, or that meets the criteria to be classified as held for sale.
+Discontinued operations are presented in the consolidated statement of comprehensive income as a single line which comprises the post-tax profit or loss of the discontinued operation up to the date of disposal, and any post-tax gain or loss recognised on any remeasurement of the disposal group to fair value less costs to sell, or on the disposal of the assets or disposal groups constituting discontinued operations.
+Impairment reviews Unless otherwise disclosed in these accounting policies, assets and cash-generating units are reviewed for impairment if events or changes in circumstances indicate that the carrying value may be impaired.
+The Group assesses at each reporting date whether such indications exist.
+Where appropriate, an impairment loss is recognised in the income statement for the amount by which the carrying value of the asset or cash-generating unit exceeds its recoverable amount, which is the higher of an assets net realisable value and its value in use.
+Leases Finance leases, where substantially all the risks and rewards incidental to ownership of the leased item have passed to the Group, are capitalised at the inception of the lease with a corresponding liability recognised for the fair value of the leased item or, if lower, at the present value of the minimum lease payments.
+Lease payments are apportioned between the finance charges and capital element of the lease liability to achieve a constant rate of interest on the remaining balance of the liability.
+Capitalised leased assets are depreciated over the shorter of the estimated useful life of the asset and the lease term.
+Leases where substantially all the risks and rewards of ownership of the asset are retained by the lessor, are classified as operating leases and rentals are charged to the income statement over the lease term.
+The aggregate benefit of incentives is recognised as a reduction of rental expense over the lease term on a straight-line basis.
+A leasehold land payment is an upfront payment to acquire a long-term leasehold interest in land.
+This payment is stated at cost and is amortised on a straight-line basis over the period of the lease.
+In addition to lease contracts, other significant arrangements or contracts are assessed by reference to IFRIC 4 to determine whether, in substance, they are, or contain, a lease.
+This assessment is based on the substance of the arrangement at inception date, including whether the fulfilment of the arrangement is dependent on the use of a specific asset or assets or the arrangement conveys a right to use the asset.
+Trade receivables Trade receivables are recognised and carried at the original invoice amount less an allowance for any non-collectable amounts.
+An estimate for doubtful debts is made when collection of the full amount is no longer probable, with the amount of the loss recognised in the income statement within operating costs.
+When a bad debt is recognised, it is written off against the allowance for trade receivables.
+Subsequent recoveries of amounts previously written off are credited against operating costs in the income statement.
+Inventories Inventories are valued on a weighted average cost basis and carried at the lower of cost and net realisable value.
+Cost includes all direct expenditure and other costs attributable in bringing inventories to their present location and condition.
+The principal stock balance relates to engineering spare parts.
+Trade payables Trade payables are recorded initially at fair value and subsequently measured at amortised cost.
+Generally this results in their recognition at their nominal value.
+Capital management The Group has established four key objectives for capital management.
+Details of these can be seen in the Financial Review on page 30.
+Annual Report and Financial Statements 2016-17 | 141 Royal Mail plc | Significant accounting policies continued Financial instruments Financial assets within the scope of IAS 39 Financial Instruments: Recognition and Measurement are classified as: financial assets at fair value through the profit and loss FVTPL if they are not part of an effective hedge designation held for trading : held to maturity investments: loans and receivables, or available for sale financial assets as appropriate.
+Financial liabilities within the scope of IAS 39 are classified as either financial liabilities at FVTPL or financial liabilities measured at amortised cost.
+The Group determines the classification of its financial instruments at initial recognition and re-evaluates this designation at each reporting date.
+When financial instruments are recognised initially, they are measured at fair value, being the transaction price plus, in the case of financial instruments not at FVTPL, any directly attributable transactional costs.
+The Group only has loans and receivables, financial liabilities measured at cost and derivative assets and liabilities measured at FVTPL if they are not part of an effective hedge designation.
+The subsequent measurement of financial instruments depends on their classification as follows: Loans and receivables Non-derivative financial assets with fixed or determinable payments, that are not quoted on an active market, do not qualify as trading assets and have not been designated as either at FVTPL or available for sale, are carried at amortised cost using the effective interest rate method if the time value of money is significant.
+Gains and losses are recognised in the income statement when the loans and receivables are derecognised or impaired, as well as through the amortisation process.
+Financial liabilities measured at amortised cost All non-derivative financial liabilities are classified as financial liabilities measured at amortised cost.
+Non-derivative financial liabilities are initially recognised at the fair value of the consideration received, less directly attributable issue costs.
+After initial recognition, non-derivative financial liabilities are subsequently measured at amortised cost using the effective interest method.
+Gains and losses are recognised in the income statement when the liabilities are derecognised or impaired, as well as through the amortisation process.
+Cash and cash equivalents Cash and cash equivalents in the balance sheet comprise cash at bank and in hand and short-term deposits cash equivalents with an original maturity date of three months or less.
+In addition, the Group uses money market funds as a readily available source of cash, and these funds are also categorised as cash equivalents.
+For the purpose of the statement of cash flows, cash and cash equivalents consist of cash and cash equivalents as defined above, net of bank overdrafts.
+Cash equivalents are classified as loans and receivables financial instruments.
+Financial assets pension escrow investments Pension escrow investments comprise a money market fund investment established to provide security to the Royal Mail Senior Executive Pension Plan RMSEPP in support of a deficit recovery plan agreed with the Trustee in 2013.
+Financial assets other investments Other investments comprise short-term deposits other investments with local government or banks with an original maturity of three months or more.
+Short-term deposits are classified as loans and receivables financial instruments.
+Financial liabilities interest-bearing loans and borrowings All loans and borrowings are classified as financial liabilities measured at amortised cost.
+The 500 million bond is measured at amortised cost in Euro and converted to Sterling at the closing spot Sterling Euro exchange rate.
+Financial liabilities obligations under finance leases All obligations under finance leases are classified as financial liabilities measured at amortised cost.
+The Euro-denominated finance lease creditor is measured at amortised cost in Euros and converted to Sterling at the closing Sterling Euro exchange rate.
+Derivative financial instruments and hedging programmes The Group uses derivative instruments such as foreign currency contracts in order to manage the risk profile of any underlying risk exposure of the Group, in line with the Groups treasury management policies.
+Such derivative financial instruments are initially stated at fair value.
+For the purpose of hedge accounting, hedges are classified as cash flow hedges where they hedge exposure to variability in cash flows that is attributable either to a particular risk associated with a recognised asset or liability, or to a highly probable forecast transaction.
+In relation to cash flow hedges to hedge the interest rate, foreign exchange or commodity price risk of firm commitments that meet the conditions for hedge accounting, the portion of the gain or loss on the hedging instrument that is determined to relate to an effective hedge is recognised directly in equity and the ineffective portion is recognised in the income statement.
+When the hedged firm commitment results in the recognition of a non-financial asset or non-financial liability, then at the time the asset or liability is recognised, the associated gains or losses that had previously been recognised in equity are included in the initial measurement of the acquisition cost or other carrying amount of the asset or liability.
+For all other cash flow hedges, the gains or losses that are recognised in equity are transferred to the income statement in the same reporting year in which the hedged firm commitment affects the net profit loss, for example when the hedged transaction actually occurs.
+Derivatives that do not qualify for hedge accounting are classified as fair value through profit and loss and any gains or losses arising from changes in fair value are taken directly to the income statement in the year.
+142 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Significant accounting policies continued Hedge accounting is discontinued when the hedging instrument expires or is sold, terminated or exercised, or no longer qualifies for hedge accounting.
+At that point, any cumulative gain or loss on the hedging instrument recognised in equity is kept in equity until the forecast transaction occurs.
+If a hedged transaction is no longer expected to occur, the net cumulative gain or loss recognised in equity is transferred to the income statement for the reporting year.
+Fair value measurement of financial instruments All assets and liabilities for which fair value is measured or disclosed in the financial statements are categorised within the fair value hierarchy, described as follows, based on the lowest level input that is significant to the fair value measurement as a whole: Level 1 Quoted unadjusted market prices in active markets for identical assets or liabilities Level 2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly i. e. as prices or indirectly i. e. derived from prices.
+Level 3 - Inputs for the asset or liability that are not based on observable market data unobservable inputs.
+The fair value of quoted investments is determined by reference to bid prices at the close of business on the balance sheet date.
+Where there is no active market, fair value is determined using valuation techniques.
+These include using recent arms length market transactions: reference to the current market value of another instrument which is substantially the same: and discounted cash flow analysis and pricing models.
+Specifically, in the absence of quoted market prices, derivatives are valued by using quoted forward prices for the underlying commodity currency and discounted using quoted interest rates both as at the close of business on the balance sheet date.
+Hence derivative assets and liabilities are within Level 2 of the fair value hierarchy as defined within IFRS 13 Fair Value Measurement.
+The Group determines whether any transfers have occurred between levels in the hierarchy by reassessing categorisation at the end of each reporting year.
+For the purposes of disclosing the fair value of investments held at amortised cost in the balance sheet, in the absence of quoted market prices, fair values are calculated by discounting the future cash flows of the financial instrument using quoted equivalent interest rates as at close of business on the balance sheet date.
+For the 500 million bond, the disclosed fair value is calculated as the closing market bond price converted to Sterling using the closing spot Sterling Euro exchange rate.
+For the purposes of comparing carrying amounts to fair value, fair values have been calculated using current market prices bond price, interest rates, forward exchange rates and commodity prices and discounted using appropriate discount rates.
+Provisions Provisions are recognised when the Group has a present obligation legal or constructive as a result of a past event, it is probable that an outflow of resources will be required to settle the obligation, and a reliable estimate can be made of the amount of the obligation.
+If the effect of the time value of money is material, provisions are determined by discounting the expected future cash flows at an appropriate pre-tax rate.
+Accounting estimates used in calculating the provisions are discussed further in the Key sources of estimation uncertainty and critical accounting judgements part of this accounting policies section.
+Contingent liabilities Contingent liabilities are possible obligations whose existence depends on the outcome of uncertain future events or present obligations where the outflows of resources are uncertain or cannot be measured reliably.
+Contingent liabilities are not recognised in the financial statements but are disclosed unless an outflow of resources is considered to be remote.
+Dividends Distributions to owners of the Company are not recognised in the income statement under IFRS, but are disclosed as a component of the movement in shareholders equity.
+A liability is recorded for a dividend when the dividend is approved by the Companys shareholders but not paid at the year end.
+Interim dividends are recognised as a distribution when paid.
+Pensions and other post-retirement benefits The pension assets for the defined benefit plans are measured at fair value.
+Liabilities are measured on an actuarial basis using the projected unit credit method and discounted at a rate equivalent to the current rate of return on a high quality corporate bond of equivalent currency and term.
+The resulting defined benefit asset or liability is presented separately on the face of the balance sheet.
+The amount of any pension surplus that can be recognised is limited to the economic benefits unconditionally available in the form of refunds or reductions in future contributions.
+Where the economic benefit to be obtained is in the form of a refund, this is recognised net of taxation withheld in line with IFRIC 14.
+Full actuarial valuations are carried out at intervals not normally exceeding three years as determined by the Trustees and, with appropriate updates and accounting adjustments at each balance sheet date, form the basis of the surplus disclosed.
+For defined benefit plans, the amounts charged to operating profit are the current service costs and any gains and losses arising from settlements, curtailments and past service costs.
+The amount resulting from applying the Plans discount rate for liabilities to the pension surplus at the beginning of the reporting year is recognised as net pension interest in the income statement.
+Remeasurement gains and losses are recognised immediately in the statement of comprehensive income.
+Any deferred tax movement associated with the remeasurement gains and losses is also recognised immediately in the statement of comprehensive income.
+For defined contribution plans, the Groups contributions are charged to operating profit within people costs in the year to which the contributions relate.
+Overseas subsidiaries make separate arrangements for the provision of pensions and other post-retirement benefits.
+Annual Report and Financial Statements 2016-17 | 143 Royal Mail plc | Significant accounting policies continued Foreign currencies The functional and presentational currency of Royal Mail plc is Sterling.
+The functional currency of the overseas subsidiaries in Europe is mainly the Euro and for the overseas subsidiary in the United States it is the Dollar US$.
+The assets and liabilities of foreign operations are translated at the rate of exchange ruling at the balance sheet date.
+The trading results of foreign operations are translated at the average rates of exchange for the reporting year, being a reasonable approximation to the actual transaction rate.
+The exchange rate differences arising on the translation, since the date of transition to IFRS, are taken directly to the foreign currency translation reserve in equity.
+Foreign currency exchange differences arising from translation of the 500 million bond and the Euro-denominated finance leases designated as hedges of the net investment in GLS to closing Sterling Euro exchange rates are deferred to the foreign currency translation reserve in equity.
+These exchange differences would be released from equity to the income statement as part of the gain or loss if GLS was sold.
+Transactions in foreign currencies are initially recorded in the functional currency by applying the spot exchange rate ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are retranslated at the functional currency rate of exchange ruling at the balance sheet date.
+Currently hedge accounting is not claimed for any monetary assets and liabilities.
+All differences are therefore taken to the income statement, except for differences on monetary assets and liabilities that form part of the Groups net investment in a foreign operation.
+These are taken directly to equity until the disposal of the net investment occurs, at which time they are recognised in profit or loss.
+Non-monetary items that are measured in terms of their historic cost in a foreign currency are translated using the exchange rates as at the dates of the initial transactions.
+Non-monetary items measured at fair value in a foreign currency are translated using the exchange rates at the date when the fair value is determined.
+Accounting standards issued but not yet applied The following new and amended accounting standards are relevant to the Group and are in issue but were not effective and in some instances have not yet been adopted by the EU at the balance sheet date: IAS 7 Amended Disclosure Initiative IAS 12 Amended Recognition of Deferred Tax Assets for Unrealised Losses IAS 40 Amended Transfers of Investment Property IFRS 2 Amended Classification and Measurement of Share-based Payment Transactions IFRS 4 Amended Applying IFRS 9 Financial Instruments with IFRS 4 Insurance Contracts IFRS 9 Financial Instruments IFRS 10 Amended and IAS 28 Amended Sale of Assets between an Investor and its Associate or Joint Venture IFRS 15 Revenue from Contracts with Customers IFRS 15 Amended Clarifications to IFRS 15 IFRS 16 Leases Annual Improvements 2014-2016 IFRIC 22 Foreign Currency Transactions and Advance Consideration Not yet endorsed by the EU Of the accounting standards listed above, the standards explained in more detail below are considered of particular relevance to the Group.
+Excepting these three standards, the Directors do not expect that the adoption of the amendments, interpretations and annual improvements listed above will have a material impact on the financial performance or position of the Group in future periods.
+IFRS 9 Financial Instruments This standard was issued in July 2014 and replaces IAS 39 Financial Instruments: Recognition and Measurement.
+The standard is effective for accounting periods beginning on or after 1 January 2018 with early adoption permitted.
+The standard will affect the classification, measurement and derecognition of the Groups financial assets and liabilities and provides a new credit loss model for calculating impairment.
+IFRS 9 also introduces a new hedge accounting model.
+The changes to the measurement of financial instruments and the new hedge accounting rules are being considered by the Group, along with the possibility of early adopting the new standard.
+IFRS 15 Revenue from Contracts with Customers This standard, issued in May 2014, with further amendments issued in April 2016, replaces IAS 18 Revenue, IAS 11 Construction Contracts and related interpretations.
+The standard introduces a single, five-step revenue recognition model that is based upon the principle that revenue is recognised at the point that control of goods or services is transferred to the customer.
+Under the new model, total contract consideration must be allocated to each performance obligation within the contract, based on stand-alone selling price, and be recognised over the period in which the performance obligation is satisfied.
+144 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Significant accounting policies continued The standard also introduces increased revenue disclosure requirements, including disaggregation of revenue into categories that depict how the nature, amount, timing and uncertainty of revenue is affected by economic factors.
+Whilst the impact of this new standard continues to be assessed, the Group does not expect its adoption to have a material impact on the Groups financial performance or position.
+IFRS 16 Leases This standard was issued in January 2016 and replaces IAS 17 Leases.
+The standard is effective for accounting periods beginning on or after 1 January 2019 with early adoption permitted where IFRS 15 has also been adopted.
+The standard will bring the majority of leases previously classed as operating leases onto the balance sheet, with a corresponding lease liability also recognised, with some exemptions allowed for low value and short term leases.
+Upon adoption, IFRS 16 may be applied on either a full retrospective basis, requiring restatement of comparative year information, or on a modified retrospective basis, where the impact of the standard is recognised as a movement through equity on the date of adoption.
+An assessment of the impact of IFRS 16 on the financial performance and position of the Group is ongoing with a view to informing the transition decisions to be made before adoption of the new standard.
+Although the impact is yet to be quantified, it is expected that the adoption of the standard will result in a material: increase in property, plant and equipment and corresponding lease liability balances: a decrease in operating costs: increase in finance costs: increase in cash flows from financing activities: and decrease in cash flows from operating activities.
+Currently, unless specified otherwise, the Group does not expect to early adopt these new standards.
+Annual Report and Financial Statements 2016-17 | 145 Royal Mail plc | Royal Mail plc parent Company financial statements The Annual Report and Financial Statements primarily relates to the consolidated results of Royal Mail plc Groups trading entities.
+The mandatory disclosures in this section relate to the financial statements of the ultimate parent company, Royal Mail plc the Company.
+Statement of changes in equity For the 52 weeks ended 26 March 2017 and 52 weeks ended 27 March 2016 Share Retained Total capital earnings equity m m m At 30 March 2015 10 1,752 1,762 Profit for the year 221 221 Investment in subsidiary 170 170 Dividend paid - 213 213 At 27 March 2016 10 1,930 1,940 Profit for the year - 218 218 Purchase of own shares - 53 53 Investment in subsidiary - 111 111 Dividend paid - 222 222 At 26 March 2017 10 1,984 1,994 Balance sheet At 26 March 2017 and 27 March 2016 Registered number: 08680755 At 26 March At 27 March 2017 2016 Notes m m Non-current assets Investment in subsidiary 6 2,040 1,929 Total non-current assets 2,040 1,929 Current assets Trade and other receivables 7 396 409 Current liabilities Trade and other payables 12 6 Provisions 8 - - Net current assets 384 403 Interest bearing loans and borrowings 9 430 392 Net assets 1,994 1,940 Equity Share capital 10 10 10 Retained earnings 1,984 1,930 Total equity 1,994 1,940 The balance sheet was approved and authorised for issue by the Board of Directors on 17 May 2017 and signed on its behalf by: Matthew Lester Chief Finance Officer 146 | Annual Report and Financial Statements 2016-17 Strategic report | Governance | Financial statements | Other information Royal Mail plc parent company financial statements continued 1.
+Parent Company accounting policies Accounting reference date The financial reporting year ends on the last Sunday in March and accordingly, these financial statements are made up for 52 weeks ended 26 March 2017 2015-16: 52 weeks ended 27 March 2016.
+Authorisation of financial statements and statement of compliance with FRS 101 The financial statements of the Company for the year ended 26 March 2017 were authorised for issue by the board of Directors on 17 May 2017.
+The Company is incorporated and domiciled in England and Wales.
+These financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced Disclosure Framework FRS 101 and in accordance with applicable accounting standards.
+The amendments to FRS 101 2014-15 Cycle issued in July 2015 and effective immediately have been applied.
+The Company has not presented its own income statement as permitted by section 408 of the Companies Act 2006.
+However, the results of the Company are presented in Note 4 of these financial statements.
+Basis of preparation The Company has applied FRS 101 for all periods presented.
+The accounting policies which follow, set out those policies which apply in preparing the financial statements for the reporting year ended 26 March 2017.
+The Company has taken advantage of the following disclosure exemptions under FRS 101: 1 a the requirements of IFRS 7 Financial Instruments: Disclosures : b the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement disclosure of valuation techniques and inputs used for fair 1 value measurement of assets and liabilities : c the requirement in paragraph 38 of IAS 1 Presentation of Financial Statements to present comparative information in respect of: i paragraph 79 a iv of IAS 1 reconciliation of shares outstanding : d the requirements of paragraphs 10 d, 10 f, 16, 38A, 38B-D, 40A-D, 111 and 134-136 of IAS 1 Presentation of Financial Statements: e the requirements of IAS 7 Statement of Cash Flows: f the requirements of paragraph 17 and 18 a of IAS 24 Related Party Disclosures details of key management compensation and related party transaction amounts : g the requirements in IAS 24 Related Party Disclosures to disclose related party transactions entered into between two or more members of a group, provided that any subsidiary which is a party to the transaction is wholly owned by such a member: and h the requirements of paragraphs 30 and 31 of IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors.
+Changes in accounting policy The accounting policies are consistent with those of the previous year.
+Key sources of estimation uncertainty and critical accounting judgements Due to the relatively straightforward nature of the Company and its activities, it is Managements view that there are no significant estimates or accounting judgements applied in the preparation of these financial statements.
+Investment in subsidiary The investment in subsidiary is stated at cost plus deemed capital contributions arising from share-based payment transactions, less any accumulated impairment losses.
+Trade receivables Trade receivables are recognised at the original invoice amount less an allowance for any non-collectable amounts, including where collection is no longer probable.
+1 Exemption taken as equivalent disclosures are included within the consolidated financial statements of Royal Mail plc.
+Annual Report and Financial Statements 2016-17 | 147 Royal Mail plc | Royal Mail plc parent company financial statements continued 2.
+Directors remuneration The Directors of the Company are not paid any fees by the Company for their services as Directors of the Company.
+The Directors are paid fees by other companies of the Group.
+This remuneration is disclosed in the Group consolidated financial statements see Note 4.
+Auditors remuneration The auditor of the Company is not paid fees by the Company.
+The auditor of the Company is paid fees by other companies of the Group.
+This remuneration is disclosed in the Group consolidated financial statements see Note 3.
+Income statement The Company is a non-trading company.
+The profit for the year of 218 million 2015-16: 221 million is primarily the net sum of: the 222 million dividends received from Royal Mail Group Limited: management charges to and from Royal Mail Group Limited: and net interest on the 500 million Bond and intercompany balances.
+A profit of 38 million and a loss of 38 million 2015-16: both 26 million, on the translation of Euro-denominated assets and liabilities has also been recognised in the year.
+Taxation There is no tax charge credit for the year.
+Investment in subsidiary At 26 March At 27 March 2017 2016 m m At 28 March 2016 and 30 March 2015 1,929 1,759 1 Investment in subsidiary charge for Employee Free Shares LTIP SAYE 111 170 At 26 March 2017 and 27 March 2016 2,040 1,929 1 Excludes 6 million 2015-16: 7 million associated National Insurance costs 7.
+Trade and other receivables This balance mainly consists of an intercompany loan to Royal Mail Group Limited amounting to the proceeds from the issue of the 500 million bond see Note 9.
+Provisions In relation to the transfer of Royal Mail Group Limited to the Company in 2013-14, a provision of less than 1 million remains.
+Interest-bearing loans and borrowings In July 2014 the Company issued 500 million 2.375 per cent Senior Fixed Rate Notes due July 2024 with a fixed annual interest coupon of 2.375 per cent.
+The proceeds raised were loaned to Royal Mail Group Limited.
+Share capital At 26 March At 27 March 2017 2016 m m Authorised and issued 1,000,000,000 ordinary shares of 0.01 each 10 10 Total 10 10 Of the issued ordinary shares, a total of 9,582,175 2015-16: 27,042 are held by an Employee Benefit Trustee EBT administered by Sanne Fiduciary Services Limited.
+These shares are treated as treasury shares for accounting purposes in accordance with IAS 32 Financial Instruments: Presentation.
+The Company, however, does not hold any shares in treasury.
+The EBT is funded by the Company and has been treated as an extension of the Company for accounting purposes within these financial statements.
+148 | Annual Report and Financial Statements 2016-17

@@ -1,0 +1,20 @@
+operating_NN and_CC financial_JJ review_NN US_NNP GAAP_NNP RECONCILIATION_NNP The_NNP Company_NNP prepares_VBZ its_PRP$ consolidated_JJ financial_JJ statements_NNS activities_NNS under_IN SFAS_NNP 133_CD ._.
+SFAS_NNP 149_CD is_VBZ effective_JJ for_IN in_IN accordance_NN with_IN UK_NNP GAAP_NNP ,_, which_WDT differs_VBZ in_IN significant_JJ contracts_NNS entered_VBD into_IN or_CC modied_VBN after_IN 30_CD June_NNP 2003_CD and_CC for_IN respects_NNS from_IN US_NNP GAAP_NNP ,_, see_VBP Note_VB 36_CD Summary_NNP of_IN hedging_VBG relationships_NNS designated_VBN after_IN 30_CD June_NNP 2003_CD ._.
+The_DT differences_NNS between_IN United_NNP Kingdom_NNP and_CC United_NNP States_NNPS adoption_NN of_IN SFAS_NNP 149_CD did_VBD not_RB have_VB a_DT material_NN impact_NN on_IN the_DT GAAP_NNP ._.
+A_DT comparison_NN of_IN net_JJ loss_NN and_CC shareholders_NNS equity_NN Groups_NNS Financial_NNP Statements_NNP ._.
+of_IN Cable_NNP &_CC Wireless_NNP when_WRB applying_VBG UK_NNP and_CC US_NNP GAAP_NNP is_VBZ provided_VBN in_IN the_DT table_NN below_IN :_: In_IN May_NNP 2003_CD ,_, the_DT FASB_NNP issued_VBD SFAS_NNP No._NN ._.
+150_CD ,_, Accounting_NNP for_IN Certain_NNP Financial_NNP Instruments_NNPS with_IN characteristics_NNS of_IN both_DT Net_JJ loss_NN Liabilities_NNS and_CC Equity_NN ._.
+SFAS_NNP 150_CD improves_VBZ the_DT accounting_NN UK_NNP GAAP_NNP US_NNP GAAP_NNP for_IN certain_JJ financial_JJ instruments_NNS that_IN ,_, under_IN previous_JJ m_NN m_NN guidance_NN ,_, issuers_NNS could_MD account_VB for_IN as_IN equity_NN ._.
+SFAS_NNP 150_CD requires_VBZ these_DT instruments_NNS be_VB classied_VBN as_IN liabilities_NNS in_IN the_DT Year_NN ended_VBD 31_CD March_NNP 2004 237 336_CD balance_NN sheet_NN ._.
+SFAS_NNP 150_CD is_VBZ effective_JJ from_IN 15_CD June_NNP 2003_CD ._.
+Year_NN ended_VBD 31_CD March_NNP 2003_CD 6,533_CD 6,214_CD The_DT adoption_NN of_IN SFAS_NNP 150_CD did_VBD not_RB have_VB a_DT material_NN impact_NN Year_NN ended_VBD 31_CD March_NNP 2002_CD 4,954_CD 5,371_CD on_IN the_DT Groups_NNS Financial_NNP Statements_NNP ._.
+Shareholders_NNS equity_NN In_IN December_NNP 2003_CD ,_, the_DT FASB_NNP issued_VBD Summary_NNP of_IN UK_NNP GAAP_NNP US_NNP GAAP_NNP Interpretation_NNP No._NN ._.
+46R_CD ,_, Consolidation_NN of_IN Variable_JJ Interest_NN m_NN m_NN Entities_NNS ._.
+FIN_NNP 46R_NNP addresses_NNS identication_NN of_IN variable_JJ interest_NN entities_NNS and_CC explains_VBZ how_WRB an_DT enterprise_NN should_MD assess_VB As_IN at_IN 31_CD March_NNP 2004_CD 1,744_CD 1,847_CD whether_IN it_PRP is_VBZ the_DT primary_JJ beneciary_NN of_IN such_JJ entities_NNS ._.
+The_DT As_IN at_IN 31_CD March_NNP 2003_CD 2,149_CD 2,125_CD Interpretation_NN requires_VBZ consolidation_NN of_IN variable_JJ interest_NN entities_NNS by_IN primary_JJ beneciaries_NNS and_CC provides_VBZ guidance_NN thereon_NN ._.
+For_IN entities_NNS that_WDT have_VBP ,_, or_CC potentially_RB have_VBP ,_, interests_NNS Recently_RB issued_VBN accounting_NN standards_NNS in_IN variable_JJ interest_NN entities_NNS FIN_NNP 46R_NNP was_VBD effective_JJ for_IN In_IN April_NNP 2003_CD ,_, the_DT FASB_NNP issued_VBD SFAS_NNP No._NN ._.
+149_CD ,_, Amendment_NNP periods_NNS ending_VBG on_IN or_CC after_IN 15_CD December_NNP 2003_CD ._.
+Application_NN of_IN Statement_NNP 133_CD on_IN Derivative_JJ Instruments_NNPS and_CC Hedging_NNP for_IN all_DT other_JJ types_NNS of_IN entities_NNS is_VBZ required_VBN for_IN periods_NNS ending_VBG Activities_NNS ._.
+SFAS_NNP 149_CD amends_NNS and_CC claries_NNS accounting_VBG for_IN on_IN or_CC after_IN 15_CD March_NNP 2004_CD ._.
+The_DT adoption_NN of_IN Summary_NNP of_IN derivative_JJ instruments_NNS ,_, including_VBG certain_JJ derivative_JJ Interpretation_NNP No._NN ._.
+46R_CD did_VBD not_RB have_VB a_DT material_NN impact_NN on_IN the_DT instruments_NNS embedded_VBN in_IN other_JJ contracts_NNS ,_, and_CC for_IN hedging_VBG Groups_NNS Financial_NNP Statements_NNP ._.

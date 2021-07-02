@@ -1,0 +1,392 @@
+Financial statements Notes on financial statements 1.
+Significant accounting policies, judgements, estimates and assumptions Authorization of financial statements and statement of compliance with International Financial Reporting Standards The consolidated financial statements of the BP group for the year ended 31 December 2015 were approved and signed by the group chief executive and chairman on 4 March 2016 having been duly authorized to do so by the board of directors.
+BP p. l. c. is a public limited company incorporated and domiciled in England and Wales.
+The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as issued by the International Accounting Standards Board IASB, IFRS as adopted by the European Union EU and in accordance with the provisions of the UK Companies Act 2006.
+IFRS as adopted by the EU differs in certain respects from IFRS as issued by the IASB.
+The differences have no impact on the groups consolidated financial statements for the years presented.
+The significant accounting policies and accounting judgements, estimates and assumptions of the group are set out below.
+Basis of preparation The consolidated financial statements have been prepared on a going concern basis and in accordance with IFRS and IFRS Interpretations Committee IFRIC interpretations issued and effective for the year ended 31 December 2015.
+The accounting policies that follow have been consistently applied to all years presented.
+The consolidated financial statements are presented in US dollars and all values are rounded to the nearest million dollars $ million, except where otherwise indicated.
+Significant accounting policies: use of judgements, estimates and assumptions Inherent in the application of many of the accounting policies used in preparing the financial statements is the need for BP management to make judgements, estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported amounts of revenues and expenses.
+Actual outcomes could differ from the estimates and assumptions used.
+The accounting judgements and estimates that could have a significant impact on the results of the group are set out in boxed text below, and should be read in conjunction with the information provided in the Notes on financial statements.
+The areas requiring the most significant judgement and estimation in the preparation of the consolidated financial statements are: accounting for interests in other entities: oil and natural gas accounting, includingthe estimation of reserves: the recoverability of asset carrying values: derivative financial instruments, including the application of hedge accounting: provisions and contingencies, in particular provisions and contingencies related to the Gulf of Mexico oil spill: pensions and other post-retirement benefits: and taxation.
+Basis of consolidation The group financial statements consolidate the financial statements of BP p. l. c. and its subsidiaries drawn up to 31 December each year.
+Subsidiaries are consolidated from the date of their acquisition, being the date on which the group obtains control, and continue to be consolidated until the date that such control ceases.
+The financial statements of subsidiaries are prepared for the same reporting year as the parent company, using consistent accounting policies.
+Intra-group balances and transactions, including unrealized profits arising from intra-group transactions, have been eliminated.
+Unrealized losses are eliminated unless the transaction provides evidence of an impairment of the asset transferred.
+Non-controlling interests represent the equity in subsidiaries that is not attributable, directly or indirectly, to BP shareholders.
+Interests in other entities Goodwill Goodwill is initially measured as the excess of the aggregate of the consideration transferred, the amount recognized for any non-controlling interest and the acquisition-date fair values of any previously held interest in the acquiree over the fair value of the identifiable assets acquired and liabilities assumed at the acquisition date.
+At the acquisition date, any goodwill acquired is allocated to each of the cash-generating units, or groups of cashgenerating units, expected to benefit from the combinations synergies.
+Following initial recognition, goodwill is measured at cost less any accumulated impairment losses.
+Goodwill arising on business combinations prior to 1 January 2003 is stated at the previous carrying amount under UK generally accepted accounting practice, less subsequent impairments.
+Goodwill may also arise upon investments in joint ventures and associates, being the surplus of the cost of investment over the groups share of the net fair value of the identifiable assets and liabilities.
+Such goodwill is recorded within the corresponding investment in joint ventures and associates.
+Interests in joint arrangements The results, assets and liabilities of joint ventures are incorporated in these financial statements using the equity method of accounting as described below.
+Certain of the groups activities, particularly in the Upstream segment, are conducted through joint operations.
+BP recognizes, on a line-by-line basis in the consolidated financial statements, its share of the assets, liabilities and expenses of these joint operations incurred jointly with the other partners, along with the groups income from the sale of its share of the output and any liabilities and expenses that the group has incurred in relation to the joint operation.
+Interests in associates The results, assets and liabilities of associates are incorporated in these financial statements using the equity method of accounting as described below.
+Significant estimate or judgement: accounting for interests in other entities Judgement is required in assessing the level of control obtained in a transaction to acquire an interest in another entity: depending upon the facts and circumstances in each case, BP may obtain control, joint control or significant influence over the entity or arrangement.
+Transactions which give BP control of a business are business combinations.
+If BP obtains joint control of an arrangement, judgement is also required to assess whether the arrangement is a joint operation or a joint venture.
+If BP has neither control nor joint control, it may be in a position to exercise significant influence over the entity, which is then accounted for as an associate.
+Since 21 March 2013, BP has owned 19.75% of the voting shares of OJSC Oil Company Rosneft Rosneft, a Russian oil and gas company.
+The Russian federal government, through its investment company OJSC Rosneftegaz, owned 69.5% of the voting shares of Rosneft at 31 December 2015.
+BP uses the equity method of accounting for its investment in Rosneft because under IFRS it is considered to have significant influence.
+Significant influence is defined as the power to participate in the financial and operating policy decisions of the investee but is not control or joint control.
+IFRS identifies several indicators that may provide evidence of significant influence, including representation on the board of directorsofthe investee and participation in policy-making processes.
+BPs group chief executive, Bob Dudley, has been a member of the board of directors of BP Annual Report and Form 20-F 2015 107 1.
+Significant accounting policies, judgements, estimates and assumptions continued Rosneft since 2013 and he is a member of the Rosneft boards Strategic Planning Committee.
+During 2015, a second BP-nominated director, Guillermo Quintero, was elected to the Rosneft board.
+BP also holds the voting rights at general meetings of shareholders conferred by its 19.75% stake in Rosneft.
+In managements judgement, the group has significant influence over Rosneft, as defined by the relevant accounting standard, and the investment is, therefore, accounted for as an associate.
+BPs share of Rosnefts oil and natural gas reserves is included in the estimated net proved reserves of equity-accounted entities.
+The equity method of accounting Under the equity method, the investment is carried on the balance sheet at cost plus post-acquisition changes in the groups share of net assets of the entity, less distributions received and less any impairment in value of the investment.
+Loans advanced to equity-accounted entities that have the characteristics of equity financing are also included in the investment on the group balance sheet.
+The group income statement reflects the groups share of the results after tax of the equity-accounted entity, adjusted to account for depreciation, amortization and any impairment of the equityaccounted entitys assets based on their fair values at the date of acquisition.
+The group statement of comprehensive income includes the groups share of the equity-accounted entitys other comprehensive income.
+The groups share of amounts recognized directly in equity by an equity-accounted entity is recognized directly in the groups statement of changes in equity.
+Financial statements of equity-accounted entities are prepared for the same reporting year as the group.
+Where material differences arise, adjustments are made to those financial statements to bring the accounting policies used into line with those of the group.
+Unrealized gains on transactions between the group and its equity-accounted entities are eliminated to the extent of the groups interest in the equityaccounted entity.
+The group assesses investments in equity-accounted entities for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+If any such indication of impairment exists, the carrying amount of the investment is compared with its recoverable amount, being the higher of its fair value less costs of disposal and value in use.
+If the carrying amount exceeds the recoverable amount, the investment is written down to its recoverable amount.
+The group ceases to use the equity method of accounting from the date on which it no longer has joint control over the joint venture or significant influence over the associate, or when the interest becomes classified as an asset held for sale.
+Segmental reporting The groups operating segments are established on the basis of those components of the group that are evaluated regularly by the group chief executive, BPs chief operating decision maker, in deciding how to allocate resources and in assessing performance.
+The accounting policies of the operating segments are the same as the groups accounting policies described in this note, except that IFRS requires that the measure of profit or loss disclosed for each operating segment is the measure that is provided regularly to the chief operating decision maker.
+For BP, this measure of profit or loss is replacement cost profit before interest and tax which reflects the replacement cost of inventories sold in the period and is arrived at by excluding inventory holding gains and losses from profit.
+Replacement cost profit for the group is not a recognized measure under IFRS.
+For further information see Note 5.
+Foreign currency translation In individual subsidiaries, joint ventures and associates, transactions in foreign currencies are initially recorded in the functional currency of those entities at the spot exchange rate on the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are retranslatedinto the functional currency at the spot exchange rate on the balance sheet date.
+Any resulting exchange differences are included in the income statement, unless hedge accounting is applied.
+Non-monetary assets and liabilities, other than those measured at fair value, are not retranslated subsequent to initial recognition.
+In the consolidated financial statements, the assets and liabilities of non-US dollar functional currency subsidiaries, joint ventures, associates, and related goodwill, are translated into US dollars at the spot exchange rate on the balance sheet date.
+The results and cash flows of non-US dollar functional currency subsidiaries, joint ventures and associates are translated into US dollars using average rates of exchange.
+In the consolidated financial statements, exchange adjustments arising when the opening net assets and the profits for the year retained by non-US dollar functional currency subsidiaries, joint ventures and associates are translated into US dollars are taken to a separate component of equity and reported in the statement of comprehensive income.
+Exchange gains and losses arising on long-term intra-group foreign currency borrowings used to finance the groups non-US dollar investments are also taken to other comprehensive income.
+On disposal or partial disposal of a non-US dollar functional currency subsidiary, joint venture or associate, the related cumulative exchange gains and losses recognized in equity are reclassified to the income statement.
+Non-current assets held for sale Non-current assets and disposal groups classified as held for sale are measured at the lower of carrying amount and fair value less costs to sell.
+Non-current assets and disposal groups are classified as held for sale if their carrying amounts will be recovered through a sale transaction rather than through continuing use.
+This condition is regarded as met only when the sale is highly probable and the asset or disposal group is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such assets.
+Management must be committed to the sale, which should be expected to qualify for recognition as a completed sale within one year from the date of classification as held for sale, and actions required to complete the plan of sale should indicate that it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn.
+Property, plant and equipment and intangible assets are not depreciated or amortized once classified as held for sale.
+Intangible assets Intangible assets, other than goodwill, include expenditure on the exploration for and evaluation of oil and natural gas resources, computer software, patents, licences and trademarks and are stated at the amount initially recognized, less accumulated amortization and accumulated impairment losses.
+Intangible assets acquired separately from a business are carried initially at cost.
+An intangible asset acquired as part of a business combination is measured at fair value at the date of acquisition and is recognized separately from goodwill if the asset is separable or arises from contractual or other legal rights.
+Intangible assets with a finite life, other than capitalized exploration and appraisal costs as described below, are amortized on a straight-line basis over their expected useful lives.
+For patents, licences and trademarks, expected useful life is the shorter of the duration of the legal agreement and economic useful life, and can range from three to 15 years.
+Computer software costs generally have a useful life of three to five years.
+108 BP Annual Report and Form 20-F 2015 Financial statements 1.
+Significant accounting policies, judgements, estimates and assumptions continued The expected useful lives of assets are reviewed on an annual basis and, if necessary, changes in useful lives are accounted for prospectively.
+Oil and natural gas exploration, appraisal and development expenditure Oil and natural gas exploration, appraisal and development expenditure is accounted for using the principles of the successful efforts method of accounting as described below.
+Licence and property acquisition costs Exploration licence and leasehold property acquisition costs are capitalized within intangible assets and are reviewed at each reporting date to confirm that there is no indication that the carrying amount exceeds the recoverable amount.
+This review includes confirming that exploration drilling is still under way or planned or that it has been determined, or work is under way to determine, that the discovery is economically viable based on a range of technical and commercial considerations, and sufficient progress is being made on establishing development plans and timing.
+If no future activity is planned, the remaining balance of the licence and property acquisition costs is written off.
+Lower value licences are pooled and amortized on a straightline basis over the estimated period of exploration.
+Upon recognition of proved reserves and internal approval for development, the relevant expenditure is transferred to property, plant and equipment.
+Exploration and appraisal expenditure Geological and geophysical exploration costs are recognized as an expense as incurred.
+Costs directly associated with an exploration well are initially capitalized as an intangible asset until the drilling of the well is complete and the results have been evaluated.
+These costs include employee remuneration, materials and fuel used, rig costs and payments made to contractors.
+If potentially commercial quantities of hydrocarbons are not found, the exploration well costs are written off as a dry hole.
+If hydrocarbons are found and, subject to further appraisal activity, are likely to be capable of commercial development, the costs continue to be carried as an asset.
+If it is determined that development will not occur then the costs are expensed.
+Costs directly associated with appraisal activity undertaken to determine the size, characteristics and commercial potential of a reservoir following the initial discovery of hydrocarbons, including the costs of appraisal wells where hydrocarbons were not found, are initially capitalized as an intangible asset.
+When proved reserves of oil and natural gas are determined and development is approved by management, the relevant expenditure is transferred to property, plant and equipment.
+Development expenditure Expenditure on the construction, installation and completion of infrastructure facilities such as platforms, pipelines and the drilling of development wells, including service and unsuccessful development or delineation wells, is capitalized within property, plant and equipment and is depreciated from the commencement of production as described below in the accounting policy for property, plant and equipment.
+Significant estimate or judgement: oil and natural gas accounting The determination of whether potentially economic oil and natural gas reserves have been discovered by an exploration well is usually made within one year of well completion, but can take longer, depending on the complexity of the geological structure.
+Exploration wells that discover potentially economic quantities of oil and natural gas and are in areas where major capital expenditure e. g. an offshore platform or a pipeline would be required before production could begin, and where the economic viability of that major capital expenditure depends on the successful completion of further exploration work in the area, remain capitalized on the balance sheet as long as additional exploration or appraisal work is under way or firmly planned.
+It is not unusual to have exploration wells and exploratory-type stratigraphic test wells remaining suspended on the balance sheet for several years while additional appraisal drilling and seismic work on the potential oil and natural gas field is performed or while the optimum development plans and timing are established.
+All such carried costs are subject to regular technical, commercial and management review on at least an annual basis to confirm the continued intent to develop, or otherwise extract value from, the discovery.
+Where this is no longer the case, the costs are immediately expensed.
+One of the facts and circumstances which indicate that an entity should test such assets for impairment is that the period for which the entity has a right to explore in the specific area has expired or will expire in the near future, and is not expected to be renewed.
+BP has leases in the Gulf of Mexico making up a prospect, some with terms which were scheduled to expire at the end of 2013 and some with terms which were scheduled to expire at the end of 2014.
+A significant proportion of our capitalized exploration and appraisal costs in the Gulf of Mexico relate to this prospect.
+This prospect requires the development of subsea technology to ensure that the hydrocarbons can be extracted safely.
+BP is in negotiation with the US Bureau of Safety and Environmental Enforcement in relation to seeking extension of these leases so that the discovered hydrocarbons can be developed.
+BP remains committed to developing this prospect and expects that the leases will be renewed and, therefore, continues to carry the capitalized costs on its balance sheet.
+Property, plant and equipment Property, plant and equipment is stated at cost, less accumulated depreciation and accumulated impairment losses.
+The initial cost of an asset comprises its purchase price or construction cost, any costs directly attributable to bringing the asset into the location and condition necessary for it to be capable of operating in the manner intended by management, the initial estimate of any decommissioning obligation, if any, and, for assets that necessarily take a substantial period of time to get ready for their intended use, finance costs.
+The purchase price or construction cost is the aggregate amount paid and the fair value of any other consideration given to acquire the asset.
+The capitalized value of a finance lease is also included within property, plant and equipment.
+Expenditure on major maintenance refits or repairs comprises the cost of replacement assets or parts of assets, inspection costs and overhaul costs.
+Where an asset or part of an asset that was separately depreciated is replaced and it is probable that future economic benefits associated with the item will flow to the group, the expenditure is capitalized and the carrying amount of the replaced asset is derecognized.
+Inspection costs associated with major maintenance programmes are capitalized and amortized over the period to the next inspection.
+Overhaul costs for major maintenance programmes, and all other maintenance costs are expensed as incurred.
+Oil and natural gas properties, including related pipelines, are depreciated using a unit-of-production method.
+The cost of producing wells is amortized over proved developed reserves.
+Licence acquisition, common facilities and future decommissioning costs are amortized over total proved reserves.
+The unit-of-production rate for the depreciation of common facilities takes into account expenditures incurred to date, together with estimated future capital expenditure expected to be incurred relating to as yet undeveloped reserves expected to be processed through these common facilities.
+BP Annual Report and Form 20-F 2015 109 1.
+Significant accounting policies, judgements, estimates and assumptions continued Other property, plant and equipment is depreciated on a straight-line basis over its expected useful life.
+The typical useful lives of the groups other property, plant and equipment are as follows: Land improvements 15 to 25 years Buildings 20 to 50 years Refineries 20 to 30 years Petrochemicals plants 20 to 30 years Pipelines 10 to 50 years Service stations 15 years Office equipment 3 to 7 years Fixtures and fittings 5 to 15 years The expected useful lives of property, plant and equipment are reviewed on an annual basis and, if necessary, changes in useful lives are accounted for prospectively.
+An item of property, plant and equipment is derecognized upon disposal or when no future economic benefits are expected to arise from the continued use of the asset.
+Any gain or loss arising on derecognition of the asset calculated as the difference between the net disposal proceeds and the carrying amount of the item is included in the income statement in the period in which the item is derecognized.
+Significant estimate or judgement: estimation of oil and natural gas reserves The determination of the groups estimated oil and natural gas reserves requires significant judgements and estimates to be applied and these are regularly reviewed and updated.
+Factors such as the availability of geological and engineering data, reservoir performance data, acquisition and divestment activity, drilling of new wells, and commodity prices all impact on the determination of the groups estimates of its oil and natural gas reserves.
+BP bases its proved reserves estimates on the requirement of reasonable certainty with rigorous technical and commercial assessments based on conventional industry practice and regulatory requirements.
+The estimation of oil and natural gas reserves and BPs process to manage reserves bookings is described in Supplementary information on oil and natural gas on page 169, which is unaudited.
+Details on BPs proved reserves and production compliance and governance processes are provided on page 228.
+Estimates of oil and natural gas reserves are used to calculate depreciation, depletion and amortization charges for the groups oil and gas properties.
+The impact of changes in estimated proved reserves is dealt with prospectively by amortizing the remaining carrying value of the asset over the expected future production.
+Oil and natural gas reserves also have a direct impact on the assessment of the recoverability of asset carrying values reported in the financial statements.
+If proved reserves estimates are revised downwards, earnings could be affected by changes in depreciation expense or an immediate write-down of the propertys carrying value.
+The 2015 movements in proved reserves are reflected in the tables showing movements in oil and natural gas reserves by region in Supplementary information on oil and natural gas unaudited on page 169.
+Information on the carrying amounts of the groups oil and natural gas properties, together with the amounts recognized in the income statement as depreciation, depletion and amortization is contained in Note 11 and Note 5 respectively.
+Impairment of property, plant and equipment, intangible assets, and goodwill The group assesses assets or groups of assets, called cash-generating units CGUs, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or CGU may not be recoverable: for example, changes in the groups business plans, changes in the groups assumptions about commodity prices, low plant utilization, evidence of physical damage or, for oil and gas assets, significant downward revisions of estimated reserves or increases in estimated future development expenditure or decommissioning costs.
+If any such indication of impairment exists, the group makes an estimate of the assets or CGUs recoverable amount.
+Individual assets are grouped into CGUs for impairment assessment purposes at the lowest level at which there are identifiable cash flows that are largely independent of the cash flows of other groups of assets.
+A CGUs recoverable amount is the higher of its fair value less costs of disposal and its value in use.
+Where the carrying amount of a CGU exceeds its recoverable amount, the CGU is considered impaired and is written down to its recoverable amount.
+The business segment plans, which are approved on an annual basis by senior management, are the primary source of information for the determination of value in use.
+They contain forecasts for oil and natural gas production, refinery throughputs, sales volumes for various types of refined products e. g. gasoline and lubricants, revenues, costs and capital expenditure.
+As an initial step in the preparation of these plans, various assumptions regarding market conditions, such as oil prices, natural gas prices, refining margins, refined product margins and cost inflation rates are set by senior management.
+These assumptions take account of existing prices, global supply-demand equilibrium for oil and natural gas, other macroeconomic factors and historical trends and variability.
+In assessing value in use, the estimated future cash flows are adjusted for the risks specific to the asset group and are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money.
+Fair value less costs of disposal is the price that would be received to sell the asset in an orderly transaction between market participants and does not reflect the effects of factors that may be specific to the group and not applicable to entities in general.
+An assessment is made at each reporting date as to whether there is any indication that previously recognized impairment losses may no longer exist or may have decreased.
+If such an indication exists, the recoverable amount is estimated.
+A previously recognized impairment loss is reversed only if there has been a change in the estimates used to determine the assets recoverable amount since the last impairment loss was recognized.
+If that is the case, the carrying amount of the asset is increased to the lower of its recoverable amount and the carrying amount that would have been determined, net of depreciation, had no impairment loss been recognized for the asset in prior years.
+Impairment reversals are recognized in profit or loss.
+After a reversal, the depreciation charge is adjusted in future periods to allocate the assets revised carrying amount, less any residual value, on a systematic basis over its remaining useful life.
+Goodwill is reviewed for impairment annually or more frequently if events or changes in circumstances indicate the recoverable amount of the group of cash-generating units to which the goodwill relates should be assessed.
+In assessing whether goodwill has been impaired, the carrying amount of the group of CGUs to which goodwill has been allocated is compared with its recoverable amount.
+Where the recoverable amount of the group of CGUs is less than the carrying amount including goodwill, an impairment loss is recognized.
+An impairment loss recognized for goodwill is not reversed in a subsequent period.
+110 BP Annual Report and Form 20-F 2015 Financial statements 1.
+Significant accounting policies, judgements, estimates and assumptions continued Significant estimate or judgement: recoverability of asset carrying values Determination as to whether, and by how much, an asset, CGU, or group of CGUs containing goodwill is impaired involves management estimates on highly uncertain matters such as future commodity prices, the effects of inflation on operating expenses, discount rates, production profiles and the outlook for global or regional market supply-and-demand conditions for crude oil, natural gas and refined products.
+For oil and natural gas properties, the expected future cash flows are estimated using managements best estimate of future oil and natural gas prices and production and reserves volumes.
+Judgement is also required when determining the appropriate grouping of assets into a CGU or the appropriate grouping of CGUs for impairment testing purposes.
+The estimated future level of production in all impairment tests is based on assumptions about future commodity prices, production and development costs, field decline rates, current fiscal regimes and other factors.
+Fair value less costs of disposal may be determined based on similar recent market transaction data or, where recent market transactions for the asset are not available for reference, using discounted cash flow techniques.
+Where discounted cash flow analyses are used to calculate fair value less costs of disposal, accounting judgements are made about the assumptions market participants would use when pricing the asset, CGU or group of CGUs containing goodwill and the test is performed on a post-tax basis.
+The post-tax discount rate used is based upon the cost of funding the group derived from an established model.
+Adjustments are made, where applicable, to take into account any specific risks relating to the country where the cash-generating unit is located.
+In 2015 the discount rate used to determine recoverable amounts based on fair value less costs of disposal was 7% 2014 8%, with a 2% premium added in higher-risk countries.
+When estimating the fair value of our Upstream assets, assumptions reflect all reserves that a market participant would consider when valuing the asset, which are usually broader in scope than the reserves used in a value-in-use test.
+Discounted cash flow analyses used to calculate fair value less costs of disposal use market prices for the first five years and long-term price assumptions that are consistent with the assumptions used by the group for investment appraisal purposes thereafter.
+The long-term price assumptions used in such tests are $90 per barrel for Brent in 2021 2014 $97 per barrel in 2020 and $5.60 mmBtu for Henry Hub in 2021 2014 $6.00 mmBtu in 2020, both inflated at a rate of 2% per annum for the remaining life of the asset 2014 2.5%.
+These long-term assumptions are derived from the $80 per barrel real oil price and $5 mmBtu real Henry Hub assumptions used for investment appraisal.
+In the current price environment, the market prices used for the first five years of both value-in-use and fair value less costs of disposal impairment tests are particularly volatile.
+Market prices used for the first five years of both value-in-use and fair value less costs of disposal impairment tests performed at the year end are shown in the table below: Price assumptions for the first five years as at 31 December 2015 2016 2017 2018 2019 2020 Brent oil price $ bbl 40 47 52 54 56 Henry Hub natural gas price $ mmBtu 2.38 2.76 2.90 3.03 3.18 as at 31 December 2014 2015 2016 2017 2018 2019 Brent oil price $ bbl 61 69 73 76 77 Henry Hub natural gas price $ mmBtu 3.11 3.53 3.82 4.00 4.15 For value-in-use calculations, future cash flows are adjusted for risks specific to the cash-generating unit and are discounted using a pre-tax discount rate.
+The pre-tax discount rate is derived from the cost of funding the group calculated using an established model, and is adjusted, where applicable, to take into account any specific risks relating to the country where the cash-generating unit is located.
+In 2015 the discount rate used to determine recoverable amounts based on value in use was 11% 2014 12%, with a 2% premium added in higher-risk countries.
+The discount rates applied in assessments of impairment are reassessed each year.
+Reserves assumptions for value-in-use tests are restricted to proved and probable reserves.
+For value-in-use calculations relating to Upstream assets, prices for oil and natural gas used for future cash flow calculations are based on market prices for the first five years consistent with those shown in the table above and the groups flat nominal long-term price assumptions thereafter.
+As at 31 December 2015, the groups long-term flat nominal price assumptions were $90 per barrel for Brent and $6.50 mmBtu for Henry Hub 2014 $90 per barrel and $6.50 mmBtu.
+These long-term price assumptions are subject to periodic review.
+Irrespective of whether there is any indication of impairment, BP is required to test annually for impairment of goodwill acquired in a business combination.
+The group carries goodwill of approximately $11.6 billion on its balance sheet 2014 $11.9 billion, principally relating to the Atlantic Richfield, Burmah Castrol, Devon Energy and Reliance transactions.
+In testing goodwill for impairment, the group uses the approach described above to determine recoverable amount.
+If there are low oil or natural gas prices, refining margins or marketing margins for an extended period, the group may need to recognize goodwill impairment charges.
+The recoverability of intangible exploration and appraisal expenditure is covered under Oil and natural gas exploration, appraisal and development expenditure above.
+Details of impairment charges and reversals recognized in the income statement are provided in Note 4 and details on the carrying amounts of assets are shown in Note 11, Note 13 and Note 14.
+Inventories Inventories, other than inventories held for trading purposes, are stated at the lower of cost and net realizable value.
+Cost is determined by the first-in first-out method and comprises direct purchase costs, cost of production, transportation and manufacturing expenses.
+Net realizable value is determined by reference to prices existing at the balance sheet date, adjusted where the sale of inventories after the reporting period gives evidence about their net realizable value at the end of the period.
+Inventories held for trading purposes are stated at fair value less costs to sell and any changes in fair value are recognized in the income statement.
+Supplies are valued at the lower of cost on a weighted average basis and net realizable value.
+Leases Finance leases are capitalized at the commencement of the lease term at the fair value of the leased item or, if lower, at the present value of the minimum lease payments.
+Finance charges are allocated to each period so as to achieve a constant rate of interest on the remaining balance of the BP Annual Report and Form 20-F 2015 111 1.
+Significant accounting policies, judgements, estimates and assumptions continued liability and are charged directly against income.
+Capitalized leased assets are depreciated over the shorter of the estimated useful life of the asset or the lease term.
+Operating lease payments are recognized as an expense on a straight-line basis over the lease term.
+Financial assets Financial assets are recognized initially at fair value, normally being the transaction price plus, in the case of financial assets not at fair value through profit or loss, directly attributable transaction costs.
+The subsequent measurement of financial assets depends on their classification, as follows: Loans and receivables Loans and receivables are carried at amortized cost using the effective interest method if the time value of money is significant.
+Gains and losses are recognized in income when the loans and receivables are derecognized or impaired, as well as through the amortization process.
+This category of financial assets includes trade and other receivables.
+Cash equivalents are short-term highly liquid investments that are readily convertible to known amounts of cash, are subject to insignificant risk of changes in value and have a maturity of three months or less from the date of acquisition.
+Financial assets at fair value through profit or loss Financial assets at fair value through profit or loss are carried on the balance sheet at fair value with gains or losses recognized in the income statement.
+Derivatives, other than those designated as effective hedging instruments, are classified as held for trading and are included in this category.
+Derivatives designated as hedging instruments in an effective hedge These derivatives are carried on the balance sheet at fair value.
+The treatment of gains and losses arising from revaluation is described below in the accounting policy for derivative financial instruments and hedging activities.
+Held-to-maturity financial assets Held-to-maturity financial assets are measured at amortized cost, using the effective interest method, less any impairment.
+Available-for-sale financial assets Available-for-sale financial assets are measured at fair value, with gains or losses recognized within other comprehensive income, except for impairment losses, and, for available-for-sale debt instruments, foreign exchange gains or losses, interest recognized using the effective interest method, and any changes in fair value arising from revised estimates of future cash flows, which are recognized in profit or loss.
+Impairment of loans and receivables The group assesses at each balance sheet date whether a financial asset or group of financial assets is impaired.
+If there is objective evidence that an impairment loss on loans and receivables carried at amortized cost has been incurred, the amount of the loss is measured as the difference between the assets carrying amount and the present value of estimated future cash flows discounted at the financial assets original effective interest rate.
+The carrying amount of the asset is reduced, with the amount of the loss recognized in the income statement.
+Significant estimate or judgement: recoverability of trade receivables Judgements are required in assessing the recoverability of overdue trade receivables and determining whether a provision against those receivables is required.
+Factors considered include the credit rating of the counterparty, the amount and timing of anticipated future payments and any possible actions that can be taken to mitigate the risk of non-payment.
+See Note 28 for information on overdue receivables.
+Financial liabilities The measurement of financial liabilities depends on their classification, as follows: Financial liabilities at fair value through profit or loss Financial liabilities at fair value through profit or loss are carried on the balance sheet at fair value with gains or losses recognized in the income statement.
+Financial liabilities measured at amortized cost All other financial liabilities are initially recognized at fair value, net of transaction costs.
+For interest-bearing loans and borrowings this is the fair value of the proceeds received net of issue costs associated with the borrowing.
+After initial recognition, other financial liabilities are subsequently measured at amortized cost using the effective interest method.
+Amortizedcostis calculated by taking into account any issue costs and any discount or premium on settlement.
+Gains and losses arising on the repurchase, settlement or cancellation of liabilities are recognized in interest and other income and finance costs respectively.
+This category of financial liabilities includes trade and other payables and finance debt, except finance debt designated in a fair value hedge relationship.
+Derivative financial instruments and hedging activities The group uses derivative financial instruments to manage certain exposures to fluctuations in foreign currency exchange rates, interest rates and commodity prices, as well as for trading purposes.
+These derivative financial instruments are recognized initially at fair value on the date on which a derivative contract is entered into and subsequently remeasured at fair value.
+Derivatives are carried as assets when the fair value is positive and as liabilities when the fair value is negative.
+Contracts to buy or sell a non-financial item for example, oil, oil products, gas or power that can be settled net in cash, with the exception of contracts that were entered into and continue to be held for the purpose of the receipt or delivery of a non-financial item in accordance with the groups expected purchase, sale or usage requirements, are accounted for as financial instruments.
+Gains or losses arising from changes in the fair value of derivatives that are not designated as effective hedging instruments are recognized in the income statement.
+If, at inception of a contract, the valuation cannot be supported by observable market data, any gain or loss determined by the valuation methodology is not recognized in the income statement but is deferred on the balance sheet and is commonly known as day-one gain or loss.
+This deferred gain or loss is recognized in the income statement over the life of the contract until substantially all the remaining contract term can be valued using observable market data at which point any remaining deferred gain or loss is recognized in the income statement.
+Changes in valuation subsequent to the initial valuation are recognized immediately through the income statement.
+112 BP Annual Report and Form 20-F 2015 Financial statements 1.
+Significant accounting policies, judgements, estimates and assumptions continued For the purpose of hedge accounting, hedges are classified as: fair value hedges when hedging exposure to changes in the fair value of a recognized asset or liability cash flow hedges when hedging exposure to variability in cash flows that is attributable to either a particular risk associated with a recognized asset or liability or a highly probable forecast transaction.
+Hedge relationships are formally designated and documented at inception, together with the risk management objective and strategy for undertaking the hedge.
+The documentation includes identification of the hedging instrument, the hedged item or transaction, the nature of the risk being hedged, and how the entity will assess the hedging instrument effectiveness in offsetting the exposure to changes in the hedged items fair value or cash flows attributable to the hedged risk.
+Such hedges are expected at inception to be highly effective in achieving offsetting changes in fair value or cash flows.
+Hedges meeting the criteria for hedge accounting are accounted for as follows: Fair value hedges The change in fair value of a hedging derivative is recognized in profit or loss.
+The change in the fair value of the hedged item attributable to the risk being hedged is recorded as part of the carrying value of the hedged item and is also recognized in profit or loss.
+The group applies fair value hedge accounting when hedging interest rate risk and certain currency risks on fixed rate borrowings.
+If the criteria for hedge accounting are no longer met, or if the group revokes the designation, the accumulated adjustment to the carrying amount of a hedged item at such time is then amortized to profit or loss over the remaining period to maturity.
+Cash flow hedges The effective portion of the gain or loss on a cash flow hedging instrument is recognized within other comprehensive income, while the ineffective portion is recognized in profit or loss.
+Amounts taken to other comprehensive income are reclassified to the income statement when the hedged transaction affects profit or loss.
+Where the hedged item is a non-financial asset or liability, such as a forecast foreign currency transaction for the purchase of property, plant and equipment, the amounts recognized within other comprehensive income are reclassified to the initial carrying amount of the non-financial asset or liability.
+Where the hedged item is an equity investment, the amounts recognized in other comprehensive income remain in the separate component of equity until the hedged cash flows affect profit or loss.
+Where the hedged item is recognized directly in profit or loss, the amounts recognized in other comprehensive income are reclassified to production and manufacturing expenses, except for cash flow hedges of variable interest rate risk which are reclassified to finance costs.
+If the hedging instrument expires or is sold, terminated or exercised without replacement or rollover, or if its designation as a hedge is revoked, amounts previously recognized within other comprehensive income remain in equity until the forecast transaction occurs and are reclassified to the income statement or to the initial carrying amount of a non-financial asset or liability as above.
+Significant estimate or judgement: application of hedge accounting The decision as to whether to apply hedge accounting within subsidiaries, and by equity-accounted entities, can have a significant impact on the groups financial statements.
+Cash flow and fair value hedge accounting is applied to certain finance debt-related instruments in the normal course of business and cash flow hedge accounting is applied to certain highly probable foreign currency transactions as part of the management of currency risk.
+See Note 16, Note 28 and Note 29 for further information.
+Fair value measurement Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+The group categorizes assets and liabilities measured at fair value into one of three levels depending on the ability to observe inputs employed in their measurement.
+Level 1 inputs are quoted prices in active markets for identical assets or liabilities.
+Level 2 inputs are inputs that are observable, either directly or indirectly, other than quoted prices included within level 1 for the asset or liability.
+Level 3 inputs are unobservable inputs for the asset or liability reflecting significant modifications to observable related market data or BPs assumptions about pricing by market participants.
+Significant estimate or judgement: valuation of derivatives In some cases the fair values of derivatives are estimated using internal models due to the absence of quoted prices or other observable, marketcorroborated data.
+This applies to the groups longer-term derivative contracts.
+The majority of these contracts are valued using models with inputs that include price curves for each of the different products that are built up from available active market pricing data and modelled using the maximum available external pricing information.
+Additionally, where limited data exists for certain products, prices are determined using historic and long-term pricing relationships.
+Price volatility is also an input for options models.
+Changes in the key assumptions could have a material impact on the fair value gains and losses on derivatives recognized in the income statement.
+For more information see Note 29.
+Offsetting of financial assets and liabilities Financial assets and liabilities are presented gross in the balance sheet unless both of the following criteria are met: the group currently has a legally enforceable right to set off the recognized amounts: and the group intends to either settle on a net basis or realize the asset and settle the liability simultaneously.
+A right of set off is the groups legal right to settle an amount payable to a creditor by applying against it an amount receivable from the same counterparty.
+The relevant legal jurisdiction and laws applicable to the relationships between the parties are considered when assessing whether a current legally enforceable right to set off exists.
+Provisions, contingencies and reimbursement assets Provisions are recognized when the group has a present legal or constructive obligation as a result of a past event, it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate can be made of the amount of the obligation.
+Where appropriate, the future cash flow estimates are adjusted to reflect risks specific to the liability.
+If the effect of the time value of money is material, provisions are determined by discounting the expected future cash flows at a pre-tax risk-free rate that reflects current market assessments of the time value of money.
+Where discounting is used, the increase in the provision due to the passage of time is recognized within finance costs.
+A provision is discounted using either a nominal discount rate of 2.75% 2014 2.75% or a real discount rate of 0.75% 2014 0.75%, as appropriate.
+Provisions are split between amounts expected to be settled within 12 months of the balance sheet date current and amounts expected to be settled later non-current.
+BP Annual Report and Form 20-F 2015 113 1.
+Significant accounting policies, judgements, estimates and assumptions continued Contingent liabilities are possible obligations whose existence will only be confirmed by future events not wholly within the control of the group, or present obligations where it is not probable that an outflow of resources will be required or the amount of the obligation cannot be measured with sufficient reliability.
+Contingent liabilities are not recognized in the financial statements but are disclosed unless the possibility of an outflow of economic resources is considered remote.
+Where the group makes contributions into a separately administered fund for restoration, environmental or other obligations, which it does not control, and the groups right to the assets in the fund is restricted, the obligation to contribute to the fund is recognized as a liability where it is probable that such additional contributions will be made.
+The group recognizes a reimbursement asset separately, being the lower of the amount of the associated restoration, environmental or other provision and the groups share of the fair value of the net assets of the fund available to contributors.
+Significant estimate or judgement: provision relating to the Gulf of Mexico oil spill Detailed information on the Gulf of Mexico oil spill, including the financial impacts, is provided in Note 2.
+During 2015, BP signed agreements in principle, which were subject to execution of definitive agreements, to settle all federal and state claims and claims made by more than 400 local government entities.
+Further detail is provided in Note 2.
+Certain agreements are subject to approval by the court of a Consent Decree.
+A provision for amounts payable under these agreements has, therefore, been recognized.
+The agreements significantly reduce the uncertainties faced by BP following the Gulf of Mexico oil spill in 2010.
+However, there continues to be uncertainty regarding the outcome or resolution of current or future litigation and the extent and timing of costs relating to the incident not covered by these agreements.
+The provision recognized is the reliable estimate of expenditures required to settle certain present obligations at the end of the reporting period.
+There are future expenditures, however, for which it is not possible to measure the obligation reliably.
+These are not provided for, are disclosed as contingent liabilities, and are described in Note 2.
+Contingent liabilities are disclosed in relation to business economic loss BEL claims under the Plaintiffs Steering Committee PSC settlement, securities-related litigation, other litigation, including claims from parties excluded from or who opted out of the PSC settlement, and under the settlement agreements with Anadarko and MOEX and other agreements.
+Management believes that no reliable estimate can currently be made of any BEL claims not yet processed or processed but not yet paid, except where an eligibility notice has been issued and is not subject to appeal by BP within the claims facility.
+The submission deadline for BEL claims passed on 8 June 2015: no further claims can be submitted.
+A significant number of BEL claims have been received but have not yet been processed and it is not possible to quantify the total value of the claims.
+A revised policy for the matching of revenue and expenses for BEL claims was introduced in May 2014 and, of the claims assessable under the new policy, the majority have not yet been determined at this time.
+For this and other reasons set out in Note 2, we are unable to reliably estimate future trends of the number and proportion of claims that will be determined to be eligible, nor can we reliably estimate the value of such claims.
+A provision for such BEL claims will be established when these uncertainties are sufficiently reduced and a reliable estimate can be made of the liability.
+Decommissioning Liabilities for decommissioning costs are recognized when the group has an obligation to plug and abandon a well, dismantle and remove a facility or an item of plant and to restore the site on which it is located, and when a reliable estimate of that liability can be made.
+Where an obligation exists for a new facility or item of plant, such as oil and natural gas production or transportation facilities, this liability will be recognized on construction or installation.
+Similarly, where an obligation exists for a well, this liability is recognized when it is drilled.
+An obligation for decommissioning may also crystallize during the period of operation of a well, facility or item of plant through a change in legislation or through a decision to terminate operations: an obligation may also arise in cases where an asset has been sold but the subsequent owner is no longer able to fulfil its decommissioning obligations, for example due to bankruptcy.
+The amount recognized is the present value of the estimated future expenditure determined in accordance with local conditions and requirements.
+The provision for the costs of decommissioning wells, production facilities and pipelines at the end of their economic lives is estimated using existing technology, at current prices or future assumptions, depending on the expected timing of the activity, and discounted using the real discount rate.
+The weighted average period over which these costs are generally expected to be incurred is estimated to be approximately 17 years.
+An amount equivalent to the decommissioning provision is recognized as part of the corresponding intangible asset in the case of an exploration or appraisal well or property, plant and equipment.
+The decommissioning portion of the property, plant and equipment is subsequently depreciated at the same rate as the rest of the asset.
+Other than the unwinding of discount on the provision, any change in the present value of the estimated expenditure is reflected as an adjustment to the provision and the corresponding asset.
+Environmental expenditures and liabilities Environmental expenditures that are required in order for the group to obtain future economic benefits from its assets are capitalized as part of those assets.
+Expenditures that relate to an existing condition caused by past operations that do not contribute to future earnings are expensed.
+Liabilities for environmental costs are recognized when a clean-up is probable and the associated costs can be reliably estimated.
+Generally, the timing of recognition of these provisions coincides with the commitment to a formal plan of action or, if earlier, on divestment or on closure of inactive sites.
+The amount recognized is the best estimate of the expenditure required to settle the obligation.
+Provisions for environmental liabilities have been estimated using existing technology, at current prices and discounted using a real discount rate.
+The weighted average period over which these costs are generally expected to be incurred is estimated to be approximately five years.
+Significant estimate or judgement: provisions The group holds provisions for the future decommissioning of oil and natural gas production facilities and pipelines at the end of their economic lives.
+The largest decommissioning obligations facing BP relate to the plugging and abandonment of wells and the removal and disposal of oil and natural gas platforms and pipelines around the world.
+Most of these decommissioning events are many years in the future and the precise requirements that will have to be met when the removal event occurs are uncertain.
+Decommissioning technologies and costs are constantly changing, as well as political, environmental, safety and public expectations.
+BP believes that the impact of any reasonably foreseeable change to these provisions on the groups results of operations, financial position or liquidity will not be material.
+If oil and natural gas production facilities and pipelines are soldtothird parties and the subsequent owner is unable to meet their decommissioning obligations, judgement must be used to determine whether BP is then responsible for decommissioning, and if so the extent of that responsibility.
+The timing and amounts of future cash flows are subject to significant uncertainty.
+Any changes in the expected future costs are reflected in both the provision and the asset.
+114 BP Annual Report and Form 20-F 2015 Financial statements 1.
+Significant accounting policies, judgements, estimates and assumptions continued Decommissioning provisions associated with downstream and petrochemicals facilities are generally not recognized, as the potential obligations cannot be measured, given their indeterminate settlement dates.
+The group performs periodic reviews of its downstream and petrochemicals longlived assets for any changes in facts and circumstances that might require the recognition of a decommissioning provision.
+The provision for environmental liabilities is estimated based on current legal and constructive requirements, technology, price levels and expected plans for remediation.
+Actual costs and cash outflows can differ from estimates because of changes in laws and regulations, public expectations, prices, discovery and analysis of site conditions and changes in clean-up technology.
+Other provisions and liabilities are recognized in the period when it becomes probable that there will be a future outflow of funds resulting from past operations or events and the amount of cash outflow can be reliably estimated.
+The timing of recognition and quantification of the liability require the application of judgement to existing facts and circumstances, which can be subject to change.
+Since the cash outflows can take place many years in the future, the carrying amounts of provisions and liabilities are reviewed regularly and adjusted to take account of changing facts and circumstances.
+The timing and amount of future expenditures are reviewed annually, together with the interest rate used in discounting the cash flows.
+The interest rate used to determine the balance sheet obligation at the end of 2015 was a real rate of 0.75% 2014 0.75%, which was based on long-dated US government bonds.
+Provisions and contingent liabilities relating to the Gulf of Mexico oil spill are discussed in Note 2.
+Information about the groups other provisionsis provided in Note 22.
+As further described in Note 32, the group is subject to claims and actions.
+The facts and circumstances relating to particular cases are evaluated regularly in determining whether a provision relating to a specific litigation should be recognized or revised.
+Accordingly, significant management judgement relating to provisions and contingent liabilities is required, since the outcome of litigation is difficult to predict.
+Employee benefits Wages, salaries, bonuses, social security contributions, paid annual leave and sick leave are accrued in the period in which the associated services are rendered by employees of the group.
+Deferred bonus arrangements that have a vesting date more than 12 months after the balance sheet date are valued on an actuarial basis using the projected unit credit method and amortized on a straight-line basis over the service period until the award vests.
+The accounting policies for share-based payments and for pensions and other post-retirement benefits are described below.
+Share-based payments Equity-settled transactions The cost of equity-settled transactions with employees is measured by reference to the fair value at the date at which equity instruments are granted and is recognized as an expense over the vesting period, which ends on the date on which the employees become fully entitled to the award.
+A corresponding credit is recognized within equity.
+Fair value is determined by using an appropriate, widely used, valuation model.
+In valuing equitysettled transactions, no account is taken of any vesting conditions, other than conditions linked to the price of the shares of the company market conditions.
+Non-vesting conditions, such as the condition that employees contribute to a savings-related plan, are taken into account in the grant-date fair value, and failure to meet a non-vesting condition, where this is within the control of the employee is treated as a cancellation and any remaining unrecognized cost is expensed.
+Cash-settled transactions The cost of cash-settled transactions is recognized as an expense over the vesting period, measured by reference to the fair value of the corresponding liability which is recognized on the balance sheet.
+The liability is remeasured at fair value at each balance sheet date until settlement, with changesin fair value recognized in the income statement.
+Pensions and other post-retirement benefits The cost of providing benefits under the groups defined benefit plans is determined separately for each plan using the projected unit credit method, which attributes entitlement to benefits to the current period to determine current service cost and to the current and prior periods to determine the present value of the defined benefit obligation.
+Past service costs, resulting from either a plan amendment or a curtailment a reduction in future obligations as a result of a material reduction in the plan membership, are recognized immediately when the company becomes committed to a change.
+Net interest expense relating to pensions and other post-retirement benefits, which is recognized in the income statement, represents the net change in present value of plan obligations and the value of plan assets resulting from the passage of time, and is determined by applying the discount rate to the present value of the benefit obligation at the start of the year, and to the fair value of plan assets at the start of the year, taking into account expected changes in the obligation or plan assets during the year.
+Remeasurements of the defined benefit liability and asset, comprising actuarial gains and losses, and the return on plan assets excluding amounts included in net interest described above are recognized within other comprehensive income in the period in which they occur and are not subsequently reclassified to profit and loss.
+The defined benefit pension plan surplus or deficit recognized in the balance sheet for each plan comprises the difference between the present value of the defined benefit obligation using a discount rate based on high quality corporate bonds and the fair value of plan assets out of which the obligations are to be settled directly.
+Fair value is based on market price information and, in the case of quoted securities, is the published bid price.
+Defined benefit pension plan surpluses are only recognized to the extent they are recoverable, typically by way of refund.
+Contributions to defined contribution plans are recognized in the income statement in the period in which they become payable.
+Significant estimate or judgement: pensions and other post-retirement benefits Accounting for pensions and other post-retirement benefits involves judgement about uncertain events, including estimated retirement dates, salary levels at retirement, mortality rates, determination of discount rates for measuring plan obligations and net interest expense and assumptions for inflation rates.
+These assumptions are based on the environment in each country.
+The assumptions used may vary from year to year, which would affect future net income and net assets.
+Any differences between these assumptions and the actual outcome also affect future net income and net assets.
+Pension and other post-retirement benefit assumptions are reviewed by management at the end of each year.
+These assumptions are used to determine the projected benefit obligation at the year end and hence the surpluses and deficits recorded on the groups balance sheet, and pension and other post-retirement benefit expense for the following year.
+The assumptions used are provided in Note 23.
+BP Annual Report and Form 20-F 2015 115 1.
+Significant accounting policies, judgements, estimates and assumptions continued The discount rate and inflation rate have a significant effect on the amounts reported.
+A sensitivity analysis of the impact of changes in these assumptions on the benefit expense and obligation is provided in Note 23.
+In addition to the financial assumptions, we regularly review the demographic and mortality assumptions.
+Mortality assumptions reflect best practice in the countries in which we provide pensions and have been chosen with regard to the latest available published tables adjusted where appropriate to reflect the experience of the group and an extrapolation of past longevity improvements into the future.
+A sensitivity analysis of the impact of changes in the mortality assumptions on the benefit expense and obligation is provided in Note 23.
+Income taxes Income tax expense represents the sum of current tax and deferred tax.
+Interest and penalties relating to income tax are also included in the income tax expense.
+Income tax is recognized in the income statement, except to the extent that it relates to items recognized in other comprehensive income or directly in equity, in which case the related tax is recognized in other comprehensive income or directly in equity.
+Current tax is based on the taxable profit for the period.
+Taxable profit differs from net profit as reported in the income statement because it is determined in accordance with the rules established by the applicable taxation authorities.
+It therefore excludes items of income or expense that are taxable or deductible in other periods as well as items that are never taxable or deductible.
+The groups liability for current tax is calculated using tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is provided, using the liability method, on temporary differences at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
+Deferred tax liabilities are recognized for all taxable temporary differences except: where the deferred tax liability arises on the initial recognition of goodwill where the deferred tax liability arises on the initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither accounting profit nor taxable profit or loss in respect of taxable temporary differences associated with investments in subsidiaries and associates and interests in joint arrangements, where the group is able to control the timing of the reversal of the temporary differences and it is probable that the temporary differences will not reverse in the foreseeable future.
+Deferred tax assets are recognized for deductible temporary differences, carry-forward of unused tax credits and unused tax losses, to the extent that it is probable that taxable profit will be available against which the deductible temporary differences and the carry-forward of unused tax credits and unused tax losses can be utilized except where the deferred tax asset relating to the deductible temporary difference arises from the initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither accounting profit nor taxable profit or loss.
+In respect of deductible temporary differences associated with investments in subsidiaries and associates and interests in joint arrangements, deferred tax assets are recognized only to the extent that it is probable that the temporary differences will reverse in the foreseeable future and taxable profit will be available against which the temporary differences can be utilized.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profit will be available to allow all or part of the deferred tax asset to be utilized.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period when the asset is realized or the liability is settled, based on tax rates and tax laws that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax assets and liabilities are not discounted.
+Deferred tax assets and liabilities are offset only when there is a legally enforceable right to set off current tax assets against current tax liabilities and when the deferred tax assets and liabilities relate to income taxes levied by the same taxation authority on either the same taxable entity or different taxable entities where there is an intention to settle the current tax assets and liabilities on a net basis or to realize the assets and settle the liabilities simultaneously.
+Significant estimate or judgement: income taxes The computation of the groups income tax expense and liability involves the interpretation of applicable tax laws and regulations in many jurisdictions throughout the world.
+The resolution of tax positions taken by the group, through negotiations with relevant tax authorities or through litigation, can take several years to complete and in some cases it is difficult to predict the ultimate outcome.
+Therefore, judgement is required to determine provisions for income taxes.
+In addition, the group has carry-forward tax losses and tax credits in certain taxing jurisdictions that are available to offset against future taxable profit.
+However, deferred tax assets are recognized only to the extent that it is probable that taxable profit will be available against which the unused tax losses or tax credits can be utilized.
+Management judgement is exercised in assessing whether this is the case.
+To the extent that actual outcomes differ from managements estimates, income tax charges or credits, and changes in current and deferred tax assets or liabilities, may arise in future periods.
+For more information see Note 8.
+Judgement is also required when determining whether a particular tax is an income tax or another type of tax for example a production tax.
+Accounting for deferred tax is applied to income taxes as described above, but is not applied to other types of taxes: rather such taxes are recognized in the income statement on an appropriate basis.
+Customs duties and sales taxes Customs duties and sales taxes which are passed on to customers are excluded from revenues and expenses.
+Assets and liabilities are recognized net of the amount of customs duties or sales tax except: Customs duties or sales taxes incurred on the purchase of goods and services which are not recoverable from the taxation authority are recognized as part of the cost of acquisition of the asset.
+Receivables and payables are stated with the amount of customs duty or sales tax included.
+The net amount of sales tax recoverable from, or payable to, the taxation authority is included within receivables or payables in the balance sheet.
+116 BP Annual Report and Form 20-F 2015

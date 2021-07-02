@@ -1,0 +1,194 @@
+Notes to the financial statements US GAAP 1 The Company and a summary of its significant accounting policies The business of the Company ARM Holdings plc and its subsidiary companies ARM or the Company design reduced instruction set computing RISC microprocessors, physical IP and related technology and software, and sell development systems, to enhance the performance, cost-effectiveness and power-efficiency of high-volume embedded applications.
+The Company licenses and sells its technology and products to leading international electronics companies, which in turn manufacture, market and sell microprocessors, application-specic integrated circuits ASICs and application-specic standard processors ASSPs based on the Companys architecture to systems companies for incorporation into a wide variety of end products.
+By creating a network of Partners, and working with them to best utilize the Companys technology, the Company is establishing its architecture as a RISC processor for use in many high-volume embedded microprocessor applications, including digital cellular phones, modems and automotive functions and for potential use in many growing markets, including smart cards and digital video.
+The Company also licenses and sells Development Systems direct to systems companies and provides consulting and support services to its licensees, systems companies and other systems designers.
+The Companys principal geographic markets are Europe, the US and Asia Pacic.
+Incorporation and history ARM is a public limited company incorporated under the laws of England and Wales.
+The Company was formed on 16 October 1990, as a joint venture between Apple Computer UK Limited, and Acorn Computers Limited, and operated under the name Advanced RISC Machines Holdings Limited until 10 March 1998, when its name was changed to ARM Holdings plc.
+Its initial public offering was on 17 April 1998.
+Group undertakings include ARM Limited incorporated in the UK, ARM Inc. incorporated in the US, ARM KK incorporated in Japan, ARM Korea Limited incorporated in South Korea, ARM France SAS incorporated in France, ARM Belgium NV incorporated in Belgium, ARM Germany GmbH incorporated in Germany, Keil Elektronik GmbH incorporated in Germany, ARM Norway AS incorporated in Norway, ARM Embedded Technologies Pvt Limited incorporated in India, ARM Physical IP Asia Pacic Pte.
+Limited incorporated in Singapore, ARM Taiwan Limited incorporated in Taiwan and ARM Consulting Shanghai Co. Limited incorporated in PR China.
+Basis of preparation The accompanying consolidated financial statements have been prepared under the historical cost convention and in accordance with accounting principles generally accepted in the United States US GAAP.
+The Company maintains its accounting records and prepares its financial statements in UK sterling.
+Use of estimates The preparation of financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes.
+Actual results could differ from these estimates.
+Principles of consolidation The consolidated financial statements incorporate the financial statements of the Company and all its subsidiaries.
+Intra-group transactions, including sales, profits, receivables and payables, have been eliminated on consolidation.
+The results of subsidiaries acquired in the year are included in the income statement from the date they are acquired.
+On acquisition, all of the subsidiaries assets and liabilities that exist at the date of acquisition are recorded at their fair values reecting their condition at that date.
+Investments Publicly traded investments are classed as available-for-sale in accordance with Statement of Financial Accounting Standards No.
+115, Accounting for certain investments in debt and equity securities FAS 115, and are carried at fair value.
+Unrealized holding gains or losses on such securities are included, net of related taxes, in other comprehensive income.
+Other-than-temporary impairment losses and realized gains and losses of such securities are reported in earnings.
+Equity securities that are not publicly traded are recorded at cost less permanent diminution in value: at 31 December 2007 and 2006, the estimated fair value of these investments approximated their recorded basis, based on estimates determined by management.
+Intangible assets Purchased patents and licenses to use technology are capitalized and amortized on a straight-line basis over a prudent estimate of the time that the Company is expected to benefit from them.
+Although an independent valuation is made of any intangible assets purchased as part of a business combination, management is primarily responsible for determining the fair value of intangible assets.
+Such assets are capitalized and amortized over a period of one to six years, being a prudent estimate of the time that the Company is expected to benefit from them, with the exception of in-process research and development which is written off immediately.
+Goodwill Goodwill represents the excess of the fair value of the consideration paid on acquisition of a business over the fair value of the assets, including any intangible assets identied and liabilities acquired.
+Goodwill is tested for impairment at least annually.
+Annual impairment reviews in 2006 and in 2007 determined, primarily with reference to cash ow forecasts, that there was no indication of impairment with respect to goodwill.
+The estimates of future cash ows involve considerable management judgment and are based on assumptions about expected future operating performance.
+The actual cash ows could differ from managements estimates due to changes in business conditions, operating performance and economic conditions.
+ARM Holdings plc 109 Notes to the financial statements US GAAP continued 1 The Company and a summary of its significant accounting policies continued Goodwill continued In accordance with FAS 131 Disclosures about Segments of an Enterprise and Related Information, the Company has identied its operating segments based on the information used by the Chief Operating Decision Maker in monitoring the business.
+For the purposes of assessing the carrying value of goodwill for impairment, goodwill has been allocated to reporting units.
+Based on the nature and extent of discrete information available to management, the Company believes that, for ARM, each operating segment consists of a single reporting unit.
+Goodwill has been allocated to the three reporting units as shown in note 9.
+Impairment charges The Company reviews goodwill for impairment annually or more frequently if events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+It also reviews long-lived assets and identiable intangibles for impairment if an event occurs that indicates that the carrying amount may not be recoverable.
+If the sum of the expected future cash ows undiscounted and without interest charges of the longlived assets is less than the carrying amount of such assets, an impairment loss would be recognized, and the assets would be written down to their estimated fair value.
+Revenue recognition Revenue consists of license fees received under the terms of license agreements with customers to enable them to use the Companys intellectual property IP, which is often customized to each customers manufacturing process.
+The Company receives royalties on sales by the Companys customers of products containing ARM technology.
+It also supplies off-the-shelf software tools and IP, bought-in boards and toolkits, training and consultancy services.
+The Company primarily earns revenues from licensing its IP to leading electronics companies which in turn manufacture, market and sell microprocessors, ASICs and ASSPs based on the Companys architecture to systems companies for incorporation into a wide variety of end products.
+The Companys IP consists of software and related documentation which enables a customer to design and manufacture microprocessors and related technology and software.
+Most licenses are designed to meet the specic requirements of each customer and are generally not time limited in their application.
+In general, the time between the signing of a license and final validation of the customers ARM technology-compliant product is between six and 15 months.
+specified upgrades or modications to the licensed IP are not provided.
+Following validation of the customers ARM technology-compliant product, the Company has no further obligations under the license agreement.
+In accordance with SOP 81-1, Accounting for performance of construction-type and certain production type contracts, when license agreements include deliverables that require significant production, modication or customization, contract accounting is applied.
+Revenues from license fees are recognized based on the  method over the period from signing of the license to validation of the customers ARM technology-compliant product and the completion of all outstanding obligations.
+The amount of revenue recognized is based on the total license fees under the license agreement, or that portion of the total license fees which is determined to be xed or determinable in arrangements involving extended payment terms and the  achieved.
+Those amounts that are not deemed xed or determinable at the outset of the arrangement are recognized as the payments become due.
+Where an arrangement is for multiple elements, each requiring significant production, modication or customization, the Company evaluates whether the bifurcation criteria of SOP 81-1 are met, and if so, the total arrangement fee is allocated accordingly.
+The  is measured by monitoring progress using records of actual time incurred to date in the project, compared with the total estimated project requirement.
+Revenues are recognized only when collectability is probable.
+Estimates of total project requirements are based on prior experience of customization, delivery and validation of the same or similar technology and are reviewed and updated regularly by management.
+Under the  method, provisions for estimated losses on uncompleted contracts are recognized in the period in which the likelihood of such losses is determined.
+Agreements that include rights to unspecified future products as opposed to unspecified upgrades and enhancements are accounted for using subscription accounting, revenue from the arrangement being recognized ratably over the term of the arrangement, or an estimate of the economic life of the products offered if no term is specified, beginning with the delivery of the first product.
+In accordance with SOP 97-2, Software revenue recognition, where agreements involve elements that do not require significant production, modication or customization, the Company recognizes license revenue when a signed contract or other persuasive evidence of an arrangement exists, the product has been shipped or electronically delivered, the license fee is xed or determinable and collection of the resulting receivable is probable.
+Where agreements include multiple elements, the revenue recognition criteria for each element are typically met within the same accounting period, i. e. on delivery of the elements.
+If an element that is essential to the functionality of the delivered elements is undelivered at a period end, the Company determines whether it has sufficient vendor specic objective evidence VSOE of fair value in order to make an allocation amongst the elements.
+For the majority of its products and services, with the exception of post-contract support PCS, certain development systems products and certain services undertaken by the Company, the Company does not believe it has sufficient VSOE of fair value to make such allocations.
+Accordingly, no revenue is recognized on an arrangement where deliverables other than PCS and the aforementioned development systems products and services remain undelivered.
+110 ARM Holdings plc 1 The Company and a summary of its significant accounting policies continued Revenue recognition continued License fees are considered xed or determinable if they are not dependent on customers completing specic milestones and they are not subject to extended payment terms, i. e. the payment terms do not extend over a substantial period when compared to the payment terms in similar license arrangements and when compared with the licensed products life cycle.
+If all the fees in an arrangement are deemed to be xed or determinable, the Company recognizes revenue when all other revenue recognition criteria have been met.
+The excess of revenue recognized in respect of such fees over fees invoiced is recorded as an accrued revenue asset.
+Where an arrangement includes fees that are not deemed xed or determinable, revenue from the arrangement is recognized as the payments become due and the excess of fees invoiced over revenue recognized in respect of such fees is recorded as a deferred revenue liability.
+PCS consists of the right to receive services and or unspecified product upgrades enhancements that are offered on a  basis.
+PCS is generally priced separately from the initial licensing fee in a contract and revenue is allocated to PCS based on VSOE of fair value.
+VSOE of fair value is determined with reference to contractual renewal rates.
+If no renewal rates are specified, the entire fee under the arrangement is amortised and recognised ratably over the contractual PCS period.
+Where renewal rates are specified, PCS revenue is recognised ratably over the term of the PCS arrangement.
+Certain products have been co-developed by the Company and a collaborative partner, with both parties retaining the right to sell licenses to the product.
+In those cases where the Company makes sales of these products and considers itself to be the principal under EITF 99-19, Reporting Revenue Gross as a Principal versus Net as an Agent, the total value of the license is recorded as revenue and the amount payable to the collaborative partner is recorded as cost of sales.
+Where the collaborative partner makes sales of these products, the Company records as revenue the commission it is due when informed by the collaborative partner that a sale has been made and cash has been collected.
+Sales of boards and toolkits are recognized upon delivery.
+While some arrangements with distributors provide very limited rights of return, the Companys history is that actual returns are negligible and accordingly no provisions are deemed necessary.
+Services, such as consulting and training, are typically sold in stand-alone arrangements.
+Where they are sold in conjunction with other deliverables and they are not considered essential to the functionality of those other deliverables, they are accounted for separately based on VSOE, if VSOE has been established.
+Revenue for these services is recognized as the services are performed and collectability is probable.
+If VSOE for the services does not exist or the services are deemed to be essential to the functionality of the other deliverables in the arrangement, the entire arrangement fee is recognized as the services are performed.
+The excess of fees invoiced over revenue recognized in respect of such fees is recorded as a deferred revenue liability.
+Revenues from consulting projects, which are typically of a short duration, are recognized when the service has been provided and all obligations to the customer under the consulting agreement have been fullled.
+For longer term and more complex consulting projects, typically containing several project milestones, where significant modication to ARM technology-based IP is required, revenues are recognized on a  basis as milestones are achieved.
+This method approximates to  based on labor inputs.
+Royalty revenues are earned on sales by the Companys customers of products containing ARM technology.
+Revenues are recognized when the Company receives notication from the customer of product sales, or receives payment of any xed royalties.
+Notication is typically received in the quarter following shipment of product by the customer.
+Where the Company enters into more than one agreement with the same customer in the same, short time frame, an assessment is made to establish whether the group of agreements is so closely related that they effectively form a single multiple-element arrangement.
+The factors considered in making this assessment include, but are not limited to: Whether the different elements are closely interrelated or interdependent in terms of design, technology, or function: Whether the fee for one or more of the agreements is subject to a refund or forfeiture or other concession if one of the other contracts is not completed satisfactorily: Whether one or more elements in one agreement are essential to the functionality of an element in another agreement: Whether payment terms under one agreement coincide with performance criteria of another agreement: and Whether the negotiations are conducted jointly with two or more parties to do what in essence is a single project.
+Research and development All ongoing research and development expenditure is expensed in the period in which it is incurred.
+Costs include salaries of engineers and associated staff, relevant EDA tools costs and other directly related expenditure, such as contractors, as well as an allocation of facilities costs.
+The facilities costs for each ofce are allocated according to the proportion of employees in engineering functions within these ofces.
+Any collaborative agreements whereby a third party agrees to partially fund the Companys research and development is recognised over the period of the agreement as a credit within research and development costs.
+ARM Holdings plc 111 Notes to the financial statements US GAAP continued 1 The Company and a summary of its significant accounting policies continued Grants Grants in respect of specic research and development projects are receivable from the European Commission, a European organization which funds certain research and development activities on application to it for the purposes of furthering research and development activities within the European Union.
+The Company retains significant rights to IP developed under projects which are funded under these arrangements.
+Grants received are typically intended to cover 50% of expected project costs.
+Grant income is recognized over the period of the project in line with the costs incurred.
+Unconditional undertakings have been received from the European Commission to provide the funding, and there is no obligation to refund any amounts already received.
+Amounts receivable under these arrangements in the year ended 31 December 2007 were 289,000 2006: 467,000: 2005: nil and were netted against related research and development costs.
+Pension costs The Company contributes to dened contribution plans substantially covering all employees in Europe and the US and to government pension schemes for employees in Japan, South Korea, Taiwan, PR China and Israel.
+The Company contributes to these plans based upon various xed percentages of employee compensation and such contributions are expensed as incurred.
+The amount of contributions expensed by the Company for the years ended 31 December 2005, 2006 and 2007 were 3,371,000, 3,840,000 and 4,327,000 respectively.
+Loss contingencies The Company accrues an estimated loss contingency when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated.
+Fair value of financial instruments The Companys financial instruments consist principally of cash and cash equivalents, short-term investments and marketable securities, accounts receivable and foreign currency exchange contracts.
+The Company believes all of the financial instruments carrying values approximate to fair value due to their nature and respective durations.
+Cash equivalents The Company considers all highly liquid investments with original maturity dates of three months or less to be cash equivalents.
+Short-term investments and marketable securities The Company considers all highly liquid investments with original maturity dates of greater than three months but less than one year to be either short-term investments when invested on deposit with major clearing banks or short-term marketable securities when custodied with major financial institutions.
+Any investments with a maturity date of greater than one year are classied as long-term marketable securities.
+Allowance for doubtful debts Allowance is made for doubtful debts following reviews of individual customer circumstances by management.
+Inventory Inventory is stated at the lower of cost and net realizable value.
+In general, cost is determined on a first-infirst-out basis and includes transport and handling costs.
+Where necessary, provision is made for obsolete, slow-moving and defective inventory.
+Property and equipment The cost of property and equipment is their purchase cost, together with any incidental costs of acquisition.
+Costs that are directly attributable to the development of new business application software and which are incurred during the period prior to the date that the software is placed into operational use, are capitalized.
+External costs and internal costs are capitalized to the extent they enhance the future economic benefit of the business.
+Depreciation is calculated so as to write off the cost of property and equipment, less their estimated residual values, on a straight-line basis over the expected useful economic lives of the assets concerned.
+The principal economic lives used for this purpose are: Freehold buildings 25 years Leasehold improvements Five years or term of lease, whichever is shorter Computers and software Three to five years Fixtures and ttings Five to ten years Motor vehicles Four years Provision is made against the carrying value of property and equipment where an impairment in value is deemed to have occurred.
+Operating leases Costs in respect of operating leases are charged on a straight-line basis over the lease term.
+Currency translation The Companys functional currency is the currency of the primary economic environment in which the Company operates.
+The assets and liabilities of subsidiaries with functional currencies other than sterling are translated into sterling at rates of exchange ruling at the balance sheet date.
+Statements of income of overseas subsidiaries are translated at the monthly exchange rates during the year.
+Translation differences are taken to the cumulative translation adjustment.
+112 ARM Holdings plc 1 The Company and a summary of its significant accounting policies continued Currency translation continued The Company utilizes forward exchange contracts and currency options to manage the exchange risk on actual transactions related to accounts receivable, denominated in a currency other than the functional currency of the business.
+The Companys forward exchange contracts do not subject the Company to risk from exchange rate movements because the gains and losses on such contracts offset losses and gains, respectively, on the transactions being hedged.
+Because the Company does not meet the criteria for hedge accounting, the forward and option contracts and the related accounts receivable are recorded at fair value at each period end.
+All recognized gains and losses resulting from the settlement of the contracts are recorded within general and administrative costs in the income statement.
+The fair value of derivative instruments are disclosed within either prepaid expenses and other assets or accrued liabilities on the balance sheet and within net cash provided by operating activities in the cash ow statement.
+The Company does not enter into foreign exchange contracts for the purpose of hedging anticipated transactions.
+Other transactions denominated in foreign currencies have been translated into sterling at actual rates of exchange ruling at the date of transaction.
+Monetary assets and liabilities denominated in foreign currencies have been translated at rates ruling at the balance sheet date.
+Exchange differences have been included in general and administrative costs.
+From time to time, the Company enters into contracts denominated in a currency typically US dollars that is neither the functional currency of the Company nor the functional currency of the customer.
+In accordance with FAS 133, Accounting for derivative instruments and hedging activities, where there are unpaid amounts on such contracts, the Company carries such derivatives at fair value.
+The resulting gain or loss is recognized in the income statement under general and administrative costs.
+Income taxes Income taxes are computed using the liability method.
+Under this method, deferred income tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities and are measured using enacted tax rates and laws that will be in effect when the differences are expected to reverse.
+Valuation allowances are established against deferred tax assets where it is more likely than not that some portion or all of the asset will not be realized.
+The Company applies the with and without approach with respect to the allocation of net operating losses and other reliefs due to share-based compensation costs.
+Under this approach a benefit is recorded in additional paid-in capital only to the extent that the amount of available net operating losses generated for operations can be offset against the current year taxable income.
+In July 2006 the FASB issued Interpretation, or FIN, No.
+48, Accounting for Uncertainty in Income Taxes An Interpretation of FASB Statement No.
+FIN 48 provides detailed guidance for the financial statement recognition, measurement and disclosure of uncertain tax positions recognized in an enterprises financial statements in accordance with FAS 109.
+Income tax positions must meet a more-likely-than-not recognition threshold at the effective date to be recognized upon the adoption of FIN 48 and in subsequent periods.
+The Company adopted FIN 48 effective 1 January 2007 and the provisions of FIN 48 have been applied to all income tax positions commencing from that date.
+Potential accrued interest and penalties related to unrecognized tax benets within operations are recognized as an income tax expense.
+The cumulative effect of applying the provisions of FIN 48 has been reported as an adjustment to retained earnings as of 1 January 2007.
+Prior to 2007, tax contingencies were determined in accordance with FAS No.
+5 Accounting for contingencies FAS 5 and estimated tax liabilities were recorded to the extent the contingencies were probable and could be reasonably estimated.
+Earnings per share Basic earnings per common share is computed based on the weighted average number of ordinary shares.
+Diluted earnings per common share is computed by including potential common shares where the effect of their inclusion would be dilutive.
+The diluted share base for the year ended 31 December 2007 excludes incremental shares of approximately 8,786,000 2006: 33,390,000: 2005: 39,614,000 related to employee stock options and awards.
+These shares are excluded due to their antidilutive effect as a result of the exercise price of these shares being higher than the market price.
+The ordinary equivalent shares for share options were determined using the treasury stock method.
+Accounting for share-based payments Since 1 January 2006, the Company has applied FASB Statement No.
+123 revised 2004, Share-Based Payment FAS 123R in relation to accounting for share-based payments.
+Under FAS 123R, sharebased compensation cost is measured at the grant date, based on the estimated fair value of the award, and is recognized as expense over the employees requisite service period.
+The fair value of these awards is calculated using appropriate valuation techniques.
+Some awards made by the Company are liability-classied awards under FAS 123R as i there is an obligation to settle a xed monetary amount in a variable number of shares: or ii the awards are indexed to a factor other than performance, market or service condition.
+The fair value of these awards is re-measured at each period end until the award has vested.
+Once the award has vested, or for i above when the number of shares becomes xed, the award becomes equity-classied.
+The transitional rules detailed in FAS 123R required the Company in 2006 to make a re-measurement adjustment for compensation cost for liability awards that had been recognised in that year as a cumulative effect of change in accounting policy in the income statement.
+ARM Holdings plc 113 Notes to the financial statements US GAAP continued 1 The Company and a summary of its significant accounting policies continued Accounting for share-based payments continued The Company adopted the provisions of FAS 123R using a modied prospective application.
+Accordingly, periods prior to adoption have not been revised for comparative purposes.
+The valuation provisions of FAS 123R apply to new awards and to awards that are outstanding on the effective date, which are subsequently modied or cancelled.
+Estimated compensation expense for awards outstanding at the effective date will be recognized over the remaining service period using the compensation cost calculated for pro forma disclosure purposes under FASB Statement No.
+123, Accounting for Stock-Based Compensation FAS 123.
+On 10 November 2005, the FASB issued FASB Staff Position No.
+FAS 123 R -3, Transition Election Related to Accounting for Tax Effects of Share-Based Payment Awards.
+The Company elected to adopt the alternative transition method provided in this FASB Staff Position for calculating the tax effects of share-based compensation pursuant to FAS 123R.
+The alternative transition method includes a simplied method to establish the beginning balance of the additional paid-in capital pool APIC pool related to the tax effects of employee share-based compensation, which is available to absorb tax deficiencies which could be recognized subsequent to the adoption of FAS 123R.
+For a summary of all the Companys share-based award schemes, please refer to the Shareholders equity section in footnote 12.
+The Company uses the Black-Scholes option pricing model to estimate the fair value of share-based payments.
+This model is consistent with that used for the Companys pro forma information required under FAS 123.
+The determination of the fair value using this model is affected by the share price at grant, as well as a number of other assumptions including expected volatility, expected life, risk-free interest rate and expected dividends.
+Treasury stock Treasury stock represents the cost of shares in the Company held by the Company and the Employee benefit Trust ESOP.
+During 2007, to supplement the payment of dividends to shareholders, the Company continued its rolling share buyback programme under the shareholder authority conferred at the 2007 Annual General Meeting.
+The quantum and frequency of share re-purchases is not predetermined and will take into account prevailing market conditions, the shortto medium-term cash needs of the business and the level of employee share-based remuneration going forward.
+The ESOP was set up on 16 April 1998 to facilitate the recruitment, retention and motivation of employees.
+Under the Companys Long Term Incentive Plan, 7,943,979 shares could be awarded from shares already issued within the ESOP and treasury stock held by the Company.
+All costs relating to the schemes are recognized in the income statement as they accrue and the ESOP has waived the right to receive dividends of over and above 0.01 pence per share on all shares held.
+For the purpose of earnings per share calculations, the shares are treated as canceled until such time as they vest unconditionally.
+Employers taxes on share options Employers National Insurance in the UK and equivalent taxes in other jurisdictions are payable on the exercise of certain share options issued to employees in certain tax jurisdictions.
+In accordance with EITF 00-16 no provision has been made for the employers taxes on these share options.
+These amounts are recognized in the consolidated income statement when payable.
+Provision for accrued sabbatical leave The Company operates a sabbatical leave scheme for employees that have had at least four years service.
+In accordance with EITF 06-2 Accounting for Sabbatical Leave and Other Similar Benets, a provision is created with a corresponding charge being made to the income statement over the period this leave is earned based on managements estimate of the leave that will eventually be taken.
+This provision is released to the income statement as employees either take the leave or cease to be employees of the Company.
+The Company adopted EITF 06-2 from 1 January 2007 and in accordance with the standard recorded the opening provision against retained earnings.
+Recently issued accounting standards In September 2006, the FASB issued SFAS No.
+157, Fair Value Measurements FAS 157, which provides guidance on how to measure assets and liabilities that use fair value.
+FAS 157 will apply whenever another US GAAP standard requires or permits assets or liabilities to be measured at fair value but does not expand the use of fair value to any new circumstances.
+FAS 157 will be effective for our financial statements for the year ending 31 December 2008.
+We are currently evaluating the potential impact this standard may have on our financial position and results of operations, but do not believe the impact of the adoption will be material.
+This is supplemented by FSP FAS 157-1 which defers the requirement to fair value non-financial assets and liabilities until ARMs scal year ending 31 December 2009.

@@ -1,0 +1,49 @@
+The Core of Imagination System on Chip IP The SoCs systems-on-chip that power everything in the consumer and embedded electronics space can be constructed from combinations of our unique portfolio of IP cores.
+With our software and solutions we can go on to enable those SoCs to deliver the key multimedia, communications, connectivity and telecoms features customers require.
+We deliver the highest performance at lowest power consumption and silicon area by making full use of our advanced, patented low-level design features alongside system-level philosophies such as hardware multi-threading, system latency tolerance and recongurable multi-standard solutions.
+A key differentiator for Imagination is our ability to combine our technologies into platforms, which directly and efficiently provide solutions to our customers key requirements.
+We deliver complete solutions, resulting in the shortest time from device development to volume sales.
+At the heart of our approach we have a simple design philosophy: deliver the maximum performance per mm2 of silicon and per mW of power.
+Using this technology GPUs PowerVR is a range of will increasingly come to dominate visual IP families for graphics, video SoC heavy lifting processor-intensive and display.
+Central to the PowerVR family is our The PowerVR family also includes a GPU: a graphics processing unit to run VPU: a video processing unit.
+graphics and complex parallel tasks.
+Our video technology is an At the heart of this technology is a exceptional balance of hardcoded unique tile-based, deferred rendering and programmable elements, which shader-based architecture which combine to deliver the most efficient allows a very small die size to deliver multi-standard and multi-stream video higher performance and higher image decoders and encoders.
+quality at lower power consumption PowerVR display is another key part than all competing technologies.
+of the PowerVR portfolio, enabling the PowerVR GPUs are also capable of renement of each display pixel.
+doing more than just graphics.
+By This technology delivers an unrivalled using compute-based APIs application range of display enhancement programming interfaces such as technologies for high-denition TV OpenCL, the PowerVR architecture HDTV and mobile devices.
+delivers vast parallel processing power, increasingly referred to as GPU 27 Wi-Fi Radio TV Modem Communications Multimedia RPU GPU VPU Processor Memory CPU programmability and hardware Meta is a CPU: a multi-threaded congurability, yet it occupies equivalent central processing unit to run operating or less silicon area than comparable systems and signal processing like hard-wired, single-standard hardware audio.
+Meta has all the benets of multisolutions.
+processor solutions but uses less silicon With the Ensigma RPU one core can resource and development complexity handle all radio, TV and connectivity than other multi-processor approaches.
+It uses a unique combination Hardware multi-threading is a key of hardware and software to create technology for Imagination most an ideally exible architecture with of our IP cores use this approach to programmability and xed hardware Low cost Meta development system extract the maximum possible processor blocks in sophisticated balance.
+performance from every clock cycle.
+As well as being an integral part of our HelloSoft is a technology connectivity, communications and video Any IP Network solution for V. VolP Video and Voice IP platforms, Meta is licensed as a core HelloSoft V. VoIP over Internet Protocol and VoLTE & VoLTE SDKs part of SoC designs based on our IP.
+It Voice over Long Term Evolution is also now being increasingly licensed networks.
+It is the only cross-platform as a stand-alone embedded processor carrier-class software IP solution in the as more of our partners come to market that supports 4G.
+Legacy POTS, PBX, HelloSoft As telecommunication industries fax equipment Gateway SDK Meta drives our connected processor begin to use VoLTE technology more, family, which will enable always on HelloSoft V. VoIP connects everyone across mobile VolP applications will become every network internet connectivity in mass market more common.
+The key requirement consumer and embedded products.
+for network operators in the 4G age is to make sure devices can access Ensigma is an RPU: a radioall different networks, with varied processing unit to run communications connecting technologies such as LTE, and connectivity tasks.
+Ensigma solves the problem of HelloSoft can provide a single integrated proliferating broadcast and connectivity solution that brings a seamless user standards by supporting them all on a experience to any platform and device.
+The technology is highly complementary At the heart of this technology is to Imaginations video, connectivity and a uniquely optimized balance of Meta technologies.
+28 look development, and CGI computer Caustic graphics imaging for movies such Professional is as Avatar.
+changing the way we design using Imagination has developed unique 3D graphics.
+Building on fundamental and patented technologies to Imagination IP, such as OpenRL, radically lower the cost and the open API for ray tracing, Caustic dramatically increase the efficiency Professional is providing market and performance of ray tracing.
+changing technologies for a growing The ray tracing approach has ecosystem of creative graphics the added benefit of substantially professionals.
+Ray tracing images can be indistinguishable simplifying content creation and from photographs These include the Brazil API for reducing associated cost.
+developers, real time ray tracing Ray tracing technology has now visualisers for key apps such as been integrated into our PowerVR McNeel & Associates Rhinocerous technology R&D path.
+and Autodesk Maya and 3ds Max.
+Our PowerVR ray tracing unit RTU Whats more, Caustic Professional, like technology works fully in conjunction our other product brand, Pure, serves with and complements Imaginations as a vital pathnder for Imagination.
+Already technologies developed by Imagination will use tightly coupled Caustic have formed the basis for PowerVR GPU and RTU technology PowerVR ray tracing R&D which over to drive major innovations in the 3D the next few years will take ray tracing graphics market.
+from the high-end workstation market all the way down into gaming, massLook at the illustration of the watch on market computing and mobile devices.
+It looks like a photograph doesnt it?
+However its been created... it could be real!
+Ray tracing is a using Imaginations ray tracing technique for rendering cinema quality technology and its fully interactive.
+3D at a level of near photographic This is the future of graphical realism.
+realism that is impractical with traditional 3D graphics techniques.
+It is widely used in professional markets like CAD computer aided design, 29 Pure uses technology from Imagination Pure is Imaginations CE partners, pathnding in new markets, consumer electronics division, promoting the capabilities of our IP alongside the technology division that and allowing us to experience things develops, sells and supports our IP.
+as OEMs and consumers do, which Pure is the worlds leading manufacturer helps keep us grounded and solution of wireless music and internet radio focused.
+systems, the number one supplier of As it did with digital radio, Imagination digital radios in Europe and Australia, will continue to use Pure to drive and the creator of the Evoke 1S, the some of the emerging markets we worlds most popular and iconic digital care about.
+Pure leads the way in cloud Pure brings Imagination to the front line services with the Pure Lounge portal where innovation and consumers meet.
+and wireless multi-room music systems with Pure Stream.
+Pure radios support all the broadcast standards in the DAB family used across all key markets in Europe and beyond.
+Designed and engineered in the UK, all of Pures products are manufactured with the environment in mind and at ethically audited facilities.

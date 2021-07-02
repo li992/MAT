@@ -1,0 +1,45 @@
+ARM Holdings plc Annual Report & Accounts 2012 Glossary Apps Application software that runs within the chip.
+ARM7 9 11 ARM7 processor was one of ARMs first commercial products.
+Cortex ARMs latest family of processors.
+Ecosystem Community of companies that work with ARM, including semiconductor companies, foundries, OEMs and software providers.
+Fabless semiconductor company A fabless semiconductor company designs computer chips.
+These chips are typically manufactured by a foundry.
+For example Mediatek, NVIDIA and Qualcomm.
+Foundry A foundry is a specialist company that manufacturers computer chips on behalf of fabless semiconductor companies.
+Intellectual Property IP ARM designs technology for use in computer chips.
+The general term for the products that are designs only, or are creations of the mind, is intellectual property.
+Licence Partners licence ARMs designs.
+They pay an upfront free, which is reported as licence revenue.
+LTE Long Term Evolution or 4G is the next generation wireless standard for mobile phones.
+It is optimised for data streaming allowing internet connections at speeds similar to broadband in the home.
+Mali ARMs family of 3D graphics processors.
+Microcontroller MCU A microcontroller is a general-purpose computer chip which has can be used in many applications.
+Most ARM processors are used in either an SoC or MCU.
+Original Equipment Manufacturer OEM An OEM manufactures consumer products such as TVs or mobile phones.
+For example Apple, HTC and LG.
+Partner One of the companies within the ARM ecosystem.
+Physical IP Design of the building blocks used in the implementation a SoC design.
+Processor Design of the brain of the computer chip.
+Processor Optimisation Pack POP Physical IP components that have been selected and optimised to implement a processor on a specific foundrys manufacturing process.
+Royalty ARM receives a royalty on every chip that contains ARM technology.
+The royalty is usually a percentage of the selling price of the chip and is reported as royalty revenue.
+System-on-Chip SoC A SoC is a computer chip where multiple functions have been integrated into a single chip.
+150 Overview Our marketplaceStrategy and Our partnership Our commitment Financials and risk Governance Financial performance approach statements Group directory ARM Holdings plc ARM Germany GmbH 4965 Preston Park Blvd 110 Fulbourn Road Bretonischer Ring 16 Suite 650 Cambridge CB1 9NJ D-85630 Grasbrunn Plano, TX 75093 United Kingdom Germany United States Tel: 44 0 1223 400400 Tel: 49 89 456 040-0 Tel: 1 972 312 1107 Fax: 44 0 1223 400410 Fax: 49 89 456 040-19 Fax: 1 972 312 1159 ARM Limited ARM Israel 2002 Canton Way SW Liberty House 3 Hagavish Street Olympia Moorbridge Road 44424 Kfar Saba WA 98502-1119 Maidenhead Israel United States Berkshire SL6 8LT Tel: 972.9.
+39-41 San Diego, CA 92121 Rockingham Court 7011 Trondheim United States 152 Rockingham Street Norway Tel: 1 858 453 1900 Sheffield S1 4EB Tel: 47 4000 5757 th 2320 130 Avenue NE United Kingdom Fax: 47 7351 3181 Building E, Suite 220 Tel: 44 0 114 282 8000 ARM Sweden AB Bellevue Fax: 44 0 114 282 8001 Lilla Fiskaregatan 12 WA 98005 Blackburn Design Centre SE-222 22 Lund United States Belthorn House Sweden Tel: 1 408 576 1500 Walker Road Tel: 46 46 540 11 04 ARM KK Blackburn BB1 2QE Fax: 46 46 14 48 08 Shinyokohama Square Bldg.
+17F United Kingdom ARM Inc. 2-3-12 Shin-Yokohama Tel: 44 0 1254 893900 150 Rose Orchard Way Kohoku-Ku, Yokohama-Shi Fax: 44 0 1254 893901 San Jose, CA 95134-1358 Kanagawa 222-0033 ARM France SAS United States Japan 12 Avenue des Prs Tel: 1 408 576 1500 Tel: 81 45 477 5260 BL204 Montigny le Fax: 1 408 576 1501 Fax: 81 45 477 5261 Bretonneux The Park on Barton Creek ARM Korea Limited 78059 Saint Quentin en 3711 S. Mopac Expressway 8th Floor Kyungdong Building Yvelines, Cedex Building 1, Suite 400 4-4 Sunae-Dong France Austin, TX 78746 Bundang-Gu, Seongnam-si Tel: 33 1 39 30 47 89 United States Gyeonggi-do 463-020 Fax: 33 1 39 30 47 88 Tel: 1 512 327 9249 Korea 25 Alle Pierre Ziller Fax: 1 512 314 1078 Tel: 82 31 712 8234 Le Paros Fax: 82 31 713 8225 5 East Street BP 70124 Franklin, MA 02038 06903 Sophia Antipolis Cedex United States France Tel: 1 970 532 0767 Tel: 33 4 97 23 51 00 Fax: 1 508 520 1907 Fax: 33 4 97 23 51 99 2 Venture Suite 470 Miniparc Polytec Irvine, CA 92618 60 Rue des Berges United States 38000 Grenoble Tel: 1 408 576 1500 France Fax: 1 949 623 8305 Tel: 33 4 56 38 47 00 Fax: 33 4 56 38 47 01 151 ARM Holdings plc Annual Report & Accounts 2012 Group directory continued ARM Taiwan Limited ARM Consulting Unit 13B01, Anlian Plaza 8F, No.
+36, Ruihu Street Shanghai Co. Ltd No.
+4018, Jin Tian Road Nei-Hu District 35F, Building B, Futian District Taipei City New CHJ International Business Centre Shenzhen 518006 11494 No.
+391 Guiping Road PR China Taiwan R. O.
+Limited th 6 Road Hsinchu Science Park Room 602, Ideal Plaza Level III, Salarpuria Hsinchu City 58 West Road Touchstone Marthahalli- 30078 North 4th Ring Road Sarajapur Outer Ring Road, Taiwan R. O. C. Haidian District Varthur Hobli, Tel: 886 3 565 7100 Beijing 100080 Bangalore 560 103 Fax: 886 3 567 7128 PR China Tel: 91 80 2518 5000 Tel: 86 10 8260 3570 Fax: 91 80 2844 0914 Fax: 86 10 8260 3573 Key shareholder information ARM Holdings plc is the parent Registrars US Law company of the Group Equiniti Davis Polk & Wardwell Company Number: 2548782 Aspect House 99 Gresham Street Incorporated in England & Wales Spencer Road London EC2V 7NG Domiciled in the UK Lancing United Kingdom Public company limited by shares West Sussex BN99 6DA Secretary and registered office United Kingdom Patricia Alsop 110 Fulbourn Road Shareholder Helpline Cambridge CB1 9NJ 0871 384 2139 United Kingdom Depositary Independent auditors The Bank of New York Mellon  LLP 101 Barclays Street 1 Embankment Place New York For more shareholder information please London WC2N 6RH New York 10286 contact Ian Thornton at United Kingdom United States of America investor.
+com Stockbrokers Legal advisers Our website contains information UBS Limited UK Law for shareholders, including regular strategic, 2 Finsbury Avenue Slaughter and May business and financial updates.
+London EC2M 2PP One Bunhill Row www.
+com ir United Kingdom London EC1Y 8YY United Kingdom Goldman Sachs Peterborough Court Linklaters 133 Fleet Street One Silk Street London EC4A 2BB London EC2Y 8HQ United Kingdom United Kingdom 152 Overview 01 Financials and risk 45 Chairmans overview 02 Financial review 46 Operational highlights 04 Risk management 52 Financial highlights 05 Our business model 06 Governance 55 Chairmans introduction 56 Our marketplace 08 Board of directors 59 Corporate governance 62 Where the market is now 09 Directors report 73 Where the market is heading 10 Remuneration report 78 Financial statements 92 Strategy and performance 11 Independent auditors report to the members Our strategy for long-term growth 12 ofARMHoldings plc 92 Consolidated income statement 94 Consolidated statement of Our partnership approach 21 comprehensive income 94 Warren East, Chief Executive Officer Consolidated balance sheet 95 Ecosystem strategy 22 Consolidated cash flow statement 96 Mobile computing 24 Consolidated statement of changes Machine-to-machine 28 inshareholdersequity 97 Network infrastructure 32 Notes to the financial statements 98 An external perspective 36 Company balance sheet UK GAAP 142 Notes to the financial statements UKGAAP 143 Independent auditors report to the members Our commitment 40 ofARMHoldings plc 149 Corporate responsibility and sustainability within ARM 41 Glossary and Group directory 150 ARMs wider role 42 Glossary 150 Group directory 151 Key shareholder information 152 This report has been printed onCocoon Offset a paper which is certified by the Forest Stewardship Council and contains 100% recycled waste.
+The paper is Process Chlorine Free PCF made at a mill with ISO More information available online at: 14001 environmental management system accreditation.
+This report was produced www.
+com reporting2012 using the pureprint environmental print technology, aguaranteed, low carbon, low waste, independently audited process that reduces the environmental impact of the Designed and produced by printing process.
+Printed using vegetable oil Radley Yeldar.
+com based inks by a CarbonNeutral printer certified to ISO 14001 environmental management system and registered to EMAS the Eco Management Audit Scheme.
+ARM, ARM Powered and Artisan are registered trademarks of ARM Limited.
+ARM7, ARM9, ARM11, Cortex, Cortex-A7, Cortex-A9, Cortex-A15, POP, Mali and Connected Community are trademarks ofARM Limited.
+ARM Holdings plc Annual Report & Accounts 2012 arM Holdings plc 110 Fulbourn Road Cambridge CB1 9NJ ARM Holdings plc United Kingdom Annual Report & Accounts 2012 Telephone 44 0 1223 400400 Facsimile 44 0 1223 400410 www.
+com ARM ARM We are connecting intelligence ARM ARM ARM More information available online at: www.

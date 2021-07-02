@@ -1,0 +1,160 @@
+qxp:BT PLC 02 18 5 12 18:07 Page 15 Supplier selection The principal risks and uncertainties should be considered in Suppliers are selected using an established set of procurement conjunction with the risk management process, the forward-looking principles which makes sure that we act in an ethically and statements for this document and the cautionary statement commercially responsible way in our business dealings with them.
+It is regarding forward-looking statements.
+important to us that we understand who we are doing business with and who is acting on our behalf.
+Risk management Another important part of our supplier strategy is to ensure that It is our aim to manage risk so that we can successfully deliver our the goods and services we buy are made, delivered and disposed of in objectives, creating shareholder value while promoting the interests a socially and  manner.
+Sustainability of our many stakeholders through the safeguarding of our assets and factors such as energy usage, environmental impact, and labour reputation.
+standards are embedded in our procurement process, and inuence We have in place group-wide risk management processes for the supplier and product selection.
+We are also actively restructuring our identication, evaluation, response and subsequent monitoring of base of suppliers and partners to improve geographic reach, and risks which may signicantly threaten the accomplishment of our increase resourcing resilience by reducing dependency on objectives and long-term strategic aim.
+During 2012 we introduced enhancements to our risk management process including: Payment of suppliers improving the way we report risks to senior management, by In normal circumstances our payment terms for contracted suppliers providing a clearer focus on the key areas of concern.
+This makes it will be to pay each due, valid and undisputed invoice between 60 and easier for our managers to take account of risks in their decision 73 days from date of receipt from the supplier.
+There are variations to making this policy.
+For example, there could be shorter timescales for some enhancing our evaluation of risks, for example through interconnect payments to other telecoms operators, low value spend, consideration of when risks may materialise and when and how or where there are specic customer requirements.
+In 2012 the the impact may be felt.
+This helps us make informed decisions average number of days between the invoice date and the date of the about how we will respond to the risks we face payment run for the invoice was 61 days 2011: 64 days.
+improving our risk training, such as through the development of In the UK we provide access to a nancing scheme which offers new computer-based training modules.
+We see continued contracted suppliers the opportunity to obtain early payments for education and awareness as vital ingredients in developing and valid and undisputed invoices this can be a particularly attractive maintaining intelligent risk management in our business.
+In addition, we subscribe to the Better Payment The BT Group plc Board has overall responsibility for ensuring that our Practice Code.
+risks are managed appropriately and, either directly, or through the BT Group plc Audit & Risk Committee, undertakes regular reviews of OUR RISKS the management of our risks at group-wide, line of business and In common with all businesses, we are affected by a number of risks internal service units levels.
+and uncertainties which are inuenced by both internal and external The BT Group plc Operating Committee is responsible for factors, some of which are not within our control.
+Many of our risks identifying, evaluating, responding to and monitoring risks.
+Those are similar to those of comparable companies in terms of scale and risks that are significant to us are reported and monitored through operation.
+Each risk is assigned a management owner who is responsible for the ongoing monitoring and management of Principal risks and uncertainties the risk.
+The Operating Committee review these risks through detailed This section highlights principal risks and uncertainties affecting our monthly reviews as well as performing six-monthly reviews of the business but it is not intended to be an extensive analysis of all risk Group Risk Register.
+These risks have the potential to impact The BT Group plc Board and the Operating Committee are our business, revenue, profits, assets, liquidity and capital resources supported in their oversight of risk management by the Group Risk adversely.
+Our processes are designed to give reasonable, but cannot Panel.
+The Group Risk Panel reviews the Group Risk Register in detail give absolute, assurance that the risks significant to us are identied on a quarterly basis, considers new or emerging risks, makes and addressed.
+There may be risks which are unknown or which are recommendations on the strength of mitigations and monitors the presently judged not to be significant but later prove to be work of the group risk management function.
+structured so that emerging key risks are escalated through Uncertainty in global economic and credit market conditions management to the Board as appropriate.
+remains a major challenge to businesses globally.
+This is particularly Each line of business and service unit operates a risk management true in Europe where there are concerns over government debt levels process as part of our Enterprise Risk Management framework.
+This and possible currency re-denomination risks.
+In common with many includes identifying and responding to the key risks to their business, other businesses we remain conscious of the adverse impact that which are captured in a risk register and reviewed by their leadership unfavourable economic and credit conditions may have on our teams.
+Audit and risk committees in each line of business and service business.
+This economic uncertainty manifests itself in several of the unit provide assurance over the effectiveness of their risk risks we face, and we focus our efforts on the management of those management processes.
+The principal risks we reported last year have evolved in nature, as Our principal risks has our response to them, and we explain these changes in our Security and resilience principal risks section below.
+Our reputation for secure and resilient services relies on the quality, We also include comment on mitigation that is, what we can do integrity and reliability of our global information systems, networks to reduce the likelihood or impact of the risk that we apply to help and infrastructure.
+The scale of our business and global nature of our us manage the risks.
+However, it is possible that not all mitigation will operations means we are required to manage significant volumes of be successful.
+personal and commercially sensitive information which are stored and Report of the Directors Strategy British Telecommunications plc Annual Report & Form 20-F 2012 15 02 329013 Report of the Directors.
+qxp:BT PLC 02 18 5 12 18:07 Page 16 transmitted to meet our own business purposes and those of our The degree of risk varies generally in proportion to the scope and life customers.
+All of this needs to be safeguarded from potential of the contract and is typically higher in the early transitional and exposure, loss or corruption.
+transformational stages of the contract.
+Some customer contracts Increasing dependence on voice and data transmission in a variety require investment in the early stages, which is expected to be of forms is accompanied by high expectations about service recovered over the life of the contract.
+Major contracts often involve continuity.
+In addition, concerns about interception, corruption and the implementation of new systems and communications networks, theft of information lead to requirements for stringent security transformation of legacy networks and the development of new measures, in an environment where attacks are becoming more technologies.
+The recoverability of these upfront costs may be frequent and sophisticated.
+Certain of our customers require specic, adversely impacted by delays or failure to meet milestones.
+highly sophisticated security provisioning which we are contractually Substantial performance risk exists in these contracts, and some or all obliged to meet if we are to continue to be able to differentiate our elements of performance depend upon successful completion of the offerings from those of our competitors.
+transition, development, transformation and deployment phases.
+Changes over the last year Changes over the last year Reports of and attention paid to computer hacking incidents have Global economic and credit market conditions, in Europe in particular, increased concerns about the likelihood of a cyber attack.
+Enhanced have put increased financial and operational pressures on our laptop encryption and significant improvements in the protection and customers and have made the environment even more competitive.
+segregation of credit card data are some measures which we have As we continue to expand into emerging markets, the landscape of taken to manage this risk.
+We continue to evolve our strategy and our risks and opportunities naturally changes as we must deal with capabilities to seek to protect our business against the threat of rapidly evolving geo-political risks and different trading attacks.
+The increased threat we have faced in the UK from cable environments and business practices.
+We are able to draw on our theft, together with actions we have taken in response, are set out in experience in managing these risks and will continue to apply the more detail on page 9. control framework and mitigation that is in place for our major contracts.
+Impact Failure or interruption of data transfer could have a significant Impact adverse effect on our business.
+A breach of our security and or Failure to manage and meet our commitments under these contracts, resilience affecting our own operations or those of our customers as well as changes in customers requirements, budgets, strategies or could lead to an extended interruption to network services and even businesses, may lead to a reduction in our expected future revenue, affect national infrastructure.
+Such failure may lead to a loss of profitability and cash generation.
+We may lose revenue due to the customer confidence, termination of contracts, loss of revenue, and merger or acquisition of customers, changes to customer strategy, reduced cash resources through penalties and unplanned costs of business failure or contract termination.
+Failure to replace the restoration and improvement.
+Additional reputational damage and revenue and earnings lost from such customers could lead to an financial loss may arise from a breach involving a legal failing such as overall reduction in revenue, profitability and cash ow.
+Risk mitigation Risk mitigation We have in place business processes that support each stage of a We operate well established policies addressing the security and major contract's life cycle: bid: in-life: renewal, and termination.
+Our resilience requirements of our operations, our own systems and programme of in-life reviews has continued over the past year.
+It is systems operated by us for our customers.
+Compliance with these designed to validate financial and non-financial controls over policies is routinely monitored.
+We apply stringent application and delivery of the contract.
+It incorporates tiered levels of dened review data encryption measures, deploy increasingly sophisticated anomaly according to the scale and complexity of the contract.
+Controls are and intrusion detection systems and utilise distributed and virtual applied and regularly monitored across our major contracts.
+All our data centre designs which provide much greater inherent resilience.
+major contracts are subject to regular management review and many We have a corporate resilience strategy that combines formal are subject to independent review both internal and external as part business continuity plans with well tested, rapid and exible of that governance.
+These are designed to deal with catastrophic incidents We have started rolling out new and revised risk training material including for example, major terrorist action, industrial action, cyber with the objective of improving identication, evaluation and attacks or natural disasters.
+management of risk on our major contracts.
+Our independent review Given our important role in the forthcoming London 2012 programme continues to help us identify lessons learned and to Olympic and Paralympic Games, safeguards and deterrent measures promote best practice through the business.
+have been increased, and incident responses rehearsed, to increase Pensions the likelihood that any potential incidents can be contained and dealt We have a significant funding obligation in relation to our dened with as quickly as possible.
+Declining investment returns, longer life Major contracts expectancy and regulatory changes may result in the cost of funding We have a number of complex and high-value contracts with certain BTs main dened benefit pension scheme, the BT Pension Scheme customers.
+The revenue arising from, and the profitability of, these BTPS, becoming a significant burden on our financial resources.
+contracts are subject to a number of factors including: variation in Changes over the last year cost and achievement of cost reductions anticipated in the contract The triennial funding valuation of the BTPS at 30 June 2011 and pricing, both in terms of scale and time: delays in delivery or associated recovery plan was agreed with the BTPS Trustee and achieving agreed milestones owing to factors either within or outside certied by the Scheme Actuary in May 2012.
+Under this prudent of our control: changes in customers requirements, budgets, funding valuation basis the deficit was 3.9bn and a recovery plan strategies or businesses: the performance of our suppliers, and other was agreed in order to return the BTPS to a fully funded position on factors.
+Any of these factors could make a contract less profitable or an actuarial funding basis by 31 March 2021. even loss making.
+16 British Telecommunications plc Annual Report & Form 20-F 2012 Report of the Directors Strategy 02 329013 Report of the Directors.
+qxp:BT PLC 02 18 5 12 18:07 Page 17 The valuation documentation will now be submitted to the Pensions Impact Regulator.
+The final Court decision in the Crown Guarantee case, after Failure to achieve profitable revenue growth from our strategic any appeals, will give greater clarity as to the extent to which the priorities may lead to a continued decline in revenue, erosion of our liabilities of the BTPS are covered by a Crown Guarantee.
+This will competitive position and might also lead to a reduction in inform the Pension Regulators next steps with regards to the profitability and cash ow in the future.
+Accordingly, as matters stand, it is uncertain Risk mitigation as to when they will conclude their review.
+Against this competitive backdrop we remain focused on successfully Impact defending our existing business and offering new services in An increase in the pension deficit and associated funding converging markets.
+We continue to press for changes in regulation requirements would have a direct adverse impact on our future cash to level the playing eld so that we can compete efficiently for the resources.
+Indirectly it may also have an adverse impact on BT Group benefit of customers.
+We have a clearly dened strategy aimed at plcs share price and our credit rating.
+Any deterioration in the credit increasing shareholder value, as set out on pages 10 to 13.
+The rating would increase our cost of borrowing and may limit the delivery of our strategic priorities will help improve our revenue availability or exibility of future funding thereby affecting our ability trends.
+Our strategic priorities are underpinned by our view of the to invest, pay dividends or repay debt as it matures.
+markets in which we operate.
+We have a well-developed cost transformation programme in place which has achieved significant Risk mitigation savings and helped maintain a competitive cost base.
+The investment performance and liability experience, as well as the We have taken action to make the management of this risk more associated risks and mitigation strategy, is regularly reviewed and integral to our business.
+These steps have built on our existing monitored by both us and the BTPS Trustee.
+The BTPS has a wellprocesses which are primarily focused on monitoring performance diversied investment strategy, which reduces the risk of adverse against business plans and allowing timely interventions where movements in the value of individual asset classes and helps ensure appropriate.
+Management incentives have been changed to ensure that an efficient balance of risk and return is maintained.
+better alignment and growth in underlying revenue excluding transit The funding deficit was reduced by a lump sum payment of now carries a 20% weighting as a performance measure.
+2.0bn into the BTPS in March 2012, following a provisional agreement with the BTPS Trustee on the funding valuation at 30 June Communications industry regulation 2011.
+Completing the valuation in a timely manner has provided Some of our activities continue to be subject to significant price and additional certainty for us and members of the BTPS on future other regulatory controls which may affect our market share, payments to the BTPS.
+competitive position, future profitability and cash.
+Many of our Our financial strength and cash generation provide a level of wholesale products in the UK are subject to significant regulatory protection that enables variations in the funding position of the BTPS controls.
+The controls regulate, among other things, the prices we to be managed without having a material impact on the ongoing can charge for many of our services and the extent to which we have performance of our business.
+to provide services to other CPs.
+In recent years the effect of these controls has required us to reduce our prices, although in some cases, Growth in a competitive market prices have been allowed to increase in real terms.
+We operate in markets which are characterised by high levels of Regulatory decisions in all jurisdictions in which we operate can competition including: declining prices: technology substitution: directly impact our financial position.
+In the UK, Ofcom has powers to market and service convergence: customer churn: declining rates of directly amend the prices we set and therefore the revenue we earn in growth: emerging competitors, and regulatory intervention to certain markets.
+These can extend to requiring us to make promote competition.
+A significant proportion of our revenue and retrospective repayments to other CPs for past overcharging and profit is generated in the UK telecoms markets which are imposing fines for non-compliance with the regulatory rules experiencing limited revenue growth despite strong volume demands including competition law.
+Outside the UK, regulation defines in many markets.
+Revenue from our calls and lines services to where and how we are able to compete through general licensing consumers and businesses has historically been in decline but new requirements and dening the wholesale charges we pay for access.
+broadband and connectivity markets are showing continuing growing Regulation usually operates within a clear legislative framework demand.
+Our ability to deliver profitable revenue growth in a that is stable in the medium to long-term.
+Risks of negative responsible and sustainable manner depends on delivering on our regulatory decisions arise from within those frameworks.
+For strategic priorities see page 10. instance, in the UK, risks can arise from periodic market reviews which may introduce tighter regulatory constraints, for example, Changes over the last year from new charge controls, or from CPs raising disputes or complaints The level of risk facing our business due to competition has increased about our current or historical pricing.
+Risks also arise as legal with new competitors emerging and our customers in the UK and challenges are brought by others against Ofcom decisions.
+Outside globally facing uncertainty in the economic outlook.
+Regulatory the UK, regulators can conduct investigations into our licensing changes which now allow competitors to deploy access bre using requirements and whether the services we offer are compliant.
+our duct and poles have also contributed to the increased level of risk.
+The competitive challenges across our different markets continue Changes over the last year to evolve.
+In a number of our markets we remain disadvantaged by Over the last year, we have seen regulatory activity in a number of imbalances in the competitive playing eld.
+Some of our competitors areas which are summarised in the Regulation section on page 7.
+A benefit from a combination of limited regulation applied to their core number of these rulings have resulted in a negative impact either business and extensive sector specic regulation being applied to our through retrospective price reductions or on our future pricing.
+Competition remains strong in the UK consumer xed communications retail and wholesale markets.
+In managed networked IT services for multinational companies, competition is increasingly centred on value-added network IT services rather than network connectivity.
+Report of the Directors Strategy British Telecommunications plc Annual Report & Form 20-F 2012 17 02 329013 Report of the Directors.
+qxp:BT PLC 02 18 5 12 18:07 Page 18 Impact operate a condential hotline where messages can be left in person, In recent years changes in price controls have required us to reduce via voicemail or by anonymous email.
+We run regular checks on our our prices and in some instances to make payments in respect of business using Internal Audit teams as well as external providers.
+Additional or more substantial review our business operations to ensure that our policies have been regulatory price reductions could constrain our revenue performance.
+We may be required to provide new services to wholesale Supply chain customers on a non-discriminatory basis, increasing our costs and We are dependent on our supply chain for the delivery of goods and increasing retail competition.
+Disputes may result either in reduced services on time, to cost and to specication.
+Failure of any of our revenue or increased costs going forward.
+We may also be required to critical suppliers to meet agreed requirements could adversely impact make retrospective payments to CPs if it is ruled that we have our customer service, product launches, updates to business critical overcharged them.
+Appeals may change Ofcoms decisions, which systems, revenue or cost reduction plans.
+had originally been concluded in our favour.
+We are committed to ensuring that all dealings with suppliers, Risk mitigation from selection and consultation to contracting and payment are We continuously monitor and review potential regulatory changes conducted in accordance with our trading and ethical policies.
+See and disputes, and maintain a dialogue with regulators and other key Suppliers in Our resources section on page 14. inuencers on critical issues.
+We use external advisors to advise and Our supply chain is global and we aim to harness the capability, support our positions and thoroughly assess the potential for a legal diversity and innovation of our supply market to add value to our challenge to any regulatory decisions.
+Many suppliers are being impacted by the economic downturn and the challenges of globalisation.
+This is Compliance in a global environment introducing further risk in our supply chain which includes, but is not The global nature of our operations means that we have to comply limited to: increase in supplier insolvency: lack of supplier resilience with a wide range of local and international legislative requirements.
+following a natural disaster: lack of compliance with anti corruption Our legal compliance obligations include anti-trust and antiand bribery legislation: corporate social responsibility risks in our corruption legislation, competition law, data privacy, trade sanctions, extended supply chain, and security risks relating to data protection.
+import and export controls, taxation and telecoms regulatory requirements.
+Changes over the last year Over the last year we have seen the impact of a number of natural Changes over the last year disasters including the Japanese earthquake and oods in Thailand.
+Some of the countries where we operate have increased their Both, to some extent, have had an impact on the supply of enforcement of local laws and therefore the potential impact of components used in the manufacture of our products although the failing to comply with local and international legislative requirements impact on us was minimised through robust supplier business has increased signicantly.
+The UK Bribery Act which also has effect continuity plans.
+The current global economic and credit market outside the UK came into effect in July 2011, with penalties for nonconditions, particularly in Europe, mean an increased risk of suppliers compliant businesses through the introduction of a corporate offence failing.
+of failing to have adequate procedures in place to prevent bribery.
+Impact Impact Our suppliers could be adversely affected by continuing uncertain Failure by our employees, suppliers or agents to comply with antieconomic conditions which in turn could impact their ability to meet bribery and corruption legislation including the US Foreign Corrupt their obligations to us or, in the extreme, cause them to fail.
+If we are Practices Act and the UK Bribery Act, or any failure in our policies unable to contract with an alternative supplier our customer and procedures to monitor and prevent non-compliance, anywhere commitments could also be compromised leading to contractual in the world, could result in substantial penalties, criminal breach, loss of revenue, penalties or increased costs.
+A failure in our prosecution and significant damage to our reputation.
+supply chain to meet legal obligations or ethical expectations could More broadly, failure to comply with legal requirements can have adversely impact our reputation or possibly lead to censure, legal a significant impact and lead to reputational and brand damage with action and financial loss.
+This could in turn impact our future revenue streams, the extent of which would be dependent on Risk mitigation the nature of the breach, the legislation concerned and any We continue to mitigate risks in this area through a number of associated penalties.
+measures including: globally coordinated vendor management programmes: rigorous bid controls: supplier risk assessments Risk mitigation including focus on our most critical suppliers: our Procurement We have in place a number of established controls to address risk in Academy Programme: anti-corruption and bribery awareness this area.
+These include a comprehensive ethics programme, The Way training, and corporate responsibility and compliance health checks.
+We Work our statement of business practice, and anti-corruption We work with our suppliers to ensure that the goods and services that and bribery policies.
+We also have policies covering gifts and we buy are made, delivered and disposed of in a socially and hospitality, charitable donations and sponsorship, and agents.
+We have a training programme for staff with a focus on roles such Our sourcing strategies consider a wide range of potential risks.
+Our plans are aimed at mitigating against, for example, the impact of We operate a governance structure with five regional governance potential natural disasters or the current global economic conditions committees focusing on the implementation of the programme.
+We thereby seek to minimise the risk of not being These regional committees cover the US and Canada, Asia Pacic, able to meet our customer and legal commitments or comply with Latin America, EMEA, and the UK and Republic of Ireland.
+This helps to minimise our exposure to loss of A regular risk assessment is undertaken to ensure that the revenue, financial penalty and any adverse impact on our brand and appropriate mitigation is in place and is regularly refreshed.
+18 British Telecommunications plc Annual Report & Form 20-F 2012 Report of the Directors Strategy

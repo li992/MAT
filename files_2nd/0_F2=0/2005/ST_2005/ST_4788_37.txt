@@ -1,0 +1,13 @@
+ANNUAL_JJ REPORT_NN 2005_CD ANNUAL_NNP FINANCIAL_NNP STATEMENTS_NNP 21_CD ._.
+Creditors_NNS :_: Amounts_NNS Falling_VBG Due_JJ After_IN More_JJR Than_IN One_CD Year_NN 2005_CD 2004_CD $_$ 000_CD $_$ 000_CD Capitalised_VBN finance_NN lease_NN 142,805_CD -_: Convertible_JJ bonds_NNS 105,405_CD 104,941_CD Loan_NN 28,168_CD 28,098_CD 276,378_CD 133,039_CD Less_RBR :_: current_JJ portion_NN of_IN convertible_JJ bonds_NNS Note_VBP 20_CD 4,020_CD 4,035_CD 272,358_CD 129,004_CD The_DT finance_NN lease_NN relates_VBZ to_TO land_VB and_CC buildings_NNS capitalized_VBN on_IN 15_CD November_NNP 2004_CD Note_NN 13_CD ._.
+The_DT 15_CD year_NN lease_NN agreement_NN was_VBD entered_VBN into_IN on_IN 3_CD February_NNP 2003_CD and_CC terminates_VBZ on_IN 31_CD January_NNP 2018_CD ._.
+The_DT lease_NN incorporates_VBZ interest_NN at_IN 16.79_CD %_NN ._.
+The_DT current_JJ monthly_JJ lease_NN payments_NNS of_IN US$_$ 1.08_CD million_CD are_VBP payable_JJ in_IN advance_NN and_CC escalate_VB at_IN 11_CD %_NN per_IN annum_NN ._.
+The_DT Company_NN acts_VBZ as_IN surety_NN and_CC guarantor_NN against_IN any_DT default_NN ._.
+In_IN addition_NN ,_, the_DT obligation_NN under_IN the_DT finance_NN lease_NN is_VBZ secured_VBN by_IN the_DT lessors_NNS charge_VBP over_IN the_DT leased_VBN assets_NNS ._.
+The_DT minimum_JJ lease_NN payments_NNS do_VBP not_RB service_VB the_DT interest_NN until_IN 2010_CD ._.
+Accordingly_RB ,_, no_DT capital_NN will_MD be_VB repaid_VBN for_IN the_DT first_JJ seven_CD years_NNS ._.
+Obligation_NN under_IN capitalized_VBN finance_NN lease_NN Minimum_NNP lease_NN payments_NNS 2005_CD 2004_CD $_$ 000_CD $_$ 000_CD Amounts_NNPS payable_JJ under_IN finance_NN lease_NN agreement_NN :_: Within_IN one_CD year_NN 17,517_CD -_: Between_IN one_CD and_CC five_CD years_NNS 91,574_CD -_: After_IN five_CD years_NNS 307,802_CD -_: 416,893_CD -_: Less_RBR :_: finance_NN charges_NNS allocated_VBN to_TO future_JJ periods_NNS 274,088_CD -_: 142,805_CD -_: The_DT terms_NNS of_IN the_DT convertible_JJ bonds_NNS are_VBP set_VBN out_RP in_IN Note_NN 22_CD ._.
+The_DT loan_NN of_IN US$_$ 28.2_CD million_CD ,_, which_WDT was_VBD used_VBN to_TO purchase_VB equipment_NN ,_, is_VBZ unsecured_JJ ._.
+Interest_NN is_VBZ payable_JJ semi-annually_RB in_IN arrears_NNS and_CC is_VBZ linked_VBN to_TO South_JJ African_JJ interbank_NN rates_NNS ._.
+This_DT loan_NN was_VBD settled_VBN subsequent_JJ to_TO the_DT year_NN end_NN Note_NN 35_CD ._.

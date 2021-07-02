@@ -1,0 +1,4 @@
+95_CD GKN_NNP plc_NN 2002_CD CONTACT_NNP DETAILS_NNP Corporate_NNP Centre_NNP PO_NNP Box_NNP 55_CD Ipsley_NNP House_NNP Ipsley_NNP Church_NNP Lane_NNP Redditch_NNP Worcestershire_NNP B98_NNP 0TL_NNP Tel_NNP 44_CD 0_CD 1527 517715_CD Fax_NNP 44_CD 0_CD 1527 517700_CD London_NNP Office_NNP 7_CD Cleveland_NNP Row_NNP London_NNP SW1A_NNP 1DB_NNP Tel_NNP 44_CD 0_CD 20 7930 2424_CD Fax_NNP 44_CD 0_CD 20 7930 3255_CD e-mail_NN :_: information@gknplc_NN ._.
+com_NN Registered_NNP in_IN England_NNP No._NN ._.
+4191106_CD Registrar_NNP Lloyds_NNP TSB_NNP Registrars_NNPS The_DT Causeway_NNP Worthing_NNP West_NNP Sussex_NNP BN99_NNP 6DA_NNP Tel0870_NNP 600_CD 3962 44 121 433_CD 8000_CD from_IN outside_JJ UK_NNP Fax0870_NNP 600_CD 3980 44 1903 85403_CD 1_CD from_IN outside_JJ UK_NNP Websites_NNPS :_: www_NN ._.
+co._FW uk_FW This_DT annual_JJ report_NN is_VBZ available_JJ on_IN the_DT GKN_NNP website_NN ._.

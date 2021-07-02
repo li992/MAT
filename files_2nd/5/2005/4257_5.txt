@@ -1,0 +1,292 @@
+Business Review CSR successfully shipped over 150 million Bluetooth single chip devices in 2005.
+Aggressive cost management has maintained margins as we drive selling prices down.
+Business Review and marketing function is centred in Cambridge, CSR plc is the holding company of an international with sales liaison offices in Dallas, Texas: Taipei, group of companies with its headquarters in Taiwan: Seoul, South Korea and Tokyo, Japan.
+CSR plc listed on the London CSR is a fabless semiconductor company.
+Stock Exchange in March 2004 and is a constituent All wafer fabrication, assembly and test, and shipping of the FTSE 250 Index.
+is subcontracted, predominantly to Taiwan Semiconductor Manufacturing Company TSMC Operations and Advanced Semiconductor Engineering ASE in CSR designs and supplies single chip wireless Taiwan.
+Manufacturing is currently located in Taiwan devices.
+Through its BlueCore range of products, to minimise production cycle time and inventory, we are the market leader in the supply of single chip simplify logistics and to take advantage of a common solutions for Bluetooth wireless voice and data language and culture.
+During 2006, CSR is to expand communications, providing low cost, high the number of TSMC wafer fabrication sites it uses performance integrated circuits ICs or silicon chips to five, including a site outside Taiwan.
+Similarly, to manufacturers of a wide range of electronic devices assembly and test sites will be increased to five including mobile phones, headsets, laptop PCs, locations.
+By increasing sourcing options, we will be personal digital assistants PDAs, PC peripherals, able to deal with any unplanned interruptions at any stereo headphones and automotive based systems.
+single location, as well as having access to additional We supply over 450 end customers including Nokia, capacity to respond to any increases in demand.
+Dell, Panasonic, Samsung, Sharp, Motorola, IBM, We have developed excellent relationships at all levels Apple, LG, NEC, Toshiba, RIM and Sony.
+This has served us well and CSR is organised around its research and provided us with leading-edge manufacturing development team of 454 staff 2004: 183.
+The technology and strong support in satisfying capacity majority of these are based in Cambridge, UK, with requirements and controlling costs.
+Using this teams in Aalborg, Denmark, Lund, Sweden and production process has enabled CSR to successfully Detroit in the US.
+During the year, these were ship directly and under manufacturing licence over augmented by the opening of a hardware design 150 million Bluetooth single chip devices in 2005, centre in Sophia Antipolis, France, and UbiNetics has whilst aggressive cost management has maintained added further research and development teams in margins as we drive selling prices down.
+This Bangalore, India and Shenzhen, China.
+Our sales encourages adoption of our technology in the products of current and potential customers.
+22 Changing the way the world connects CSR markets to Original Equipment Manufacturers Increasing software content in new products.
+OEMs and Original Design Manufacturers ODMs, We believe that increased software content enables principally through our own direct sales force and, in new products to provide complete solutions for North America, through sales representatives.
+The software also improves the market our ICs through a network of distributors.
+robustness and flexibility of our solutions and Our marketing efforts are supported by a team of helps to distinguish them from competing offerings.
+applications engineers who provide technical support We intend to increase our emphasis on software in and assistance to existing and potential customers the future.
+in designing, testing and qualifying systems that incorporate our products.
+Extending its expertise in Bluetooth technologies.
+This support is generally provided without We plan to extend our expertise in Bluetooth charge to customers who have the potential to technology to provide differentiated products purchase large volumes of products.
+An important for different segments of the market.
+part of our marketing effort involves providing technical support to product developers to encourage them to Focus on lowering the cost of Bluetooth solutions design products using CSRs ICs.
+For this purpose, using our Integrated Circuits.
+We believe that, we provide a range of development kits and tools.
+by continuing to increase the functionality of our ICs and developing its on-chip application software, Strategy we will be able to further reduce the total cost of CSRs objective is to be the supplier of choice our complete Bluetooth system to our OEM and of single chip solutions for wireless voice and data ODM customers.
+Key elements of our strategy include: Enhancing sales, marketing and technical support Focusing on existing and growing Bluetooth organisations.
+We are committed to maintaining our markets.
+We believe we are well positioned to high level of technical support to our customers as develop hardware and software solutions to address well as pursuing new markets.
+the existing and future applications for Bluetooth.
+CSR plc Annual Report and Financial Statements 2005 23 Business Review Leveraging expertise in other wireless markets around 35% for the year as a whole.
+Bluetooth is well continued exemplified by the UniFi product in the Wi-Fi established in all top tier mobile phone manufacturers market.
+We believe our single chip, radio frequency roadmaps with many high and mid-range phones and software design expertise, combined with our now specifying its inclusion.
+The very low Bluetooth knowledge of integrating wireless solutions with attach rates in the US began to increase as the mono customers products, positions us well to pursue headset application gained some popularity.
+opportunities for solutions for new and developing Additionally, the mobile phone market is starting wireless communications standards, starting with to see a trend towards handset manufacturers Wi-Fi and our product UniFi, the industrys first single seeking space and cost efficiencies by specifying the integration of more than one non-cellular wireless chip IEEE802.11a b g embedded solution.
+This trend should favour Competitive environment suppliers such as CSR, with proven competence The markets in which CSR operates are intensely of wireless systems integration.
+competitive and are characterised by rapid The headset market has also grown significantly technological change, evolving industry standards in 2005, driven by the proliferation of Bluetooth mobile and declining average selling prices.
+We estimate that the headset attach rate competition includes Broadcom and Texas Instruments.
+to Bluetooth enabled mobile phones was between 25% and 30% in 2005.
+The headset market continues We provide our customers with a number of benefits: to segment from very high end headsets with full feature sets to low cost headsets with less Leading Edge Technical Solution.
+2005 saw the introduction of the first the worlds first production ready single chip that stereo headphones which can be used for both voice complied with the Bluetooth standard with the launch calls and listening to music.
+We expect this market of BlueCore1.
+All CSRs BlueCore ICs comply fully to show strong growth over the coming years.
+with the Bluetooth standard, and provide on a single The PC market for Bluetooth continues to grow chip: a radio, a baseband digital signal processor, with penetration of Bluetooth in laptops rising to the a microcontroller and software.
+With UniFi we are high teens percent in 2005, compared to 15% in developing a range of true single-chip Wi-Fi devices 2004.
+We expect penetration rates to grow further which combine small size, low power consumption as the stereo headphone market grows, VoIP calls and low cost but with high performance.
+using cordless headsets paired to PCs increase and the bandwidth of Bluetooth increases in 2007 and Low overall solution cost.
+An important factor in beyond, allowing very fast file transfer.
+an OEMs or ODMs decision to adopt a Bluetooth The automotive market provides a significant solution is cost.
+As we continue to increase growth opportunity as the number of car production volumes and enhance our operational manufacturers offering Bluetooth connectivity and technical expertise, the overall solution cost increases.
+In 2005, a number of mid-range car will be further reduced.
+makers including Nissan, Renault, Ford and Toyota introduced Bluetooth connectivity as an optional extra Small size.
+The space available to include Bluetooth for their customers.
+In addition to built-in Bluetooth, capability in portable electronic devices is very used predominantly for handsfree calls via the car HiFi limited.
+OEMs and ODMs can design very small system, there is a significant aftermarket serviced by systems with our single chip BlueCore solution clip-on handsfree Bluetooth devices.
+At below 5%, compared to alternative solutions, which can require attach rates are relatively low.
+Music and gaming applications have started to appear in the consumer segment.
+Bluetooth Extensive development and product support.
+connectivity for MP3 players is gaining traction, Our worldwide operations deploy applications initially via plug-in adaptors enabling stereo engineers with substantial experience in supporting headphones to be connected wirelessly.
+Operational status and design wins in 2005 Performance in 2005 Revenue increased for the fifth consecutive Market Conditions year to $486.5 million and represented a 92% The Bluetooth market more than doubled in 2005 increase on 2004 revenue $253.1 million.
+The key with market estimates of shipments of Bluetooth ICs areas of revenue in 2005 for the Companys BlueCore of 317 million units compared to 142 million units in products were the mobile phone and headset market 2004 source: IMS.
+which accounted for over 70% of all CSRs unit This considerable growth was driven largely by shipments.
+Other important end markets for BlueCore increased Bluetooth attach rates in mobile phones.
+included PCs, and PC peripherals which includes As expected, attach rates of Bluetooth into mobile printers, mice and keyboards, automotive and phones grew to around 25% in 2005 from 14% in consumer which includes MP3 players, cameras 2004.
+We expect that attach rates for 2006 will reach and camcorders.
+24 Changing the way the world connects CSR has maintained its leading position in the Additional technical competencies in the operation of Bluetooth market across all applications, with the wireless headsets, which will further enhance CSRs majority of design wins listed on the Bluetooth website position in this increasingly competitive market.
+CSR defines a design win as an end product or module listed on the Bluetooth.
+com website In August 2005, CSR acquired the software business identifying one of CSRs BlueCore parts as the of UbiNetics for $48 million.
+UbiNetics specialises Bluetooth solution being used.
+As a rule these design in communication protocol software for mobile phone wins will be an indicator of future revenue although manufacturers.
+The acquisition provides CSR with some design wins are for products, such as mobile a strong additional research and development team to accelerate its existing software developments in phones, which sell in more volume than others whilst some listed qualified products never go to production.
+Bluetooth, Wi-Fi and UWB ultra wideband.
+In total, CSR won over 460 new designs in 2005 2004: 346 of which 43% 2004: 31% were in the Launch of BlueCore5 product range cellular sector mobile phones and mono headsets.
+In late September 2005, CSR announced the next Over 70% of CSRs unit shipments were shipped into generation of its Bluetooth offering which is expected the cellular sector.
+CSRs strong position with the top tier to start volume production in 2006.
+This fifth mobile phone manufacturers continued with notable generation of BlueCore includes ROM Read Only wins with BenQ, Kyocera, LG, Nokia, Motorola, Memory and multi-media variants.
+BlueCore5-ROM has continued CSRs drive CSRs leading position in the mono headset to offer the lowest cost and smallest Bluetooth segment continued with 89% of qualified design implementation in the market: essential factors wins 2004: 85%.
+Notable design wins included for success in the mobile phone market.
+CSRs GN Netcom Jabra brand, i Tech Dynamic, Logitech, BlueCore5-MM multi-media offers significant Motorola, Nokia, Philips, Plantronics and Siemens.
+An enhanced version In the automotive sector CSR secured 77% of all of CSRs Kalimba DSP is integrated in the designs with customers including Bury GmbH, Delphi Bluetooth chip and brings marked improvements Corporation, Nokia and Tom Tom.
+In the PC sector to stereo audio performance.
+CSR also announced CSR achieved a 71% share of all laptop designs BlueCore5-FM the first of a series of broadcast including NEC, and Sony as well as more PC reception capable chips which will integrate different peripherals including printers, cards and dongles radio technologies into the Bluetooth device, part of than any other competitor.
+Notable design wins CSRs BlueMedia vision.
+included end products for Canon, Eastman Kodak, Kalimba is the focal point of the major Fujitsu and Seiko Epson.
+enhancements in multi-media variants of BlueCore5 In the stereo headset market, CSR secured 69% and is a key competitive differentiator.
+CVC technology of the available designs for customers such as Nokia, is incorporated into the DSP inside BlueCore5-MM Samsung, GN Netcom Jabra, Philips for Siemens bringing an important differentiator to designers of as well as I-Tech dynamic.
+CSR has also won a automotive and voice applications.
+The CSR DSP number of designs for plug-in adaptors for MP3 also offers support for a wider range of CODECs players, including Griffin.
+formats of compressed data, usually music which CSRs BlueCore4 solution with EDR was brings power consumption improvements: an adopted in 69% of relevant Bluetooth end products, important factor for portable stereo music applications, mainly in the mobile phone and PC segments.
+such as wireless stereo headphones for MP3 players.
+Shipments of BlueCore4 exceeded 20 million units to the end of 2005.
+Research and Development CSR devotes substantial effort to research and Acquisitions development, which underpins and sustains our CSR made two acquisitions in the year.
+We are conscious of the need to ensure In March 2005, CSR acquired Clarity Technologies, adequate financial and human resources are available Inc. for $17.1 million.
+Its voice extraction and echo for research and development, and these issues cancellation software is based on its proprietary Clear and future planning are considered at operational Voice Capture technology CVC.
+The acquisition level and at each Board meeting.
+In 2005, research brings CSR: and development costs were $60.3 million 2004: $27.6 million representing 12.4% 2004:10.9% of Ownership of CVC, a patented and high profile turnover.
+Our commitment to R&D to drive revenue audio solution that has allowed CSR to enhance the growth is reflected in the acquisition of the software features in its next generation of Bluetooth products.
+We have the experience, skills and track record to design the software for UMS Established customer relationships in the Universal Mobile Access and fixed-mobile converged automotive sector, especially in the US, giving CSR phones and hence extend our range of products additional opportunities to increase its share of the going forward.
+In the longer term CSRs research market for Bluetooth solutions.
+and development expenditure is expected to average 17% of revenue.
+CSR plc Annual Report and Financial Statements 2005 25 Business Review Future Prospects Provisions for pension are available for all employees continued CSR expects the overall market for Bluetooth enabled either through participation in the state pension products to continue to grow strongly.
+Global annual schemes operated by the country in which the Bluetooth IC shipments are expected to increase employee is resident or provision of a defined by around 60% in 2006, as attach rates for Bluetooth contribution pension scheme.
+Such defined increase in mobile phone handsets.
+We expect the contribution schemes are maintained in accordance mobile phone and headset market to continue to be with legislative requirements, custom and practice a significant proportion of CSRs income in 2006. and Company policy as appropriate.
+In addition, new applications for Bluetooth are expected Social Responsibility to develop in greater volumes, such as stereo headphones for use with digital music players, mobile CSR recognises the importance of social, phones and PCs.
+In 2006, more of our product range environmental and ethical SEE matters and during will include our Clear Voice Capture technology.
+2005, continued to work towards compliance with A material factor in the success in any business the ABI disclosure guidelines on social responsibility.
+in consumer electronics is the ability to reduce unit This includes the Companys impact through its prices both in existing and new release products.
+operations on the environment, on the safety and well In line with the semiconductor industry as a whole, being of our employees, and end users of our products we expect average selling prices to reduce by between as well as those who contribute to the process of the 15% to 20% per year.
+We place significant focus on development and manufacture of CSRs products controlling product costs to maintain gross margins.
+through its suppliers, distributors and customers.
+In the longer term we expect gross margin to reduce The directors consider that the Companys to within the range of 42% to 45%.
+business practices already take due account We expect to start shipping UniFi products in of certain of our responsibilities for SEE matters.
+Building on our success The Company has identified the resources which in single-chip Bluetooth devices, UniFi is CSRs first are key to our business and established practices non-Bluetooth product.
+UniFi is a range of true singleintended to safeguard and maintain them.
+It has also chip Wi-Fi devices which offers small size, low power, established policies and practices which encourage low cost, and high performance.
+CSRs UniFi devices the recruitment, retention and motivation of staff.
+offer designers the first Wi-Fi solution specifically Key business risks which might impact our targeted at mass-market mobile phones and other operations have been identified.
+These risks are pocket sized consumer products such as digital reviewed on a regular basis and account is taken cameras and MP3 players.
+UniFi combines up to of the potential SEE impact on the business and three Wi-Fi standards into a true single-chip and its stakeholders resulting from any such risks.
+will support applications such as Voice over Internet In February 2005, the principle UK company was Protocol, the fast exchange of picture and music files, registered under the internationally recognised health downloading data from Wi-Fi hotspots and video and safety standard OHSAS 18001.
+Customers are in the process of laying is also registered under the quality standard ISO 9000. out designs using UniFi.
+Modest revenue is expected To the extent they apply to the Companys in 2006, becoming more significant in 2007. operations, we consider issues connected with the safe manufacture, disposal and treatment of Employees products at the end of their working life.
+During 2005, CSRs employees are key contributors to its success.
+we assessed the impact of both the Waste from We encourage good employee relations across all our Electrical and Electronic Equipment WEEE Directive, operations and require that this is facilitated by regular which came into effect in August 2005 and the meetings and scheduled briefings attended and Restriction on use of Hazardous Substances in supported by senior management.
+Electrical and Electronic Equipment RoHS Directive Regular company-wide briefings are held with which comes into effect in July 2006.
+In addition, scheduled meetings are held at assessment, we believe there is limited application team and department levels to consider commercial, of the WEEE Directive to our operations as it is not strategic, financial and human resource issues.
+applicable to the integrated circuits that we Key findings from these meetings are discussed at manufacture.
+This is a matter which we will continue a weekly meeting of senior management for CSRs to monitor in respect of our developing operations.
+These have been an important We believe the RoHS Directive will apply to the element in supporting our rapid growth.
+Work was undertaken during 2005 in We also recognise our responsibilities to ensure preparation for the implementation of the fair treatment of all employees in accordance with requirements in 2006 as regards the selection and national legislation in the territories in which we use of materials, focused primarily on reducing the operate.
+Equal opportunities for appropriate training, lead content in our products.
+This work applies to career development and promotion are available both products in manufacture and those which to all employees, regardless of any physical disability, presently are under development.
+We are also able gender, religion, race or nationality.
+In particular, having to provide confirmation to our customers of the regard to their aptitudes and abilities, we give full and constituent materials in our devices, supported by fair consideration to applications for employment detailed laboratory analysis.
+We expect to further received from disabled persons.
+develop our work in this area during 2006.
+26 Changing the way the world connects We recognise the importance of ensuring that Revenue increased for the fifth consecutive our suppliers have appropriate policies and practices year to $486.5 million and represented a 92% on SEE matters.
+As a result, we undertake periodic increase on 2004 revenue $253.1 million.
+This level audits of our principal direct suppliers in relation of growth was significantly above expectations at the primarily to environmental, but also considering beginning of 2005.
+This success was underpinned social and ethical issues.
+The most recent audit was by a particularly strong performance in shipping completed in April 2005.
+BlueCore ICs into the mobile phone and headset We are also aware of the importance of ensuring segment where Bluetooth attach rates are increasing.
+that our products can be used in a safe manner.
+CSR places significant focus on controlling The Company considers that its products actively product costs and during 2005, has aggressively facilitate the safe and convenient use of a range reduced costs in line with average selling prices.
+We support our customers As a result, gross margins have been maintained in the drive for ever smaller and cheaper mobile at over 46%.
+communication devices, employing low power Operating costs have increased by 94% in radio waves.
+Through application of our technology, 2005 over 2004 as CSR continues to invest in R&D customers can supply mobile phones which for current wireless solutions as well as new projects.
+facilitate compliance with the growing amount Investment in applications engineers and sales of legislation worldwide concerning the safe use people continued during 2005 and general and of phones whilst driving.
+administration costs have increased to support the growing levels of business.
+Operating profit was $111.9 million at 23% Operating profit up 91% operating margin compared to $58.5 million in 2004, $ Millions 23% in 2004.
+112 Investment income Investment income increased to $3.2 million in 2005 compared to $1.2 million in 2004 as a result of increased levels of cash and cash equivalents, as well as higher UK and US interest rates.
+58 Taxation CSR made its first payment of UK corporation tax in July 2005.
+The effective tax rate for the year was 27.3% note 8.
+This is below the statutory rate of 30% principally due to the availability of R&D tax credits.
+2 2003 2004 2005 Earnings per share Earnings per share diluted was $0.62 for 2005, Financial Review an increase of 29% compared to $0.48 for 2004. International Accounting Standards Basic earnings per share was $0.67 compared to During the year, the Company adopted International $0.53 for 2004.
+It should be noted that 2005 was Financial Reporting Standards for the first time.
+the first year in which CSR was chargeable to As a result prior period figures have been restated Corporation Tax at 27.3%.
+to comply with International Financial Reporting Standards.
+Full details of the adjustments on transition Net Assets up 78% and of the related changes to accounting policies are $ Millions included in notes 2 and 28 to the accounts.
+Operating cash $000 $000 flow contributed $95.0 million 2004: $33.6 million, Non-current assets with $64.5 million 2004: $nil spent on acquisitions Goodwill 52,697 and capital expenditure of $18.7 million 2004: $7.2 Other intangible assets 25,508 6,350 million.
+Net tax paid was $8.1 million 2004: $1.9 Property, plant and equipment 22,541 6,475 million and cash inflow from financing was $0.2 Deferred tax asset 18,137 8,112 million 2004: $57.2 million.
+118,883 20,937 The significant growth in CSR has resulted in the requirement for a $21.1 million 2004: $31.0 million Current assets investment in working capital in 2005 impacting operating cash flow.
+Inventory 69,672 30,088 Capital expenditure of $18.7 million 2004: $7.2 Trade and other receivables 75,287 35,952 million reflects the continued investment in test and Treasury deposits 25,000 35,000 computer equipment and CAD software required to Cash and cash equivalents 99,386 75,074 support current and future R&D projects as well as 269,345 176,114 the purchase of production testers to enable more Total assets 388,228 197,051 cost effective testing.
+This expenditure represents Current liabilities 109,212 38,800 3.8% of revenue 2004: 2.8%.
+CSRs longer term Non-current liabilities 1,979 2,766 target for expenditure on tangible and intangible Total liabilities 111,191 41,566 assets is estimated at 4% to 5% of revenue.
+Net assets 277,037 155,485 Net Cash from Operating activities up 183% Goodwill arose on the acquisitions of Clarity and $ Millions UbiNetics during the year, which are discussed 95 on page 25 and also detailed in note 23.
+Intangible assets include the net book value of the Groups software licences of $10.9 million 2004: $6.0 million which support R&D, along with the $14.5 million of inprocess R&D and customer contracts purchased as part of the acquisitions in the year 2004: $nil.
+Trade receivables increased to $62.5 million 2004: $31.8 million as a result of increased levels 34 of business.
+Days sales outstanding increased to 42 days 2004: 40 days as a result of a higher 3 proportion of business with direct customers who can command longer credit terms.
+2003 2004 2005 Inventory stands at $69.7 million 2004: $30.1 million, again reflecting increased levels of business.
+Capital structure and Liquidity CSR aims to keep sufficient inventory to meet the The issued share capital at 30 December 2005 often short customer order lead times in this industry was 127,879,155 ordinary shares of 0.1 pence each which results in inventory turns of between five and 2004: 122,101,811.
+As a result of the funds raised seven times in inventory.
+through the initial public offering in March 2004 and the subsequent positive operating cashflows, CSR Cash Flow has a total of $124.4 million of treasury deposits, 2005 2004 cash and cash equivalents at 30 December 2005 $000 $000 2004: $110.1 million.
+CSR therefore currently Operating profit 111,936 58,457 expects to fund its current and future operations Non-cash items 12,407 8,393 from its existing cash resources.
+Working capital 21,059 31,003 Taxation 8,102 1,939 Dividend Policy Interest paid 213 308 The Company currently intends to retain future Net cash from earnings to fund the development and growth of operating activities 94,969 33,600 the business.
+Any payment of future dividends will Treasury management 12,878 33,787 be at the discretion of the Board after taking into Acquisitions 64,464 account various factors, including the Companys Capital expenditure 18,673 7,244 financial condition, operating results, current and Financing 172 57,208 anticipated cash needs and plans for expansion.
+Net cash inflow 24,882 49,777 28 Changing the way the world connects Foreign exchange and Treasury policy testing services: the timing of significant orders: CSR has well defined and consistently applied increased expenses associated with new product policies for the management of foreign exchange introductions, masks, or process changes: the and interest rate exposures.
+There has been no commencement of, or developments with respect to, change since the year end in the major financial risks any future litigation: the cyclicality of the semiconductor faced by the Company.
+The audit committee of the industry: and overall economic conditions.
+Board reviews and agrees policies for managing There are a number of potential risks and foreign exchange and interest rate exposure risks.
+uncertainties which could have a material impact The Companys financial instruments comprise on the Groups long term performance: cash and cash deposits and items such as trade receivables and creditors which arise in the normal Fabless Business Model.
+The Company uses course of business.
+It is the Companys policy not independent suppliers to manufacture, assemble to enter into speculative transactions.
+and test all of its products.
+As a result, the Companys Substantially all of the Companys sales and costs business model is less capital intensive.
+TSMC, the of sales are denominated in US dollars, the worlds largest semiconductor manufacturer is the Companys functional currency.
+A majority of the Companys principal wafer foundry.
+ASE performs Companys overhead costs and other fixed costs substantially all of the assembly and testing of CSRs are denominated in GBP.
+This exposure to different ICs.
+CSR is therefore reliant on these independent currencies would result in gains or losses with respect suppliers to provide the required capacity to to movements in foreign exchange rates and the manufacture, assemble and test all of its products impact of such fluctuations could be material.
+and to provide high quality products on time.
+Accordingly, the Company enters into hedging The Company maintains an internal manufacturing transactions pursuant to which it purchases GBP support group which directs product supply, helps under forward purchase contracts in order to cover ensure a high level of quality and reliability and works its GBP exposure.
+These transactions necessarily with the wafer foundry and production assembler involve judgements and assumptions about future to resolve issues.
+expense levels, and, as a result, do not entirely eliminate the Companys exposure to currency Product Design Cycle.
+The design cycle for the fluctuations.
+Further, whilst the hedging transactions Companys ICs in Bluetooth enabled products provide fixed currency rates for periods covered by can take up to 24 months to complete and volume the contracts, the transactions will not protect the production of products using the Companys ICs Company from long term underlying movements in can take an additional 6 months or more.
+The average USD GBP rate achieved design cycle makes forecasting product demand in 2005 was 1.7792 and 2006 contracts are in place and the timing of orders difficult for the Company.
+In addition, the delays inherent in lengthy design cycles increase the risk that the Companys Business Risks customers may seek to cancel or modify orders.
+The Annual Report contains certain forward-looking statements.
+These statements are made by the Delays in new products due to complexity.
+directors in good faith, based on the information The Companys products are complex and may available to them up to the time of the approval of this contain undetected hardware and software errors report.
+By their nature, forward-looking statements or failures when first introduced or as new versions involve risks and uncertainties because they relate are tested.
+The resolution of these errors could to events and depend on circumstances that will or cause the Company to invest significant capital may occur in the future.
+Actual results may differ from and other resources and divert its technical staff those expressed in such statements, depending on from other development efforts.
+If CSR delivers a variety of factors.
+These factors include consumer products with errors, defects or bugs, its credibility and market acceptance of the Companys products and the market acceptance and sales of its products and the products that use the Companys products: could be harmed.
+decreases in the demand for the Companys products: excess inventory levels at the Companys Transitioning to smaller geometry process customers: declines in average selling prices of the technologies.
+To remain competitive, the Company Companys products: cancellation of existing orders expects to continue to transition its semiconductor or the failure to secure new orders: the Companys products to increasingly smaller line width geometries.
+failure to introduce new products and to implement This transition requires modification to the manufacturing new technologies on a timely basis: the Companys processes and the re-design of some products as well failure to anticipate changing customer product as standard cells and other integrated circuit designs requirements: fluctuations in manufacturing and that may be used in multiple products.
+This may result assembly and test yields: the Companys failure to in reduced manufacturing yields, delays in product deliver products to its customers on a timely basis: deliveries and increased expenses.
+disruption in the supply of wafers or assembly or CSR plc Annual Report and Financial Statements 2005 29 Business Review Product Life Cycle: Declining Prices.
+The life Infringement of third party intellectual property continued cycle of the Companys ICs can be relatively short.
+Companies in the semiconductor industry The average selling prices of the Companys ICs often aggressively protect and pursue their intellectual will generally fall over the products life cycle.
+Claims against the Company could The Companys ability to increase turnover, therefore, adversely affect our ability to market our products, depends on its ability to increase unit volume and to require us to re-design products or seek licences from introduce new products that are accepted by customers.
+third parties, and seriously harm the Companys operating results.
+In addition, the defence of such Terms of Sale.
+Sales are made through purchase claims could result in significant costs and divert the attention of the Companys management or other orders with specific terms and conditions.
+Industry practice does, however, allow customers key employees.
+to re-schedule and cancel orders on relatively short Management of the Company are constantly notice.
+As a result, backlog may not be an accurate considering and reviewing risk.
+In addition the indicator of future turnover.
+Customer order Company has put in place formal processes for the cancellations and changes in product specifications identification and, where possible, the management could result in a loss of turnover and excess inventory.
+of significant risks which are reviewed regularly by senior management.
+This is formally reported on a Seasonality.
+Principally all of the Companys regular basis to the Audit Committee, as a result of customer design wins have been in products with which the directors are aware of the potential cost consumer electronic applications.
+As a result, CSR and resources involved in managing these risks.
+expects its business to be subject to seasonality, Details on the identification and management of with increased turnover in the period April to risks are also addressed on pages 34 and 35 in the November with a slowdown in activity in December Corporate Governance Report.
+and into the first quarter of the following year.
+The semiconductor industry is cyclical The preparation of these financial statements and has experienced significant downturns, often under IFRS requires management to make estimates in connection with maturing products and declines and judgements that affect the reported amount in general economic conditions.
+Such periods have of assets, liabilities, turnover and expenses, and reflected production overcapacity, excess inventory related disclosure of contingent assets and liabilities.
+levels and accelerated erosion in average selling prices.
+On an ongoing basis, CSR evaluates estimates, including those related to uncollectable accounts New revenue sources.
+The Companys future receivable, inventories, investments, intangible success is dependent upon our ability to develop assets, income taxes, financing operations, warranty new semiconductor solutions for existing and new obligations and contingencies and litigation.
+markets, introduce these products in a cost-effective The Companys estimates are based on historical and timely manner, and convince leading equipment experience and on various other assumptions manufacturers to select these products for design that CSR believes to be reasonable under the into their own new products.
+circumstances, the results of which form the basis for making the judgements about the carrying values Reliance on success of customers products.
+of assets and liabilities that are not readily apparent The Company relies on equipment manufacturers from other sources.
+Because this can vary in each to select our products to be designed into their situation, actual results may differ from the estimates products.
+Furthermore, even if an equipment under different assumptions and conditions.
+manufacturer selects CSRs product, we cannot CSR believes the following critical accounting be assured that their product will be commercially policies are important in understanding the successful.
+As a result, sales of the Companys Companys Consolidated Financial Statements: products are largely dependent on the commercial success of customers products.
+Inventories are stated at the lower of cost and net realisable value.
+Provisions Inability to protect the Companys intellectual for excess or obsolete inventory are recorded based property.
+The success of CSR depends on our ability upon assumptions about future demand and market to protect our intellectual property and trade secrets.
+If actual market conditions are less Despite prudent steps taken by the Company to favourable than those projected by management, protect its proprietary rights, third parties may attempt additional inventory provisions may be required.
+to copy aspects of CSRs products and seek to use information that CSR regards as proprietary.
+There Impairment of non current assets including is a risk that the Companys means of protecting its goodwill.
+An annual impairment test is performed intellectual property rights may not be adequate and in respect of goodwill.
+In addition CSR assesses weaknesses or failures in this area could adversely its non current assets, for possible impairment if affect CSRs business.
+there are events or changes in circumstances that indicate that carrying values of the assets may not be recoverable.
+Indicators of potential impairment include changes in the Groups business plans, 30 Changing the way the world connects failure to meet performance projections included Share options granted before 7 November 2002 in our forecasts of future operating results, and a No expense is recognised in respect of these options.
+slowdown in the worldwide economy or the The shares are recognised when the options are semiconductor industry.
+exercised and the proceeds received allocated The assessment for impairment entails comparing between share capital and share premium.
+the carrying value of the non-current asset with the recoverable amount of the asset, that is, the higher Share options granted after 7 November 2002 of net realisable value and value in use.
+Value in use and vested after 1 January 2005 is usually determined on the basis of discounted IFRS 2 Share-based payments is effective in respect of options and share awards granted after estimated future net cash flows.
+Significant management judgement is required in the forecasts 7 November 2002 and which had not vested as at of future operating results that are used in the 1 January 2005.
+The Group issues equity-settled discounted estimated future net cash flows.
+The share-based payments to certain employees.
+estimates we have used are consistent with the plans Equity settled share-based payments are measured and estimates that we use to manage our business.
+at the fair value at the date of grant.
+The fair value It is possible, however, that the plans and estimates determined at the grant date of the equity-settled used may be incorrect.
+If our actual results, or the share-based payments is expensed on a straight-line plans and estimates used in future impairment basis over the vesting period, based on the Groups analyses, are lower than the original estimates used estimate of shares that will eventually vest.
+The fair to assess the recoverability of these assets, we could value of the majority of options granted is measured incur additional impairment charges.
+by use of a Black-Scholes model, taking into account the terms and conditions upon which the options Foreign Currencies.
+The functional currency of the were granted.
+For certain share options which Group is the US dollar.
+The majority of sales are billed include total shareholder return related conditions, in US dollars and the cost of product purchased is the fair value is estimated through the use of a in US dollars.
+A significant proportion of the Groups Monte-Carlo simulation.
+operating expenses, however, are paid for in pounds The amount recognised as an expense is sterling, exposing the Group to the financial risks adjusted to reflect the actual number of shares that of changes in foreign currency exchange rates.
+Non-market vesting conditions are included The Group uses foreign exchange forward contracts in assumptions about the number of shares that are to hedge these exposures.
+However exposure to expected to become exercisable.
+The estimates of fluctuations in foreign currency exchange rate the number of shares that are expected to become movements still exists and could impact results.
+exercisable are reviewed at each balance sheet date.
+The Group does not use derivative financial The impact of the revision of original estimates, instruments for speculative purposes.
+if any, is recognised in the income statement and a corresponding adjustment to equity.
+The proceeds Research and Development.
+Expenditure on received net of any directly attributable transaction research activities undertaken with the prospect costs are credited to share capital nominal value of gaining new scientific or technical knowledge and share premium the balance when the options and understanding, is recognised in the income are exercised.
+statement as an expense as incurred.
+The deferred tax on the employee share Where a product can be identified, its cost can options and share awards which were granted after be measured, it is technically feasible and it is 7 November 2002 is computed on a different basis probable it will generate future economic benefits, to that used for calculating the share option and share development costs are capitalised and amortised award expense in the income statement and as a on a straight-line basis over the estimated useful life result the effective tax rate may be affected by the of the respective product.
+The Company believes calculation at each period end.
+Similarly the amount its current process for developing products is of current tax payable is affected by the tax relief essentially completed when products have achieved available when share options and share awards are the Transfer to Production status as it is only then exercised by employees.
+The timing of this relief is not that technical feasibility of the products to be possible to predict as it is dependent on the decisions manufactured and sold to the commercial of individual share option and share awards holders.
+Accordingly, development costs incurred after the establishment of technical feasibility have not been significant and, therefore, no costs have been capitalised to date.
+Where no internally-generated intangible asset can be recognised, development expenditure is recognised as an expense in the period in which it is incurred.
+Paul Goodridge Finance Director Share options: The share option schemes allow Group employees to acquire shares of the Company.
+CSR plc Annual Report and Financial Statements 2005 31

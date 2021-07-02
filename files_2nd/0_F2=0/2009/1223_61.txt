@@ -1,0 +1,26 @@
+1d Critical accounting estimates and judgements The preparation of financial statements in accordance with generally accepted accounting principles requires the directors to make critical accounting estimates and judgements that affect the amounts reported in the financial statements and accompanying notes.
+These estimates and judgements are continually evaluated and are based on historical experiences and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The resulting accounting estimates will, by definition, seldom equal the related actual results.
+The estimates and assumptions that have significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+Impairment of goodwill The Group tests goodwill for impairment at least annually.
+This requires an estimation of the value in use of the cash generating units CGUs to which goodwill is allocated.
+As discussed in detail in note 15, estimating the value in use requires the Group to make an estimate of the expected future cash flows from the CGUs and also to choose a suitable discount rate in order to calculate the present values of those cash flows.
+Revenue recognition Revenue from the sale of licence agreements which are designed to meet the specific requirements of each customer is recognised on a  method basis.
+Use of this method requires the directors to estimate the total project resource requirement and also any losses on uncompleted contracts.
+Provisions for income taxes The Group is subject to income taxes in numerous jurisdictions.
+Significant judgement is required in determining the worldwide provision for income taxes.
+There are many transactions and calculations for which the ultimate tax determination is uncertain during the ordinary course of business.
+The Group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due.
+Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will impact the income tax and deferred tax provisions in the period in which such determination is made.
+Provision for impairment of trade receivables The Group assesses trade receivables for impairment which requires the directors to estimate the likelihood of payment forfeiture by customers.
+Legal settlements and other contingencies Determining the amount to be accrued for legal settlement requires the directors to estimate the committed future legal and settlement fees the Group is expecting to incur.
+Where suits are filed against the Group for infringement of patents, the directors assess the extent of any potential infringement based on legal advice and written opinions received from external counsel and then estimate the level of accrual required.
+Contingent consideration for an acquisition is recognised as part of the purchase consideration if the contingent conditions are expected to be satisfied.
+This requires the directors to estimate the acquirees future financial performance, typically more than one year post-acquisition.
+2 Segmental reporting At 31 December 2009 the Group is organised on a world-wide basis into three main business segments: Processor Division PD, encompassing those resources that are centred around microprocessor cores, including specific functions such as graphics IP, fabric IP, embedded software and configurable digital signal processing IP.
+Physical IP Division PIPD, concerned with the building blocks necessary for translation of a circuit design into actual silicon.
+Systems Design Division SDD, focused on the tools and models used to create and debug software and system-on-chip SoC designs.
+This is based upon the Groups internal organisation and management structure and is the primary way in which the CODM is provided with financial information.
+Whilst revenues are reported into four main revenue streams namely licensing, royalties, development systems and services, the costs, operating results and balance sheets are only analysed into these three divisions.
+The acquisition of Logipard in 2008 was allocated to PD, together with the related goodwill.
+The following analysis is of revenues: operating costs: investment income: interest payable: profit loss before tax: tax: profit loss after tax: depreciation: amortisation of intangible assets: share-based payment costs: capital expenditure: total assets and liabilities: net assets and goodwill for each segment and the Group in total.

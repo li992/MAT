@@ -1,0 +1,78 @@
+Risk and Basel Pillar III disclosures Risk management continued annually or in the event of a signifi cant trading portfolios.
+We consider the impact Market risk in the trading market event e. g. 11 September 2001 or for the 10 days after the event, not merely book at the discretion of senior management.
+the instantaneous shock to the markets.
+Included in our scenario analysis are for Management and measurement example the following October 1987 Traded market risk of traded market risk Black Monday, 11 September 2001 and description the December Rand crisis in 2001.
+We Market Risk Management teams review the also consider the impact of extreme yet Traded market risk is a measure of market risks on our books.
+Detailed risk plausible future economic events on the potential change in the value of a portfolio reports are produced daily for each trading trading portfolio as well as possible worst of instruments as a result of changes in desk.
+case not necessarily plausible scenarios.
+the fi financial environment resulting from Scenario analysis is done once a week and These reports are distributed to changes in underlying market risk factors management and the traders on the is included in the data presented to ERRF.
+such as interest rates, equity markets, bond desk.
+Any unauthorised excesses are markets, commodity markets, exchange All VaR models, while forward-looking, recorded and require a satisfactory rates and volatilities between now and are based on past events and depend on explanation from the desk for the excess.
+The Market Risk the quality of available market data.
+The The production of risk reports allows for Management team identifi es, quantifi es accuracy of the VaR model as a predictor the monitoring of every instrument traded and manages the effects of these potential of potential loss is continuously monitored against prescribed limits.
+New instruments changes in accordance with Basel and through back testing.
+This involves or products are independently validated policies determined by the board.
+comparing the hypothetical clean trading before trading can commence.
+Each traded revenues arising from the previous days Within our trading activities, we act as instrument undergoes various stresses closing positions with the one-day VaR principal with clients or the market.
+Market to assess potential losses.
+Each trading calculated for the previous day on these risk, therefore, exists where we have desk is monitored on an overall basis as same positions.
+If the revenue is negative taken on principal positions, resulting an additional control.
+Trading limits are and exceeds the one-day VaR, a back from proprietary trading, market making, generally tiered with the most liquid and testing breach is considered to have arbitrage, underwriting and investments in least risky instruments being assigned the occurred.
+the commodity, foreign exchange, equity, largest limits.
+The focus of In South Africa, we have internal model The Market Risk Management teams these businesses is primarily on supporting approval from the SARB and so trading perform a profi t attribution, where our daily client activity.
+Our strategic intent is that capital is calculated as a function of the traded income is attributed to the various proprietary trading should be limited and 99% 10-day VaR as well as the 99% underlying risk factors on a day-to-day that trading should be conducted largely to 10-day stressed VaR sVaR.
+An understanding of the sources of facilitate clients in deal execution.
+results and a detailed stress-testing pack profi t and loss is essential to understanding are submitted to the regulator on a monthly the risks of the business.
+In the UK, the market risk capital requirement is measured using an internal governance structure Measurement techniques used to quantify market risk arising from our trading activities risk management model, approved by To manage, measure and mitigate market the PRA, for netting certain parts of the include sensitivity analysis, value at risk risk, we have independent Market Risk VaR, stressed VaR, expected tail loss ETL portfolio, whilst the capital requirements Management teams in each geography of the whole portfolio are calculated using and extreme value theory EVT.
+Stress where we assume market risk.
+Local limits testing and scenario analysis are used to standard rules.
+have been set to keep potential losses simulate extreme conditions to supplement within acceptable risk tolerance levels.
+The graphs that follow show total daily VaR these core measures.
+A global market risk forum mandated by and profi t and loss fi gures for our trading the various boards of directors manages activities over the reporting period.
+The VaR numbers are monitored daily at the the market risks in accordance with pre- 95%, 99% and 100% maximum loss values shown are for the 99% one-day 01 approved principles and policies.
+Risk VaR, i. e. 99% of the time, the total trading confi dence intervals, with limits set at the limits are reviewed and set at the global 95% confi dence interval.
+ETLs are also activities will not be expected to lose more market risk forum and ratifi ed at the ERRF than the values depicted below.
+Based on monitored daily at the 95% and 99% levels.
+in accordance with the risk appetite defi ned Scenario analysis considers the impact of these graphs, we can gauge the accuracy by the board.
+Limits are reviewed at least of the VaR fi gures.
+This arises from the consolidation offset between various asset classes diversifi cation.
+UK and Other The average VaR utilisation was higher than in 2013, as a result of a slight increase in trading activity across all trading businesses.
+Using hypothetical clean profi t and loss data for backtesting resulted in one exception over the year at the 99% confi dence level, i. e. where the loss was greater than the 99% one-day VaR.
+This is less than expected at the 99% level and is largely due to a reduction in market volatility over the past year.
+Using hypothetical clean profi t and loss data for backtesting resulted in three exceptions as shown in the graph below, which is in line with the number of exceptions that a 99% VaR implies.
+The exceptions were due to normal trading losses, the loss in January was due to a surprise rate hike.
+Using actual profi t and loss resulted in two exceptions which is in line with expectations.
+Using hypothetical clean profi t and loss data for backtesting resulted in one exception over the year, i. e. where the loss was greater than the 99% one-day VaR.
+This is less than the expected number of exceptions at the 99% level.
+The exception was a result of a daily loss in foreign exchange positions, primarily due to a large movement in the AUD USD exchange rate.
+This arises from the correlation offset between various asset classes.
+Stress testing The table below indicates the potential losses that could arise if the portfolio is stress tested under extreme market conditions.
+The method used is known as extreme value theory EVT, the reported stress scenario below calculates the 99% EVT which is a 1-in-8 year possible loss event.
+These numbers do not assume normality but rather rely on fi tting a distribution to the tails of the distribution.
+31 March 31 March 2014 2013 Year end Average High Low Year end UK and Other using 99% EVT Equities '000 3844 2330 4390 1454 1554 Foreign exchange '000 24 30 140 6 45 Interest rates '000 1457 1420 2126 958 1820 Consolidated '000 3439 2557 4318 1668 1813 South Africa Limited using 99% EVT Commodities R'million 1.6 0.6 2.9 01 Equities R'million 6.8 20.4 46.0 3.7 41.2 Foreign exchange R'million 12.9 10.7 22.6 5.3 13.7 Interest rates R'million 6.6 27.7 74.1 5.4 23.9 Consolidated R'million 16.0 29.8 65.0 9.0 45.4 Australia using 99% EVT Commodities A$'000 4.0 Foreign exchange A$'000 12.4 167.9 692.7 3.3 75.0 Interest rates A$'000 140.3 171.5 908.1 40.6 455.9 Consolidated A$'000 137.7 232.4 682.2 58.3 434.8 Investec integrated annual report 2014 59 Risk and Basel Pillar III disclosures Risk management continued Profi t and loss histograms UK and Other The histogram below illustrates the distribution of revenue during the fi financial year for our trading businesses.
+The distribution is skewed to the profi t side and the graph shows that positive trading revenue was realised on 146 days out of a total of 254 days in the trading business.
+The average daily trading revenue generated for the year to 31 March 2014 was 132 949 2013: 102 733.
+The distribution is skewed to the profi t side and the graph shows that positive trading revenue was realised on 176 days out of a total of 250 days in the trading business.
+The average daily trading revenue generated for the year to 31 March 2014 was R1.4 million 2013: R1.3 million.
+Profit and loss Frequency: Days in a year 60 53 50 40 34 34 30 27 01 20 17 14 14 13 11 10 8 5 5 4 4 2 2 1 11 0 -9.0 -8.0 -7.0 -6.0 -5.0 -4.0 -3.0 -2.0 -1.0 0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 9.0 Profit loss earned per day Rmillion 60 Investec integrated annual report 2014 Risk and Basel Pillar III disclosures Risk management continued Australia The histogram below illustrates the distribution of daily revenue during the fi financial year for our trading businesses.
+The graph shows that positive trading revenue was realised on 165 days out of a total of 252 days in the trading business.
+The average daily trading revenue generated for the year to 31 March 2014 was A$43 715 2013: profi t of A$17 157.
+Profit and loss Frequency: Days in a year 35 30 29 25 25 23 20 20 18 17 15 14 15 10 10 10 10 9 8 7 7 7 6 5 5 5 4 2 1 0 -100 -90 -80 -70 -60 -50 -40 -30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 100 Profit loss earned per day A$thousand Non-statistical limits include product limits, trade saw a substantial drop in volumes Traded market risk mitigation tenor, notional, liquidity, buckets and causing traders to drastically cut the The market risk management team has option sensitivities greeks.
+When setting amount of risk taken in these instruments.
+a reporting line that is separate from and reviewing these limits, current market the trading function, thereby ensuring In London, there has been ongoing growth conditions are taken into account.
+The risk management in client activity across the Interest Rate limits are set on time buckets, generally at software runs independently from source and Foreign Exchange Corporate Sales three-month intervals out to two years trading systems and values all trades desks.
+The Structured Equity desks retail and then, on a less granular basis, out to separately.
+The values from the two product sales have remained strong and 30 years.
+The values they continue to develop both their product from the risk system are also used for profi t It is risk policy that any signifi cant open range and distribution capacity.
+Equity attribution, another risk management tool.
+position in a foreign currency is held in the market making has continued to expand its trading book.
+These positions are managed coverage of stocks.
+Risk limits are set according to guidelines within approved limits and monitored within set out in our risk appetite policy and are Australian trading activity remains modest, VaR models.
+calculated on a statistical and non-statistical with limited appetite for traded market basis.
+Statistical limits include VaR and ETL risk exposures.
+Client activity continues Traded market risk year in analyses at various confi dence intervals.
+to increase on the back of improved deal review 01 Historical VaR is used over 510 days of activity and a broader product offering.
+Market moves in South Africa have been unweighted data, where every risk factor largely driven by events in international is exposed to daily moves over the past two markets.
+Uncertain markets as well as years.
+With the equity markets for example, the drop in volumes of trade has caused every share and index is considered traders to reduce risks in their trading independently as opposed to techniques books.
+In particular Equity Index derivatives where proxies are used.

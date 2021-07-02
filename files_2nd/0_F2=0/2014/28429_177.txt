@@ -1,0 +1,157 @@
+European Embedded Value Financial statements EEV basis results Notes on the EEV basis results Prudential plc Annual Report 2014 297 New business contribution 2014 m 2013 m Total Total UK long-term UK long-term Asia US insurance business Asia US insurance business operations operations operations operations operations operations operations operations Post-tax new business note 3 contribution 1,162 694 270 2,126 1,139 706 237 2,082 Maintenance expenses 10% decrease 23 8 3 34 23 8 3 34 Lapse rates 10% decrease 88 27 6 121 85 27 6 118 Mortality and morbidity 5% decrease 52 2 20 34 58 4 6 56 Change representing effect on: Life business 52 2 1 55 58 4 2 64 UK annuities 21 21 9 9 The 2014 EEV results of the Group are presented on a post-tax basis and, accordingly, the 2013 results are shown on a comparable basis see note 1.
+Embedded value of long-term business operations 2014 m 2013 m Total Total UK long-term UK long-term Asia US insurance business Asia US insurance business operations operations operations operations operations operations operations operations note 12 Shareholders' equity 12,312 8,379 8,433 29,124 10,305 6,966 7,342 24,613 Maintenance expenses 10% decrease 136 71 56 263 126 59 58 243 Lapse rates 10% decrease 422 354 67 843 352 294 79 725 Mortality and morbidity 5% decrease 433 163 347 249 377 154 254 277 Change representing effect on: Life business 433 163 9 605 377 154 20 551 UK annuities 356 356 274 274 16 Methodology and accounting presentation a Methodology Overview The embedded value is the present value of the shareholders interest in the earnings distributable from assets allocated to covered business after sufficient allowance has been made for the aggregate risks in that business.
+The shareholders interest in the Groups long-term business comprises: The present value of future shareholder cash flows from in-force covered business value of in-force business, less deductions for: The cost of locked-in required capital: and The time value of cost of options and guarantees: Locked-in required capital: and The shareholders net worth in excess of required capital free surplus.
+The value of future new business is excluded from the embedded value.
+Notwithstanding the basis of presentation of results as explained in note 16 b iii, no smoothing of market or account balance values, unrealised gains or investment return is applied in determining the embedded value or profit.
+Separately, the analysis of profit is delineated between operating profit based on longer-term investment returns and other constituent items as explained in note 16 b i.
+298 Prudential plc Annual Report 2014 Financial statements Notes on the EEV basis results Notes on the EEV basis results continued 16 Methodology and accounting presentation continued i Covered business The EEV results for the Group are prepared for covered business, as defined by the EEV Principles.
+Covered business represents the Groups long-term insurance business for which the value of new and in-force contracts is attributable to shareholders.
+The post-tax EEV basis results for the Groups covered business are then combined with the post-tax IFRS basis results of the Groups other operations.
+Under the EEV Principles, the results for covered business incorporate the projected margins of attaching internal asset management, as described in note 16 a vii.
+The definition of long-term business operations is consistent with previous practice and comprises those contracts falling under the definition for regulatory purposes together with, for US operations, contracts that are in substance the same as guaranteed investment contracts GICs but do not fall within the technical definition.
+Covered business comprises the Groups long-term business operations, with two exceptions: The closed Scottish Amicable Insurance Fund SAIF which is excluded from covered business.
+SAIF is a ring-fenced sub-fund of the Prudential Assurance Company PAC long-term fund, established by a Court Approved Scheme of Arrangement in October 1997.
+SAIF is closed to new business and the assets and liabilities of the fund are wholly attributable to the policyholders of the fund: and The presentational treatment of the Groups principal defined benefit pension scheme, the Prudential Staff Pension Scheme PSPS.
+The partial recognition of the surplus for PSPS is recognised in Other operations.
+A small amount of UK Group pensions business is also not modelled for EEV reporting purposes.
+ii Valuation of in-force and new business The embedded value results are prepared incorporating best estimate assumptions about all relevant factors including levels of future investment returns, expenses, persistency and mortality as described in note 17.
+These assumptions are used to project future cash flows.
+The present value of the future cash flows is then calculated using a discount rate which reflects both the time value of money and the non-diversifiable risks associated with the cash flows that are not otherwise allowed for.
+New business In determining the EEV basis value of new business, premiums are included in projected cash flows on the same basis of distinguishing annual and single premium business as set out for statutory basis reporting.
+New business premiums reflect those premiums attaching to covered business, including premiums for contracts classified as investment products for IFRS basis reporting.
+New business premiums for regular premium products are shown on an annualised basis.
+Internal vesting business is classified as new business where the contracts include an open market option.
+The post-tax contribution from new business represents profits determined by applying operating assumptions as at the end of the year.
+For UK immediate annuity business and single premium Universal Life products in Asia, primarily in Singapore, the new business contribution is determined by applying economic assumptions reflecting point-of-sale market conditions.
+This is consistent with how the business is priced as crediting rates are linked to yields on specific assets and the yield is locked-in when the assets are purchased at the point-of-sale of the policy.
+For other business within the Group, end-of-year economic assumptions are used.
+New business profitability is a key metric for the Groups management of the development of the business.
+In addition, post-tax new business margins are shown by reference to annual premium equivalents APE and the present value of new business premiums PVNBP.
+These margins are calculated as the percentage of the value of new business profit to APE and PVNBP.
+APE is calculated as the aggregate of regular new business amounts and one-tenth of single new business amounts.
+PVNBP is calculated as equalling single premiums plus the present value of expected premiums of new regular premium business, allowing for lapses and other assumptions made in determining the EEV new business contribution.
+Valuation movements on investments With the exception of debt securities held by Jackson, investment gains and losses during the year to the extent that changes in capital values do not directly match changes in liabilities are included directly in the profit for the year and shareholders equity as they arise.
+The results for any covered business conceptually reflect the aggregate of the IFRS results and the movements on the additional shareholders interest recognised on the EEV basis.
+Thus the start point for the calculation of the EEV results for Jackson, as for other businesses, reflects the market value movements recognised on the IFRS basis.
+However, in determining the movements on the additional shareholders interest, the basis for calculating the Jackson EEV result acknowledges that, for debt securities backing liabilities, the aggregate EEV results reflect the fact that the value of in-force business instead incorporates the discounted value of future spread earnings.
+This value is not affected generally by short-term market movements on securities that broadly speaking, are held for the longer term.
+Fixed income securities backing the free surplus and required capital for Jackson are accounted for at fair value.
+However, consistent with the treatment applied under IFRS for Jackson securities classified as available-for-sale, movements in unrealised appreciation on these securities are accounted for in equity rather than in the income statement, as shown in the movement in shareholders equity.
+European Embedded Value Financial statements EEV basis results Notes on the EEV basis results Prudential plc Annual Report 2014 299 iii Cost of capital A charge is deducted from the embedded value for the cost of capital supporting the Groups long-term business.
+This capital is referred to as required capital.
+The cost is the difference between the nominal value of the capital and the discounted value of the projected releases of this capital allowing for investment earnings post-tax on the capital.
+The annual result is affected by the movement in this cost from year-to-year which comprises a charge against new business profit and generally a release in respect of the reduction in capital requirements for business in force as this runs off.
+Where required capital is held within a with-profits long-term fund, the value placed on surplus assets in the fund is already discounted to reflect its release over time, and no further adjustment is necessary in respect of required capital.
+iv Financial options and guarantees Nature of financial options and guarantees in Prudentials long-term business Asia operations Subject to local market circumstances and regulatory requirements, the guarantee features described below in respect of UK business broadly apply to similar types of participating contracts principally written in Hong Kong, Singapore and Malaysia.
+Participating products have both guaranteed and non-guaranteed elements.
+There are also various non-participating long-term products with guarantees.
+The principal guarantees are those for whole of life contracts with floor levels of policyholder benefits that accrue at rates set at inception and do not vary subsequently with market conditions.
+US operations Jackson The principal financial options and guarantees in Jackson are associated with the fixed annuity and variable annuity VA lines of business.
+Fixed annuities provide that, at Jacksons discretion, it may reset the interest rate credited to policyholders accounts, subject to a guaranteed minimum.
+The guaranteed minimum return varies from 1.0 per cent to 5.5 per cent for 2014 and 2013, depending on the particular product, jurisdiction where issued, and date of issue.
+For 2014, 86 per cent 2013: 86 per cent of the account values on fixed annuities are for policies with guarantees of 3 per cent or less.
+The average guarantee rate is 2.7 per cent 2013: 2.8 per cent.
+Fixed annuities also present a risk that policyholders will exercise their option to surrender their contracts in periods of rapidly rising interest rates, possibly requiring Jackson to liquidate assets at an inopportune time.
+Jackson issues VA contracts where it contractually guarantees to the contract holder either: a return of no less than total deposits made to the contract adjusted for any partial withdrawals: b total deposits made to the contract adjusted for any partial withdrawals plus a minimum return: or c the highest contract value on a specified anniversary date adjusted for any withdrawals following the specified contract anniversary.
+These guarantees include benefits that are payable at specified dates during the accumulation period Guaranteed Minimum Withdrawal Benefit GMWB, as death benefits Guaranteed Minimum Death Benefits GMDB or as income benefits Guaranteed Minimum Income Benefits GMIB.
+These guarantees generally protect the policyholders value in the event of poor equity market performance.
+Jackson hedges the GMDB and GMWB guarantees through the use of equity options and futures contracts, and fully reinsures the GMIB guarantees.
+Jackson also issues fixed index annuities that enable policyholders to obtain a portion of an equity-linked return while providing a guaranteed minimum return.
+The guaranteed minimum returns are of a similar nature to those described above for fixed annuities.
+UK insurance operations For covered business, the only significant financial options and guarantees in the UK insurance operations arise in the with-profits fund.
+With-profits products provide returns to policyholders through bonuses that are smoothed.
+There are two types of bonuses annual and final.
+Annual bonuses are declared once a year and, once credited, are guaranteed in accordance with the terms of the particular product.
+Unlike annual bonuses, final bonuses are guaranteed only until the next bonus declaration.
+The with-profits fund also held a provision on the Pillar I Peak 2 basis of 50 million at 31 December 2014 31 December 2013: 36 million to honour guarantees on a small number of guaranteed annuity option products.
+The Groups main exposure to guaranteed annuity options in the UK is through the non-covered business of SAIF.
+A provision on the Pillar I Peak 2 basis of 549 million was held in SAIF at 31 December 2014 31 December 2013: 328 million to honour the guarantees.
+As described in note 16 a i, the assets and liabilities are wholly attributable to the policyholders of the fund.
+Therefore the movement in the provision has no direct impact on shareholders.
+Time value The value of financial options and guarantees comprises two parts.
+One is given by a deterministic valuation on best estimate assumptions the intrinsic value.
+The other part arises from the variability of economic outcomes in the future the time value.
+Where appropriate, a full stochastic valuation has been undertaken to determine the time value of the financial options and guarantees.
+The economic assumptions used for the stochastic calculations are consistent with those used for the deterministic calculations.
+Assumptions specific to the stochastic calculations reflect local market conditions and are based on a combination of actual market data, historic market data and an assessment of long-term economic conditions.
+Common principles have been adopted across the Group for the stochastic asset models, for example, separate modelling of individual asset classes but with an allowance for correlation between the various asset classes.
+Details of the key characteristics of each model are given in notes 17 iv, v and vi.
+In deriving the time value of financial options and guarantees, management actions in response to emerging investment and fund solvency conditions have been modelled.
+Management actions encompass, but are not confined to, investment allocation decisions, levels of reversionary and terminal bonuses and credited rates.
+Bonus rates are projected from current levels and varied in accordance with assumed management actions applying in the emerging investment and fund solvency conditions.
+300 Prudential plc Annual Report 2014 Financial statements Notes on the EEV basis results Notes on the EEV basis results continued 16 Methodology and accounting presentation continued In all instances, the modelled actions are in accordance with approved local practice and therefore reflect the options actually available to management.
+For the PAC with-profits fund, the actions assumed are consistent with those set out in the Principles and Practices of Financial Management which explains how regular and final bonus rates within the discretionary framework are determined, subject to the general legislative requirements applicable.
+v Level of required capital In adopting the EEV Principles, Prudential has based required capital on its internal targets subject to it being at least the local statutory minimum requirements.
+For with-profits business written in a segregated life fund, as is the case in Asia and the UK, the capital available in the fund is sufficient to meet the required capital requirements.
+For shareholder-backed business the following capital requirements apply: Asia operations: the level of required capital has been set to an amount at least equal to the higher of local statutory requirements and the internal target: US operations: the level of required capital has been set at 250 per cent of the risk-based capital required by the National Association of Insurance Commissioners NAIC at the Company Action Level CAL : and UK insurance operations: the capital requirements are set to an amount at least equal to the higher of Pillar I and Pillar II requirements for shareholder-backed business of UK insurance operations as a whole.
+vi With-profits business and the treatment of the estate The proportion of surplus allocated to shareholders from the PAC with-profits fund has been based on the present level of 10 per cent.
+The value attributed to the shareholders interest in the estate is derived by increasing final bonus rates and related shareholder transfers so as to exhaust the estate over the lifetime of the in-force with-profits business.
+In any scenarios where the total assets of the life fund are insufficient to meet policyholder claims in full, the excess cost is fully attributed to shareholders.
+Similar principles apply, where appropriate, for other with-profits funds of the Groups Asia operations.
+vii Internal asset management The new business and in-force results from long-term business include the projected value of profits or losses from asset management and service companies that support the Groups covered insurance businesses.
+The results of the Groups asset management operations include the current year profits from the management of both internal and external funds.
+EEV basis shareholders other income and expenditure is adjusted to deduct the unwind of the expected internal asset management profit margin for the year.
+The deduction is on a basis consistent with that used for projecting the results for covered insurance business.
+Group operating profit accordingly includes the variance between actual and expected profit in respect of management of the covered business assets.
+viii Allowance for risk and risk discount rates Overview Under the EEV Principles, discount rates used to determine the present value of future cash flows are set by reference to risk-free rates plus a risk margin.
+The risk margin should reflect any non-diversifiable risk associated with the emergence of distributable earnings that is not allowed for elsewhere in the valuation.
+Prudential has selected a granular approach to better reflect differences in market risk inherent in each product group.
+The risk discount rate so derived does not reflect an overall Group market beta, but instead reflects the expected volatility associated with the cash flows for each product category in the embedded value model.
+Since financial options and guarantees are explicitly valued under the EEV methodology, discount rates under EEV are set excluding the effect of these product features.
+The risk margin represents the aggregate of the allowance for market risk, additional allowance for credit risk where appropriate, and allowance for non-diversifiable non-market risk.
+No allowance is required for non-market risks where these are assumed to be fully diversifiable.
+Market risk allowance The allowance for market risk represents the beta multiplied by an equity risk premium.
+Except for UK shareholder-backed annuity business as explained opposite such an approach has been used for all of the Groups businesses.
+The beta of a portfolio or product measures its relative market risk.
+The risk discount rates reflect the market risk inherent in each product group and hence the volatility of product cash flows.
+These are determined by considering how the profits from each product are affected by changes in expected returns on various asset classes.
+By converting this into a relative rate of return, it is possible to derive a product-specific beta.
+Product level betas reflect the most recent product mix to produce appropriate betas and risk discount rates for each major product grouping.
+European Embedded Value Financial statements EEV basis results Notes on the EEV basis results Prudential plc Annual Report 2014 301 Additional credit risk allowance The Groups methodology is to allow appropriately for credit risk.
+The allowance for total credit risk is to cover: Expected long-term defaults: Credit risk premium to reflect the volatility in downgrade and default levels : and Short-term downgrades and defaults.
+These allowances are initially reflected in determining best estimate returns and through the market risk allowance described above.
+However, for those businesses largely backed by holdings of debt securities, these allowances in the projected returns and market risk allowances may not be sufficient, and an additional allowance may be appropriate.
+The practical application of the allowance for credit risk varies depending upon the type of business as described below.
+Asia operations For Asia operations, the allowance for credit risk incorporated in the projected rates of return and the market risk allowance are sufficient.
+Accordingly no additional allowance for credit risk is required.
+The projected rates of return for holdings of corporate bonds comprise the risk-free rate plus an assessment of long-term spread over the risk-free rate.
+US operations Jackson For Jackson business, the allowance for long-term defaults is reflected in the risk margin reserve RMR charge which is deducted in determining the projected spread margin between the earned rate on the investments and the policyholder crediting rate.
+The risk discount rate incorporates an additional allowance for credit risk premium and short-term downgrades and defaults as shown in note 17 ii.
+In determining this allowance, a number of factors have been considered.
+These factors, in particular, include: a How much of the credit spread on debt securities represents an increased credit risk not reflected in the RMR long-term default assumptions, and how much is liquidity premium which is the premium required by investors to compensate for the risk of longerterm investments which cannot be easily converted into cash, and converted at the fair market value.
+In assessing this effect, consideration has been given to a number of approaches to estimating the liquidity premium by considering recent statistical data: and b Policyholder benefits for Jackson fixed annuity business are not fixed.
+It is possible, in adverse economic scenarios, to pass on a component of credit losses to policyholders subject to guarantee features through lower investment return rates credited to policyholders.
+Consequently, it is only necessary to allow for the balance of the credit risk in the risk discount rate.
+The level of the additional allowance is assessed at each reporting period to take account of prevailing credit conditions and as the business in force alters over time.
+The additional allowance for variable annuity business has been set at one-fifth of the non-variable annuity business to reflect the proportion of the allocated holdings of general account debt securities.
+The level of allowance differs from that for UK annuity business for investment portfolio differences and to take account of the management actions available in adverse economic scenarios to reduce crediting rates to policyholders, subject to guarantee features of the products.
+UK operations 1 Shareholder-backed annuity business For Prudentials UK shareholder-backed annuity business, Prudential has used a market consistent embedded value MCEV approach to derive an implied risk discount rate which is then applied to the projected best estimate cash flows.
+In the annuity MCEV calculations, as the assets are generally held to maturity to match long duration liabilities, the future cash flows are discounted using the swap yield curve plus an allowance for liquidity premium based on Prudentials assessment of the expected return on the assets backing the annuity liabilities after allowing for: a Expected long-term defaults derived as a percentage of historical default experience based on Moodys data for the period 1970 to 2009 and the definition of the credit rating assigned to each asset held is the second highest credit rating published by Moodys, Standard & Poors and Fitch: b A credit risk premium, which is derived as the excess over the expected long-term defaults, of the 95th percentile of historical cumulative defaults based on Moodys data for the period 1970 to 2009, and subject to a minimum margin over expected long-term defaults of 50 per cent: c An allowance for a 1-notch downgrade of the asset portfolio subject to credit risk: and d An allowance for short-term downgrades and defaults.
+For the purposes of presentation in the EEV results, the results on this basis are reconfigured.
+Under this approach, the projected earned rate of return on the debt securities held is determined after allowing for expected long-term defaults and, where necessary, an additional allowance for an element of short-term downgrades and defaults to bring the allowance in the earned rate up to best estimate levels.
+The allowances for credit risk premium, 1-notch downgrade and the remaining element of short-term downgrade and default allowances are incorporated into the risk margin included in the discount rate, as shown in note 17 iii b.
+302 Prudential plc Annual Report 2014 Financial statements Notes on the EEV basis results Notes on the EEV basis results continued 16 Methodology and accounting presentation continued 2 With-profits fund non-profit annuity business For UK non-profit annuity business including that attributable to the PAC with-profits fund, the basis for determining the aggregate allowance for credit risk is consistent with that applied for UK shareholder-backed annuity business as described previously.
+The allowance for credit risk for this business is taken into account in determining the projected cash flows to the with-profits fund, which are in turn discounted at the risk discount rate applicable to all of the projected cash flows of the fund.
+3 With-profits fund holdings of debt securities The UK with-profits fund holds debt securities as part of its investment portfolio backing policyholder liabilities and unallocated surplus.
+The assumed earned rate for with-profit holdings of corporate bonds is defined as the risk-free rate plus an assessment of the long-term spread over gilts, net of expected long-term defaults.
+This approach is similar to that applied for equities and properties for which the projected earned rate is defined as the risk-free rate plus a long-term risk premium.
+Allowance for non-diversifiable non-market risks The majority of non-market and non-credit risks are considered to be diversifiable.
+Finance theory cannot be used to determine the appropriate component of beta for non-diversifiable non-market risks since there is no observable risk premium associated with it that is akin to the equity risk premium.
+Recognising this, a pragmatic approach has been applied.
+A base level allowance of 50 basis points is applied to cover the non-diversifiable non-market risks associated with the Groups businesses.
+For the Groups US business and UK business, other than shareholder-backed annuity, no additional allowance is necessary.
+For UK shareholder-backed annuity business, a further allowance of 50 basis points is used to reflect the longevity risk which is of particular relevance.
+For the Groups Asia operations in China, India, Indonesia, the Philippines, Taiwan, Thailand and Vietnam, additional allowances are applied for emerging market risk ranging from 100 to 250 basis points.
+ix Foreign currency translation Foreign currency profits and losses have been translated at average exchange rates for the year.
+Foreign currency assets and liabilities have been translated at year end rates of exchange.
+The principal exchange rates are shown in note A1 of the IFRS statements.
+x Taxation In determining the post-tax profit for the year for covered business, the overall tax rate includes the impact of tax effects determined on a local regulatory basis.
+Tax payments and receipts included in the projected cash flows to determine the value of in-force business are calculated using rates that have been announced and substantively enacted by the end of the reporting period.
+xi Intercompany arrangements The EEV results for covered business incorporate annuities established in the PAC non-profit sub-fund from vesting pension polices in SAIF which is not covered business.
+The EEV results also incorporate the effect of the reinsurance arrangement of non-profit immediate pension annuity liabilities of SAIF to PRIL.
+In addition, the free surplus and value of in-force business are calculated after taking account of the impact of contingent loan arrangements between Group companies movements in the contingent loan liability are reflected via the projected cash flows in the value of in-force and the related funding is reflected in free surplus.
+b Accounting presentation i Analysis of post-tax profit To the extent applicable, the presentation of the EEV post-tax profit for the year is consistent in the classification between operating and non-operating results with the basis that the Group applies for the analysis of IFRS basis results.
+Operating results reflect underlying results including longer-term investment returns which are determined as described in note 16 b ii opposite and incorporate the following: New business contribution, as defined in note 16 a ii : Unwind of discount on the value of in-force business and other expected returns, as described in note 16 b iii opposite: The impact of routine changes of estimates relating to non-economic assumptions, as described in note 16 b iv opposite: and Non-economic experience variances, as described in note 16 b v opposite.
+Non-operating results comprise the following: Short-term fluctuations in investment returns: The mark to market value movements on core borrowings: The effect of changes in economic assumptions: The gain on sale of PruHealth and PruProtect businesses in 2014: The costs associated with the domestication of the Hong Kong branch which became effective on 1 January 2014: and The loss attaching to the held for sale Japan life business.
+Total profit attributable to shareholders and basic earnings per share include these items, together with actual investment returns.
+The Company believes that operating profit, as adjusted for these items, better reflects underlying performance.

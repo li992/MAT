@@ -1,0 +1,18 @@
+The Autonomy Solution Autonomy develops, markets and sells enterprise-wide infrastructure technology that automatically organizes and analyzes unstructured and structured data in real-time.
+Autonomy's core IDOL technology provides a platform for the automatic categorization, tagging, linking, retrieval and profiling of all forms of unstructured information regardless of repository, thereby enabling the automatic delivery of large volumes of pertinent information.
+Autonomy's horizontal technology is broadly applicable and suitable for any vertical market or application, enabling Autonomy to understand the significance of information in any organization and across a wide range of software markets through our own products and those of our OEM customers.
+Autonomy's technology is based upon advanced pattern matching and concept extraction rather than keyword or legacy-based approaches, and is covered by thirteen patents with multiple applications pending.
+Unlike keyword-based technologies, Autonomy automatically analyzes, identifies and prioritizes the main concepts within any piece of content, enabling customers to automate a broad range of business critical tasks previously dependent upon lengthy, manually intensive processes.
+For example, Autonomy enables customer service departments to automatically process, categorize and distribute customer emails, thereby accelerating response times and driving customer satisfaction.
+Autonomy assists media professionals and publishing professionals in their daily activities by monitoring news feeds and producing automatic summaries of pertinent information and alerting journalists to relevant content.
+Finally, by profiling website users' habits and information consumption, Autonomy fosters an interactive relationship with customers by automatically suggesting suitable products.
+Autonomy's technology is horizontal, fully scalable and language independent, thereby making it the sensible choice for customers in all vertical markets.
+Over 1,000 enterprises, government and intelligence agencies and software developers worldwide have IDOL at the center of their organizations, automating critical information and over 60 third party OEMs including BEA, Computer Associates, Veritas and Novell have acknowledged the power and business potential of IDOL by embedding it at the core of their products.
+There is a lot of useful information out there, but the key to using it is to first make sense of it.
+This entails understanding the content, sending it to the right person and linking it to other pertinent information and people.
+That is what Autonomy, uniquely, now enables us to do.
+"Jean-Pierre Krause, Zurich Risk Engineering Group's Head Office 08 The Autonomy Solution ""Autonomy does not require a mutually exclusive decision between automation and manual control."
+Combining automatic processing with a variety of human controllable overrides removes Autonomy from the purely automatic category of taxonomy vendors.
+Users can add rules, rename or modify the taxonomy structure to suit their needs.
+"Autonomy's holistic approach resolves the business issues associated with all types of unstructured data. """
+Delphi, Taxonomy and Content Classification

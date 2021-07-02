@@ -1,0 +1,9 @@
+COMPANY_NNP BALANCE_NNP SHEET_NNP at_IN 30th_JJ June_NNP 2003_CD N_NNP o_FW t_FW e_SYM 2_CD 0_CD 0_CD 3_CD 2_CD 0_CD 0_CD 2_CD m_NN m_NN FIXED_VBN ASSETS_NNP Investment_NNP in_IN subsidiary_NN undert_VBD a_DT k_NN i_FW n_FW g_FW s1_FW 1_CD 6_CD 0_CD ._.
+7_CD Investments_NNPS :_: interest_NN in_IN own_JJ share_NN s1_CD 1_CD 1_CD 5_CD ._.
+4_CD CURRENT_NNP ASSETS_NNP Debtors_NNS due_RB from_IN subsidiary_NN undertakings_NNS within_IN one_CD year_NN 2_CD 9_CD 4_CD ._.
+4_CD Debtors_NNS due_JJ from_IN subsidiary_NN undertakings_NNS after_IN more_JJR than_IN one_CD year_NN 6_CD 1_CD ._.
+6_CD Other_JJ debtors_NNS due_JJ within_IN one_CD year1_CD 3_CD 4_CD ._.
+3_CD CURRENT_NNP LIABILITIES_NNP C_NNP reditors_NNS due_JJ to_TO subsidiary_NN undertakings_NNS within_IN one_CD year_NN 4_CD 5_CD ._.
+0_CD Other_JJ creditors_NNS due_JJ within_IN one_CD year1_CD 4_CD 4_CD 9_CD ._.
+4_CD C_NNP A_NNP P_NNP I_PRP TAL_VBP AND_CC RESERV_VBP E_NNP S_NNP Called_VBD up_RP share_NN capital1_CD 8_CD 2_CD 3_CD ._.
+4_CD 4_CD 9_CD A_DT p_NN p_NN roved_VBN by_IN the_DT Board_NNP on_IN 9th_CD October_NNP 2003_CD C_NNP G_NNP Toner_NNP D_NNP i_FW re_FW c_NN t_NN o_NN r_NN s_VBZ -RCB-_-RRB- C_NNP A_NNP Dearlove_NNP

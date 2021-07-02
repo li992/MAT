@@ -1,0 +1,301 @@
+5_CD
+A_DT
+total_NN
+of_PIN
+$_$
+154_CD
+million_CD
+Notes_NN
+were_VBD [PASS]
+issued_VBN
+on_PIN
+3_CD
+October_NN
+2003_CD
+._.
+3_CD
+A_DT
+total_NN
+of_PIN
+75.5_CD
+million_CD
+Notes_NN
+were_VBD [PASS]
+issued_VBN
+on_PIN
+6_CD
+October_NN
+2003_CD
+._.
+6_CD
+These_DEMO
+borrowings_GER
+have_VPRT [PEAS]
+been_VBN [PASS]
+hedged_VBN
+into_PIN
+Sterling_GER
+from_PIN
+the_DT
+date_NN
+of_PIN
+issue_NN
+._.
+4_CD
+These_DEMO
+Notes_NN
+were_VBD [PASS]
+redeemed_VBN
+and_PHC
+canceled_VBN
+on_PIN
+7_CD
+July_NN
+2003_CD
+._.
+7_CD
+Cash_NN
+and_PHC
+deposits_NN
+not_XX0
+subject_JJ
+to_PIN
+a_DT
+security_NOMZ
+interest_NN
+amount_NN
+to_PIN
+82.5_CD
+m_NN [BEMA]
+2003_CD
+:_:
+45.9_CD
+m._NN
+Notes_NN
+to_PIN
+the_DT
+Financial_NN
+Statements_NOMZ
+The_NN
+British_NN
+Land_NN
+Company_NN
+PLC_NN
+15_CD
+Net_JJ
+debt_NN
+continued_VBD
+Group_NN
+Interest_NN
+rate_NN
+profile_NN
+including_VBG [WZPRES]
+effect_NN
+of_PIN
+derivatives_NN
+2004_CD
+2003_CD
+m_NN [PASS]
+m_NN [PASS]
+Fixed_VBN
+rate_NN
+3,985.7_CD
+3,543.8_CD
+Capped_VBN
+rate_NN
+100.0_CD
+100.0_CD
+81_CD
+Variable_JJ
+rate_NN
+net_NN
+of_PIN
+cash_NN
+781.1_CD
+717.6_CD
+Net_JJ
+debt_NN
+4,866.8_CD
+4,361.4_CD
+All_QUAN
+the_DT
+above_PLACE
+debt_NN
+is_VPRT
+effectively_RB
+Sterling_GER
+based_VBN [WZPAST]
+except_PIN
+for_PIN
+64.6_CD
+m_NN [BEMA]
+2003_CD
+:_:
+120.7_CD
+m_NN [BEMA]
+of_PIN
+Euro_NN
+debt_NN
+of_PIN
+which_WDT [PIRE]
+31.8_CD
+m_NN [BEMA]
+2003_CD
+:_:
+57.4_CD
+m_NN
+is_VPRT [PASS]
+fixed_VBN
+and_CC
+the_DT
+balance_NN
+floating_VBG [WZPRES]
+._.
+At_PIN
+31_CD
+March_NN
+2004_CD
+the_DT
+weighted_JJ
+average_JJ
+interest_NN
+rate_NN
+of_PIN
+the_DT
+Sterling_GER
+fixed_VBN
+rate_NN
+debt_NN
+is_VPRT [BEMA]
+6.72_CD
+%_NN
+2003_CD
+:_:
+6.78_CD
+%_NN
+._.
+The_DT
+weighted_JJ
+average_JJ
+period_NN
+for_PIN
+which_WDT [PIRE]
+the_DT
+rate_NN
+is_VPRT [PASS]
+fixed_VBN
+is_VPRT [BEMA]
+17.9_CD
+years_NN
+2003_CD
+:_:
+19.3_CD
+years_NN
+._.
+The_DT
+Irredeemable_JJ
+Convertible_JJ
+Bond_NN
+is_VPRT [PASS]
+treated_VBN
+as_IN
+having_VBG
+a_DT
+life_NN
+of_PIN
+100_CD
+years_NN
+for_PIN
+this_DEMO
+calculation_NOMZ
+._.
+The_DT
+weighted_JJ
+average_JJ
+interest_NN
+rate_NN
+for_PIN
+the_DT
+Euro_NN
+fixed_VBN
+rate_NN
+debt_NN
+is_VPRT [BEMA]
+4.25_CD
+%_NN
+2003_CD
+:_:
+4.00_CD
+%_NN
+and_CC
+the_DT
+weighted_JJ
+average_JJ
+period_NN
+for_PIN
+which_WDT [PIRE]
+the_DT
+rate_NN
+is_VPRT [PASS]
+fixed_VBN
+is_VPRT [BEMA]
+1.4_CD
+years_NN
+2003_CD
+:_:
+1.9_CD
+years_NN
+._.
+The_DT
+floating_VBG
+rate_NN
+debt_NN
+is_VPRT [PASS]
+set_VBN
+for_PIN
+periods_NN
+of_PIN
+the_DT
+companys_NN
+choosing_VBG [WZPRES]
+based_VBN
+on_PIN
+the_DT
+relevant_JJ
+LIBOR_NN
+or_CC
+similar_JJ
+rate_NN
+._.
+Total_JJ
+borrowings_GER
+where_RB
+any_QUAN
+instalments_NOMZ
+are_VPRT [BEMA]
+due_PRED
+after_IN
+five_CD
+years_NN
+is_VPRT [BEMA]
+3,266.6_CD
+m_NN [BEMA]
+2003_CD
+:_:
+2,866.3_CD
+m._FW
+Details_NN
+of_PIN
+the_DT
+financing_GER
+policy_NN
+and_PHC
+risk_NN
+management_NOMZ
+are_VPRT [PASS]
+set_VBN
+out_PIN
+on_PIN
+page_NN
+56_CD
+._.

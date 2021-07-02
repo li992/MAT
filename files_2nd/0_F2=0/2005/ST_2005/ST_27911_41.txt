@@ -1,0 +1,8 @@
+OWN_NNP SHARES_NNP 2005_CD 2004_CD m_NN m_NN Treasury_NNP shares_NNS At_IN 1_CD October_NNP 2004_CD -_: -_: Shares_NNP purchased_VBD 8.3_CD -_: At_IN 30_CD September_NNP 2005_CD 8.3_CD -_: ESOP_NNP shares_NNS At_IN 1_CD October_NNP 2004_CD 12.3_CD 9.8_CD Shares_NNP purchased_VBD 4.1_CD 2.9_CD Options_NNS exercised_VBN 1.9_CD 0.4_CD At_IN 30_CD September_NNP 2005_CD 14.5_CD 12.3_CD 22.8_CD 12.3_CD At_IN 30_CD September_NNP 2005_CD the_DT number_NN of_IN the_DT Companys_NNP own_JJ shares_NNS held_VBN in_IN treasury_NN was_VBD 1,790,000_CD 2004_CD :_: nil_NN ._.
+These_DT shares_NNS had_VBD a_DT nominal_JJ value_NN of_IN 179,000_CD 2004_CD :_: nil_NN ._.
+The_DT dividends_NNS on_IN these_DT shares_NNS have_VBP been_VBN waived_VBN ._.
+The_DT ESOP_NNP shares_NNS are_VBP held_VBN in_IN trust_NN for_IN the_DT benefit_NN of_IN employees_NNS exercising_VBG their_PRP$ options_NNS under_IN the_DT Companys_NNP share_NN option_NN schemes_NNS and_CC awards_NNS under_IN the_DT Paragon_NNP Performance_NNP Share_NNP Plan_NNP and_CC Deferred_NNP Bonus_NNP Scheme_NNP ._.
+The_DT trustees_NNS costs_NNS are_VBP included_VBN in_IN the_DT operating_NN expenses_NNS of_IN the_DT Company_NN ._.
+Options_NNS ,_, or_CC awards_NNS under_IN the_DT Paragon_NNP Performance_NNP Share_NNP Plan_NNP or_CC Deferred_NNP Bonus_NNP Scheme_NNP were_VBD outstanding_JJ against_IN 5,952,101_CD of_IN these_DT shares_NNS at_IN 30_CD September_NNP 2005_CD 2004_CD :_: 6,030,042_CD ._.
+The_DT dividends_NNS on_IN these_DT shares_NNS have_VBP not_RB been_VBN waived_VBN ._.
+The_DT Paragon_NNP Group_NNP of_IN Companies_NNPS PLC_NNP 53_CD

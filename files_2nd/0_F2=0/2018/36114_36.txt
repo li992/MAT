@@ -1,0 +1,509 @@
+Financial statements Notes forming part of the consolidated financial statements for the year ended 31 December 2018 1.
+Accounting policies General information Funding Circle Holdings plc the Company, previously Funding Circle Holdings Limited, is a public limited company which is listed on the London Stock Exchange and is domiciled and incorporated in the United Kingdom under the Companies Act 2006.
+The address of its registered office is given on page 141.
+The consolidated financial statements of the Company for the year ended 31 December 2018 comprise the Company and its subsidiaries together referred to as the Group and individually as Group entities.
+The principal accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated.
+Going concern The Groups business activities together with the factors likely to affect its future development and position are set out in the Strategic Report.
+The Group made a total comprehensive loss of 46.9 million during the year ended 31 December 2018 2017: loss of 37.2 million, as a result of significant ongoing investment in staff, technology and marketing, which is expected to continue in 2019.
+The cash balance of the Group as at 31 December 2018 was 333.0 million 2017: 88.9 million.
+The financial statements are prepared on a going concern basis as the Directors are satisfied that the Group has the resources tocontinue in business for the foreseeable future which has been taken as 12 months from the date of approval of the financialstatements.
+The Group has prepared detailed cash flow forecasts for the next 12 months.
+The Directors have made enquiries with management and considered budgets and cash flow forecasts for the Group and have, at the time of approving these financial statements, a reasonable expectation that the Company and the Group have adequate resources to continue in operational existence for the foreseeable future.
+Further detail is contained in the Strategic Report on page 45.
+Basis of preparation The Group presents its annual financial statements in conformity with United Kingdom laws and regulations.
+The financial statements have been prepared in accordance with International Financial Reporting Standards IFRS and IFRSInterpretations Committee IFRS IC interpretations as adopted by the European Union and the Companies Act 2006 applicable to companies reporting under IFRS.
+The financial statements have been prepared on the historical cost basis except for certain financial instruments that are carried at fair value through profit and loss.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies.
+Changes in assumptions may have a significant impact on the financial statements in the year the assumptions changed.
+Management believes that the underlying assumptions are appropriate.
+The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements, are disclosed in note 3.
+Changes in accounting policy and disclosures The Group has adopted the following new IFRSs from 1 January 2018 prospectively in the financial statements.
+There has not been a material impact to the Group when adopting these new IFRSs: Standard interpretation Content Applicable for financial years beginning on after IFRS 9 Financial Instruments 1 January 2018 IFRS 15 Revenue from Contracts with Customers 1 January 2018 IFRS 9 Financial Instruments The Group adopted IFRS 9 Financial Instruments as issued by the IASB in July 2014 with a date of transition of 1 January 2018, which resulted in changes in the accounting policies and certain disclosures in the financial statements.
+The Group did not early adopt any of IFRS 9 in previous periods and, as permitted by the transitional provisions of IFRS 9, the Group elected not to restate comparative figures.
+"There have been no adjustments to the carrying value of financial assets and liabilities at the date of transition that have been recognised in the opening retained earnings, save the expected credit loss provision ""ECL"" relating to financial guarantee contracts: Performing: Underperforming: Non-performing: 12-month ECL lifetime ECL lifetime ECL Total m m m m Expected credit loss provision at 31 December 2017 0.4 0.3 0.6 1.3 Amounts restated through opening retained earnings 1.2 1.2 Expected credit loss provision at 1 January 2018 1.6 0.3 0.6 2.5 Set out below are disclosures relating to the impact of the adoption of IFRS 9 on the Group."
+94 Funding Circle Holdings plc Financial statements 1.
+Accounting policies continued Changes in accounting policy and disclosures continued IFRS 9 Financial Instruments continued a Classification and measurement of financial instruments The measurement category and the carrying amount of financial assets and liabilities in accordance with IAS 39 and IFRS 9 at 1January 2018 are compared as follows: IAS 39 IFRS 9 Measurement category Carrying amount Measurement category Carrying amount 1 January 2018 m m m m Financial assets Investment in loan securities under cure period Fair value through profit 3.1 FVTPL 3.1 and loss FVTPL Investment in loan securities Amortised cost loans 0.3 Amortised cost 0.3 and receivables Trade and other receivables Amortised cost loans 13.4 Amortised cost 13.4 and receivables Cash and cash equivalents Amortised cost loans 88.9 Amortised cost 88.9 and receivables Financial liabilities Trade and other payables Amortised cost 12.0 Amortised cost 12.0 Provisions Amortised cost 2.5 Amortised cost 3.7 As shown in the table above, investment in loan securities, trade and other receivables and cash and cash equivalents were shown under IAS 39 as loans and receivables.
+Under IFRS 9 these are now categorised as amortised cost.
+The categorisation of all financial liabilities recognised on the balance sheet has remained the same between IAS 39 and IFRS 9.
+The amounts expected to be recovered or settled for assets and liabilities in the financial statements are due no more than 12months after the reporting period unless specifically stated.
+b Impairment The credit loss provision relating to financial guarantee contracts is impacted by the expected credit loss model.
+An opening balance adjustment has been made to retained earnings under IFRS 9 refer to note 17.
+IFRS 15 Revenue from Contracts with Customers IFRS 15 Revenue from Contracts with Customers was issued in 2014 and was endorsed by the EU in 2016.
+IFRS 15 establishes acomprehensive framework for determining whether, how much and when revenue is recognised.
+It replaces existing revenue recognition guidance, including IAS 18 Revenue.
+IFRS 15 provides a single, principles-based five-step model to be applied to all contracts with customers: 1 identify the contract with the customer: 2 identify the performance obligations in the contract, introducing the new concept of distinct: 3 determine the transaction price: 4 allocate the transaction price to the performance obligations in the contracts, on a relative stand-alone selling price basis: and 5 recognise revenue when or as the entity satisfies its performance obligation.
+IFRS 15 also introduces new guidance on, amongst other areas, combining contracts, discounts, variable consideration and contract modifications.
+It requires that certain costs incurred in obtaining and fulfilling customer contracts be deferred on the balance sheet and amortised over the period an entity expects to benefit from the customer relationship.
+Management has conducted a detailed analysis of the impact of IFRS 15 on the Group which has shown that the recognition of revenue will be consistent with the transfer of risks and rewards to the customer under IAS 18.
+We have concluded following this assessment that the implementation of IFRS 15 has not resulted in any impact to revenue in the Groups financial statements.
+Transaction fees, servicing fees and other revenue are recognised when the Group satisfies the respective performance obligations which remain consistent with the treatment of these revenue streams prior to IFRS 15 refer to revenue recognition policy.
+95 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 1.
+Accounting policies continued New standards and interpretations not yet adopted The following standards and interpretations were issued by the IASB and IFRS IC but have not been adopted because they are not yet mandatory and the Group has not chosen to early adopt.
+Standard interpretation Content Applicable for financial years beginning on after IFRS 16 Leases 1 January 2019 IFRS 16 replaces IAS 17 Leases and will primarily change lease accounting, with lessor accounting under IFRS 16 similar to lessor accounting under IAS 17.
+Lessee accounting under IFRS 16 will be similar in many respects to IAS 17 accounting for finance leases, but is substantively different to existing accounting for operating leases.
+Where a contract meets IFRS 16s definition of a lease and the Group acts as a lessee, lease agreements will give rise to the recognition of a non-current asset representing the right to use the leased item, and a liability for future lease payments on the Groups balance sheet.
+Lease costs will be recognised in the form of depreciation of the right-of-use asset and interest on the lease liability, which will impact the phasing of operating profit and profit before tax, compared to existing cost profiles and presentation in the income statement.
+The application of IFRS 16 will also impact the classification of associated cash flows.
+The Group intends to apply the full retrospective approach in the application of IFRS 16 on the transition date.
+Total costs incurred remain unchanged over the life of the lease but the timing of when those costs are recognised within the consolidated income statement will be impacted.
+Based on analysis of lease commitments held by the Group at 31 December 2018, and using estimated discount rates, the net impact on profit is expected to be immaterial to the Group.
+This does not impact thetiming of the Groups cash flows.
+Below is a summary of the impact of the new standard on the balance sheet and statement of comprehensive income for the year ended 31 December 2018: Prior to Post implementation Impact of implementation of IFRS 16 IFRS 16 of IFRS 16 Balance sheet m m m Total assets 430.1 19.9 450.0 Total liabilities 27.7 21.3 49.0 Total equity 402.4 1.4 401.0 Prior to Post implementation Impact of implementation of IFRS 16 IFRS 16 of IFRS 16 Statement of comprehensive income m m m Operating loss 51.6 0.8 50.8 Finance income 0.9 1.0 0.1 Loss before tax 50.7 0.2 50.9 The impact from the implementation of IFRS 16 would result in a favourable increase in the Group adjusted EBITDA by 5.1million and an increase in depreciation of 4.3 million.
+Basis of consolidation Where the Group has control over an investee, it is classified as a subsidiary.
+The Group controls an investee if all three of the following elements are present: power over the investee, exposure to variable returns from the investee, and the ability of the investor to use its power to affect those variable returns.
+Control is reassessed whenever facts and circumstances indicate that there may be a change in any of these elements of control.
+The consolidated financial statements present the results of the Company and its subsidiaries as if they formed a single entity.
+Intercompany transactions and balances between Group companies are therefore eliminated in full.
+The Group applies the acquisition method to account for business combinations.
+In the consolidated statement of financial position, the acquirees identifiable assets, liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date.
+Acquisition-related costs are recognised in profit or loss as incurred.
+The results of acquired operations are included in the consolidated statement of comprehensive income from the date on which control is obtained.
+They are deconsolidated from the date on which control ceases.
+96 Funding Circle Holdings plc Financial statements 1.
+Accounting policies continued Foreign currency translation Transactions entered into by Group entities in a currency other than the currency of the primary economic environment in which they operate their functional currency are recorded at the rates ruling when the transactions occur.
+Foreign currency monetary assets and liabilities are translated at the prevailing rate at the reporting date.
+Exchange differences arising on the retranslation of unsettled monetary assets and liabilities are recognised immediately in profit or loss.
+On disposal of a foreign operation, the cumulative exchange differences recognised in the foreign exchange reserve relating to that operation up to the date of disposal are transferred to the consolidated statement of comprehensive income as part of the profit or loss on disposal.
+Functional and presentation currency These consolidated financial statements are presented in GBP sterling, which is the Groups functional currency.
+All assets and liabilities of overseas operations, including goodwill arising on the acquisition of those operations, are translated at the prevailing rate at the reporting date.
+Income and expense items are translated at the average exchange rates for the year, unless exchange rates fluctuate significantly during that year, in which case the exchange rates at the date of transactions are used.
+Exchange differences arising, if any, are recognised in other comprehensive income and accumulated in equity.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the prevailing rate at the reporting date.
+Segment reporting Operating segments are reported in the manner consistent with the internal reporting provided to the chief operating decision maker.
+The chief operating decision maker, which is responsible for allocating resources and assessing performance of the operating segments, has been identified as the Global Leadership Team that makes strategic decisions.
+For each identified operating segment, the Group has disclosed information for the key performance indicators that are assessed internally to review and steer performance in the Strategic Report section of this report.
+Transfer prices between segments are on an arms length basis in a manner similar to transactions with third parties.
+Exceptional items Exceptional items are the items of income or expense that the Group considers are material, one-off in nature and of suchsignificance that they merit separate presentation in order to aid the readers understanding of the Groups financial performance.
+Such items would include profits or losses on disposal of businesses: transaction costs including those associated with an IPO : acquisitions and disposals: major restructuring programmes: significant goodwill or other asset impairments: and other particularly significant or unusual items.
+Revenue recognition Revenue represents fees receivable from lenders and borrowers for the arranging of finance.
+Revenue earned for the arrangement of finance is classified as transaction revenue.
+It is recognised immediately once loans are fully funded on the marketplace and after the loans are accepted by the borrowers.
+Such fees are automatically deducted from the amount borrowed and recognised at that point as the Group has the right to consideration.
+Revenue earned from servicing of finance is classified as servicing revenue.
+It comprises an annualised fee representing a percentage of outstanding principal and is recognised on a monthly basis upon repayment of loan parts by borrowers.
+Due to the conditions of the trade, there are no partially completed contracts at the balance sheet date and no advance payments from customers.
+Revenue included within other revenue includes referral fees, excess premium or fees earned from providing a financial guarantee on loans held by certain institutional investors and any income earned on investments in loan securities and is recognised as services are performed on an accruals basis.
+Revenue comprises the fair value of the consideration received or receivable in the ordinary course of the Groups activities.
+Revenue recorded in the financial statements is generated in the UK, the USA, Germany and the Netherlands.
+All fees are calculated based on the above revenue recognition policy.
+Administrative expenses Administrative expenses are recognised as an expense in the statement of comprehensive income in the period in which they are incurred on an accruals basis.
+97 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 1.
+Accounting policies continued Leases Leases are classified as operating leases where the lessor retains substantially all the risks and benefits of ownership of the asset.
+Rentals payable under operating leases are charged to the statement of comprehensive income on a straight-line basis over theterm of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease asset are consumed.
+In the event that lease incentives are received to enter into operating leases, such incentives are initially recognised as a liability.
+The aggregate benefit of incentives is recognised as a reduction of rental expense on a straight-line basis over the lease term.
+Share-based payments The Group operates a number of equity-settled, share-based compensation plans, under which the Group receives services from employees as consideration for equity instruments options and shares of the Company.
+The fair value of the employee services received in exchange for the grant of the options and shares is recognised as an expense.
+The total amount to be expensed is determined by reference to the fair value of the options and shares granted: - including any market performance conditions for example, an entitys share price : - excluding the impact of any service and non-market performance vesting conditions for example, profitability, sales growth targets and remaining an employee of the Group over a specified time period : and - including the impact of any non-vesting conditions for example, the requirement for employees to save.
+Non-market vesting conditions are included in assumptions about the number of options and shares that are expected to vest.
+The total expense is recognised over the vesting period, which is the period over which all of the specified vesting conditions are to be satisfied.
+At the end of each reporting period, the Group revises its estimate of the number of options and shares that are expected to vest based on the non-market vesting conditions.
+It recognises the impact of the revision to original estimates, if any, in the income statement, with a corresponding adjustment to equity.
+When the options are exercised, the Company issues new shares.
+The proceeds received net of any directly attributable transaction costs are credited to share capital nominal value and share premium when the options are exercised.
+The grant by the Company of options and shares over its equity instruments to the employees of subsidiary undertakings in the Group is treated as a capital contribution.
+The fair value of employee services received, measured by reference to the grant date fair value, is recognised over the vesting period as an increase in investment in subsidiary undertakings, with a corresponding credit to equity in the Parent entity the Company accounts.
+Pension obligations The Group operates a defined contribution pension scheme for employees in the UK.
+A defined contribution scheme is a pension plan under which the Group pays fixed contributions into a separate entity.
+The Group has no legal or constructive obligations to pay further contributions if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior years.
+Contributions payable to the Groups pension scheme are charged to the statement of comprehensive income in the year to which they relate.
+The Group has no further payment obligations once the contributions have been paid.
+Current and deferred tax The tax expense for the year comprises current and deferred tax.
+Current tax is provided at amounts expected to be paid orrecovered using the tax rates and laws that have been enacted or substantively enacted by the balance sheet date in the countries where the Company and its subsidiaries operate and generate taxable income.
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is subject to interpretation.
+It establishes provisions, where appropriate, based on amounts expected to be paid to the tax authorities.
+Deferred tax assets for unused tax losses, tax credits and deductible temporary differences are recognised to the extent that itisprobable that future taxable profit will be available against which the temporary differences can be utilised.
+Deferred tax assets are recognised on deductible temporary differences arising from investments in subsidiaries, associates and joint arrangements only to the extent that it is probable the temporary difference will reverse in the future and there is sufficient taxable profit available against which the temporary difference can be utilised.
+Deferred tax liabilities are provided on taxable temporary differences arising from investments in subsidiaries, associates and joint arrangements, except for any deferred tax liability where the timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities and when the deferred tax assets and liabilities relate to income taxes levied by the same taxation authority on either the same taxable entity or different taxable entities and there is an intention to settle the balances on a net basis.
+98 Funding Circle Holdings plc Financial statements 1.
+Accounting policies continued Current and deferred tax continued Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements.
+However, deferred tax is not accounted for if it arises from initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affect neither accounting nor taxable profit or loss.
+Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted at the year-end date and are expected to apply when the related deferred tax asset is realised or the deferred tax liability is settled.
+Deferred tax balances are not discounted.
+Dividends Dividends are recognised when they become legally payable, in accordance with the Companies Act 2006.
+Goodwill Goodwill arising in a business combination is recognised as an asset at the date that control is acquired the acquisition date.
+Goodwill is measured as the excess of the sum of the fair value of consideration transferred, the amount of any non-controlling interest in the acquiree and the fair value of the acquirers previously held equity interest if any in the entity over the net of the acquisition-date amounts of the identifiable assets acquired and the liabilities assumed.
+Goodwill is not amortised but is reviewed for impairment at least annually.
+For the purpose of impairment testing, goodwill is allocated to each of the Groups cash-generating units expected to benefit from the synergies of the combination.
+Cash-generating units to which goodwill has been allocated are tested for impairment annually, or more frequently when there is an indication that the unit may be impaired.
+If the recoverable amount of the cash-generating unit is less than the carrying amount of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit.
+An impairment loss recognised for goodwill is not reversed in a subsequent period.
+On disposal of a subsidiary, the attributable amount of goodwill is included in the determination of the profit or loss on disposal.
+Intangible assets Intangible assets with finite useful lives are amortised on a straight-line basis over their estimated useful lives.
+Useful lives and amortisation methods are reviewed at the end of each annual reporting period, or more frequently when there isan indication that the intangible asset may be impaired, with the effect of any changes accounted for on a prospective basis.
+Amortisation commences when the intangible asset is available for use.
+The residual value of intangible assets is assumed to bezero.
+Computer software licences Acquired computer software licences are capitalised on the basis of the costs incurred to acquire and bring to use the specific software.
+These costs are amortised over the licence period.
+Capitalised development costs Costs associated with maintaining computer software programs are recognised as an expense as incurred.
+Development costs that are directly attributable to the design and testing of identifiable and unique software products controlled by the Group are recognised as intangible assets when the following criteria are met: - it is technically feasible to complete the software product so that it will be available for use: - management intends to complete the software product and use or sell it: - there is an ability to use or sell the software product: - it can be demonstrated how the software product will generate probable future economic benefits: - adequate technical, financial and other resources to complete the development and to use or sell the software product are available: and - the expenditure attributable to the software product during its development can be reliably measured.
+Directly attributable costs that are capitalised as part of the software product include the software development employee costs.
+Other development expenditure that does not meet these criteria is recognised as an expense as incurred.
+Development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Capitalised development costs are recorded as intangible assets and amortised from the point at which the asset is ready for use over their estimated useful lives, ranging from three to five years.
+Items that are amortised over the longer period relate to the development of the Groups global technology platform.
+Other intangibles Other intangibles relate to the technology platform and customer relationship representing fees due on contracted loans expected to be realised in the foreseeable future acquired on a business combination.
+These costs are amortised over their estimated useful lives, which do not exceed three years.
+99 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 1.
+Accounting policies continued Tangible fixed assets Tangible fixed assets are stated at cost less depreciation and any provision for impairment.
+Depreciation is provided on all tangible fixed assets, at rates calculated to write off the cost less estimated residual value of each asset on a straight-line basis over its expected useful life, as follows: Computer equipment 13 years Furniture and fixtures 35 years Leasehold improvements that qualify for recognition as an asset are measured at cost and are presented as part of property, plant and equipment in the non-current assets section on the balance sheet.
+Depreciation on leasehold improvements is calculated using the straight-line method over the lease term.
+Impairment of tangible and intangible assets Intangible assets that have an indefinite useful life or intangible assets not ready to use are not subject to amortisation and are tested annually for impairment.
+Assets that are subject to amortisation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset forwhich the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset or cash-generating unit is estimated to be less than its carrying amount, the carrying amount of the asset or cash-generating unit is reduced to its recoverable amount.
+An impairment loss is recognised immediately in profit or loss.
+A previously recognised impairment loss is reversed only if there has been a change in the estimates used to determine the assets recoverable amount since the last impairment loss was recognised.
+If this was the case, the carrying amount of the asset or cash-generating unit is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset or cash-generating unit in prior years.
+A reversal of an impairment loss is recognised immediately in profit or loss.
+Financial instruments Financial assets The Group determines the classification of its financial assets at initial recognition.
+From 1 January 2018 the requirements of IFRS 9 for classification and subsequent measurement have been applied which require financial assets to be classified based on the Groups business model for managing the asset and the contractual cash flow characteristics of the asset: - Financial assets are measured at amortised cost if they are held within a business model, the objective of which is to hold financial assets in order to collect contractual cash flows, and their contractual cash flows represent solely payments of principal and interest.
+- Financial assets are measured at fair value through profit and loss if they are held within a business model, the objective of which is achieved by both collecting contractual cash flows and selling financial assets, and their contractual cash flows represent solely payments of principal and interest.
+- Financial assets that do not meet the criteria to be amortised cost or fair value through other comprehensive income are measured at fair value through profit or loss.
+In addition, the Group may, at initial recognition, designate a financial asset as measured at fair value through profit or loss if doing so eliminates or significantly reduces an accounting mismatch.
+When financial assets are recognised initially, they are measured at fair value, plus, in the case of investments not at fair value through profit or loss, directly attributable transaction costs.
+The purchase of any credit impaired assets is also at fair value after any impairment.
+Except for certain investments in loan securities as described below, the Group does not recognise on its balance sheet loans arranged between borrowers and investors as it is not a principal party to the contracts and is not exposed to the risks and rewards of these loans.
+With the exception of investments in loan securities under cure period, all financial assets are held to collect contractual cash flows.
+100 Funding Circle Holdings plc Financial statements 1.
+Accounting policies continued Financial instruments continued Financial assets continued However, under certain circumstances the Group does hold investments in loan securities.
+The two types of investment in loan securities held are as follows: i Investment in loan securities under cure period In the US, investors commit to providing loans to Funding Circle Marketplace LLC the originator of the borrower loans in advance of the physical transfer of monies.
+Funding Circle USA Inc initially funds these committed loans to the borrowers and recovers the monies from the investors after the two to three-day cure period and therefore retains the credit risk during this short period.
+Investments in loan securities under cure period have been classified as financial assets at fair value through profit or loss under IAS 39 and under IFRS 9.
+The above classification is mainly because all such loans are acquired principally for selling in the short term.
+They are initially recognised at fair value on the balance sheet with the subsequent measurement at fair value with all gains and losses being recognised in profit or loss.
+ii Investment in other loan securities The Group holds investments in certain business loans as a result of a commercial arrangement with institutional investors in the marketplace see note 14.
+These investments in other loan securities are classified as loans and receivables from 1 January 2018: amortised cost and are initially recognised at fair value and subsequently measured at amortised cost less provision for impairment.
+Other financial assets Financial assets recognised in the balance sheet as trade and other receivables were classified as loans and receivables from 1January 2018: amortised cost.
+They are recognised at fair value and subsequently measured at amortised cost less provision for impairment.
+Cash and cash equivalents are classified as amortised cost 2017: loans and receivables with the exception of money market funds that are classified as FVTPL.
+Cash and cash equivalents include cash in hand, deposits held at call with banks, money market funds and other short-term highly liquid investments with original maturities of three months or less.
+The carrying amount of these assets approximates to their fair value.
+Impairment of financial assets For periods before the year ended 31 December 2018 the Group applied the impairment requirements of IAS 39.
+Under the requirements of IAS 39, at each reporting date, the Group assesses whether there is objective evidence that a financial asset or group of financial assets is impaired.
+If there is objective evidence such as significant financial difficulty of the obligor, breach of contract, or it becomes probable that the debtor will enter bankruptcy, the asset is tested for impairment.
+The amount of the loss is measured as the difference between the assets carrying amount and the present value of estimated future cash flows excluding future expected credit losses that have not been incurred discounted at the financial assets original effective interest rate that is, the effective interest rate computed at initial recognition.
+The carrying amount of the asset is reduced through use of an allowance account.
+The amount of the loss is recognised in the statement of comprehensive income.
+The Group reviews its investments in loan securities to assess impairment at least on a quarterly basis.
+In determining whether an impairment loss should be recorded in the statement of comprehensive income, the Group makes judgement as to whether there is any observable data indicating that there is a measurable decrease in the estimated future cash flows from a portfolio ofloans before the decrease can be identified within an individual loan in that portfolio.
+This evidence may include observable data indicating that there is an adverse change in the payment status of borrowers, or national or economic conditions that correlate with defaults on assets.
+Management uses estimates based on historical loss experience for assets with credit risk characteristics and objective evidence of impairment similar to those in the portfolio when scheduling in future cash flows.
+The methodology and assumptions used for estimating both the amount and timings of future cash flows are reviewed regularly to reduce any variances between loss estimates and actual loss experience.
+101 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 1.
+Accounting policies continued Financial instruments continued Financial assets continued Impairment of financial assets continued From 1 January 2018 the Group applied the impairment requirements of IFRS 9.
+The IFRS 9 impairment model introduces a three-stage approach: - Stage 1 includes financial instruments that have not had a significant increase in credit risk since initial recognition or that have low credit risk at the reporting date.
+For these assets, 12-month expected credit losses that is, expected losses arising from the risk of default in the next 12 months are recognised and interest income is calculated on the gross carrying amount of the asset that is, without deduction for credit allowance.
+- Stage 2 includes financial instruments that have had a significant increase in credit risk since initial recognition unless they have low credit risk at the reporting date but are not credit impaired.
+For these assets, lifetime ECL that is, expected losses arising from the risk of default over the life of the financial instrument are recognised, and interest income is still calculated onthe gross carrying amount of the asset.
+- Stage 3 consists of financial assets that are credit impaired, which is when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred.
+For these assets, lifetime ECL are also recognised, but interest revenue is calculated on the net carrying amount that is, net of the ECL allowance.
+The Group assesses on a forward-looking basis the expected credit losses ECL associated with its financial assets carried atamortised cost and recognises a loss allowance for such losses at each reporting date.
+The measurement of ECL reflects: - an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes: - the time value of money: and - reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.
+If in a subsequent period the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after the impairment was recognised, the previously recognised impairment loss is reversed, to the extent that the carrying value of the asset does not exceed its amortised cost at the reversal date.
+Any subsequent reversal of an impairment loss is recognised in the statement of comprehensive income.
+Derecognition of financial assets Financial assets are derecognised only when the contractual rights to the cash flows from the financial assets expire or the Group has either transferred the contractual right to receive the cash flows from that asset, or has assumed an obligation to pay those cash flows to one or more recipients.
+The Group derecognises a transferred financial asset if it transfers substantially all the risks and rewards of ownership.
+Financial liabilities Financial liabilities included in trade and other payables are recognised initially at fair value and subsequently at amortised cost.
+The fair value of a non interest-bearing liability is its discounted repayment amount.
+If the due date of the liability is less than one year, discounting is omitted.
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires.
+Provisions Provisions are recognised when the Group has a present obligation legal or constructive as a result of a past event, it is probable that the Group will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+Financial guarantee contracts Financial guarantee contracts issued by the Group are those contracts that require a payment to be made to reimburse the holder for a loss it incurs because the specified debtor fails to make a payment when due in accordance with the terms of a debt instrument.
+Financial guarantee contracts are recognised initially as a liability at fair value, adjusted for transaction costs that are directly attributable to the issuance of the guarantee.
+The liability is measured at the higher of the best estimate of the expenditure required to settle the present obligation at the reporting date and the amount recognised less cumulative amortisation.
+Under IFRS 9, applicable from 1 January 2018, the expected credit loss model is being used to measure and recognise the financial liability as further detailed in note 17.
+102 Funding Circle Holdings plc Financial statements 1.
+Accounting policies continued Share capital Ordinary shares are classified as equity where their terms include no contractual obligation to transfer cash or another financial asset to another entity.
+Preferred share capital Up until the IPO, preferred share capital was classified as equity if it was non-redeemable, or redeemable only at the Companys option, and any dividends were discretionary.
+Dividends thereon were recognised as distributions within equity upon approval by the Companys shareholders.
+Preferred share capital was classified as a liability if it was redeemable on a specific date or at the option of the shareholders, or if dividend payments were not discretionary.
+Dividends thereon were recognised as interest expense in profit or loss as accrued.
+The preference shares were converted into ordinary shares on a one-to-one basis on IPO.
+Loss per share The Group presents basic and diluted losses per share LPS for its ordinary shares.
+Basic and diluted LPS are calculated by dividing the loss attributable to ordinary shareholders by the weighted average number of ordinary shares outstanding during theperiod.
+Shares held by the employee benefit trust The Company has established an offshore employee benefit trust EBT.
+The employee share benefit trust EBT provides for the issue of shares to Group employees principally under share option schemes.
+The Group has control of the EBT and therefore consolidates the EBT in the Group financial statements.
+Reserves Foreign exchange reserve The foreign exchange reserves represent the cumulative foreign currency translation movement on the assets and liabilities ofthe Groups international operations at year-end exchange rates.
+Share options reserve The share options reserve represents the cumulative charges to income under IFRS 2 Share-based Payments on all share options and schemes granted, net of share option exercises.
+Financial risk management The Board of Directors has overall responsibility for the establishment and oversight of the Groups risk management framework.
+The risk management policies are established to identify and analyse the risks faced by the Group, to set appropriate risk limits and controls and to monitor risks and ensure any limits are adhered to.
+The Groups activities are reviewed regularly and potential risks are considered.
+Risk factors The Group has exposure to the following risks from its use of financial instruments: - credit risk: - liquidity risk: - market risk including currency risk, interest rate risk and other price risk : and - foreign exchange risk.
+Principal financial instruments The principal financial instruments used by the Group, from which financial instrument risk arises, are as follows: - investments: - trade and other receivables: - cash and cash equivalents: and - trade and other payables.
+103 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 2.
+Financial risk management continued Principal financial instruments continued Categorisation of financial assets and financial liabilities The tables show the carrying amounts of financial assets and financial liabilities by category of financial instrument as at 31December 2018: Assets at fair value through profit and loss Amortised cost Total Assets m m m Investments 4.7 0.3 5.0 Trade and other receivables 23.0 23.0 Cash and cash equivalents 150.0 183.0 333.0 154.7 206.3 361.0 Liabilities at fair value through Liabilities at profit and loss amortised cost Total Liabilities m m m Trade and other payables 23.1 23.1 Provisions 4.6 4.6 27.7 27.7 The tables show the carrying amounts and fair values of financial assets and financial liabilities by category of financial instrument as at 31 December 2017: Assets at fair value through Loans and profit and loss receivables Total Assets m m m Investments 3.1 0.3 3.4 Trade and other receivables 13.4 13.4 Cash and cash equivalents 88.9 88.9 3.1 102.6 105.7 Liabilities at fair Other financial value through liabilities at profit and loss amortised cost Total Liabilities m m m Trade and other payables 12.0 12.0 Provisions 2.5 2.5 14.5 14.5 Financial instruments measured at amortised cost Financial instruments measured at amortised cost, rather than fair value, include cash and cash equivalents, trade and other receivables, investments in loan securities excluding those held under cure period and trade and other payables.
+Due to their short-term nature, the carrying value of each of the above financial instruments approximates to their fair value.
+104 Funding Circle Holdings plc Financial statements 2.
+Financial risk management continued Financial instruments measured at fair value IFRS 13 requires certain disclosures which require the classification of financial assets and financial liabilities measured at fairvalue using a fair value hierarchy that reflects the significance of the inputs used in making the fair value measurement.
+Disclosure of fair value measurements by level is according to the following fair value measurement hierarchy: - level 1 inputs are quoted prices unadjusted in active markets for identical assets or liabilities that the entity can access at the measurement date: - level 2 inputs are inputs other than quoted prices included within level 1 that are observable for the asset or liabilities, either directly or indirectly: and - level 3 inputs are unobservable inputs for the asset or liability.
+The fair value of financial instruments that are not traded in an active market for example, investments in loan securities is determined by using valuation techniques.
+These valuation techniques maximise the use of observable market data where it is available and rely as little as possible on entity-specific estimates.
+If all significant inputs required to fair value an instrument are observable, the instrument is included in level 2.
+The investments categorised as level 2 all relate to investments in loan securities under loan curing.
+These are typically held for two to three days before being transferred to independent investors at the principalamount.
+If one or more of the significant inputs is not based on observable market data, the instrument is included in level 3.
+Fair value measurement using Quoted prices Significant Significant in active observable unobservable markets inputs inputs level 1 level 2 level 3 Total 31 December 2018 m m m m Financial assets Investments in loan securities under cure period 4.7 4.7 Cash and cash equivalents 150.0 150.0 150.0 4.7 154.7 Fair value measurement using Quoted prices Significant Significant in active observable unobservable markets inputs inputs level 1 level 2 level 3 Total 31 December 2017 m m m m Financial assets Investments in loan securities under cure period 3.1 3.1 3.1 3.1 Loan investments held under cure period were originated during the last week of December 2018.
+As a result fair value is assumed to be equal to the outstanding principal amount.
+105 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 2.
+Financial risk management continued Financial risk factors Credit risk Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Groups receivables from customers and cash and cash equivalents held at banks.
+The Groups maximum exposure to credit risk by class of financial asset is as follows: 31 December 31 December 2018 2017 m m Non-current Investments in loan securities 0.3 0.3 Current Investments in loan securities 4.7 3.1 Trade and other receivables Trade receivables 1.2 1.7 Other receivables 6.5 2.6 Prepayments 6.0 3.7 Accrued income 3.6 0.9 Rent and other deposits 5.7 4.5 Cash and cash equivalents 333.0 88.9 Investments in loan securities in current assets are held on average for two days before the physical transfer of monies from investors.
+The risk of financial loss is deemed minimal.
+Trade receivables represent the invoiced amounts in respect of servicing fees due from institutional investors.
+The risk of financial loss is deemed minimal because the counterparties are well established financial institutions.
+Ongoing credit evaluation is performed on the financial condition of other receivables and, where appropriate, a provision for impairment is recorded in the financial statements.
+Other receivables include amounts receivable in respect of credit impaired debts acquired by the Group.
+The carrying amount of these loans is stated net of impairment charges and represents the Groups maximum exposure to credit risk as no collateral or other credit enhancements are held.
+Individual risk limits for banks and financial institutions are set by external rating agencies.
+The Groups treasury policy has set limits and quantities that the Group must remain within.
+No credit or counterparty limits were exceeded during the year.
+The Groups cash and cash equivalents split by S&P counterparty rating were A rated: 30.1 million and A or better: 299.9 million.
+Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+The Groups approach to managing liquidity is to ensure, as far as possible, that it will always have sufficient liquidity to meet its liabilities when due, under both normal and stressed conditions, without incurring unacceptable losses or risking damage to the Groups position.
+The Groups liquidity position is monitored and reviewed on an ongoing basis by the Directors.
+The amounts disclosed in the following tables are the contractual undiscounted cash flows.
+106 Funding Circle Holdings plc Financial statements 2.
+Financial risk management continued Financial risk factors continued Liquidity risk continued The maturity analysis of financial instruments at 31 December 2018 and 31 December 2017 is as follows: Between Less than 3 months Between 1 Over 3 months and 1 year and 5 years 5 years At 31 December 2018 m m m m Financial assets Investments in loan securities 4.7 0.3 Trade and other receivables 11.9 8.2 2.9 Cash and cash equivalents 333.0 349.6 8.2 3.2 Financial liabilities Trade and other payables 7.0 15.8 Provisions 3.8 0.8 7.0 19.6 0.8 Between Less than 3 months Between 1 Over 3 months and 1 year and 5 years 5 years At 31 December 2017 m m m m Financial assets Investments in loan securities 3.1 0.3 Trade and other receivables 4.4 6.2 2.8 Cash and cash equivalents 88.9 96.4 6.2 3.1 Financial liabilities Trade and other payables 3.0 9.0 Provisions 2.1 0.4 3.0 11.1 0.4 Market risk Market risk is the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market prices.
+The Groups market risk arises from open position in interest-bearing assets and liabilities, to the extent that these are exposed to general and specific market movements.
+a Price risk The Group is not exposed to market risk with respect to financial instruments as it does not hold any marketable securities.
+b Cash flow and fair value interest rate risk The Group is not exposed to interest rate risk in relation to financial liabilities because it does not have any external borrowings.
+Non-trading interest rate risk The Groups interest risk on financial assets is limited to interest receivable on loan note investments and cash and cash equivalentbalances.
+Less than 3 months Between 3 months and 1 year Between 1 and 5 years 2018 2017 2018 2017 2018 2017 At 31 December m m m m m m Fixed rate Investments in loan securities 4.7 3.1 0.3 0.3 Floating rate Cash and cash equivalents 333.0 88.9 337.7 92.0 0.3 0.3 There are no financial assets which are held for a period of over five years.
+107 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 2.
+Financial risk management continued Financial risk factors continued Market risk continued b Cash flow and fair value interest rate risk continued Interest rate risk sensitivity analysis non-trading interest fixed rate Interest on loan note investments is fixed until the maturity of the investment.
+The level of future interest rate receivable would be similar to that received in the year and is considered immaterial to the Groups overall performance for the year.
+Interest rate risk sensitivity analysis non-trading interest floating rate Interest on cash and cash equivalent balances is subject to movements in Libor.
+The Directors monitor interest rate risk and note that interest rates remain at a historical low.
+With the increased cash and cash equivalents following the IPO, a 0.5% increase in Libor could increase the annual interest earned by c. 1.5 million.
+c Sensitivity analysis IFRS 7 requires disclosure of sensitivity analysis for each type of market risk to which the entity is exposed at the report date showing how profit or loss and equity would have been affected by changing the relevant risk variables that were reasonably possible at that date.
+As discussed above, the Group does not have significant exposure to liquidity or cash flow risk and therefore no sensitivity analysis for those risks has been disclosed.
+d Foreign exchange risk The Group operates internationally and is exposed to foreign exchange risk arising from various currency exposures, primarily with respect to the US dollar, the UK pound and the euro.
+Foreign exchange risk arises from future commercial transactions, recognised assets and liabilities and net investments in foreign operations.
+The Groups policy is, where possible, to allow Group entities to settle liabilities denominated in their functional currency with the cash generated from their own operations in that currency.
+Where Group entities have liabilities denominated in a currency other than their functional currency and have insufficient reserves of that currency to settle them, cash already denominated in that currency will, where possible, be transferred from elsewhere within the Group.
+Apart from these particular cash flows the Group aims to fund expenses and investments in the respective currency and to manage foreign exchange risk at a local level by matching the currency in which revenue is generated and expenses are incurred.
+The Group has certain investments in foreign operations, whose net assets are exposed to foreign currency translation risk.
+The Group is primarily exposed to the US dollar and euro currencies.
+The following table details the Groups sensitivity to a 5% depreciation and 5% appreciation in pound sterling against the relevant foreign currencies.
+5% is the sensitivity rate used when reporting foreign currency risk internally to key management personnel and represents managements assessment of a reasonably possible change in foreign exchange rates.
+The sensitivity analysis includes only outstanding foreign currency-denominated monetary items and adjusts their translation at the period end for a 5% change in foreign currency rates.
+The sensitivity analysis excludes quasi-equity loans to foreign operations within the Group.
+Appreciation in pound sterling Depreciation in pound sterling Income Income Income Income statement Equity statement Equity statement Equity statement Equity 2018 2018 2017 2017 2018 2018 2017 2017 At 31 December m m m m m m m m US dollars 0.4 0.4 0.4 0.4 The Groups sensitivity to fluctuations in foreign currencies is related to the US dollar amount held in the Parent Company.
+Capital management The Group considers its capital to comprise its ordinary share capital, share premium, foreign exchange reserve, share options reserve and retained earnings.
+Quantitative detail is shown in the consolidated statement of changes in equity.
+The Directors objective when managing capital is to safeguard the Groups ability to continue as a going concern in order to provide returns for the shareholders and benefits for other stakeholders and to maintain an optimal capital structure to reduce thecost of capital.
+The Directors monitor a number of KPIs at both the Group and individual subsidiary level on a monthly basis.
+As part of the budgetary process, targets are set with respect to operating expenses in order to effectively manage the activities of the Group.
+Performance is reviewed on a regular basis and appropriate actions are taken as required.
+These internal measures indicate the performance of the business against budget forecast and confirm that the Group has adequate resources to meet its working capital requirements.
+There are no current key assumptions or sources of estimation that may result in a material adjustment in future periods.
+108 Funding Circle Holdings plc Financial statements 3.
+Critical accounting judgements and key sources of estimation uncertainty Estimates and judgements are continually evaluated and are based on experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The following are the key sources of estimation uncertainty that the Directors have made in the process of applying the Groups accounting policies and have the most significant effect on the amounts recognised in the historical financial information.
+There are no further critical accounting judgements.
+Estimated impairment of assets note 11 The Group tests annually whether goodwill has suffered any impairment.
+All other assets are tested for impairment where there are indicators of impairment.
+The recoverable amount of cash-generating units has been determined based on value in use calculations.
+The use of this method requires the estimate of future cash flows expected to arise from the continuing operation of the cash-generating unit and the choice of a suitable discount rate in order to calculate the present value.
+Actual outcomes could vary significantly from these estimates.
+Expected credit losses note 17 The Group must make its best estimate for the expected credit loss ECL provision at each reporting date.
+This is of particularrelevance where the Group has entered into agreements with institutional investors to guarantee the credit risk ontheirloan investments.
+Significant estimate is required in assessing individual loans and when applying statistical models for collective assessments, using historical trends from past performance as well as forward-looking information.
+The most significant estimation is with delinquencies and default rates on performing loans.
+If the rates were to change by 50%, the provision would change by 1.1million.
+Segmental information IFRS 8 Operating Segments requires the Group to determine its operating segments based on information which is provided internally.
+Based on the internal reporting information and management structures within the Group, it has been determined that there are three geographic operating segments supported by two centralised cost segments.
+Reporting on this basis is reviewed by the Global Leadership Team GLT, which is the chief operating decision maker CODM.
+The GLT is made up of the Executive Directors and key management and is responsible for the strategic decision making of the Group.
+The five reportable segments consist of the three geographic segments: the United Kingdom, the United States and Developing Markets, plus the two centralised cost segments: global product development and corporate costs.
+The Developing Markets segment includes the Groups less mature marketplaces in Germany and the Netherlands.
+The GLT measures the performance of each segment by reference to a non-GAAP measure, adjusted EBITDA, which is defined as profit loss before finance income and costs, taxation, depreciation and amortisation EBITDA and additionally excludes share-based payment charges and associated social security costs, foreign exchange and exceptional items comprising IPO costs.
+Together with operating profit loss, adjusted EBITDA is a key measure of Group performance as it allows better interpretation of the underlying performance of the business.
+Capital expenditure is predominantly managed centrally and depreciation and amortisation are not allocated to individual segments for decision making and accordingly have not been allocated to segments.
+31 December 31 December 2018 2017 m m Revenue from continuing operations United Kingdom 93.6 68.4 United States 37.1 22.3 Developing Markets 11.2 3.8 Total revenue 141.9 94.5 During 2017 management took the decision to cease originating loans to property developers.
+This activity only took place in the United Kingdom and to aid interpretation of revenue trends the following analysis is provided: 31 December 31 December 2018 2017 m m Supplementary analysis Other business loans 93.2 65.3 Property loans 0.4 3.1 United Kingdom revenue 93.6 68.4 109 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 4.
+Segmental information continued Adjusted EBITDA and operating loss 31 December 31 December 2018 2017 m m United Kingdom 21.8 16.9 United States 7.4 10.9 Developing Markets 7.4 9.9 Segment adjusted EBITDA 7.0 3.9 Product development 24.5 13.6 Corporate costs 11.0 7.6 Adjusted EBITDA 28.5 25.1 Depreciation and amortisation 8.2 6.8 Share-based payments and social security costs 8.6 4.4 Foreign exchange loss 0.4 0.6 Exceptional items 5.9 Operating loss 51.6 36.9 Revenue by type In addition to the segmental reporting of revenue, the table below sets out revenue by its type: 31 December 31 December 2018 2017 m m Transaction revenue 112.9 76.5 Servicing revenue 24.9 17.1 Other revenue 4.1 0.9 141.9 94.5 5.
+Operating expenses 31 December 31 December 2018 2017 m m Depreciation 2.1 1.6 Amortisation 6.1 5.2 Impairment of intangible assets 0.5 Rental income and other recharges 0.8 1.2 Operating lease rentals: Other assets 0.1 0.1 Land and buildings 5.2 4.8 Employment costs including contractors 79.2 52.3 Marketing costs excluding employment costs 57.8 38.7 Data and technology 9.2 6.5 Expected credit losses 2.6 Foreign exchange loss 0.4 0.6 Exceptional items 5.9 Other expenses 25.7 22.3 Total operating expenses 193.5 131.4 Exceptional items relate to adviser costs associated with the IPO.
+IPO costs of 5.9 million recognised in the profit and loss represent the portion of directly attributable costs relating to the secondary shares traded on admission and other costs attributable to the listing.
+Further IPO costs of 9.1 million have been deducted from share premium.
+110 Funding Circle Holdings plc Financial statements 5.
+Operating expenses continued Auditors remuneration 31 December 31 December 2018 2017 m m Audit fees Fees payable to the Companys auditors for the audit of the Parent Company and consolidated financial statements 0.2 0.1 Fees payable to the Companys auditors and its associates for the statutory audit of the accounts of subsidiaries of the Company 0.2 0.3 Total audit fees 0.4 0.4 Audit-related fees Audit-related assurance services 0.1 0.1 Total audit-related fees 0.1 0.1 Non-audit fees Tax compliance services 0.1 0.1 Reporting accountant fees in connection with the IPO 2.0 Total non-audit fees 2.1 0.1 6.
+Remuneration of key management personnel 31 December 31 December 2018 2017 m m Wages and salaries 0.9 0.3 Share-based payments 1.6 1.1 The Directors of the Company are also the key management personnel of the Group.
+Further details on Directors remuneration are shown in the Directors Remuneration Report in the Corporate Governance section of the Annual Report and Accounts.
+Employees The average monthly number of employees including Directors during the year were: 2018 2017 Number Number Product and technology 232 185 Operations, support and administrative 722 534 954 719 In addition to the employees above, the average monthly number of contractors during the year was 50 2017: 20.
+Employment costs including Directors emoluments during the year were: 31 December 31 December 2018 2017 m m Wages and salaries 68.7 50.6 Social security costs 7.0 5.3 Pension costs 0.5 0.2 Share-based payments 8.6 4.4 84.8 60.5 Contractor costs 5.2 1.9 Less: capitalised development costs 10.8 10.1 Employment costs net of capitalised development costs 79.2 52.3 111 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 8.
+Finance income 31 December 31 December 2018 2017 m m Interest receivable 0.9 0.6 9.
+Income tax The Group is subject to all taxes applicable to a commercial company in its countries of operation.
+The UK profits of the Company are subject to UK income tax at the standard corporation tax rate of 19.00% 2017: 19.25%.
+31 December 31 December 2018 2017 m m Current tax Research and development tax credit 1.4 1.0 Total current tax 1.4 1.0 Total tax credit 1.4 1.0 The Group credit for the year can be reconciled to the loss before tax shown per the consolidated statement of comprehensive income asfollows.
+Factors affecting the tax credit for the year 31 December 31 December 2018 2017 m m Loss before taxation 50.7 36.3 Taxation on loss at 19.00% 2017: 19.25% 9.6 7.0 Effects of: Research and development tax credit 1.4 1.0 Non-deductible expenses 1.5 0.2 Temporary differences not recognised 8.1 6.8 Tax credit 1.4 1.0 The Groups profits are taxed at different rates depending on the country in which the profits arise.
+The key applicable tax rates include the UK 19%, the US 27%, Germany 40.5% and the Netherlands 25%.
+The effective tax rate for the year was 2.8% 2017:2.8%.
+The statutory UK corporation tax rate is currently 19%, effective from 1 April 2017 reduced from 20% previously.
+Note, this rate will be further reduced in future periods to 17% effective from 1 April 2020 and was substantively enacted on 6 December 2016.
+Inaddition, the US federal tax rate has been revised from 35% to 21%.
+On 22 December 2017, legislation was enacted that the reduced federal rate would be effective from 1 January 2018.
+Deferred tax has been determined using the applicable effective future tax rate that will apply in the expected period of utilisation of the deferred tax asset or liability.
+Recognition of deferred tax assets and liabilities 31 December 31 December 2018 2017 m m Property, plant and equipment 3.0 4.5 Carry forward losses 45.9 44.9 Deferred stock options 0.1 Unrecognised deferred tax asset at 31 December 2018 43.0 40.4 The Group has unrelieved tax losses of 182.3 million 2017: 130.0 million that are available for offset against future taxable profits.
+The Group has not recognised a deferred tax asset in respect of these losses as there is not sufficient visibility of suitable profits being generated to utilise these losses.
+Factors affecting the tax charge in future years Factors that may affect the Groups future tax charge include the geographic location of the Groups earnings, the tax rates in those locations, changes in tax legislation and the use of brought forward tax losses.
+The calculation of the Groups total tax charge involves a degree of estimation and judgement with respect to the recognition of any deferred tax asset.
+112 Funding Circle Holdings plc Financial statements 10.
+Loss per share Basic loss per share amounts are calculated by dividing the profit for the year attributable to ordinary equity holders of the Company by the weighted average number of ordinary shares outstanding during the year.
+There is no difference in the weighted average number of shares used in the calculation of basic and diluted loss per share as the effect of all potentially dilutive shares outstanding was anti-dilutive.
+The following table reflects the income and share data used in the basic and diluted loss per share computations: 31 December 31 December 2018 2017 m m restated Loss for the year 49.3 35.3 Weighted average number of ordinary shares in issue million 271.3 251.9 Basic and diluted loss per share 18.2p 14.0p The comparative basic and diluted loss per share have been restated as the previous calculation had incorrectly used total comprehensive loss for the year rather than loss for the year.
+Goodwill Total m Cost and carrying amount At 1 January 2017 41.4 Exchange differences 0.1 At 31 December 2017 41.3 At 1 January 2018 41.3 Exchange differences 1.0 At 31 December 2018 42.3 Goodwill is reviewed annually for impairment, or more frequently when there are indications that impairment may have occurred.
+Goodwill acquired in a business combination is allocated, at acquisition, to the cash-generating units CGUs that are expected to benefit from that business combination.
+At the balance sheet date, the Group had two CGUs, being Funding Circle USA FCUSA and its subsidiaries and Funding Circle Continental Europe FCCE and its subsidiaries to which goodwill is attached.
+The goodwill associated with each CGU is shown below.
+31 December 31 December 2018 2017 m m FCUSA 11.7 11.0 FCCE 30.6 30.3 Total 42.3 41.3 113 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 11.
+Goodwill continued The Group performed its annual impairment test on the goodwill arising on the acquisition of FCUSA and FCCE.
+The impairment test involved comparing the carrying value of the assets held for use to their recoverable amount.
+The recoverable amount represents the higher of the entitys fair value net of selling costs and its value in use.
+The impairment was assessed under both the fair value net of selling costs and value in use calculations.
+The fair value review took into account the current market value of the Group segmented against each CGU.
+The Group prepares a five-year management plan for its operations, which is used in the value in use calculations.
+The cash flow projections are based on the following key assumptions: - revenue growth at a compound annual growth rate of 45% and 73% for FCUSA and FCCE respectively: - pre-tax discount rate of 11.8% and 13.3% for FCUSA and FCCE respectively: and - revenues beyond the five-year period are extrapolated using an estimated growth rate of 2.0% for both CGUs.
+The above assumptions are based on historical trends and future market expectations.
+The review did not identify any impairment to the goodwill due to adequate headroom of expected recoverable amount over carrying amount.
+There are no CGUs for which management considers a reasonably possible change in a key assumption would give rise to an impairment.
+However, as the FCCE CGU is less established further sensitivity analysis was performed.
+The forecast EBITDA was reduced by 50% in each year from 2022 and reduced the long-term growth rate to zero.
+The resultant value in use would still exceed the carrying value of the FCCE CGU by over 25%.
+Investments Investment in loan securities 31 December 31 December 2018 2017 m m Investment in loan securities under cure period 4.7 3.1 Investment in loan securities 0.3 0.3 5.0 3.4 15.
+Trade and other receivables 31 December 31 December 2018 2017 m m Trade receivables 1.2 1.7 Other receivables 6.5 2.6 Prepayments 6.0 3.7 Accrued income 3.6 0.9 Rent and other deposits 5.7 4.5 23.0 13.4 The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivables described earlier.
+No trade receivables were overdue or impaired.
+Included in rent and other deposits are 2.9 million of rental deposits 2017: 2.8 million in respect of the Groups property leases which expire over the next five years.
+115 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 16.
+Trade and other payables 31 December 31 December 2018 2017 m m Trade payables 2.8 2.4 Other taxes and social security costs 5.5 0.2 Other creditors 1.2 0.6 Accruals 13.6 8.3 Preferred dividends payable 0.5 23.1 12.0 The Directors consider that the carrying amount of trade and other payables approximates to their fair value.
+Provisions Credit loss Other Dilapidation provision provisions Total m m m m At 1 January 2017 0.4 0.1 0.6 1.1 Additional provision 2.4 0.2 2.6 Amount utilised 1.2 1.2 At 31 December 2017 0.4 1.3 0.8 2.5 IFRS 9 opening balance restatement 1.2 1.2 Additional provision 0.4 2.6 1.0 4.0 Amount utilised 2.0 1.1 3.1 At 31 December 2018 0.8 3.1 0.7 4.6 At At 31 December 31 December 2018 2017 m m Current 3.8 2.1 Non-current 0.8 0.4 4.6 2.5 The dilapidation provision represents an estimated cost for dismantling the customisation of offices and restoring the leasehold premises to its original state at the end of the tenancy period.
+The provision is expected to be utilised by 2025. Credit loss provision In certain circumstances, in the less mature markets, Funding Circle has entered into arrangements with institutional investors toguarantee the credit risk on the loan investments made by the institutional investors.
+Under the terms of the agreements, the Group is required either to make payments when the underlying borrower fails to meet its obligation under the loan contract or buy the defaulted loan from the investors at its carrying value.
+In return for these financial guarantees, the Group is entitled to the excess returns or additional income which is recorded as other revenue.
+Since the commencement of these agreements, other income has exceeded the costs of providing these financial guarantees and the expectation is that in the majority of scenarios modelled by Funding Circle the income from these arrangements will exceed the investor incentive costs ofbuying back defaulted loans, which are treated as an operating expense.
+Under IAS 37, a credit loss provision was recognised to cover the credit risk the Group is exposed to under such financial guarantees, measured using the incurred loss model as the best estimate of expenditure required to settle any financial obligation.
+116 Funding Circle Holdings plc Financial statements 17.
+Provisions continued Credit loss provision continued Under IFRS 9, which the Group adopted from 1 January 2018, the credit loss provision is measured and recognised in accordance with the expected credit loss ECL model.
+This has resulted in an opening balance restatement, as well as a higher charge to comprehensive income for 2018 than would have occurred under IAS 37.
+The provision related to each loan arranged is based on the ECLs associated with the probability of default of that loan in the next 12 months unless there has been a significant increase in credit risk of that loan since origination.
+The Group assumes there has been a significant increase in credit risk if outstanding amounts on the loan investment exceed 30 days, in line with therebuttable presumption per IFRS 9.
+The Group defines a default, classified within non-performing, as a loan investment with any outstanding amounts exceeding a90-day due date.
+Under the financial guarantee contracts, this is the point at which there is an obligation for the Group to make a payment under the contract or buy back the loan.
+If the loan is bought back by the Group, at the point of buy back, the financial asset associated with the purchase meets the definition of purchased or originated credit impaired POCI : this element of the reserve is therefore based on lifetime ECLs.
+The Group bands each loan investment using an internal risk rating and assesses credit losses on a collective basis.
+Performing: Underperforming: Non-performing: 12-month ECL lifetime ECL lifetime ECL Total m m m m Opening credit loss provisions at 1 January 2018 1.6 0.3 0.6 2.5 Provision against new loans originated 1.8 0.3 2.1 Provision against loans transferred from performing 0.1 0.1 1.6 1.6 Amounts utilised 2.0 2.0 Loans repaid 0.4 0.4 Change in probability of default 0.8 0.1 0.7 Closing credit loss provisions at 31 December 2018 2.1 0.8 0.2 3.1 Basis for Expected credit recognition of Credit loss loss rate expected credit provision At 1 January 2018 % loss provision m Performing 4 12-month ECL 1.6 Underperforming 59 Lifetime ECL 0.3 Non-performing 100 Lifetime ECL 0.6 Total 2.5 Basis for Expected credit recognition of Credit loss loss rate expected credit provision At 31 December 2018 % loss provision m Performing 1 12-month ECL 2.1 Underperforming 67 Lifetime ECL 0.8 Non-performing 100 Lifetime ECL 0.2 Total 3.1 The percentages applied above are based on the Groups past experience as well as forward-looking information, namely: macroeconomic forecasts such as changes in interest rates, GDP and inflation: delinquencies: and loss trends.
+The items that the model is most sensitive to are delinquencies and loss trends.
+117 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 18.
+Share capital 31 December 31 December 31 December 31 December 2018 2018 2017 2017 Number Number Called up, allotted and fully paid Ordinary shares of 0.001 346,033,078 346,034 83,186,146 83,186 A ordinary shares of 0.00001 1,439,625 14 B ordinary shares of 0.00001 650,000 7 C ordinary shares of 0.00001 5,857,600 59 D ordinary shares of 0.00001 1,068,850 10 E ordinary shares of 0.00001 6,063,840 61 Series A preferred shares of 0.001 27,392,200 27,392 Series B preferred shares of 0.001 31,492,900 31,493 Series C preferred shares of 0.001 32,520,500 32,521 Series D preferred shares of 0.001 25,595,700 25,596 Series E preferred shares of 0.001 31,432,400 31,432 Series F preferred shares of 0.001 23,672,990 23,672 Deferred shares of 0.00001 2,664,461 27 346,033,078 346,034 273,037,212 255,470 On 19 September 2018, the Company was re-registered as a public company limited by shares in England and Wales and accordingly the Articles of Association of the Company were amended to the extent required to give effect to the re-registration.
+As part of the re-alignment of the share capital, the following steps took place: - for each A, B, C, D and E ordinary share held, the Company issued 99 bonus shares of the relevant class with a nominal value of 0.00001 to each of the existing holders of the those shares: and - each 100 A, B, C, D and E ordinary shares with a nominal value of 0.00001 were then consolidated into 1 A, B, C, D or E ordinary share as appropriate with a nominal value of 0.001.
+Immediately prior to the IPO the following transactions occurred: - each of the A, B, C, D and E ordinary shares was converted into ordinary shares on a one-to-one basis: - each series of preferred shares was converted into ordinary shares on a one-to-one basis: - the Company redeemed all outstanding deferred shares: and - the Company paid the accrued Series A preferred shares dividend of 0.5 million.
+On 29 September 2018 the Companys shares were admitted to the Premium Listing segment of the Official List of the UKListing Authority and to trading on the Main Market of the London Stock Exchange the Listing.
+In conjunction 68,193,863 new 0.001 ordinary shares at a price of 4.40 per ordinary share were issued as part of the IPO.
+During 2018, the Company issued a further 7,494,589 ordinary shares of 0.001 ranking pari passu with ordinary shares in issue 2017:1,221,173 on the exercise of employee share options, giving rise to total share premium of 1.0 million 2017: 0.2 million.
+During the same period, 28,125 C ordinary shares were redesignated as deferred shares.
+Included in the total number of ordinary shares outstanding above are 5,043,359 2017: nil shares held by the Groups employee benefit trust.
+118 Funding Circle Holdings plc Financial statements 19.
+Share premium account 31 December 31 December 2018 2017 m m Balance at 1 January 278.0 196.0 Premium arising on issue of Series F preferred shares 81.9 Transaction costs Series F preferred share issue 0.1 Capital reduction 278.1 Premium arising on IPO 300.0 Transaction costs associated with the issue of new shares 9.1 Exercise of options proceeds received 1.0 0.2 291.8 278.0 On 28 August 2018, the Company undertook a capital reduction using the solvency statement procedure to reduce its share premium account by 278.1 million, in order to eliminate its deficit on distributable reserves.
+Costs of 9.1 million related to the issue of new shares have been deducted from the share premium account.
+Foreign exchange reserve m Balance at 1 January 2017 15.2 Exchange difference on translating the net assets of foreign operations 1.9 Balance at 31 December 2017 13.3 Exchange difference on translating the net assets of foreign operations 2.4 Balance at 31 December 2018 15.7 Exchange differences relating to the translation of the net assets of the Groups subsidiaries from their functional currency into the Companys functional currency are recognised directly in the foreign exchange reserves within equity.
+Retained earnings accumulated losses m Balance at 1 January 2017 116.7 Loss for the year 35.3 Balance at 31 December 2017 152.0 Adjustment on adoption of IFRS 9 at 1 January 2018 1.2 Capital reduction 278.1 Transfer of share option costs 13.0 Loss for the year 49.3 Balance at 31 December 2018 88.6 The transfer of share option costs is in relation to the exercise of share options during the year and their associated costs in the share options reserve which are transferred to retained earnings.
+119 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 22.
+Share-based payment The Company operates share schemes for all employees of the Group.
+The terms of the main current schemes from which the Groups employees benefit are set out below.
+Participants who hold vested Pre-IPO Options may exercise their Pre-IPO Options following admission.
+Unvested Pre-IPO Options will continue to vest according to their current service condition schedule.
+Post-IPO Employee Share Plan Since the Companys admission on the London Stock Exchange, the Company operates a single discretionary share-based long-term incentive plan LTIP.
+The main features of the LTIP are set out below.
+Form of LTIP Awards The Board grants awards in the form of: restricted stock units at no cost: or options to acquire shares at no cost a nil-cost option.
+Performance conditions LTIP Awards are not currently subject to performance conditions.
+The vesting of LTIP Awards granted in the future to Executive Directors will be subject to performance conditions.
+Refer to the Remuneration Report for further details.
+Any performance condition may be amended or substituted if one or more events occur which cause the Board to reasonably consider that an amended or substituted performance condition would be more appropriate and would not be materially less difficult to satisfy than originally intended.
+Vesting and release of LTIP Awards LTIP Awards currently vest subject to continued service only Time Based Vesting in accordance with a vesting schedule set atgrant.
+The Board may determine at grant that an LTIP Award is subject to an additional holding period following vesting a Holding Period.
+LTIP Options will be exercisable from the date of vest or, if applicable, the end of the Holding Period until the tenth anniversary ofthe grant date, or such earlier date as the Board determines.
+Cessation of employment LTIP Options may normally be exercised to the extent vested for a period of six months after ceasing employment or 12 months after death or such other period as the Board may determine.
+Pre-IPO Employee Share Plans EMI Options Prior to June 2014, the Company issued options to UK subsidiary undertakings employees under the EMI Options scheme.
+Sincethen, the Company is not eligible to issue under the scheme.
+Unapproved Options The Company has an unapproved option scheme for all employees of the Group.
+In accordance with standard vesting terms, the full award will vest four years after the vesting start date, with 25% vesting on the first anniversary of the vesting date and 6.25% every three months thereafter.
+If the options remain unexercised after a period of ten years from the date of grant, the options expire.
+Options are forfeited if the employee leaves the Group before the options vest.
+US Options Scheme 2 Options granted under the US Options Scheme 2 are unapproved options granted to US employees as either non-qualifying options or incentive stock options.
+The US Options Scheme 2 has the same vesting period as Unapproved Options.
+Unvested options are forfeited if the employee leaves the Group before the options vest.
+120 Funding Circle Holdings plc Financial statements 22.
+Share-based payment continued Pre-IPO Employee Share Plans continued ESS Shares with shadow Unapproved Options To subscribe for the ESS Shares, employees had to give up certain employment rights.
+ESS shares are an upfront award of A or C ordinary shares with a nominal value of 0.00001 per share where the ability to receive dividends and a capital return from the shares is conditional on the achievement of a performance target namely, the growth of the enterprise value of the business beyond a hurdle.
+According to the terms and conditions, the performance target differs depending on the underlying share.
+If this performance target is met, the participants will profit from the whole of the value of the business, not just the growth from the date of the award, on the same basis as the ordinary shares.
+The ESS Shares also have a right of redemption the employee has the option to redeem those shares for a fixed cash amount in the first three months post grant date.
+Note that the cash amount received depends on the number of ESS Shares granted.
+The ESS Shares are each issued in conjunction with a shadow Unapproved Option.
+The Unapproved Option can be exercised ifthe relevant enterprise value hurdle is not met upon an exit event.
+Both the ESS Shares and the shadow Unapproved Options vest according to the Companys standard vesting terms, as discussed in the description of Unapproved Options above.
+ESS shares have not been available for issue since 1 December 2017.
+Growth Shares with shadow Unapproved Options Growth Shares are an upfront award of B, D or E ordinary shares with a nominal value of 0.00001 per share where the ability toreceive dividends and a capital return from the shares is conditional on the achievement of a performance target namely, the growth of the enterprise value of the business beyond a hurdle.
+The Growth Shares are each issued in conjunction with a shadow Unapproved Option.
+The Unapproved Option can be exercised if the applicable enterprise value hurdle is not met upon an exit event.
+Both the Growth Shares and the shadow Unapproved Options vest according to the Companys standard vesting terms, as discussed in the description of Unapproved Options above.
+All share-based incentives are subject to service conditions.
+Such conditions are not taken into account in the fair value of the service received.
+The fair value of services received in return for share-based incentives is measured by reference to the fair value of share-based incentives granted.
+The estimate of the fair value of the share-based incentives is measured using either the Monte Carlo or Black-Scholes pricing model as is most appropriate for each scheme.
+Charge for the year Included in operating expenses of the Group is a charge for share-based payments and associated social security costs of 8.6million 2017: 4.4 million that arises from transactions accounted for as equity-settled share-based payment transactions.
+121 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 22.
+Weighted average remaining contractual life.
+122 Funding Circle Holdings plc Financial statements 22.
+Share-based payment continued Unapproved Options Scheme The weighted average fair values of options granted under the Unapproved Options Scheme and the US Options Scheme range between 0.73 and 1.80 2017: 0.23 and 0.25 per option respectively.
+These values were determined using the Black-Scholes valuation model.
+The significant inputs into the model are as follows: 31 December 31 December Unapproved Options Scheme 2018 2017 Share price various times during the year 1.89 0.520 and 0.55 Exercise price nil0.44 0.40 Expected life 4 years 4 years Expected volatility 48% 45% Risk-free interest rate between 0.93% and 1.02% 0.28% and 0.68% Dividend yield Nil Nil Forward exchange rate US Options between 0.769 0.746 and 0.751 LTIP Awards Since all LTIP awards were made post-IPO, the Company has used its share price as the fair value of the LTIP Awards granted during the year.
+ESS Shares and Growth Shares with shadow Unapproved Options There were no ESS Shares or Growth Shares with shadow Unapproved Options granted during the period.
+The IPO valuation exceeded the valuation thresholds pertaining to in issue ESS Shares and Growth Shares and therefore, immediately prior to the IPO, the ESS Shares and Growth Shares were converted into ordinary shares as part of the reorganisation see note 18 and the attached shadow options were lapsed.
+In determining the fair value of such shadow options granted in the prior period, the Monte Carlo simulation model was used with the following inputs: 31 December ESS and Growth 2017 Exercise price 0.40 Expected life 1 year Expected volatility 45% Risk-free interest rate between 0.38% and 0.62% Dividend yield Nil 23.
+Notes to the consolidated statement of cash flows Cash outflow from operations 31 December 31 December 2018 2017 m m Loss before taxation 50.7 36.3 Adjustments for Depreciation of property, plant and equipment 2.1 1.6 Amortisation of intangible assets 6.1 5.2 Impairment of intangible assets 0.5 Interest receivable 0.9 0.6 Non-cash employee benefits expense share-based payments and associated social security costs 8.1 4.4 IPO costs presented in financing activities 5.9 Tax credit received 1.4 1.0 Movement in provisions 0.2 Changes in working capital Movement in trade and other receivables 9.3 2.9 Movement in trade and other payables 8.6 4.5 Net cash outflow from operating activities 28.5 22.6 123 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 23.
+Notes to the consolidated statement of cash flows continued Cash and cash equivalents 31 December 31 December 2018 2017 m m Cash and cash equivalents 333.0 88.9 The cash and cash equivalents balance is made up of cash, money market funds and bank deposits.
+The carrying amount of these assets is approximately equal to their fair value.
+Included within cash and cash equivalents above is restricted cash of 0.4 million 2017: 0.4 million.
+At 31 December 2018, money market funds totalled 150.0 million 2017: nil.
+Analysis of changes in net funds 1 January Exchange 31 December 2018 Cash flow movements 2018 m m m m Cash and cash equivalents 88.9 243.6 0.5 333.0 24.
+Operating lease arrangements 31 December 31 December 2018 2017 m m Lease payments under operating leases recognised as an expense in the year 5.3 4.9 At the balance sheet date, the Group had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows: 31 December 31 December 2018 2017 m m Within one year 6.2 5.0 In the second to fifth year inclusive 19.6 16.6 After five years 3.5 6.3 29.3 27.9 Operating lease payments represent rentals payable by the Group for its office properties and plant and machinery rental.
+Dividends per share The Company paid the outstanding cumulative Series A preferred dividends of 0.5 million prior to the 3 October 2018 IPO.
+No other dividends were declared or paid in the current or previous financial periods.
+124 Funding Circle Holdings plc Financial statements 26.
+Related party transactions Balances and transactions between the Company and its subsidiaries, which are related parties, have been eliminated on consolidation and are not disclosed in this note.
+During the year, the Group entered into, and successfully won, a competition run by Nesta, a charitable organisation, with a prize of 100,000 to develop a finance modelling template that can be used by small businesses.
+Ed Wray is currently a trustee of Nesta.
+In previous years, the Group identified Funding Circle SME Income Fund Limited FCIF as a related party by way of common directorship for Samir Desai.
+Samir Desai resigned as a Director of FCIF on 18 May 2017 and therefore from 2018 FCIF has ceased to be classified as a related party of the Group.
+The transaction amounts incurred for the periods covered in the consolidated financial statements and amounts receivable from FCIF are disclosed below: 31 December 31 December 2018 2017 m m Receivable at 31 December Servicing fee 0.1 Income during the year ended 31 December Servicing fee 1.3 Corporate services fee 0.2 Reimbursement of expenses 0.2 1.8 27.
+Ultimate controlling party In the opinion of the Directors, the Group does not have a single ultimate controlling party.
+Contingent liabilities There are currently no contingent liabilities expected to have a material adverse financial impact on the Groups consolidated financial statements.
+Investment in subsidiaries The Group had the following subsidiaries, all of which have been included in these consolidated financial statements.
+The proportion ofthe voting rights in subsidiary undertakings held directly by the Company does not differ from the proportion of ordinary shares held.
+Proportion of Directly Place of ownership indirectly Subsidiary undertakings incorporation interest held Registered office address Funding Circle Ltd UK 100% Directly 71 Queen Victoria Street, London EC4V 4AY Funding Circle Asset Finance Limited UK 100% Indirectly 71 Queen Victoria Street, London EC4V 4AY Funding Circle Trustee Limited UK 100% Indirectly 71 Queen Victoria Street, London EC4V 4AY Funding Circle Property Finance Limited UK 100% Indirectly 71 Queen Victoria Street, London EC4V 4AY Funding Circle Global Partners Limited UK 100% Directly 71 Queen Victoria Street, London EC4V 4AY Made To Do More Limited UK 100% Indirectly 71 Queen Victoria Street, London EC4V 4AY Funding Circle USA, Inc. USA 100% Directly 747 Front Street, Floor 4, San Francisco, CA 94111 Funding Circle Notes Program, LLC USA 100% Indirectly 747 Front Street, Floor 4, San Francisco, CA 94111 Funding Circle Marketplace, LLC USA 100% Indirectly 747 Front Street, Floor 4, San Francisco, CA 94111 FC Partners, LLC USA 100% Indirectly 747 Front Street, Floor 4, San Francisco, CA 94111 Funding Circle Securities, LLC USA 100% Indirectly 747 Front Street, Floor 4, San Francisco, CA 94111 Funding Circle Investor Funds, LLC USA 100% Indirectly 747 Front Street, Floor 4, San Francisco, CA 94111 Funding Circle CE GmbH Germany 100% Directly Bergmannstrae 72, 10961 Berlin Funding Circle Deutschland GmbH Germany 100% Indirectly Bergmannstrae 72, 10961 Berlin Funding Circle Connect GmbH Germany 100% Indirectly Bergmannstrae 72, 10961 Berlin FC Forderungsmanagement GmbH Germany 100% Indirectly Bergmannstrae 72, 10961 Berlin Juwel 182 VV UG Germany 100% Directly Johannlsstratse 20, 10117 Berlin Funding Circle Espana S. L. Spain 100% Indirectly Calle Claudio Coello 124, 28006 Madrid Funding Circle Nederland B. V. Netherlands 100% Indirectly Gustav Mahlerplein 64b, ITO Toren, 1082 MA Amsterdam 125 Annual Report and Accounts 2018 Financial statements Notes forming part of the consolidated financial statements continued for the year ended 31 December 2018 29.
+Investment in subsidiaries continued Interest in other entities Stichting Derdengelden Funding Circle is not a direct or indirect subsidiary of Funding Circle Holdings plc but is an independent special purpose foundation which is required in the Netherlands to safeguard borrower and investor funds and is consolidated as it is controlled by the Group.
+Funding Circle Holdings Employee Benefit Trust was established on 14 September 2018.
+The purpose of the Trust is to facilitate the acquisition of shares in the Company by, or for the benefit of, existing and future employees of the Company and Group subsidiaries and is consolidated as it is controlled by the Group.
+The principal activities of the Groups most significant subsidiary undertakings are set out below.
+These are considered significant in the context of Groups business, results and financial position.
+Subsidiary undertakings Principal activity Funding Circle Ltd Acts as facilitator and performs intermediary services in respect of all loans made through the Funding Circle platform in the UK.
+The US operating subsidiary of Funding Circle.
+Acts as the administrator of the Funding Circle platform in the US.
+Funding Circle Marketplace, LLC Acts as originator and servicer of all loans made through the Funding Circle platform in the US.
+Funding Circle Marketplace LLC sells each loan it originates, on a servicing retained basis, to third-party institutional investors or to affiliates e. g. Funding Circle Notes Program on an arms length basis.
+Funding Circle Marketplace LLC initially holds loans for a two to three days' cure period before selling the loan onto the investor or affiliate.
+Funding Circle Notes Program, LLC A special purpose bankruptcy remote entity which issues loan payment dependent debt securities to accredited investors.
+It uses the proceeds to purchase a specific corresponding loan made through the Funding Circle platform from Funding Circle Marketplace LLC.
+The entity retains the contractual rights to receive the cash flows from the loan assets it has purchased, but has assumed a contractual obligation to pay those cash flows to the holders of the debt securities.
+The eligibility criteria have been met to derecognise the loan assets and associated issued debt securities as a pass-through arrangement under IAS 39 IFRS 9.
+Funding Circle CE GmbH The Continental Europe operating subsidiary of Funding Circle.
+Facilitates development, marketing and provision of internet services to affiliated companies of FCCE Group e-commerce concerning different goods.
+Funding Circle Deutschland GmbH Operates the Funding Circle platform in Germany and services loans.
+Funding Circle Netherlands B. V. Operates the Funding Circle platform in the Netherlands and services loans.

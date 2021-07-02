@@ -1,0 +1,56 @@
+Statement of accounting policies in respect of the Groups consolidated financial statements continued Derivative financial instruments continued Where the hedging relationship is classified as a fair value hedge, the carrying amount of the hedged asset or liability will be adjusted by the increase or decrease in its fair value attributable to the hedged risk and the resulting gain or loss will be recognised in the income statement where, to the extent that the hedge is effective, it will be offset by the change in the fair value of the hedging instrument.
+Where the hedging relationship is classified as a cash flow hedge or as a net investment hedge, to the extent that the hedge is effective, changes in the fair value of the hedging instrument will be recognised directly in equity rather than in the income statement.
+Any gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+For cash flow hedges of forecasted future transactions, when the hedged item is recognised in the financial statements, the accumulated gains and losses recognised in equity will be either recycled to the income statement or, if the hedged items results in a non-financial asset, will be recognised as adjustments to its initial carrying amount.
+Critical accounting judgements and key sources of estimation uncertainty CONTRACT REVENUE AND PROFIT RECOGNITION A significant proportion of the Groups activities are conducted under long term contract arrangements and are accounted for in accordance with IAS 11 Construction Contracts.
+Revenue and profit on such contracts is recognised according to the stage of completion of the contract activity at the balance sheet date of the particular contract and is calculated by reference to reliable estimates of contract revenue and expected costs.
+Expected costs are calculated after taking account of the perceived contract risks related to performance not yet proven.
+Owing to the complexity of some of the contracts undertaken by the Group the cost estimation process requires significant judgement and is carried out using the experience of the Groups engineers, project managers and finance and commercial professionals.
+Because of the level of judgement required, cost estimates are reviewed and updated on a regular basis using the Groups established project management processes.
+Some of the factors that will impact upon cost estimates include the availability of suitably qualified labour, the nature and complexity of the work to be performed, the availability of materials, the impact of change orders and the performance of sub-contractors.
+When it is probable that total contract costs will exceed total contract revenue, the expected loss is recognised immediately as an expense.
+Where services are rendered, sales are recognised when the stage of completion of the services and the related revenue and costs can be measured reliably.
+Where goods are delivered under arrangements not considered to fall under the scope of IAS 11 Construction Contracts, revenue is recognised when substantially all of the risks and rewards of ownership have transferred to the customer.
+RETIREMENT BENEFIT PLANS The Group accounts for its post-retirement pension plans in accordance with IAS 19 Employee Benefits.
+For defined benefit retirement plans, the cost of providing benefits is determined periodically by independent actuaries and charged to the income statement in the period in which those benefits have been earned by the employees.
+Actuarial gains and losses are recognised in full in the period in which they arise and are recognised in the statement of recognised income and expense.
+The retirement benefit obligation recognised in the balance sheet represents the present value of the scheme liabilities as reduced by the fair value of the scheme assets.
+The main assumptions used in determining the defined benefit post retirement obligation include the discount rate used in discounting scheme liabilities, the inflation rate, the expected rate of salary inflation, the expected rate of future pension increases, expected returns on scheme assets and future mortality assumptions.
+For each of these assumptions, there is a range of possible values.
+Relatively small changes in some of these variables can have a significant impact on the level of the total obligation.
+The valuation of pension scheme assets and liabilities at a specific point of time rather than over a period of time can lead to significant annual movements in the pension scheme deficit as calculated under IAS 19, but has no impact on short-term cash contributions since these are based upon separate independent actuarial valuations.
+Details of the pension scheme assumptions and obligation at 31 December 2008 are provided in note 30.
+Ultra Electronics Holdings plc 83 Financials Group Statement of accounting policies in respect of the Groups consolidated financial statements continued Critical accounting judgements and key sources of estimation uncertainty continued INTANGIBLE ASSETS IFRS 3 Business Combinations requires that goodwill arising on the acquisition of subsidiaries is capitalised and included in intangible assets.
+IFRS 3 also requires the identification of other intangible assets at acquisition.
+The assumptions involved in valuing these intangible assets requires the use of estimates and judgements, that may differ from the actual outcome.
+These estimates and judgements cover future growth rates, expected inflation rates and the discount rate used.
+Goodwill is not amortised but is tested annually for impairment.
+The impairment review requires the use of estimates related to the future profitability and cash generating ability of the related business.
+The estimates used may differ from the actual outcome.
+Details of the impairment review calculations are provided in note 13.
+DERIVATIVE FINANCIAL INSTRUMENTS The Group uses derivatives in the normal course of business to manage its exposure to fluctuations in interest and foreign currency rates.
+Derivatives are accounted for in the consolidated balance sheet as assets or liabilities at fair value in accordance with IAS 39 Financial Instruments: Recognition and Measurement.
+Accounting for derivatives is complex and significant judgements and estimates are involved in estimating the fair value of these instruments.
+Generally, fair value estimates of derivative contracts involve the selection of an appropriate valuation model and determining the appropriate inputs to use in that model.
+In evaluating whether a particular relationship qualifies for hedge accounting, the Group determines whether the relationship meets the strict criteria to qualify for exemption from ongoing effectiveness testing.
+For a relationship that does not meet these criteria, effectiveness is tested at inception and bi-annually thereafter by determining whether changes in the fair value of the derivative offset, within a specified range, changes in the fair value of the hedged item.
+If fair value changes fail this test, hedge accounting is no longer used.
+GOING CONCERN Ultras banking facilities amount to 200m in total, plus a 10m overdraft.
+These facilities provided more than 100m of borrowing headroom over the gross balance that had been drawn down at the end of the year.
+They were established in two tranches.
+The first was set up in 2005 and is provided by a small syndicate of banks, led by The Royal Bank of Scotland.
+This element comprises 120m of revolving credit, denominated in sterling, US dollars and Canadian dollars, which is due to expire in November 2010.
+A 10m bank overdraft facility is also available for short-term working capital funding.
+The second tranche provides a further 80m of revolving credit.
+It was put in place in September 2008 with the support of the existing banking syndicate in order to fund the eight acquisitions that the Group made during the year and to provide headroom for further acquisitions going forward.
+This additional facility is due to expire in September 2011.
+As well as being used to fund acquisitions, the banking facilities are also used for other balance sheet and operational needs, including the funding of day-to-day working capital requirements.
+Details of how Ultra manages its liquidity risk can be found in Note 23 Financial instruments and financial risk management.
+The US and Canadian dollar borrowings also represent natural hedges against assets denominated in these currencies.
+The Groups banking covenants have all been met during the past year with a comfortable margin and the expectation is that this will continue.
+Ultra will open negotiations with its banking partners in due course regarding the renewal of the first tranche in 2010.
+Whilst the current volatility in financial markets has created general uncertainty in respect of the current economic outlook, the long-term nature of Ultras business taken together with the Groups forward order book provide a satisfactory level of confidence in respect of trading in the year to come.
+At the beginning of 2009 Ultra had firm orders in place for over 60% of its consensus forecast sales in the year.
+Hence, after making appropriate enquiries, the Boards view is that Ultra has adequate resources to continue in operational existence for the foreseeable future and that the business outlook remains strong.
+The Board therefore believes that the Group is well placed to avoid any material adverse consequences of the current economic conditions.
+Accordingly, the Group continues to adopt a going concern basis in preparing the accounts.

@@ -1,0 +1,622 @@
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 93 Notes to the Financial Statements For the year ended 31 December 2015 1.
+Accounting Policies The principal accounting policies applied in the preparation of the accounts for the Group and the Bank are set out below.
+a Basis of preparation The financial statements have been prepared in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union EU : and interpretations issued by the International Financial Reporting Interpretations Committee IFRIC.
+The financial statements have been prepared on a historical cost basis, as modified by the revaluation of available for sale financial assets, derivative contracts and financial assets held at fair value through profit or loss.
+As permitted by section 408 of the Companies Act 2006, no statement of profit or loss is presented for the Bank.
+b Going concern The Board undertakes regular rigorous assessments of whether the Bank is a going concern in the light of current economic conditions and all available information about future risks and uncertainties.
+Projections for OneSavings Bank plc have been prepared, covering its future performance, capital and liquidity, for a period in excess of 12 months from the date of approval of these financial statements including stress scenarios.
+These projections show that the Group has sufficient capital and liquidity to continue to meet its regulatory requirements as set out by the Prudential Regulatory Authority.
+The Board has therefore concluded that the Group has sufficient resources to continue in operational existence for a period in excess of 12 months and as a result it is appropriate to prepare these financial statements on a going concern basis.
+c Basis of consolidation The Group accounts include the results of the Bank and its subsidiary undertakings.
+Subsidiaries are fully consolidated from the date on which control is transferred to the Group and are fide-consolidated from the date that control ceases.
+Upon consolidation inter-company transactions, balances and unrealised gains on transactions are eliminated.
+Unrealised losses are also eliminated unless the transaction provides evidence of impairment of the asset transferred.
+Accounting policies of subsidiaries have been changed where necessary to ensure consistency with the policies adopted by the Group.
+In the Banks financial statements investments in subsidiary undertakings are stated at cost less provision for any impairment.
+d Foreign currency translation The consolidated financial statements are presented in pounds sterling which is the presentation currency of the Group.
+The financial statements of each of the Banks subsidiaries are measured using the currency of the primary economic environment in which the subsidiary operates the functional currency.
+Foreign currency transactions are translated into the functional currencies using the exchange rates prevailing at the date of the transactions.
+Monetary items denominated in foreign currencies are re-translated at the rate prevailing at the period end.
+Foreign exchange gains and losses resulting from the re-translation and settlement of these items are recognised in profit or loss.
+Non-monetary items are not re-translated.
+The assets and liabilities of foreign operations with functional currencies other than sterling are translated into the presentation currency at the exchange rate on the reporting date.
+The income and expenses of foreign operations are translated at the rates on the dates of transactions.
+Exchange differences on foreign operations are recognised in other comprehensive income and accumulated in the foreign exchange reserve within equity.
+When a foreign operation is wholly or partly disposed of with loss of control, the relevant accumulated exchange differences are reclassified to profit or loss as part of the gain or loss on disposal.
+In a partial disposal without loss of control, the proportionate share of cumulative exchange differences is reattributed to noncontrolling interest.
+e Segmental reporting IFRS 8 requires operating segments to be identified on the basis of internal reports and components of the Group which are regularly reviewed by the chief operating decision maker to allocate resources to segments and to assess their performance.
+For this purpose, the chief operating decision maker of the Group is the Board of Directors.
+The Group lends solely within the UK and the Channel Islands and as such no geographical analysis is required.
+The Group segments its lending by product, focusing on the customer need and reason for a loan.
+It operates under three segments: Buy-to-Let SME, Residential Mortgages, and Personal Loans.
+f Interest income and expense Interest income and interest expense for all interest-bearing financial instruments measured at amortised cost are recognised in profit or loss using the effective interest rate EIR method.
+The EIR is the rate which exactly discounts the expected future cash flows, over the expected life of the financial instrument, to the net carrying value of the financial asset or liability.
+94 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 1.
+Accounting Policies continued f Interest income and expense continued In calculating the EIR the Group estimates the cash flows considering all contractual terms but not future credit losses.
+Potential early repayment charges, origination fees received and paid on loans to customers, together with premium discount paid on received on acquired loan books and acquisition costs on loan books are included within loans and advances to customers and are amortised over the expected life of those assets using the EIR method.
+Interest income on available for sale investments is included in interest receivable and similar income.
+Interest on derivatives is included in interest receivable and similar income or interest expense and similar charges following the underlying instrument it is hedging.
+g Fees and commissions Fees and commissions which are an integral part of the EIR of a financial instrument are recognised as an adjustment to the EIR and recorded in interest income.
+Other fees and commissions are recognised on the accruals basis as services are provided or on the performance of a significant act, net of VAT and similar taxes.
+h Taxation Income tax comprises current and deferred tax.
+It is recognised in profit or loss, other comprehensive income or directly in equity, consistently with the recognition of items it relates to.
+Current tax is the expected tax charge or credit on the taxable income or loss in the period and any adjustments in respect of previous years.
+Deferred tax is the tax expected to be payable or recoverable in respect of temporary differences between the carrying amounts of assets or liabilities for accounting purposes and carrying amounts for tax purposes.
+Deferred tax assets are recognised only to the extent that it is probable that future taxable profits will be available to utilise the asset.
+The recognition of deferred tax is mainly dependent on the projections of future taxable profits and future reversals of temporary differences.
+The current Boards projections of future taxable income assume that the Group will utilise its deferred tax asset within the next 5 years.
+i Dividends Dividends are recognised in equity in the period in which they are paid or, if earlier, approved by shareholders.
+j Cash and cash equivalents Cash and cash equivalents comprise cash, non-restricted balances with central banks and highly liquid financial assets with original maturities of less than three months from the date of acquisition subject to an insignificant risk of changes in their fair value.
+k Intangible assets Purchased software and costs directly associated with the development of computer software are capitalised as intangible assets where the software is a unique and identifiable asset controlled by the Group and will generate future economic benefits.
+Costs to establish technological feasibility or to maintain existing levels of performance are recognised as an expense.
+Software is amortised on a straight-line basis in profit or loss over its estimated useful life, which is generally five years.
+Intangible assets are reviewed for impairment on an annual basis.
+l Property, plant and equipment Property, plant and equipment comprise freehold land and buildings, major alterations to office premises, computer equipment, motor vehicles and fixtures measured at cost less accumulated depreciation.
+These assets are reviewed for impairment annually and if they are considered to be impaired are written down immediately to their recoverable amounts.
+Gains and losses on disposals calculated as the difference between the net disposal proceeds with the carrying amount of the asset are included in profit or loss.
+Items of property, plant and equipment are depreciated on a straight-line basis over their estimated useful economic lives as follows: Buildings 50 years Leasehold improvements 10 years Equipment, fixtures and vehicles 5 years Leased assets are depreciated over the shorter of the lease term and their useful lives.
+The cost of repairs and renewals is charged to profit or loss in the period in which the expenditure is incurred.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 95 1.
+Accounting Policies continued m Financial instruments The Group initially recognises loans and advances, deposits, debt securities issued and subordinated liabilities on the date on which they originated.
+All other financial instruments are accounted for on trade date which is when the Group becomes a party to the contractual provisions of the instrument.
+The Group classifies its financial instruments in accordance with IAS 39 and IAS32 into the following categories: i Loans and receivables: which are predominantly mortgage loans, advances to customers and money market advances with fixed or determinable payments that are not quoted in an active market and that the Group does not intend to sell in the near term.
+They are initially recorded at fair value plus any directly attributable transaction costs and are subsequently measured at amortised cost using the EIR method, less impairment losses.
+Where exposures are hedged by derivatives, designated and qualifying as fair value hedges, the fair value adjustment for the hedged risk to the carrying value of the hedged loans and advances is reported in Fair value hedges assets.
+ii Financial assets at fair value through profit or loss: include derivatives with positive fair values.
+Financial assets in this category are initially recognised and subsequently re-measured at fair value in the statement of financial position, with transaction costs recognised in profit or loss.
+All changes in fair value are recognised in profit or loss.
+iii Available-for-sale AFS financial assets: comprise securities held for liquidity purposes certificates of deposit, treasury bills and money market instruments in the nature of loans and advances to credit institutions.
+These assets are non-derivatives that are designated as available-for-sale and not categorised in any other financial asset categories.
+These are held at fair value with movements being taken to other comprehensive income and accumulate in the AFS reserve within equity, except for impairment losses which are taken to profit or loss.
+When the instrument is sold, the gain or loss accumulated in equity is reclassified to profit or loss.
+iv Financial liabilities: comprise deposits, issued debt securities and subordinated liabilities used as sources of funding.
+They include the Sterling Perpetual Subordinated Bond where the terms allow no discretion over the payment of interest.
+These financial liabilities are initially measured at fair value less direct transaction costs, and subsequently held at amortised cost using the EIR method.
+The Group has no financial liabilities held for trading or designated at fair value through profit or loss except for derivatives with negative fair values.
+These financial liabilities are initially recognised and subsequently re-measured at fair value, with changes taken to profit or loss.
+v Classification as liability or equity: financial instruments that include no contractual obligation to deliver cash or another financial asset on potentially unfavourable conditions are classified as equity.
+Equity financial instruments comprise own shares and the Perpetual Subordinated Bond which was issued with terms that include discretion over the payment of interest.
+Accordingly, the coupon paid on the bond and related tax effect are recognised directly in retained earning.
+vi Derecognition of financial assets and liabilities: financial assets are derecognised when the contractual rights to receive cash flows have expired and where substantially all the risks and rewards of ownership have been transferred.
+Financial liabilities are derecognised only when the obligation is discharged, cancelled or has expired.
+vii Sale and repurchase agreements: financial assets sold subject to repurchase agreements repo are retained in the financial statements if they fail the fide-recognition criteria of IAS 39 described in paragraph vi above.
+The financial assets that are retained in the financial statements are reflected as loans or investment securities and the counterparty liability is included in amounts owed to depositors, credit institutions or other customers.
+Financial assets purchased under agreements to resell at a pre-determined price where the transaction is financing in nature reverse repo are accounted for as loans and receivables.
+The difference between the sale and repurchase price is treated as interest and accrued over the lives of agreements using the EIR method.
+n Derivative financial instruments and hedge accounting The Group uses derivative financial instruments interest and basis rate swaps for the purpose of reducing fair value interest rate risk to hedge its exposure to the interest rate risk arising from financing and investment activities.
+In accordance with its treasury policy, the Group does not hold or issue derivative financial instruments for trading.
+96 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 1.
+Accounting Policies continued n Derivative financial instruments and hedge accounting continued Derivative financial instruments are recognised at their fair value with changes in their fair value going through profit or loss.
+Fairvalues are calculated by discounting cash flows at the prevailing interest rates.
+All derivatives are carried as assets when their fair value is positive and as liabilities when their fair value is negative.
+Derivatives covered by master netting agreements are settled and therefore recognised on a net basis.
+The Group designates certain derivatives as a hedge of fair value of a portfolio of recognised assets or liabilities macro fair value hedge.
+Hedge accounting is used for derivatives designated in this way provided the criteria specified in IAS 39 EU endorsed are met.
+Where there is an effective hedge relationship for fair value hedges, the changes in fair value of the hedged item arising from the hedged risk are taken to profit or loss.
+The fair value changes of both the hedged item and the derivative substantially offset each other to reduce profit volatility.
+To qualify for hedge accounting at inception, the hedge relationship must be clearly documented and the derivative must be expected to be highly effective in offsetting the hedged risk.
+In addition, effectiveness must be tested throughout the life of the hedge relationship.
+The Group discontinues hedge accounting when testing demonstrates that a derivative is not or has ceased to be highly effective as a hedge, the derivative ceases through expiry or sale or the underlying hedged item matures, is sold or is repaid.
+If a derivative no longer meets the criteria for hedge accounting the cumulative fair value hedging adjustment is amortised over a period up to the maturity of the previously designated hedge relationship.
+If the underlying item is sold or repaid the unamortised fair value adjustment is immediately reflected in profit or loss.
+o Impairment of financial assets The Group regularly assesses its financial assets valued at amortised cost for impairment.
+During the reporting period, the main category within the scope was loans and advances to customers.
+The Group individually assesses for impairment loans over 500k which are more than three months in arrears, where LPA receivers are appointed, the property is taken in possession or there are any other events that suggest a high probability of credit loss.
+Loans are considered at a connection level, i. e. including all loans belonging to and connected to the customer.
+The Group estimates cash flows from these loans, including expected interest and principal payments, rental or sale proceeds, selling costs, etc.
+The Group obtains up-to-date independent valuation for properties put up for sale.
+If the present value of estimated future cash flows discounted at the original effective interest rate is less than the carrying value of the loan, a specific provision is recognised for the difference.
+Such loans are classified as impaired.
+If the present value of the estimated future cash flows exceeds the carrying value no provision is recognised.
+All loans which do not have a specific provision against them are subsequently assessed for impairment on a collective basis.
+Every loan is assigned a one-year probability of default PD and a loss given default LGD generally consistent with the requirements of the Internal Ratings Based IRB Approach, leading to the expected loss EL.
+The collective provision is the sum of all ELs.
+The calculation uses indexed valuations from ONS statistics applied at a postcode level, as it is usually impossible to request market property valuation for loans not in default.
+Different PDs are used for Buy-to-Let mortgages, residential mortgages and unsecured loans.
+Interest-only mortgages which are predominantly within the Buy-to-Let segment, are not differentiated further from capital repayment mortgages.
+As PDs are generated from historic portfolio performance using a mix of interest-only and repayment loans, they capture the impact of interest-only mortgages as long as the mix remains similar.
+The risk of interest-only customers not repaying at maturity is currently not calculated.
+The Group has begun to contact customers with upcoming interest-only loan maturities, and tracking responses and outcomes, through specific campaigns since 2014.
+Second charge mortgages are considered separately to first charge residential mortgages in that separate PDs are calculated and used in loss calculations based on previous experience of losses on second charge loans.
+The LGD calculation on second charge mortgages considers the fact that the holder of the first charge on collateral has first claim on the proceeds of a sale.
+Incurred but not reported losses IBNR, where a loss trigger has occurred but the borrower has not yet missed a payment, are captured through the Groups collective provisioning process.
+PDs are calculated for loans that are not in arrears based on historic loss data and a provision value is calculated for these accounts.
+Loans and the related provision are written off when the underlying security is sold or an unsecured loan customer has not paid for 12 months.
+Subsequent recoveries of amounts previously written off are taken through profit or loss.
+The overriding principle when dealing with a borrower in arrears is that the Group follows prescribed policies and procedures that allow for flexibility and an individual approach, tailored to the circumstances of the particular borrower.
+The Group offers assistance and a range of tools to act in the best long-term interests of borrowers who are experiencing financial stress.
+These are designed to allow customer loans to be brought back into a sustainable position.
+Cases are managed on an individual basis, with the circumstances of each customer considered separately and the action taken judged as being affordable and sustainable for the customer.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 97 1.
+Accounting Policies continued The Group will consider all relevant forbearance options when attempting to reach an affordable and sustainable plan with the borrower.
+Forbearance is the restructuring of loans to conditions and by means not stipulated under the original contract when the borrower is in financial difficulty.
+The specific tools available to assist customers vary by product and the customers status.
+The various treatments considered for customers are as follows: Capitalisation of interest: arrears are added to the loan balance and are repaid over the remaining term of the facility or at maturity for interest only products.
+A new payment is calculated which will be a higher than the previous payment.
+Temporary switch to interest-only: a temporary account change to assist customers through periods of financial difficulty where arrears do not accrue at the original contractual payment.
+Any arrears existing at the commencement of the arrangement are retained.
+Loan term extension: a permanent account change for customers in financial distress where the overall term of the mortgage is extended, resulting in a lower contractual monthly payment.
+Payment holiday: a temporary account change to assist customers through periods of financial difficulty where arrears accrue at the original contractual payment.
+Assisted voluntary sale: a period of time is given to allow borrowers to sell the property and arrears accrue based on the contractual payment.
+Reduced monthly payments: a temporary arrangement for customers in financial distress.
+For example, a short-term arrangement to pay less than the contractual payment.
+Arrears continue to accrue based on the contractual payment.
+The Group classifies a loan as forborne at the point a concession is granted based on the deteriorated financial status of the borrower.
+Accounts are classified as forborne only for the period of time which the loan is known to be, or may still be, in financial difficulty.
+When the borrower is no longer experiencing financial difficulties the loan will revert to standard terms.
+If the forbearance eliminates the arrears, the loan is no longer considered past due.
+None of the currently used forbearance measures modify the overall cash flows to an extent that requires derecognition of the existing and recognition of a new loan under IAS 39.
+Loans that ever had forbearance applied are assigned a higher probability of default in the collective provision calculation.
+Forborne accounts are not treated differently in relation to impairments in any other way.
+p Debit and credit valuation adjustments The debit and credit valuation adjustments DVA and CVA are included in the fair value of derivative financial instruments.
+The DVA is based on the expected loss a counterparty faces due to the risk of the Groups default.
+The CVA reflects the Groups risk of the counterpartys default.
+The methodology is based on a standard calculation, taking into account: the one-year probability of default, updated on a regular basis: the expected exposure at default: the expected loss given default: and the average maturity of the swaps.
+The funding valuation adjustment FVA is not calculated.
+q Provisions and contingent liabilities A provision is recognised when there is a present obligation as a result of a past event, it is probable that the obligation will be settled and the amount can be estimated reliably.
+Contingent liabilities are possible obligations arising from past events, whose existence will be confirmed only by uncertain future events, or present obligations arising from past events which are either not probable or the amount of the obligation cannot be reliably measured.
+Contingent liabilities are not recognised but disclosed unless their probability is remote.
+r Employee benefits defined contribution scheme Obligations for contributions to defined contribution pension arrangements are recognised as an expense in profit or loss as incurred.
+s Share-based payments In accordance with IFRS 2 Share-based payments, options granted to employees over the Banks shares under the Groups share-based incentive schemes are measured at fair value at grant and are charged on a straight-line basis to the profit and loss account with a corresponding increase in equity over the vesting period in which the employees become unconditionally entitled to the awards.
+The amount recognised as an expense is adjusted to reflect the actual number of awards for which the related service and non-market vesting conditions are expected to be met, such that the amount ultimately recognised as an expense is based on the number of awards that do meet the related conditions at the vesting date.
+The amount recognised as an expense for awards subject to market conditions is based on the proportion that is expected to meet the condition as assessed at the grant date.
+No adjustment is made for the actual proportion that meets the market condition at vesting.
+Share-based payments that vest on grant are immediately expensed in full with a corresponding increase in equity.
+98 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 1.
+Accounting Policies continued s Share-based payments continued The grant date fair value of a nil price option over the Banks shares which vests at grant or which carries the right to dividends or dividend equivalents during the vesting period IPO share awards is the share price at the grant date.
+The grant date fair value of a nil price option over the Banks shares that does not carry automatic rights to dividends or dividend equivalents the Deferred Share Bonus Plan is based on the Banks share price at the grant date adjusted for the impact of the expected dividend yield.
+The fair value at grant date of awards made under the Share Save Schemes is determined using a Black-Scholes Option model.
+The grant date fair value of nil price options that are subject to non-market conditions and which do not carry automatic rights to dividends or dividend equivalents the EPS element of the Performance Share Plan is based on the share price at the grant date adjusted for the impact of the expected dividend yield.
+An assessment is made at each reporting date on the proportion of the awards expected to meet the related market vesting conditions.
+The fair value of an option that is subject to market conditions the relative share price element of the Performance Share Plan is determined at grant date using a Monte Carlo model.
+Where the allowable cost of share-based awards for tax purposes is greater than the cost determined in accordance with IFRS 2, the tax effect of the excess is taken to equity.
+Employers National Insurance is charged to the profit and loss account at the share price at the reporting date on the same vesting schedule as the underlying awards.
+t Exceptional IPO expenses Exceptional items are material income or expense items which are non-recurring in nature.
+Exceptional items are reported separately in the statement of profit or loss to highlight the core performance of the Group and make it more relevant for comparison with other periods.
+The Groups exceptional expenses comprise of IPO related external fees and share awards.
+Someof the share awards vested immediately on admission while others vest over various periods of up to four years.
+Qualifying costs directly attributable to issuing the primary shares such as advisory and underwriting fees were debited directly to equity.
+Costs associated with both the primary and secondary issuance were allocated between profit or loss and equity based on the number of primary and secondary shares.
+Other non-qualifying costs were taken to profit and loss.
+Exceptional IPO share awards which vested on IPO and related national insurance contributions were expensed immediately.
+The awards with vesting periods along with the accruing national insurance are expensed on an on-going basis in profit and loss and continue to be presented as exceptional items.
+Further detail on accounting for share-based payments is disclosed in notes above.
+u Securitisation At the reporting date, the Group had one securitisation scheme administered through Rochester Financing No.
+1 Plc special purpose entity SPE.
+The Group assessed whether it controls the SPE and therefore should consolidate it under criteria of IFRS 10.
+The criteria include the power to direct relevant activities, exposure or rights to variable returns and the ability to use its power to affect the amount of these returns.
+The Group has the power to appoint directors and control daily operations of its SPE through securitisation documents.
+It owns the certificates which give rights to the residual interest income remaining after servicing the external debt.
+It has the ability to affect the amount of outgoing payments if required.
+On this basis, Rochester Financing No.
+1 Plc is considered a wholly owned subsidiary and consolidated in the Groups operations.
+The Bank has retained the risks and rewards of ownership in respect of the loans transferred to Rochester Financing No.
+1 Plc, therefore, they fail derecognition criteria and remain in its assets.
+Whilst the securitisation entity has been consolidated as a 100% subsidiary, the mortgage loans included within the securitisation structure are ring-fenced, with the cash flows being used to repay its liabilities in line with the priority of payments set out in the securitisation prospectus.
+The senior debt is held externally while junior debt and residual certificates are retained by the Bank.
+The Group statement of financial position shows externally held notes as debt securities in issue.
+v Judgements in applying accounting policies and critical accounting estimates In preparing these financial statements, the Group has made judgements, estimates and assumptions which affect the reported amounts within the current and next financial year.
+Actual results may differ from these estimates.
+Estimates and judgements are regularly reviewed based on past experience, expectations of future events and other factors.
+The key areas where estimates and judgements are made are as follows: Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 99 1.
+Accounting Policies continued i Loan book impairments: Specific provision assessments for individually significant loans or portfolios of loans involve significant judgment in relation to estimating future cash flows, including the cost of obtaining and selling collateral, the likely sale proceeds and any rental income prior to sale.
+The most critical estimate is the level of house prices where a variance of 10% equates to a change of 2.7m 2014: 4.6m in the provision.
+All assets without a specific provision are assessed collectively.
+Collective provisions are calculated using twelve month delinquency roll rates and one year probability of defaults on different segments of the loan book.
+These rates along with forced sale discounts and the level of house prices are applied to calculate expected losses.
+Judgement is exercised in deciding how to apply historic experience to current market conditions.
+The most critical estimate is the level of house prices where a variance of 10% applied to the calculation of the loss given default equates to a change of 3.2m 2014: 2.4m in the provision.
+The impact of house price variances on the probability of default is difficult to quantify but could be material.
+ii Loan book acquisition accounting and income recognition: Acquired loan books are initially recognised at fair value.
+Significant judgement is exercised in calculating their effective interest rate EIR using cash flow models which include assumptions on the likely macroeconomic environment, including HPI, unemployment levels and interest rates, as well as loan level and portfolio attributes and history used to derive prepayment rates, the probability and timing of defaults and the amount of incurred losses.
+iii Effective interest rate: A number of assumptions are made when calculating the effective interest rate for newly originated loan assets.
+These include their expected lives, likely redemption profiles and the anticipated level of any early redemption charges.
+Directly attributable fees is a significant element of the effective interest rate of the BTL products and is recognised in profit and loss over the expected life of the loans.
+Judgement is used in assessing the expected life of products with an initial discounted or fixed period which then revert to the standard variable rate.
+The impact of a 6 month longer expected life on 2015 new origination, that is expected to reach the end of the discounted or fixed period, would be to recognise an additional 1.1m 2014: 1.0m of interest income as the impact of spreading fee income over a longer period is more than offset by the impact of a higher revert rate for the additional period.
+w Adoption of new standards During the year the Group adopted Annual Improvements to IFRSs, 2010 to 2012 and 2011 to 2013 cycles, all effective for accounting periods beginning on or after 1 July 2014, consisting of minor amendments to existing standards.
+The annual improvement cycles did not have a significant impact on the financial statements.
+The new standards and amendments below have not been yet endorsed by the EU and therefore have not been applied in preparing these financial statements: IFRS 9 Financial Instruments, effective from 1 January 2018, replaces IAS 39 Financial Instruments: Recognition and Measurement.
+IFRS 9 introduces a different classification of financial assets based on the entitys business model and the cash flow characteristics of the instruments.
+IFRS 9 will replace the existing incurred loss impairment approach with an expected credit loss approach.
+Under this approach at initial recognition of a loan, an allowance is required for expected credit losses ECL resulting from default events that are possible within the next 12 months.
+In the event of a significant increase in credit risk, an allowance is required for ECL resulting from all possible default events over the expected life of the financial instrument.
+The assessment of whether credit risk has increased significantly since initial recognition is performed for each reporting period by considering the change in the risk of default occurring over the remaining life of the financial instrument, rather than by considering an increase in ECL.
+The assessment of credit risk and the estimation of ECL must be unbiased and probability-weighted, and should incorporate all available information which is relevant to the assessment including information about past events, current conditions and reasonable and supportable forecasts of economic conditions at the reporting date.
+IFRS 9 is expected to have a significant impact on operations particularly in the risk and finance functions of the Group.
+The appropriate governance framework will also be established to review ECLs, models used, and judgements made.
+The Group is completing its impact assessment phase and is planning to commence its design and modelling phase in the first quarter of 2016.
+The Group will engage external consultants to work alongside existing teams to complete the development ofIFRS 9 models, controls and procedures by the end of 2016 that will allow OSB to parallel run and test IFRS 9 models during2017.
+Hedge accounting will become more closely aligned with risk management practices under IFRS 9.
+The Group has elected to continue with IAS 39 hedging that is an option under IFRS 9 until a separate IASB project to address macro hedge accounting strategies is finalised and can be assessed.
+Whilst at this stage the Group expects to continue with IAS 39 hedge accounting, it will implement the revised hedge accounting disclosures required by the related amendments to IFRS 7 Financial Instruments: Disclosures.
+At this stage it is not possible to quantify the potential impact of IFRS 9, however the Group will provide a further update in the 2016 annual report and should be in a position to provide initial quantitative indications during 2017.
+100 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 1.
+Accounting Policies continued w Adoption of new standards continued IFRS 15 Revenue from Contracts with Customers, effective from 1 January 2018, replaces IAS 11 Construction contracts, IAS 18 Revenue and several related interpretations.
+It introduces a single framework for revenue recognition based on new concepts and principles.
+The new standard is not expected to have a significant impact on the financial statements.
+IFRS 16 Leases, effective from 1 January 2019, replaces IAS 17 Leases, IFRIC 4 Determining whether an Arrangement contains a Lease and two related SIC interpretations.
+The new standard requires the lessees to recognise right-of-use assets and lease liabilities for most leases over 12 months long.
+Lessor accounting has largely remained unchanged.
+Adoption of IFRS 16 in respect of rented properties is not expected to have a material effect on the financial statements.
+Interest receivable and similar income Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 On BTL SME mortgages 149,658 88,001 On residential mortgages 115,912 105,754 On personal loans 7,482 21,576 On reverse repo transactions 460 On investment securities 1,632 1,684 On other liquid assets 2,781 1,661 Net expense on derivative financial instruments 9,259 9,254 268,206 209,882 Included within interest receivable is 2,408k 2014: 1,161k in respect of interest accrued on accounts with a specific provision.
+Interest payable and similar charges Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 On retail deposits 94,961 78,672 On Perpetual Subordinated Bonds 969 1,144 On subordinated liabilities 1,250 1,261 On wholesale borrowings 5,693 6,407 Net income on derivative financial instruments 4,439 2,803 98,434 84,681 4.
+Fair value gains and losses on financial instruments Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Fair value changes in hedged assets 7,435 5,491 Hedging of assets 7,299 6,960 Fair value changes in hedged liabilities 1,713 3,948 Hedging of liabilities 1,605 4,077 Amortisation of the fair value adjustment on cancelled hedges 3,147 3,198 Net gains losses on unmatched swaps 73 154 Debit and credit valuation adjustment 51 61 3,153 4,323 Amortisation of the fair value adjustment on cancelled hedges relates to hedged assets and liabilities where the hedges were terminated before maturity and effective at the point of termination.
+Their fair value adjustment at the time of hedge termination continues to be amortised over the original hedging term.
+Unmatched swaps are derivatives that do not form part of a hedging relationship.
+The debit valuation adjustment DVA is calculated on the Groups derivative liabilities and represents exposure of their holders to the risk of the Groups default.
+The credit valuation adjustment CVA reflects the Groups risk of the counterpartys default.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 101 5.
+Gain on sales of financial instruments The Bank routinely buys and sells liquidity assets in order to confirm the ease with which cash can be realised and the robustness of the valuations assigned to such assets.
+During the year, transactions in liquid assets resulted in a net gain of 580k 2014: net gain of 2,258k.
+Administrative expenses Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Staff costs 21,653 18,701 Facilities costs 2,179 2,157 Marketing costs 1,855 1,316 Support costs 5,160 3,201 Professional fees 4,588 3,136 1 Other costs 3,994 3,879 39,429 32,390 1 Other costs mainly consist of irrecoverable VAT expense.
+Included in professional fees are amounts paid to the auditors of the Group, further analysed below: Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Audit of the Bank and Group accounts 291 220 Audit of the Groups subsidiary undertakings pursuant to legislation 99 115 Tax advisory services 38 17 Tax compliance services 21 27 Audit related assurance services 71 53 All other non-audit services 41 98 561 530 In 2014, a further 855k was paid to the auditors in connection with the stock exchange listing, as disclosed in note 9.
+Staff numbers and costs Staff costs comprise the following categories Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Salaries, incentive pay and other benefits 18,933 16,374 Share-based payments 477 17 Social security costs 1,161 1,439 Other pension costs 1,082 871 21,653 18,701 The average number of persons employed by the Group including executive Directors during the period was 520 2014: 419 on a full-time employee FTE basis, analysed below.
+Group Group 2015 2014 Operations 248 215 Administrative 272 204 520 419 102 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 7.
+Directors emoluments and transactions Executive Directors emoluments 2015 Contribution to personal Salary Incentive Other pension 1 2 & fees pay benefits policy Total 000 000 000 000 000 A Golding 401 191 13 52 657 A Talintyre 284 130 9 37 460 Total executive emoluments 685 321 22 89 1,117 Executive Directors emoluments 2014 Contribution Year Incentive to personal ended 1 Salary pay Other pension 31-Dec-14 2 & fees restated benefits policy Total 000 000 000 000 000 A Golding 349 174 12 45 580 A Talintyre 252 120 8 33 413 Total executive emoluments 601 294 20 78 993 Non-Executive Directors emoluments Group Group Group Group 2015 2014 2014 2014 3 Fees Fees IPO Awards Total 000 000 000 000 G Allatt 70 44 44 4 E Anstee 2 R Duke 80 68 181 249 M Fairey 150 193 193 T Hanford 60 53 53 M McCaig 60 61 272 333 Sir C McCarthy 17 272 289 M McNamara 70 47 47 D Mills 37 272 309 Dr D Morgan 60 53 53 N Moss 60 40 40 S Wilcke 60 258 258 672 871 997 1,868 Total Directors emoluments 1,787 1,864 997 2,861 1 In addition to the cash incentive pay above, the Executive Directors were granted an equal amount in the form of shares deferred for three years under the Deferred Share Bonus Plan.
+The deferred part does not have any further performance conditions attached, however it is subject to clawback and is forfeited if the Executive Director leaves prior to vesting unless a good leaver reason applies such as redundancy, retirement or ill health.
+2014 incentive pay has been restated to exclude the amount payable in shares subject to future vesting.
+The Executive Directors received a further share award under the Performance Share Plan with a grant date face value of 375k for A Golding and 265k for A Talintyre using a share price of 2.19 the average mid-market quotation for the preceding five days before grant.
+These shares vest in three years subject to performance conditions disclosed in note 8.
+2 Other benefits comprise of car allowance and health insurance.
+3 Certain Non-Executive Directors received IPO awards in the form of nil price options which vested in full on admission.
+4 E Anstee joined OSB on 21 December 2015.
+S Wilcke stepped down as Executive Chairman of the Group on 1 April 2014 in advance of the listing on the London Stock Exchange and M Fairey was appointed as an independent Non-Executive Chairman.
+S Wilcke remained on the Board as a Non-Executive Director.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 103 7.
+Directors emoluments and transactions continued M Faireys remuneration consisted of 150k directors fees in respect of his duties as Chairman of the Board and Chairman of the Nomination Committee.
+In 2014, his remuneration comprised of directors fees of 100k and a payment of 51k to purchase 30k shares in the Bank at IPO.
+The Bank also covered the cost of income tax and national insurance of 42k.
+S Wilckes remuneration in 2015 consisted of directors fees of 60k.
+His remuneration in 2014 comprised of salary of 107k, bonus payments of 102k, 14k in pension contributions and 35k non-executive fees.
+Prior to the IPO, A Golding, A Talintyre and S Wilcke held shares in OSB Holdco Ltd Holdco, one of the Banks shareholders, under along-term incentive plan LTIP.
+The difference between the unrestricted market value and nominal value of the Growth Shares, grossed up for income tax and national insurance covered by the Bank was 23k for A Golding, 9k for A Talintyre and 18k for S Wilcke.
+These shares were subject to a vesting schedule but vested in full at IPO in June 2014.
+Nodirectors had their shares vest in 2015.
+The figures above include nil 2014: nil compensation for loss of office during the period.
+At 31 December 2015 outstanding loans granted in the ordinary course of business to Directors and their connected persons amounted to nil 2014: nil.
+See Note 8 Share-based payments and the Annual Report on Remuneration for further details on Directors emoluments.
+Share-based payments The Group operates the following share-based schemes: IPO Share Awards Certain Directors, senior managers and other employees of the Bank received one off share awards in the form of nil price options over shares in the Bank on its admission to the London Stock Exchange in June 2014.
+A proportion of these awards vested on admission with the remainder vesting over either a 12, 24 or 48 month period.
+The cost of IPO Share Awards based on their fair value at grant date of 170 pence per share the IPO offer price is recognised over the respective vesting period adjusted for expected attrition with awards that vested on admission being immediately expensed in full.
+The expense is reported within exceptional IPO expenses in the statement of profit or loss and is offset fully by an additional capital contribution as the awards were granted by OSB Holdco Ltd, the Banks major shareholder.
+OSB Sharesave Scheme The Save As You Earn SAYE or Sharesave Schemes are open to all UK based employees and allow them to save a fixed amount of between 5 and 500 per month over either three or five years in order to use these savings at the end of the qualifying period to buy the Banks shares at a fixed price established when the schemes were announced.
+The group offered 3 and 5 year sharesave schemes in both 2014 and 2015, with the exercise price set at a 20% discount on the share price on the scheme dates.
+Deferred Share Bonus Plan The Deferred Share Bonus Plan DSBP applies to Executive Directors and certain senior managers and requires 50% of their performance bonuses to be deferred in shares for 3 years.
+There are no further performance conditions attached but the share awards are subject to clawback provisions.
+The DSBP is a share-based award and as such is expensed over its vesting period.
+The first DSBP relating to 2014 bonuses was granted in March 2015.
+Performance Share Plan Executive Directors and certain senior managers are also eligible for a Performance Share Plan PSP based on performance conditions linked to earnings per share and total shareholder return over a 3 year vesting period.
+The first award was issued in March 2015.
+The performance conditions applying to 2015 awards are based on a combination of EPS and total shareholder return TSR equally weighted and assessed independently.
+For the EPS element, growth targets are linked to the Companys three year growth plan, measuring growth from the base figure of 2014.
+For the TSR element, OneSavings Bank Shares performance is measured against the FTSE All Share index excluding Investment Trusts.
+104 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 8.
+Share-based payments continued Performance Share Plan continued The share-based expense for the year includes a charge in respect of the remaining IPO awards with future vesting provisions, Sharesave schemes, the deferred Share bonus plan and Performance Share Plan.
+The IPO related charge is reported within note 9 Exceptional IPO expenses while the Sharesave schemes, deferred bonus plan and PSP charges are included in employee expenses within note 6 Administrative expenses.
+The share-based payment expense during the year comprised of the following: 2015 2014 000 000 Included in exceptional IPO expenses: Share awards vested on IPO 2,272 IPO share award expensed in the year 1,335 1,496 1,335 3,768 Included in administrative expenses: Sharesave 39 17 Deferred Share Bonus Plan 169 Performance Share Plan 269 477 17 1,812 3,785 Movements in the number of share awards and their weighted average exercise prices are presented below: IPO share Deferred shares Performance awards Sharesave Bonus Plan Share plan Weighted average exercise Number Number price, Number Number At 1 January 2015 2,673,508 527,821 1.34 Granted 282,889 2.27 322,933 612,262 Exercised 1,114,635 Forfeited 321,029 48,783 1.70 21,358 33,105 At 31 December 2015 1,237,844 761,927 1.66 301,575 579,157 Exercisable at At 31 December 2015 119,791 15,342 1.62 IPO share award Sharesave Weighted average exercise Number Number price, At 1 January 2014 Granted 3,726,844 538,567 1.34 Exercised 1,030,206 Forfeited 23,130 10,746 1.34 At 31 December 2014 2,673,508 527,821 1.34 Exercisable at At 31 December 2014 119,791 For the share-based awards granted during the year, the weighted average grant date fair value was 152 pence.
+The weighted average market price at exercise for share options exercised in the year was 298 pence.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 105 8.
+Share-based payments continued The range of exercise prices and weighted average remaining contractual life of outstanding awards are as follows: 2015 2014 Weighted Weighted average average remaining remaining contractual contractual Exercise price Number life Number life IPO share awards Nil 1,237,844 2.5 2,673,508 1.9 Sharesave 134227 pence 761,927 3.4 527,821 3.3 Deferred Share Bonus Plan Nil 301,575 2.2 Performance Share Plan Nil 579,157 2.2 2,880,503 2.6 3,201,329 2.2 The valuation of share options is based on the following assumptions: IPO Share Awards The grant date fair value of the IPO share awards was the issue price of 1.70 as they are in the form of nil price options which carry rights to dividends during the vesting period.
+The charge in respect of awards with future vesting provisions assumed a weighted average attrition of nil 2014: 2.6%.
+This is lower than the overall expected staff attrition rate as nil attrition was assumed for certain Senior Managers who received larger awards.
+Sharesave Schemes The grant date fair values of options under the Sharesave Schemes were determined using a Black-Scholes model.
+This determined the fair value of options over 1 ordinary share in the 2015 3 and 5 year Sharesave Schemes as 17 pence and 19 pence respectively 2014: 31 pence and 34 pence, using the following assumptions: 2015 2014 Contractual life, years 3 5 years 3 5 years Share price at issue, 2.84 1.60 1 Expected volatility 20% 20% Attrition rate 9.6% 10.5% Dividend yield 3.6% 3% 1 The volatility was based on a benchmark of the FTSE 350 diversified financials as insufficient history was available for the Banks Shares.
+Deferred Share Bonus Plan The grant date fair value of nil price options under the deferred share plan of 226 pence per share is based on the mid-market share price at the grant date of 251 pence per share, adjusted for the impact of dividends, as the options dont carry automatic rights to dividends.
+A dividend yield of 3.7% was used based on available analyst consensus.
+The expense for 2015 assumes an attrition rate of 9.1%.
+Performance Share Plan The grant date fair value of nil price options under the performance share plan PSP of 226 pence per share is based on the mid-market share price at the grant date of 251 pence per share, adjusted for the impact of dividends, as the options dont carry automatic rights to dividends.
+A dividend yield of 3.7% was assumed based on available analyst consensus.
+A vesting rate of 100% was assumed as at 31 December 2015 for the EPS element of the PSP, based on the expectation that the required target growth will be achieved over the vesting period.
+A vesting rate of 50% was assumed for the total shareholder return element of the PSP, based on a Monte Carlo model using historical share price performance data for the target benchmark FTSE all share index excluding Investment Trusts and the FTSE 350.
+Diversified Financials as a proxy for the Companys share as insufficient history was available.
+106 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 9.
+Exceptional IPO expenses Exceptional IPO expenses consist of expenses incurred in connection with the stock exchange listing IPO and share based awards granted on admission.
+These non-recurring expenses are presented separately to provide better comparability of the current reporting period with previous years.
+Exceptional IPO expenses are summarised in the table below: Group Group Year ended Year ended 31-Dec-15 31-Dec-14 Audited Audited Charged to profit or loss 000 000 IPO related costs 715 3,660 Share awards vested on IPO 2,272 IPO share awards with future vesting provisions 1,335 1,496 2,050 7,428 In 2015, IPO related costs consist solely of the related employers national insurance on IPO share awards.
+Share awards represent the grant date fair value of nil price options over OSB shares granted to certain Directors, senior managers and other employees of the Bank at admission.
+These options were granted by OSB Holdco Ltd, the Banks major shareholder and as such the expense excluding the associated employers National Insurance, is offset fully by an additional capital contribution.
+Group Group Year ended Year ended 31-Dec-15 31-Dec-14 Charged to reserves 000 000 IPO related costs 2,369 IPO related expenses of 2014 include 855k paid to the Group auditors.
+Note 1 t explains the basis of the split of IPO costs between profit or loss and reserves.
+Taxation Group Group Year ended Year ended 31-Dec-15 31-Dec-14 Taxation 000 000 Corporation tax 20,804 4,755 Total current taxation 20,804 4,755 Deferred taxation 435 7,453 Total taxation 21,239 12,208 The taxation on the Groups profit before taxation differs from the theoretical amount that would arise using the weighted average taxation rate applicable to profits of the Group as follows: Year ended Year ended 31-Dec-15 31-Dec-14 Taxation 000 000 Profit before taxation 105,297 63,745 Profit multiplied by the weighted average rate of corporation taxation in the UK during 2015 of 20.25% 2014: 21.5% 21,323 13,705 Taxation effects of: Expenses not deductible for taxation purposes 24 641 Adjustments in respect of earlier years 294 2,235 Subsidiaries taxed at different rates 66 52 Re-measurement of deferred taxation change in taxation rate 172 96 Other 52 51 Total taxation charge 21,239 12,208 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 107 11.
+Earnings per share Earnings per share EPS are based on the profit for the period and the number of ordinary shares in issue.
+Basic EPS are calculated by dividing profit attributable to ordinary shareholders by the weighted average number of ordinary shares in issue during the year.
+Diluted earnings per share take into account share options, awards and preference shares which can be converted to ordinary shares.
+For the purpose of calculating earnings per share, profit attributable to ordinary shareholders is arrived at by adjusting profit for the year for the after-tax amounts of coupons on equity bonds: Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Profit for the year 84,058 51,537 Adjustments: Coupon on perpetual subordinated bonds classified as equity 1,450 1,450 Tax on coupon 294 312 Profit attributable to ordinary shareholders 82,902 50,399 In 2014, the Group reorganised its share capital for the IPO, as disclosed in note 31.
+In accordance with IAS 33, earnings per share for all periods have been prepared on the basis of the new structure after the reorganisation, as summarised in the table below: Group Group Year ended Year ended 31-Dec-15 31-Dec-14 Weighted average number of shares, millions Basic 243.1 232.6 Diluted 243.8 232.7 Earnings per share, pence per share Basic 34.1 21.7 Diluted 34.0 21.7 Underlying earnings per share, pence per share Basic 34.8 24.4 Diluted 34.7 24.4 12.
+Dividends During the year, the Group paid the following dividends: Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Final dividend 2014, 3.9 pence per share 9,480 Interim dividend 2015, 2.0 pence per share 4,862 14,342 The Directors propose a final dividend of 6.7 pence per share 2014: 3.9 pence payable on 18 May 2016 with a record date of 29 March 2016.
+This dividend is not reflected in these financial statements as it is subject to approval by shareholders at the Annual General Meeting on 11 May 2016.
+Together with the interim dividend of 2.0 pence, it makes a total dividend for 2015 of 8.7 pence per share.
+Loans and advances to credit institutions Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 000 000 000 000 Loans and advances to credit institutions have remaining maturities as follows: Repayable on demand: Bank of England 311,520 311,520 568,756 568,756 Others 43,171 11,862 198,562 158,706 354,691 323,382 767,318 727,462 Within the above balances, 29.4m is ring-fenced within the Rochester Financing No.
+1 Plc securitisation vehicle and can only be used to pay interest and principal of the issued debt securities.
+108 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 14.
+Investment securities Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 000 000 Government investment securities 393,382 158,181 Other investment securities: Unlisted 416 393,382 158,597 Investment securities have remaining maturities as follows: Less than three months 25,049 58,381 Three months to one year 339,283 23,240 One to five years 29,050 57,747 More than five years 19,229 393,382 158,597 Investment securities include nil 2014: 20.0m of assets sold under repurchase agreements repos.
+In accordance with IAS 39, these securities have been retained in the Groups assets.
+In addition to the above, at 31 December 2015 the Group held 160.7m 2014: 98.0m of treasury bills received from the Bank of England under the FLS scheme.
+These securities are accounted for off-balance sheet but included in liquid assets for regulatory purposes.
+In exchange, the Group pledges with the Bank of England either loans to customers or other investment securities.
+These assets cannot be sold or pledged further under normal circumstances.
+At the reporting date, the Group had no treasury assets 2014: 102.0m pledged with the Bank of England in exchange for the FLS treasury bills.
+The value of pledged loans to customers is disclosed in note 15.
+The Directors consider that the primary purpose of holding investment securities is prudential.
+These securities are held as liquid assets with the intention of use on a continuing basis in the Groups activities and are classified as loans and receivables, financial assets held to maturity or financial assets available for sale as appropriate.
+During 2014 and 2015, all investment securities belonged to the available-for-sale category.
+Movements during the year of investment securities classified as available-for-sale are analysed as follows: Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 000 000 At 1 January 158,597 339,603 Additions 449,056 1,171,747 Disposals and maturities 213,142 1,353,932 Changes in fair value 1,129 1,179 At 31 December 393,382 158,597 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 109 15.
+During the year the Group purchased mortgage books from other financial institutions with a gross value of 244.0m for a total of 260.8m 2014: gross value 26m, purchase price 20m.
+At 31 December 2015, mortgages with a carrying value of 283.7m 2014: 328.0m were pledged under the Groups securitisation programme.
+A further 465.6m 2014: nil were pledged with the Bank of England under the FLS scheme.
+These mortgages cannot be sold or pledged further unless the Group defaults on its obligations.
+110 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 16.
+Provision for impairment losses on loans and advances continued 2014: Residential Personal BTL SME mortgages loans Total Specific 000 000 000 000 Group At 1 January 2014 22,245 2,217 24,462 Write offs in year 11,652 1,529 13,181 Charge credit for the year net of recoveries 4,720 160 4,880 At 31 December 2014 15,313 848 16,161 Bank At 1 January 2014 18,160 731 18,891 Write offs in year 7,795 493 8,288 Charge credit for the year net of recoveries 843 161 1,004 At 31 December 2014 11,208 399 11,607 Residential Personal BTL SME mortgages loans Total Collective 000 000 000 000 Group At 1 January 2014 115 858 2,098 3,071 Write offs in year Charge credit for the year net of recoveries 1 933 5,871 6,805 At 31 December 2014 116 1,791 7,969 9,876 Bank At 1 January 2014 24 780 2,098 2,902 Write offs in year Charge credit for the year net of recoveries 24 720 5,871 6,615 At 31 December 2014 48 1,500 7,969 9,517 Residential Personal BTL SME mortgages loans Total Total 000 000 000 000 Group At 1 January 2014 22,360 3,075 2,098 27,533 Write offs in year 11,652 1,529 13,181 Charge credit for the year net of recoveries 4,721 1,093 5,871 11,685 At 31 December 2014 15,429 2,639 7,969 26,037 Bank At 1 January 2014 18,184 1,511 2,098 21,793 Write offs in year 7,795 493 8,288 Charge credit for the year net of recoveries 867 881 5,871 7,619 At 31 December 2014 11,256 1,899 7,969 21,124 Prior to 2014, the Group provided, but did not write off loans after the security assets were sold, if it was still pursuing further recovery.
+In 2014 such loans were written off.
+112 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 17.
+Impairment losses Group Group Year ended Year ended 31-Dec-15 31-Dec-14 000 000 Impairment losses on loans and advances to customers 10,616 11,685 10,616 11,685 18.
+Investments in subsidiaries, intercompany loans and transactions with related parties The balances between the Bank and its subsidiaries at the reporting date are summarised in the table below: As at As at 31-Dec-15 31-Dec-14 Investments in subsidiaries and intercompany loans receivable 944,479 834,506 Deemed loan liability 169,466 204,111 Intercompany loans payable 4,929 727 770,084 629,668 The net movement during the year is as follows: Shares in Loans to subsidiary subsidiary undertakings undertakings Total 2015 000 000 000 At 1 January 3,476 626,192 629,668 Additions 221,092 221,092 1 Reclassifications 1,630 1,630 Repayments 80,676 80,676 At 31 December 1,846 768,238 770,084 1 During the year, indirect investments held through intermediary holding companies were reclassified to intercompany loans.
+Shares in Loans to subsidiary subsidiary undertakings undertakings Total 2014 000 000 000 At 1 January 3,476 454,754 458,230 Additions 242,418 242,418 Repayments 70,980 70,980 At 31 December 3,476 626,192 629,668 Below is the list of the Banks subsidiaries: Charged Balance due by to to by the Class of Country of the Bank Bank 2015 shares Activity registration Ownership 000 000 Cavenham Financial Services Ltd Ordinary Mortgage originator and servicer England 100% 1,703 2,899 EasiOption BPO Services Private Ltd Ordinary Back office processing India 100% Easioption Ltd Ordinary Holding company England 100% 507 OSB India Private Limited Formerly Ordinary Back office processing India 100% 378 571 Easiprocess Private Ltd Guernsey Home Loans Ltd Ordinary Mortgage provider England 100% 885 25,725 Guernsey Home Loans Ltd Ordinary Mortgage provider Guernsey 100% 2,767 79,358 1 Heritable Development Finance Ltd Ordinary Mortgage originator and servicer England 85% 858 544 2 Interbay Group Holdings Ltd Ordinary Mortgage provider England 100% 10,658 489,564 Jersey Home Loans Ltd Ordinary Mortgage provider England 100% 263 7,360 Jersey Home Loans Ltd Ordinary Mortgage provider Jersey 100% 10,927 323,220 Prestige Finance Ltd Ordinary Mortgage originator and servicer England 100% 919 3,657 Reliance Property Loans Ltd Ordinary Mortgage provider England 100% 141 4,416 3 Rochester Financing No.
+1 Plc Ordinary Securitisation entity England 0% 159,882 4 Rochester Management Limited Ordinary Securitisation entity England 100% Rochester Mortgage Holdings Limited Ordinary Securitisation entity England 100% Swingcastle Limited Ordinary Mortgage servicer England 100% 7 157 21,776 768,238 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 113 18.
+Investments in subsidiaries, intercompany loans and transactions with related parties continued Charged Balance due by to to by the Class of Country of the Bank Bank 2014 restated shares Activity registration Ownership 000 000 Cavenham Financial Services Ltd Ordinary Mortgage originator and servicer England 100% 2,535 3,281 EasiOption BPO Services Private Ltd Ordinary Back office processing India 100% Easioption Ltd Ordinary Holding company England 100% Easiprocess Private Ltd Ordinary Back office processing India 100% 2,003 295 Guernsey Home Loans Ltd Ordinary Mortgage provider England 100% 1,027 29,462 Guernsey Home Loans Ltd Ordinary Mortgage provider Guernsey 100% 3,141 95,295 1 Heritable Development Finance Ltd Ordinary Mortgage originator and servicer England 85% 1,534 2 Interbay Group Holdings Ltd Ordinary Mortgage provider England 100% 5,420 308,422 Jersey Home Loans Ltd Ordinary Mortgage provider England 100% 320 8,178 Jersey Home Loans Ltd Ordinary Mortgage provider Jersey 100% 12,490 383,405 Prestige Finance Ltd Ordinary Mortgage originator and servicer England 100% 62 3,097 Reliance Property Loans Ltd Ordinary Mortgage provider England 100% 146 4,733 3 Rochester Financing No.
+1 Plc Ordinary Securitisation entity England 0% 204,111 Swingcastle Limited Ordinary Mortgage servicer England 100% 6 247 17,939 626,192 1 Heritable Development Finance Ltd was set up in December 2013 with Heritable Capital Ltd as a business development partnership.
+The entity is majority owned and controlled by the Bank.
+It has minimal retained earnings and immaterial non-controling interest which is not presented separately in Group reserves.
+2 Interbay Group Holdings Ltd OSB IGH Ltd is the Interbay group holding company.
+1 Plc Rochester is a securitisation entity established by the Bank in October 2013 to raise diversified funds.
+Although not legally owned by the Group, it is fully controlled and consequently consolidated as a 100% subsidiary.
+The balance payable at the reporting date comprises of the deemed loan liability of 169.5m less 9.6m receivable through the quarterly cash distribution mechanism included within investments in subsidiaries and intercompany loans.
+4 Rochester Management Limited was incorporated on 23 December 2015 to be the legal entity holder for securitised mortgages, but did not trade in the year.
+All of the above investments are reviewed annually for impairment.
+All of the subsidiaries are actively trading or are fully funded by the Bank.
+Based on managements assessment of the future cash flows of each entity, no impairment has been recognised.
+In addition to the above subsidiaries, the Bank has transactions with Kent Reliance Provident Society KRPS, one of its founding shareholders.
+KRPS runs member engagement forums for the Bank.
+In exchange, the Bank provides KRPS with various services including IT, finance and other support functions.
+During the year the Bank covered operating expenses of KRPS amounting to0.2m.
+All related party transactions were made on terms equivalent to those that prevail in arms length transactions.
+During the period there were no related party transactions between the key management personnel and the Bank other than as described below.
+Transactions with Key Management Personnel The Board considers the key management personnel to comprise Executive and Non-Executive Directors.
+Directors remuneration is disclosed in note 7.
+In 2014, the Group provided A Golding a mortgage of 802k, issued on standard terms and on an arms length basis.
+The mortgage was fully repaid by 31 December 2014.
+No loans were issued to related parties during 2015.
+Key management personnel and connected persons held deposits with the Group of 1,135k 2014: 86k.
+114 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 19.
+Intangible assets Group Group Bank and Bank Year ended Year ended Year ended 31-Dec-15 31-Dec-15 31-Dec-14 000 000 000 Cost At 1 January 5,341 5,341 3,727 Reclassification from property, plant and equipment 1,188 Additions 1,265 1,178 1,614 Disposals and write offs 2,155 2,155 At 31 December 5,639 4,364 5,341 Amortisation At 1 January 3,036 3,036 2,610 Reclassification from property, plant and equipment 713 Charged in year 898 770 426 Disposals and write offs 2,155 2,155 At 31 December 2,492 1,651 3,036 Net book value At 31 December 3,147 2,713 2,305 Intangible assets consist of computer software.
+There were no capitalised costs related to the internal development of software during the period.
+During the year fully depreciated assets were written off.
+Property, plant and equipment Freehold Equipment, land and fixtures buildings and vehicles Total Group 2015 000 000 000 Cost At 1 January 2015 1,440 9,520 10,960 Reclassification to intangible assets 1,188 1,188 Additions 4,852 2,993 7,845 Disposals and write offs 5,505 5,505 Translation difference At 31 December 2015 6,292 5,820 12,112 Depreciation At 1 January 2015 264 7,592 7,856 Reclassification to intangible assets 713 713 Charged in year 75 751 826 Disposals and write offs 5,505 5,505 Translation difference At 31 December 2015 339 2,125 2,464 Net book value At 31 December 2015 5,953 3,695 9,648 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 115 20.
+Property, plant and equipment continued Freehold Equipment, land and fixtures buildings and vehicles Total Bank 2015 000 000 000 Cost At 1 January 2015 1,440 5,935 7,375 Additions 2,544 2,749 5,293 Disposals and write offs 4,093 4,093 At 31 December 2015 3,984 4,591 8,575 Depreciation At 1 January 2015 264 4,668 4,932 Charged in year 75 665 740 Disposals and write offs 4,093 4,093 At 31 December 2015 339 1,240 1,579 Net book value At 31 December 2015 3,645 3,351 6,996 Freehold Equipment, land and fixtures buildings and vehicles Total Group 2014 000 000 000 Cost At 1 January 2014 1,419 9,451 10,870 Reclassification to other assets 2,747 2,747 Cost and depreciation grossed up 1,428 1,428 Additions 21 1,345 1,366 Translation difference 43 43 At 31 December 2014 1,440 9,520 10,960 Depreciation At 1 January 2014 241 5,674 5,915 Cost and depreciation grossed up 1,428 1,428 Charged in year 23 447 470 Translation difference 43 43 At 31 December 2014 264 7,592 7,856 Net book value At 31 December 2014 1,176 1,928 3,104 Freehold Equipment, land and fixtures buildings and vehicles Total Bank 2014 000 000 000 Cost At 1 January 2014 1,419 5,042 6,461 Additions 21 893 914 At 31 December 2014 1,440 5,935 7,375 Depreciation At 1 January 2014 241 4,408 4,649 Charged in year 23 260 283 At 31 December 2014 264 4,668 4,932 Net book value At 31 December 2014 1,176 1,267 2,443 In 2014, certain items have been reclassified to other categories within the statement of financial position.
+In 2015, some items were reclassified from property, plant and equipment to intangible assets.
+In 2014, fully depreciated fixed assets across the subsidiaries were recognised on a gross basis.
+In 2015, fully depreciated assets were written off.
+116 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 21.
+Deferred taxation Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 Deferred taxation asset 000 000 000 000 At 1st January 3,563 574 10,901 7,260 Profit or loss charge credit 435 87 7,453 6,801 Tax taken to other comprehensive income and reserves 273 273 115 115 At 31 December 3,401 760 3,563 574 Analysed as: Losses carried forward 2,435 2,875 Accelerated depreciation 227 21 141 27 Share-based payments 659 659 598 598 Other 80 80 51 51 3,401 760 3,563 574 On 1 April 2015, the corporation tax rate changed from 21% to 20%.
+This results in a weighted average rate for the year of 20.25% 2014: 21.5%.
+In the 2015 Summer Budget, the UK Government announced the reduction of the main corporation tax rate from 20% to 19% from 1 April 2017 and from 19% to 18% from 1 April 2020.
+As these rates were substantively enacted at 31 December 2015, the deferred tax has been calculated using the relevant rates for the expected periods of utilisation.
+As at 31 December 2015, the Group has 4.8m 2014: 4.8m of losses for which deferred tax assets had not been recognised.
+The Government also announced an additional 8% surcharge on banking profits over 25m, effective from 1 January 2016.
+The Banks profits are expected to be subject to the surcharge however, subsidiaries profits are not, which means their losses of prior years will not attract an additional tax relief.
+The deferred tax calculation does not take into account the surcharge effect.
+Amounts owed to retail depositors Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 000 000 Amounts owed to retail depositors 5,363,792 4,331,639 Repayable in the ordinary course of business as follows: Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 On demand 1,890,037 1,432,528 Less than three months 450,393 208,435 Three months to one year 1,903,208 1,651,258 One to five years 1,120,154 1,039,418 5,363,792 4,331,639 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 117 24.
+Amounts owed to credit institutions Repayable in the ordinary course of business as follows: Group Group and and Bank Bank As at As at 31-Dec-15 31-Dec-14 000 000 Less than three months 1,518 23,009 1,518 23,009 As at 31 December 2014, amounts owed to credit institutions included an obligation of 20m to repurchase investment securities sold in a repo transaction, as disclosed in note 14.
+Amounts owed to other customers Repayable in the ordinary course of business as follows: Group Group and and Bank Bank As at As at 31-Dec-15 31-Dec-14 000 000 Less than three months 5,768 4,353 One to five years 110 5,878 4,353 26.
+Debt securities in issue Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 000 000 000 000 One to five years 188,350 238,390 188,350 238,390 Debt securities in issue comprise AAA and AA rated notes issued by Rochester Financing No.
+1 Plc Rochester and sold to third-party investors in 2013.
+Rochester is a mortgage securitisation entity established by the Bank in 2013.
+The Bank retained the remaining notes and residual certificates issued by Rochester and as such did not transfer substantially the risks and rewards of ownership of the securitised mortgages.
+These mortgages therefore remain on the Banks balance sheet and the Group consolidates Rochester.
+The notes sold originally had a nominal value of 273m, paid down to 188m as at 31 December 2015, and a final maturity date of July 2046, however the interest payable on the notes steps up from January 2018, with the holder of the majority of the residual certificates currently the Bank having the right to redeem the outstanding notes from this date.
+The Bank has an incentive to call at the step up date and the outstanding debt securities are expected to be settled at that date.
+Other liabilities Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 000 000 000 000 Falling due within one year Tax deducted at source from interest paid 1,748 1,724 1,111 1,111 Accruals and deferred income 7,728 6,278 5,694 5,341 Other creditors 9,422 1,509 6,804 2,676 18,898 9,511 13,609 9,128 118 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 28.
+FSCS and other provisions The Financial Services Compensation Scheme FSCS provides protection of deposits for the customers of authorised financial services firms, should a firm collapse.
+FSCS protects retail deposits of up to 85,000 for single account holders and up to 170,000 for joint holders.
+From the 1 January 2016, the protection decreases to 75,000 for single accounts holders and up to 150,000 for joint holders.
+The compensation paid out to consumers is initially funded through loans from the Bank of England and HM Treasury.
+In order to repay the loans and cover its costs, the FSCS charges levies on firms regulated by the Prudential Regulation Authority and the Financial Conduct Authority.
+The Group is among those firms and pays FSCS a levy based on its share of total UK deposits.
+The FSCS levy is the main regulatory provision of the Group.
+The ultimate FSCS levy to the industry as a result of the insolvencies cannot currently be estimated reliably as it is dependent on various uncertain factors including the potential recoveries of assets by the FSCS and changes in the level of protected deposits and the population of FSCS members at the time.
+An analysis of FSCS and other provisions is presented below: Other Other FSCS provisions Total FSCS provisions Total Year ended Year ended Year ended Year ended Year ended Year ended 31-Dec-15 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 31-Dec-14 Group and Bank 000 000 000 000 000 000 As at 1 January 1,484 114 1,598 1,151 130 1,281 Paid during the year 2,658 1 2,659 2,435 15 2,450 Charge credit 3,395 3,395 2,768 1 2,767 At 31 December 2,221 113 2,334 1,484 114 1,598 In accordance with IFRIC 21 interpretation of IAS 37, FSCS liability for 2015 will be recognised in 2016.
+The FSCS balance at the reporting date relates to the levy from previous years.
+Subordinated liabilities Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 000 000 Linked to LIBOR London Interbank Offered Rate : Floating rate Subordinated Liabilities 2015 3,001 Floating rate Subordinated Liabilities 2016 3,003 3,003 Floating rate Subordinated Liabilities 2017 5,655 5,655 Floating rate Subordinated Loans 2022 710 708 Linked to the average standard mortgage rate of the five largest building societies: Floating rate Subordinated Liabilities 2017 5,047 5,047 Fixed rate: Subordinated Liabilities 2024 10,159 10,159 24,574 27,573 Subordinated liabilities are repayable at the dates stated or earlier at the option of the Group with the prior consent of the Prudential Regulation Authority.
+All Subordinated Liabilities are denominated in sterling.
+The rights of repayment of the holders of these issues are subordinated to the claims of all depositors and all creditors.
+Perpetual Subordinated Bonds Group Group and Bank and Bank As at As at 31-Dec-15 31-Dec-14 000 000 Sterling perpetual subordinated bonds 15,308 15,234 The bonds were issued with no discretion over the payment of interest and are therefore classified as financial liabilities.
+The coupon rate was 7.875% until the call date on 27 August 2014 after which it was reset to 5.9884% based on the 5 year gilt yield on 14 July 2014.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 119 31.
+Share Capital 2015 Number of shares New ordinary Group and Bank shares As at 1 January and 31 December 243,079,965 000s Group and Bank Value Premium Total Ordinary shares 2,431 157,901 160,332 2014 Number of shares Convertible New Ordinary A Ordinary B Ordinary E Preference ordinary Group and Bank shares shares shares shares shares As at 1 January 26,000 21,662 1,000 1,067,140 Capital reorganisation 26,000 21,662 1,000 1,067,140 218,638,200 IPO share issue 24,441,765 As at 31 December 243,079,965 There were no changes in the share capital in 2015.
+In 2014, the Group reorganised its share capital in order to prepare for the public listing.
+The reorganisation involved an issue of interim shares, conversion, bonus issue and change of denomination.
+Ordinary B, E and preference shares regardless of nominal value were exchanged for the new 0.01 ordinary shares on a one-for-200 basis.
+Ordinary A shares were exchanged for 0.7m new shares, a proportion of about one A share for 26 new shares.
+Ordinary B shares issued by OSB IGH Limited in connection with the Interbay acquisition and E shares issued by the Bank in connection with the Prestige acquisition with immaterial nominal value had value enhancement in the form of a put call agreement with the sellers and loss protection provided by OSB Holdco Ltd, the Group shareholder.
+The value enhancement of 3.3m had been recognised as capital contribution.
+Before the IPO, OSB Holdco Ltd bought out B and E shares at no cost to the Group.
+The shares were cancelled and their value enhancement kept in the capital contribution reserve, was reclassified to retained earnings.
+During the IPO the Group issued and sold to the public 24.4m shares at 1.70 per share.
+The capital reorganisation reduced KRPSs holding in the ordinary share capital of the Group to under 1%.
+As part of the reorganisation KRPS received an additional allocation of ordinary shares from OSB Holdco Ltd as consideration for the Banks buy-out of the agency agreement to run a number of branches for the Bank in 2013.
+This transaction settled the Banks liability of 0.7m and is recorded as a capital contribution in the statement of equity.
+Perpetual Subordinated Bonds In addition to the PSBs in note 30, the Bank has issued 22m PSBs which are classified as equity, as full discretion can be exercised by the Directors over the payment of the coupon.
+The classification of these PSBs means that any coupon payments on them are treated within retained earnings rather than through profit or loss.
+Transfer reserve The transfer reserve of 12.8m Bank: 15.2m represents the difference between the true value of net assets transferred to the Group from Kent Reliance Building Society in 2011 and the value of shares issued to the A ordinary shareholders.
+AFS reserve The AFS reserve of 0.1 m 2014: 0.8m represents the cumulative net change in the fair value of investment securities measured at fair value through other comprehensive income net of deferred tax.
+120 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 32.
+Financial commitments and guarantees a As at 31 December 2015, the Groups contracted or anticipated capital expenditure commitments not provided for amounted to 146k 2014: 3,373k.
+This consists of unfinished refurbishment of the new Indian office: 2014 consists of the cost and refurbishment of the new UK head office.
+b Operating lease commitments are summarised in the table below: Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 000 000 000 000 Land and buildings: due within: One year 344 193 494 269 Two to five years 986 592 1,148 517 More than five years 14 14 1,330 785 1,656 800 c Undrawn mortgage loan facilities: Group Bank Group Bank As at As at As at As at 31-Dec-15 31-Dec-15 31-Dec-14 31-Dec-14 000 000 000 000 As at 31 December 339,067 317,262 262,452 233,128 Undrawn loan facilities are approved loan applications which have not yet been exercised.
+They are payable on demand and are usually drawn down or expire within three months.
+d The Group did not have any issued financial guarantees as at 31 December 2015 2014: Nil.
+Risk management and financial instruments Overview Financial instruments form the vast majority of the Groups and Banks assets and liabilities.
+The Group manages risk on a consolidated basis, and risk disclosures are provided on this basis.
+Types of financial instrument Financial instruments are a broad definition which includes financial assets, financial liabilities and equity instruments.
+The main financial assets of the Group are loans to customers and liquid assets which in turn consist of cash in the Bank of England Reserve account, call accounts with other credit institutions and UK and EU sovereign debt.
+These are funded by a combination of financial liabilities and equity instruments.
+Financial liability funding comes predominantly from retail deposits, supported by debt securities, subordinated debt, wholesale and other funding.
+Equity instruments include own shares and perpetual bonds meeting the equity classification criteria.
+The Groups main activity is mortgage and personal lending: it raises funds or invests in particular types of financial assets primarily in order to satisfy banking industry regulations and manage the risks arising from its operations.
+The Group does not trade in financial instruments for speculative purposes.
+The Group uses derivative instruments to manage its financial risks.
+Derivative financial instruments derivatives are financial instruments which value changes in response to changes in underlying variables such as interest rates, commodity or security prices, or indices.
+Typically the contract value of derivatives is much smaller than that of the instruments they relate to which makes them a convenient tool for benefiting from value changes without the need to buy or sell the whole underlying product.
+The most common derivatives comprise futures, forwards and swaps.
+Among these, the Group only uses swaps.
+Derivatives are used by the Group solely to reduce hedge the risk of loss arising from changes in market factors.
+Derivatives are not used for speculative purposes.
+Types of derivatives and uses The derivative instruments used by the Group in managing its risk exposures are interest rate swaps and basis rate swaps.
+Interest rate swaps convert fixed interest rates to floating or vice versa.
+Basis rate swaps perform a similar function by converting cash flows from one interest rate basis to another.
+As with other derivatives, the underlying product is not sold and payments are based on notional principal amounts.
+Unhedged fixed rate liabilities create the risk of paying above-the-market rate if interest rates subsequently decrease.
+Unhedged fixed rate mortgages and liquid assets bear the opposite risk of earning below-the-market income when rates go up.
+While fixed rate assets and liabilities naturally hedge each other to a certain extent, this hedge is usually never balanced.
+The Group uses swaps to convert its instruments, such as mortgages, deposits and liquid assets, from fixed or base rate-linked rates to LIBOR-linked variable rates.
+This ensures a guaranteed margin between the interest income and interest expense, regardless of changes in the market rates.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 121 33.
+Risk management and financial instruments continued Types of risk The principal financial risks to which the Group is exposed are credit, liquidity and market risks, the latter comprising of interest and exchange rate risk.
+In addition to financial risks, the Group is exposed to various other risks, most notably operational, conduct and regulatory, covered in the Chief Risk Officers Report.
+The financial risks are analysed below.
+Credit risk Credit risk is the risk that unexpected losses may arise as a result of the Groups borrowers or market counterparties failing to meet their obligations to repay.
+The Group has adopted the Standardised Approach for assessment of credit risk capital requirements.
+This approach considers risk weightings as defined under Basel II and Basel III principles.
+The classes of financial instruments to which the Group is most exposed are loans and advances to customers, loans and advances to credit institutions, cash in the Bank of England Reserve account, call and current accounts with other credit institutions and investment securities.
+The maximum credit risk exposure equals to the total carrying amount of the above categories plus off-balance sheet undrawn mortgage facilities.
+Credit risk loans and advances to customers Credit risk associated with mortgage lending is largely driven by the housing market and level of unemployment.
+A recession and or high interest rates could cause pressure within the market, resulting in rising levels of arrears and repossessions.
+All loan applications are assessed with reference to the Groups Lending Policy.
+Changes to the policy are approved by the Board, with mandates set for the approval of loan applications.
+The Credit Committee and the ALCO regularly monitor lending activity, taking appropriate actions to re-price products and adjust lending criteria in order to control risk and manage exposure.
+Where necessary and appropriate, changes to the Lending Policy are recommended to the Risk Committee and the Board.
+The following table shows an analysis of the lending portfolio by borrower type at the reporting date: Group Bank As at 31-Dec-15 As at 31-Dec-15 000 % 000 % BTL SME mortgages 3,105,536 60% 2,442,516 58% Residential mortgages 2,007,062 39% 1,697,870 41% Personal loans 49,442 1% 49,442 1% Total loans before provisions 5,162,040 100% 4,189,828 100% Group Bank As at 31-Dec-14 As at 31-Dec-14 000 % 000 % BTL SME mortgages 2,064,905 52% 1,586,175 51% Residential mortgages 1,763,391 45% 1,388,905 45% Personal loans 117,138 3% 117,138 4% Total loans before provisions 3,945,434 100% 3,092,218 100% 122 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 33.
+Risk management and financial instruments continued Property values are updated to reflect changes in the house price index.
+Risk management and financial instruments continued Analysis of mortgage portfolio by arrears and collateral held The tables below provide further information on collateral in the mortgage portfolio by payment due status.
+Capped collateral only recognises collateral to the value of each individual mortgage and does not recognise .
+The full collateral position is captured in the loan-to-value analysis above.
+2 Impaired is defined as loans with a specific provision against them.
+124 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 33.
+Risk management and financial instruments continued Below is a summary of capped collateral: Group Bank As at 31-Dec-15 As at 31-Dec-15 Loan Capped Loan Capped balance collateral balance collateral 000 000 000 000 Not past due and not impaired 4,754,681 4,735,190 3,841,195 3,822,242 Past due but not impaired 312,385 311,781 269,311 268,887 Impaired 45,532 40,495 29,880 26,085 Total mortgages before provisions 5,112,598 5,087,466 4,140,386 4,117,214 Personal loans 49,442 49,442 Total loans before provisions 5,162,040 4,189,828 Group Bank As at 31-Dec-14 As at 31-Dec-14 Loan Capped Loan Capped balance collateral balance collateral 000 000 000 000 Not past due and not impaired 3,397,241 3,392,717 2,597,347 2,594,898 Past due but not impaired 391,072 389,325 346,931 345,916 Impaired 39,983 33,347 30,802 25,836 Total mortgages before provisions 3,828,296 3,815,389 2,975,080 2,966,650 Personal loans 117,138 117,138 Total loans before provisions 3,945,434 3,092,218 Analysis of personal loans by arrears The arrears analysis of unsecured personal loans is provided in the table below: As at As at 31-Dec-15 31-Dec-14 Group and Bank 000 000 Not impaired: Not past due 40,906 107,161 Past due up to 3 months 1,086 1,588 Past due 3 to 6 months 955 1,197 Past due 6 to 12 months 1,542 3,085 Past due over 12 months 4,953 4,107 49,442 117,138 Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 125 33.
+Risk management and financial instruments continued Credit risk investment securities and loans and advances to credit institutions The Group holds treasury instruments in order to meet liquidity requirements and for general business purposes.
+The credit risk arising from these investments is closely monitored and managed by the Groups Treasury department.
+In managing these assets, Group treasury operates within guidelines laid down in the Treasury Policy approved by the Board and performance is monitored and reported to ALCO monthly, including through the use of an internally developed rating model based on counterparty credit default swap spreads.
+The Group has limited exposure to emerging markets Indian operations and non-investment-grade debt.
+The ALCO is responsible for approving Treasury counterparties.
+During the year, the average balance of cash in hand, loans and advances to credit institutions and investment securities on a monthly basis was 702,970k 2014: 753,921k.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 127 33.
+To avoid refinancing risks associated with any one counterparty, sector or geographical region, the Board has set appropriate limits.
+These are contained in the Treasury Policy.
+Liquidity risk Liquidity risk is the risk of having insufficient liquid assets to fulfil obligations as they become due or the cost of raising liquid funds becoming too expensive.
+The Groups approach to managing liquidity risk is to maintain sufficient liquid resources to cover cash flow imbalances and fluctuations in funding in order to retain full public confidence in the solvency of the Group and to enable the Group to meet its financial obligations.
+This is achieved through maintaining a prudent level of liquid assets and control of the growth of the business.
+The Group has established a Reserve account with the Bank of England and has access to its Contingent Liquidity Facilities.
+Liquidity management is the responsibility of the ALCO, with day-to-day management delegated to Treasury as detailed in the Treasury Policy.
+The ALCO is responsible for setting limits over the level and maturity profile of wholesale funding and for monitoring the composition of the Group financial position.
+For each material class of financial liability a contractual maturity analysis is provided in notes 23 to 29.
+An Asset Encumbrance Policy has also been approved with encumbrance levels monitored monthly at ALCO.
+The Group also monitors a range of numeric triggers, defined in the Contingency Funding Plan CFP and Recovery and Resolution Plan RRP, which are designed to capture liquidity stresses in advance in order to allow sufficient time for management action to take effect.
+128 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 33.
+Risk management and financial instruments continued These are monitored daily by the Risk team, with breaches immediately reported to the Chief Risk Officer, Deputy Chief Risk Officer, CEO, CFO and Head of Treasury.
+The following table provides an analysis of the Groups gross contractual cash flows payable under financial liabilities: Group Up to 3 312 15 More than months months years 5 years Total As at 31-Dec-15 000 000 000 000 000 Amounts owed to retail depositors 2,304,459 1,974,401 1,182,601 5,461,461 Amounts owed to credit institutions and other customers 6,892 111 7,003 Debt securities in issue 9,603 37,684 146,597 193,884 Derivative financial instruments 736 5,271 7,192 8,332 21,531 Other liabilities 18,898 18,898 Subordinated liabilities 281 8,756 16,742 734 26,513 Perpetual subordinated bonds 298 890 4,728 15,000 20,916 Total liabilities 2,341,167 2,027,002 1,357,971 24,066 5,750,206 Off balance sheet loan commitments 339,067 339,067 Bank Up to 3 312 15 More than months months years 5 years Total As at 31-Dec-15 000 000 000 000 000 Amounts owed to retail depositors 2,304,459 1,974,401 1,182,601 5,461,461 Amounts owed to credit institutions and other customers 6,892 111 7,003 Derivative financial instruments 736 5,271 7,192 8,332 21,531 Other liabilities 9,511 9,511 Subordinated liabilities 281 8,756 16,742 734 26,513 Perpetual subordinated bonds 298 890 4,728 15,000 20,916 Total liabilities 2,322,177 1,989,318 1,211,374 24,066 5,546,935 Off balance sheet loan commitments 317,262 317,262 Group Up to 3 312 15 More than months months years 5 years Total 2014 000 000 000 000 000 Amounts owed to retail depositors restated 1,641,829 1,664,447 1,083,448 4,389,724 Amounts owed to credit institutions and other customers 27,079 27,079 Debt securities in issue restated 11,827 35,733 203,680 251,240 Derivative financial instruments 785 4,491 12,234 8,088 25,598 Other liabilities 13,609 13,609 Subordinated liabilities 297 3,878 25,759 752 30,686 Perpetual subordinated bonds 295 890 4,728 15,000 20,913 Total liabilities 1,695,721 1,709,439 1,329,849 23,840 4,758,849 Off balance sheet loan commitments 262,452 262,452 Bank Up to 3 312 15 More than months months years 5 years Total 2014 000 000 000 000 000 Amounts owed to retail depositors restated 1,641,829 1,664,447 1,083,448 4,389,724 Amounts owed to credit institutions and other customers 27,079 27,079 Derivative financial instruments 785 4,491 12,234 8,088 25,598 Other liabilities 9,128 9,128 Subordinated liabilities 297 3,878 25,759 752 30,686 Perpetual subordinated bonds 295 890 4,728 15,000 20,913 Total liabilities 1,679,413 1,673,706 1,126,169 23,840 4,503,128 Off balance sheet loan commitments 233,128 233,128 The actual repayment profile of retail deposits may differ from the analysis above due to the option of early withdrawal with a penalty.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 129 33.
+Risk management and financial instruments continued Market risk Market risk is the risk of an adverse change in Group income or the Groups net worth arising from movement in interest rates, exchange rates or other market prices.
+Market risk exists, to some extent, in all the Groups businesses.
+The Group recognises that the effective management of market risk is essential to the maintenance of stable earnings and preservation of shareholder value.
+Interest rate risk The primary market risk faced by the Group is interest rate risk.
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates.
+It is most prevalent in mortgage lending where fixed rate mortgages are not funded by fixed rate deposits of the same duration, or where the fixed rate risk is not hedged by a fully matching interest rate derivative.
+The Group is exposed to movements in interest rates reflecting the mismatch between the dates on which interest receivable on assets and interest payable on liabilities are next reset to market rates or, if earlier, the dates on which the instruments mature.
+The Group measures Interest Rate risk using fourteen different interest rate curve shift scenarios designed to emulate a full range of market movements.
+These fourteen scenarios are defined by ALCO and are based on three shapes of curve movement shift, twist, and flex with movements in rates scaled to approximate the potential move over one year at 99.9% two-tailed confidence interval with interest rates floored to zero.
+In addition, the regulatory scenario of an un-floored parallel shift of 200bps in both directions is applied.
+Exposure is mitigated on a continuous basis through the use of derivatives within limits set by the ALCO and the Board currently 1.5% of Common Equity Tier 1 Capital.
+After taking into account the derivatives entered into by the Group and reserve allocations a parallel interest rate movement of 2% would have an impact of 0.2m 2014: 2.4m gain in the statement of profit or loss and 0.2m 2014: 0.9m in equity.
+There is no material difference between the interest rate risk profile for the Group and that for the Bank.
+Foreign exchange rate risk The Group has limited exposure to foreign exchange risk in respect of its Indian operations.
+A 5% movement in exchange rates would result in 0.1m 2014: 0.1m effect in profit and loss and 0.2m 2014: 0.2m in equity.
+The Bank is not exposed to foreign exchange risk since all its assets and liabilities are expressed in pounds sterling.
+Structured entities The only structured entity within the Group, Rochester Financing No.
+1 Plc Rochester, holds legal title to a pool of mortgages which are used as a security for issued debt.
+The transfer of mortgages fails derecognition criteria because the Bank retained the remaining notes and residual certificates issued and as such did not transfer substantially the risks and rewards of ownership of the securitised mortgages.
+Therefore, the Group is exposed to the credit, interest rate and other risks on the securitised mortgages to the same extent as on the other mortgages.
+It mitigates these risks on a Group basis as discussed throughout this note.
+Cash flows generated from the mortgages securitised within Rochester Financing No.
+1 Plc are ring-fenced, i. e. can only be used to pay interest and principal of the issued debt securities in a waterfall order according to the seniority of bonds.
+The securitisation vehicle is self-funded and the Group is not contractually or constructively obliged to provide it further liquidity or financial support.
+The maximum loss exposure at any point in time is the amount of cash and cash equivalents held in Rochester.
+Fair value adjustments for hedged risk This represents the fair value adjustments to the carrying value of financial assets and liabilities as a result of portfolio hedging.
+130 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 33.
+Risk management and financial instruments continued Fair values of financial assets and financial liabilities The following tables give a comparison of book and fair values of the Groups financial assets and liabilities at the reporting date.
+In the absence of such agreements a grossing up adjustment of 2.4m 2014: 3.3m would be required.
+132 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 33.
+Risk management and financial instruments continued Fair values are determined using the following fair value hierarchy that reflects the significance and observability of the inputs used in making the measurements: Level 1 These are valuation techniques that are based entirely on quoted market prices in an actively traded market and are the most reliable.
+Level 2 These are valuation techniques for which all significant inputs are taken from observable market data.
+These include valuation models used to calculate the present value of expected future cash flows and may be employed either when no active market exists or when there are quoted prices available for similar instruments in active markets.
+The management use LIBOR curves to value its derivatives, however, using OIS curves would not materially change their value.
+The fair value of the Groups derivative financial instruments incorporates credit valuation adjustments CVA and debit valuation adjustments DVA.
+The DVA and CVA take into account the respective credit ratings and whether the derivative is collateralised or not.
+In considering which similar instruments to use, management take into account the sensitivity of the instrument to changes in market rates and the credit quality of the instrument.
+Basis risk derivatives are valued using discounted cash flow models and observable market data and will be sensitive to benchmark interest rate curves.
+Level 3 These are valuation techniques for which any one or more significant input is not based on observable market data.
+Valuation techniques for level 3 instruments may include net present value models, comparison to similar instruments with observable prices, Black-Scholes and other methods.
+As disclosed in the tables above, financial instruments with fair value measured at level 3 include loans and advances to customers and debt securities in issue.
+Neither loans to customers nor debt securities in issue are measured at fair value in the statement of financial position.
+Loans to customers belong to this level because their valuation uses unobservable inputs on collectability rates and redemption profiles.
+Their fair value is calculated using modelled receipts of interest and principal which are discounted at market rates.
+Debt securities in issue are classified as level 3 because their principal is repaid using the cash flows from the underlying securitised mortgages, which in turn use the same unobservable inputs on collectability rates and redemption profiles.
+The fair value of issued debt securities is calculated using modelled payments of interest and principal discounted at market rates for similar instruments.
+Pension scheme Defined contribution scheme The amount charged to profit or loss in respect of contributions to the Groups defined contribution and stakeholder pension arrangements is the contribution payable in the period.
+The total pension cost in the year amounted to 1,082k 2014: 871k.
+Defined benefit scheme KRBS operated a defined benefit pension scheme the Scheme funded by the payment of contributions to a separately administered fund for nine retired members.
+The Societys Board decided to close the Scheme with effect from 31 December 2001 and introduced a new defined contribution scheme to cover service of Scheme members from 1 January 2002.
+The Scheme Trustees, having taken actuarial advice, decided to wind up the Scheme rather than continue to operate it on a paid up basis.
+The winding up is largely complete.
+As at 31 December 2015 the liability to remaining members is 2k 31 December 2014: 2k matched by Scheme assets.
+Capital Management The Group is governed by its Capital Management Policy.
+The objectives of the Banks Capital Management Policy are to efficiently manage the capital base to optimise shareholder returns whilst maintaining capital adequacy and satisfying key stakeholders such as customers and regulators.
+The Banks prime objectives in relation to the management of capital are to comply with the requirements set out by the Prudential Regulation Authority PRA, the Banks primary prudential supervisor, to provide a sufficient capital base to cover business risks and support future business development.
+Capital management is based on the three pillars of Basel II: Under Pillar 1, the Bank calculates its minimum capital requirements based on 8% of risk weighted assets.
+The Prudential Regulation Authority then applies a multiplier to this amount to cover risks under Pillar 2 of Basel II and generate an Individual Capital Guidance ICG.
+As instructed by the PRA, the Bank manages and reports its capital on a solo consolidated basis and hence the Banks capital position is not disclosed separately.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 133 35.
+Capital Management continued The groups Pillar 1 capital information is presented in this note.
+To comply with Pillar 2, the group completes an annual selfassessment of risks known as the Internal Capital Adequacy Assessment Process ICAAP reviewed by the PRA.
+Pillar 3 requires firms to publish a set of disclosures which allow market participants to assess information on that firms capital, risk exposures and risk assessment process.
+The groups Pillar 3 disclosures can be found on the groups website.
+On 1 January 2014, a new set of rules, Basel III came into force through the Capital Requirements Directive and Regulation CRD IV.
+Basel III complements and enhances Basels I and II with additional safety measures.
+Basel III changed definitions of regulatory capital, introduced new capital buffers and liquidity ratios, and modified the way regulatory capital is calculated.
+The ultimate responsibility for capital adequacy rests with the Board of Directors.
+The Banks ALCO, which consists of the Chief Executive Officer, Chief Financial Officer and other senior executives, is responsible for the management of the capital process including approving policy, overseeing internal controls and setting internal limits over capital ratios.
+The Bank actively manages its capital position and reports this on a regular basis to senior management via the ALCO and other governance committees.
+Capital requirements are included within budgets, reforecast and strategic plans with initiatives being executed against this plan.
+During the period the Group complied with the capital requirements set out by the PRA.
+As at As at 31-Dec-15 31-Dec-14 000 000 Common equity tier 1 capital Called up share capital 2,431 2,431 Share premium, capital contribution and share-based payment reserve 164,392 162,369 Retained earnings 122,924 60,886 Transfer reserve 12,818 12,818 Other reserves 115 785 Deductions from common equity tier 1 capital Intangible assets 2,908 2,305 Deferred tax asset 1,919 3,563 Common equity tier 1 capital 271,987 207,785 Total Tier 1 Capital 271,987 207,785 Tier 2 capital Subordinated debt 50,666 54,219 Collective Provisions 9,073 9,876 Deductions from tier 2 capital 3,000 2,000 Total Tier 2 Capital 56,739 62,095 Total regulatory capital 328,726 269,880 The Bank has solo consolidation waivers for most of its subsidiaries.
+The impact of this has been included in the above table.
+Operating segments The Group operates under three segments: 1.
+Buy-to-Let SME: secured lending on property for investment and commercial purposes.
+Residential Mortgages: lending to customers who live in their own homes, secured either via first or second charges against the residential home.
+Personal Loans: unsecured lending, which currently comprises solely the acquisition of the former Northern Rock performing consumer finance portfolio of c. 70,000 customers from UK Asset Resolution in 2013.
+134 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 36.
+Operating segments continued The financial position and results of operations of the above segments are summarised below: Residential Personal 1 BTL SME mortgages loans Central Total 2015 000 000 000 000 000 Balances at the reporting date Gross loans and advances to customers 3,105,536 2,007,062 49,442 5,162,040 Provision for impairment losses on loans and advances 17,729 2,220 7,332 27,281 Loans and advances to customers 3,087,807 2,004,842 42,110 5,134,759 Capital expenditure 5,478 3,557 75 9,110 Profit or loss for the period Net interest income 95,128 68,995 5,649 169,772 Other income expense 614 5,846 1,381 580 7,261 Total income 94,514 63,149 4,268 580 162,511 Impairment losses 5,271 2,419 2,926 10,616 Contribution to profit 89,243 60,730 1,342 580 151,895 Operating expenses 41,153 Exceptional IPO expenses 2,050 FSCS and other provisions 3,395 Profit before taxation 105,297 Taxation 21,239 Profit for the year 84,058 Residential Personal 1 BTL SME mortgages loans Central Total 2014 000 000 000 000 000 Balances at the reporting date Gross loans and advances to customers 2,064,905 1,763,391 117,138 3,945,434 Provision for impairment losses on loans and advances 15,429 2,639 7,969 26,037 Loans and advances to customers 2,049,476 1,760,752 109,169 3,919,397 Capital expenditure 1,558 1,339 83 2,980 Profit or loss for the year Net interest income 50,310 57,146 17,745 125,201 Other income expense 960 6,118 1,470 2,258 6,290 Total income 49,350 51,028 16,275 2,258 118,911 Impairment losses 4,721 1,093 5,871 11,685 Contribution to profit 44,629 49,935 10,404 2,258 107,226 Operating expenses 33,286 Exceptional IPO expenses 7,428 FSCS and other provisions 2,767 Profit before taxation 63,745 Taxation 12,208 Profit for the year 51,537 1 Other income in the Central segment represents gains on sales of investment securities.
+Strategic report Governance Financial statements OneSavings Bank plc Annual Report and Accounts 2015 135 37.
+Country by country reporting Country by Country Reporting CBCR was introduced through Article 89 of the Capital Requirements Directive IV CRD IV, aimed at the banking and capital markets industry.
+From 1 January 2015, all institutions within the scope of CRD IV should publish annually, on a consolidated basis, by country where they have an establishment: a their name, nature of activities and geographic location: b number of employees: c their turnover: d pre-tax profit or loss: e corporation tax paid: and f any public subsidies received.
+The ongoing reporting deadline is 31 December each year, starting from 31 December 2015, and disclosures should relate to the most recently ended accounting period.
+The name, nature of activities and geographic location of the Groups companies are presented below: Jurisdiction Name Activities 1 UK OneSavings Bank plc Commercial banking Easioption Ltd Guernsey Home Loans Ltd Heritable Development Finance Ltd Interbay Group Holdings Ltd Jersey Home Loans Ltd Prestige Finance Ltd Cavenham Financial Services Ltd Reliance Property Loans Ltd Rochester Financing No.
+1 Plc Rochester Mortgage Holdings Limited Swingcastle Limited 5D Finance Ltd 5D Lending Ltd Interbay Funding Ltd Interbay Financial I Ltd Interbay Financial II Ltd Interbay Holdings Ltd Interbay ML Ltd Guernsey Home Loans Ltd Guernsey Jersey Home Loans Ltd Jersey 2 India EasiOption BPO Services Private Ltd Back office processing OneSavings Bank India Private Ltd Formerly Easiprocess Private Ltd 1 Guernsey Home Loans Ltd Guernsey and Jersey Home Loans Ltd Jersey are incorporated in Guernsey and Jersey respectively but are considered to be located in the UK as they have no employees, are tax resident and centrally managed and controlled in the UK.
+2 The Group had two Indian subsidiaries EasiOption BPO Services Private Ltd and Easiprocess Private Ltd, providing back office processing and earning a management fee from OneSavings Bank plc.
+During the year, they merged into one entity, OneSavings Bank India Private Ltd. 136 OneSavings Bank plc Annual Report and Accounts 2015 Notes to the Financial Statements continued For the year ended 31 December 2015 37.
+Country by country reporting continued Other disclosures required by the CBCR directive are provided below: 2 2015 UK India Consolidation Total Average number of employees on an FTE basis 325 195 520 1 Turnover, 000 162,380 2,780 2,649 162,511 Profit loss before tax, 000 105,161 521 385 105,297 Corporation tax paid, 000 13,471 140 13,611 Public subsidies received, 000 2 2014 UK India Consolidation Total Average number of employees on an FTE basis 258 161 419 1 Turnover 118,678 2,175 1,942 118,911 Profit loss before tax 63,511 452 218 63,745 3 Corporation tax paid 1,427 90 1,517 Public subsidies received 1 Turnover represents total income before impairment losses, regulatory provisions and operating costs, but after net interest, net commissions and fees, gains and losses on financial instruments and external servicing fees.
+2 Relates to a management fee from Indian subsidiaries to OneSavings Bank plc for providing back office processing.
+3 In 2014, the Group utilised 42m of tax losses brought forward which reduced the amount of corporation tax paid.
+The tables below reconcile tax charge and tax paid during the year.
+UK India Total 2015 000 000 000 Tax charge credit 21,057 182 21,239 Effects of: Relief for losses brought forward 674 674 Other timing differences 207 32 239 Tax outside of profit and loss 1,222 1,222 Prior year tax paid during the year 2,847 367 3,214 Current year tax to be paid after the reporting date 8,744 441 9,185 Tax paid 13,421 140 13,611 UK India Total 2014 000 000 000 Tax charge credit 11,942 266 12,208 Effects of: Relief for losses brought forward 9,099 9,099 Other timing differences 1,534 33 1,501 Tax outside of profit and loss 58 58 Prior year tax paid during the year 266 60 206 Current year tax to be paid after the reporting date 2,742 203 2,945 Tax paid 1,427 90 1,517 38.
+Events after the reporting date.
+In February 2016, the Group acquired a portfolio of mortgages worth approximately 396m from Deutsche Bank.
+Out of this amount, 374m was acquired through an off-balance sheet securitisation vehicle, and 22m directly to comply with the retention requirements of the EU regulation.
+The Group acts as the co-arranger and master servicer of the securitisation, which will earn it a share of the interest income and a servicing fee on the off-balance sheet mortgages.
+In February 2016, the Group also acquired a portfolio of second charge mortgages previously serviced by the Group from Melbourne Mortgages Limited.
+The portfolio had a principal outstanding balance of 14m as at 31 December 2015.
+Glossary AGM Annual General Meeting FSMA Financial Services and LTIP Long Term Incentive Plan Markets Act ALCO Asset and Liability Committee LTV Loan to Value FTE Full Time Equivalent Employees MI Management Information APB Auditing Practices Board FTSE Financial Times Stock Exchange BoE Bank of England MMR Mortgage Market Review GDP Gross Domestic Product CAPEX Capital Expenditure MPC Monetary Policy Committee GOSH Great Ormond Street Hospital NISA New Individual Savings Account CCO Chief Credit Officer GRC Global Rate Change CEO Chief Executive Officer NPS Net Promoter Score HDF Heritable Development Finance CFO Chief Financial Officer OFT Office of Fair Trading HMRC Her Majesty Revenue and ONS Office of National Statistics CFP Contingency Funding Plan Customs CML Council of Mortgage Lenders PRA Prudential Regulatory Authority HPI House Price Inflation CPI Consumer Price Inflation PRS Private Rented Sector HR Human Resources PSB Perpetual Subordinated Bonds CRD IV Capital Requirement IAS International Accounting Directive and Regulation Standards PSP Performance Share Plan CRO Chief Risk Officer ICAAP Internal Capital Adequacy RMBS Residential Mortgage Backed Assessment Process DSBP Deferred Share Bonus Plan Securities ICR Interest Coverage Ratio RoE Return on Equity DTR Disclosure and Transparency Rules IFRS International Financial RWA Risk Weighted Assets Reporting Standards EBA European Banking Authority SAYE Save As You Earn ILAA Individual Liquidity EIR Effective Interest Rate SID Senior Independent Director Adequacy Assessment EPS Earnings Per Share SLRP Supervisory Liquidity Review IPO Initial Public Offering EU European Union Process ISA Individual Savings Account FCA Financial Conduct Authority SME Small Medium Enterprises JCF J. C. Flowers SPE Special Purpose Entity FD Finance Director KRBS Kent Reliance Building Society FLS Funding for Lending Scheme SREP Supervisory Review and KRPS Kent Reliance Provident Society Evaluation Process FRC Financial Reporting Council LCR Liquidity Coverage Ratio SRMF Strategic Risk Management FSCS Financial Services Compensation Framework LIBOR London Inter Bank Offered Rate Scheme Company Information Registered office and head office Registrars Investor relations Reliance House Equiniti Limited Email: osbrelations@osb.
+co. uk Sun Pier Aspect House Telephone: 01634 838973 9am-5pm Chatham Spencer Road Monday to Friday Kent Lancing excluding bankholidays ME4 4ET West Sussex United Kingdom BN99 8LU Private shareholders are welcome to United Kingdom contact the Company Secretary if they Registered in England no: 7312896 have any questions or concerns they www.
+co. uk Telephone: 0871 384 2030 wish to be raised with the Board.
+International: 44 121 415 7047 OneSavings Bank plc Annual Report and Accounts 2015 www.
+co. uk Reliance House Sun Pier Chatham Kent ME4 4ET T 44 0 1634 848944

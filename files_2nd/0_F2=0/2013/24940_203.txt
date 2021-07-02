@@ -1,0 +1,3 @@
+2 Include securities that are supported by an explicit guarantee issued by the US Government.
+3 Exclude asset-backed securities included under US Treasury and US Government agencies.
+2 Unlisted treasury and other eligible bills primarily comprise treasury bills not listed on an exchange but for which there is a liquid market.

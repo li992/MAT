@@ -1,0 +1,786 @@
+qxd 4 6 03 1:40 pm Page 115 Denitions The following denitions apply throughout this document unless the context requires otherwise: Airwave................ Airwave mmO Limited, a company incorporated in England and Wales with a registered number 3985643.
+The first generation of mobile telecommunications technology in which radio signals are modulated proportionally by the strength and frequency of audio sounds.
+ARPU.................. Average Revenue Per User.
+BT.................... British Telecommunications public limited company, a company incorporated in England and Wales with registered number 1800000.
+BT Group............... BT Group plc and its subsidiary undertakings from time to time.
+BT Group Investments...... BT Group Investments Limited, a company incorporated in England and Wales with registered number 4278695.
+BT Group plc............ BT Group plc, a company incorporated in England and Wales with registered number 4190816.
+GPRS.................. General Packet Radio Service.
+A technology, sometimes referred to as 2.5G, that allows customers to remain connected to the network between calls for the receipt and transmission of data.
+The Global System for Mobile communications.
+Originally dened as a pan-European standard for digital cellular telephone networks to support roaming, it is now one of the worlds main digital mobile standards.
+Manx Telecom........... Manx Telecom Limited, a company incorporated in the Isle of Man with registered number 28059. mmO or the Company... mmO plc, a company incorporated in England and Wales with registered number 4190833.
+2 2 mmO Group or Group... mmO plc and its subsidiary undertakings from time to time.
+2 2 mmO Ordinary Shares or 2 ordinary shares...........
+Ordinary shares of 0.1 pence each in the capital of mmO.
+2 MMS.................. Multimedia Messaging Services.
+O.................... O Limited, formerly BT Wireless Limited, formerly Cellnet Group Limited, a company incorporated in 2 2 England and Wales with registered number 2604354 together, where the context requires, with its subsidiary and associated undertakings.
+O Germany............. O Germany GmbH & Co. OHG formerly VIAG Interkom GmbH & Co. OHG, a company incorporated 2 2 in Germany.
+O Ireland............... O Communications Ireland Limited formerly Digifone mmO Limited, formerly Esat Digifone Limited, 2 2 2 a company incorporated in Ireland, together where the context requires with its subsidiary and associated undertakings.
+O Netherlands........... O Netherlands B. V. formerly Telfort Mobiel BV, a company incorporated in the Netherlands.
+2 2 O Online............... O Online Limited formerly Genie Internet Limited, a company incorporated in England and Wales 2 2 with registered number 01906156 together, where the context requires, with its subsidiary and associated undertakings.
+O UK................. O UK Limited formerly BT Cellnet Limited, a company incorporated in England and Wales with registered 2 2 number 1743099 together, where the context requires, with its subsidiary and associated undertakings.
+SMS................... a service sometimes known as text messaging, which enables mobile telephone users to send and receive written messages on their handsets.
+TETRA................. Terrestrial Trunked Radio.
+Radio technology used in networks that require a high level of security and availability.
+UMTS.................. Universal Mobile Telecommunications System.
+An international standard of third generation, or 3G, mobile telecommunications.
+WAP.................. Wireless Application Protocol.
+A global, open standard for accessing online services through mobile devices.
+we or us.............. mmO and or, if the context so requires, one or more members of the mmO Group.
+qxd 4 6 03 1:40 pm Page 116 Notes The paper used to produce this report is made from Elemental Chlorine Free pulps sourced from fully sustainable forests.
+In addition, the text paper contains up to 25 per cent fide-inked post consumer waste.
+Designed and typeset by Paufey, London Printed in England by St Ives Burrups Limited 116 mmO plc 2003 2 mmO Annual Report and Financial Statements 2003 2 mmO2 AR covers.
+com Annual Report and Financial Statements 2003 mmO plc 2 Wellington Street Slough Berkshire SL1 1YP Registered No.
+4190833 Annual Review 2003 How were doing Contents 1Financial and operating highlights 19 Corporate responsibility 2 Introduction by Chairman and CEO 20 Board of directors 6 Business review O UK 22 Summary directors report 2 8 Business review O Germany 24 Summary directors 2 10 Business review O Ireland remuneration report 2 12 Business review O Netherlands 27 Summary financial statements 2 14 Business review Airwave 28 Reconciliation of UK GAAP to 16 Business review Manx Telecom US GAAP 17 Business review O Online 29 Additional information 2 18 Business review Products O for shareholders 2 Our vision is to be the essential mobile brand by enriching peoples lives whatever theyre doing, wherever they are.
+In this review we aim to demonstrate how were doing it Financial and operating highlights significant ongoing improvement in the underlying financial and operating performance of our principal businesses.
+Highly successful roll-out of the O brand across 2 our territories.
+Increasing take-up of mobile data services ahead of target.
+Growth in customer numbers to approaching 20 million.
+1 Group turnover Group EBITDA m m In million 2003 2002 2001 Group turnover 4,874 4,276 3,200 1 EBITDA before exceptional items 859 433 317 Operating exceptional items 8,300 150 2,821 Group operating loss 8,778 856 3,164 Capital expenditure 944 1,142 1,144 Year-end net debt 549 617 Please see cautionary statement regarding forward-looking statements on page 29.
+1 EBITDA is our earnings before interest, tax, depreciation, amortisation and exceptional items, excluding our share of operating profits and losses of our joint ventures and associates.
+The past year has been a period of significant achievement 2 We have delivered a strong underlying financial and operational for the year ended 31 March 2003.
+The charge comprises a 2.30 billion performance, whilst simultaneously managing our impact on society write-down of O UKs assets, principally against the 3G licence: 2 and the environment.
+In the year ended 31 March 2003, total revenue a 4.70 billion write-down of all of the goodwill and part of the 3G grew by 14 per cent to 4.87 billion, within which service revenues licence of O Germany: and a 1.30 billion write-down of the goodwill 2 showed an 18 per cent increase to 4.33 billion, and EBITDA almost relating to O Ireland.
+The impairment charge and the provision for loss on 2 doubled to 859 million.
+Operating loss before exceptional items and disposal have no impact on the cash position of the Group and enable goodwill reduced to 104 million, however an exceptional impairment us to go forward with a balance sheet that reects realistic assumptions charge of 8.30 billion has resulted in the Group recording an operating about the potential of our business to grow and to deliver attractive loss of 8.78 billion.
+Through a combination of increased EBITDA, lower returns for shareholders.
+capital expenditure and better working capital management, net debt was brought down by 68 million to 549 million.
+O Germany became Operational achievements During the year we successfully launched 2 EBITDA positive well ahead of original expectations and margin the O brand across all our businesses, presenting a common face to our 2 improvement accelerated at O UK.
+We were pleased that we achieved total brand recognition 2 levels of 80 per cent across the businesses within 12 months a higher Disposal of O Netherlands In April 2003, mmO announced the sale rating than that of our legacy brands, which had been built up over 2 2 of O Netherlands to Greeneld Capital Partners, an independent private many years.
+A wide-ranging restructuring programme, which has 2 equity and corporate finance group, for 25 million.
+This sale resulted reduced our employee base from 15,100 to 12,800 has helped in a provision for loss on disposal of approximately 1.36 billion, which to improve our operating performance.
+In our drive for excellence in has been treated asa non-operating exceptional item in the year ended everything we do, we have built up momentum by offering mobile 31 March 2003.
+The decision to dispose of the business followed a customers a strong range of competitive voice and data products and comprehensive review of the highly competitive, five-player Dutch market.
+Our customer base has grown by 11 per cent over the year to The review highlighted that, whilst O Netherlands had made good 19.4 million and we achieved strong growth in Average Revenue 2 progress, it lacked the critical mass to t the Groups value creation Per User ARPU across the Group.
+We were encouraged by our performance strategy in the longer term.
+in the UK market, where we added approximately a million new customers, including over half a million contract customers.
+We were also pleased by our ongoing progress in Germany, with customer numbers, We delivered on the commitments made during ARPU and data revenues all ahead of target.
+In all our territories our first full year as an independent company.
+the O brand continued to gain prole and drive growth.
+In Germany 2 we have extended our co-operation with T-Mobile on the roll-out of We achieved strong underlying financial and 3G networks.
+operational performance, whilst simultaneously Our performance in the market place and as a business has been managing our impact on the society and the recognised by a series of awards and commendations in the past year.
+O our brand was successfully 2 O UK won the Marketing Initiative of the Year at the Utility Week 2 awards for its Arsenal and Big Brother interactive sponsorships.
+In launched, helping to grow our customer base Ireland, O s mobile ISP portal won the Mobile Internet Technology 2 by 11 per cent to 19.4 million.
+Award at the Golden Spider Awards and Manx Telecom won international recognition for its 3G service.
+Exceptional asset impairment charge During the second half of the year, certain events, including the disposal of O Netherlands, indicated Leadership in data services Data as a percentage of service revenues 2 that the Group should perform impairment reviews of its principal mobile across the Group increased to 17.3 per cent from 11.7 per cent, operations.
+These reviews resulted in an operating exceptional impairment underpinning our leading position in this expanding market and ahead of charge of 8.30 billion being recognised in the profit and loss account our target of 16 per cent.
+Group-wide, more than 8.5 billion SMS messages 2 www.
+com were sent, an increase of over 60 per cent on the previous year.
+We continue Association and the GSM Association to grow the range of MMS-based to see significant revenue potential in SMS, including person-to-person, services available in the UK and globally.
+Although person-to-person premium and wholesale text messaging.
+We also made an encouraging start picture messaging will be a significant component of this growth, we to our portfolio of interactive services such as Java games and Multimedia expect a far broader range of applications to be adopted in a variety of Messaging Services MMS, for which we have added over 300,000 customers day-to-day situations, many of critical importance.
+They would include, since launch.
+Usage is expected to increase throughout 2003 with the for example, remote connection to CCTV cameras, transmission of vital introduction of full MMS interconnection between networks and a greater patients les by paramedics, monitoring of asthma sufferers and choice of multimedia, colour-screen handsets.
+In addition, we successfully pictures to illustrate insurance claims.
+Once more customers have had introduced a range of data products across O.
+Sales of the xda device from the experience of using mobile data services, the greater will be the 2 O have continued to show steady growth, with more than 55,000 devices demands on the capacity of our 2G GPRS network and the more 2 sold by the end of the year.
+Latest market research gures from Context customers will want to upgrade to a speedier 3G service.
+We currently show that mmO has a 36 per cent share of the voice-enabled Personal plan to introduce 3G services from late 2003 in Germany and Ireland 2 Digital Assistant PDA market in Western Europe.
+In the business market, and the second half of 2004 in the UK.
+TM uptake of mmO s corporate e-mail on the move solution BlackBerry 2 continues with more than 23,000 devices now sold to across the Groups We have taken a leading position in mobile data territories.
+We also now have General Packet Switched Radio System or and exceeded our targets.
+Text and multimedia 2.5G GPRS roaming agreements in over 25 countries.
+messaging services, games, e-mail on the move Markets We believe in the significant benets that a high-speed 3G and mobile Internet access have helped increase network will bring to our customers.
+3G will greatly enhance the delivery service revenues from these new mobile data of a wide range of multimedia services, including new services such as video streaming.
+However, we do not see 3G becoming a significant applications to 17.3 per cent.
+In the meantime, GPRS will be the main bearer of multimedia services in 2003 and 2004.
+In the past 12 months GPRS has come alive.
+The ow into the marketplace of colour-screen Competitive environment There have been major changes during the past handsets and other media rich products has converged with new year in the competitive environment of our European marketplaces as multimedia interactive applications to exploit the higher speeds that the industry began to bring the number of players into line with realistic GPRS networks allow.
+Thanks to advanced data compression technology, market prospects.
+In Germany the closure of Quam and MobilComs 3G the speed of todays GPRS networks is similar to that originally envisaged operations effectively reduced the number of long-term players for 3G.
+With the exception of video streaming, there is little that 3G can from six to four.
+Our view that the Dutch market could not sustain offer that GPRS does not already do.
+Until 3G becomes a significant five network operators in the long term lay behind our decision to sell commercial reality, the existing GPRS network provides nationwide O Netherlands.
+In Ireland, an offer to sell four 3G licences attracted 2 coverage and also offers international roaming.
+By contrast, 3G will, only three bids, including Hutchison 3G.
+The presence of five operators in its early days, be restricted to a few cities.
+We now have more than in the UK, following the entry of 3, is challenging.
+Customers are now making use of mobile TM e-mail through their BlackBerry devices or the use of a GPRS card in a Regulatory issues Regulation continues to be an important feature of laptop and enjoy surng the web while on the move, playing Java games the commercial environment in which we operate.
+The new regulatory and using MMS.
+Most recently we have introduced trials of framework that is currently being implemented in the EU is intended to downloadable music and videos.
+Interconnection deals that we have respond to increasing competition by moving towards a lighter touch established with other network operators across our territories are regulatory approach and we are working with the regulators across our expected to fuel the growth of MMS picture messaging in 2003. territories to help make this a reality.
+Our goal is to make MMS as easy to use as text messaging and we will continue to work with industry players such as the Mobile Data www.
+com 3 Strategy update Our strategy has focused on three key areas In the community mmO takes its role in the community very seriously.
+2 improved operating performance: managing our businesses cohesively Details of our initiatives in this area are set out in the O in Society 2 and leading in mobile data services.
+We have made considerable progress section of our website.
+In December we launched our community in all these areas but we recognise that our strategy must continue to investment programme Can Do in the Community working with evolve to reect the changing nature of the marketplace.
+During the partners to deliver sustainable improvements in the community by using recent period of rapid industry growth there was a single novel product the Companys business resources, particularly its technology.
+This year mobile voice and customers were perceived as having similar needs.
+the focus for our community involvement will be tackling youth crime.
+But now that mobile phone ownership has evolved into a mass market, We have already been involved in several community projects through and there is no longer a single product but a widening range of the provision of mobile technology and other business resources.
+mmO 2 both voice and data services, customer needs and the options available aspires to develop a culture of responsibility in everything it does and for satisfying those needs, have become more diverse.
+Therefore our in this way create a sustainable business for the future.
+We have marketing emphasis must change.
+Becoming an integral part of achieved ISO 14001 in recognition of the quality of our environmental our customers lives by knowing what is important to them and helping management standards and ISO 9001:2000 for our Quality Management them to get more out of life, is a primary aim of our strategy going System the first in the industry in Europe to do so.
+If we have a clear understanding of their different needs, also been included in both the FTSE4Good and Dow Jones Sustainability we should be able to provide customers with a better overall indices.
+Dow Jones commented in a recent report, mmO has an 2 experience of O. excellent overall sustainability performance and is clearly positioned 2 among the best in its industry.
+We are also pleased to be in the top To achieve our aim of providing this, we are developing a new quintile of companies within the inaugural Corporate Responsibility Index segmentation framework to ensure that we really do understand the launched by Business in the Community in March 2003. mmO will publish 2 priorities of our customers.
+Using this framework we will deliver a range its first full Corporate Responsibility Report covering the year ended of service packages to different types of customer.
+At the same time, 31 March 2003, outlining our progress and objectives in this key area.
+we are enhancing our IT systems to improve our capability in customer relationship management and to help us transform our retail presence.
+Public health and safety Although there is no evidence that radio emissions from mobile phone handsets or radio masts are harmful Such a change of emphasis requires continuous and far-reaching in fact emissions are a small fraction of the safe levels recommended by change in the Company.
+It is O people who will drive the success of independent international bodies we take seriously health and safety 2 these initiatives.
+We will continue to build our skills and capabilities issues both for those who use our products and for the wider in customer service, marketing, brand building and service packaging.
+We actively support the Government research programmes We continuously challenge our people to live our brand values and to into the health implications of mobile technology.
+The sector nonetheless keep the customer experience at the centre of our vision.
+All of this faces a challenge.
+Customers correctly demand good quality, affordable should improve our ability to attract and retain higher value customers, prices and no dropped calls.
+The introduction of mobile data places even helping to increase ARPU, reduce churn and improve operational greater demands on network quality.
+This means that the industry needs performance.
+We are now running our businesses more cohesively, with to invest in network infrastructure, and in more masts in particular.
+one O brand providing a common face to our customers, a common In response to public concern O has joined with other network 2 2 portfolio of products and services and a shared network vendor strategy.
+operators in the UK to develop and implement the Ten Commitments Data will continue to be a core element in our drive to build a strong to best practice in siting mobile base stations.
+With 80 per cent of the brand, based on delivering an excellent end-to-end service experience.
+population now owning a mobile phone there is no digital divide We do not necessarily want to be the first to market with each new data access is open to all.
+But there is concern that phones have become product but we do want to provide products and services that are targets for criminals.
+We have taken a number of initiatives in this area, relevant to our customers lifestyles, easy to use, reliable, good value and for example, publishing a leaet on mobile phone safety in conjunction backed up by excellent customer support.
+with the Suzy Lamplugh Trust.
+Across the Group, we are implementing equipment identity registers to disable stolen handsets on all networks.
+com Peter Erskine On the issue of using mobile phones while driving, we have issued a Safe Driving leaet in conjunction with the UK Government and have contributed to the development of legislation.
+For the first time the mobile phone industry has multimedia devices that can combine video, voice, sound and text.
+We are investing in technology that will classify all internet content and offer the ability to bar handsets from receiving dened information.
+This will be available during 2003. mmO was the 2 first mobile phone operator to sign up to the Internet Watch Foundation David Varney and are currently examining issues raised by the use of camera phones either to invade privacy or to transmit inappropriate pictures.
+We also continue to roll out our Airwave service across police forces and other public safety organisations in England, Scotland and Wales.
+This will be vital in improving the safety of the public and ofcers in major incidents executive Directors.
+David Arculus has joined us as a non-executive where effective communication can mean the difference between life Director.
+He is currently Chairman of Severn Trent and the Better and death.
+Regulation Task Force and has spent most of his career in the media industry including eight years as Group Managing Director of EMAP Our people We are committed to continuous improvement in the before taking on the chairmanship of IPC Group Limited.
+He brings culture of the Company.
+Breathe O, our Company-wide campaign to to the Board valuable experience as a FTSE director and considerable 2 mobilise O people behind our brand and our strategy, has achieved a knowledge of the media sector.
+Dave McGlade, CEO of O UK, 2 2 great deal in energising everyone to improve our customers experience, Rudolf Grger, CEO of O Germany, and Kent Thexton, Chief Data 2 add value to O and deliver our brand promise.
+We have created and Marketing officer, became executive Directors of the Company.
+2 The Meeting Place on our internal website to provide everyone It was confirmed on 1 April 2003 that the Chairmans time commitment with the chance to share information and ideas across the Company.
+would be reduced to an average of between two and three days per week.
+Feedback is key to developing further our Can Do company culture Following these changes, the Board comprises 13 members seven and we introduced Reect and Act to ask everyone in the workforce non-executive Directors, five full-time executive Directors and a part-time how well we are measuring up to our demanding aspirations.
+Andrew Sukawaty continues as Deputy Chairman and senior are providing a catalyst for further change going forward.
+Your Board We were pleased to welcome David Chance to the Board Looking ahead In the markets in which mmO operates, competition 2 during the year.
+Previously Deputy Managing Director at BSkyB, he has to acquire and retain high-value customers is expected to remain robust.
+been instrumental in building the multi-channel broadcasting industry In addition, these markets are subject to general economic conditions in the UK and is a specialist in subscription-based technology services, and continuing regulatory risk.
+The Group believes that its O brand, its 2 customer management and content development.
+This experience adds strong position in mobile data services, and the operational momentum considerable value to the business as we move increasingly into the era it has developed since the demerger in November 2001, will enable it to of interactive services.
+In April we further strengthened the Board with deliver sustained progress in all the markets it serves.
+the appointment of an additional non-executive Director and three new Peter Erskine David Varney Chief Executive officer Chairman www.
+com 5 O gets their vote 2 When TV viewers voted in their millions for contestants in Big Brother, Popstars the Rivals and Im A Celebrity Get Me Out of Here, they were taking advantage of the skills of O s Mobile 2 Interactive Services team, a key player in the new world of mobile interactive marketing.
+Business review O UK delivering enhanced operational efficiency 2 and increased profitability through focus on customer experience Financial performance In a highly competitive market, share of our post-pay customer base, with post-pay O UK delivered strong growth and performance contracts growing as a proportion of the overall customer 2 improvement: service revenue for the year to 31 March base from 32 per cent to 34 per cent.
+At the same time, 2003 grew by 13 per cent to 2,738 million, 2002: through improved customer communication and 2,426 million : EBITDA grew by 25 per cent to 837 retention programmes, we reduced the rate of contract million, 2002: 670 million : and the operating margin customer churn from 31 per cent to 28 per cent.
+Our improved to 27.7 per cent from 24.3 per cent.
+Total turnover O Loyalty Programme won the top award in the 2 for the year ended 31 March 2003 was 3,025 million Marketing Direct Intelligence Awards.
+Revenue growth during the year of customer satisfaction continued to rise.
+Reecting the was driven by increases in the subscriber base and by higher quality of our customer base and improvements higher Average Revenue Per User ARPU.
+Against the in network performance, blended ARPU rose over the 00 01 02 03 background of an increasingly competitive market place same period from 231 to 247.
+Key corporate customer the rate of growth of our customer base has increased, wins included the BBC, Logica, Woolworths, the Bank EBITDA m with net new connections for the year to 31 March 2003 of Ireland and the Co-operative Group.
+Refurbished O 2 totalling 966,000 of which 447,000 were pre-pay and retail stores performed strongly, making a significant 519,000 post-pay contract customers.
+Our active contribution to customer growth and to a reduction in customer base at 31 March 2003 increased to 12.05 Subscriber Acquisition Costs SACs.
+Sales per store were million, of which 34 per cent were post-pay.
+Customer more than twice the level of the previous year.
+Our growth was driven by O UKs attractive and innovative customer management capability programme including 2 customer propositions, in both voice and mobile data, and the introduction of interactive knowledge databases for by the success of the O brand.
+customer care advisors, new order processing and an 2 Operational achievements In the past year our focus upgraded billing system began to deliver benets.
+We has been on delivering improvements in the efficiency continued to invest cost-effectively in our existing GSM of our operations, enhancing our performance in our or 2G infrastructure.
+Network quality also continued to target high-value sectors of the market by stimulating improve leading to a further fall in the rate of dropped usage and reducing customer churn, while securing calls on our network.
+We are now achieving levels equal improvements in the quality of our network.
+The O UK to the best in the industry.
+Last year O UK consolidated 2 2 management team has performed strongly in these key its leadership in data services.
+Data grew as a proportion areas of our business, delivering enhanced operational of service revenues from 11.8 per cent to 17.1 per cent 01 02 03 efficiency and improved profitability.
+A major restructuring, of the total and SMS messages sent grew from 3.4 billion Contract ARPU completed during the first half of the year, led to a to a record-breaking and market-leading 5.8 billion.
+The 12-month rolling 17 per cent reduction in the number of full-time launch of the xda from O a fully integrated mobile 2 employees, enhancing our efficiency without impairing phone and Personal Digital Assistant PDA and the first our ability to provide an improved customer experience.
+pan-O product has been well-received, accounting for 59 2 significant progress was made in improving our per cent of the voice enabled PDA market in the UK, performance in the post-pay, higher-value sector of the according to the latest gures from Context, and market by providing a better service to the business, attracting numerous awards and accolades from national TM professional and young adult customers who are the and trade press.
+Our BlackBerry always on e-mail Our operating margin is focus of our marketing efforts.
+During the year, we solution for business customers also continued to enjoy expressed as a ratio of TM turned round the previous years declining trend in the success, as did the Treo organiser.
+We launched the new EBITDA over turnover 6 www.
+com 431 485 555 498 670 503 837 Texts wins prizes Confectionery group, Masterfoods, picked O UK to run the 2 UKs biggest text and online promotion Chocollect for text messagers with a sweet tooth.
+Buyers of promotional packs can text a code inside the wrapper to a short code number and nd out immediately if they have won a prize.
+generation of Multimedia Messaging Services MMS with powers to regulate the broadcasting and electronic during the year.
+We expect that MMS, with its media rich communications sectors.
+The Government is also content, combining text, pictures and voice, will be a considering a ban on the use of handheld devices source of growth in the future.
+The issue of interoperability while driving, following its lengthy consultation exercise.
+between UK networks, a potential obstacle to the We have always advocated the safe use of handsets diffusion of MMS, was overcome and agreements are now and support initiatives in this area.
+in place with other UK network operators.
+Our sponsorship of Big Brother, the reality TV programme, Looking ahead Our focus continues to be on attracting was the industrys largest ever mobile data initiative in and retaining high-value customers and on driving strong terms of volume and revenue with over 10 million text top line revenue growth from data and MMS applications messages carried across the O network during the third rather than through increased subscriber numbers.
+O became both the ofcial club sponsor and same time we can do more on cost efficiency.
+Both avenues 2 exclusive mobile communications partner to Arsenal.
+O should lead to improved profitability.
+2 also continued to sponsor England rugby, providing a range of interactive and exclusive services.
+Our efforts in this area won independent recognition.
+O won the 2 Marketing Initiative of the Year award for Big Brother 3 and Arsenal Interactive Partnerships at the Utility Week Awards.
+Market dynamics The number of competitors in the UK market has risen from four to five with the launch of 3 in March 2003.
+In current market conditions, which are close to saturation, we regard this number of operators as challenging.
+Regulatory issues Following its inquiry into calls to mobile phones, the Competition Commission concluded in January 2003 that termination rates should fall by 15 per cent before 25 July 2003 and then by the Retail Price Index RPI minus 15 per cent in each of the following three financial years.
+O UK has revised its plans 2 to ensure that it will still achieve its financial targets, notwithstanding the negative effect that the Competition Commissions conclusions will have on revenues, by Interacting with England delaying the implementation of 3G to the second half of 2004 and not implementing planned reductions in Last year O took its sponsorship of the Grand Slam England 2 outgoing call tariffs.
+The Communications Bill is currently Rugby team to new levels of interactivity.
+England supporters got pre-match comments from coach Clive Woodward through passing through Parliament.
+This will implement European daily text or audio updates direct to their phones, together with Union Directives and provide OFCOM, the successor to live commentary and the chance to vote for Man of the Match.
+OFTEL as the national regulatory authority in the UK, www.
+com 7 Unique Genion wins BMW Group business Innovative and cost-saving tariffs from O Genion were the 2 deciding factor in a decision by the BMW Group to give O an 2 expanded contract for national wireless coverage at the new Leipzig production site, against stiff competition.
+Through the Genion solution with designated homezones the BMW Group will save significant sums of money.
+Business review O Germany achieving strong growth and 2 significant market momentum.
+Positive EBITDA ahead of expectations Financial performance O Germany delivered strong Operational achievements O Germanys achievement 2 2 growth and achieved good underlying operational and in reaching positive EBITDA a year ahead of schedule is financial improvement in the year ended 31 March 2003. evidence of the companys ability to improve operational Service revenue grew by 36 per cent to 944 million and efficiency, manage costs, generate strong top line growth the business reported EBITDA of 27 million, its first and grow profitably at the same time.
+Important full-year positive result one year ahead of plan, compared programmes were carried out last year to streamline with a loss of 166 million last year.
+Total turnover of operations and accelerate revenue growth.
+To reduce O Germany grew by 21 per cent to 1,060 million costs and improve efficiency we took steps to optimise 2 driven by growth in customer numbers and ARPU.
+site rentals, restructure our sales channel mix and reduce O Germany increased its customer base by almost headcount by the equivalent of 500 full-time employees.
+2 24 per cent to 4.8 million subscribers by March 2003, More customer retention packages were introduced, with over 70 per cent of the growth coming from supported by a win-back team to reattract customers, contract customers.
+O showed the strongest growth in which contributed to the substantial reduction in blended 2 the German market last year, increasing its market share churn.
+We also launched segmented product offerings from 7 per cent in March 2002 to 8 per cent at the end using customer-insight technologies based on our of March 2003.
+In addition to strong customer growth Customer Relationship Management capability.
+After O Germany also generated improved customer identifying gaps in the distribution network, we plan to 2 profitability.
+Blended ARPU of 219 for the year ended increase the number of our direct outlets, including some March 2003 showed a 12 per cent improvement on the new O shops but mainly in partnership with other 2 year before.
+This growth was owing to increases in both retailers.
+Genion, our unique mobile services product, pre-pay and contract ARPU and improvement in the remains the major driver of O Germanys success.
+At the year end, contract customers which accounted for the majority of gross additions last represented 55 per cent of the total base.
+year, underlines our strategic focus on more profitable The positive trend shown by contract customers, generating higher ARPU and a considerably ARPU is reected in the increase lower churn rate than other mobile products.
+Thanks to in the number of Genion Home its advanced technology, Genion is able to offer innovative customers who made up nearly services in combination with reduced tariffs close to those 55 per cent of our total for xed-line products in a geographical area chosen by contract customer base the customer, usually near the home or workplace.
+other operator in Germany can offer this service.
+Genion Blended SAC remained customers at the end of March 2003 accounted for stable at 107, with pre-pay approximately 55 per cent of our post-paid customer SAC more than halving to base and more than 30 per cent of our total customer 16.
+Genion also propelled us to further success in the during the year with blended churn falling to German business market.
+We won Caritas Stuttgart, 16 per cent from 28 per cent in 2002.
+Capital Voith Turbo and Thuringer Energie as clients.
+In data expenditure, excluding network sharing payments services overall, O Germany had a very successful year.
+2 to T-Mobile, fell to 141 million from 250 million We established ourselves as market leaders in data, in terms in 2003. of revenue share, driving data up to 19.3 per cent of our service revenues for the year.
+SMS services were the main How fast was that?
+Fans of football team Bayer Leverkusen, sponsored by O Germany, can now nd out just 2 how fast a football is ying through the air, thanks to the O Karachometer, by checking their xda from O or glancing 2 2 at large screens inside the stadium.
+source of growth in data revenues, boosted by both Regulatory issues O Germany 2 person-to-person and premium SMS services such as TVhas a regulatory requirement to voting, games, logos and ring-tones.
+Our portfolio of provide 3G network coverage to 25 per premium services, including the launch of SMS Chat, cent of the population by the end of developed further and we acquired more Internet December 2003.
+We intend to meet this Protocol access customers.
+O launched MMS in Germany requirement.
+In addition to building its own network, 2 in November 2002 and was the first mobile operator in O Germany will provide wider 3G coverage for its 2 the German market to offer MMS interconnection to customers through its network sharing and roaming every other mobile network.
+Future growth in MMS is agreement with T-Mobile.
+We have extended this expected to lead to further increases in the proportion of agreement to gain increased access to T-Mobiles 3G data service revenues and ARPU.
+There was a significant network in all areas over a longer period.
+By adopting increase in the number of GPRS active users during the this dual approach to 3G coverage, O Germany will be 2 year, which was assisted by the launch of the xda from in a position to provide a full commercial 3G service to its O in Germany.
+We won Bertelsmann, Gruner and Jahr customers, across a wider area and more cost effectively, 2 TM and Berliner Verlag as customers for the BlackBerry at the same time as the market leader, T-Mobile.
+In partnership with m. able, we created a mobile also enable O Germanys network roll-out to be matched 2 sales data solution for mobilesteps, an IT and telecoms closely to the development of the market for 3G products 00 01 02 03 sales company.
+At the CeBIT Conference in March 2003, and services.
+1 Pro forma EBITDA we presented further mobile services in Games, Music, m Messaging, Information and Business.
+This year we plan Looking ahead Last year our focus was on improving to introduce a Wireless LAN offering as a complementary the cost and revenue basis of the company.
+In the service to high-speed wireless networks such as 3G, coming 12 months our priority will be to assess our core especially for business customers.
+We plan to introduce processes to see how we can adapt them to best serve 3G services in O Germany from late 2003.
+By this time, our customers.
+We intend to launch a range of further 2 enough handsets should be available to meet market services such as multi-card Wireless LAN, Loyalty Customer demand.
+O has secured a deal with T-Mobile to utilise its Reward Systems and also the start of our 3G solutions 2 3G network from the outset.
+Mobile Number Portability and a comprehensive portfolio of mobile data products.
+O was the most successful Future growth potential for Genion remains good.
+2 operator in the market, winning the largest number of Our overall objective is to continue to grow our market customers from other operators.
+share in Germany by one percentage point per annum focused on post-pay customers, the business and Market dynamics As penetration reached 69 per cent wholesale sectors.
+We intend to continue to be 63 per cent in March 2002 and moved towards saturation EBITDA positive.
+levels, the German mobile market continued to grow, but more slowly than in recent years.
+About 4.3 million 01 02 03 new customers were acquired during the financial year, Subscriber base 000s taking total connections to 60 million mobile connections Total at the end of March 2003.
+We continue to believe that Contract the German wireless market is one of the most attractive in Europe.
+There is, however, a limit to the number of operators that it can support.
+During the year the number 1 Comparative gures for the of 3G network operators reduced from six to four financial years 2000 and 2001 T-Mobile, Vodafone D2, E-Plus and O Germany as two are on a pro forma basis, which 2 assumes that O Germany was 2 of the original six operators awarded 3G licences in 2000 a subsidiary for the whole of MobilCom and Quam abandoned plans to enter each financial year.
+com 9 1,607 3,167 386 1,979 3,891 343 2,630 4,812 166 27 Mobile data means better breeding The Irish Cattle Breeding Federation works hard to improve the genetic properties of Irish cattle.
+O Ireland has teamed up with 2 Sord Data Systems to equip farm inspectors with the xda from O.
+Data on cattle is sent by the inspectors straight to the ICBF 2 database, keeping it up to date and highly efficient.
+Business review O Ireland high usage levels drive accelerating 2 performance and margin improvement Financial performance Service revenue grew by through the development of services and products.
+13 per cent to 415 million for the year ended 31 March Delivering high levels of customer satisfaction requires 2003 and EBITDA increased by 29 per cent to 157 million, top quality products and top quality people as well.
+At with the EBITDA margin improving to 35.5 per cent the Irish Institute of Training and Development Awards from 30.9 per cent last year.
+Capital expenditure 2002, O Ireland picked up two awards for the Best 2 excluding the purchase of the 3G licence, fell by Training Programme and the Best e-learning in the 31 per cent to 59 million.
+Growth in the number of large business sector.
+O Ireland won the FAS Excellence 2 customers has slowed over the past 12 months because through People award 2002 and the ECDL Corporate the mobile market in Ireland is already highly penetrated Section Award for promotion and delivery of Equalskills at over 80 per cent.
+At the seventh Annual Irish Call Centre Awards, 2 further growth and performance improvement with net O Ireland was short-listed for the Best Training 2 new connections for the year ended 31 March 2003 Programme award.
+The growth in data service was totalling 75,000, of which 65,000 were pre-pay and driven mainly through increased SMS usage and take up 10,000 were post-pay customers.
+Our active customer of GPRS services.
+We made good progress in sales of the TM base at 31 March 2003 numbered 1.26 million, up from BlackBerry device, exceeding our targets with the aid of 1.18 million, of which 889,000 were pre-pay and extensive advertising and direct sales incentives.
+O Ireland maintained its corporate market, we gained a number of important new 2 share of the contract market at 43 per cent while our customers including the Cantrell and Cochrane Group share of the pre-pay market rose from 38 per cent to and the Richmond Group.
+Overall market share for O Ireland was 2 40 per cent.
+Blended SAC fell from 75 to 50 over the We continued to expand the range of O Irelands online 2 year, helping to drive up the EBITDA margin.
+Blended services and these now include games, MTV ring-tones, ARPU increased from 329 to 351, mainly reecting bill view online, Chat, WebSMS, and multimedia increased revenue from mobile data which rose from messaging.
+A major success was our operation of the 9.7 per cent to 15.3 per cent of total revenues, while the website for RTEs highly popular Youre a Star talent 00 01 02 03 blended churn rate fell to 31 per cent from 38 per cent.
+Viewers cast their votes 2 In terms of non-voice services, SMS text messaging via premium text messaging using O s SMS Broker 2 EBITDA continues to be the single most significant contributor.
+service, now called Mobile Marketing.
+On the final night m O Irelands SMS trafc grew by 49 per cent year on year of the show more than 850,000 SMS votes were cast 2 to 992 million messages.
+using our Mobile Marketing service.
+O Ireland launched 2 Irelands first public Wireless Local Area Network service, Operational achievements Our management teams wireless zone, in early February 2003.
+Wireless zone continued focus on customer satisfaction and operating enables business people on the move to connect to the excellence was recognised in a number of industry Internet at broadband speeds 25-30 times the speed of awards and commendations last year.
+In April 2003, a dial-up modem within 12 specic public locations, or O Ireland was named Telecoms Company of the Year at hotspots, nationwide.
+Representing a 1.9 million 2 the ICT Expo Awards.
+ie investment by O Ireland and using the inherent 2 won Irelands leading technology award, the Golden capability of the companys core nationwide data Spider Award, for the second year running.
+The award network, wireless zone is available to both O and 2 recognises the most innovative use of mobile data non-O customers.
+com 49 68 122 157 O Ireland offers WLAN as added option 2 O Ireland is broadening its range of mobile voice and data 2 services by offering business customers the option of a public Wireless LAN WLAN service.
+Up to 30 times faster than a dial-up modem, public WLAN gives customers the ability to access their corporate intranets from locations such as in cafes, hotels and airports, where they can send and receive emails and browse the web.
+Our distribution strategy continues to be a cornerstone of our success.
+In May 2002, we announced the formation of a new retail company, O Retail, and the consolidation and 2 full integration of O Irelands four existing retail 2 operations under the O Retail banner.
+This removed Regulatory obligations on O Ireland remain in place as 2 2 duplication of stores, reduced overhead costs and a result of our significant market power SMP status in enabled us to bring a common, focused retail approach.
+the market for mobile networks and services and the We have continued to expand our network in a costnational market for interconnection.
+efficient manner and in a way that is as unobtrusive as possible to local communities.
+We continued to upgrade Looking ahead The focus for O Ireland over the coming 2 a number of sites, which delivered improved network year will be on understanding the needs of our customers quality and capacity at a lower network cost.
+O Ireland is and satisfying those needs as efficiently as possible.
+ARPU 2 a company that is committed to investing in and playing in the Irish mobile phone market continues to be above a part in the development of local communities around the European average due to the high levels of both the country.
+We are active in a wide range of activities voice and non-voice usage.
+O Ireland will continue to 2 that are integral to Irish life.
+look at ways of maximising value from existing voice services and a growing stream of value added, non-voice Market dynamics The number of competitors in the services.
+Any new investment in the existing 2G network Irish mobile market is set to increase from January 2004 will continue to be justied on a financial payback basis with the introduction of 3 Hutchison Telecom.
+As part of and where possible will be shared with the roll-out of our the 3G licence process, O Ireland and Vodafone Ireland 3G network where our investment will be demand-driven.
+2 were awarded B licences while 3 was awarded the only A licence.
+The main differences in the licences are price and coverage and roll-out requirements.
+The fee for the A licence is 50 million, while the fee for the B licence is 114 million.
+The B licence, while more expensive, carries less aggressive roll-out and coverage requirements.
+Meteor, the third 2G operator in the Irish market did not apply for a licence.
+Regulatory issues On 1 December 2002, under the Communications Regulation Act 2002, a new regulatory body was established for the regulation of the communications sector in Ireland.
+This new regulatory body, known as the Commission for Communications Regulation replaces the Ofce of the Director of Telecommunications Regulation.
+This Act also provides for additional powers of enforcement and increased fines for summary offences and for convictions on indictment.
+com 11 BlackBerry tops polls On the road from early morning until late at night, candidates and campaigners for CDA, the largest political party in the Netherlands, made the BlackBerry e-mail solution a vital tool in their winning campaign in the recent Dutch elections.
+In constant touch with one another and the latest news, the CDA team proved highly effective.
+Business review O Netherlands the sale of O Netherlands 2 2 to Greeneld Capital Partners was announced in April 2003 Financial performance O Netherlands improved its feedback, O Netherlands introduced at-rate tariffs and 2 2 underlying financial performance in the year.
+The xda from O achieved good 2 TM revenue grew by 26 per cent to 230 million, and EBITDA initial sales and the BlackBerry GPRS terminal enjoyed was break-even compared to a loss of 51 million in the an encouraging take-up, nding a following not just in year ended 31 March 2002.
+Operating loss before the business market.
+During the Dutch general election TM exceptional items was reduced to 86 million from campaign in November 2002 the BlackBerry was used 119 million in 2002.
+The active customer base at as a tool for the largest Political Party CDA, helping to 31 March 2003 totalled 1.20 million, of which 899,000 keep candidates and campaign workers in touch were pre-pay and 297,000 were post-pay.
+Blended ARPU with each other and with the campaign headquarters.
+increased from 163 to 179 during the year.
+Data as a O Netherlands secured significant improvements in 2 proportion of service revenue was 14.5 per cent for the network quality last year through additional investment, full year, and the number of SMS messages sent over the including investment in E-GSM an extra frequency with network more than doubled to 395 million.
+the aim of further optimising the networks range indoors.
+Key corporate customer wins during the year Operational achievements O Netherlands generated included IBM, Siemens, Cap Gemini, Ericsson, Europol, 2 improvements in operational efficiency and in the quality Ernst & Young and Clifford Chance.
+O also signed a 2 of service offered to customers by providing compelling major afnity deal with the Dutch international airline new products, better network quality and a high level of KLM, targeted at the members of its frequent yer loyalty service delivery.
+We set ourselves a specic operational programme.
+To maximise the use of the network the 00 01 02 03 target for the past financial year to raise ARPU.
+We company continued to strengthen its partnerships with 1 Pro forma EBITDA succeeded in meeting this target, generating underlying third-party telecoms providers.
+debitel Nederland BV and m growth in ARPU of over 5 per cent over the course of the Tele2 began to offer full voice and data services over 1 Comparative gures for the year.
+This partly reected the strategic focus last year on the O network during the year.
+At the same time the 2 financial years 2000 and 2001 the higher-usage, post-pay customer whose numbers operational management of the network was transferred are on a pro forma basis, increased by 27 per cent.
+At the same time the company to Ericsson.
+SMS continued to be the main driver of growth which assumes that O Netherlands was a 2 launched a number of targeted campaigns to persuade in data, while MMS was launched in October 2002. subsidiary for the whole new and existing customers to adopt its new data of each financial year.
+O Netherlands was at the Market dynamics Five network operators continued 2 forefront in its response to calls for transparency in to compete in the Netherlands mobile phone market, mobile phone call tariffs.
+In September 2002, it took the a number that was challenging in view of the relatively unique step of abolishing handset subsidies in the retail small size of the market.
+In such a competitive market, sales channel, replacing them with a new SIM-only it was believed that O Netherlands lacked the critical 2 subscription with clearer, lower tariffs.
+This innovative mass required to deliver the appropriate shareholder marketing initiative received a positive response from value, and so the Group took the decision to dispose both the media and the market.
+The O portal became of the company to Greeneld Capital Partners.
+2 the most popular website for mobile communications in the Netherlands, guiding existing customers through Regulatory issues O Netherlands took an active part in 2 the portfolio of products and services and fullling an industry objections resistance to measures by OPTA the important function as a sales channel by attracting new Independent Post and Telecommunications Authority, subscriptions.
+In the business market, based on customer to reduce interconnection tariffs.
+com 101 104 51 1 Youre never away with GoalAlert Frequent yers favour O 2 Every game is a home game for fans of football team, KLM Flying Dutchman FD members outside the Netherlands PSV Eindhoven, thanks to GoalAlert.
+Available on the xda from have been able to use O to chalk up FD Miles with the Dutch 2 O, GoalAlert lets fans know when a goal has been scored in a national carrier, KLM.
+On top of a 250 FD Miles introductory 2 PSV match.
+It also allows them to download lm of the goal in registration bonus, Flying Dutchman members have been able full colour and sound.
+that the tariff reductions were unnecessary in the highly competitive Dutch marketplace.
+O Netherlands, along with the rest of the 2 industry, also appealed against a ne imposed on all five mobile operators in the Netherlands by the Dutch Competition Authority, NMa, which alleged that a cartel operated in dealer bonuses.
+Payment of the ne was suspended pending appeal proceedings.
+The total ne imposed on the industry was 88 million, of which O Netherlands share was 6 million.
+The 2 Monet foundation, which is a joint collaboration of all mobile phone providers that deals with noncommercial issues, concluded a covenant with the Association of Dutch Municipalities and with the national government over the positioning of masts.
+The covenant ended the previous requirement for a permit to erect wireless antennae of less than five metres in height.
+This agreement simplied the positioning of masts for O Netherlands.
+com 13 Beating crime with Airwave Airwave brings a host of benets to police ofcers in the ght against crime.
+Digital technology provides much greater voice clarity while Airwave terminals can give direct access to the Police National Computer database.
+Encryption also foils eavesdroppers, allowing secure communication between ofcers and in the future with other emergency services.
+Business review Airwave building a secure nationwide communications service for the emergency services and public safety organisations Last year we continued to invest heavily in the roll-out based on the open European standard for digital of Airwave, our digital radio system for public safety and terrestrial trunked radio TETRA.
+In addition to almost emergency organisations, delivering the service to our 100 per cent geographical coverage, capacity will be tenth police force.
+Over the next 12 months more than available on Airwave whenever and wherever a public 20 further police forces, including the Metropolitan Police, safety user needs ita vital feature in emergencies.
+We invested 163 million in our network quality is very clear and there is a facility for encryption, development last year and capital spending in the 2004 which means that third parties cannot listen in, allowing financial year will also be significant.
+Under the terms of the police, for example, to keep one step ahead of a 2.9 billion, 19-year contract with the Home Ofce, criminals.
+Airwave will also provide a common platform Airwave will be the sole supplier of core mobile radio for public safety organisations, giving them true services to all 53 police forces in England, Scotland and interoperability and comprehensive geographical Wales.
+The Airwave network is currently used by forces in coverage.
+Lack of communication at major emergencies Lancashire, Greater Manchester, North Yorkshire, West and disasters has been highlighted as a significant factor Mercia, Northumbria, Suffolk, Leicestershire, in hampering the effective co-ordination of rescue Cambridgeshire, Derbyshire and Humberside.
+efforts by the emergency services.
+With Airwave, Opportunities for Airwave are not restricted to police police ofcers from different forces can talk to one forces.
+Airwave is also currently used by the British another or to ofcers from other emergency services Transport Police, the Lancashire Fire Brigade, the who can, in turn, communicate directly with one another.
+Shropshire Fire Brigade, Hereford and Worcester NHS Ambulance Trust and the Ministry of Defence Police.
+What Airwave can do for the Police The UK Government has recently invited tenders for the Ofcers in Lancashire and West Mercia using Airwave implementation of nationwide communications systems have caught burglars carrying analogue radio scanners.
+for the countrys re and ambulance services.
+Airwave has The criminals had been expecting to monitor the submitted competitive bids for both procurements.
+whereabouts of police ofcers but have been prevented Airwave is a sophisticated, fully encrypted digital radio from doing so by Airwaves encryption.
+The call clarity system, which cannot be scanned or monitored by provided by Airwave has also been an advantage to outsiders.
+Scheduled for completion by the end of 2005, ofcers in Suffolk and North Yorkshire who were previously the Airwave network will allow the police to hampered by East Coast Interference, which sometimes communicate seamlessly and securely throughout put them in contact with Dutch taxi drivers and North England, Scotland and Wales.
+handsets, combining a digital radio and mobile phone, will also in future operate as data terminals enabling Michael Craik, Deputy Chief Constable Northumbria ofcers in the eld to access local and national Police, has this to say about Airwave: databases, such as the Police National Computer and Feedback on the new features and functionality of the driving licence information.
+As well as making a Airwave service from all of the Area Commands where it is significant contribution to the ght against crime, the live has been extremely positive the extra coverage and system promotes officer safety, partly because it has voice quality has received special mention from ofcers.
+better radio coverage and call clarity but also because of its emergency button feature, which enables ofcers to summon immediate assistance.
+The Airwave network is 14 www.
+com Ambulance Trust on fast track Hereford and Worcester NHS Ambulance Trust last year became the first National Health Service organisation to adopt Airwave.
+H&W can now track their ambulances and use remote satellite navigation to nd the quickest routes.
+Thanks to Airwave, some ambulances can even send a patients vital data in advance to a hospital consultant.
+in partnership with Airwave to provide reliable mobile What Airwave can do for Fire Brigades The Airwave solution for Fire Brigades would be based data communications for the 21st century.
+on an existing and fully rolled out network, providing exceptionally clear speech quality to control room staff Our commitment to almost 100 per cent national coverage for the emergency services means that the and re crews.
+We want to work actively with other market leaders to develop world-class voice and data roll-out of our network will take us into areas that are challenging from a planning point of view.
+These include solutions for the Fire Brigades, in line with their modernisation agendas.
+While network reliability is vital, national parks, other areas of natural beauty as well as major cities.
+Airwave, although not an ofcial signatory O Airwave considers that the overall dependability of the 2 end-to-end solution is paramount.
+An example of just to the mobile phone industrys Ten Commitments on mast siting, does apply those principles in its own such a solution is the interim five-year Airwave contract for the Shropshire Fire and Rescue Service.
+It includes the consultation procedures with local communities over network development.
+provision and management of Airwave voice facilities, a comprehensive mobile data solution together with mobile Looking ahead We shall continue to invest in the radio terminals.
+Ian Kerr, Chief Fire officer of Shropshire Fire and Rescue Service, says: Following the Airwave build-out of the Airwave network until its completion by the end of 2005.
+We shall also address the expanding trials with the police, we were keen to share the benets of using the same technology.
+With improved access to range of opportunities for winning potential Airwave customers among the emergency services and public risk data, Airwave will enhance the level of safety we can give our re ghters.
+And Lancashire Fire and Rescue safety organisations at a time when there is heightened concern about national security and terrorist attacks.
+Service LFRS says: The Airwave service has provided LFRS with a wide area network that gives exceptional clarity of voice together with a technology that offers further development opportunities for LFRS.
+What Airwave can do for Ambulance Services Airwave has shown itself in the eld to be a secure and reliable mechanism for transmitting Ambulance data.
+Joining up the emergency services Patient data, including ElectroCardioGraph and vital signs, has been carried across the Airwave network.
+Fireghters and police At the same time Airwave has enabled the intelligent ofcers from Shropshire Fire and Rescue and West mobilisation of ambulances, helping the service to meet Mercia Constabulary will be targets for ambulance response times, supported by using Airwave to co-ordinate status messaging and vehicle tracking.
+their efforts at serious incidents.
+Airwaves digital quality cuts through noise, Airwave has also been chosen as an interim solution, allowing clear communications pending the outcome of the national procurement, between brigade re controls, reghters and police ofcers, for Hereford and Worcester NHS Ambulance Trust.
+Brian making operations safer and Chambers, Director of Clinical Services, Hereford and more effective for public Worcester NHS Ambulance Trust, says: We are working and emergency services alike.
+com 15 School world first with 3G 3G boon for estate agents Schoolchildren on the Manx Telecomputer Bus, Estate agents on the Isle of Man, have been making good use sponsored by Manx Telecom, found that a routine of their 3G phones.
+They can take photos of properties with lesson had turned into a World First.
+Instead of a digital camera, download them to their lap-tops using 3G, connecting to the internet as usual through an ISDN and then send the picture to their ofces, the local newspaper line, all 20 Apple Mac computers on the Bus gained or direct to clients by e-mail.
+access through just one high-speed 3G phone.
+Business review Manx Telecom Europes first 3G network provides invaluable technical and commercial experience Financial performance Manx Telecom is O s business achievements.
+We have won awards from Mobile News 2 on the Isle of Man, providing a full range of xed, mobile Technology Innovation Award and Tarica Billing and Internet networks and services.
+Turnover in 2003 Magazine Globe Award for Excellence in Mediation.
+In was 47 million 2002: 43 million and EBITDA increased November 2002, Manx Telecoms 3G services also gained to 19 million 2002: 16 million.
+At 31 March 2003 Highly Commended at the eBTA Awards, hosted by we had 59,000 mobile customers with 36 per cent on Charteris and the Institute of Directors, in the category post-pay contracts which meant that, for the first time, Most Innovative Project.
+the number of mobile customers exceeded the number of xed line customers.
+Looking ahead Discussions are currently underway with the Isle of Man Government over the terms of the renewal Operational achievements Manx Telecom has been at of our licence ahead of the expiry date of the current the forefront of introducing new telecommunications licence in 2006.
+We have demonstrated our commitment technology and services.
+The Isle of Man has had the to ensuring that we deliver the best possible service to benefit of broadband ADSL services over xed lines since our customers by achieving an overall satisfaction rating March 2000, when Manx Telecom launched these services of over 98 per cent across the whole of the Manx ahead of the UK.
+ADSL services are now available to Telecom portfolio.
+We have also invested 7.5 million around 80 per cent of the islands population and the during the year to upgrade and enhance the existing number of connections continues to rise steadily.
+In network and to deliver new services.
+December 2001 Manx Telecom became the first operator in Europe to launch a fully operational 3G mobile network.
+Manx Telecoms 3G network supports location-based services, video telephony, online gaming and video surveillance, as well as voice calls and high-speed Internet access.
+Manx Telecoms 3G project has been a key demonstration of O s mobile data leadership and is 2 providing an invaluable practical learning experience to other O businesses as they plan the implementation of 2 3G services in their own territories.
+In May 2002 we transported a 3G base station to Dublin to conduct a live demonstration in support of O Irelands successful bid 2 for a 3G licence.
+Since its launch we have offered a 3G trial service to over 100 interested parties.
+We have also announced Europes first 3G tariffs and have tested a wide variety of applications across the new high-speed network.
+As one of a very small number of operators around the world who can demonstrate 3G, Manx Telecom has attracted over 1,200 visitors, including politicians and print and broadcast media from around the world, wishing to see the ground-breaking service at first hand.
+At the Manx International Rally in August 2002, 3G connectivity at each of the checkpoints around 00 01 02 03 the course meant that driver information, times and EBITDA performance results were for the first time simultaneously available m all over the course via a web-based application.
+We are pleased that the mobile industry has recognised our 16 16 www www.
+com 12 12 16 19 Music on the Move Download the music you want to hear, wherever you are.
+O, 2 in partnership with MTV and major recording labels including BMG, will link your mobile phone to a digital mobile music player.
+You can select, retrieve and store the latest chart hits via your mobile handset onto a digital music player and start listening in around 12 seconds.
+Business review O Online is our mobile services website portal.
+2 Customers use our portal to access their e-mail, send text messages, download ringtones or the latest political and sports news and even build their own mobile Internet pages Operational achievements Last year O Online grew rapidly, underlining 2 O s position as the clear UK market leader in mobile portal services.
+We 2 doubled our online subscriber base to more than half a million customers, of which almost half are high-value contract customers.
+Customers for our premium rate services, such as ringtones and pre-paid alerts, have consistently recorded some of the highest ARPU levels within mmO.
+2 The use of WAP services through our mobile portal demonstrated strong growth, as customers embraced mobile Internet messaging, games, sport and news information via their mobile handset.
+co. uk, was named as Best Site Makeover by silicon.
+Interactive services O Online has had a key role in developing the 2 interactive mobile services that are used increasingly to communicate media-related content in recent innovative marketing campaigns.
+Interactive techniques include text voting, gaming quizzes, ringtones, icons and news alerts together with the facility to text comments to TV and radio programmes.
+During the year, in response to the increasing demand for these applications, O Online developed Mobile 2 Interactive Servicesa new capability that provides co-branded and own brand mobile text based services across the media, sport, consumer goods and finance sectors.
+We developed further our sponsorship agreements with Arsenal and the England Rugby team to provide interactive services to fans.
+We also used our skills to run the ofcial websites for high prole interactive television programmes including Channel 4s Big Brother 3, the BBCs Fame Academy and RTEs Youre a Star.
+Big Brother 3 generated in excess of 10 million premium rate text messages during the nine-week programme making it the most successful premium rate mobile data event to date in Europe.
+Third party customers included Granada for Popstars the Rivals, ITV for Im a Celebrity, Get Me Out of Here, Masterfoods, RAC and the Capital Radio Group.
+Looking ahead In the coming year O Online will continue to target 2 high-value customers with competitive and appealing voice and mobile data services.
+We will be offering a specialist online business shop to enable business customers to take advantage of tailored online tariffs, online care and online billing.
+It is just one way in which we will seek to improve our customers interface with us, making it easier for them to access content and applications that will enhance their lives.
+com 17 Business review Products O mmO is committed to delivering data 2 2 leadership, and Products O develops the mobile data capability 2 and services to help it achieve this goal The Company continues to demonstrate strong performance in this eld and colleagues on other networks.
+mmO has seen encouraging usage 2 and exceeded its 2003 financial year target of 16 per cent of revenues of its picture messaging service since launch and expects this to grow from data, reaching 17.3 per cent across the Group.
+further as penetration of suitable devices within the market increases.
+Messaging mmO retained its position as the home of text, with O has recently announced trials of video and the worlds first 2 2 another record breaking year.
+Group-wide, more than 8.5 billion text music over mobile services using existing mobile data networks.
+messages were sent by our customers, up 60 per cent on the previous Video services being trialled include the ability to create and send year, and well over half of O customers now use text messaging.
+In the 10-second video clips, and to browse, select and download video clips 2 UK, O maintained its number one position, while both O Germany including regularly updated news, sport, weather and entertainment.
+2 2 and O Ireland recorded strong growth in text messaging, with Ireland Once selected, the clip will be streamed or downloaded direct to 2 consistently achieving amongst the highest SMS usage levels in Europe.
+The O music service will enable customers to select, 2 retrieve and store the latest chart hits via their GPRS-enabled mobile Taking peer-to-peer text to the next stage, mmO is also leading the handset onto a specially designed digital music player and start 2 market in the provision of innovative premium text messaging services, listening in around 12 seconds.
+including ring-tones, text alerts, votes, sports information and picture messaging.
+The Company has recorded strong usage of such services Business O continues to provide leading mobile data 2 particularly in regard to its interactive partnerships with Arsenal Football solutions for businesses.
+Uptake of the corporate e-mail TM Club and reality TV programme Big Brother in the UK.
+on the move solution BlackBerry continues with more than 23,000 devices now sold across the Group.
+Mobile data applications Building on its success in text messaging and O achieved clear leadership in this market, 2 mobile Internet services, and its ability to attract and retain high-value accounting for more than 65 per cent of the total TM customers, O has launched a number of mobile data applications during BlackBerry devices sold in Europe during the year.
+2 the year that are proving appealing to high-value users.
+Enhancements over the last 12 months include voice capability, attachment opening, Lotus Notes capability and mmO s Java games service, the O Games Arcade, is proving highly extensive international roaming.
+The Group has recently 2 2 TM popular amongst the high-value youth target audience.
+The service announced that it is to trial a BlackBerry solution for the SME market.
+is constantly made more appealing by the addition of new games to date more than 60 have been added to the arcade.
+The xda from O the world's first truly integrated colour PDA and GPRS 2 mobile handset, combining touch screen PDA functionality with The Group launched its picture messaging service, O Media Messaging, advanced mobile phone capability was launched in May 2 in October 2002, enabling customers to send and receive multimedia 2002.
+Sales continue to show steady growth to date more messages incorporating pictures, sound and text using specially than 55,000 devices have been sold in the UK, Germany, enabled handsets.
+mmO led the market towards interconnect Ireland, the Netherlands and Asia Pacic.
+As well as winning 2 between networks and was the first to excellent reviews, xda users are using its functionality to the announce such agreements in the UK full and are consistently amongst mmO s heaviest data users.
+2 and Germany enabling customers to share Driven by these developments, use of mmO s medium speed mobile 2 multimedia messages data GPRS networks recorded significant growth to more than half with their a million active users across the Group.
+friends, family Looking ahead Our focus for the year ahead is to leverage our leadership position in text messaging to deliver further growth in the uptake of mobile data services.
+We plan to stimulate sustained and active usage through the delivery of compelling services that are easy to use and appeal to our target audiences within both the high-value consumer and the business markets.
+We intend to drive penetration of data enabled devices across our territories and remain committed to achieving our stated target of 25 per cent of revenues from data by the end of 2004.
+Pioneering asthma trial Asthma sufferers may be able to breathe more easily following O s sponsorship of path-breaking new trials 2 of an asthma patient monitoring system.
+A ow meter, connected to an xda from O, gathers real-time data, 2 allowing doctors to monitor and manage asthma conditions and detect early signs of an imminent asthma attack.
+Corporate responsibility We are committed to putting corporate responsibility at the heart of all we do at mmO 2 We believe that mmO has the best chance of delivering long-term value reviewed regularly through third-party audits that form part of the 2 to our shareholders as well as to society around us and achieving our operational risk reviews conducted within our insurance programme.
+core vision to make peoples lives richer by offering excellent mobile communications.
+To support this ambition our aim is to engage fully in Ethical procurement society through active involvement and dialogue with all our A new ethical procurement policy has been published: this sets out the stakeholders our employees, our customers, our suppliers, working conditions we expect our suppliers to provide for their employees.
+our investors and local communities.
+Our aim is to ensure that suppliers comply with all national and other applicable law and regulations regarding the standards we have set, Milestones and external recognition including health and safety, payment of living wages, and the use of This year we have accelerated our efforts and have made considerable child labour.
+Health and safety at work We established a Corporate Responsibility Advisory Council under The health and well being of our employees, and of all those who work the leadership of the mmO chairman, David Varney, with the aim indirectly for the Company, is a prime concern to us.
+A Group-wide 2 to scrutinise policy and practice.
+health and safety strategy details organisational structures, roles and responsibilities from the Board to functional levels.
+O UK has achieved 2 We launched Can Do in the Community, a programme that is registration to the internationally recognised health and safety focused on nding ways in which we can put our technology and system OHSAS 18001.
+In addition, the management of the skills to use for the wider benefit of society.
+health and safety procedures of every operating business is regularly reviewed through external audits, which are carried out as part We have carried out a major review of our approach to diversity and human rights, and published our reviewed ethics policy, of our insurance programme.
+our environment and our ethical procurement policies.
+Health and safety in the community As a company, we provide our customers with a technology that is In the current year we will publish, in print and online, our first independently veried Corporate Responsibility Report.
+Detailed increasingly seen as an essential part of modern life.
+But we are well aware that our stakeholders have concerns about mobile technology, information on our corporate responsibility approach is published on our website www.
+not least the safety of handsets and the siting of communications masts.
+We fund independent research in this area.
+As mobile communications We are now represented in some of the main sustainability indices advance, new issues are arising including, for example, privacy and the availability of adult content on next generation phones.
+Our policy is to and funds.
+These include the FTSE4Good and Dow Jones Sustainability indices, Ethibel investment and sustainability registers, and the new UK address these concerns actively and openly and to engage in direct dialogue with customers and communities.
+Although research has not Business in the Community Corporate Responsibility Index, where we reached the top quintile.
+found evidence that mobile handsets pose a health risk, studies have recommended further research be carried out.
+We are therefore helping Risk management to fund independent research in the UK and in Germany and contributing to EU WHO research programmes.
+Clear accountability is an explicit demand of our stakeholders and it informs our approach to corporate responsibility.
+We fully endorse the O in the community Disclosure Guidelines on Social Responsibility set out by the Association 2 of British Insurers.
+Corporate responsibility is expertly managed in the In December we launched our Can Do in the Community programme, designed to embed responsibility to the community in our business.
+mmO Group, with individual Directors taking direct responsibility for key 2 issues, including social, environmental and ethical issues, and overall Monetary donations to charitable and community organisations during the year totalled 444,000.
+Our focus in the current year will be on responsibility residing with the Board.
+Our risk management procedures are guided by the Turnbull Internal Control Guidance on the Combined charities working to tackle youth crime and improving youth education.
+All Directors are given full training in the management of risk.
+Our people The UN Universal Declaration of Human Rights and the International Environment Our environmental policy commits us to using resources efficiently, Labour Organisation declarations guide our employment policy.
+To accentuate this approach we have launched a diversity programme by conserving energy and water, minimising waste and pollution and reducing the levels of emissions.
+We have won Group corporate to test our employment practices and to make sure that we offer real equality of opportunity to all employees and potential recruits.
+Our code registration under the ISO 14001 international environmental standard.
+O UK has maintained its registration since 2000 and all of our other of business principles demands that all employees behave ethically in 2 all their dealings with each other, with customers and other people operating businesses plan to apply for individual registration within two years.
+The environmental management of our operating businesses is and organisations outside the Company.
+Rudolf Grger 48 CEO O Germany 2 David Varney was appointed to the Board in August 2001 as full time Chairman.
+In Rudolf Grger was appointed to the Board on 1 April 2003.
+Mr Grger joined the April 2003, he became part time Chairman as envisaged at the time of the demerger Company in October 2001 as Chief Executive officer of O Germany previously 2 from BT.
+He has extensive experience both in the UK and overseas markets gained called Viag Interkom.
+Prior to this, he was Managing Director of T-Systems during his four years as Chief Executive officer of BG Group formerly British Gas International GmbH, a subsidiary of Deutsche Telekom, from 1999 to 2001.
+Prior to joining BG Group, he held a variety of senior roles in played a key role in the acquisition of Debis Systemhaus GmbH and its integration Shell including the position of Managing Director of AB Svenska Shell in Sweden and into Deutsche Telekom.
+He has also worked for Siemens and was head of its German Director of Shell International with responsibility for Shells Oil Products business in information and communication product operations.
+He is also Chairman of Business in the Community.
+David McGlade 42 CEO O UK 2 David McGlade was appointed to the Board on 1 April 2003.
+Mr McGlade joined O UK previously called BT Cellnet in October 2000.
+Before being appointed as 2 EXECUTIVE DIRECTORS Managing Director of BT Cellnet, he was Chairman and Chief Executive officer of 2.
+Peter Erskine 51 Chief Executive officer PureMatrix, a mobile webnet software company based in Colorado.
+He was also Peter Erskine was appointed to the Board in August 2001.
+Mr Erskine is the President and Chief Executive officer of Catch TV, President West Region of Sprint Companys Chief Executive officer.
+He joined the Company from BT where, since PCS where he launched the first Code Division Multiple Access network outside Asia March 1993, he held a number of senior positions including Director of BT Mobile, and a Vice President of TCI.
+President and Chief Executive of Concert, and, from 1998, Managing Director of BT Cellnet.
+Prior to joining BT he was European Vice President of Sales and Customer 6.
+Kent Thexton 40 Chief Data and Marketing officer Service for Mars and Senior Vice President Sales and Marketing for UNITEL.
+Kent Thexton was appointed to the Board on 1 April 2003.
+Mr Thexton joined O UK previously called BT Cellnet in 1998 as Marketing Director before becoming 2 3.
+David Finch 47 Chief Financial officer Managing Director of O Online previously called Genie in 2000.
+He was appointed 2 David Finch was initially appointed to the Board in August 2001.
+Mr Finch is Chief Data and Marketing officer for the Company in July 2001.
+Before joining the Companys Chief Financial officer and has extensive experience in financial BT Cellnet, he spent eight years in the Canadian mobile industry, holding the position management having previously held senior finance positions at Exel, Novar of Chief Operating officer and Executive Vice President of Rogers Cantel now Rogers formerly Caradon and Grand Metropolitan.
+In addition to Group Finance, he Wireless.
+Prior to this, he held management positions at Northern Telecom and Bell has direct responsibility for the Group Treasury and Investor Relations functions.
+He is also a non-executive Director of two private Canadian companies, Avista and Casero.
+David Chance 46 Andrew Sukawaty was initially appointed to the Board in August 2001.
+Mr Sukawaty David Chance was appointed to the Board on 21 January 2003.
+Mr Chance was is the non-executive Deputy Chairman of the Company and senior independent Deputy Managing Director of BSkyB until June 1998 and is a non-executive Director Director.
+He is President and Chief Executive officer of Cable Partners Europe LLC, of Granada, Modern Times Group and Sunderland AFC.
+He previously held senior which invests in and operates cable television services in Europe.
+He is also Chairman marketing and business development roles at US telecoms companies, scientific of Telenet.
+He has considerable experience in the mobile telephone industry and Atlanta and Grass Valley Group, and European satellite broadcaster, SES.
+telecommunications industries in the United States and Europe having at different times in those periods held the ofces of Chief Executive and President of Sprint PCS, 10.
+Stephen Hodge 61 Chief Executive officer of NTL, Chief Operating officer of Mercury One2One, where Stephen Hodge was initially appointed to the Board in October 2001.
+Mr Hodge he launched the worlds first digital Personal Communications Services company, and was Director of Finance of the Royal Dutch Shell Group, prior to his retirement in he is a former Chairman of the Cellular Telephone and Internet Association CTIA in September 2001, where he had responsibility for all financial and investor relations the United States.
+issues for the Shell Group and its parent companies.
+He has extensive knowledge of the financial management of international companies, having worked throughout the 8.
+David Arculus 56 world including Australia, the Netherlands, Venezuela and Argentina in a variety of David Arculus was appointed to the Board on 1 April 2003.
+Mr Arculus is Chairman financial positions.
+He is Chairman of Shell Pensions Trust Limited and a member of of Severn Trent and the Better Regulation Task Force and a non-executive Director of the Franchise Board of Lloyds of London.
+Barclays and Earls Court and Olympia Limited.
+Mr Arculus was previously Chairman of IPC Group Limited and, before that, Group Managing Director of EMAP.
+Paul Myners 55 Neelie Kroes was initially appointed to the Board in August 2001.
+Ms Kroes is a Paul Myners was initially appointed to the Board in August 2001.
+Mr Myners is member of the Supervisory Boards of a number of Dutch enterprises including Crio, Chairman of Aspen Insurance and the Guardian Media Group and a non-executive Lucent Technologies, Nederlandse Spoorwagen, New Skies Satellites and Royal Director of The Bank of New York and Marks and Spencer.
+He is a member of the Nedlloyd.
+She is also a member of the Supervisory Boards of Volvo Group and Thales Financial Reporting Council.
+He was Chairman of Gartmore Investment Management Group.
+She is a former President of Nijenrode University in the Netherlands.
+Before until November 2001 and has previously held directorships at National Westminster this, she served as Adviser to the European Transport Commissioner and also served Bank, Coutts & Co. the Investment Management Regulatory Organisation, two periods, in the Netherlands, as Cabinet Minister of Transport, Public Works the Lloyds Market Board, Celltech Group, the Scottish National Trust, Powergen and Telecommunications and Secretary of State for Transport, Public Works and and Orange.
+He is a Trustee of both Tate and Glyndebourne.
+She was also a member of the Dutch Parliament and a member of the Rotterdam Municipal Council.
+COMPANY SECRETARY AND GENERAL COUNSEL 12.
+Philip Bramwell 46 Ian Meakins was appointed to the Board in December 2001.
+Mr Meakins is currently Philip Bramwell joined the Company from BT, where he was employed since April President, European Major Markets and Global Supply of Diageo.
+He has held a 1998, initially as Legal Manager, Group Strategy and Development and then as Chief number of senior marketing and operational directorships since joining United Counsel, Corporate Development.
+Before joining BT, he was a partner in DDV, a Distillers in 1992 from strategic management consultants, The Kalchas Group, where European specialist telecommunications consultancy rm.
+Prior to this, he held the he was a founding partner.
+Prior to this, he worked at Bain & Company and Procter position of Vice President and General Counsel at BellSouth with responsibility for the & Gamble.
+European operations of the Air Call and Dataserv groups and worked on cellular and mobile data licence bids and start-ups throughout Europe.
+EXECUTIVE MANAGEMENT TEAM mmO s Executive Committee comprises Messrs. Erskine Chairman, Finch, Grger, 18.
+Sohail Qadri 42 Group Director Business Development & Strategy 2 McGlade and Thexton, and the following senior executives: Sohail Qadri joined O UK previously called BT Cellnet in 1993 as Director of 2 Operations and Strategy.
+In 1997, Mr Qadri became Director of Mobility, Group 15.
+Danuta Gray 44 CEO O Ireland Strategy and Development for BT before taking on his current role.
+Prior to joining 2 Danuta Gray joined the Company from BT, where she was employed since 1984.
+BT Cellnet, he was a Principal Consultant at Coopers & Lybrand, now Before transferring to her present role in July 2001, Ms Gray was Senior Vice .
+President of BT Wirelesss businesses in Europe.
+Prior to this, she was a General Manager of BT Mobile, Leeds from 1994 to 1999, Sales Manager and Deputy 19.
+Ton aan fide Stegge 47 CEO O Netherlands 2 General Manager of BT Global Communications from 1992 to 1994 and Account Ton aan fide Stegge joined O Netherlands previously called Telfort in December 2 Director for BT Global Communications, Commercial Sector from 1990 to 1992.
+Prior to joining Telfort, Mr aan fide Stegge worked for Ericsson with his most She also worked in various departments as a manager and consultant for BT.
+recent function being President and CEO, Ericsson Nederland BV.
+He has also worked in a number of management positions at Volmac, Getronics and Computer Sciences 16.
+Andrew Harley 42 Group HR Director Corporation.
+He is also Chairman of ICT Telecom, a telecoms industry association in Andrew Harley joined the Company from BT, where he had worked since August the Netherlands.
+He remains a member of the Executive Committee until the 1980.
+Before being appointed as Senior Vice President, HR, BT Wireless in February completion of the sale of O Netherlands.
+2 2001, Mr Harley was Senior Vice President, Human Resources, BTopenworld, BTs xed internet service provider, and before that he was Human Resources Director for 20.
+David Williams 45 Chief Technology officer BT Cellnet.
+Mr Harley was also Human Resources Director for Telenordia in Sweden.
+David Williams joined the Company on 3 February 2003 and was appointed to the Executive Committee on this date.
+Mr Williams joined the Company from 17.
+Richard Poston 43 Director Corporate Communications Cingular Wireless, where he was Vice President for Strategic Planning.
+Prior to the Richard Poston joined the Company in September 2001.
+Previously Mr Poston was merger of SBC Wireless and BellSouth Cellular in the US to form Cingular, he ran the Director of Communications for TI Group from 1999 to 2001 and prior to this all technological operations for SBC Wireless west region.
+He joined SBC Wireless Director of Corporate Communications for Racal Electronics from 1994 to 1999. following the acquisition of Pacic Bell Mobile Services by that company and was He held a number of corporate communications and public affairs roles in Racal instrumental in integrating the two networks.
+After working for both Orange and Electronics.
+During this time, he was closely involved with the early growth of Vodafone in the UK, he relocated to the US in 1996 to direct the build-out of one Vodafone leading to its demerger from Racal and the formation of Camelot Group, of the USs first digital mobile networks for Pacic Bell.
+operator of the National Lottery, in which Racal was a major shareholder.
+He started his career in the Royal Navy where he served from 1978 to 1986. www.
+com 21 Summary directors report Number of Percentage of The Directors have pleasure in presenting their summary directors report mmO plc issued ordinary 2 and financial statement for the year ended 31 March 2003.
+Shareholder ordinary shares share capital The Capital Group Companies Inc. 1,124,202,441 12.97 This financial statement is a summary of the information in the Groups full FMR Corp. & Fidelity International Limited 270,441,314 3.12 annual report and financial statements.
+It does not contain sufficient Legal & General Investment information to allow as full an understanding of the results of the Group Management Limited 306,111,049 3.53 and the state of affairs of the Company or the Group as the full annual report and financial statements.
+Members can obtain, free of charge, Report on corporate governance a copy of the latest full annual report and financial statements by The Board continues to seek compliance with corporate governance contacting the registrar as detailed on page 29.
+In addition, members best practice and supports high standards in corporate governance.
+can elect to receive the full annual report and financial statements in The application of the principles in Section 1 of the Combined Code is future years by writing to the registrar.
+described in the report on corporate governance contained in the full annual report and financial statements.
+The Directors consider that the Activity Company has fully complied with the provisions set out in Section 1 of mmO plc is a leading provider of mobile communications services 2 the Combined Code.
+During the year under review, the Group traded through its wholly-owned subsidiaries in the UK, Germany, Ireland, the Netherlands The Board has delegated authority to the following committees on and the Isle of Man.
+The Group also operates a mobile internet business specic matters.
+All of the committees have formal terms of reference.
+through O Online and provides a nationwide mobile radio service 2 Minutes of meetings are formally recorded.
+During the financial year, designed to serve the needs of the police and other public safety all non-executive Directors in ofce were members of the Audit, organisations in England, Wales and Scotland through Airwave.
+The Nomination and Remuneration Committees.
+The membership of these Chairmans and Chief Executive Ofcers welcome statement on pages committees since 1 April 2003 is shown below.
+2to 5 and the business review on pages 6 to 18, contain a review of the businesses of the Group during the year and an indication of future The Chairmans Committee, chaired by David Varney, advises and developments and form part of this report.
+The Directors do not assists the Chairman in the preparation for Board meetings.
+It also recommend the payment of a dividend for the year ended 31 March 2003. acts on behalf of the Board between scheduled Board meetings, in On 14 April 2003, mmO plc announced that it had agreed the sale of 2 exceptional circumstances, where it is not possible or practicable to O Netherlands B. V. to Greeneld Capital Partners, an independent 2 convene a meeting of the Board.
+The other members of the committee private and corporate finance group, for 25 million in cash.
+are Peter Erskine and David Finch.
+Directors The Audit Committee, chaired by Stephen Hodge, monitors the The current Directors and their biographies are given on pages 20 adequacy of the Groups accounting policies and financial reporting: and 21.
+All Directors served throughout the financial year, with the reviews the half-yearly and annual financial statements before they are exception of David Chance who joined the Board on 21 January 2003, presented to the Board: monitors internal financial and non-financial and David Arculus, Rudolf Grger, David McGlade and Kent Thexton controls, including the system for maintaining these controls: maintains who joined the Board on 1 April 2003. a liaison with the internal and external auditors, keeping under review the scope and results of the audit, its cost effectiveness and the In accordance with the Companys Articles of Association, David Chance, independence and objectivity of the auditors and matters relating to David Arculus, Rudolf Grger, David McGlade and Kent Thexton will the provision of, including the extent of, their non-audit services.
+The retire and, being eligible, will offer themselves for election at the 2003 committee also receives formal reports from the Head of Internal Audit Annual General Meeting.
+In addition, the Articles provide that existing who attends meetings.
+The committee meets four times a year, with part Directors are required to retire by rotation every three years.
+It is the of each meeting currently being held between the committee members Boards intention that shareholders will be given the opportunity to and the external auditors in private.
+Since 1 April 2003, the committee re-elect Directors within that timescale.
+Peter Erskine, Neelie Kroes and comprises Stephen Hodge Chairman, David Arculus, David Chance, Paul Myners will retire by rotation and are proposed for re-election at the Neelie Kroes and Ian Meakins.
+Following the year-end, the Board has 2003 Annual General Meeting.
+adopted a formal policy governing the independence of the Companys external auditors and dening those non-audit services that may be Substantial shareholdings provided to the Group, including those which require the prior approval At 13 May 2003, notications, as set out opposite, had been received of the Audit Committee.
+by the Company in respect of holdings of 3 per cent or more of the Companys issued share capital: The Finance Committee, chaired by David Varney, considers nancing and investment decisions concerning the Group.
+The committee normally meets four times a year.
+The other members of the committee are Peter Erskine and David Finch.
+com The Nomination Committee, chaired by David Varney, is responsible for reviewing the structure, size and composition of the Board and for recommending candidates for the approval of the Board for Board membership.
+Since 1 April 2003, the committee comprises David Varney Chairman, David Arculus, David Chance, Paul Myners and Andrew Sukawaty.
+The Remuneration Committee, chaired by Andrew Sukawaty, is responsible for determining the framework and policy, and specic remuneration packages, for the remuneration of the Chairman, all executive Directors, the Company Secretary and General Counsel and members of the Executive Committee.
+A summary report on directors remuneration is set out on pages 24 to 26.
+The full report is published in the full annual report and financial statements and can be viewed on the Companys website.
+Since 1 April 2003, the committee comprises Andrew Sukawaty Chairman, Stephen Hodge, Neelie Kroes, Ian Meakins and Paul Myners.
+The Executive Committee, chaired by Peter Erskine, and comprising the other executive Directors and his senior executive team, is responsible for the executive day-to-day running of the Company and for the preparation and maintenance of strategic plans for the Group and for monitoring the performance of the Group as a whole.
+During the financial year, a Disclosure Committee was established to consider the materiality of information and the respective disclosure obligations in releases made to regulatory bodies.
+This committee assists the Chief Executive officer and Chief Financial officer to evaluate the effectiveness of the Groups disclosure controls and procedures to ensure that material information relating to the Group is made known to them by others.
+Future governance The Board will continue to keep its corporate governance aligned with best practice and intends to carry out a further review following the Financial Reporting Council announcement of its amendments to the Combined Code in response to Derek Higgs review of the role and effectiveness of non-executive directors and Sir Robert Smiths report on the role of audit committees.
+The Group will continue to comply with New York Stock Exchange listing rules and the SEC rules implementing the SarbanesOxley Act of 2002, where they apply to the Group as a foreign issuer.
+Internal control The Board is responsible for the maintenance of the Groups system of internal control and for reviewing its effectiveness.
+It has established an ongoing process of identifying, evaluating and managing key risks.
+There is a formal six-monthly review of key risks by the Executive Committee, Audit Committee and the Board.
+The Audit Committee undertakes a six-monthly review of reports submitted by senior executives on internal controls, risk management and reports from Internal Audit.
+These procedures are designed to identify and manage those risks that could adversely impact the achievement of the Groups objectives.
+Whilst they do not provide total assurance against material misstatement or loss, the Directors, following a review of the systems described, are of the opinion that a proper system of internal control is in place within the Group.
+com 23 Summary directors remuneration report This report has been prepared by the Remuneration Committee the During the year ended 31 March 2003, the Committee undertook a Committee and has been approved by the Board and complies with the comprehensive review of its long-term incentive policies in light of Directors Remuneration Report Regulations 2002 the Regulations.
+A experience since the demerger from BT, developments in both market resolution will be put to shareholders at the Annual General Meeting on and best practice and the impending changes in the accounting 30 July 2003 inviting them to consider and approve the full report.
+treatment of share plans, and concluded that it will operate the Performance Share element of the Portfolio as the primary form of Remuneration policy long-term incentive for the year ending 31 March 2004.
+This is to: The Committee operates on the principle that executive Directors, the Company Secretary and General Counsel and members of the Executive provide the opportunity for a more robust performance condition, Committee should be provided with appropriate incentives to encourage thereby more clearly aligning the interests of executives with those superior performance and should, in a fair and responsible manner, be of shareholders: and, rewarded for their contribution to the success of the Group.
+align more closely the benets received by participants with the accounting charges likely to be incurred by the Company.
+mmO is committed to developing and maintaining appropriate 2 remuneration strategies which attract, retain and motivate key people.
+Awards and options are not pensionable and may not be assigned or The Company is committed to aligning the remuneration of senior transferred except on a participants death, when they may be assigned executives across the whole business who may have different to the participants personal representatives.
+In addition, the Committee considers it vital to align the interests of the leadership team with those of shareholders, Performance shares element and to link a significant proportion of the package to shareholder value.
+Under this element of the Portfolio, shares will be awarded and will normally vest subject to the satisfaction of a predetermined and challenging The remuneration policy for the executive Directors, the Company performance condition, as well as continued employment with the Secretary and General Counsel and members of the Executive Company.
+The performance condition will relate to the total shareholder Committee is based on the following principles: return TSR performance of the Company when compared with the TSR performance of the constituent companies of the FTSE E300 Telecoms base pay will generally be positioned at the median of the relevant market, Service Index as at the date of award.
+TSR compares the but due consideration is given to executive wage levels in other net return to a mmO shareholder share price growth and assumed 2 companies and to the general wage levels elsewhere in the Company: reinvestment of any dividends with that of a shareholder in each of the emphasis will be placed on providing a total cash and total comparator companies.
+The FTSE E300 Telecoms Service Index represents compensation package that has potential to be upper quartile for the 22 largest European telecommunications companies with market high performance: and, capitalisation ranging between 1.9 billion and 84 billion.
+The Index performance-related remuneration will seek to align the interests includes three UK-based companies.
+of executive Directors with those of the shareholders through the imposition of stretching business performance targets and share-based After reviewing the various types of performance measures in common long-term incentives.
+usage, the Committee concluded that it wished to continue to operate TSR as the performance measure given that, in the view of the The policy has been designed to provide an appropriate balance Committee, it is the most appropriate means of aligning the interests of between xed remuneration and variable reward, which is linked to the executives with those of shareholders when considering the Companys performance of the Group and the individual.
+Several potential comparator groups were considered and the Committee concluded that comparison with the Elements of remuneration constituents of the E300 Telecoms Service Index provided the most clear Executive remuneration comprises: base salary, annual incentives measure for determining the success or otherwise of the management bonus, long-term incentives, pensions and benets.
+The long-term team at mmO against similar companies.
+2 incentive schemes and the bonus are performance-related and the Committee regards them as key elements in the executive Directors These shares will normally vest in full if the Companys TSR performance remuneration package.
+places it at or above the upper quartile of the comparator group over a xed three-year period.
+No vesting will occur if the Companys TSR Long-term incentives performance places it below the median of the comparator group.
+If The mmO Executive Share Portfolio the Portfolio is the primary vehicle the Companys TSR performance places it at the median, 30 per cent 2 for aligning the interests of key employees and executive Directors with will vest.
+If the Companys TSR performance is between the median those of shareholders.
+It comprises three elements: and upper quartile, the shares will vest on a straight line basis.
+There will be no retesting opportunities.
+performance shares: share options: and, In addition awards will only vest to the extent that the Committee is restricted shares.
+satisfied that the Companys TSR performance is a genuine reection 24 www.
+com of the Companys underlying financial performance over the period.
+it is recognised as an externally valid and robust comparator group of In circumstances where the Committee makes adjustments on this basis UK-based companies of similar size to mmO in terms of market 2 it will explain its reasoning in the subsequent report on directors capitalisation.
+The FTSE TMT Index, which the Company outperformed, remuneration.
+was chosen because it more closely compares the Company with its sector.
+The Companys relative TSR performance will be periodically measured All-employee share schemes and reported to the Committee and participants.
+This measurement will In addition, executive Directors are eligible to participate in the be undertaken by an independent third party.
+Companys all-employee share schemes comprising: Share options and restricted shares elements a savings-related share option scheme under which employees may Following the review of long-term incentives by the Committee, it is not acquire shares at an exercise price set at a discount of up to 20 per proposed to make any regular option or restricted share grants in the cent to the market value of a share at the time of invitation if they year ending 31 March 2004: however, the Committee reserves the ability agree to take out a monthly savings contract.
+The exercise of these to make such grants in exceptional circumstances: for example, if options is not subject to satisfaction of a performance target: required to secure an appointment.
+a tax-approved share incentive plan under which employees can receive awards of shares on a variety of tax-favoured terms.
+This Performance graphs scheme operates within specic tax legislation, and there are no The performance graphs below illustrate the Companys total performance conditions attached to awards of shares.
+shareholder performance over the period from 19 November 2001, when the Company was first listed following its demerger from BT, to Contracts and notice periods 31 March 2003 compared to that of each of the FTSE 100 Index and the It is the Committees general policy that executive Directors will have FTSE Technology, Media and Telecommunications TMT Index over the contracts and service agreements with the same provisions.
+These graphs have been prepared in accordance with the may not be possible initially, every effort will be made to revert to the Regulations.
+The FTSE 100 Index was selected by the Committee because Committees policy as soon as practicable.
+Total shareholder return against FTSE 100 Index Peter Erskine entered into a service agreement with mmO plc dated 2 Source: Datastream 14 September 2001 and effective from 24 October 2001.
+The notice Value period required by the Company to terminate this agreement is 120 12 months.
+The Company may in its discretion terminate without notice 100 and make a payment in lieu of notice to Peter Erskine equal to the sum of 12 months pay, the value of employers pension contributions, 80 benets, and a bonus payment of not less than the previous years bonus.
+This may be paid in a lump sum or in monthly instalments until 60 the end of the notice period or, if earlier, such time as Peter Erskine 40 obtains qualifying alternative employment.
+This payment in lieu of notice provision does not prevent the Company from terminating in breach of 20 contract, which may enable the Company to pay a reduced amount by requiring greater mitigation.
+On termination of Peter Erskines employment 0 within 12 months of a change of control, mmO is obliged to make 19 Nov 01 31 Mar 02 31 Mar 03 2 mmO FTSE 100 Index a liquidated damages payment equal to the base salary, the value of 2 employer pension contributions and benets for the notice period, plus Total shareholder return against FTSE TMT Index additional payments generally equal to the annual bonus potential for that Source: Datastream year, and in respect of the loss of rights under share incentive schemes.
+Value 120 David Finch entered into a service agreement with mmO plc dated 2 100 14 September 2001 and effective from 19 November 2001.
+The notice period required by the Company to terminate this agreement is 80 12 months.
+The Company may in its discretion terminate this agreement without notice and make a payment in lieu of notice to David Finch 60 equal to the sum of 12 months pay, the value of employers pension 40 contributions, benets and a bonus payment of not less than the previous years bonus.
+This may be paid in a lump sum or in monthly 20 instalments until the end of the notice period or, if earlier, such time as David Finch obtains alternative employment.
+This payment in lieu of 0 19 Nov 01 31 Mar 02 31 Mar 03 notice provision does not prevent the Company from terminating in mmO FTSE TMT Index 2 www.
+com 25 breach of contract, which may enable the Company to pay a reduced appointment, which will then become terminable on 12 months notice amount by requiring greater mitigation.
+On termination of David Finchs from either the Company or the Director.
+The initial terms of three years employment within 12 months of a change of control, mmO is obliged began from demerger or 20 December 2001 in the case of Ian Meakins, 2 to make a liquidated damages payment equal to the base salary, the and 21 January 2003 in the case of David Chance.
+The non-executive value of employer pension contributions and benets for the notice Directors will not participate in any of mmO s pension or incentive 2 period, plus additional payments generally equal to the annual bonus arrangements.
+potential for that year, and in respect of the loss of rights under share incentive schemes.
+Summary of emoluments paid to Directors 000 1 Aggregate emoluments paid to Directors 2,261 With effect from 1 April 2003, David Varney serves as Chairman under Aggregate gains made by Directors on a letter of appointment dated 31 March 2003.
+Mr Varneys time exercise of share options commitment has been reduced to an average of between two and three Aggregate value of assets receivable under days per week, and the annual salary payable to Mr Varney has been long-term incentive schemes 158 reduced to 350,000.
+The previous annual salary was 500,000 for fullAggregate Company contributions in respect of time work.
+Mr Varneys appointment will end no later than the date of Directors to money purchase pension schemes 78 the Companys Annual General Meeting in 2004.
+The appointment may 1 Total includes assets receivable under long-term incentive schemes as shown be terminated at any time prior to this date by either party giving three separately below, but excludes payments made to non-executive Directors.
+Number of Directors with retirement benets accruing under: Each non-executive Director has entered into a letter of appointment with Money purchase schemes 1 mmO plc, which covers, amongst other items, their terms of 2 Dened benefit schemes 2 appointment and a general statement of their role and duties.
+Nonexecutive Directors are appointed initially for three years.
+Towards the end of that period, the Board will consider whether to continue their The following table shows Directors remuneration excluding pension arrangements for the year ended 31 March 2003: Gains from Benets long-term Salary Annual excluding incentive 1 and fees bonus pensions plans Total Total 2003 2003 2003 2003 2003 2002 2 David Varney 500,000 17,308 517,308 567,593 3 4 Peter Erskine 537,500 387,000 36,651 48,303 1,009,454 730,814 5 6 David Finch 370,833 206,250 48,158 109,333 734,574 393,603 7 10 Andrew Sukawaty 100,000 100,000 76,256 7 11 David Chance 7,064 7,064 7 12 Stephen Hodge 36,000 36,000 18,000 8 13 Neelie Kroes 36,000 36,000 21,099 7 14 Ian Meakins 36,000 36,000 10,184 9 13 Paul Myners 36,000 36,000 21,099 1 Benets include car provision or cash allowance, healthcare, financial planning, dental care, home security and life cover.
+2 From date of initial appointment 18 June 2001.
+Appointed to the Board 31 August 2001.
+Figures for 2002 relate to the period 1 April 2001 to 31 March 2002.
+4 Gain on vesting of 1997 Executive Share Award.
+5 Gain on vesting of Restricted Share Award.
+6 From date of initial appointment 1 August 2001.
+Initially appointed to the Board 31 August 2001.
+7 Elected to receive 50 per cent of Directors fees after tax in shares.
+8 Elected to receive 75 per cent of Directors fees after tax in shares.
+9 Elected to receive 100 per cent of Directors fees after tax in shares.
+10 Initially appointed as Deputy Chairman 31 August 2001.
+By Order of the Board Andrew Sukawaty Deputy Chairman and Chairman of the Remuneration Committee 26 www.
+com Summary group profit and loss account Year ended 31 March 2003 2003 2002 m m Group turnover 4,874 4,276 1 EBITDA before exceptional items 859 433 Group operating loss before exceptional items 478 706 Exceptional items 8,300 150 Group operating loss 8,778 856 Group share of operating profit of associates 5 8 Provision for loss on sale of business 1,364 Net interest payable and similar charges 66 25 Loss on ordinary activities before taxation 10,203 873 Tax on loss on ordinary activities 55 23 Retained loss for the financial year 10,148 850 000s 000s 2 Directors emoluments 2,512 1,839 pence pence Basic and diluted loss per share 117.0 9.8 1 EBITDA is our earnings before interest, tax, depreciation, amortisation and exceptional items, excluding our share of operating profits of our associates.
+2 Includes payments to non-executive Directors.
+Summary group balance sheet As at 31 March 2003 2003 2002 m m Intangible assets 7,582 15,992 Tangible assets 3,875 4,094 Other xed assets 3 37 Fixed assets 11,460 20,123 Current assets 1,913 2,037 Creditors: amounts falling due within one year 1,572 1,521 Net current assets 341 516 Total assets less current liabilities 11,801 20,639 Creditors: amounts falling due after more than one year 1,451 1,403 Provisions for liabilities and charges 284 402 Net assets 10,066 18,834 Equity shareholders funds 10,066 18,834 Summary group net debt As at 31 March 2003 2003 2002 m m Net cash and current asset investments 916 879 Euro medium-term notes 1,015 982 Loan notes 19 58 Hire purchase obligations and other borrowings 431 456 Net debt 549 617 This summary financial statement was approved by the Board of Directors on 20 May 2003 and was signed on its behalf by: Peter Erskine David Finch Chief Executive officer Chief Financial officer www.
+com 27 Reconciliation of UK GAAP to US GAAP Year ended 31 March 2003 Year ended 31 March 2003 2002 Net loss m m Net loss under UK GAAP 10,148 850 Adjustment for: Capitalisation of interest, net of related depreciation 67 579 Goodwill impairment 482 Licence impairment 5,899 Fixed asset impairment on discontinuing operations 25 Goodwill amortisation 374 23 Mobile licences, software and other intangible assets 37 217 Employee share plans 1 1 Other employee compensation expense 3 Restructuring costs 21 21 Fair value of derivatives 50 19 Notional loans due to BT 756 Deferred taxation on US GAAP differences 176 240 Long-term licence creditors 1 Net loss as adjusted for US GAAP 3,671 1,463 Net loss per share, as adjusted for US GAAP pence 42.3 16.9 At 31 March 2003 2002 Shareholders funds m m Net assets under UK GAAP 10,066 18,834 Adjustments for: Capitalisation of interest, net of related depreciation 912 979 Goodwill impairment 435 Licence impairment 5,899 Fixed asset impairment on discontinuing operation 25 Purchase business combinations and amortisation of intangible assets 69 268 Employee share plans 4 3 Other employee compensation expense 11 11 Restructuring costs 21 Treasury stock 3 3 Fair value of derivatives 31 19 Deferred taxation on US GAAP differences 278 102 Long-term licence creditors 1 Pension liability 38 Foreign exchange 7 Net assets as adjusted for US GAAP 17,045 19,428 Independent auditors statement to the members of mmO plc 2 We have examined the summary financial statement as set out on Opinion page 27.
+In our opinion, the summary financial statement is consistent with the annual financial statements, the Directors report and the remuneration Respective responsibilities of Directors and auditors report of mmO plc for the year ended 31 March 2003 and complies with 2 The Directors are responsible for preparing the Annual Review including the applicable requirements of section 251 of the Companies Act 1985, the summary financial statement in accordance with applicable law.
+Our responsibility is to report to you our opinion on the consistency of the summary financial statement within the Annual Review with the full  LLP 20 May 2003 annual financial statements, the Directors report and the remuneration Chartered Accountants and Registered Auditors report and its compliance with the relevant requirements of section 251 London of the United Kingdom Companies Act 1985 and the regulations made thereunder.
+We also read the other information contained in the Annual The financial information contained in the summary financial statement Review and consider the implications for our report if we become aware on page 27 does not constitute the Groups statutory accounts for of any apparent misstatements or material inconsistencies with the the years ended 31 March 2003 or 31 March 2002.
+The financial summary financial statement.
+information is derived from the statutory accounts which were approved by the Board of Directors on 20 May 2003.
+The auditors have reported Basis of opinion on those accounts: their report was unqualied and did not contain a We conducted our work in accordance with Bulletin 1999 6 statement under sections 237 2 or 237 3 of the Companies Act 1985.
+The auditors statement on the summary financial statement, The 2003 statutory accounts will be delivered to the Registrar of issued by the Auditing Practices Board for use in the United Kingdom.
+Companies following the Companys Annual General Meeting.
+com Additional information for shareholders Listings Online communication The ordinary shares of the Company were listed on the London Stock Many shareholders prefer to receive their reports online rather than Exchange on 19 November 2001.
+On the same date ADSs were also through the post, and thanks to changes in the law this is now possible.
+listed on the New York Stock Exchange.
+The ratio of ADSs to ordinary Shareview, which is operated by Lloyds TSB Registrars, gives mmO 2 shares is 1:10.
+The ADSs have been issued by JPMorgan Chase Bank shareholders access to special services over the internet.
+You will be able as Depositary for the ADSs.
+to check the details of your mmO shareholding at any time.
+As a 2 Financial calendar results announcements Shareview user you will be able to view indicative prices of shares of Annual General Meeting 30 July 2003 other companies of which you are a shareholder and who use Lloyds TSB Registrars as their Registrar.
+Proposed dates: Q1 Trading Statement July 2003 We will also e-mail you when there is an item for you to view on the Interim Results November 2003 shareholder pages on www.
+Q3 Trading Statement February 2004 Registering with Shareview is easy and free.
+Go to Shareview at Preliminary Announcement May 2004 www.
+co. uk: click on register now, and complete the Publication of the Annual Report and on-screen application form.
+Financial Statements and Form 20-F June 2004 Contacts ShareGift Shareholder enquiries The Orr Mackintosh Foundation ShareGift operates a charity share Lloyds TSB Registrars maintain the Companys share register and provide donation scheme for shareholders with small parcels of shares whose a shareholder helpline service details below.
+Shareholders should value makes it uneconomic to sell them.
+Details of the scheme are contact the Registrar, if they have any enquiries about their shareholding.
+available on the ShareGift internet site www.
+The Registrar Cassettes for visually impaired shareholders Lloyds TSB Registrars 2501 mmO plc shareholder helpline 2 The Companys Annual Review is available on audio cassette.
+Copies can The Causeway Tel: Freefone 0808 100 4102 be obtained, free of charge, from the Registrar, Lloyds TSB Registrars, Worthing Fax: 01903 833371 by calling Freefone 0808 100 4102.
+West Sussex BN99 6DA From outside the UK: Annual Report and Financial Statements Tel: 44 121 415 7102 Copies of our Annual Report and Financial Statements can be obtained by Fax: 44 1903 833371 contacting our Registrar, Lloyds TSB Registrars, on Freefone 0808 100 4102.
+ADR Depositary Annual General Meeting JPMorgan Chase Bank Toll-free from within the USA: The Annual General Meeting will be held at The Hexagon, Queens Walk, ADR Service Center Tel: 1 800 428 4237 Reading, Berkshire RG1 7UA on Wednesday 30 July 2003 at 11.00 a. m. PO Box 43013 From outside the USA: Providence, RI 02940-3013 Tel: 1 781 575 4328 Duplicate mailings USA You may have received separate sets of documents as it may not have been possible to combine your records.
+Any shareholder who now General enquiries wishes to stop the additional mailings by combining their records should mmO plc 2 contact Lloyds TSB Registrars.
+Wellington Street Slough Berkshire SL1 1YP e-mail: shareholders@o2.
+com Cautionary statement regarding forward-looking statements expressions often identify forward-looking statements but are not the only ways we identify these statements.
+This document contains certain forward-looking statements.
+We may also make written or oral forward-looking statements in: These statements may be found in this document generally.
+Our actual results could differ materially from those anticipated in these forwardour periodic reports to the US Securities and Exchange Commission, also known as the SEC, on Forms 20-F and 6-K: looking statements as a result of various factors, including all the risks discussed in the above-mentioned reports, releases and statements.
+our annual report and accounts and half-yearly reports: our press releases and other written materials: and If any one or more of the foregoing assumptions are ultimately incorrect, oral statements made by our ofcers, directors or employees to our actual results may differ from our expectations based on these third parties.
+Also, the sector and markets in which we operate may not grow over the next several years as expected, or at all.
+The failure of We have based these forward-looking statements on our current plans, expectations and projections about future events.
+These forward-looking these markets to grow as expected may have a material adverse effect on our business, operating results and financial condition and the market statements are subject to risks, uncertainties and assumptions about us.
+Forward-looking statements speak only as of the date they are made.
+price of our ordinary shares and ADSs.
+Statements that are not historical facts, including statements about our The information on our website, any website mentioned in this beliefs and expectations are forward-looking statements.
+Words like document or any website directly or indirectly linked to our or any other believe, anticipate, expect, intend, seek, will, plan, website mentioned in this document is not incorporated by reference could, may, might, project, goal, target and similar into this document and you should not rely on it.
+com mmO plc 2 Wellington Street Slough Berkshire SL1 1YP Registered No.
+4190833 The paper used to produce this report is made from Elemental Chlorine Free Pulps sourced from fully sustainable forests.
+Designed and typeset by Paufey, London.
+Printed in England by St Ives Burrups Limited.
+Keeping in touch TM Take your ofce with you when you are out and about.
+Using the BlackBerry or xda from O you can send and receive e-mails wherever you are.
+Both also 2 offer mobile phone capability and Internet browsing.

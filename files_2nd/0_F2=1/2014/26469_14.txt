@@ -1,0 +1,50 @@
+34 Strategic report London Stock Exchange Group plc Annual Report 2014 Technology Services Introduction The Groups Technology Services provides high speed trading platforms, Revenues post trade platforms, real time market data and infrastructure products MillenniumIT and Global and services to our own markets and to a wide range of customers including m 64.0 Business Development banks, specialist trading firms and other exchanges.
+Exchange Technology 2013: 56.1m Exchange Technology All of our cash equity and retail bond markets have now been migrated and upgraded to the latest version of the Millennium Exchange trading platform.
+This migration has helped reduce our cost base and increased opportunities for customers to benefit from enhanced functionality and further expansion of our co-location services.
+As a consequence of technology upgrades, we are able to modernise and develop at lower costs and have seen a 100 per cent uptime for all markets.
+The next stage will be to further improve efficiency for other Group platforms.
+Our UK cash equity and Turquoise platforms continue to exhibit excellent technical performance attributable to our Millennium Exchange technology.
+Our Turquoise markets have an average latency of 102 microseconds, remaining one of the fastest operating trading platforms in the world.
+On the UK cash equities platform, average latency is 111 microseconds, slightly higher than Turquoise due to the more diverse range of customers and the advanced functionality that it offers.
+In Post Trade Services, our IT systems and processes are on track for the migration to TARGET2-Securities T2S, with testing due to commence later this year.
+T2S is a project of the European Central Bank, which aims to Key Summary facilitate cheaper cross-border settlement across Europe.
+Phase 1 of T2S, of which the Group is a participant, is due to start in June 2015.
+Revenues increased 14 per cent to 64.0 million.
+Our cash equity markets use the Millennium Exchange trading Our Group Ticker Plant GTP project launched this year.
+This high speed platform, Turquoise, which has an average latency of 102 technology platform provides a single, normalised real time market data microseconds 2013: 99 microseconds, remaining one of the protocol for broadcast of market data from across the Group, regardless fastest operating trading platforms in the world.
+LSE has average of asset class, trading platform or geography.
+The launch represents a latency of 111 microseconds 2013: 106 microseconds, slightly significant step in our technology strategy.
+It will allow customers to connect higher than Turquoise due to the more diverse range of products, to our markets or data products including indices via a single interface.
+customers and the advanced functionality that it offers.
+The FTSE Low Latency Index Series will introduce the lowest latency calculation of the leading FTSE UK Series indices.
+Driven by client requests MillenniumIT increased revenue by 17 per cent to 31.5 million following consultation, the FTSE 100 Low Latency and FTSE 250 Low Latency 2013: 26.9 million.
+indices will initially be calculated by the GTP, directly at the creation of the Canadas TMX went live with MillenniumIT Smart Order Router underlying data in the Groups data centres.
+to aid compliance with Canadian regulation.
+It was also recently rolled out as the Orion Central Gateway platform for Hong Kong Exchanges and Clearing Limited.
+MillenniumIT also successfully launched the Compliance Monitoring System CMS for the London Metal Exchange, and extended Millennium Exchange to Burgundy, the Nordic MTF.
+In July 2013, the Group was selected as the business development and technology partner by the Argentinian Central Securities Depository CSD, Caja fide Valores S. A.
+A glossary of terms can be found on pages 144 and 145.
+Profitability of each segment can be found in the Financial Review on page 38.
+STRATEGIC REPORT GOVERNANCE GROUP FINANCIAL STATEMENTS SHAREHOLDER INFORMATION Strategic report Technology Services 35 Our Sponsored Access service allows non members a direct technical In 2014, MillenniumIT revenue increased by 17 per cent to 31.5 million connection to the LSEGs equity order books under the trading codes of 2013: 26.9 million.
+Highlights this year include: GATElab, our Italian and UK based technology company supplies advanced Millennium PostTrade was selected by Singapore Stock Exchange SGX to trading, market access and post trade technology globally.
+support its clearing, settlement and depository services.
+The new system will allow SGX to clear, settle and safe-keep assets in a quicker and easier GATElabs multi-asset cross-markets suite of components, MiFID compliant, way in multiple currencies and across asset classes, allowing SGX to fulfils the needs of buy-side, sell-side and hedge-fund partners: from improve customer access and roll out new products much faster.
+a fast single-click trading front-end to a flexible and easily-programmable Millennium SOR went live in Canadas TMX to aid compliance with automated trading and quoting engine, from a dealer-to-broker fix Canadian regulation.
+It is also supporting the Orion Central Gateway interconnection and a fast Execution Management System EMS and Order platform for Hong Kong Exchanges and Clearing Limited.
+Management System OMS, to a real time forwarding of captured trades orders to position and back-office systems.
+Millennium Surveillance went live in the London Metal Exchange, powering the Compliance Monitoring System CMS.
+EuroTLX, a European Retail Bond trading platform, which joined the Group Millennium Exchange was rolled out in Burgundy, the Nordic MTF in September 2013, will be migrated to Millennium Exchange in Italy later owned by Oslo Brs.
+Global Business Development In 2014, Exchange Technology revenue increased by 11 per cent to The Global Business Development team develops and implements business 32.5 million 2013: 29.2 million.
+opportunities with other exchanges and business partners, leveraging the assets of the Group to generate new revenues and establish long term MillenniumIT strategic partnerships.
+MillenniumIT offers preto post trade, multi-asset, ultra-low latency, agile capital market solutions.
+MillenniumIT technology powers trading In July 2013, the Group was selected as the business development and venues, banks, broker dealers and post trade institutions and its systems technology partner by the Argentinian Central Securities Depository CSD, are live in over 30 organisations around the world.
+The MillenniumIT model Caja fide Valores S. A. CVSA.
+CVSA acts as the technology provider to the newly is to invest in technological innovation to give clients a competitive formed Bolsa & Mercados Argentinos exchange B&MA.
+MillenniumIT has been part of the Group since 2009 and this supply capital markets technology across asset classes, including its ultra low year opened a new state-of-the-art, 40,000 sq ft software development latency, highly scalable trading platform, Millennium Exchange.
+London building on its existing Sri Lanka campus, to better support the building Stock Exchange Group will also provide a range of ancillary services alongside of best in class technology.
+the trading technology agreement to help further develop the Argentinian capital markets.
+MillenniumITs suite of capital market products includes Millennium Exchange, our flagship low latency multi-asset trading engine: Millennium We continue to assist the Mongolian Stock Exchanges MSE project to SOR an intelligent smart order router and gateway solution: Millennium modernise the countrys capital markets infrastructure.
+We are currently Surveillance, providing powerful multi-market, multi-asset class market working with the Ghanaian Central Securities Depository CSD Gh and monitoring: Millennium MarketData, providing ultra-fast and efficient data Ghana Stock Exchange to help develop their five year strategic plans and help for financial markets: and Millennium PostTrade, offering multi-asset clearing, contribute to the economic growth in Ghana and its sub region.
+settlement, risk and depository solutions in real time.
+MillenniumIT also provides enterprise systems integration and low latency infrastructure Interest from markets worldwide is strong, including from frontier and services to customers in Sri Lanka and beyond.
+emerging markets looking to develop and promote their capital markets.

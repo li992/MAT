@@ -1,0 +1,9 @@
+44 Share-based payments continued The group used a Monte Carlo simulation to fair value the TSR element of the 2006 and 2005 MTPP and EDIP plans.
+In accordance with the rules of the plans the model simulates BPs TSR and compares it against our principal strategic competitors over the three-year period of the plans.
+The model takes into account the historic dividends, share price volatilities and covariances of BP and each comparator company to produce a predicted distribution of relative share performance.
+This is applied to the reward criteria to give an expected value of the TSR element.
+In accordance with the rules of the plan, the model simulates BPs SHRAM and compares it with the comparator companies all companies in the FTSE All World Oil & Gas Index over the three-year period of the plan.
+The SHRAMs of the comparator companies have been determined from market data over the preceding three-year period.
+The model takes into account the historic dividend yields, share price volatilities and covariances of BP and each comparator company to produce a predicted distribution of relative share performance.
+This is applied to the reward criteria to give an expected value of the SHRAM element.
+Accounting expense does not necessarily represent the actual value of share-based payments made to recipients which are determined by the Remuneration Committee according to established criteria.

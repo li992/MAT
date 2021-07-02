@@ -1,0 +1,44 @@
+HSBC HOLDINGS PLC Report of the Directors: Financial Review continued Capital Appendix to Capital Capital measurement and allocation RWA movements by key driver Finally, the advanced measurement approach uses banks own statistical analysis and modelling of operational risk data to determine capital requirements.
+We have adopted the standardised approach in determining our operational risk capital requirements.
+Pillar 2 capital requirements We conduct an Internal Capital Adequacy Assessment Process ICAAP to determine a forward looking assessment of our capital requirements given our business strategy, risk profile, risk appetite and capital plan.
+This process incorporates the Groups risk management processes and governance framework.
+A range of stress tests are applied to our base capital plan.
+These, coupled with our economic capital framework and other risk management practices, are used to assess our internal capital adequacy requirements.
+The ICAAP is examined by the PRA as part of its Supervisory Review and Evaluation Process, which occurs periodically to enable the regulator to define the individual capital guidance or minimum capital requirements for HSBC and capital planning buffer where required.
+Pillar 3 disclosure requirements Pillar 3 of the Basel framework is related to market discipline.
+It aims to make firms more transparent by requiring them to publish, at least annually, a report giving a comprehensive view of their risk profile including specific, prescribed details of their risks, capital and the management of these.
+Our Pillar 3 Disclosures 2013 report is published on the HSBC website, www.
+RWA movement by key driver basis of preparation and supporting notes Unaudited Credit risk drivers definitions and quantification The causal analysis of RWA movements splits the total movement in IRB RWAs into six drivers, described below.
+The first four relate to specific, identifiable and measurable changes.
+The remaining two, book size and book quality, are derived after accounting for movements in the first four specific drivers.
+Foreign exchange movements This is the movement in RWAs as a result of changes in the exchange rate between the functional currency of the HSBC company owning each portfolio and US dollars, being our presentation currency for consolidated reporting.
+We hedge structural foreign exchange exposures only in limited circumstances.
+Our structural foreign exchange exposures are managed with the primary objective of ensuring, where practical, that our consolidated capital ratios and the capital ratios of individual banking subsidiaries are largely protected from the effect of changes in exchange rates.
+This is usually achieved by ensuring that, for each subsidiary bank, the ratio of structural exposures in a given currency to risk-weighted assets denominated in that currency is broadly equal to the capital ratio of the subsidiary in question.
+Acquisitions and disposals This is the movement in RWAs as a result of the disposal or acquisition of business operations.
+This can be whole businesses or parts of a business.
+The movement in RWAs is quantified based on the credit risk exposures as at the end of the month preceding a disposal or following an acquisition.
+Model updates New updated models RWA movements arising from the implementation of new models and from changes to existing parameter models are allocated to this driver.
+This figure will also include changes which arise following review of modelling assumptions.
+Where a model recalibration reflects an update to more recent performance data, the resulting RWA changes are not assigned here, but instead reported under book quality.
+RWA changes are estimated based on the impact assessments made in the testing phase prior to implementation.
+These values are used to simulate the impact of new or updated models on the portfolio at the point of 322 implementation, assuming there were no major changes in the portfolio from the testing phase to implementation phase.
+Portfolios moving onto IRB approach Where a portfolio moves from the standardised approach to the IRB approach, the RWA movement by key driver statement shows the increase in IRB RWAs, but does not show the corresponding reduction in standardised approach RWAs as its scope is limited to IRB only.
+The movement in RWAs is quantified at the date at which the IRB approach is applied, and not during the testing phase as with a new updated model.
+Methodology and policy Internal regulatory updates This captures the RWA impact resulting from changing the internal treatment of exposures.
+This may include, but is not limited to, a portfolio or a part of one moving from an existing IRB model onto a standardised model, identification of netting and credit risk mitigation.
+External regulatory updates This specifies the impact resulting from additional or changing regulatory requirements.
+This includes, but is not limited to,  changes to the RWA calculation.
+The movement in RWAs is quantified by comparing the RWAs calculated for that portfolio under the old and the new requirements.
+Book size RWA movements attributed to this driver are those we would expect to experience for the given movement in exposure, as measured by EAD, assuming a stable risk profile.
+These RWA movements arise in the normal course of business, such as growth in credit exposures or reduction in book size from run-offs and write-offs.
+The RWA movement is quantified as follows: RWA and EAD changes captured in the four drivers above are excluded from the total movements to create an adjusted movement in EAD and RWA for the period.
+The average RWA to EAD percentage is calculated for the opening position and is applied to the adjusted movement in EAD.
+This results in an estimated book size RWA movement based on the assumption that the EAD to RWA percentage is constant throughout the period.
+As the calculation relies on averaging, the output is dependent upon the degree of portfolio aggregation and the number of discrete time periods for which the calculation is undertaken.
+For each quarter of 2013 this calculation was performed for each HSBC company with an IRB portfolio by global businesses, split by the main Basel categories of credit exposures, as described in the table below: Basel categories of IRB credit exposures within HSBC Central governments and central banks Corporate foundation IRB Qualifying revolving retail exposures Institutions Other advanced IRB Retail SME Corporate advanced IRB Retail mortgages Other retail The total of the results is shown in book size within the RWA movement by key driver table.
+Book quality This represents RWA movements resulting from changes in the underlying credit quality of customers.
+These are caused by changes to IRB risk parameters which arise from actions such as, but not limited to, model recalibration, change in counterparty external rating, or the influence of new lending on the average quality of the book.
+The change in RWAs attributable to book quality is calculated as the balance of RWA movements after taking account of all drivers described above.
+The RWA movement by key driver statement includes only movements which are calculated under the IRB approach.
+Certain classes of credit risk exposure are treated as capital deductions and therefore reductions are not 323 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report

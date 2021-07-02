@@ -1,0 +1,5 @@
+ANNUAL_JJ REPORT_NN 2005_CD ANNUAL_NNP FINANCIAL_NNP STATEMENTS_NNP 35_CD ._.
+Post_NNP Balance_NNP Sheet_NNP Event_NNP On_IN 28_CD October_NNP 2005_CD a_DT South_JJ African_JJ loan_NN amounting_VBG to_TO US$_$ 28.2_CD million_CD was_VBD settled_VBN ._.
+Simultaneously_RB we_PRP part_NN surrendered_VBD an_DT endowment_NN policy_NN in_IN the_DT amount_NN of_IN US$_$ 18.5_CD million_CD ._.
+They_PRP will_MD receive_VB an_DT amount_NN equal_JJ to_TO the_DT increase_NN in_IN value_NN between_IN the_DT grant_NN date_NN and_CC the_DT exercise_NN date_NN ._.
+They_PRP will_MD be_VB awarded_VBN rights_NNS to_TO ordinary_JJ shares_NNS in_IN the_DT Company_NN ._.

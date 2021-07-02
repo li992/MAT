@@ -1,0 +1,25 @@
+HSBC HOLDINGS PLC Notes on the Financial Statements continued Note 2 Renegotiated loans Loans subject to collective impairment assessment whose terms have been renegotiated are no longer considered past due, but are treated as up to date loans for measurement purposes once the minimum number of payments required under the new arrangements have been received.
+These renegotiated loans are segregated from other parts of the loan portfolio for the purposes of collective impairment assessment, to reflect their risk profile.
+Loans subject to individual impairment assessment, whose terms have been renegotiated, are subject to ongoing review to determine whether they remain impaired or should be considered past due.
+The carrying amount of loans that have been classified as renegotiated retain this classification until maturity or derecognition.
+h Trading assets and trading liabilities Treasury bills, debt securities, equity securities, loans, deposits, debt securities in issue, and short positions in securities are classified as held for trading if they have been acquired or incurred principally for the purpose of selling or repurchasing in the near term, or they form part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
+These financial assets or financial liabilities are recognised on trade date, when HSBC enters into contractual arrangements with counterparties to purchase or sell the financial instruments, and are normally derecognised when either sold assets or extinguished liabilities.
+Measurement is initially at fair value, with transaction costs taken to the income statement.
+Subsequently, the fair values are remeasured, and gains and losses from changes therein are recognised in the income statement in Net trading income.
+i Financial instruments designated at fair value Financial instruments, other than those held for trading, are classified in this category if they meet one or more of the criteria set out below, and are so designated by management.
+HSBC may designate financial instruments at fair value when the designation: eliminates or significantly reduces measurement or recognition inconsistencies that would otherwise arise from measuring financial assets or financial liabilities, or recognising gains and losses on them, on different bases.
+Under this criterion, the main classes of financial instruments designated by HSBC are: Long-term debt issues.
+The interest payable on certain fixed rate long-term debt securities issued has been matched with the interest on receive fixed pay variable interest rate swaps as part of a documented interest rate risk management strategy.
+An accounting mismatch would arise if the debt securities issued were accounted for at amortised cost, because the related derivatives are measured at fair value with changes in the fair value recognised in the income statement.
+By designating the long-term debt at fair value, the movement in the fair value of the long-term debt will also be recognised in the income statement.
+Financial assets and financial liabilities under investment contracts.
+Liabilities to customers under linked contracts are determined based on the fair value of the assets held in the linked funds, with changes recognised in the income statement.
+If no designation was made for the assets relating to the customer liabilities they would be classified as available-for-sale and the changes in fair value would be recorded in other comprehensive income.
+These financial instruments are managed on a fair value basis and management information is also prepared on this basis.
+Designation at fair value of the financial assets and liabilities under investment contracts allows the changes in fair values to be recorded in the income statement and presented in the same line.
+applies to groups of financial assets, financial liabilities or combinations thereof that are managed, and their performance evaluated, on a fair value basis in accordance with a documented risk management or investment strategy, and where information about the groups of financial instruments is reported to management on that basis.
+Under this criterion, certain financial assets held to meet liabilities under insurance contracts are the main class of financial instrument so designated.
+HSBC has documented risk management and investment strategies designed to manage such assets at fair value, taking into consideration the relationship of assets to liabilities in a way that mitigates market risks.
+Reports are provided to management on the fair value of the assets.
+Fair value measurement is also consistent with the regulatory reporting requirements under the appropriate regulations for these insurance operations.
+relates to financial instruments containing one or more embedded derivatives that significantly modify the cash flows resulting from those financial instruments, including certain debt issues and debt securities held.

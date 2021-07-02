@@ -1,0 +1,6 @@
+Company_NN Information_NN Registrars_NNP Auditors_NNS Capita_NNP IRG_NNP Plc_NNP LLP_NNP The_NNP Registry_NNP Cornwall_NNP Court_NNP 34_CD Beckenham_NNP Road_NNP 19_CD Cornwall_NNP Street_NNP Beckenham_NNP Birmingham_NNP Kent_NNP B3_NNP 2DT_NNP BR3_NNP 4TU_NNP www_NN ._.
+com_NN Joint_NNP Brokers_NNS Merrill_NNP Lynch_NNP Registered_NNP and_CC Head_NNP Office_NNP 2_CD King_NNP Edward_NNP Street_NNP Halfords_NNP Group_NNP plc_NN London_NNP Icknield_NNP Street_NNP Drive_NNP EC1A_NNP 1HQ_NNP Washford_NNP West_NNP Redditch_NNP Citigroup_NNP Worcestershire_NNP 33_CD Canada_NNP Square_NNP B98_NNP 0DE_NNP London_NNP www_NN ._.
+com_NN E14_CD 5LB_NNP A_DT copy_NN of_IN this_DT Annual_JJ Report_NNP is_VBZ Solicitors_NNS being_VBG sent_VBN to_TO all_DT shareholders_NNS ._.
+Clifford_NNP Chance_NNP LLP_NNP 10_CD Upper_NNP Bank_NNP Street_NNP Copies_NNS are_VBP also_RB available_JJ from_IN London_NNP the_DT registered_JJ office_NN shown_VBN above_IN ._.
+The_DT Report_NNP is_VBZ also_RB placed_VBN on_IN the_DT E14_NNP 5JJ_NNP investor_NN relations_NNS section_NN of_IN the_DT Companys_NNP website_NN ,_, www_NN ._.
+Halfords_NNP Annual_JJ Report_NNP and_CC Accounts_NNPS 2005_CD 63_CD

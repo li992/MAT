@@ -1,0 +1,37 @@
+Notes to the Consolidated Financial Statements 2.
+Significant Accounting Policies continued i Sale of goods The group sells its products as licenses to resellers, OEMs and direct to end-users together with associated support and maintenance.
+In addition, the group also sells some of its products on a subscription basis.
+Revenues from software license agreements are recognised where there is persuasive evidence of an agreement with a customer contract and or binding purchase order, delivery of the software has taken place, collectability is probable and the fee has been contractually agreed and is not subject to adjustment or refund i. e is fixed and determinable.
+If an acceptance period is required, revenues are recognised upon the earlier of customer acceptance or the expiration of the acceptance period.
+Revenue is recognized on contracts providing that the customer passes defined creditworthiness checks.
+If significant post-delivery obligations exist or if a sale is subject to customer acceptance, revenues are deferred until no significant obligations remain or acceptance has occurred.
+The group enters into OEM and reseller arrangements that typically provide for fees payable to the group based on licensing of the groups software to third party customers.
+Sales are generally recognised as reported by the OEM or reseller and is based on the amount of product sold.
+Sales are recognised if all products subject to resale are delivered in the current period, no right of return policy exists, collection is probable and the fee is fixed and determinable.
+Revenues from customer support and maintenance are recognised rateably over the term of the support period.
+If customer support and maintenance is included free or at a discount in a license agreement, these amounts are allocated out of the license fee at their fair market value based on the value established by independent sale of the customer support and maintenance to customers.
+Support and maintenance consists primarily of the supply of products, such as patches and updates, to the standard software.
+Product revenues from the hosted business are separated, using the residual method, into capture and archiving.
+Revenues for capture are recognised in the period in which they are delivered.
+Revenues for archiving are recognised over the period that the customers have access to the groups software and proprietary storage technology.
+Product revenues from the hosted business relate to the execution of production operations on computers which the company runs in its data centres.
+Revenues are generated from the use of our software and computers and from us maintaining the data.
+Customers commit for periods between one month and up to three years.
+Revenues are generated in two different ways: Paid up front, usually one to three years, in which case the group has an obligation to process the data using the groups software and archive for the contracted length of time using the groups proprietary storage technology.
+Revenues are allocated between capture and archiving using the residual method, with the archiving element deferred and recognized rateably over the contracted period of archiving.
+Paid on a pay-as-you-go basis, in which case the charge is based on the volumes of data ingested and stored each month.
+Revenues for pay-asyou-go customers are recognized on a monthly basis as the product is made available to customers.
+There is no deferred revenue in relation to these customers.
+ii Rendering of services Consulting and training revenues are included within rendering of services.
+Consulting revenues are primarily related to implementation services performed on a time and materials basis under separable service arrangements related to the installation of the groups software products.
+Revenues from consulting and training services are recognised as services are performed.
+If a transaction includes both license and service elements, license fee revenue is recognised upon shipment of the software, provided services do not include significant customisation or modification of the base product and the payment terms for licenses are not subject to acceptance criteria.
+In cases where license fee payments are contingent upon the acceptance of services, revenues from both the license and the service elements are deferred until the acceptance criteria are met.
+iii Cost of revenues Cost of license revenues includes the cost of royalties due to third party licenses, costs of product media, product duplication and manuals.
+f Leasing Rentals payable under operating leases are charged to the income statement on a straight-line basis over the term of the relevant lease.
+g Foreign currencies Transactions in currencies other than the functional currency of the entity concerned are recorded at the rates of exchange prevailing on the dates of the transactions.
+At each balance sheet date, monetary assets and liabilities that are denominated in foreign currencies are retranslated into US.
+dollars at the rates prevailing on the balance sheet date.
+Non-monetary assets and liabilities carried at fair value that are denominated in foreign currencies are translated at the rates prevailing at the date when the fair value was determined.
+Gains and losses arising on retranslation are included in profit or loss for the period, except for exchange differences arising on non-monetary assets and liabilities where the changes in fair value are recognised directly in equity.
+42 Autonomy Corporation plc Annual Report and Accounts 2009

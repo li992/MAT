@@ -1,0 +1,14 @@
+Section 8 Review of Other Wholesale Markets Section 8.9 - Wholesale Broadband Access Market 1 Definition Summary Market Performance Total CCA Market 1 covers BT exchange areas where only BT provides Wholesale Broadband Access.
+Operating Return on Revenue Costs Return MCE Key Regulatory Changes Year m m m % 2013 404 347 57 11.3% BT Wholesale continues to have regulatory and Equivalence of Input EOI obligations in 2012 415 349 66 16.0% relation to the supply of Wholesale Broadband Access products in Market 1.
+Key Market Changes In their final statement on the SMP review in December 2010, Ofcom confirmed that the BT Wholesale continues to have regulatory and EOI obligations in relation to the supply of SMP obligations applying to Wholesale Broadband products would include a cost Wholesale Broadband Access products in Market 1.
+The market has remained relatively orientation obligation on BT in Market 1. stable, with a small decline in revenue due to changes in product mix, primarily from regrades from IPstream to Wholesale Broadband Connect.
+BT continues to be required to report Market 1 on an EOI basis as a result of the Ofcom February 2011 consultation document Changes to BT and KCOMs Regulatory and Financial Reporting 2010 11 Update.
+In July 2011, Ofcom published its Final Statement for the Wholesale Broadband Access Charge Control.
+Ofcom imposed an RPI-X charge control where X is 12% on IPStream Max and Max Premium end user access services within Market 1.
+There is a single overall basket for end user access EUA connections, rentals, end user bandwidth charges, contracted bandwidth per node rental charges, re-grades, migrations, cancellations, handover rentals, and 20CN interconnect link rentals at the 1Gbit s and 10Gbit s bandwidths.
+In addition, Ofcom imposed sub-cap RPI-X where X is 0% controls on contracted bandwidth per node rental charges, re-grades, migrations and cancellations.
+Basket Value of X Sub Caps IPStream Max and RPI-12.00% RPI-0% sub cap on IPS Connect contracted Max Premium up bandwidth per Mbit s per node rental.
+to 8 Mbit s RPI-0% sub cap on IPS Connect EUA re-grade.
+RPI-0% sub cap on IPS Connect EUA migration.
+RPI-0% sub cap on IPS Connect EUA cancellation.
+The current charge controls run from 17 August 2011 to March 2014.

@@ -1,0 +1,39 @@
+ii_FW
+Stated_VBN [PUBV]
+before_IN
+reorganisation_NOMZ
+costs_NN
+and_CC
+net_JJ
+goodwill_NN
+amortisation_NOMZ
+._.
+iii_FW
+The_DT
+figures_NN
+for_PIN
+2001_CD
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+as_CONJ
+a_NULL
+result_NULL
+of_PIN
+the_DT
+implementation_NOMZ
+of_PIN
+FRS_NN
+19_CD
+Deferred_NN
+Tax_NN
+._.
+Wilson_NN
+Bowden_NN
+plc_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2004_CD
+61_CD

@@ -1,0 +1,90 @@
+About Barclays Strategy Performance Risk management and governance Financial statements Shareholder information Barclays PLC Annual Report 2010 www.
+com annualreport10 241 38 Off-balance sheet arrangements In the ordinary course of business and primarily to facilitate client transactions, the Group enters into transactions which may involve the use of off-balance sheet arrangements and special purpose entities SPEs.
+These arrangements include the provision of guarantees, loan commitments, retained interests in assets which have been transferred to an unconsolidated SPE or obligations arising from the Groups involvements with such SPEs.
+Guarantees The Group issues guarantees on behalf of its customers.
+In the majority of cases, the Group will hold collateral against the exposure, have a right of recourse to the customer or both.
+In addition, the Group issues guarantees on its own behalf.
+The main types of guarantees provided are: financial guarantees given to banks and financial institutions on behalf of customers to secure loans: overdrafts: and other banking facilities, including stock borrowing indemnities and standby letters of credit.
+Other guarantees provided include performance guarantees, advance payment guarantees, tender guarantees, guarantees to Her Majestys Revenue and Customs and retention guarantees.
+The nominal principal amount of contingent liabilities with off-balance sheet risk is set out in Note 25.
+Loan commitments The Group enters into commitments to lend to its customers subject to certain conditions.
+Such loan commitments are made either for a xed period or are cancellable by the Group subject to notice conditions.
+Information on loan commitments and similar facilities is set out in Note 25.
+Leasing The Group leases various ofces, branches, other premises and equipment under non-cancellable operating lease arrangements.
+With such operating lease arrangements, the asset is kept on the lessors balance sheet and the Group reports the future minimum lease payments as an expense over the lease term.
+Information on leasing can be found in Note 37.
+Special purpose entities SPEs are entities that are created to accomplish a narrow and well dened objective.
+There are often specic restrictions or limits around their ongoing activities.
+The Groups transactions with SPEs take a number of forms, including: The provision of nancing to fund asset purchases, or commitments to provide finance for future purchases.
+Derivative transactions to provide investors in the SPE with a specified exposure.
+The provision of liquidity or backstop facilities which may be drawn upon if the SPE experiences future funding difficulties.
+Direct investment in the notes issued by SPEs.
+Depending on the nature of the Groups resulting exposure, it may consolidate the SPE on to the Groups balance sheet.
+The consolidation of SPEs is considered at inception, based on the arrangements in place and the assessed risk exposures at that time.
+In accordance with IFRS, SPEs are consolidated when the substance of the relationship between the Group and the entity indicates control.
+Potential indicators of control include, amongst others, an assessment of the Groups exposure to the risks and benets of the SPE.
+The initial consolidation analysis is revisited at a later date if: i the Group acquires additional interests in the entity: ii the contractual arrangements of the entity are amended such that the relative exposures to risks and rewards change: or iii the Group acquires control over the main operating and financial decisions of the entity.
+A number of the Groups transactions have recourse only to the assets of unconsolidated SPEs.
+Typically, the majority of the exposure to these assets is borne by third parties and the Groups risk is mitigated through , unwind features and other protective measures.
+The business activities within the Group where SPEs are used include multi-seller conduit programmes, asset securitisations, client intermediation, credit structuring, asset realisations and fund management.
+These activities are described below.
+In addition, later sections provide quantitative information on the Groups involvements with CDOs, SIVs SIV-Lites and conduits.
+Multi-seller conduit programmes Barclays creates, administers and provides liquidity and credit enhancements to several commercial paper conduit programmes, primarily in the United States.
+These conduits provide clients access to liquidity in the commercial paper markets by allowing them to sell consumer or trade receivables to the conduit, which then issues commercial paper to investors to fund the purchase.
+The conduits have sufficient collateral, credit enhancements and liquidity support to maintain an investment grade rating for the commercial paper.
+Asset securitisations The Group has assisted its customers with the formation of asset securitisations, some of which are effected through the use of SPEs.
+These entities have minimal equity and rely on funding in the form of notes to purchase the assets for securitisation.
+As these SPEs are created for other companies, the Group does not usually control these entities and therefore does not consolidate them.
+The Group may provide nancing in the form of senior notes or junior notes and may also provide derivatives to the SPE.
+These transactions are included on the balance sheet.
+The Group has also used SPEs to securitise part of its originated and purchased retail and commercial lending portfolios and credit card receivables.
+These SPEs are usually consolidated and derecognition only occurs when the Group transfers its contractual right to receive cash ows from the financial assets, or retains the contractual rights to receive the cash ows, but assumes a contractual obligation to pay the cash ows to another party without material delay or reinvestment, and also transfers substantially all the risks and rewards of ownership, including credit risk, prepayment risk and interest rate risk.
+The carrying amount of securitised assets together with the associated liabilities are set out in Note 36.
+242 Barclays PLC Annual Report 2010 www.
+com annualreport10 Notes to the financial statements For the year ended 31st December 2010 continued 38 Off-balance sheet arrangements continued Client intermediation The Group has structured transactions as a financial intermediary to meet investor and client needs.
+These transactions involve entities structured by either the Group or the client and are used to modify cash ows of third party assets to create investments with specic risk or return proles or to assist clients in the efficient management of other risks.
+Such transactions will typically result in a derivative being shown on the balance sheet, representing the Groups exposure to the relevant asset.
+The Group also invests in lessor entities specically to acquire assets for leasing.
+Client intermediation also includes arrangements to fund the purchase or construction of specic assets most common in the property industry.
+Credit structuring The Group structures investments to provide specic risk proles to investors.
+This may involve the sale of credit exposures, often by way of derivatives, to an entity which subsequently funds those exposures by issuing securities.
+These securities may initially be held by Barclays prior to sale outside of the Group.
+Asset realisations The Group establishes SPEs to facilitate the recovery of loans in circumstances where the borrower has suffered financial loss.
+To the extent that there are guarantees and commitments in relation to SPEs the details are included in Note 25.
+Collateralised debt obligations CDOs The Group has structured and underwritten CDOs.
+At inception, the Groups exposure principally takes the form of a liquidity facility provided to support future funding difficulties or cash shortfalls in the vehicles.
+If required by the vehicle, the facility is drawn with the amount advanced included within loans and advances on the balance sheet.
+Upon an event of default or other triggering event, the Group may acquire control of a CDO and, therefore, be required to fully consolidate the vehicle for accounting purposes.
+The potential for transactions to hit default triggers before the end of 2011 has been assessed and is included in the determination of a 137m impairment release and other credit provisions in relation to ABS CDO Super Senior and other credit market exposures for the year ended 31st December 2010.
+The Groups exposure to ABS CDO Super Senior positions before hedging was 1,992m as at 31st December 2010, equivalent to an aggregate 50.97% decline in value on average for all investors.
+This represents the Groups exposure to High Grade CDOs, stated net of write downs and charges.
+These facilities are fully drawn and included within loans and advances on the balance sheet.
+Collateral The collateral underlying unconsolidated CDOs comprised 78% residential mortgage-backed securities, 3% non-residential asset-backed securities and 19% in other categories a proportion of which will be backed by residential mortgage collateral.
+The remaining Weighted Average Life WAL of all collateral is 6.3 years.
+The combined Net Asset Value NAV for all of the CDOs was 1bn.
+Funding The CDOs were funded with senior unrated notes and rated notes up to AAA.
+The capital structure senior to the AAA notes on cash CDOs was supported by a liquidity facility provided by the Group.
+The senior portion covered by liquidity facilities is on average 86% of the capital structure.
+The initial WAL of the notes in issue averaged 6.7 years.
+The full contractual maturity is 38.2 years.
+Interests in third party CDOs The Group has purchased securities in and entered into derivative instruments with third party CDOs.
+These interests are held as trading assets or liabilities on the Groups balance sheet and measured at fair value.
+The Group has not provided liquidity facilities or similar agreements to third party CDOs.
+Structured investment vehicles SIVs The Group does not structure or manage SIVs.
+Group exposure to third party SIVs comprised: nil 2009: 16m of senior liquidity facilities.
+Derivative exposures included on the balance sheet at their net fair value of 46m 2009: 53m.
+SIV-Lites The Group has exposure to a SIV-Lite transaction.
+The Group is not involved in its ongoing management.
+Exposures have decreased to 345m 2009: 461m representing assets designated at fair value.
+Commercial paper and medium-term note conduits The Group provided 17bn in undrawn backstop liquidity facilities to its own sponsored CP conduits.
+The Group fully consolidates these entities such that the underlying assets are reected on the Group balance sheet.
+These consolidated entities in turn provide facilities of 740m to third party conduits containing prime UK buy-to-let Residential Mortgage Backed Securities RMBS assets.
+As at 31st December 2010, the entire facility had been drawn and is included in available for sale financial investments.
+The Group provided backstop facilities to support the paper issued by one third party conduit.
+This facility totalled 129m, with underlying collateral comprising 100% auto loans.
+There were no drawings on this facility as at 31st December 2010.
+The Group provided backstop facilities to six third party SPEs that fund themselves with medium-term notes.
+These notes are sold to investors as a series of 12-month securities and remarketed to investors annually.
+If investors decline to renew their holdings at a price below a pre-agreed spread, the backstop facility requires the Group to purchase the outstanding notes at scheduled maturity.
+The Group has provided facilities of 1.2bn to SPEs holding prime UK and Australian owner-occupied RMBS assets.
+As at the balance sheet date these facilities had been drawn and were included in loans and advances.

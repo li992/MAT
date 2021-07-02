@@ -1,0 +1,5 @@
+Excludes_NNS goodwill_NN amortisation_NN and_CC integration_NN costs_NNS where_WRB applicable_JJ ._.
+Comparatives_NNS for_IN 2000_CD restated_VBN for_IN impact_NN of_IN FRS_NNP 19_CD Accounting_NNP for_IN Deferred_NNP Taxation_NNP ._.
+Comparatives_NNS for_IN 20002003_CD restated_VBN for_IN impact_NN of_IN UITF_NNP 38_CD Accounting_NN for_IN ESOP_NNP trusts_NNS ._.
+The_DT amounts_NNS disclosed_VBD for_IN 2003_CD and_CC earlier_JJR periods_NNS are_VBP stated_VBN under_IN UK_NNP GAAP_NNP because_IN it_PRP is_VBZ not_RB practicable_JJ to_TO restate_VB amounts_NNS for_IN periods_NNS prior_RB to_TO the_DT date_NN of_IN transition_NN to_TO IFRSs_NNS ._.
+The_DT principal_JJ differences_NNS between_IN UK_NNP GAAP_NNP and_CC IFRSs_NNP are_VBP disclosed_VBN in_IN the_DT reconciliations_NNS on_IN pages_NNS 81_CD to_TO 85_CD ._.

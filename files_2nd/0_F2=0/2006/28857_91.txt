@@ -1,0 +1,166 @@
+Notes on the accounts continued 47 Significant differences between IFRS and US GAAP The consolidated accounts of the Group have been prepared in accordance with IFRS issued and extant at 31 December 2006 which differ in certain significant respects from US GAAP.
+The significant differences which affect the Group are summarised below in three separate sections: Section 1 covers ongoing significant differences between IFRS and US GAAP.
+Section 2 summarises those adjustments that, although the applicable IFRS and US GAAP standards are substantially the same, arise because their effective dates for the Group differ.
+Section 3 sets out significant differences between US GAAP and IFRS for 2004.
+1 Ongoing GAAP differences IFRS US GAAP a Acquisition accounting All integration costs relating to acquisitions are expensed as Certain restructuring and exit costs incurred in the acquired post-acquisition expenses.
+business are treated as liabilities assumed on acquisition and taken into account in the calculation of goodwill.
+b Property revaluation and depreciation Prior to the implementation of IFRS the Group revalued Under US GAAP, revaluations of property are not permitted.
+annually freehold and leasehold properties occupied for its Depreciation is charged, and gains or losses on disposal are own use.
+On transition to IFRS, as permitted by IFRS 1 based on the depreciated cost for own-use and investment valuation of these properties at 31 December 2003 was properties.
+Investment properties are carried at fair value: changes in fair value are included in profit or loss.
+c Leasehold property provisions Provisions are recognised on leasehold properties when there Provisions are recognised on leasehold properties at the time is a commitment to vacate the property.
+d Loan origination Only costs that are incremental and directly attributable to the Certain direct but not necessarily incremental costs are origination of a loan are deferred over the period of the related deferred and recognised over the period of the related loan or loan or facility.
+e Pension costs Pension scheme assets are measured at their fair value.
+US GAAP requires similar measurement of pension assets and Scheme liabilities are measured on an actuarial basis using the liabilities.
+Any surplus or deficit is recognised on the balance projected unit method and discounted at the current rate of sheet with effect from 31 December 2006 and changes in the return on a high quality corporate bond of equivalent term and funded status of the plan are recognised through currency.
+Any surplus or deficit of scheme assets compared comprehensive income.
+In the income statement, a certain with liabilities is recognised in the balance sheet as an asset portion of actuarial gains and losses are deferred over the surplus or liability deficit.
+An asset is only recognised to the average remaining service lives of active employees expected extent that the surplus can be recovered through reduced to receive benefits.
+Prior to 31 December 2006 an additional contributions in the future or through refunds from the scheme.
+minimum liability was recognised in comprehensive income as the accumulated benefit obligation the current value of accrued benefits without the allowance for future salary increases exceeded the fair value of plan assets and a prepayment was recorded.
+f Pension costs acquisition accounting On the acquisition of NatWest, the fair value of the pension Under US GAAP, the full surplus was recognised as a fair scheme surplus was restricted to the amount expected to be value adjustment in 2000.
+As a result goodwill recognised realised through reduced contributions or refunds.
+under US GAAP on the acquisition of NatWest was lower than under IFRS.
+214 RBS Group Annual Report and Accounts 2006 Financial statements IFRS US GAAP g Sale and leaseback transactions If a sale and leaseback transaction results in an operating If a sale and leaseback transaction results in an operating lease, lease and it is clear that the transaction is established at fair the seller recognises any profit on the sale in proportion to the value, the seller recognises any profit immediately.
+related gross rental charged to expense over the lease term unless: a the seller relinquishes the right to substantially all the remaining use of the property sold in which case the sale and leaseback is accounted for as separate transactions: or b the seller retains more than a minor part but less than substantially all of the use of the property through the leaseback in which case the profit on sale in excess of the present value of minimum lease payments is recognised at the date of sale.
+h Long-term assurance business IFRS requires contracts to be analysed between insurance and US GAAP also requires contracts to be classified either as investment contracts.
+Investment contracts are accounted for insurance or investment contracts: however US GAAP does not as financial instruments.
+Insurance contracts are accounted for permit embedded value reporting.
+using an embedded value methodology: the shareholders interest in the long-term assurance fund is valued as the US GAAP requires deferred acquisition cost and income discounted value of the cash flows expected to be generated accounting for all contracts.
+Where investment contract policy from in-force policies together with net assets in excess of the charges benefit future periods, they are deferred and statutory liabilities.
+i Financial instruments Financial assets at fair value through profit or loss Under IFRS, financial assets held for trading are measured at Trading securities and derivatives are carried at fair value.
+A financial asset may be designated as at fair value Designation on initial recognition is not allowed.
+Securities held through profit or loss on initial recognition.
+by the Groups private equity business are considered to be held by investment companies and carried at fair value with changes in fair value being reflected in net income.
+Debt securities classified as loans and receivables Non-derivative financial assets with fixed or determinable Under US GAAP, these debt securities are classified as repayments that are not quoted in an active market are available-for-sale securities with unrealised gains and losses classified as loans and receivables except those that are reported in a separate component of equity, except when the classified as held-to-maturity, held-for-trading, available-for-sale unrealised loss is considered other than temporary in which or designated as at fair value through profit or loss.
+Loans and case the loss is included in net income.
+receivables are initially recognised at fair value plus directly related transaction costs.
+They are subsequently measured at adjusted cost using the effective interest method less any impairment losses.
+The Group has classified some debt securities as loans and receivables.
+Available-for-sale financial assets Under IAS 39 financial assets classified as available-for-sale Under US GAAP, debt and equity securities having a readily may take any legal form.
+determinable fair value are classified as available-for-sale.
+Such securities are measured at fair value with unrealised gains and losses reported in a separate component of equity.
+Equity shares, the sale of which is restricted by contractual Restricted stock are recorded at cost.
+requirements restricted stock are carried at fair value.
+Loans classified as held-for-trading Under IAS 39, loans classified as held-for-trading are carried Collateralised loans arising from reverse repurchase and stock at fair value.
+borrowing agreements and cash collateral given are measured at cost.
+Other held-for-trading loans are measured at the lower of cost and fair value except those held by the Groups brokerdealer and its affiliates which are recorded at fair value.
+RBS Group Annual Report and Accounts 2006 215 Financial statements Notes on the accounts continued 47 Significant differences between IFRS and US GAAP continued IFRS US GAAP Foreign exchange gains and losses on monetary available-forsale financial assets For the purposes of recognising foreign exchange gains and Exchange differences are included with other unrealised gains losses, a monetary available-for-sale debt security is treated as and losses on available-for-sale securities and reported in a if it were carried at amortised cost in the foreign currency.
+Accordingly, for such financial assets, exchange differences resulting from retranslating amortised cost are recognised in profit or loss.
+Financial liabilities All financial liabilities held-for-trading are classified as such Only financial liabilities that are derivatives and short positions and carried at fair value with changes in fair value recognised are carried at fair value with changes in fair value recognised in net income.
+A financial liability may be designated as at fair in net income.
+value through profit or loss.
+j Derivatives and hedging Gains and losses arising from changes in fair value of a US GAAP principles are similar to IFRS.
+There are however derivative are recognised as they arise in profit or loss unless differences in their detailed application.
+The Group has not the derivative is the hedging instrument in a qualifying hedge.
+recognised any hedge relationships for US GAAP purposes The Group enters into three types of hedge relationship: except hedges of net investments in overseas operations.
+hedges of changes in the fair value of a recognised asset or All derivatives are measured at fair value with changes in fair liability or firm commitment fair value hedges : hedges of the value recognised in net income.
+variability in cash flows from a recognised asset or liability or a forecast transaction cash flow hedges : and hedges of the net investment in a foreign entity.
+k Liabilities and equity Certain preference shares issued by the company where Under US GAAP, preference shares issued by the company distributions are not discretionary are classified as debt.
+are classified as equity, as they are perpetual and redeemable only at the option of the company.
+l Consolidation All entities controlled by the Group are consolidated including US GAAP requires consolidation by the primary beneficiary of those special purpose entities SPEs where the substance of a variable interest entity VIE.
+An enterprise is the primary the relationship between the reporting entity and the SPE beneficiary of a VIE if it will absorb the majority of the VIEs indicates that it is controlled by the Group.
+expected losses, receive a majority of expected residual returns, or both.
+This GAAP difference has no effect on net income or shareholders equity.
+m Offset arrangements A financial asset and a financial liability are offset and the net Under US GAAP, debit and credit balances with the same amount reported in the balance sheet when, and only when, counterparty may be offset only where there is a legally the Group currently has a legally enforceable right to set off enforceable right of set-off and the intention to settle on a net the recognised amounts: and intends either to settle on a net basis.
+However, fair value amounts for forward, interest rate basis, or to realise the asset and settle the liability swap, currency swap, option, and other conditional or simultaneously.
+exchange contracts executed with the same counterparty under a master netting agreement may be offset as may Arrangements such as master netting agreements do not repurchase and reverse repurchase agreements that are generally provide a basis for offsetting.
+executed under a master netting agreement with the same counterparty and have the same settlement date.
+216 RBS Group Annual Report and Accounts 2006 Financial statements 2 Implementation timing differences This section sets out those adjustments that, although the applicable IFRS and US GAAP standards are substantially the same, arise because their effective dates for the Group differ.
+IFRS US GAAP Intangible assets Purchased goodwill Purchased goodwill is recorded at cost less any accumulated US GAAP requires the same treatment of purchased goodwill.
+Goodwill is tested annually at 30 September This was adopted by the Group from 1 July 2001.
+Prior to this for impairment or more frequently if events or changes in goodwill was recognised as an asset and amortised over circumstances indicate that it might be impaired.
+No amortisation was written back on this change of policy.
+Goodwill arising on acquisitions after 1 October 1998 was capitalised and amortised over its estimated useful economic life.
+Goodwill arising on acquisitions before 1 October 1998 was deducted from equity.
+The carrying amount of goodwill in the Group's opening IFRS balance sheet was its carrying value under UK GAAP as at 31 December 2003.
+There was no restatement of previous acquisitions in 1998.
+In 2004 no amortisation was written back.
+Other intangibles Until 2004 intangible assets acquired in a business For US GAAP purposes the Group recognised intangible combination were recognised separately from goodwill only if assets separately from goodwill from 1 July 2001.
+This has they were separable and reliably measurable.
+From 1 January resulted in the recognition of additional intangible assets and 2004 intangible assets are recognised if they are separable or consequently a higher amortisation charge under US GAAP.
+arise from contractual or other legal rights.
+All intangible assets are amortised over their useful economic lives.
+Other adjustments in the reconciliation of net income from IFRS to US GAAP for the year ended 31 December 2005 include refinements to estimates arising from the implementation of IFRS.
+3 For 2004 As permitted by IFRS 1, in the preparation of the Groups 2004 consolidated income statements and balance sheets, all IFRS have been applied except those relating to financial instruments and insurance contracts where UK GAAP principles then current have been applied.
+IFRS or relevant UK GAAP US GAAP a Acquisition accounting All integration costs relating to acquisitions are expensed as Certain restructuring and exit costs incurred in the acquired post-acquisition expenses.
+RBS Group Annual Report and Accounts 2006 217 Financial statements Notes on the accounts continued 47 Significant differences between IFRS and US GAAP continued IFRS or relevant UK GAAP US GAAP b Property revaluation and depreciation Prior to the implementation of IFRS the Group revalued Under US GAAP, revaluations of property are not permitted.
+annually freehold and leasehold properties occupied for its Own-use and investment properties are depreciated and gains own use.
+On transition to IFRS, as permitted by IFRS 1 and losses on disposal based on depreciated cost.
+valuation of these properties at 31 December 2003 was deemed to be their cost.
+c Leasehold property provisions Provisions are raised on leasehold properties when there is a Provisions are recognised on leasehold properties at the time commitment to vacate the property.
+d Loan origination Certain loan origination fees, together with related costs, are Loan origination fees and certain direct costs are deferred and recognised in the income statement as received or incurred.
+recognised over the period of the related loan or facility.
+US GAAP requires similar valuations but allows a certain Scheme liabilities are measured on an actuarial basis using the portion of actuarial gains and losses to be deferred and projected unit method and discounted at the current rate of allocated in equal amounts over the average remaining service return on a high quality corporate bond of equivalent term and lives of current employees.
+An additional minimum liability currency.
+Any surplus or deficit of scheme assets compared must be recognised if the accumulated benefit obligation the with liabilities is recognised in the balance sheet as an asset current value of accrued benefits without allowance for future surplus or liability deficit.
+An asset is only recognised to the salary increases exceeds the fair value of plan assets and the extent that the surplus can be recovered through reduced Group has recorded a prepaid pension cost or has an accrued contributions in the future or through refunds from the scheme.
+liability that is less than the unfunded accumulated benefit obligation.
+Movements in the additional minimum liability are recognised in a separate component of equity.
+f Long-term assurance business The shareholders interest in the long-term assurance fund is US GAAP does not permit embedded value reporting.
+US valued as the discounted value of the cash flows expected to GAAP requires bancassurance contracts to be classified either be generated from in-force policies together with net assets in as insurance or investment contracts.
+excess of the statutory liabilities.
+US GAAP requires deferred acquisition cost and income accounting for all contracts.
+Where investment contract policy charges benefit future periods, they are deferred and amortised.
+g Extinguishment of liabilities Recognition of a financial liability ceases once any transfer of A financial liability is derecognised only when the creditor is economic benefits to the creditor is no longer likely.
+paid or the debtor is legally released from being the primary obligor under the liability, either judicially or by the creditor.
+218 RBS Group Annual Report and Accounts 2006 Financial statements IFRS or relevant UK GAAP US GAAP h Financial instruments The Groups debt and equity securities are classified as being Investment securities held by the Groups private equity held as investment securities or for trading purposes.
+business are considered to be held by investment companies Investment securities are stated at cost less provision for any and carried at fair value, with changes in fair value being permanent diminution in value.
+Premiums and discounts on reflected in net income.
+The Groups other investment debt dated debt securities are amortised to interest income over the securities and marketable investment equity shares are period to maturity.
+Securities held for trading purposes are classified as available-for-sale securities and measured at fair carried at fair value with changes in fair value recognised in value with unrealised gains and losses reported in a separate profit or loss.
+component of equity, except when the unrealised loss is considered other-than-temporary in which case the loss is included in net income.
+i Derivatives and hedging Non-trading derivatives are entered into by the Group to hedge The Group has not made changes in its use of non-trading exposures arising from transactions entered into in the normal derivatives to meet the hedge criteria in SFAS 133 Accounting course of banking activities.
+They are recognised in the for Derivative Instruments and Hedging Activities.
+For US accounts in accordance with the accounting treatment of the GAAP purposes, its portfolio of non-trading derivatives is underlying transaction or transactions being hedged.
+To be remeasured to fair value and changes in fair value reflected in classified as non-trading, a derivative must match or eliminate net income.
+the risk inherent in the hedged item from potential movements in interest rates, exchange rates and market values.
+In addition, there must be a demonstrable link to an underlying transaction, pool of transactions or specified future transaction or transactions.
+Specified future transactions must be reasonably certain to arise for the derivative to be accounted for as a hedge.
+In the event that a non-trading derivative transaction is terminated or ceases to be an effective hedge, the derivative is remeasured at fair value and any resulting profit or loss amortised over the remaining life of the underlying transaction or transactions being hedged.
+If a hedged item is derecognised, or a specified future transaction is no longer likely to occur, the related non-trading derivative is remeasured at fair value and the resulting profit or loss taken to the income statement.
+Monetary assets denominated in a foreign currency are A non-derivative financial instrument cannot be designated as retranslated at closing rates with exchange differences taken to the hedging instrument in a fair value hedge of the foreign profit or loss.
+Equity shares financed by foreign currency exchange exposure of available-for-sale securities.
+borrowings are retranslated at closing rates with exchange differences taken to reserves along with differences on the related borrowings.
+Embedded derivatives are not bifurcated from the host Derivatives embedded in other financial instruments are contract.
+accounted for on a stand-alone basis if they have economic characteristics and risks that differ from those of the host instrument.
+RBS Group Annual Report and Accounts 2006 219 Financial statements Notes on the accounts continued 47 Significant differences between IFRS and US GAAP continued SFAS 159 also establishes presentation and disclosure Recent developments in US GAAP requirements.
+The statement is effective from 1 January 2008: In February 2006, the Financial Accounting Standards Board early adoption is permitted from 1 January 2007 provided FASB issued SFAS 155 Accounting for Certain Hybrid certain conditions are met.
+Financial Instruments an amendment of FASB Statement No 133 and 140 which is effective for all financial instruments The Group is evaluating the implications of the above acquired or issued by the Group after 1 January 2007.
+This standards and interpretation on its US GAAP reporting.
+statement allows any hybrid financial instrument that contains an embedded derivative that would otherwise require The FASB issued SFAS 156 Accounting for Servicing of bifurcation to be measured at fair value.
+The statement also Financial assets an amendment of FASB Statement No.
+140 eliminates the exemption from applying SFAS 133 to interests in March 2006.
+This statement simplifies the accounting for in securitised financial assets.
+servicing rights and related financial instruments used to economically hedge risks associated with those rights.
+The In July 2006, the FASB issued Interpretation No.
+48 Accounting Group applied SFAS 156 to servicing rights recognised on or for Uncertainty in Income Taxes an interpretation of FASB after 1 January 2006.
+109 which clarifies the accounting for uncertainty in taxes and addresses the recognition and measurement of In September 2006, the FASB issued SFAS 158 Employers tax positions taken or expected to be taken.
+This Interpretation Accounting for Defined Benefit Pension and Other is effective from 1 January 2007 for the Group.
+Postretirement Plans an amendment of FASB Statements No.
+87, 88, 106 and 132 R. SFAS 158 requires an employer to i In September 2006, the FASB issued SFAS 157 Fair Value recognise the overfunded or underfunded status of a defined Measurements.
+This statement establishes a framework for fair benefit plan as an asset or liability with changes in that funded value measurement and prescribes extended disclosures.
+status recognised through comprehensive income: and ii SFAS 157 does not extend the scope of fair value measure the funded status of a plan as of the year-end date.
+It measurement in financial statements.
+The statement will be also specifies additional disclosures.
+It is effective for the effective from 1 January 2008 for the Group and will be Groups 2006 US GAAP reporting.
+applied prospectively except for: trades in an active market held by a broker-dealer or investment company where In September 2006, the Securities and Exchange Commission blockage factors were used in determining fair value, issued Staff Accounting Bulletin No.
+108 instruments recognised at fair value using transaction price in Financial Statements Considering the Effects of Prior Year accordance with EITF 02-03, and hybrid instruments measured Misstatements when Quantifying Misstatement in Current at fair value at initial recognition.
+SAB 108 requires a company to consider the amount by which the current year income In February 2007, the FASB issued SFAS 159 Fair Value Option statement may be misstated rollover approach and the for Financial Assets and Financial Liabilities, Including an cumulative amount by which the current year balance sheet amendment of FASB Statement No.
+115 which allows may be misstated iron-curtain approach when assessing companies to report certain financial assets and liabilities at prior year misstatements.
+SAB 108 is effective for the Groups fair value.
+The statements objective is to reduce complexity in 2006 consolidated financial statements: its adoption did not accounting for financial instruments and volatility in earnings have a material effect.
+caused by measuring related assets and liabilities differently.
+220 RBS Group Annual Report and Accounts 2006 Financial statements Selected figures in accordance with US GAAP The following tables summarise the significant adjustments to consolidated net income available for ordinary shareholders and shareholders equity which would result from the application of US GAAP instead of IFRS.
+Where applicable, the adjustments are stated gross of tax with the tax effect shown separately in total.
+2006 2005 2004 Consolidated statement of income m m m Profit attributable to ordinary shareholders IFRS 6,202 5,392 4,856 Adjustments in respect of: Acquisition accounting 66 Property revaluation and depreciation 470 90 65 Leasehold property provisions 46 26 19 Loan origination 91 55 85 Pension costs 387 363 283 Sale and leaseback transactions 84 Long-term assurance business 12 10 17 Extinguishment of liabilities 94 Financial instruments 196 556 628 Derivatives and hedging 454 119 73 Liabilities and equity 177 74 Implementation timing difference intangibles 62 66 95 Other 31 59 40 Taxation 410 223 240 Net income available for ordinary shareholders US GAAP 5,440 4,475 3,909 Income statement presentation under US GAAP does not differ significantly from IFRS except that under US GAAP impairment losses are included in total income.
+2006 2005 Consolidated shareholders equity m m Shareholders equity IFRS 40,227 35,435 Adjustments in respect of: Acquisition accounting 494 517 Property revaluation and depreciation 873 403 Leasehold property provisions 84 38 Loan origination 520 614 Pension costs 168 2,367 Pension costs acquisition accounting 1,555 1,555 Sale and leaseback transactions 84 Long-term assurance business 59 47 Financial instruments 2,558 259 Derivatives and hedging 55 260 Liabilities and equity 1,491 2,298 Implementation timing difference intangibles 1,753 1,919 Other 34 Taxation 784 955 Shareholders equity US GAAP 40,077 40,229 Total assets under US GAAP of 770.8 billion 2005 700.4 billion compared with total assets under IFRS of 871.4 billion 2005 776.8 billion primarily reflect the effect of certain arrangements that can be netted under US GAAP, together with the effects of adjustments made to shareholders equity.
+RBS Group Annual Report and Accounts 2006 221 Financial statements Notes on the accounts continued 47 Significant differences between IFRS and US GAAP continued Earnings per share Basic and diluted earnings per share EPS under US GAAP differ from IFRS only to the extent that the income calculated under US GAAP differs from that under IFRS.
+of Per share Income shares amount Income shares amount Income shares amount m million pence m million pence m million pence Basic EPS 5,440 3,185 170.8 4,475 3,183 140.6 3,909 3,085 126.7 Dilutive effect of share options and convertible preference shares 64 58 1.1 65 60 0.6 66 73 0.8 Diluted EPS 5,504 3,243 169.7 4,540 3,243 140.0 3,975 3,158 125.9 US GAAP net income available to ordinary shareholders, see page 221.
+The Group has convertible preference shares totalling Outstanding options to purchase shares are excluded from the 200 million 2005 and 2004 200 million, and $1,000 million computation of diluted EPS where the exercise prices of 2005 $1,000 million: 2004 $1,900 million.
+All of the the options are greater than the average market price of the convertible preference shares have a dilutive effect in the ordinary shares during the relevant period.
+At 31 December current year and have been included in the computation of 2006, there were 5.1 million such options outstanding 2005 diluted earnings per share.
+222 RBS Group Annual Report and Accounts 2006 Financial statements Pensions Details of the Groups pension schemes are provided in Note 3.
+The provisions of SFAS 87 Employers Accounting for Pensions and SFAS 158 have been applied to the main scheme and defined benefit plans of some of the subsidiaries, which together cover most of the Groups employees: the effect of the other schemes on the Groups US GAAP reporting is considered to be inconsequential.
+The required disclosures of SFAS 158 for these pension plans are set out below.
+Main Other Main scheme Obligations and funded status scheme schemes 2006 2006 2006 2005 2004 Change in benefit obligation: m m m m m Projected benefit obligation at beginning of year 19,293 1,997 21,290 16,192 13,963 Foreign exchange movements 81 81 Service cost 596 91 687 457 420 Interest cost 914 91 1,005 860 768 Past service cost 4 8 12 3 Net actuarial loss gain 1,092 136 1,228 2,302 1,568 Benefits and expenses paid 541 25 566 521 527 Projected benefit obligation at end of year 19,174 1,945 21,119 19,293 16,192 Change in plan assets: Fair value of plan assets at beginning of year 15,934 1,434 17,368 13,598 11,822 Foreign exchange movements 59 59 Unrecognised losses 1,554 126 1,680 2,477 1,234 Employers contribution 427 109 536 380 1,069 Benefits and expenses paid 541 25 566 521 527 Market value of plan assets at end of year 17,374 1,585 18,959 15,934 13,598 Funded status of plans 1,800 360 2,160 3,359 2,594 Change in accumulated other comprehensive income: Foreign exchange movements 5 5 Unrecognised losses 4,436 4,436 Other comprehensive income 43 74 117 Accumulated other comprehensive income 4,393 79 4,314 Components of net periodic pension cost: Service cost 596 91 687 457 420 Interest cost 914 91 1,005 860 768 Expected return on plan assets 1,028 96 1,124 932 840 Amortisation of prior service cost 5 7 12 41 Amortisation of loss 371 5 376 364 263 Amortisation of net transition asset 6 8 858 98 956 747 604 Redundancies 11 11 Net periodic pension costs 869 98 967 747 604 Assumptions Main Other scheme schemes 2006 2006 2006 2005 2004 Weighted average assumptions used at 31 December: % per annum % per annum % per annum % per annum % per annum Discount rate for liabilities 5.3 5.3 5.3 4.8 5.4 Salary increases 4.2 3.5 4.1 4.0 4.0 Pension increases 2.9 2.1 2.8 2.7 2.7 Long-term rate of return on assets 6.9 6.8 6.9 6.5 6.7 2006 2005 2004 Weighted average allocations of market value of plan assets at 31 December: %%% %% Equity shares 60.5 62.9 60.7 61.3 56.7 Debt securities 33.8 27.6 33.3 34.5 31.1 Other 5.7 6.7 6.0 4.2 12.2 RBS Group Annual Report and Accounts 2006 223 Financial statements

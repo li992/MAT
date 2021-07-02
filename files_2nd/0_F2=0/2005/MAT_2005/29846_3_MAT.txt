@@ -1,0 +1,115 @@
+In_PIN
+2003_CD
+there_EX
+was_VBD
+a_DT
+change_NN
+of_PIN
+policy_NN
+on_PIN
+the_DT
+charging_GER
+of_PIN
+finance_NN
+expenses_NN
+and_PHC
+management_NOMZ
+fees_NN
+such_OSUB
+that_NULL
+60_CD
+%_NN
+of_PIN
+these_DEMO
+previously_TIME
+50_CD
+%_NN
+are_VPRT [SPAU] [PASS]
+now_TIME
+charged_VBN
+to_PIN
+capital_NN
+._.
+No_SYNE
+prior_JJ
+years_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+._.
+In_PIN
+2005_CD
+the_DT
+Company_NN
+adopted_VBN
+International_NN
+Financial_NN
+Reporting_GER
+Standards_NN
+._.
+As_CONJ
+a_NULL
+result_NULL
+the_DT
+2004_CD
+data_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+but_CC
+no_SYNE
+prior_JJ
+years_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+._.
+Detailed_JJ
+reconciliations_NOMZ
+are_VPRT [PASS]
+provided_VBN
+in_PIN
+note_NN
+25_CD
+to_PIN
+the_DT
+Financial_NN
+Statements_NOMZ
+._.
+Interim_NN
+and_CC
+proposed_VBD [SUAV]
+final_JJ
+for_PIN
+the_DT
+year_NN
+._.
+Comparative_JJ
+Dividend_NN
+Growth_NN
+200 175 150 125_CD
+100 1995 1996 1997_CD
+1998 1999 2000 2001_CD
+2002 2003 2004 2005_CD
+Year_NN
+Investment_NOMZ
+Trust_NN
+Sector_NN
+Temple_NN
+Bar_NN
+Retail_NN
+Prices_NN
+Index_NN
+Source_NN
+:_:
+Datastream_NN
+FTSE_NN
+All-Share_NN
+Index_NN
+TEMPLE_NN
+BAR_NN
+INVESTMENT_NOMZ
+TRUST_NN
+3_CD
+%_NN
+change_NN

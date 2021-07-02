@@ -1,0 +1,31 @@
+Notes to the financial statements US GAAP 1 The Company and a summary of its significant accounting policies The business of the Company ARM Holdings plc and its subsidiary companies ARM or the Company design reduced instruction set computing RISC microprocessors, physical IP and related technology and software, and sell development systems, to enhance the performance, cost-effectiveness and power-efficiency of high-volume embedded applications.
+The Company licenses and sells its technology and products to leading international electronics companies, which in turn manufacture, market and sell microprocessors, application-specic integrated circuits ASICs and application-specic standard processors ASSPs based on the Companys architecture to systems companies for incorporation into a wide variety of end products.
+By creating a network of Partners, and working with them to best utilize the Companys technology, the Company is establishing its architecture as a RISC processor for use in many high-volume embedded microprocessor applications, including digital cellular phones, modems and automotive functions and for potential use in many growing markets, including smart cards and digital video.
+The Company also licenses and sells Development Systems direct to systems companies and provides consulting and support services to its licensees, systems companies and other systems designers.
+The Companys principal geographic markets are Europe, the US and Asia Pacic.
+Incorporation and history ARM is a public limited company incorporated under the laws of England and Wales.
+The Company was formed on 16 October 1990, as a joint venture between Apple Computer UK Limited, and Acorn Computers Limited, and operated under the name Advanced RISC Machines Holdings Limited until 10 March 1998, when its name was changed to ARM Holdings plc.
+Its initial public offering was on 17 April 1998.
+Group undertakings include ARM Limited incorporated in the UK, ARM Inc. incorporated in the US, ARM KK incorporated in Japan, ARM Korea Limited incorporated in South Korea, ARM France SAS incorporated in France, ARM Belgium NV incorporated in Belgium, ARM Germany GmbH incorporated in Germany, Keil Elektronik GmbH incorporated in Germany, ARM Norway AS incorporated in Norway, ARM Embedded Technologies Pvt Limited incorporated in India, ARM Physical IP Asia Pacic Pte.
+Limited incorporated in Singapore, ARM Taiwan Limited incorporated in Taiwan and ARM Consulting Shanghai Co. Limited incorporated in PR China.
+Basis of preparation The accompanying consolidated financial statements have been prepared under the historical cost convention and in accordance with accounting principles generally accepted in the United States US GAAP.
+The Company maintains its accounting records and prepares its financial statements in UK sterling.
+Use of estimates The preparation of financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes.
+Actual results could differ from these estimates.
+Principles of consolidation The consolidated financial statements incorporate the financial statements of the Company and all its subsidiaries.
+Intra-group transactions, including sales, profits, receivables and payables, have been eliminated on consolidation.
+The results of subsidiaries acquired in the year are included in the income statement from the date they are acquired.
+On acquisition, all of the subsidiaries assets and liabilities that exist at the date of acquisition are recorded at their fair values reecting their condition at that date.
+Investments Publicly traded investments are classed as available-for-sale in accordance with Statement of Financial Accounting Standards No.
+115, Accounting for certain investments in debt and equity securities FAS 115, and are carried at fair value.
+Unrealized holding gains or losses on such securities are included, net of related taxes, in other comprehensive income.
+Other-than-temporary impairment losses and realized gains and losses of such securities are reported in earnings.
+Equity securities that are not publicly traded are recorded at cost less permanent diminution in value: at 31 December 2007 and 2006, the estimated fair value of these investments approximated their recorded basis, based on estimates determined by management.
+Intangible assets Purchased patents and licenses to use technology are capitalized and amortized on a straight-line basis over a prudent estimate of the time that the Company is expected to benefit from them.
+Although an independent valuation is made of any intangible assets purchased as part of a business combination, management is primarily responsible for determining the fair value of intangible assets.
+Such assets are capitalized and amortized over a period of one to six years, being a prudent estimate of the time that the Company is expected to benefit from them, with the exception of in-process research and development which is written off immediately.
+Goodwill Goodwill represents the excess of the fair value of the consideration paid on acquisition of a business over the fair value of the assets, including any intangible assets identied and liabilities acquired.
+Goodwill is tested for impairment at least annually.
+Annual impairment reviews in 2006 and in 2007 determined, primarily with reference to cash ow forecasts, that there was no indication of impairment with respect to goodwill.
+The estimates of future cash ows involve considerable management judgment and are based on assumptions about expected future operating performance.
+The actual cash ows could differ from managements estimates due to changes in business conditions, operating performance and economic conditions.

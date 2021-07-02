@@ -1,0 +1,68 @@
+partnership in action ARM is part of the R&D team for hundreds of semiconductor companies, as they license our technology and build it into their products.
+Here five companies explain why they have chosen to partner with ARM.
+Samsung and TSMC are long-established semiconductor companies initially working with our processors, and are now utilising ARMs graphics and physical IP.
+Calxeda, Energy Micro and Nufront are recent partners deploying multiple ARM technologies in their first products.
+22 ARM Holdings plc Annual Report 2010 20 20 vision TSMC Samsung Dr. Shang-yi Chiang, Senior Vice Chinhyun Kim, vice president of President of R&D at TSMC describes System LSI SOC Development their partnership with ARM that develops at Samsung Electronics, on their physical IP across TSMCs process nodes adoption of ARMs Mali 3D graphics extending to 20nm processor technology TSMC is the originator of the dedicated semiconductor Samsung Electronics Co. Ltd. is a global leader in foundry model, providing industry-leading process semiconductor, telecommunication, digital media and digital technology and the largest portfolio of process-proven IP, convergence technologies, employing approximately 174,000 design tools and reference flows.
+Our 2010 capacity totals people in 66 countries.
+TSMC is the Samsung is proud to have been amongst the pioneering foundation for IC innovation and is the first foundry to provide companies who first adopted ARM technology, signing an 40nm and 28nm production capability for ARM technologyinitial processor licence in 1994.
+Samsung has worked closely based chips.
+The first optimised ARM technology-based with ARMs R&D teams since and gone on to utilise most of 28nm chips are expected in 2011. the major ARM Product families to the present day.
+Central to the TSMC-ARM collaboration is our mission to Both companies share a common interest in the development be the technology and capacity provider for the global IC of low-power, high-performance processor technologies industry.
+That is why our estimated 2010 R&D investment is through on-going investments in innovation.
+Samsung around US$945 million and we anticipate that commitment benefits from ARMs investment in advanced architecture increasing to US$1.1 billion in 2011. and software, as well as from the contributions of ARMs rich Going hand-in-hand with this commitment is our belief ecosystem of partner companies.
+that design tool and IP readiness have a great impact on Samsung announced the licensing of ARMs Mali 3D graphics advanced technology development.
+Earlier this year, ARM processor family in February 2010, which represents the start and TSMC signed an agreement to optimise system-on-chip of a long-term close collaboration on graphics technology.
+development on TSMC process nodes extending to 20nm.
+The first Samsung SoC System-on-Chip product which This was a watershed moment in semiconductor industry utilises the Mali graphics processor was announced in history because it brought together two leading companies Q3 2010. into a forward-looking, long-term relationship that could benefit virtually every IC device company.
+Samsung chose Mali 3D graphics processor for SoCs that require high performance graphics capability.
+By leveraging The real crux of this agreement and our relationship with ARM the close coupling of the ARM processor and graphics is that advanced semiconductor manufacturing technology processor technologies, Samsung believes that Mali requires earlier and tighter collaboration throughout the graphics technology will deliver advanced low-power supply chain.
+As a result of our efforts, ARM and TSMC will graphics solutions.
+help designers optimise the power, performance and area challenge for ARM cores using TSMCs process technology.
+The integration of 3D graphics processor IP into an advanced It also means that designers can count on this collaboration SoC requires a complete solution from the IP supplier, for many years because the agreement extends to 20nm including high quality deliverables such as a full suite of manufacturing processes.
+software and tools, timely and accurate technical support, and effective training for design engineers.
+Samsung believes TSMC and ARM have worked closely together on physical ARM, as has been demonstrated in their past success in IP technology for nearly 15 years starting at the 180nm CPU technology, can provide all of these solutions for 3D process node.
+Since then, the TSMC-ARM collaboration technology as well.
+has delivered many results through implementations targeted to consumer electronics, mobile devices, tablet PCs and Samsung is pleased with this extension to the 16-year-strong server applications.
+partnership with ARM, and wishes to continue the close collaboration between the two companies to create ever ARM and TSMC have been at the forefront of semiconductor more advanced low-power, high performance SoC solutions excellence for over 20 years.
+We look forward to our for various market segments.
+ARM Holdings plc Annual Report 2010 23 partnership in action continued Calxeda Barry Evans, CEO of Calxeda, W e believe that our technology can enable systems on how they are utilising with a  watt that has never ARMs processor and physical IP before been possible, reducing processor energy to create low-power chips for consumption by as much as tenfold.
+server applications Calxeda, formerly Smooth-stone, Inc. was founded in early Energy use by scenario 2008 to develop a new generation of low-power processors EPA Current trends for web and cloud-computing markets, combining clusters of ARM Cortex-A9 processors optimised with ARMs physical IP to enable power efficient servers.
+120 The operating costs of a data centre are increasingly driven by the energy costs from both running and cooling the 100 server systems.
+Reducing power consumption in the server 80 chips will therefore improve the P&L of a data centre or a company with a large IT department.
+Also, as consumers 60 and governments desire to reduce overall carbon emissions, every website hosting company will want to demonstrate 40 that they are working to reduce their carbon footprint.
+It is still early days for Calxeda, but we believe that our technology 20 can enable systems with a  watt that has never before been possible, reducing processor energy 0 consumption by as much as tenfold.
+99 01 03 05 07 09 11 13 We chose to develop Calxeda chips around ARM technology Year as their designs are inherently low-power, both when running at peak performance and also when idle.
+The ARM The operating costs of a data centre are increasingly driven by the energy costs from both running and cooling the server systems.
+Cortex-A9 processor, with its scalable multiprocessor capability, provides the high-performance needed in a server application.
+Combining Cortex-A9 with ARMs physical IP maximises the performance without compromising the processors low-power characteristics.
+ARMs rich ecosystem of software tools, application software and operating systems will provide much of the software that Calxeda will need to get a server to market.
+This software includes open-source software such as Linux, Apache, MySQL, Perl and Python, which are together known as LAMP-stack software.
+Several OEMs are currently designing servers based on Calxedas technology and we hope that the first lower-power servers may be commercially available by 2013.
+Calxeda is supported and funded by ARM and Texas Instruments, along with a number of venture capital firms.
+See available for sale assets in note 13 to the accounts for details of all of ARMs long-term investments.
+24 ARM Holdings plc Annual Report 2010 kWh year 20 20 vision Nufront CSC Energy Micro Vince Zhou, General Manager at Geir Frre, President NUFRONT CSC on their adoption of and CEO at Energy Micro ARMs Cortex-A9 processor and Mali on their adoption of ARMs multi-core graphics processor technology, Cortex-M3 processor and high-performance Physical IP technology Based in Beijing, NUFRONT was founded by Chinese Founded in 2007, Energy Micro is the creator of the worlds technology experts who have brought our Silicon most energy friendly microcontroller.
+Our EFM32 Gecko Valley experience back to China.
+We have created a microcontroller product family is based on the industryhighly innovative company developing a broad range of leading ARM Cortex-M3 processor.
+As a true innovator, our technologies including wireless communication, video search bold mission was to produce a 32-bit microcontroller capable and digital image processing systems and computing system of achieving a 4x increase in battery life and an easy-to-use chips.
+We have an extensive partnership with industrydevelopment environment enabling designers to cut system leading companies, both within China and world-wide, and development times by a half.
+also with first-class Chinese universities and academic There are an ever-growing number of embedded applications institutes.
+One of these partnerships is with ARM.
+where energy saving and efficiency are at the very top The PC chip market is now being opened up to new of developers priorities.
+Such design criteria can be due companies and a new computing era is coming.
+This has to government regulations e. g. metering applications, a been enabled by advances in high-performance systemrequirement to increase battery life, or simply a need to on-chip design and the combined talents of best-in-class reduce power consumption.
+Our EFM32 Gecko family of companies coming together from across the semiconductor energy friendly microcontrollers therefore combines a smart industry.
+These companies bring their technology and ARM Cortex-M3 with a range of energy saving features, experience, developed in mobile handsets and consumer including advanced low power peripherals, a peripheral reflex electronics, to create a highly power-efficient and versatile system, well-architected energy modes and an advanced user-experience.
+The resulting low energy operation can help extend typical battery lifetime to more than 20 years.
+In August 2010 NUFRONT launched the NuSmart 2816.
+This is the worlds first chip to integrate a 2GHz dual-core We chose to build our Gecko microcontrollers around the ARM Cortex-A9 processor and Mali multi-core graphics ARM Cortex-M3 processor because it offers superior energy processor with all of the functionality that you would expect efficiency.
+The Cortex-M3 is also a smart, high-performance to find within a desktop computer, including interfaces to high and low-power processor with a strong ecosystem of tools speed DDR2 3 memory, SATA HDD SSD storage, USB and and software, that many of our customers already know how Ethernet.
+Built on 40nm process technology, the NuSmart to use.
+For battery powered applications, our target is to 2816 runs at 1.6-2.0GHz and consumes less than 2 Watts, make the battery last as long as possible and so we need to which is much less power than current PC-chips.
+reduce power consumption as much as possible.
+As a highperformance processor, the ARM Cortex-M3 can finish tasks We chose to use the ARM processors because, when faster, enabling the microcontroller to spend most of its time combined with ARMs physical IP, this technology delivers in stand-by mode.
+the balance between high-performance and low-power we needed.
+In addition, the ARM ecosystem of software Our EFM32 Gecko microcontrollers are being designed into a companies further extends our partnership and enables broad range of energy sensitive applications including energy NUFRONT to provide PC-class operating systems and metering, home and building automation, alarm and security application software to go with our PC-class chip.
+systems and medical and lifestyle equipment and our goal is to sell 100 million by 2013.
+For 2011, we have set a target that $250 laptops will be widely available in China and rest of the world, based on the NuSmart 2816.
+Together with our partners we have an opportunity to create low-cost laptops with low-energy chips that drive the new computing era.
+ARM Holdings plc Annual Report 2010 25

@@ -1,0 +1,100 @@
+Notes to the Consolidated Financial Statements continued For the year ended 31 December 2016 tabular amounts only are in thousands of US dollars, except per share data 3.
+Basis of preparation continued The fair value of share consideration payable is determined by using valuation techniques that take into consideration market inputs such as share price and volatility.
+Business combinations require an estimation of the fair value of the acquired assets and liabilities assumed.
+The fair value of intangible assets is estimated using the future cash flows expected to arise from the acquired business and a suitable discount rate in order to determine present value.
+Functional and presentation currency These consolidated financial statements are presented in United States US dollars, which is the functional currency of the Group.
+Basis of measurement The consolidated financial statements have been prepared on the historical cost basis except for certain financial assets and financial liabilities, which have been measured at fair value as described in Note 26.
+Change in presentation Presentation of certain items in the consolidated financial statements has been changed in order to provide more reliable and relevant information, and the prior period presentation has been reclassified accordingly.
+Share option expense previously presented as part of salaries and employee expenses is now separately disclosed in the statement of comprehensive income.
+None of the changes detailed above had any impact on comprehensive income, earnings per share or net assets.
+Significant accounting policies This section sets out the policies that relate to the financial statements as a whole.
+Where an accounting policy is specific to one note, the policy is described in the note to which it relates.
+The accounting policies set out below and throughout the financial statements have been applied consistently to all periods presented in these consolidated financial statements, and have been applied consistently by Group entities.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and enterprises controlled by the Company and its subsidiaries as at the year end.
+Control is achieved where the Company is exposed or has rights to variable returns from its involvement with the enterprise and has the ability to affect those returns through its power over the entity.
+The consolidated financial statements include the accounts of the Company and its principal wholly-owned subsidiaries as identified in Note 27.
+All inter-company transactions and balances between Group enterprises are eliminated on consolidation.
+In the financial statements of the Company, investments in subsidiaries are stated at cost.
+Foreign exchange The individual financial statements of each Group entity are presented in the currency of the primary economic environment in which the entity operates its functional currency.
+For the purpose of the consolidated financial statements, the results and financial position of each entity are expressed in US dollars, which is the functional currency of Paysafe Group Plc, and the presentation currency for the consolidated financial statements.
+In preparing the financial statements of the individual entities, transactions in currencies other than the entitys functional currency foreign currencies are recorded at the rates of exchange prevailing on the dates of the transactions.
+At each balance sheet date, monetary items denominated in foreign currencies are retranslated at the rates prevailing on the balance sheet date.
+Non-monetary items carried at fair value that are denominated in foreign currencies are retranslated at the rates prevailing on the date when the fair value was determined.
+Non-monetary items that are measured in terms of historical cost in a foreign currency are not retranslated.
+Exchange differences arising on the settlement of monetary items, and on the retranslation of monetary items, are included in the consolidated statement of comprehensive income for the period.
+Exchange differences arising on the retranslation of nonmonetary items carried at fair value are included in the consolidated statement of comprehensive income for the period, except for differences arising on the retranslation of non-monetary items in respect of which gains and losses are recognised in other comprehensive income.
+For such non-monetary items, any exchange component of that gain or loss is also recognised directly in other comprehensive income.
+Paysafe Group plc | Annual Report 2016 108 OVERVIEW STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS COMPANY INFORMATION 4.
+Significant accounting policies continued For the purpose of presenting consolidated financial statements, the assets and liabilities of the Groups foreign operations including comparatives are expressed in US dollars using exchange rates prevailing on the balance sheet date.
+Income and expense items including comparatives are translated at the average exchange rates for the period, unless exchange rates fluctuated significantly during that period, in which case the exchange rates at the dates of the transactions are used.
+Exchange differences arising, if any, are classified as other comprehensive income and transferred to the Groups translation reserve.
+Such translation differences are recognised in the consolidated statement of comprehensive income in the period in which the foreign operation is disposed of.
+Goodwill and fair value adjustments arising on the acquisition of foreign operations are treated as assets and liabilities of the foreign operation and translated at the closing rate.
+Settlement assets Settlement assets result from timing differences in the Groups settlement process.
+These timing differences arise primarily as a result of settlement amounts due from financial institutions and other payment processors.
+These amounts are typically funded to the Group within days of the transaction processing date.
+Cash held as reserves The Group has agreements with various financial institutions for the settlement of payment transactions.
+Under the terms of these agreements, the Group is required to maintain certain amounts as reserves, which may be applied against any amounts for which the financial institutions would be entitled for reimbursement.
+Impairment The carrying amounts of the Groups non-financial assets are reviewed at each reporting date to determine whether there is any indication of impairment.
+If any such indication exists, then the assets recoverable amount is estimated.
+For goodwill and intangible assets that have indefinite useful lives or that are not yet available for use, the Group performs impairment tests at least annually at 31 December or whenever events or changes in circumstances indicate that the carrying values may not be recoverable.
+An impairment loss is recognised if the carrying amount of an asset or its related cash-generating unit CGU exceeds its estimated recoverable amounts.
+The recoverable amount of an asset or CGU is the greater of its value in use and its fair value less costs to sell.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset or CGU.
+For the purpose of impairment testing, assets that cannot be tested individually are grouped together into the smallest group of assets that generates cash inflows from continuing use that are largely independent of the cash inflows of other assets or CGU.
+Subject to an operating segment ceiling test, for the purposes of goodwill impairment testing, CGUs to which goodwill has been allocated are aggregated so that the level at which impairment testing is performed reflects the lowest level at which goodwill is monitored for internal reporting purposes.
+The Groups corporate assets do not generate separate cash inflows and are utilised by more than one CGU.
+Corporate assets are allocated to CGUs on a reasonable and consistent basis and tested for impairment as part of the testing of the CGU to which the corporate asset is allocated.
+Impairment losses are recognised in the consolidated statement of comprehensive income.
+Impairment losses recognised in respect of CGUs are allocated first to reduce the carrying amount of any goodwill allocated to the CGU group of CGUs, and then to reduce the carrying amounts of the other assets in the CGU group of CGUs on a pro rata basis.
+An impairment loss in respect of goodwill is not reversed.
+In respect of other assets, impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer exists.
+An impairment loss is reversed if there has been a change in estimates used to determine the recoverable amount, but only to the extent that the assets carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss has been recognised.
+com 109 Notes to the Consolidated Financial Statements continued For the year ended 31 December 2016 tabular amounts only are in thousands of US dollars, except per share data 4.
+Significant accounting policies continued Revenue recognition The Group is involved in transaction processing services through three main lines of business.
+Payment processing services are offered through the Paysafe payment processing and payolution products.
+Netbanx merchant revenue is earned either as a fee calculated as a percentage of funds processed or as a charge per transaction, pursuant to the respective merchant agreements.
+The fee revenue is recognised at the time the transactions are fulfilled.
+Payolution arranges the provision of point-of-sale financing to customers of e-commerce merchants offered as a white-label solution, and earns revenue by charging fees to merchants that accept the service.
+The revenue is recognised at the time the transactions are fulfilled.
+Digital wallets services are offered through the NETELLER, Net and Skrill products.
+Member and merchant revenue is earned either as a fee calculated as a percentage of funds processed or as a charge per transaction, pursuant to the respective member and merchant agreements, as well as fees from inter-currency transactions.
+Prepaid services are offered through the paysafecard prepaid payment vouchers and my paysafecard online payment accounts.
+Prepaid revenue is earned from fees charged to merchants accepting payments made using the paysafecard product as well as fees charged to consumers.
+The fee revenue is recognised upon delivery or transfer of risk to the customer, net of rebates and discounts.
+Commissions are presented as part of cost sales.
+Interest income is earned on the funds held on behalf of clients and is accrued on a monthly basis, by reference to the principal outstanding and at the effective interest rate applicable.
+Interest income is presented in revenue since it is earned on funds that are held as part of the Groups revenue generating activities.
+The Company renders services to various subsidiaries within the Group, including franchise fees for the use of the Companys trademarks and right to operate in specified territories, as well as platform rights fees for the right to use its online application.
+Revenue from rendering of services is recognised in the Company statement of comprehensive income at the time the services are rendered.
+Leases i Leased assets Assets held by the Group under leases which transfer to the Group substantially all of the risks and rewards of ownership are classified as finance leases.
+On initial recognition, the leased asset is measured at an amount equal to the lower of its fair value and the present value of the minimum lease payments.
+Subsequent to initial recognition, the asset is accounted for in accordance with the accounting policy applicable to that asset.
+Assets held under other leases are classified as operating leases and are not recognised in the consolidated statement of financial position.
+ii Lease payments Payments made under operating leases are recognised in the consolidated statement of comprehensive income on a straightline basis over the term of the lease.
+Minimum lease payments made under finance leases are apportioned between the finance expense and the reduction of the outstanding liability.
+The finance expense is allocated to each period during the lease term so as to produce a constant periodic rate of interest on the remaining balance of the liability.
+Research and development Research expenditure is recorded in the consolidated statement of comprehensive income in the period in which it is incurred.
+Development expenditure is recorded in the same way unless management is satisfied as to the technical, commercial and financial viability of the individual projects generating future economic benefits, and the Group intends to and has sufficient resources to complete development and to use or sell the asset.
+In this situation, the expenditure is capitalised at cost, less a provision for any impairment in value, and is amortised on the commencement of use over the period in which benefits are expected to be received by the Group.
+The expenditure capitalised includes the cost of materials, direct labour and overhead costs that are directly attributable to preparing the asset for its intended use.
+Paysafe Group plc | Annual Report 2016 110 OVERVIEW STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS COMPANY INFORMATION 4.
+Significant accounting policies continued Offsetting Financial assets and liabilities are offset and the net amount presented in the statement of financial position when, and only when, the Group has a legally enforceable right to set off the amounts and intends either to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Gross settlement is equivalent to net settlement if and only if the gross settlement mechanism has features that eliminate or result in insignificant credit and liquidity risk and processes receivables and payables in a single settlement cycle.
+The balances owing to the members and merchants and the related cash balances segregated in the members and merchants accounts are presented net in the consolidated statement of financial position as the Group considers these gross settlements as equivalent to net settlements in accordance with IAS 32.
+Income and expenses are presented on a net basis only when permitted by the accounting standards, or for gains and losses arising from a group of similar transactions such as in the Groups trading activity.
+Employee benefits Short-term employee benefits are expensed as the related service is provided.
+A liability is recognised for the amount expected to be paid if the Group has a present legal or constructive obligation to pay the amount as a result of past service provided by the employee and the obligation can be estimated reliably.
+Application of new and revised accounting policies In the current period, the Group has applied a number of amendments to IFRSs issued by the International Accounting Standards Board IASB that are mandatorily effective for an accounting period that begins on or after 1 January 2016.
+The application of these amendments has had no material impact on the disclosures in the Group's consolidated financial statements.
+Amendments to IAS 1 Presentation of Financial Statements Disclosure Initiative IAS 1 has been amended to further encourage companies to apply professional judgement in determining what information to disclose in their financial statements.
+Furthermore, the amendments clarify that companies should use professional judgement in determining where and in what order information is presented in the financial disclosures.
+Amendments to IFRS 11 Accounting for Acquisitions of Interests in Joint Operations IFRS 11 has been amended to provide guidance on how to account for the acquisition of a joint operation that constitutes a business as defined in IFRS 3 Business Combinations.
+Specifically, the amendments state that the relevant principles on accounting for business combinations in IFRS 3 and other standards e. g. IAS 36 Impairment of Assets regarding impairment testing of a cash-generating unit to which goodwill on acquisition of a joint operation has been allocated should be applied.
+The same requirements should be applied to the formation of a joint operation if and only if an existing business is contributed to the joint operation by one of the parties that participate in the joint operation.
+A joint operator is also required to disclose the relevant information required by IFRS 3 and other standards for business combinations.
+Amendments to IAS 16 Property, Plant and Equipment and IAS 38 Intangible Assets The amendments to IAS 16 prohibit entities from using a revenue-based depreciation method for items of property, plant and equipment.
+The amendments to IAS 38 introduce a rebuttable presumption that revenue is not an appropriate basis for amortisation of an intangible asset.
+The amendments apply prospectively for annual periods beginning on or after 1 January 2016.
+Currently, the Group uses the declining balance method for depreciation for its property, plant and equipment, the straight-line method for buildings and leaseholds and declining balance and straight-line methods for amortisation for its intangible assets.
+The Directors of the Group believe that these methods are the most appropriate method to reflect the consumption of economic benefits inherent in the respective assets.

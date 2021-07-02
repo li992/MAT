@@ -1,0 +1,26 @@
+ARM provides the tools and the methodologies, including compilers, debuggers, and development boards to enable developers to design and debug their hardware and software, and to deliver complete solutions.
+10 ARM Annual report and accounts 2002 Review of operations continued enabling solutions Our silicon Partners develop complex chips which will companies are collaborating with us on the development power the next generation of systems products.
+Our of the AMBA 3.0 methodology.
+Given the strength of PrimeXsys Platform solutions help them to get their commitment to this programme, the technology will products to market more quickly by speeding up the benefit from the most comprehensive industry-wide process.
+In 2002, we introduced our ARM11 PrimeXsys support possible for a communication methodology.
+Platform at the same time as the first of our new ARM11 CPU cores.
+The PrimeXsys Platform, which In November 2002, we formed an innovative standardises key functions, enables our Partners to focus strategic alliance with US-based National on creating differentiated products.
+We are combining our Intelligent Energy Manager with National Semiconductors Our RealView family of development tools has been PowerWise technology, to increase the battery life developed to support what are described as multi-core of mobile telephones, initially by 2575%, but designs, in which our Partners may be integrating one or eventually by as much as 400%.
+several ARM cores, together with a Digital Signal Processor DSP core from another source.
+Because silicon processes By adjusting performance and power consumption in now have much finer geometry, more transistors can be real time, we can save energy and meet end-users put on a single chip, which makes the SoC very complex.
+At a time when mobile, or cell, phones RealView tools simplify the process of debugging and are increasingly using power-hungry applications, such developing the software for multi-core design.
+as colour, video clips and gaming, this is an important progression.
+Our RealView tools provide designers with the best solution for creating and analysing systems based on our We achieved a similarly innovative agreement with technology.
+They are designed and used by the same Synopsys Inc. the leading design company for complex engineers who created our architecture.
+We test them integrated circuits, to give them access to our IP.
+We to the highest level of preand post-silicon evaluation collaborated with them on developing a methodology and development.
+As a result, the ARM RealView which enables them to build an ARM core very quickly.
+Development Solution provides the broadest possible range of support for future ARM architectures and Working together in this way has enabled our silicon derivatives.
+ARM RealView tools are fully integrated Partners to get their products to market more quickly and provide a complete solution to any design or SoC and, thereby, to gain competitive advantage.
+integration: they give the developer a higher level of confidence in getting the product right first time and, therefore, speed the time-to-market.
+AMBA technology is a further example of an ARM methodology which enables product designers to achieve a total solution.
+It is an open standard, which is available from our website through a simple licence agreement, and is free.
+It is widely supported by our Partners and is equally widely accepted as a standard for on-chip interconnect.
+In December, we announced the next generation of the AMBA specification: more than 25 industry-leading Above left: Terraced paddy fields, near Klung Kung, Bali.
+An ability to achieve maximum production from limited capacity equally describes ARMs drive to enable complete solutions.
+ARM Annual report and accounts 2002 11

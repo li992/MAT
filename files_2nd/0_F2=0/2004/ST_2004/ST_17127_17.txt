@@ -1,0 +1,5 @@
+Key_NNP dates_VBZ Record_NNP date_NN for_IN final_JJ dividend_NN 6_CD May_NNP ,_, 2005_CD Annual_JJ General_NNP Meeting_VBG 19_CD May_NNP ,_, 2005_CD Payment_NN date_NN for_IN final_JJ dividend_NN 2_CD June_NNP ,_, 2005_CD Date_NN of_IN announcement_NN of_IN interim_JJ results_NNS 2_CD August_NNP ,_, 2005_CD Payment_NN date_NN of_IN interim_JJ dividend_NN 5_CD December_NNP ,_, 2005_CD Internet_NNP Betting_NNP Racing_VBG Sports_NNPS :_: www_NN ._.
+co._FW uk_FW Mobile_NNP Internet_NNP :_: www_NN ._.
+co._FW uk_FW wap_FW On-line_JJ Casino_NNP :_: www_NN ._.
+com_NN Telephone_NNP Betting_NNP Debit_NNP :_: 0800_CD 44_CD 40_CD 40_CD Credit_NN :_: 0800 289 892_CD Retail_NNP Betting_NNP Over_IN 1,600_CD shops_NNS throughout_IN the_DT UK_NNP Customer_NN Helpline_NNP :_: 08705_CD 18_CD 17_CD 15_CD Corporate_JJ Website_NNP www_NN ._.
+co._FW uk_FW William_NNP Hill_NNP PLC_NNP 1_CD Registered_NNP office_NN :_: Greenside_NNP House_NNP ,_, 50_CD Station_NNP Road_NNP ,_, Wood_NNP Green_NNP ,_, London_NNP N22_NNP 7TP_NNP Tel_NNP :_: 020 8918 3600_CD Fax_NNP :_: 020 8918 3775_CD Reg_NNP no_DT :_: 4212563_CD England_NNP

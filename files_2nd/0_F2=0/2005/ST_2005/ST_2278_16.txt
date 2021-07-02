@@ -1,0 +1,6 @@
+Notes_NNS to_TO the_DT Consolidated_NNP Financial_NNP Statements_NNP Year_NN ended_VBD 31_CD December_NNP 2005_CD 39_CD ._.
+Explanation_NN of_IN transition_NN to_TO IFRS_NNP continued_VBD IFRS_NNP UK_NNP GAAP_NNP Adjustments_NNPS IFRS_NNP Note_VB m_FW m_FW m_FW Current_JJ assets_NNS Inventories_NNS 13.4_CD 4.5_CD 8.9_CD r_NN Trade_NNP and_CC other_JJ receivables_NN 102.3_CD ._.
+142.1_CD 257.8_CD 4.5_CD 253.3_CD Non-current_JJ assets_NNS classied_VBD as_IN held_VBN for_IN sale_NN ._.
+6.9_CD 6.9_CD s_PRP Total_JJ assets_NNS 830.0_CD 28.4_CD 858.4_CD Current_JJ liabilities_NNS Trade_NNP and_CC other_JJ payables_NNS 106.5_CD 12.4_CD 94.1_CD t_NN Tax_NNP liabilities_NNS 2.5_CD ._.
+2.5_CD Obligations_NNS under_IN finance_NN leases_VBZ 1.2_CD 0.3_CD 1.5_CD u_NNP Bank_NNP overdrafts_NNS and_CC loans_NNS 7.0_CD ._.
+300.0_CD Currency_NN and_CC other_JJ reserves_NNS 17.1_CD 0.2_CD 16.9_CD y_JJ Retained_VBN earnings_NNS 85.7_CD 13.7_CD 72.0_CD Equity_NN attributable_JJ to_TO equity_NN holders_NNS of_IN the_DT parent_NN 434.9_CD 13.9_CD 421.0_CD Minority_NNP interest_NN carried_VBD forward_RB 1.0_CD ._.

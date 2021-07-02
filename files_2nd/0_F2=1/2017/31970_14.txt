@@ -1,0 +1,39 @@
+Strategic report Race to innovate: How Renishaw helped Land Rover BAR in its attempt to win the Our strategy in action Americas Cup Focus on delivering Renishaw is part of Land Rover BARs Technical Innovation Group which aims to bring together the best of British solutions engineering to help win the Americas Cup.
+The oldest international trophy in world sport dating from 1851, it is the worlds premier sailing challenge described as being like Formula 1 on water and has never been won by Britain.
+Land Rover BAR made it to the semi-finals of the 35th edition of the Americas Cup, held this summer in Bermuda, with Renishaws AM and position encoder technology helping the first-time challenger to produce a boat that competed well against much more established teams.
+Americas Cup Class ACC racing yachts use an innovative rigid wingsail.
+Land Rover BAR With the aerodynamics of an aeroplane wing, instead of lift, this vertical wing understood the potential provides thrust and is efficient enough of additive manufacturing to propel the vessel up to four times faster than the speed of the wind to save weight and driving it forward.
+The wingsail used improve the efficiency of by the Land Rover BAR race-yacht Rita code-name: R1 has an area itshydraulic system.
+2 of 103 m and is 23.5 m high, which is comparable to a wing of a Boeing 737 aeroplane.
+Clearly, there are many difficult engineering challenges involved in designing and building a huge functional wing with numerous moving parts, whilst ensuring sufficient strength and minimal weight.
+Each hull on R1 features a T-shaped rudder and retractable board that bends beyond 90 degrees to create a hydrofoil.
+Once the boat speed reaches around 16 knots 18 mph it starts foiling.
+The flow over the hydrofoils creates sufficient lift to fly and both hulls rise clear of the water, reducing drag and increasing speed.
+Race to innovate: metal AM manifolds improve power flow On the R1, the control surfaces are all driven by hydraulic actuators.
+Hydraulic pressure is provided by the sweat and toil of the crews four grinders, who turn specialised hand-cranks.
+There are no batteries except to provide electrical power for computers and sensors, the four grinders act as a human engine to generate all the hydraulic energy required.
+28 Renishaw plc Annual report and accounts 2017 Lloyd Images Land Rover BAR Strategic report Governance Financial statements Shareholder information Land Rover BAR understood the fit for function and all manifolds used A team of Renishaws encoder potential of additive manufacturing on the boat are customised and built products specialists rose to the to save weight and improve the in titanium to be both lightweight challenge and designed a bespoke efficiency of its hydraulic system and and strong.
+magnetic encoder solution, worked with Renishaw engineers, who based around technology from Whilst the actual parts produced contributed by highlighting the manifold Renishaws associate company by Renishaw for R1 remain highly components which would most benefit RLS.
+The LinACE product is an confidential, the manifolds designed from being manufactured using metal extremely robust absolute linear in CAD software by Land Rover BAR AM technology, by collaborating and cylindrical encoder system designed were sent to Renishaw, where they advising on iterations, then producing for integration into hydraulic, pneumatic were prepared for production using its the necessary parts.
+and electromechanical actuators as QuantAM software.
+The build file was a feedback element for position or The structure of these manifolds, which then sent to a Renishaw AM system, velocity closed-loop applications.
+have multiple passageways, helps which produced the complex parts improve the flow of hydraulic fluid from by melting successive layers of metal Due to the extreme conditions faced one part of the boat to another, and powder using a high-powered laser.
+at sea, with high-speed winds and are lighter than conventional manifolds.
+salt spray, magnetic encoders were R1 is an incredibly advanced racing This streamlining helps the grinders deemed to be the only viable option, catamaran that pushes the boundaries conserve energy whilst still allowing the as open optical encoders would of what technology can provide and it boat to perform at the optimal level.
+face real challenges due to the truly was a race to innovate to turn requirement to maintain a clear optical Traditionally, hydraulic block manifolds around the optimum parts, in time for path between readhead and scale.
+are manufactured from an aluminium the Americas Cup.
+The challenge was Magnetic encoders can be fully sealed alloy or stainless steel billet which immense with many design changes, to give much greater contamination has been cut and machined to size.
+demanding timescales and rapid resistance and due to space limitations This is followed by drilling at 90-degree production of parts running up to a surrounding the highly loaded wing angles to create the flow pathways.
+fixed race day, but the ability of additive ribs, the use of LinACE modules meant Specialised tooling is often needed due manufacturing to produce many that the Renishaw team could design a to the complex drilling that is required.
+iterations rapidly was a major benefit to new encoder that minimised the size of Passages require blanking plugs to the collaborative process.
+hole needed within the wing rib.
+properly direct flow through the system.
+Race to innovate: digital The new design of position encoders The nature of the traditional position feedback were installed on the control surfaces manufacturing process results in abrupt of both the wing flaps and the port As mentioned earlier, the angled junctions which slow down the and starboard rudders, with numerous control surfaces on R1 are all flow of hydraulic fluid, often leading changes made to ruggedise the driven by hydraulic actuators.
+By using additive LinACE encoder and make it durable During development, Land Rover BAR manufacturing technology, you can enough for life at sea.
+realised that precision knowledge design in and build smooth rounded of their sail wing settings could be corners which promote the flow of fluid Position feedback from the encoders compromised by the tenuous link and improve efficiency.
+Another benefit is used in real-time on the boat by the between the hydraulic actuators is the significant weight saving against wing trimmer, allowing the boat to race and the control surfaces or flaps.
+a traditional block manifold where with more precision, whilst enabling the These linkages are ropes with a material must be cut away, leaving capture of high-quality performance high degree of compliance, so the surplus non-essential weight and an data that can be analysed to improve position of each actuator is often over-specification wall thickness.
+only an approximate measure of the Additive manufacturing builds up parts With both additive manufacturing actual flap angle.
+They again asked layer by layer, applying material only and encoders, Renishaw worked Renishaw to collaborate in designing where it is required, leading to a much within the short timescales and high arobust solution.
+The wall thickness of the specifications requested by Land Rover manifold can be adjusted so that it is BAR, to deliver world-class solutions.
+D LinACE encoder from RLS repackaged D Metal 3D-printed hydraulic system parts made by Renishaw for Land Rover BAR.

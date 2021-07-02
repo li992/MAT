@@ -1,0 +1,46 @@
+NOTES TO THE ACHIEVED PROFIT RESULT I.
+BASIS OF PREPARATION The supplementary information on pages 81 to 85 shows the Groups life results as measured on an achieved profit basis, which includes the results of the Groups long-term assurance business on a basis determined in accordance with the ABI Guidance Supplementary Reporting for long term assurance business the achieved profits method issued in December 2001.
+The objective of the Achieved Profit basis is to provide shareholders with more realistic information on the financial position and performance of the Group than that provided by the modified statutory solvency basis.
+The Groups unit trust business is not included on an achieved profit basis within this supplementary information although it is in the unaudited financial information.
+Smoothed investment return assumptions have been used.
+A smoothed basis provides a prudent measure of achieved profit during a period where stock markets rise.
+The impact of preparing this information on an unsmoothed basis is presented in note V. The results of LAHC have been included on a modified statutory solvency basis as opposed to an achieved profit basis as LAHC is a non-core investment.
+METHODOLOGY AND ASSUMPTIONS The Achieved Profits methodology recognises as profit the discounted value of the expected future statutory surpluses arising from the contracts in-force at the period end the value of long-term business in-force.
+These future surpluses are calculated by projecting future cash flows using realistic assumptions for each component of the cash flow.
+Actuarial assumptions for the mortality, morbidity and persistency experience of the contracts and the expenses and taxation expected to be incurred are based on recent experience and are reviewed annually.
+The future economic and investment conditions are based on the period end conditions and are likely to change from year to year.
+Economic assumptions The principal economic assumptions used within the cash flows at 31 December 2002 are set out below alongside the comparatives for 31 December 2001.
+Year Ended Year Ended 31 December 31 December 2002 2001 Risk discount rate net of tax 8.0% 8.5% Future investment returns: - Fixed Interest 4.5% 5.0% - Equities 7.0% 7.5% - Unit-linked funds: - Capital growth 3.5% 3.75% - Dividend income 3.0% 3.0% - T otal 6.5% 7.0% Expense inflation 4.25% 4.5% Indexation of capital gains 1.75% 2.5% The risk discount rate is used to discount the projected future cash flows from the business in-force to a present value.
+The rate is set by reference to the assumed future investment returns.
+PAGE 83 NOTES TO THE ACHIEVED PROFIT RESULT continued II.
+METHODOLOGY AND ASSUMPTIONS CONTINUED The assumed future pre-tax returns on fixed interest securities are set by reference to the 15 year gilt yield index.
+The other investment returns are set by reference to this assumption.
+The expense inflation and indexation of capital gains assumptions are based on the rate of inflation implicit in the current valuation of 15 year index-linked gilts.
+For the purposes of projecting future unit growth unit linked funds have been valued on a smoothed basis.
+Smoothing is achieved by a recursive formula where smoothed price t 1 0.075 x actual price t 1 0.925 x smoothed price t x 1 G where G is the monthly expected rate of unit growth after tax and charges and time t is in monthly periods.
+The smoothing is equivalent to a short term change in the assumed investment return.
+Experience assumptions The principal experience assumptions were derived as follows.
+All experience assumptions are reviewed annually.
+The persistency experience is derived where possible from the Companys own experience, or otherwise from external industry experience.
+Lapse rates for pension policies have been adjusted to take into account a one-off increase in rates following the introduction of Stakeholder pensions.
+Maintenance expenses have been set in line with the costs charged by the Companys third party administrators, together with an allowance for the Companys own maintenance costs.
+Mortality and morbidity assumptions have been set by reference to the Companys own experience, published industry data and the rates charged by the Companys reassurers.
+A provision of 12.5 million has been set up within the cash flows to provide for adverse morbidity experience on critical illness plans.
+This is unchanged from 31 December 2001.
+Other items The value of new business has been established at the end of the reporting period.
+It has been calculated using actual acquisition costs.
+In projecting future surpluses allowance has been made for the cost of maintaining a statutory solvency margin on the business in force.
+Future taxation has been determined assuming a continuation of the current tax legislation.
+The achieved profits results are calculated on an after-tax basis and are grossed up to the pre-tax level for presentation in the profit and loss account.
+The rate of tax used was 30% except for the Irish life business, which was grossed up at 12.5%.
+COMPONENTS OF LIFE ACHIEVED PROFIT The pre-tax components of the Achieved Profit result for life business are shown below.
+The basic operating Achieved Profit is determined using the assumptions as set out above in note II.
+This value is subsequently adjusted to take into account items considered to be short-term variations to these longer-term assumptions to show the total achieved preand post-tax profit for the respective periods.
+PAGE 84 NOTES TO THE ACHIEVED PROFIT RESULT continued III.
+COMPONENTS OF LIFE ACHIEVED PROFIT CONTINUED Year Ended Year Ended 31 December 31 December 2002 2001 Million Million New business contribution 18.7 49.5 Profit from existing business Unwind of discount rate 34.4 29.9 Experience variances 5.5 2.3 Operating assumption changes 0.5 5.7 Investment income 2.6 2.0 Life operating achieved profit before tax 61.7 89.4 Investment return variances 32.0 9.8 Effect of economic assumption changes 2.7 0.9 Life achieved profit before tax 32.4 78.7 Attributed tax 8.8 19.2 Life achieved profit after tax 23.6 59.5 The economic assumption changes reflect the effect of the movement in the economic bases noted in the methodology and assumptions.
+The operating assumption changes reflect one off changes to other assumptions used in the calculation of the achieved profit.
+New business contribution after tax is 14.0 million 2001: 36.8 million.
+SENSITIVITIES The table below shows the impact of changes in economic assumptions on the reported value of new business and value of long-term business in-force of changes to the risk discount rate, the assumed rate of long-term investment return and market movements.
+Change in new business Change in post-tax value contribution long-term business in-force Pre-tax Post-tax Million Million Million Reported value at 31 December 2002 18.7 14.0 322.7 Risk discount rate 1% 5.4 3.8 18.0 -1% 6.0 4.2 19.0 Investment return 1% 4.0 2.8 13.6 -1% 4.0 2.8 13.0 Current withdrawal rate x110% 3.7 2.6 12.7 x90% 4.0 2.9 13.8 V. INVESTMENT RETURN ASSUMPTIONS As discussed in note II, smoothed investment return assumptions are used.
+The impact of the removal of smoothing would be to reduce the Achieved Profit from life assurance business before tax by 43.9 million 2001: 33.3 million and reduce the Achieved Profit from life assurance business after tax by 31.4 million 2001: 23.5 million.
+The impact on shareholders funds on an Achieved Profit basis of the removal of smoothing would be a reduction of 54.9 million at 31 December 2002 2001: 23.5 million.

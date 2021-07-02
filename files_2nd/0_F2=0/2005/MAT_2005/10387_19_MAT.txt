@@ -1,0 +1,362 @@
+Employee_NN
+benefits_NN
+Under_IN
+IAS_NN
+19_CD
+Pensions_NN
+are_VPRT [PASS]
+charged_VBN
+to_PIN
+the_DT
+Profit_NN
+and_PHC
+Loss_NN
+Account_NN
+using_VBG [WZPRES]
+a_DT
+different_JJ
+basis_NN
+of_PIN
+accounting_GER
+from_PIN
+SSAP_NN
+24_CD
+._.
+IAS_NN
+19_CD
+uses_VPRT
+a_DT
+balance_NN
+sheet_NN
+approach_NN
+similar_JJ
+to_PIN
+FRS_NN
+17_CD
+,_,
+the_DT
+impact_NN
+of_PIN
+which_WDT [PIRE]
+is_VPRT [PASS]
+provided_VBN
+in_PIN
+Note_NN
+26_CD
+to_PIN
+the_DT
+accounts_NN
+for_PIN
+pensions_NN
+cost_NN
+accounting_GER
+rather_RB
+than_PIN
+a_DT
+determination_NOMZ
+based_VBN [WZPAST]
+on_PIN
+long-term_JJ
+actuarial_JJ
+assumptions_NOMZ
+._.
+The_DT
+profit_NN
+and_PHC
+loss_NN
+expense_NN
+is_VPRT [PASS]
+determined_VBN [SUAV] [PRIV]
+using_VBG
+annually_RB
+derived_VBN
+assumptions_NOMZ
+as_IN
+to_PIN
+salary_NN
+inflation_NOMZ
+,_,
+investment_NOMZ
+returns_NN
+and_PHC
+discount_NN
+rates_NN
+,_,
+past_JJ
+service_NN
+costs_NN
+,_,
+net_JJ
+actuarial_JJ
+gain_NN
+loss_NN
+recognized_VBN [PRIV] [WZPAST]
+in_PIN
+year_NN
+based_VBN [WZPAST]
+on_PIN
+prevailing_VBG
+conditions_NOMZ
+at_PIN
+the_DT
+start_NN
+of_PIN
+the_DT
+year_NN
+._.
+Any_QUAN
+surplus_NN
+or_CC
+deficit_NN
+on_PIN
+defined_VBN
+benefit_NN
+schemes_NN
+at_PIN
+the_DT
+Balance_NN
+Sheet_NN
+date_NN
+is_VPRT [PASS]
+recognized_VBN [PRIV]
+in_PIN
+the_DT
+Balance_NN
+Sheet_NN
+._.
+Where_RB
+actual_JJ
+experience_NN
+differs_VPRT
+from_PIN
+the_DT
+assumptions_NOMZ
+made_VBN
+,_,
+actuarial_JJ
+gains_NN
+and_PHC
+losses_NN
+will_PRMD
+be_VB [PASS]
+recognized_VBN [PRIV]
+through_PIN
+the_DT
+Statement_NOMZ
+of_PIN
+Recognised_NN
+Income_NN
+and_PHC
+Expense_NN
+._.
+The_DT
+adoption_NOMZ
+of_PIN
+IAS_NN
+19_CD
+is_VPRT [PASS]
+not_XX0
+anticipated_VBN [PRIV]
+to_TO
+result_VB
+in_PIN
+a_DT
+significant_JJ
+change_NN
+to_TO
+operating_VBG
+profit_NN
+compared_VBN [WZPAST]
+to_PIN
+SSAP_NN
+24_CD
+for_PIN
+2005_CD
+or_CC
+2006_CD
+._.
+At_PIN
+1_CD
+April_NN
+2005_CD
+,_,
+the_DT
+gross_JJ
+value_NN
+of_PIN
+the_DT
+deficit_NN
+that_TSUB
+will_PRMD [SPAU]
+now_TIME
+be_VB [PASS]
+recognized_VBN [PRIV]
+as_IN
+a_DT
+liability_NOMZ
+in_PIN
+the_DT
+Balance_NN
+Sheet_NN
+will_PRMD
+be_VB [BEMA]
+7.6_CD
+million_CD
+with_PIN
+a_DT
+corresponding_JJ
+entry_NN
+to_TO
+reduce_VB
+Shareholders_NN
+equity_NOMZ
+._.
+Deferred_JJ
+tax_NN
+IAS_NN
+12_CD
+Income_NN
+Taxes_NN
+requires_VPRT [SUAV]
+deferred_VBN
+tax_NN
+to_TO
+be_VB [PASS]
+recognized_VBN [PRIV]
+in_PIN
+full_JJ
+._.
+The_DT
+principal_JJ
+adjustments_NOMZ
+are_VPRT [BEMA]
+in_PIN
+respect_NN
+of_PIN
+deferred_JJ
+tax_NN
+on_PIN
+pension_NN
+liabilities_NOMZ
+point_VPRT
+3_CD
+above_PLACE
+and_CC
+share_NN
+based_VBN
+payments_NOMZ
+point_VPRT
+1_CD
+above_PLACE
+._.
+The_DT
+deferred_JJ
+tax_NN
+arising_VBG [WZPRES]
+partially_DWNT
+offsets_NN
+the_DT
+adjustments_NOMZ
+above_PLACE
+and_CC
+will_PRMD
+be_VB [PASS]
+reflected_VBN [PRIV]
+as_IN
+above_PLACE
+e._NN
+g._NN
+deferred_VBN
+tax_NN
+arising_VBG [WZPRES]
+on_PIN
+pension_NN
+deficit_NN
+at_PIN
+1_CD
+April_NN
+2005_CD
+will_PRMD
+be_VB [PASS]
+reflected_VBN [PRIV]
+as_IN
+an_DT
+increase_NN
+in_PIN
+Shareholders_NN
+equity_NOMZ
+._.
+Leases_NN
+IAS_NN
+17_CD
+establishes_VPRT [PRIV]
+a_DT
+new_JJ
+methodology_NN
+to_TO
+determine_VB [SUAV] [PRIV]
+whether_IN [WHCL]
+leases_NN
+are_VPRT
+to_TO
+be_VB [PASS]
+treated_VBN
+as_IN
+operating_GER
+or_CC
+finance_NN
+leases_NN
+._.
+This_DEMO
+particularly_RB
+affects_VPRT
+leases_NN
+over_IN
+land_NN
+and_PHC
+buildings_GER
+which_WDT [WHSUB]
+must_NEMD
+be_VB [PASS]
+split_VBN
+into_PIN
+their_TPP3
+constituent_JJ
+parts_NN
+and_CC
+assessed_VBN
+separately_RB
+._.
+A_DT
+review_NN
+of_PIN
+the_DT
+Groups_NN
+portfolio_NN
+of_PIN
+operating_VBG
+leases_NN
+is_VPRT
+being_VBG [PASS]
+undertaken_VBN
+to_TO
+determine_VB [SUAV] [PRIV]
+whether_IN [WHCL]
+the_DT
+current_JJ
+operating_GER
+lease_NN
+treatment_NOMZ
+remains_VPRT
+appropriate_JJ
+under_IN
+IAS_NN
+17_CD
+._.
+MITIE_NN
+Group_NN
+PLC_NN
+Annual_JJ
+Report_NN
+2005_CD
+61_CD

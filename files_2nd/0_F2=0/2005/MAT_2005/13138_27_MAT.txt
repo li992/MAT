@@ -1,0 +1,139 @@
+159711_CD
+Reed_NN
+Report_NN
+55-102_CD
+7_CD
+3_CD
+06_CD
+12:04_CD
+Page_NN
+80_CD
+80_CD
+Combined_VBN
+financial_JJ
+statements_NOMZ
+Notes_NN
+to_PIN
+the_DT
+combined_VBN
+financial_JJ
+statements_NOMZ
+For_PIN
+the_DT
+year_NN
+ended_VBD
+31_CD
+December_NN
+2005_CD
+13_CD
+Goodwill_NN
+2005 2004 2005 2004_CD
+m_NN
+m_NN
+gm_NN
+am_VPRT [BEMA]
+At_PIN
+start_NN
+of_PIN
+year_NN
+2,611_CD
+2,437_CD
+3,682_CD
+3,461_CD
+Acquisitions_NOMZ
+182 345 266 507_CD
+Disposals_NN
+transfers_NN
+14_CD
+21_CD
+Exchange_NN
+translation_NOMZ
+differences_NN
+251 171 497 286_CD
+At_PIN
+end_NN
+of_PIN
+year_NN
+3,030_CD
+2,611_CD
+4,424_CD
+3,682_CD
+The_DT
+net_NN
+carrying_VBG [WZPRES]
+amount_NN
+of_PIN
+goodwill_NN
+under_IN
+previous_JJ
+GAAP_NN
+is_VPRT [PASS]
+deemed_VBN [PRIV]
+under_IN
+IFRS_NN
+to_TO
+be_VB [BEMA]
+the_DT
+cost_NN
+of_PIN
+goodwill_NN
+on_PIN
+transition_NOMZ
+to_PIN
+IFRS_NN
+at_PIN
+1_CD
+January_NN
+2004_CD
+._.
+The_DT
+cumulative_JJ
+amortisation_NOMZ
+deducted_VBN [WZPAST]
+in_PIN
+arriving_VBG
+at_PIN
+the_DT
+net_JJ
+carrying_GER
+amount_NN
+under_IN
+previous_JJ
+GAAP_NN
+was_VBD [BEMA]
+1,813_CD
+m_FW
+a2_FW
+,574_CD
+m._FW
+The_DT
+equivalent_JJ
+amount_NN
+at_PIN
+31_CD
+December_NN
+2005_CD
+,_,
+after_IN
+taking_VBG
+account_NN
+of_PIN
+foreign_JJ
+exchange_NN
+movements_NOMZ
+,_,
+would_PRMD
+have_VB [PEAS]
+been_VBN [BEMA]
+1,847_CD
+m_FW
+a2_FW
+,697_FW
+m_FW [BEMA]
+2004_CD
+:_:
+1,721_CD
+m_NN
+a2_NN
+,427_CD
+m._NN

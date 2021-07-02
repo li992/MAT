@@ -1,0 +1,339 @@
+C11742_CD
+Unlvr_NN
+AR_NN
+eng_FW
+181-188_CD
+._.
+qxd_NN
+8_CD
+3_CD
+05_CD
+11:08_CD
+PM_NN
+Page_NN
+181_CD
+Dividends_NN
+Our_FPP1
+interim_JJ
+ordinary_JJ
+dividends_NN
+are_VPRT [SPAU] [PASS]
+normally_RB
+announced_VBN [PUBV]
+in_PIN
+November_NN
+and_CC
+paid_VBN
+in_PIN
+December_NN
+._.
+Final_JJ
+ordinary_JJ
+dividends_NN
+are_VPRT [SPAU] [PASS]
+normally_RB
+proposed_VBN [SUAV]
+in_PIN
+February_NN
+and_CC
+,_,
+if_COND
+approved_VBN
+by_PIN
+shareholders_NN
+at_PIN
+the_DT
+Annual_JJ
+General_NN
+Meetings_GER
+,_,
+paid_VBN [PASTP]
+in_PIN
+May_POMD
+or_CC
+June_NN
+._.
+The_DT
+following_JJ
+tables_NN
+show_VPRT [PRIV] [THATD]
+the_DT
+dividends_NN
+paid_VBN [WZPAST]
+by_PIN
+NV_NN
+and_PHC
+PLC_NN
+for_PIN
+the_DT
+last_JJ
+five_CD
+years_NN
+._.
+NV_NN
+dividends_NN
+are_VPRT [BEMA]
+per_PIN
+0.51_CD
+ordinary_JJ
+share_NN
+and_PHC
+PLC_NN
+dividends_NN
+are_VPRT [BEMA]
+per_PIN
+1.4_CD
+p_NN
+ordinary_JJ
+share_NN
+and_CC
+per_PIN
+depositary_JJ
+receipt_NN
+of_PIN
+5.6_CD
+p._NN
+Dividends_NN
+for_PIN
+NV_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+translated_VBN
+into_PIN
+US_FPP1
+dollars_NN
+at_PIN
+the_DT
+exchange_NN
+rates_NN
+prevailing_VBG [WZPRES]
+on_PIN
+the_DT
+dates_NN
+of_PIN
+declaration_NOMZ
+._.
+Dividends_NN
+for_PIN
+PLC_NN
+up_IN
+to_TO
+and_CC
+including_VBG
+the_DT
+interim_JJ
+dividend_NN
+for_PIN
+2001_CD
+have_VPRT [PEAS]
+been_VBN [PASS]
+translated_VBN
+into_PIN
+US_FPP1
+dollars_NN
+at_PIN
+the_DT
+exchange_NN
+rates_NN
+prevailing_VBG [WZPRES]
+on_PIN
+the_DT
+date_NN
+of_PIN
+payment_NOMZ
+of_PIN
+the_DT
+sterling_GER
+dividends_NN
+._.
+Following_VBG [PRESP]
+a_DT
+change_NN
+in_PIN
+practice_NN
+,_,
+starting_VBG [PRESP]
+with_PIN
+the_DT
+final_JJ
+dividend_NN
+for_PIN
+2001_CD
+,_,
+PLC_NN
+dividends_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+translated_VBN
+into_PIN
+US_FPP1
+dollars_NN
+at_PIN
+the_DT
+rate_NN
+prevailing_VBG [WZPRES]
+on_PIN
+the_DT
+date_NN
+of_PIN
+declaration_NOMZ
+of_PIN
+the_DT
+dividend_NN
+._.
+The_DT
+interim_JJ
+dividend_NN
+is_VPRT [BEMA]
+normally_RB
+35_CD
+%_NN
+of_PIN
+the_DT
+previous_JJ
+years_NN
+total_JJ
+normal_JJ
+dividend_NN
+per_PIN
+share_NN
+,_,
+based_VBN [PASTP]
+on_PIN
+the_DT
+stronger_JJ
+of_PIN
+our_FPP1
+two_CD
+parent_NN
+currencies_NN
+over_IN
+the_DT
+first_JJ
+nine_CD
+months_NN
+of_PIN
+the_DT
+year_NN
+._.
+Equalisation_NOMZ
+of_PIN
+the_DT
+interim_JJ
+dividend_NN
+in_PIN
+the_DT
+other_JJ
+currency_NN
+takes_VPRT
+place_NN
+at_PIN
+the_DT
+average_JJ
+exchange_NN
+rate_NN
+of_PIN
+the_DT
+third_JJ
+quarter_NN
+._.
+Equalisation_NOMZ
+of_PIN
+the_DT
+final_JJ
+dividend_NN
+takes_VPRT
+place_NN
+at_PIN
+the_DT
+average_JJ
+exchange_NN
+rate_NN
+for_PIN
+the_DT
+full_JJ
+year_NN
+._.
+The_DT
+dividend_NN
+timetable_NN
+for_PIN
+2005_CD
+is_VPRT [PASS]
+shown_VBN [PRIV]
+on_PIN
+page_NN
+184_CD
+._.
+The_DT
+above_PLACE
+exchange_NN
+rates_NN
+were_VBD [BEMA]
+those_DEMP
+ruling_VBG [SUAV]
+on_PIN
+the_DT
+dates_NN
+of_PIN
+declaration_NOMZ
+of_PIN
+the_DT
+dividend_NN
+._.
+The_DT
+final_JJ
+euro_NN
+dividend_NN
+for_PIN
+2004_CD
+is_VPRT [BEMA]
+payable_PRED
+on_PIN
+13_CD
+June_NN
+2005_CD
+._.
+The_DT
+dollar_NN
+dividend_NN
+will_PRMD
+be_VB [PASS]
+calculated_VBN [PRIV]
+with_PIN
+reference_NN
+to_PIN
+the_DT
+exchange_NN
+rates_NN
+prevailing_VBG [WZPRES]
+on_PIN
+10_CD
+May_POMD
+2005_CD
+._.
+The_DT
+dollar_NN
+dividend_NN
+will_PRMD
+be_VB [PASS]
+calculated_VBN [PRIV]
+with_PIN
+reference_NN
+to_PIN
+the_DT
+exchange_NN
+rates_NN
+prevailing_VBG [WZPRES]
+on_PIN
+11_CD
+May_POMD
+2005_CD
+._.
+Unilever_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2004_CD
+181_CD

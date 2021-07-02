@@ -1,0 +1,94 @@
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS UNILEVER GROUP CONTINUED 16.
+TREASURY RISK MANAGEMENT DERIVATIVES AND HEDGE ACCOUNTING Derivatives are measured at fair value with any related transaction costs expensed as incurred.
+The treatment of changes in the value of derivatives depends on their use as explained below.
+a I FAIR VALUE HEDGES Certain derivatives are held to hedge the risk of changes in value of a specific bond or other loan.
+In these situations, the Group designates the liability and related derivative to be part of a fair value hedge relationship.
+The carrying value of the bond is adjusted by the fair value of the risk being hedged, with changes going to the income statement.
+Gains and losses on the corresponding derivative are also recognised in the income statement.
+The amounts recognised are offset in the income statement to the extent that the hedge is effective.
+When the relationship no longer meets the criteria for hedge accounting, the fair value hedge adjustment made to the bond is amortised to the income statement using the effective interest method.
+a II CASH FLOW HEDGES Derivatives are also held to hedge the uncertainty in timing or amount of future forecast cash flows.
+Such derivatives are classified as being part of cash flow hedge relationships.
+For an effective hedge, gains and losses from changes in the fair value of derivatives are recognised in equity.
+Any ineffective elements of the hedge are recognised in the income statement.
+If the hedged cash flow relates to a non-financial asset, the amount accumulated in equity is subsequently included within the carrying value of that asset.
+For other cash flow hedges, amounts deferred in equity are taken to the income statement at the same time as the related cash flow.
+When a derivative no longer qualifies for hedge accounting, any cumulative gain or loss remains in equity until the related cash flow occurs.
+When the cash flow takes place, the cumulative gain or loss is taken to the income statement.
+If the hedged cash flow is no longer expected to occur, the cumulative gain or loss is taken to the income statement immediately.
+a III NET INVESTMENT HEDGES Certain derivatives are designated as hedges of the currency risk on the Groups investment in foreign subsidiaries.
+The accounting policy for these arrangements is set out in note 1.
+IV DERIVATIVES FOR WHICH HEDGE ACCOUNTING IS NOT APPLIED Derivatives not classified as hedges are held in order to hedge certain balance sheet items and commodity exposures.
+No hedge accounting is applied to these derivatives, which are carried at fair value with changes being recognised in the income statement.
+a Applying hedge accounting has not led to material ineffectiveness being recognised in the income statement for both 2013 and 2014.
+The Group is exposed to the following risks that arise from its use of financial instruments, the management of which is described in the following sections: liquidity risk see note 16A : market risk see note 16B : and credit risk see note 17B.
+MANAGEMENT OF LIQUIDITY RISK Liquidity risk is the risk that the Group will face in meeting its obligations associated with its financial liabilities.
+The Groups approach to managing liquidity is to ensure that it will have sufficient funds to meet its liabilities when due without incurring unacceptable losses.
+In doing this, management considers both normal and stressed conditions.
+A material and sustained shortfall in our cash flow could undermine the Groups credit rating, impair investor confidence and also restrict the Groups ability to raise funds.
+The Group maintained a cautious funding strategy, with a positive cash balance throughout 2014.
+This was the result of cash delivery from the business, coupled with the proceeds from bond issuances.
+This cash has been invested conservatively with low risk counterparties at maturities of less than six months.
+Cash flow from operating activities provides the funds to service the financing of financial liabilities on a day-to-day basis.
+The Group seeks to manage its liquidity requirements by maintaining access to global debt markets through short-term and long-term debt programmes.
+In addition, Unilever has committed credit facilities for general corporate use.
+On 31 December 2014 Unilever had undrawn revolving 364-day bilateral credit facilities in aggregate of US $6,550 million 2013: US $6,400 million with a 364-day term out.
+As part of the regular annual process the intention is that these facilities will again be renewed in 2015.
+114 Financial statements Unilever Annual Report and Accounts 2014 16A.
+MANAGEMENT OF LIQUIDITY RISK CONTINUED The following table shows Unilevers contractually agreed undiscounted cash flows, including expected interest payments, which are payable under financial liabilities at the balance sheet date: million million million million million million million million Net carrying Due Due Due Due amount as Due between between between between Due shown in within 1 and 2 and 3 and 4 and after balance Undiscounted cash flows Notes 1 year 2 years 3 years 4 years 5 years 5 years Total sheet 2014 Non-derivative financial liabilities: Preference shares 4 4 4 4 4 72 92 68 Bank loans and overdrafts 601 257 272 1,130 1,114 Bonds and other loans 4,758 647 1,289 511 1,418 4,513 13,136 10,573 Finance lease creditors 20 25 48 23 19 18 172 305 199 Other financial liabilities 230 188 418 418 Trade payables excluding social security and sundry taxes 14 12,051 378 12,429 12,429 Issued financial guarantees 11 11 17,680 1,334 1,588 534 1,440 4,945 27,521 24,801 Derivative financial liabilities: Interest rate derivatives: Derivative contracts receipts 289 229 230 17 765 Derivative contracts payments 429 255 277 19 980 Foreign exchange derivatives: Derivative contracts receipts 9,957 2 347 10,306 Derivative contracts payments 10,284 2 304 10,590 Commodity derivatives: Derivative contracts receipts 405 405 Derivative contracts payments 421 421 483 26 47 41 515 514 Total 18,163 1,360 1,635 493 1,440 4,945 28,036 25,315 2013 Non-derivative financial liabilities: Preference shares 4 4 4 4 4 72 92 68 Bank loans and overdrafts 515 42 256 274 1 1,088 1,067 Bonds and other loans 3,333 1,607 571 1,186 165 5,326 12,188 9,594 Finance lease creditors 20 25 24 43 22 18 180 312 204 Other financial liabilities 269 269 269 Trade payables excluding social security and sundry taxes 14 11,104 296 11,400 11,400 Issued financial guarantees 12 12 15,262 1,973 874 1,486 188 5,578 25,361 22,602 Derivative financial liabilities: Interest rate derivatives: Derivative contracts receipts 275 194 167 1 637 Derivative contracts payments 312 256 207 1 776 Foreign exchange derivatives: Derivative contracts receipts 18,186 18,186 Derivative contracts payments 18,415 18,415 Commodity derivatives: Derivative contracts receipts 86 86 Derivative contracts payments 89 89 269 62 40 371 395 Total 15,531 2,035 914 1,486 188 5,578 25,732 22,997 Unilever Annual Report and Accounts 2014 Financial statements 115 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS UNILEVER GROUP CONTINUED 16A.
+MANAGEMENT OF LIQUIDITY RISK CONTINUED The following table shows cash flows for which cash flow hedge accounting is applied.
+The derivatives in the cash flow hedge relationships are expected to have an impact on profit and loss in the same periods as the cash flows occur.
+million million million million million million million million Net Due Due Due Due carrying Due between between between between Due amount of within 1 and 2 2 and 3 3 and 4 4 and 5 after related a 1 year years years years years 5 years Total derivatives 2014 Foreign exchange cash inflows 1,506 2 347 1,855 Foreign exchange cash outflows 1,503 2 304 1,809 34 Interest rate cash flows 97 97 100 Commodity contracts cash flows 421 421 15 2013 Foreign exchange cash inflows 1,088 1,088 Foreign exchange cash outflows 509 509 1 Interest rate cash flows 2 111 2 1 116 41 Commodity contracts cash flows 313 313 14 a See note 16C on page 118.
+MANAGEMENT OF MARKET RISK Unilevers size and operations result in it being exposed to the following market risks that arise from its use of financial instruments: commodity price risk: currency risk: and interest rate risk.
+The above risks may affect the Groups income and expenses, or the value of its financial instruments.
+The objective of the Groups management of market risk is to maintain this risk within acceptable parameters, while optimising returns.
+Generally, the Group applies hedge accounting to manage the volatility in profit and loss arising from market risk.
+The Groups exposure to, and management of, these risks is explained below.
+It often includes derivative financial instruments, the uses of which are described in note 16C.
+POTENTIAL IMPACT OF RISK MANAGEMENT POLICY AND SENSITIVITY TO THE RISK HEDGING STRATEGY I COMMODITY PRICE RISK The Group is exposed to the risk of The Group uses commodity forward A 10% increase in commodity prices as changes in commodity prices in relation contracts to hedge against this risk.
+at 31 December 2014 would have led to to its purchase of certain raw materials.
+All commodity forward contracts hedge an 18 million gain on the commodity future purchases of raw materials and derivatives in the cash flow hedge reserve At 31 December 2014, the Group had the contracts are settled either in cash 2013: 32 million gain in the cash flow hedged its exposure to future commodity or by physical delivery.
+A decrease of 10% in purchases for 197 million 2013: 318 commodity prices on a full-year basis million with commodity derivatives.
+Commodity derivatives are generally would have the equal but opposite effect.
+designated as hedging instruments in cash flow hedge accounting relations.
+All commodity forward contracts are done in line with approvals from the Global Commodity Executive which is chaired by the Unilever Chief Supply Chain Officer CSCO.
+II CURRENCY RISK Currency risk on sales, purchases The Group manages currency exposures As an estimation of the approximate impact and borrowings within prescribed limits, mainly through the of the residual risk, with respect to financial use of forward foreign currency exchange instruments, the Group has calculated the Because of Unilevers global reach, it is contracts.
+impact of a 10% change in exchange rates.
+subject to the risk that changes in foreign currency values impact the Groups sales, Operating companies manage foreign purchases and borrowings.
+exchange exposures within prescribed limits.
+Local compliance is monitored centrally.
+116 Financial statements Unilever Annual Report and Accounts 2014 16B.
+MANAGEMENT OF MARKET RISK CONTINUED POTENTIAL IMPACT OF RISK MANAGEMENT POLICY AND SENSITIVITY TO THE RISK HEDGING STRATEGY At 31 December 2014, the unhedged Exchange risks related to the principal A 10% strengthening of the euro against key exposure to the Group from companies amounts of the US $ and Swiss franc currencies to which the Group is exposed holding financial assets and liabilities other denominated debt either form part of hedging would have led to approximately an than in their functional currency amounted relationships themselves, or are hedged additional 8 million gain in the income to 76 million 2013: 44 million.
+A 10% weakening of the euro against these The aim of the Groups approach to currencies would have led to an equal but management of currency risk is to leave the opposite effect.
+Group with no material residual risk.
+This aim has been achieved in all years presented.
+Currency risk on the Groups net Unilever aims to minimise this foreign A 10% strengthening of the euro against investments investment exchange exposure by borrowing all other currencies would have led to a in local currency in the operating companies 946million negative retranslation effect The Group is also subject to exchange risk themselves.
+In some locations, however, the 2013: 313 million negative retranslation in relation to the translation of the net Groups ability to do this is inhibited by local effect.
+A 10% weakening of the euro against investments of its foreign operations into regulations, lack of local liquidity or by local those currencies would have led to a euros for inclusion in its consolidated market conditions.
+1,157million positive retranslation effect financial statements.
+2013: 382 million positive retranslation Where the residual risk from these countries effect.
+In line with accepted hedge These net investments include Group exceeds prescribed limits, Treasury may accounting treatment and our accounting financial loans which are monetary items decide on a case-by-case basis to actively policy for financial loans, the retranslation that form part of our net investment in hedge the exposure.
+This is done either differences would be recognised in equity.
+foreign operations, of 7.0 billion 2013: through additional borrowings in the related 0.8 billion, of which 4.0 billion 2013: 0 currency, or through the use of forward is denominated in GBP.
+In accordance with foreign exchange contracts.
+IAS 21, the exchange differences on these financial loans are booked through Where local currency borrowings, or forward reserves.
+contracts, are used to hedge the currency risk in relation to the Groups net investment Part of the currency exposure on the in foreign subsidiaries, these relationships Groups investments is also managed using are designated as net investment hedges for net investment hedges with a nominal value accounting purposes.
+Most of these hedges were US $ contracts.
+At 31 December 2014, the net exposure of the net investments in foreign currencies amounts to 10.4 billion 2013 3.4 billion.
+a III INTEREST RATE RISK The Group is exposed to market interest Unilevers interest rate management Assuming that all other variables remain rate fluctuations on its floating rate debt.
+approach aims for an optimal balance constant, a 1.0 percentage point increase Increases in benchmark interest rates between fixed and floating-rate interest in floating interest rates on a full-year basis could increase the interest cost of our rate exposures on expected net debt.
+The as at 31 December 2014 would have led to floating-rate debt and increase the cost of objective of this approach is to minimise an additional 26 million of finance costs future borrowings.
+The Groups ability to annual interest costs after tax and to 2013: 7 million additional finance costs.
+manage interest costs also has an impact reduce volatility.
+A 1.0 percentage point decrease in floating on reported results.
+interest rates on a full-year basis would This is achieved either by issuing fixed or have an equal but opposite effect.
+Taking into account the impact of interest floating-rate long-term debt, or by modifying rate swaps, at 31 December 2014, interest interest rate exposure through the use of Assuming that all other variables remain rates were fixed on approximately 70% of interest rate swaps.
+constant, a 1.0 percentage point increase the expected net debt for 2015, and 67% in floating interest rates on a full-year basis for 2016 87% for 2014 and 79% for 2015 Furthermore, Unilever has interest rate as at 31 December 2014 would have led to at 31December 2013. swaps for which cash flow hedge accounting an additional 39 million credit in equity is applied.
+from derivatives in cash flow hedge The average interest rate on short-term relationships 2013: 36 million credit.
+A 1.0 percentage point decrease in floating interest rates on a full-year basis would have led to an additional 42 million debit in equity from derivatives in cash flow hedge relationships 2013: 39 million debit.
+a See the split in fixed and floating-rate interest in the following table.
+Unilever Annual Report and Accounts 2014 Financial statements 117 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS UNILEVER GROUP CONTINUED 16B.
+MANAGEMENT OF MARKET RISK CONTINUED The following table shows the split in fixed and floating rate interest exposures, taking into account the impact of interest rate swaps and cross-currency swaps: million million 2014 2013 Cash and cash equivalents 2,151 2,285 Current other financial assets 671 760 Current financial liabilities 5,536 4,010 Non-current financial liabilities 7,186 7,491 Net debt 9,900 8,456 Of which: Fixed rate weighted average amount of fixing for the following year 7,297 7,764 Floating rate 2,603 692 9,900 8,456 16C.
+DERIVATIVES AND HEDGING The Group does not use derivative financial instruments for speculative purposes.
+The uses of derivatives and the related values of derivatives are summarised in the following table: million million million million million million Other Trade NonTrade current payables Current current and other financial and other financial financial receivables assets liabilities liabilities liabilities Total 31 December 2014 Foreign exchange derivatives Fair value hedges 6 1 5 Cash flow hedges 9 28 3 34 a Hedges of net investments in foreign operations 356 23 333 a Hedge accounting not applied 106 225 44 196 359 Cross-currency swaps Hedge accounting not applied 137 58 71 8 Interest rate swaps Fair value hedges 2 2 Cash flow hedges 100 100 Hedge accounting not applied Commodity contracts Cash flow hedges 15 15 Hedge accounting not applied 1 1 121 296 164 277 73 97 Total assets 417 Total liabilities 514 97 31 December 2013 Foreign exchange derivatives Fair value hedges 2 6 4 Cash flow hedges 16 15 1 Hedges of net investments in foreign operations 4 69 65 Hedge accounting not applied 48 116 32 98 34 Cross-currency swaps Hedge accounting not applied 174 32 100 42 Interest rate swaps Fair value hedges Cash flow hedges 41 41 Hedge accounting not applied Commodity contracts Cash flow hedges 16 2 14 Hedge accounting not applied 82 294 96 199 100 19 Total assets 376 Total liabilities 395 19 a Swaps that hedge the currency risk on intra-group loans and offset 356 million within Hedges of net investments in foreign operations are included within Hedge Accounting not applied.
+118 Financial statements Unilever Annual Report and Accounts 2014

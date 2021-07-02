@@ -1,0 +1,19 @@
+cross_NN reference_NN guide_NN to_TO form_VB 20-F_JJ CROSS_NNS REFERENCE_NN GUIDE_NNP TO_TO FORM_NNP 20-F_NNP Item_NNP Page_NNP 1_CD ._.
+Identity_NN of_IN directors_NNS ,_, senior_JJ management_NN and_CC advisers_NNS n_VBP a_DT 2_CD ._.
+Offer_NN statistics_NNS and_CC expected_VBN timetable_NN n_NN a_DT 3_CD ._.
+Key_NNP information_NN Selected_VBN financial_JJ data_NNS 43_CD Exchange_NNP rates_NNS 151_CD Capitalisation_NNP and_CC indebtedness_NN n_VBP a_DT Reasons_NNS for_IN offer_NN and_CC use_NN of_IN proceeds_NNS n_VBP a_DT Risk_NN factors_NNS 47_CD 4_CD ._.
+Information_NN on_IN the_DT company_NN History_NN and_CC development_NN of_IN the_DT company_NN 6_CD Principal_NN capital_NN expenditure_NN 8_CD Business_NN overview_NN 8_CD Organisational_NNP structure_NN 8_CD Property_NN ,_, plant_NN and_CC equipment_NN 14_CD and_CC 17_CD 5_CD ._.
+Operating_NN and_CC financial_JJ review_NN and_CC prospects_NNS Operating_VBG results_NNS 24_CD Liquidity_NN and_CC capital_NN resources_NNS 38_CD Research_NNP and_CC development_NN ,_, patents_NNS and_CC licences_NNS etc_FW n_FW a_DT Trend_NNP information_NN 4_CD and_CC 5_CD Off-balance_JJ sheet_NN arrangements_NNS 40_CD Tabular_JJ disclosure_NN of_IN contractual_JJ obligations_NNS 40_CD 6_CD ._.
+Directors_NNS ,_, senior_JJ management_NN and_CC employees_NNS Directors_NNS and_CC senior_JJ management_NN 57_CD Compensation_NNP 66_CD Board_NNP practices_NNS 61_CD Employees_NNS 55_CD Share_NN ownership_NN 73_CD 7_CD ._.
+Major_JJ shareholders_NNS and_CC related_VBN party_NN transactions_NNS Major_JJ shareholders_NNS 60_CD Related_VBN party_NN transactions_NNS 60_CD Interests_NNS of_IN experts_NNS and_CC counsel_NN n_VBP a_DT 8_CD ._.
+Financial_NNP information_NN Consolidated_NNP accounts_NNS and_CC other_JJ financial_JJ information_NN See_VB item_NN 17_CD Legal_NNP proceedings_NNS 18_CD Dividend_NN policy_NN 59_CD significant_JJ changes_NNS 4_CD and_CC 5_CD 9_CD ._.
+The_DT offer_NN and_CC listing_NN Offer_NN and_CC listing_NN details_NNS price_NN history_NN of_IN stock_NN 149_CD Plan_NN of_IN distribution_NN n_VBD a_DT Markets_NNP 149_CD Selling_VBG shareholders_NNS n_VBP a_DT Dilution_NN n_VBD a_DT Expenses_NNS of_IN the_DT issue_NN n_VBD a_DT Page_NNP 155_CD cross_NN reference_NN guide_NN to_TO form_VB 20-F_JJ Item_NNP Page_NNP 10_CD ._.
+Additional_JJ information_NN Share_NN capital_NN n_VBD a_DT Memorandum_NNP and_CC Articles_NNPS of_IN Association_NNP 154_CD Material_NNP contracts_NNS 154_CD Exchange_NNP controls_NNS 151_CD Taxation_NNP 152_CD Dividends_NNPS and_CC paying_VBG agents_NNS n_VBP a_DT Statement_NN by_IN experts_NNS n_VBP a_DT Documents_NNS on_IN display_NN led_VBD separately_RB Subsidiary_JJ information_NN n_VBD a_DT 11_CD ._.
+Quantitative_JJ and_CC qualitative_JJ disclosures_NNS about_IN market_NN risk_NN 41_CD 12_CD ._.
+Description_NN of_IN securities_NNS other_JJ than_IN equity_NN securities_NNS n_VBP a_DT 13_CD ._.
+Defaults_NNS ,_, dividend_NN arrearages_NNS and_CC delinquencies_NNS n_VBP a_DT 14_CD ._.
+Material_NNP modications_NNS to_TO the_DT rights_NNS of_IN security_NN holders_NNS and_CC use_NN of_IN proceeds_NNS n_VBP a_DT 15_CD ._.
+Principal_NN accountant_NN fees_NNS and_CC services_NNS 101_CD 16D_CD ._.
+Exemptions_NNS from_IN the_DT listing_NN standards_NNS for_IN audit_NN committees_NNS n_VBP a_DT 16E_NNP ._.
+Purchases_NNS of_IN equity_NN securities_NNS by_IN the_DT issuer_NN and_CC afliated_JJ purchasers_NNS n_VBP a_DT 17_CD ._.
+Exhibits_NNS Filed_VBN separately_RB with_IN the_DT Securities_NNPS and_CC Exchange_NNP Commission_NNP Page_NNP 156_CD

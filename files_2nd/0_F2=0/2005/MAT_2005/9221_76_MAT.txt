@@ -1,0 +1,200 @@
+16_CD
+Contingencies_NN
+The_DT
+following_JJ
+contingent_NN
+liabilities_NOMZ
+exist_VPRT
+at_PIN
+31_CD
+December_NN
+2005_CD
+:_:
+Guarantees_NN
+have_VPRT [PEAS]
+been_VBN [BYPA]
+given_VBN
+by_PIN
+the_DT
+parent_NN
+Company_NN
+in_PIN
+the_DT
+ordinary_JJ
+course_NN
+of_PIN
+business_NOMZ
+in_PIN
+respect_NN
+of_PIN
+loans_NN
+granted_VBN [SUAV] [WZPAST]
+to_PIN
+subsidiaries_NN
+amounting_VBG [WZPRES]
+to_PIN
+1,319.0_CD
+m_NN [BEMA]
+2004_CD
+:_:
+1,382.5_CD
+m._FW
+Guarantees_NN
+have_VPRT [SPAU] [PEAS]
+also_RB
+been_VBN [BYPA]
+given_VBN
+by_PIN
+the_DT
+parent_NN
+Company_NN
+in_PIN
+the_DT
+ordinary_JJ
+course_NN
+of_PIN
+business_NOMZ
+in_PIN
+respect_NN
+of_PIN
+rent_NN
+liabilities_NOMZ
+of_PIN
+subsidiaries_NN
+,_,
+rent_VB
+liabilities_NOMZ
+related_VBN
+to_TO
+presently_TIME
+or_CC
+formerly_TIME
+owned_VBN
+freehold_NN
+and_PHC
+leasehold_NN
+properties_NN
+of_PIN
+third_JJ
+party_NN
+tenants_NN
+,_,
+and_ANDC
+performance_NN
+undertakings_GER
+on_PIN
+contracts_NN
+entered_VBN [WZPAST]
+into_PIN
+by_PIN
+subsidiaries_NN
+._.
+Following_VBG [PRESP]
+the_DT
+disposal_NN
+of_PIN
+the_DT
+hotel_NN
+business_NOMZ
+these_DEMO
+guarantees_NN
+will_PRMD
+remain_VB
+with_PIN
+the_DT
+Group_NN
+._.
+HHC_NN
+has_VPRT [PEAS]
+indemnified_VBN
+the_DT
+Group_NN
+for_PIN
+any_QUAN
+liabilities_NOMZ
+arising_VBG [WZPRES]
+from_PIN
+the_DT
+guarantees_NN
+._.
+In_CONJ
+addition_NULL
+,_,
+subsidiaries_NN
+have_VPRT [PEAS]
+guaranteed_VBN [PUBV]
+loans_NN
+of_PIN
+3.5_CD
+m_NN [BEMA]
+2004_CD
+:_:
+17.3_CD
+m_NN [PASS]
+given_VBN [WZPAST]
+in_PIN
+the_DT
+normal_JJ
+course_NN
+of_PIN
+business_NOMZ
+to_PIN
+subsidiary_NN
+companies_NN
+and_PHC
+companies_NN
+in_PIN
+which_WDT [PIRE]
+they_TPP3
+hold_VPRT [PRIV]
+minority_NOMZ
+equity_NOMZ
+investments_NOMZ
+._.
+17_CD
+Post_NN
+balance_NN
+sheet_NN
+events_NN
+At_PIN
+an_DT
+Extraordinary_JJ
+General_NN
+Meeting_VBG [WZPRES]
+of_PIN
+the_DT
+Company_NN
+on_PIN
+27_CD
+January_NN
+2006_CD
+,_,
+the_DT
+shareholders_NN
+voted_VBD [SUAV]
+to_TO
+approve_VB
+the_DT
+disposal_NN
+of_PIN
+the_DT
+Hilton_NN
+International_NN
+Hotels_NN
+Division_NN
+to_PIN
+HHC_NN
+._.
+Completion_NOMZ
+of_PIN
+the_DT
+disposal_NN
+is_VPRT [PASS]
+expected_VBN [PRIV]
+in_PIN
+the_DT
+first_JJ
+quarter_NN
+of_PIN
+2006_CD
+._.

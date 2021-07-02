@@ -1,0 +1,66 @@
+Diluted_JJ
+loss_NN
+earnings_GER
+per_PIN
+10p_JJ
+ordinary_JJ
+share_NN
+Relates_VPRT
+to_PIN
+Hygena_NN
+Cuisines_NN
+see_VPRT [PRIV]
+note_NN
+28_CD
+._.
+Included_VBN [PASTP]
+within_PIN
+selling_GER
+and_PHC
+distribution_NOMZ
+costs_NN
+line_NN
+in_PIN
+the_DT
+exceptional_JJ
+items_NN
+column_NN
+are_VPRT [BEMA]
+0.3_CD
+m_NN [BEMA]
+of_PIN
+costs_NN
+relating_VBG [WZPRES]
+to_PIN
+the_DT
+discontinued_VBN
+operations_NOMZ
+2004_CD
+:_:
+0.4_CD
+m._FW
+Included_VBN
+within_PIN
+profit_NN
+and_PHC
+loss_NN
+on_PIN
+disposals_NN
+is_VPRT [BEMA]
+a_DT
+loss_NN
+on_PIN
+disposal_NN
+of_PIN
+assets_NN
+relating_VBG [WZPRES]
+to_TO
+discontinued_VBN
+operations_NOMZ
+of_PIN
+0.2_CD
+m_NN [BEMA]
+2004_CD
+:_:
+0.2_CD
+m._NN

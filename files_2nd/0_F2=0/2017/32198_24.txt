@@ -1,0 +1,444 @@
+Notes to the consolidated financial statements General information AutoTrader Group plc is a public limited company which is listed on the London Stock Exchange and is domiciled and incorporated in the United Kingdom under the Companies Act 2006.
+The address of the registered office is given on the inside back cover.
+Accounting policies Basis of preparation The principal accounting policies applied in the preparation of the consolidated financial statements are set out below.
+These policies have been consistently applied to all the periods presented, unless otherwise stated.
+The financial information presented is at and for the 364 day 52 week period ended 27 March 2016 and for the 369 day period ended 31 March 2017.
+Due to the publishing heritage of the business, results have historically been reported on a 52 week basis, with the accounting period ending on the closest Sunday to 31 March.
+The Board made the decision to change the period end date to be 31 March every year, starting in 2017, to better align with our customers needs and to the products and services we offer.
+As a consequence of this change, the 2017 financial year was five days longer than the previous year.
+Financial year ends have been referred to as 31 March throughout these consolidated financial statements as per the Companys accounting reference date.
+Financial years are referred to as 2016 and 2017 in these consolidated financial statements.
+The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as adopted by the European Union EU, IFRS Interpretation Committee IFRS IC, certain interpretations as adopted by the EU, and the Companies Act 2006 applicable to companies reporting under IFRS.
+The consolidated financial statements have been prepared on the going concern basis and under the historical cost convention, as modified by the revaluation of certain financial assets and financial liabilities including derivative instruments at fair value through profit or loss.
+Going concern The Directors, after making enquiries and on the basis of current financial projections and facilities available, believe that the Group has adequate financial resources to continue in operation for a period not less than 12 months from the date of this report.
+For this reason, they continue to adopt the going concern basis in preparing the financial statements.
+Accounting estimates and judgements The preparation of financial statements in conformity with IFRS requires the use of certain accounting estimates and assumptions.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies.
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+There are no accounting estimates or judgements which are critical to the reporting of results of operations and financial position.
+The accounting estimates believed to require the most difficult, subjective or complex judgements are as follows: carrying values of goodwill: and share-based payments.
+The Group tests annually whether goodwill has suffered any impairment in accordance with the accounting policy stated.
+The recoverable amounts of cash-generating units have been determined based on value-in-use calculations, which require the use of estimates, see note 10.
+Share-based payment arrangements in which the Group receives goods or services as consideration for its own equity instruments are accounted for as equity-settled share-based payment transactions.
+The fair value of services received in return for share options is calculated with reference to the fair value of the award on the date of grant.
+Black-Scholes and Monte Carlo models have been used where appropriate to calculate the fair value and the Directors have therefore made estimates with regards to the inputs to that model and the period over which the share award is expected to vest note 26.
+84 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements New accounting standards and IFRS IC interpretations The Group has adopted the following new and amended IFRSs in 2017 in the consolidated financial statements with no significant impact on its consolidated results or financial position: Annual improvements to IFRSs 2012-2014 Amendment to IFRS 11, Joint arrangements on acquisition of an interest in a joint operation Amendment to IAS 16, Property, plant and equipment and IAS 38, Intangible assets, on depreciation and amortisation Amendments to IAS 27, Separate financial statements on equity accounting Amendments to IFRS 10, Consolidated financial statements and IAS 28, Investments in associates and joint ventures on applying the consolidation exemption Amendments to IAS 1, Presentation of financial statements disclosure initiative The following standards and interpretations were issued by the IASB but have not been adopted either because they were not endorsed by the EU at 31 March 2017 or they are not yet mandatory and the Group has not chosen to early-adopt them: IFRS 9, Financial Instruments effective 1 January 2018.
+This will simplify the classification of financial assets for measurement purposes, but is not anticipated to have a significant impact on the financial statements.
+IFRS 15, Revenue from Contracts with customers effective 1 January 2018 and Clarifications to IFRS 15 not yet EU endorsed.
+The Group intends to adopt IFRS 15 in its financial statements for the year ending 31 March 2019.
+Under IFRS 15, revenue will be recognised when performance obligations are satisfied.
+The Group does not anticipate that this change will have a material impact on the Group consolidated results or financial position.
+IFRS 16, Leases effective 1 January 2019, not yet EU endorsed.
+The Group intends to adopt IFRS 16 in its financial statements for the year ending 31 March 2020.
+This standard will significantly affect the presentation of the Group financial statements, with all leases apart from short-term leases being recognised as on-balance sheet finance leases with a corresponding liability being the present value of lease payments.
+Amendments to IFRS 2 Classification and Measurement of Share-Based payments transactions not yet EU endorsed.
+This standard is not anticipated to have a significant impact on the financial statements.
+Basis of consolidation The Groups consolidated financial statements consolidate the financial statements of AutoTrader Group plc and all of its subsidiary undertakings.
+Subsidiaries are all entities including structured entities over which the Group has control.
+The Group controls an entity when the Group is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity.
+Subsidiaries are fully consolidated from the date on which control is transferred to the Group.
+They are fide-consolidated from the date that control ceases.
+The purchase method of accounting is used to account for the acquisition of subsidiaries by the Group.
+The cost of an acquisition is measured as the fair value of the assets given, equity instruments issued and liabilities incurred or assumed at the date of exchange.
+Costs directly attributable to the acquisition are expensed.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition date, irrespective of the extent of any non-controlling interest.
+The excess of the consideration transferred, the amount of any non-controlling interest in the acquiree and the acquisition-date fair value of any previous equity interest in the acquiree over the fair value of the identifiable net assets acquired is recorded as goodwill.
+If the total of consideration transferred, non-controlling interest recognised and previously held interest measured is less than the fair value of the net assets of the subsidiary acquired in the case of a bargain purchase, the difference is recognised directly in the income statement.
+Intercompany transactions and balances between Group companies are eliminated on consolidation.
+Associates are all entities over which the Group has significant influence but not control, generally accompanying a shareholding of between 20% and 50% of the voting rights.
+Where significant influence is not demonstrated but the shareholding is between 20% and 50% the Group would account for its interest as an investment.
+All investments are initially recognised at cost and the carrying value is reviewed for impairment.
+Auto Trader Group plc Annual Report and Financial Statements 2017 85 Notes to the consolidated financial statements continued 1.
+Accounting policies continued Segment reporting Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decision-maker.
+The chief operating decision-maker, who is responsible for allocating resources and assessing performance of the operating segments, has been identified as the Operational Leadership Team that makes strategic decisions note 3.
+Revenue recognition Revenue comprises the fair value of the consideration received or receivable for the sale of goods and services in the ordinary course of the Groups activities.
+Revenue is stated net of discounts, rebates, refunds and value-added tax.
+The Group recognises revenue when the amount of revenue can be reliably measured, it is probable that future economic benefits will flow to the entity and when specific criteria have been met for each of the Groups activities as described below.
+The Group bases its estimates on historical results, taking into consideration the type of customer, the type of transactions and the specifics of each arrangement.
+Revenue is recognised as follows: Trade revenue: fees from retailer and home trader customers for advertising on the Groups websites and web-related activities are recognised on a straight-line basis as the service is provided.
+Retailer website build and hosting subscription fees, maintenance contracts and other subscription fees are recognised on a straight-line basis over the period to which they relate.
+Consumer services revenue: fees from private sellers for advertising on the Groups websites are recognised on a straight-line basis as the service is provided.
+Revenues from third-party partners who provide services to consumers relating to their motoring needs, such as insurance and loan finance, are recognised as the service is provided.
+Display advertising : revenue from manufacturers and their advertising agencies for placing display advertising on the Groups websites is recognised on a straight-line basis as the service is provided.
+Dividend distribution Dividend distribution to the Companys shareholders is recognised as a liability in the Groups financial statements in the period in which the dividend is approved by the Companys shareholders in the case of final dividends, or the date at which they are paid in the case of interim dividends.
+86 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements Employee benefits The Group operates several pension schemes and all except one are defined contribution schemes.
+Within the UK all pension schemes set up prior to 2001 have been closed to new members and only one defined contribution scheme is now open to new employees.
+a Defined contribution scheme The assets of the defined contribution scheme are held separately from those of the Group in independently administered funds.
+The costs in respect of this scheme are charged to the income statement as incurred.
+b Defined benefit scheme The Group operates one defined benefit pension scheme that is closed to new members.
+The asset or liability recognised in the balance sheet in respect of the defined benefit scheme is the present value of the defined benefit obligation at the balance sheet date less the fair value of the schemes assets.
+The defined benefit obligation is calculated annually by independent actuaries using the projected unit credit method.
+The present value of the defined benefit obligation is determined by discounting the estimated future cash outflows using interest rates of high-quality corporate bonds that are denominated in the currency in which the benefits will be paid, and that have terms to maturity approximating those of the related pension liability.
+Remeasurement gains and losses arising from experience adjustments and changes in actuarial assumptions are charged or credited to equity in other comprehensive income in the period in which they arise.
+Any scheme surplus to the extent it can be recovered or deficit is recognised in full on the balance sheet.
+c Share-based payments Equity-settled awards are valued at grant date, and the difference between the grant date fair value and the consideration paid by the employee is charged as an expense in the income statement spread over the vesting period.
+Fair value of the awards are measured using Black-Scholes and Monte Carlo pricing models.
+The credit side of the entry is recorded in equity.
+Cash-settled awards are revalued at each reporting date with the fair value of the award charged to the profit and loss account over the vesting period and the credit side of the entry recognised as a liability.
+Non-underlying items Significant items of income and expense that do not relate to the trading of the Group are disclosed as non-underlying.
+Examples of such items are exceptional items and share-based payments and associated NI.
+Exceptional items Significant non-recurring items of income and expense are disclosed as exceptional items.
+Examples of items that may give rise to disclosure as exceptional items include costs of major restructuring and reorganisation of the business, corporate refinancing and restructuring costs, gains on the early extinguishment of borrowings or impairments of intangible assets, property, plant and equipment, as well as the reversal of such writedowns or impairments, material disposals of property, plant and equipment and litigation settlements.
+A full analysis of exceptional items is provided in note 4.
+Foreign currency translation a Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates.
+The consolidated financial statements are presented in sterling, which is the Groups presentation currency, and rounded to the nearest hundred thousand 0.1m except when otherwise indicated.
+b Transactions and balances Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation at the period end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in the income statement within administrative expenses.
+c Group companies The results and financial position of all Group entities none of which has the currency of a hyper-inflationary economy that have a functional currency other than sterling are translated into sterling as follows: assets and liabilities for each balance sheet presented are translated at the closing rate at the date of that balance sheet: and income and expenses for each income statement are translated at average exchange rates.
+On the disposal of a foreign operation, the cumulative exchange differences that were recorded in equity are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+Auto Trader Group plc Annual Report and Financial Statements 2017 87 Notes to the consolidated financial statements continued 1.
+Accounting policies continued Intangible assets a Goodwill Goodwill represents the excess cost of an acquisition over the fair value of the Groups share of the net identifiable assets of the acquired subsidiary at the date of acquisition.
+Goodwill is tested annually for impairment and is carried at cost less accumulated impairment losses.
+Impairment losses are charged to the income statement and are not reversed.
+The gain or loss on the disposal of an entity includes the carrying amount of goodwill relating to the entity sold.
+Goodwill is allocated to cash-generating units for the purpose of impairment testing.
+The allocation is made to those cash-generating units that are expected to benefit from the business combination in which the goodwill arose.
+b Trademarks, trade names, technology and customer relationships Separately acquired trademarks, trade names, technology and customer relationships are recognised at historical cost.
+They have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation is calculated using the straight-line method to allocate the cost over their estimated useful lives of between one and 15 years.
+Trademarks, trade names, technology and customer relationships acquired in a business combination are recognised at fair value at the acquisition date and subsequently amortised.
+c Software Acquired computer software is capitalised at cost, including any costs to bring it into use, and is carried at cost less accumulated amortisation.
+Amortisation is calculated using the straight-line method to allocate the cost over the estimated useful life of three to five years.
+d Software and website development costs and financial systems Development costs that are directly attributable to the design and testing of identifiable and unique software products, websites and systems controlled by the Group are recognised as intangible assets when the following criteria are met: it is technically feasible to complete the software product or website so that it will be available for use: management intends to complete the software product or website and use or sell it: there is an ability to use or sell the software product or website: it can be demonstrated how the software product or website will generate probable future economic benefits: adequate technical, financial and other resources to complete the development and to use or sell the software product or website are available: and the expenditure attributable to the software product or website during its development can be reliably measured.
+Directly attributable costs that are capitalised as part of the software product, website or system include employee and contractor costs.
+Other development expenditures that do not meet these criteria as well as ongoing maintenance and costs associated with routine upgrades and enhancements are recognised as an expense as incurred.
+Development costs for software, websites and systems are carried at cost less accumulated amortisation and are amortised over their useful lives not exceeding five years at the point in which they come into use.
+Property, plant and equipment All property, plant and equipment is stated at historical cost less accumulated depreciation and impairment losses.
+Historical cost comprises the purchase price of the asset and expenditure directly attributable to the acquisition of the item.
+Freehold land is not depreciated.
+Depreciation on other assets is calculated using the straight-line method to allocate their cost less their estimated residual values over the estimated useful lives as follows: Land, buildings and leasehold improvements: Freehold buildings 50 years Leasehold land and buildings life of lease Leasehold improvements life of lease Plant and equipment 310 years 88 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements Assets in the course of construction are recorded separately within property, plant and equipment and are transferred to the appropriate classification when complete and depreciated from the date they are brought into use.
+The assets residual values and useful lives are reviewed, and adjusted if appropriate, at each balance sheet date.
+The carrying value of assets is reviewed for impairment if events or changes in circumstances suggest that the carrying value may not be recoverable.
+Assets will be written down to their recoverable amount if lower than the carrying value, and any impairment is charged to the income statement.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in the income statement within administrative expenses.
+Impairment of non-financial assets Assets that have an indefinite useful life, for example goodwill, are not subject to amortisation and are tested annually for impairment.
+Assets that are subject to amortisation and depreciation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable cash flows cash-generating units.
+Non-financial assets other than goodwill that have suffered an impairment are reviewed for possible reversal of the impairment at each reporting date.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+For an asset that does not generate largely independent cash flows, the recoverable amount is determined for the cash-generating unit to which the asset belongs.
+Impairment losses recognised in respect of cash-generating units are allocated first to reduce the carrying amount of any goodwill allocated to the cash-generating unit or group of units and then to reduce the carrying amount of other assets in the unit or group of units on a pro-rata basis.
+Assets and liabilities or disposal groups held for sale Assets and liabilities or disposal groups are classified as held for sale when their carrying amount is to be recovered principally through a sale transaction and a sale is considered highly probable.
+On classification as held for sale, they are stated at the lower of carrying amount and fair value less costs to sell.
+Impairment losses are included in the income statement, as are any gains and losses on subsequent re-measurement.
+Financial assets The Group classifies its financial assets in the categories of loans and receivables and at fair value through profit or loss.
+The classification depends on the purpose for which the financial assets were acquired.
+Management determines the classification of its financial assets at initial recognition.
+Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They are included in current assets, except for maturities greater than 12 months after the balance sheet date which are classified as non-current assets.
+The Groups loans and receivables comprise trade and other receivables and cash and cash equivalents in the balance sheet.
+Loans and receivables are initially recognised at fair value and subsequently carried at amortised cost using the effective interest method.
+Financial assets measured at fair value are those held for trading or designated at fair value through profit or loss.
+Derivatives are categorised as held for trading unless they are designated as hedges.
+Assets in this category are classified as current assets.
+Financial assets carried at fair value through the profit or loss account are initially recognised at fair value, and transaction costs are expensed in the income statement.
+They are subsequently re-measured to fair value and gains or losses arising from changes in the fair value are recognised in the income statement in the period in which they arise.
+Financial assets and liabilities are offset and the net amount reported in the balance sheet when there is a legally enforceable right to offset the recognised amounts and there is an intention to settle on a net basis, or realise the asset and settle the liability simultaneously.
+The Group assesses at the end of each reporting period whether there is objective evidence that a financial asset or group of financial assets is impaired.
+A financial asset is impaired only if there is objective evidence of impairment as a result of one or more events that occurred after the initial recognition of the asset and that this event has an impact on the estimated future cash flows of the financial asset that can be reliably estimated.
+The amount of the loss is measured as the difference between the assets carrying amount and the present value of estimated future cash flows discounted at the financial assets original effective interest rate.
+The carrying amount of the asset is reduced and the amount of the loss is recognised in the income statement.
+If, in a subsequent period, the amount of the impairment loss decreased and the decrease can be related objectively to an event occurring after the impairment was recognised, the reversal of the previously recognised impairment loss is credited to the income statement.
+Auto Trader Group plc Annual Report and Financial Statements 2017 89 Notes to the consolidated financial statements continued 1.
+Accounting policies continued Derivative financial instruments and hedging The Group does not currently use derivative financial instruments for hedging or for speculative purposes.
+Trade receivables Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method, less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+Cash and cash equivalents Cash and cash equivalents include cash in hand, short-term deposits held on call with banks and bank overdrafts.
+Bank overdrafts are shown within borrowings in current liabilities on the balance sheet.
+Trade payables Trade and other payables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method.
+Borrowings Borrowings are recognised initially at fair value, net of transaction costs incurred, and are subsequently carried at amortised cost, with any difference between the proceeds net of transaction costs and the redemption value being recognised in the income statement over the period of the borrowings using the effective interest method.
+Finance and issue costs associated with the borrowings are charged to the income statement using the effective interest rate method from the date of issue over the estimated life of the borrowings to which the costs relate.
+Borrowings are derecognised when the obligation under the liability is discharged, cancelled or expired.
+Where an existing financial liability is replaced by another from the same lender on substantially different terms, or the terms of an existing liability are substantially modified, such an exchange or modification is treated as a fide-recognition of the original liability and the recognition of a new liability, such that the difference in respective carrying amounts together with any costs or fees incurred are recognised in the income statement.
+The buyback of bank borrowings represents the discharge of the obligation to repay the debt.
+The difference between the carrying amount of the financial liability extinguished and the consideration paid is recognised as an exceptional gain in the income statement, as it is a significant non-recurring item.
+Preference shares are treated as borrowings where in substance they have the features of debt instruments: otherwise they are classified as equity.
+The related dividends are recognised as an interest expense for debt instruments and as dividends for equity instruments.
+Borrowings are classified as current liabilities unless the Group has an unconditional right to defer settlement of the liability for at least 12months after the balance sheet date.
+90 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements Provisions A provision is recognised when a present legal or constructive obligation exists at the balance sheet date as a result of a past event, it is probable that an outflow of resources will be required to settle the obligation and a reliable estimate of that obligation can be made.
+Where there are a number of similar obligations, the likelihood that an outflow will be required in settlement is determined by considering the class of obligations as a whole.
+If the effect is material, provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market assessments of the time value of money and where appropriate the risks specific to the obligation.
+Contingent liabilities are not recognised but are disclosed unless an outflow of resources is remote.
+Contingent assets are not recognised but are disclosed where an inflow of economic benefits is probable.
+Leases Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases net of any incentives received from the lessor are charged to the income statement on a straight-line basis over the period of the lease.
+Taxation The tax expense for the period comprises current and deferred taxation.
+Tax is recognised in the income statement, except to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+In this case the tax is also recognised in other comprehensive income or directly in equity, respectively.
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is subject to interpretation.
+It establishes provisions where appropriate on the basis of amounts expected to be paid to the tax authorities.
+Current taxation is provided at amounts expected to be paid or recovered calculated using the rates of tax and laws that have been enacted or substantively enacted at the balance sheet date in the countries where the Group operates and generates taxable income.
+Deferred taxation is provided in full, using the liability method, on temporary differences arising between the tax base of assets and liabilities and their carrying amounts in the consolidated financial statements.
+Deferred taxation is determined using tax rates and laws that have been enacted or substantively enacted by the balance sheet date and are expected to apply when the related deferred tax asset is realised or the deferred tax liability is settled.
+Deferred taxation assets are recognised only to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Deferred taxation is provided on temporary differences arising on investments in subsidiaries except where the timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred taxation assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities and when the deferred taxation assets and liabilities relate to taxes levied by the same taxation authority on either the taxable entity or different taxable entities where there is an intention to settle the balance on a net basis.
+Share capital Ordinary shares are classified as equity.
+Incremental costs directly attributable to the issue of new shares are shown in equity as a deduction from the proceeds.
+Where the Group purchases its own equity share capital, the consideration paid is deducted from equity attributable to the Groups shareholders.
+Where such shares are subsequently cancelled, the nominal value of the shares repurchased is deducted from share capital and transferred to a capital redemption reserve.
+Where the Group purchases its own equity share capital to hold in Treasury, the consideration paid for the shares is shown as own shares held within equity.
+Shares held by the Employee Share Option Trust The Employee Share Option Trust ESOT provides for the issue of shares to Group employees principally under share option schemes.
+The Group has control of the ESOT and therefore consolidates the ESOT in the Group financial statements.
+Accordingly, shares in the Company held by the ESOT are included in the balance sheet at cost as a deduction from equity.
+Auto Trader Group plc Annual Report and Financial Statements 2017 91 Notes to the consolidated financial statements continued 1.
+Accounting policies continued Share premium and other reserves The amount subscribed for the ordinary shares in excess of the nominal value of these new shares is recorded in share premium.
+Costs that directly relate to the issue of ordinary shares are deducted from share premium net of corporation tax.
+The capital reorganisation reserve arose on consolidation as a result of the share-for-share exchange on 24 March 2015.
+It represents the difference between the nominal value of shares issued by AutoTrader Group plc in this transaction and the share capital and reserves of AutoTrader Holding Limited.
+The capital redemption reserve arises from the purchase and subsequent cancellation of the Groups own equity share capital.
+Other reserves comprise the currency translation reserve on the consolidation of entities whose functional currency is other than sterling.
+Earnings per share The Group presents basic and diluted earnings per share EPS for its ordinary shares.
+Basic EPS is calculated by dividing the profit attributable to ordinary shareholders by the weighted average number of ordinary shares outstanding during the period.
+For diluted EPS, the weighted average number of ordinary shares is adjusted to assume conversion of all dilutive potential ordinary shares.
+Financial risk management a Financial risk factors In the course of its business the Group is exposed to market risk including foreign exchange risk and interest rate risk, credit risk, liquidity risk and technology risk.
+The Groups overall risk management strategy is to minimise potential adverse effects on the financial performance and net assets of the Group.
+These policies are set and reviewed by senior finance management and all significant financing transactions are authorised by the Board of Directors.
+Foreign exchange risk The Group has no significant foreign exchange risk as 98% of the Groups revenue and 97% of costs are sterling-denominated.
+As the amounts are not significant, no sensitivity analysis has been presented.
+The Group operates in Ireland.
+ net assets of overseas operations are not hedged as they represent a relatively small proportion of the Groups net assets.
+The Group operates a dividend policy ensuring any surplus cash is remitted to the UK and translated into sterling thereby minimising the impact of exchange volatility.
+Interest rate risk The Groups interest rate risk arises from long-term borrowings under the Syndicated Term Loan subject to floating rates of interest linked to LIBOR.
+The Group monitors interest rates on an ongoing basis but does not currently hedge interest rate risk.
+Credit risk Credit risk is the risk that financial loss arises from the failure of a customer or counterparty to meet its obligations under a contract.
+The Group has dedicated standards, policies and procedures to control and monitor all such risks.
+Although the Group is potentially exposed to credit loss in the event of non-performance by counterparties, such credit risk is controlled through credit rating reviews of the counterparties and by limiting the total amount of exposure to any one party.
+The Group does not believe it is exposed to any material concentrations of credit risk.
+As an example, the Groups borrowings are arranged with a syndicate of major banks and are committed until 2020. Credit risk relating to trade receivables is managed centrally and the credit risk for new customers is analysed before standard payment terms and conditions are offered.
+Policies and procedures exist to ensure that existing customers have an appropriate credit history and a significant number of balances are prepaid or collected via direct debit.
+Sales to private customers are primarily settled using major debit or credit cards which reduces the risk in this area.
+Overall, the Group considers that it is not exposed to a significant amount of either customer credit or bad debt risk, due to the diversified and fragmented nature of the customer base.
+The cost of bad debts for the year ended 31 March 2017 was 0.6% of revenue for the year ended 31 March 2016: 0.8%.
+92 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements iv.
+Liquidity risk Cash flow forecasting is performed centrally by the Group treasury manager.
+Rolling forecasts of the Groups liquidity requirements are monitored to ensure it has sufficient cash to meet operational needs.
+Such forecasting takes into consideration the Groups debt financing plans.
+Surplus cash held by operating entities over and above the balance required for working capital management is invested centrally in interestbearing current accounts and money market deposits with appropriate maturities or sufficient liquidity as required by the above-mentioned forecasts.
+The tables below analyse the Groups financial liabilities and undrawn commitments into relevant maturity groupings based on the remaining period at the balance sheet date to contractual maturity date.
+Derivative financial instruments are included in the analysis if their contractual maturities are essential for an understanding of the timing of the cash flows.
+The amounts disclosed in the table are the contractual undiscounted cash flows.
+As disclosed in note 18 of these consolidated financial statements, the borrowings are currently drawn down under a syndicated debt arrangement and repayments can be made at any time without penalty.
+As such there is no contractual interest cost.
+Interest paid in the year in relation to borrowings amounted to 7.6m.
+Between Between Less than 1 and 2 2 and 5 Over 1 year years years 5 years At 31 March 2017 m m m m Borrowings 363.0 Trade and other payables 7.1 Undrawn revolving credit and other facilities 30.0 Total 7.1 393.0 Between Between Less than 1 and 2 2 and 5 Over 1 year years years 5 years At 31 March 2016 m m m m Borrowings 403.0 Trade and other payables 8.5 Undrawn revolving credit and other facilities 30.0 Total 8.5 433.0 b Capital risk management The Group considers capital to be net debt plus total equity.
+Net debt is defined as borrowings excluding debt issue costs less cash and short-term deposits.
+Total equity is as shown in the consolidated balance sheet.
+The calculation of total capital is shown in the table below: 2017 2016 m m Loans due within one year Loans and overdrafts greater than one year 363.0 403.0 Less: Cash and cash equivalents 8.0 10.4 Total net debt 355.0 392.6 Total equity 21.4 51.5 Total capital 333.6 341.1 The objectives for managing capital are to safeguard the Groups ability to continue as a going concern, in order to provide returns for shareholders and benefits for other stakeholders and to maintain an efficient capital structure to optimise the cost of capital.
+In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital to shareholders, issue new shares or take other steps to increase share capital and reduce or increase debt facilities.
+The margin payable on the Syndicated Term Loan interest is dependent on the consolidated leverage ratio of AutoTrader Group plc and its subsidiaries and this is calculated and reviewed on a semi-annual basis.
+Repayments can be made without penalty under the Syndicated Term Loan Agreement and there is no requirement to settle all or part of the Syndicated Term Loan earlier than its termination date of 2020.
+The Group remains in compliance with its banking covenants.
+c Fair value estimation At 31 March 2017 and 31 March 2016, the Group had no financial instruments held at fair value through profit and loss.
+Auto Trader Group plc Annual Report and Financial Statements 2017 93 Notes to the consolidated financial statements continued 3.
+Segmental information IFRS 8 Operating segments requires the Group to determine its operating segments based on information which is provided internally.
+Based on the internal reporting information and management structures within the Group, it has been determined that there is only one operating segment, being the Group, as the information reported includes operating results at a consolidated Group level only.
+This reflects the nature of the business, where the major cost is to support the IT platforms upon which all of the Groups customers are serviced.
+These costs are borne centrally and are not attributable to any specific customer type or revenue stream.
+There is also considered to be only one reporting segment, which is the Group, the results of which are shown in the consolidated income statement.
+Management has determined that there is one operating and reporting segment based on the reports reviewed by the Operational Leadership Team OLT which is the chief operating decision-maker CODM.
+The OLT is made up of the Executive Directors and Key Management and is responsible for the strategic decision-making of the Group.
+To assist in the analysis of the Groups revenue-generating trends, the OLT reviews revenue from three customer types as detailed below: Trade: revenue from retailer and home trader customers advertising their vehicles and utilising the Groups products: Consumer services: revenue from private sellers for vehicle advertisements on the Groups websites.
+This category also includes revenue from third-party partners who provide services to consumers relating to their motoring needs, such as insurance and loan finance: and Display advertising: revenue from manufacturers and their advertising agencies for placing display advertising on the Groups websites.
+The reporting information provided to the OLT, which presents revenue by customer type, has been voluntarily disclosed below: 2017 2016 Revenue m m Trade 262.1 236.4 Consumer services 31.8 30.3 Display advertising 17.
+5 14.9 Total revenue 311.4 281.6 The revenue from external parties reported to the OLT is measured in a manner consistent with that in the income statement.
+Underlying operating profit Operating costs, comprising administrative expenses, are managed on a Group basis.
+The OLT measures the overall performance of the Group by reference to a non-GAAP measure, Underlying operating profit, which is Operating profit before share-based payments and associated NI and exceptional items.
+This adjusted profit measure was applied by the OLT to understand the earnings trend of the Group and was considered the most meaningful measure by which to assess the true operating performance of the Group, as it allowed better interpretation of the underlying performance of the business.
+From next year, i. e. for 2018 and beyond, the business will report against the statutory measure of Operating profit, as it is expected that going forward the year-on-year change in share-based payments charges will be less distorting than in the past.
+2017 2016 m m Operating profit 203.1 169.6 Share-based payments and associated NI 4.5 2.5 Exceptional items 0.4 0.8 Underlying operating profit 207.2 171.3 A reconciliation of the total segment Operating profit to the profit before tax is provided as follows: 2017 2016 m m Total segment Operating profit 203.1 169.6 Finance costs net 9.7 14.6 Profit before tax 193.4 155.0 The OLT reviews the balance sheet information for the one operating segment.
+The segments assets and liabilities are presented in a manner consistent with that of these consolidated financial statements.
+94 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements The Group is domiciled in the UK and the following table details external sales by location of customers and non-current assets excluding deferred tax by geographic area: 2017 2016 m m Revenue: UK 306.1 277.0 Ireland 5.3 4.6 Total revenue 311.4 281.6 Non-current assets: UK 321.0 326.5 Ireland 6.1 4.3 Total non-current assets excluding deferred tax 327.
+1 330.8 Due to the large number of customers the Group serves, there are no individual customers whose revenue is greater than 10% of the Groups total revenue in all periods presented in these financial statements.
+Operating profit Operating profit is stated after charging: 2017 2016 Note m m Staff costs 5 53.6 53.6 Contractor costs 0.4 0.4 Depreciation of property, plant and equipment 11 3.2 2.8 Amortisation of intangible assets 10 4.8 7.8 Operating lease payments 2.7 2.8 Exceptional items: 2017 2016 m m Restructuring of Group operations 0.4 0.8 Total exceptional items 0.4 0.8 Exceptional income for the year ended 31 March 2017 and 31 March 2016 relates to the reversal of provisions previously made for restructuring costs that are no longer required.
+Services provided by the Companys auditors During the year, the Group including overseas subsidiaries obtained the following services from the operating companys auditors: 2017 2016 m m Fees payable for the audit of the Company and consolidated financial statements 0.1 0.1 Fees payable for other services: the audit of the subsidiary undertakings pursuant to legislation 0.1 0.2 tax advisory services 0.1 Total 0.2 0.4 Auto Trader Group plc Annual Report and Financial Statements 2017 95 Notes to the consolidated financial statements continued 5.
+Employees and Directors 2017 2016 m m Wages and salaries 42.5 44.4 Social security costs 4.7 4.8 Other pension costs note 21 1.9 1.9 49.1 51.1 Share-based payments and associated NI note 26 4.5 2.5 Total 53.6 53.6 The average monthly number of employees including Executive Directors but excluding third-party contractors employed by the Group was as follows: 2017 2016 Number Number Customer operations 339 395 Product and technology 311 295 Display 46 41 Corporate 124 123 Total 820 854 6.
+Directors and Key Management remuneration The remuneration of Directors was as follows: 2017 2016 m m Aggregate Directors emoluments 1.5 1.7 Share-based payments charge 1.3 0.8 Total 2.8 2.5 During the year ended 31 March 2017 two Directors 2016: two Directors were members of the Groups defined pension contribution scheme.
+The remuneration of the highest paid Director was as follows: 2017 2016 m m Aggregate emoluments 0.7 0.9 Share-based payments charge 0.9 0.5 Total 1.6 1.4 During the year to 31 March 2017, Trevor Mather and Sean Glithero 2016: Trevor Mather and Sean Glithero received remuneration in respect of their services as Directors of the Company and subsidiary undertakings.
+Ed Williams received remuneration in respect of his services as a Director of the Company and, to 8 January 2016, AutoTrader Holding Limited, a subsidiary undertaking.
+Chip Perry received remuneration in respect of his services as a Director of the Company up to 7 March 2016 and, to 8 January 2016, AutoTrader Holding Limited, a subsidiary undertaking.
+During the year to 31 March 2016, Tom Hall and Nick Hartman received no remuneration in respect of their services as Directors of the Company and AutoTrader Holding Limited, a subsidiary undertaking.
+Refer to the Directors Remuneration Report on pages 62 to 68 for further detail.
+Key Management compensation During the year to 31 March 2017, Key Management comprised the members of the OLT 2016: OLT.
+The remuneration of all Key Management including Directors was as follows: 2017 2016 m m Short-term employee benefits 5.0 5.7 Share-based payments 2.6 1.4 Compensation for loss of office 0.2 Pension contributions 0.2 0.2 Total 7.8 7.5 96 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 7.
+Finance costs 2017 2016 m m Finance costs On bank loans and overdrafts 7.5 12.7 Amortisation of debt issue costs 2.2 1.9 Total 9.7 14.6 8.
+Taxation 2017 2016 m m Current taxation UK corporation taxation 39.3 28.6 Foreign taxation 0.2 0.3 Adjustments in respect of prior years 0.4 0.7 Total current taxation 39.1 28.2 Deferred taxation Origination and reversal of temporary differences 0.3 0.3 Effect of rate changes on deferred taxation 0.4 Adjustments in respect of prior years 0.1 Total deferred taxation 0.4 0.1 Total taxation charge 38.7 28.3 The differences between the total taxation shown above and the amount calculated by applying the standard UK corporation taxation rate to the profit before taxation on continuing operations are set out below.
+The Group earns its profits primarily in the UK, therefore the rate used for taxation is the standard rate for UK corporation tax.
+2017 2016 m m Profit before taxation 193.4 155.0 Tax on profit on ordinary activities at the standard UK corporation tax rate of 20% 2016: 20% 38.7 31.0 Expenses not deductible for taxation purposes 0.6 0.3 Adjustments in respect of foreign tax rates 0.1 0.1 Other permanent differences 2.6 Effect of rate changes on deferred taxation 0.4 Adjustments in respect of prior years 0.5 0.7 Total taxation charge 38.7 28.3 Taxation on items taken directly to equity was a credit of 0.1m 2016: 0.1m relating to deferred tax on share-based payments.
+The tax charge for the year is based on the standard rate of UK corporation tax for the period of 20% 2016: 20%.
+The March 2016 budget announced a further reduction in the UK corporation tax rate to 17% from 1 April 2020.
+Finance Act 2016 was substantively enacted and fully enacted on 6 and 15 September 2016 respectively.
+Deferred tax has been calculated based on the rate of 17% which is the rate at which the majority of items are expected to reverse.
+Auto Trader Group plc Annual Report and Financial Statements 2017 97 Notes to the consolidated financial statements continued 9.
+Earnings per share Basic earnings per share and diluted earnings per share are calculated by dividing profit for the year attributable to equity holders of the parent by the weighted average number of shares in issue.
+Weighted average Total number of ordinary earnings Pence shares m per share Year ended 31 March 2017 Basic EPS 989,278,991 154.7 15.64 Diluted EPS 991,812,212 154.7 15.60 Year ended 31 March 2016 Basic EPS 1,000,002,803 126.7 12.67 Diluted EPS 1,001,394,1 1 1 126.7 12.65 The difference between the basic and diluted weighted average number of shares represents the dilutive effect of the Share Incentive Plan, Performance Share Plan, Deferred Annual Bonus Plan and the Sharesave scheme.
+Shares issued to satisfy the Share Incentive Plan were subsequently purchased by the Employee Share Option Trust ESOT and are entitled to dividends under the scheme rules.
+The number of shares in issue at the start of the year is reconciled to the basic and diluted weighted average number of shares below: Weighted average Year ended 31 March 2017 number of shares Issued ordinary shares at 31 March 2016 1,001,051,699 Weighted effect of ordinary shares purchased for cancellation 7, 621,111 Weighted effect of ordinary shares purchased for treasury 3,173,244 Weighted effect of shares held by the ESOT 978,353 Weighted average number of shares for basic EPS 989,278,991 Dilutive impact of share options outstanding 2,533,221 Weighted average number of shares for diluted EPS 991,812,212 The average market value of the Groups shares for the purposes of calculating the dilutive effect of share-based incentives was based on quoted market prices for the period during which the share-based incentives were outstanding.
+98 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 10.
+Amortisation of these assets will commence when they are brought into use.
+For the year to 31 March 2017, the amortisation charge of 4.8m 2016: 7.8m has been charged to administrative expenses in the income statement.
+Goodwill, which has an indefinite useful life, is subject to annual impairment testing, or more frequent testing if there are indicators of impairment.
+Goodwill is allocated to the appropriate cash-generating unit CGU based on the smallest identifiable group of assets that generates cash inflows independently in relation to the specific goodwill.
+The recoverable amount of the CGU is determined from value-in-use calculations that use cash flow projections from the latest three-year plan approved by the Directors.
+Assets have been allocated between the AutoTrader Digital CGU and the Webzone CGU.
+At 31 March 2017, the carrying value of goodwill allocated to the AutoTrader Digital CGU was 307.6m and to the Webzone CGU was 5.7m.
+Key assumptions in the budgets and plans include future revenue growth rates, associated future levels of marketing support and directly associated overheads.
+These assumptions are based on historical trends and future market expectations.
+Cash flows beyond the three-year period are extrapolated using the estimated long-term growth rate of 2.0% 2016: 2.0%.
+The pre-tax discount rate which has been applied in determining value in use for individual CGUs for potential impairments is 8.0% 2016: 8.0%.
+Significant headroom exists in the CGUs that have not been fully impaired.
+There are no reasonably possible changes to the assumptions presented above that would result in any impairment recorded in each of the years presented in these financial statements.
+Intangible assets have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation of these intangible assets is calculated using the straight-line method to allocate the cost of the assets over their estimated useful lives three to 15 years.
+The longest estimated useful life remaining at 31 March 2017 is five years.
+Auto Trader Group plc Annual Report and Financial Statements 2017 99 Notes to the consolidated financial statements continued 11.
+Property, plant and equipment Land, buildings and Assets under leasehold Plant and construction improvements equipment Total m m m m Cost At 31 March 2015 0.2 4.2 15.8 20.2 Additions 2.0 2.0 Reclassification 0.2 0.2 Transfer to disposal group held for sale note 15 0.3 0.3 Disposals 0.1 0.1 At 31 March 2016 3.9 17.9 21.8 Additions 2.5 2.5 At 31 March 2017 3.9 20.4 24.3 Accumulated depreciation At 31 March 2015 0.8 10.9 11.7 Charge for the year 0.3 2.5 2.8 Disposals 0.1 0.1 At 31 March 2016 1.1 13.3 14.4 Charge for the year 0.3 2.9 3.2 At 31 March 2017 1.4 16.2 17.6 Net book value at 31 March 2017 2.5 4.2 6.7 Net book value at 31 March 2016 2.8 4.6 7.4 Net book value at 31 March 2015 0.2 3.4 4.9 8.5 The depreciation expense of 3.2m for the year to 31 March 2017 2016: 2.8m has been recorded in administrative expenses.
+100 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 12.
+Investments Shares in other undertakings m Cost At 31 March 2017 and 31 March 2016 3.2 Provision for impairment At 31 March 2017 and 31 March 2016 3.2 Net book value at 31 March 2017 Net book value at 31 March 2016 At the balance sheet date the Group holds a 19.4% 2016: 19.4% interest in the preferred share capital of IAUTOS Company Limited.
+IAUTOS Company Limited is an intermediate holding company through which are held trading companies incorporated in the Peoples Republic of China.
+It is not considered an associate as the Group does not have significant influence over this entity.
+This investment was fully impaired in the year to 31 March 2014 as the Chinese trading companies are loss-making with forecast future cash outflows.
+Subsidiary undertakings At 31 March 2017 the Groups related undertakings were: Percentage Percentage Country of registration or Class of shares owned by the owned by the Subsidiary undertakings incorporation Principal activity held parent Group 2 AutoTrader Holding Limited England and Wales Financing company Ordinary 100% 100% 2 AutoTrader Limited England and Wales Classified listings Ordinary 100% 2 Trader Licensing Limited England and Wales Dormant company Ordinary 100% 1,3 Trader Media Holdings Ireland Limited Republic of Ireland Holding company Ordinary 100% 1,3 Trader Media Ireland Unlimited Republic of Ireland Holding company Ordinary 100% 3 Webzone Limited Republic of Ireland Classified listings Ordinary 100% 1 A s at 31 March 2017 the denoted companies were in the process of members voluntary liquidation as part of a Group structuring project.
+As such they are not required to undertake a statutory audit or prepare individual company financial statements.
+2 Registered office address for UK companies is shown on the inside back cover.
+3 Registered office address for the Republic of Ireland companies is Paramount Court, Corrig Road, Sandyford Industrial Estate, Dublin 18, D18 R9C7.
+A guarantee exists in respect of the three wholly owned subsidiaries that are incorporated in the Republic of Ireland and consolidated within these financial statements.
+They have availed themselves of an exemption from filing their individual financial statements in accordance with Section 357 of the Companies Amendment Act, 2014, Ireland.
+Auto Trader Group plc Annual Report and Financial Statements 2017 101 Notes to the consolidated financial statements continued 13.
+Financial instruments by category The accounting policies for financial instruments have been applied to the loans and receivables and financial liabilities as detailed in the table below: Non-financial Loans and receivables assets Total 31 March 2017 m m m Financial assets as per balance sheet: Trade and other receivables 21.4 29.3 50.7 Cash and cash equivalents 8.0 8.0 Total 29.4 29.3 58.7 Financial liabilities measured at Non-financial amortised cost liabilities Total 31 March 2017 m m m Financial liabilities as per balance sheet: Borrowings 357.
+1 26.2 33.3 Total 364.9 26.2 391.1 Loans and Non-financial receivables assets Total 31 March 2016 m m m Financial assets as per balance sheet: Trade and other receivables 29.4 22.3 51.7 Cash and cash equivalents 10.4 10.4 Total 39.8 22.3 62.1 Financial liabilities measured at Non-financial amortised cost liabilities Total 31 March 2016 m m m Financial liabilities as per balance sheet: Borrowings 395.6 395.6 Trade and other payables 8.5 28.1 36.6 Total 404.1 28.1 432.2 Non-financial assets include prepayments and accrued income.
+Non-financial liabilities include other taxes and social security and accruals and deferred income.
+The carrying amounts of financial assets and liabilities approximate their fair values.
+102 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 14.
+Trade and other receivables 2017 2016 m m Trade receivables 24.4 32.5 Less: provision for impairment of trade receivables 3.1 3.2 Trade receivables net 21.3 29.3 Other receivables 0.1 0.1 Accrued income 26.1 18.5 Prepayments 3.2 3.8 Total 50.7 51.7 The ageing analysis of trade receivables is as follows: 2017 2016 m m Fully performing 17.8 21.3 Past due but not impaired: Up to three months 2.8 7.4 Impaired 3.8 3.8 Total 24.4 32.5 It was assessed that a portion of the impaired receivables is expected to be recovered.
+Movements on the provision for impairment of trade receivables are as follows: 2017 2016 m m At beginning of year 3.2 2.9 Provision for receivables impairment 1.7 1.9 Receivables written off during the year as uncollectible 1.8 1.6 Total 3.1 3.2 The creation and release of the provision for impaired trade receivables is included in administrative expenses in the income statement.
+The other classes within trade and other receivables do not contain impaired assets.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivable included within trade and other receivables.
+The Group does not hold any collateral as security.
+Due to the large number of customers the Group services, the credit quality of trade receivables is not deemed a significant risk.
+The carrying amount of the Groups trade receivables is denominated in the following currencies: 2017 2016 m m Sterling 23.6 31.6 Euro 0.8 0.9 Total 24.4 32.5 At 31 March 2017 and 31 March 2016 all other financial receivables are primarily denominated in sterling.
+Auto Trader Group plc Annual Report and Financial Statements 2017 103 Notes to the consolidated financial statements continued 15.
+Assets of disposal group classified as held for sale Unoccupied properties no longer required by the Group have been placed for sale and are held at cost less accumulated depreciation and any impairment loss.
+2017 2016 m m Non-current assets held for sale: Property, plant and equipment 0.3 16.
+Cash and cash equivalents 2017 2016 m m Cash at bank and in hand 8.0 10.4 The Groups credit risk on cash and cash equivalents is limited as the counterparties are well-established banks with high credit ratings.
+At 31 March 2017 and 31 March 2016, the cash and cash equivalents are primarily denominated in sterling.
+Trade and other payables 2017 2016 m m Trade payables 6.1 7.8 Other taxes and social security 10.0 10.9 Other payables 0.5 0.2 Accruals 14.3 15.4 Deferred income 1.9 1.8 Accrued interest payable 0.5 0.5 Total 33.3 36.6 104 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 18.
+Borrowings 2017 2016 Non-current m m Syndicated Term Loan gross of unamortised debt issue costs 363.0 403.0 Unamortised debt issue costs 5.2 7.
+8 395.6 The Syndicated Term Loan is repayable as follows: 2017 2016 m m Within two to five years 363.0 403.0 Total 363.0 403.0 The carrying amounts of borrowings approximate their fair values.
+Syndicated Term Loan the debt under the terms of the Senior Facilities Agreement On 24 March 2015, the Company and a subsidiary undertaking, AutoTrader Holding Limited, entered into a 550.0m Senior Facilities Agreement.
+The associated debt transaction costs were 9.4m.
+The first utilisation was made on 24 March 2015 when 550.0m was drawn.
+Interest on the Syndicated Term Loan is charged at LIBOR plus a margin of between 1.5% and 3.25% depending on the consolidated leverage ratio of the Group.
+There is no requirement to settle all or part of the debt earlier than the termination date in March 2020.
+Under the Senior Facilities Agreement, the lenders also made available to the Company and AutoTrader Holding Limited a 30.0m revolving credit facility the RCF.
+The RCF was undrawn at 31 March 2017 2016: undrawn.
+Cash drawings under the RCF would incur interest at LIBOR, plus a margin of between 1.25% and 3.0% depending on the consolidated leverage of the Group 31 March 2016: 1.25% and 3.0%.
+A commitment fee of 35% of the margin applicable to the RCF from time to time is payable quarterly in arrears on the unutilised amounts of the RCF.
+During the year to 31 March 2017 the Group repaid 40.0m of the Syndicated Term Loan 2016: 147.0m.
+The exposure of the Groups borrowings excluding debt issue costs to LIBOR rate changes and the contractual repricing dates at the balance sheet date are as follows: 2017 2016 m m One month or less 363.0 403.0 Total 363.0 403.0 Auto Trader Group plc Annual Report and Financial Statements 2017 105 Notes to the consolidated financial statements continued 19.
+Provisions for other liabilities and charges Onerous lease and dilapidations Restructuring Holiday pay provision provision provision Total m m m m At 31 March 2016 1.1 0.2 0.3 1.6 Charged released to the income statement 0.4 0.3 0.1 Received utilised in the year 0.4 0.2 0.3 0.1 At 31 March 2017 1.1 0.3 1.4 2017 2016 m m Current 0.3 0.5 Non-current 1.1 1.1 Total 1.4 1.6 The onerous lease provision was provided for future payments under property leases in respect of unoccupied properties no longer suitable for the Groups use.
+During the year, the Group disposed of the last remaining property and as a result, an exceptional credit of 0.4m was recognised.
+Dilapidations have been provided for all UK and Ireland properties based on the estimate of costs upon exit of the leases, which expire between April 2025 and February 2029.
+The restructuring provision related to redundancy and other costs concerning key relocations and reorganisations in the UK.
+The holiday pay provision relates to liabilities for holiday pay in relation to the UK and Ireland operations for leave days accrued and not yet taken at the end of the financial year, and is expected to be fully utilised in the year to 31 March 2018.
+106 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 20.
+Deferred taxation The movement in deferred taxation assets and liabilities during the year, without taking into consideration the offsetting of balances within the same tax jurisdiction, is as follows: Accelerated Other Share-based capital temporary payments allowances differences Total Deferred taxation assets m m m m At 31 March 2015 4.6 4.6 Credited charged to the income statement 0.3 0.2 0.1 Credited directly to equity 0.1 0.1 Effect of rate changes on deferred taxation 0.5 0.5 At 31 March 2016 0.4 3.9 4.3 Credited charged to the income statement 0.4 0.1 0.3 Credited directly to equity 0.1 0.1 At 31 March 2017 0.9 3.8 4.7 Deferred taxation liabilities At 31 March 2015 0.6 0.6 Credited to the income statement 0.2 0.2 Effect of rate changes on deferred taxation 0.1 0.1 At 31 March 2016 0.3 0.3 Credited to the income statement 0.1 0.1 At 31 March 2017 0.2 0.2 The Group has estimated that Nil of the Groups net deferred income tax asset will be realised in the next 12 months.
+This is managements current best estimate and may not reflect the actual outcome in the next 12 months.
+Retirement benefit obligations Across the UK and Ireland the Group operates several pension schemes.
+All except one are defined contribution schemes.
+Within the UK, all pension schemes set up prior to 2001 have been closed to new members and only one defined contribution scheme is now open to new employees.
+In the year to 31 March 2017 the pension contributions to the Group defined contribution scheme amounted to 1.9m 2016: 1.9m.
+At 31 March 2017, there were 0.3m 31 March 2016: 0.3m of pension contributions outstanding relating to the Groups defined contribution scheme.
+The defined benefit pension scheme provides benefits based on final pensionable pay and this scheme was closed to new joiners with effect from May 2002.
+New employees after that date have been offered membership of the Groups defined contribution scheme.
+The most recent actuarial valuation of the defined benefit obligations was performed as at 31 March 2017 by a qualified independent actuary.
+The amounts recognised in the balance sheet are determined as follows: 2017 2016 m m Present value of funded obligations 21.0 17.
+5 Fair value of plan assets 21.4 18.4 Effect of surplus cap 0.4 0.9 Net liability recognised in the balance sheet The surplus of 0.4m 2016: 0.9m has not been recognised as an asset as it is not deemed to be recoverable by the Group.
+Auto Trader Group plc Annual Report and Financial Statements 2017 107 Notes to the consolidated financial statements continued 21.
+Retirement benefit obligations continued The net retirement benefit income before taxation recognised in the income statement in respect of the defined benefit schemes is summarised as follows: 2017 2016 m m Interest income on net defined benefit obligation - Administration expenses paid by the scheme - Net retirement benefit income before taxation - The amounts recognised in the statement of other comprehensive income are as follows: 2017 2016 m m Remeasurement losses gains recognised in the year before tax 0.5 0.4 Effect of surplus cap 0.5 0.4 Total The movement in the defined benefit obligations over the year is as follows: Present value Fair value of obligation of plan assets Total m m m At 31 March 2015 19.1 19.1 Interest expense income 0.6 0.6 Remeasurements: Gain from changes in financial assumptions 1.2 1.2 Gains arising from experience 0.4 0.4 Return on plan assets, excluding amounts included in interest income 1.2 1.2 Benefits paid 0.6 0.6 Effect of surplus cap 0.4 0.4 At 31 March 2016 17.
+5 Interest expense income 0.6 0.6 Remeasurements: Loss from changes in financial assumptions 3.9 3.9 Gains arising from experience 0.2 0.2 Return on plan assets, excluding amounts included in interest income 3.2 3.2 Benefits paid 0.8 0.8 Effect of surplus cap 0.5 0.5 At 31 March 2017 21.0 21.0 The Company has agreed to contribute 70,000 per annum to the scheme with effect from 1 October 2016 for a period of three years.
+During the year to 31 March 2017, the Group contributed 29,165 to the scheme 2016: Nil.
+As at 31 March 2017, approximately 65% of the liabilities 2016: 65% are attributable to former employees who have yet to reach retirement and 35% to current pensioners 2016: 35%.
+108 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements The significant actuarial assumptions were as follows: 2017 2016 % % Discount rate 2.60 3.55 Pension growth rate 2.35 2.15 Inflation rate RPI 3.45 3.25 Sensitivity to key assumptions has not been disclosed as any reasonable possible changes would not result in a significant change to the amounts recorded in the financial statements.
+The Group has assumed that mortality will be in line with nationally published mortality table S2NA with CMI 2015 projections related to members years of birth with long-term rate of improvement of 1.5% per annum.
+These tables translate into an average life expectancy for a pensioner retiring at age 65 as follows: 2017 2016 Male Female Male Female Years Years Years Years Member aged 65 current life expectancy 88 90 88 90 Member aged 45 life expectancy at age 65 90 92 90 92 Plan assets are comprised as follows: 2017 2016 m % m % Equities 12.0 56.1 10.1 54.9 Corporate bonds 8.3 38.8 7.4 40.2 Real estate 1.1 5.1 0.9 4.9 Total 21.4 100.0 18.4 100.0 This defined benefit pension scheme exposes the Group to a number of risks, the most significant of which are: Asset volatility The scheme liabilities are calculated using a discount rate set with reference to corporate bond yields: if assets underperform this yield, this will create a deficit.
+The scheme holds a significant proportion of equities, which are expected to outperform corporate bonds in the long term while creating volatility and risk in the short term.
+The allocation to equities is monitored to ensure it remains appropriate given the schemes long-term objectives.
+Changes in bond yields A decrease in corporate bond yields will increase the scheme liabilities, although this will be partially offset by an increase in the value of the schemes bond holdings.
+Inflation risk A proportion of the schemes benefit obligations are linked to inflation and higher inflation will lead to higher liabilities although in most cases caps on the level of inflationary increases are in place to protect against extreme inflation.
+The majority of the assets are either unaffected by or only loosely correlated with inflation, meaning that an increase in inflation will also increase the deficit.
+Life expectancy The majority of the schemes obligations are to provide benefits for the life of the member, so increases in life expectancy will result in an increase in the liabilities.
+The weighted average duration of the defined benefit obligation is 22 years.
+Auto Trader Group plc Annual Report and Financial Statements 2017 109 Notes to the consolidated financial statements continued 22.
+Share capital 2017 2016 Number Amount Number Amount Share capital 000 m 000 m Allotted, called-up and fully paid ordinary shares of 1p each At 1 April 1,001,052 10.0 1,000,000 1,500.0 New shares allotted - - 1,052 1.6 Capital reduction - - - 1,491.6 Purchase and cancellation of own shares 22,081 0.2 - - Total 978,971 9.8 1,001,052 10.0 The Company commenced a share buyback programme during the year.
+By resolutions passed at the 2016 AGM, the Company was authorised to make market purchases of up to 99,905,974 of its ordinary shares, subject to minimum and maximum price restrictions.
+A total of 26,292,510 ordinary shares of 0.01 each were purchased in the year to 31 March 2017, being 2.63% of the shares in issue at the time the authority was granted.
+The average price paid per share was 387.9p, with a total consideration paid inclusive of all costs of 102.6m.
+4,211,957 shares were purchased to be held in treasury, with 22,080,553 being cancelled.
+Included within shares in issue at 31 March 2017 are 948,924 2016: 1,021,224 shares held by the ESOT and 4,203,277 2016:Nil shares held in treasury, as detailed in note 23.
+On 23 April 2015 the Company issued and allotted 1,051,699 shares of 1.50 each in connection with the AutoTrader Group plc Share Incentive Plan and these were admitted for trade on the London Stock Exchange on 24 April 2015.
+The shares rank pari passu with the existing ordinary shares of the Company.
+On 29 July 2015 the Company completed a reduction of share capital and share premium the Capital Reduction, whereby the entire amount outstanding on the Companys share premium account was cancelled and the nominal value of each issued ordinary share in the capital of the Company was reduced from 1.50 to 0.01.
+The Capital Reduction created a significant amount of distributable reserves for the Company.
+Own shares held ESOT shares Treasury reserve shares Total Own shares held m m m m Own shares held as at 1 April 2015 Acquisition of shares by ESOT 1.6 1.6 Transfer of shares from ESOT 0.1 0.1 Own shares held as at 31 March 2016 1.5 1.5 Own shares held as at 1 April 2016 1.5 1.5 Transfer of shares from ESOT 0.1 0.1 Repurchase of own shares for treasury 15.5 15.5 Own shares held as at 31 March 2017 1.4 15.5 16.9 ESOT shares Treasury Total reserve shares number of number of number of own shares Own shares held number shares shares held Own shares held as at 1 April 2015 Acquisition of shares by ESOT 1,051,699 1,051,699 Transfer of shares from ESOT 30,475 30,475 Own shares held as at 31 March 2016 1,021,224 1,021,224 Own shares held as at 1 April 2016 1,021,224 1,021,224 Transfer of shares from ESOT 72,300 72,300 Shares purchased for treasury 4,211,957 4,211,957 Share-based incentives exercised in the year 8,680 8,680 Own shares held as at 31 March 2017 948,924 4,203,277 5,152,201 110 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 24.
+Dividends Dividends declared and paid by the Company were as follows: 2017 2016 Pence Pence per share m per share m 2016 interim dividend paid 0.5 5.0 2016 final dividend paid 1.0 9.9 2017 interim dividend paid 1.7 16.7 2.7 26.6 0.5 5.0 The proposed final dividend for the year ended 31 March 2017 of 3.5p per share, totalling 34.1m, is subject to approval by shareholders at the Annual General Meeting and hence has not been included as a liability in the financial statements.
+The 2017 interim dividend paid on 27 January 2017 was 16.7m, being a difference of 0.1m compared to that reported in the 2017 half year results.
+This was due to a decrease in the ordinary shares entitled to a dividend between the date that the dividend was declared on 10 November 2016 and the dividend record date of 6 January 2017.
+The 2016 final dividend paid on 30 September 2016 was 9.9m, being a difference of 0.1m compared to that reported in the 2016 Annual Report.
+This was due to a decrease in the ordinary shares entitled to a dividend between the date that the dividend was proposed on 9 June 2016 and the final dividend record date of 2 September 2016.
+The Directors policy with regards to future dividends is set out in the Strategic report on page 29.
+Cash generated from operations 2017 2016 m m Profit before taxation 193.4 155.0 Adjustments for: Depreciation 3.2 2.8 Amortisation 4.8 7.8 Share-based payments charge excluding associated NI 4.0 2.3 Finance costs 9.7 14.6 Changes in working capital excluding the effects of exchange differences on consolidation : Trade and other receivables 0.7 2.6 Trade and other payables 2.3 5.3 Provisions 0.6 5.1 Cash generated from operations 212.9 180.1 Auto Trader Group plc Annual Report and Financial Statements 2017 111 Notes to the consolidated financial statements continued 26.
+Share-based payments The Group currently operates four share schemes: the Performance Share Plan, Deferred Annual Bonus Plan, Share Incentive Plan and the Sharesave scheme.
+All share-based incentives are subject to a service condition.
+Such conditions are not taken into account in the fair value of the service received.
+The fair value of services received in return for share-based incentives is measured by reference to the fair value of share-based incentives granted.
+The estimate of the fair value of the share-based incentives is measured using either the Monte Carlo or Black-Scholes pricing model as is most appropriate for each scheme.
+The total charge in the year relating to the four schemes was 4.5m 2016: 2.5m with a Company charge of 1.5m 2016: 0.7m.
+This included associated national insurance NI at 13.8%, which management expects to be the prevailing rate when the awards are exercised, and apprenticeship levy at 0.5%, based on the share price at the reporting date.
+Group Company 2017 2016 2017 2016 m m m m Share Incentive Plan SIP 0.8 0.7 Sharesave scheme SAYE 0.3 0.1 Performance Share Plan PSP 2.4 1.2 1.0 0.4 Deferred Annual Bonus Plan DABP 0.5 0.3 0.3 0.2 Total share-based payment charge 4.0 2.3 1.3 0.6 NI and apprenticeship levy on applicable schemes 0.5 0.2 0.2 0.1 Total charge 4.5 2.5 1.5 0.7 Share Incentive Plan In 2015, the Group established a Share Incentive Plan SIP.
+All eligible employees were awarded free shares or nil-cost options in the case of employees in Ireland valued at 3,600 each based on the share price at the time of the Companys admission to the Stock Exchange in March 2015, subject to a three-year service period Vesting Period.
+The SIP shareholders are entitled to dividends over the Vesting Period.
+There are no performance conditions applicable to the vesting of SIP shares.
+The fair value of the SIP awards at the grant date was measured to be 2.72 using the Black-Scholes model.
+The resulting share-based payments charge is being spread evenly over the Vesting Period.
+UK SIP 2017 2016 Number Number Outstanding at 1 April 913,917 Awarded 1,051,699 Dividend shares awarded 6,139 Forfeited 69,589 107, 307 Released 74,422 30,475 Outstanding at 31 March 776,045 913,917 Vested and Outstanding at 31 March Irish SIP 2017 2016 Number Number Outstanding at 1 April 45,491 Awarded 45,491 Forfeited 1,060 Released - Outstanding at 31 March 44,431 45,491 Vested and Outstanding at 31 March The weighted average market value per ordinary share for SIP awards released in 2017 was 387.14p 2016: 344.25p.
+The SIP shares outstanding at 31 March 2017 have a weighted average remaining vesting period of 1.1 years 2016: 2.1 years.
+Shares released relate to those attributable to good leavers as defined by the scheme rules.
+112 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements Performance Share Plan The Group operates a Performance Share Plan PSP for Executive Directors, the OLT and certain key employees.
+On 17 June 2016, the Group awarded 1,186,365 nil cost options under the PSP scheme.
+The extent to which such awards vest will depend upon the Groups performance over a three-year performance period following the award date.
+The vesting in June 2019 Vesting Date of 25% of the 2016 PSP award will be dependent on a relative TSR performance condition measured over the performance period and the vesting of the 75% of the 2016 PSP award will be dependent on the satisfaction of a cumulative Underlying operating profit UOP target measured over the performance period.
+For details of TSR and UOP performance conditions refer to the Directors remuneration report on pages 62 to 68.
+The PSP awards have been valued using the Monte Carlo model for the TSR element and the Black-Scholes model for the Underlying operating profit element and the resulting share-based payments charge is being spread evenly over the period between the grant date and the Vesting Date.
+Share price Exercise Expected Option Risk free Dividend Non-vesting Fair value at grant date price volatility life rate yield condition per option Grant date Condition % years % % % 19 June 2015 TSR dependent 3.06 Nil 30 3.0 0.9 0.0 0.0 2.08 19 June 2015 UOP dependent 3.06 Nil n a 3.0 0.9 0.0 0.0 3.06 17 June 2016 TSR dependent 3.89 Nil 29 3.0 0.4 0.4 0.0 2.16 17 June 2016 UOP dependent 3.89 Nil n a 3.0 0.9 0.4 0.0 3.89 Expected volatility is estimated by considering historic average share price volatility at the grant date.
+2017 2016 Number Number Outstanding at 1 April 1,641,267 Options granted in the year 1,186,365 1,641,267 Forfeited 144,894 Outstanding at 31 March 2,682,738 1,641,267 Exercisable at 31 March - The PSP awards outstanding at 31 March 2017 have a weighted average remaining vesting period of 1.6 years 2016: 2.2 years and a weighted average contractual life of 8.7 years 2016: 9.2 years.
+Deferred Annual Bonus Plan The Group operates a Deferred Annual Bonus Plan DABP for Executive Directors and certain key senior executives.
+Awards under the plan are contingent on the satisfaction of pre-set internal targets relating to financial and operational objectives.
+Awards have a vesting period of two years from the date of the award the Vesting Period and are potentially forfeitable during that period should the employee leave employment.
+The DABP awards have been valued using the Monte Carlo model and the resulting share-based payments charge is being spread evenly over the combined Performance Period and Vesting Period of the shares, being three years.
+On 17 June 2016, the Group awarded 248,263 nil cost options under the DABP scheme Share price Exercise Expected Option Risk free Dividend Non-vesting Fair value at grant date price volatility life rate yield condition per option Grant date % years % % % 17 June 2016 3.89 Nil 30 2.0 0.4 0.4 0.0 3.89 Auto Trader Group plc Annual Report and Financial Statements 2017 113 Notes to the consolidated financial statements continued 26.
+Share-based payments continued Expected volatility is estimated by considering historic average share price volatility at the grant date.
+2017 Number Outstanding at 1 April Options granted in the year 248,263 Forfeited Outstanding at 31 March 248,263 Exercisable at 31 March The DABP awards outstanding at 31 March 2017 have a weighted average remaining vesting period of 2.2 years 2016: n a and a weighted average contractual life of 9.2 years 2016: n a.
+The charge for the year includes an estimate of the awards to be granted after the balance sheet date in respect of achievement of 2017 targets.
+Sharesave scheme The Group operates a Sharesave SAYE scheme for all employees under which employees are granted an option to purchase ordinary shares in the Company at up to 20% less than the market price at invitation, in three years time, dependent on their entering into a contract to make monthly contributions into a savings account over the relevant period.
+Options are granted and are linked to a savings contract with a term of three years.
+These funds are used to fund the option exercise.
+No performance criteria are applied to the exercise of Sharesave options.
+The assumptions used in the measurement of the fair value at grant date of the Sharesave plan are as follows: Share price Exercise Expected Option Risk free Dividend Non-vesting Fair value at grant date price volatility life rate yield condition per option % years % % % 23 September 2015 3.28 2.64 30 3.0 1.0 0.0 33 0.96 Expected volatility is estimated by considering historic average share price volatility at the grant date.
+The requirement that an employee has to save in order to purchase shares under the Sharesave plan is a non-vesting condition.
+This feature has been incorporated into the fair value at grant date by applying a discount to the valuation obtained from the Black-Scholes pricing model.
+2017 2016 Weighted average Weighted average Number of exercise price Number of exercise price share options share options Outstanding at 1 April 1,060,225 2.64 Options granted in the year 1,096,112 2.64 Exercised 8,680 2.64 Lapsed 132,264 2.64 35,887 2.64 Outstanding at 31 March 919,281 2.64 1,060,225 2.64 Exercisable at 31 March The weighted average market value per ordinary share for Sharesave options exercised in 2017 was 369.51p 2016 n a.
+The Sharesave options outstanding at 31 March 2017 have a weighted average remaining vesting period of 1.7 years 2016: 2.7 years and a weighted average contractual life of 2.2 years 2016: 3.2 years.
+Sharesave options exercised relate to those attributable to good leavers as defined by the scheme rules.
+114 Auto Trader Group plc Annual Report and Financial Statements 2017 Strategic report Governance Financial statements 27.
+Contingent liabilities and guarantees A number of the Groups entities provide guarantees under the Groups Syndicated Term Loan agreement.
+The amount borrowed under this agreement at 31 March 2017 was 363.0m 2016: 403.0m.
+Operating lease commitments At the balance sheet date, the Group had outstanding commitments for future aggregate minimum lease payments under non-cancellable operating leases, which fall due as follows: Land and buildings Other 2017 2016 2017 2016 m m m m No later than one year 1.4 1.1 0.6 0.5 Later than one year and no later than five years 9.9 8.9 0.7 1.0 Later than five years 12.4 14.8 Total 23.7 24.8 1.3 1.5 At 31 March 2017, 11.8m 2016: 14.2m of future lease payments payable after five years relate to the new Manchester and London properties.
+The lease terms on these properties are between 10 and 15 years and both lease agreements are renewable at the end of the lease period at market rate.
+Post balance sheet event On 25 April 2017, AutoTrader Limited, a subsidiary of the Group, acquired 100% of the share capital of Motor Trade Delivery Limited MTD for an undisclosed sum.
+MTD revenues and profits for their last financial year end were less than 1% of the revenue and profits of the Group.
+The acquisition accounting has not yet been concluded as of the date of these financial statements.
+Auto Trader Group plc Annual Report and Financial Statements 2017 115

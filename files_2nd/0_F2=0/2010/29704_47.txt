@@ -1,0 +1,30 @@
+SVG Capital plc Annual Report 2010 55 1 Accounting policies Investments Investments are recognised and derecognised on a trade date where a purchase or sale of an investment is under a contract whose terms require delivery of the investment within the timeframe established by the market concerned, and are initially measured at fair value.
+As the Companys business is investing in financial assets with a view to profiting from their total return in the form of income or capital gains, such financial assets are designated as fair value through profit or loss on initial recognition.
+Incidental costs on acquisition of such assets are expensed.
+Financial assets designated as fair value through profit or loss are measured at subsequent reporting dates at fair value, which for investment funds is at their net asset value based on the fair value of the underlying investments.
+Quoted instruments are valued at either the bid price or the last traded price, depending on the convention of the exchange on which the investment is quoted.
+In respect of unquoted instruments, or where the market for a financial instrument is not active, fair value is established by using recognised valuation methodologies, in accordance with International Private Equity and Venture Capital IPEV Valuation Guidelines.
+Fair value is the price at which an orderly transaction would take place between market participants at the reporting date.
+Gains and losses arising from investments, designated as investments held at fair value through profit or loss, are included in the income statement in the period in which they arise.
+Foreign exchange gains and losses on fair value through profit or loss investments are included within the changes in its fair value.
+Derivative financial instruments The Group uses derivative financial instruments to hedge its risks associated with interest rate fluctuations and foreign exchange movements.
+It is not the Groups policy to trade in derivative instruments.
+Derivative instruments are initially recognised in the balance sheet at cost and are subsequently re-measured at their fair value.
+Fair value is determined by reference to market values for similar instruments.
+Unless designated as cash flow hedges all changes in the fair value of derivative financial instruments are taken to the income statement.
+Cash flow hedges For cash flow hedges, the effective portion of the unrealised gain or loss on the hedging instrument is recognised in equity and recorded in the statement of comprehensive income, while the ineffective portion is recognised in the income statement.
+Amounts taken to equity are transferred to the income statement when the hedged transaction affects profit or loss, such as when a forecast sale or purchase occurs.
+Where the hedged item is the cost of a non-financial asset or liability, the amounts taken to equity are transferred to the initial carrying amount of the non-financial asset or liability.
+If a forecast transaction is no longer expected to occur, amounts previously recognised in equity are transferred to the income statement.
+If the hedging instrument expires or is sold, terminated or exercised without replacement or rollover, or if its designation as a hedge is revoked, amounts previously recognised in equity remain in equity until the forecast transaction occurs and are transferred to the income statement or to the initial carrying amount of a non-financial asset or liability as above.
+If the related transaction is not expected to occur, the amount is taken to the income statement.
+A hedging relationship qualifies for hedge accounting if all of the following conditions are met.
+at the inception of the hedge there is formal designation and documentation of the hedging relationship and the entitys risk management objective and strategy for undertaking the hedge.
+the hedge is expected to be highly effective in achieving offsetting changes in fair value or cash flows attributable to the hedged risk, consistently with the originally documented risk management strategy for that particular hedging relationship.
+for cash flow hedges, a forecast transaction that is the subject of the hedge must be highly probable and must present an exposure to variations in cash flows that could ultimately affect profit or loss.
+the effectiveness of the hedge can be reliably measured, i. e. the fair value or cash flows of the hedged item that are attributable to the hedged risk and the fair value of the hedging instrument can be reliably measured.
+the hedge is assessed on an ongoing basis and determined actually to have been highly effective throughout the financial reporting periods for which the hedge was designated.
+Investments in subsidiaries In its separate financial statements the Company recognises its investment in subsidiaries at cost, unless they are investment vehicles, in which case they are included at fair value.
+Investments in associates In accordance with IAS 28 Investments in Associates, the standard does not apply to investments held in associates by private equity organisations that are designated as fair value through profit or loss.
+Such investments are measured at fair value, with changes in fair value recognised in profit or loss in the period in which they occur.
+An associate is an entity over which the Group is in a position to exercise significant influence, but not control or joint control, through participation in the financial and operating policy decisions of the investee.

@@ -1,0 +1,89 @@
+Overview 11 17 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Our strategy for ARMs strategy is for our long-term growth technology to continue to gain market share in longterm growth markets, such as mobile phones, tablets, consumer electronics and embedded digital devices.
+KPIs: ARM has achieved a more B uilding the base of licences Increasing market penetration than95% penetration of that will drive future royalties in target end-markets mobilehandsets.
+G rowing the number of As ARMs technology becomes ARMprocessor-based chips increasingly applicable, this same level of penetration is possible in other application areas.
+As consumer products become I ncreasing the value that smarter they often contain ARMreceives for every smart multiple ARM processor-based device sold chips, increasing our royalty opportunity.
+Smarter phones and TVs can generate 510 times more royalty than a basic model.
+ARM has introduced new D eveloping and licensing technologies which we believe newtechnology togenerate are suitable for R&D outsourcing additional royaltystreams and can command an up-front licence fee and an ongoing royalty.
+ARMs financial discipline I nvesting in ARMs product Growing normalised operating balances the need for continued development and margins, EPS, cash generation investment to generate long-term deploymentcapability and dividends future growth, whilst increasing todays profitability and shareholder returns.
+18 ARM Holdings plc Annual Report & Accounts 2011 Every licence represents the opportunity Smart consumer devices such as Increase market fora future royalty stream.
+In recent years digitalTVs, mobile phones and 1. penetration ARM has added between 6090 processor mobilecomputers.
+licences per year to its existing base of KPI 36 of the deals were signed with companies licences.
+In 2011, we signed a record 121 taking their first ARM processor licence.
+Building the base processor licences taking the licensing base The majority of these new Partners are of licences that will to nearly 850 licences.
+This growth in the established semiconductor companies number of licences signed is largely due to drive future royalties choosing ARM technology for the first time.
+existing customers upgrading their ARM As the trend towards smarter products gains processor to the next generation: existing pace, so semiconductor companies are customers choosing to deploy ARM finding ARM technology instrumental technology into a broader range of their inhelping them gain share in an product portfolio: or new customers taking increasingly competitive marketplace.
+their first ever ARM processor licence.
+Our Partners are planning todevelop chips The future opportunity for a broad range of endmarkets from the ARM expects that its customers will simplest of microcontrollers to the most continue to re-equip their R&D teams advanced mobile computers.
+These include: with the latest processors for existing product lines.
+In addition, ARMs Deeply embedded products such as technology is becoming increasingly automotive applications, embedded relevant to new markets such as computers, microcontrollers, sensors sensors, computers and servers, andsmartcards: leadingto more new customers takingtheir first ARM licence.
+Enterprise applications such as networking and storage: and ARM licences 07 62 08 61 09 87 10 91 11 121 ARM signed a record number of processor licences in 2011, taking the total number of processor licences signed to 849.
+Licensing by end-market Licensing by processor type Mobile 26% ARM7 9 11 9% Embedded 33% Cortex-A family 29% Enterprise 9% Cortex-R family 3% Home 11% Cortex-M family 41% Multiple 21% Mali 16% 1 21 Other 2% We signed 121 new processor licences 21% of licences were signed by companies Other includes architecture and intending to use ARM technology in multiple subscriptionlicences.
+O Ov five er rv viie ew w 1 11 1 19 S St tr ra at te eg gy y a an nd d p pe erf rfo or rm ma an nc ce e 1 16 6 O Ou ur r p pa ar rt tn ne er rs sh hiip p a ap pp pr ro oa ac ch h 2 25 5 O Ou ur r m ma ar rk ke et tp plla ac ce e 3 35 5 O Ou ur r c co om mm miit tm me en nt t 4 44 4 F Fiin na an nc ciia alls s a an nd d r riis sk k 5 50 0 G Go ov five er rn na an nc ce e 5 59 9 Financial statements 95 In 2011, ARMs customers reported ARM has been seeing rapid adoption of its KPI 7.9billion chips shipped, a 30% increase processor technology into markets such Growing the number over 2010, much higher than the overall as digital TVs and disk drives.
+Overall ofARM processorindustrys excluding memory and analogue ARMs Partners sold 3.4 billion chips based chips growth of 4%.
+This demonstrates ARMs into nonmobile devices, an increase increasing relevance to equipment ofapproximately 50%.
+manufacturers as they choose ARM processorbased chips over chips containing The future opportunity proprietary processor designs.
+ARMs total ARM expects unit shipments and market share rose to 30%, up from 25% royaltyrevenues to grow faster than inthe prior year.
+thesemiconductor industry as ARM continues to gain share.
+Shipments of The mobile phone was the first consumer ARM processor-based chips are growing electronic device where ARM most rapidly in microcontrollers as several processorbased chips started to be widely major semiconductor vendors ramp into deployed.
+In 2011, ARM processorbased full production, and also in mobile chips could be found in over 95% of the computing products such as smartphones and tablets.
+ARMs Partners sold4.5 billion chips into mobile devices, anincrease of approximately 20%, drivenbythe growth in the number of smartphones and mobile computers.
+Revised total market future Gartner.
+Shipments of ARM processor-based chips bn 07 2.9 08 4.0 09 3.9 10 6.1 11 7.9 ARM Partners reported the highest ever number of ARM processor-based chips shipped in 2011.
+Chip shipments by end-market Chip shipments by processor type Mobile 57% ARM7 45% Embedded 23% ARM9 26% Enterprise 16% ARM11 9% Home 4% Cortex-A family 5% Cortex-R family 2% 7.9bn Cortex-M family 13% ARM processor-based chips Nearly all Mali graphics processors were inchips containing another ARM processor.
+20 ARM Holdings plc Annual Report & Accounts 2011 ARM has increased market penetration Increase market 40% into each of its key endmarkets in mobile 1. penetration ARM processorbased chips are used to phones, settop boxes and digital TVs, disk decode the TV signal, to improve image drive controllers and microcontrollers.
+quality on the screen and to display and KPI ARM has announced new technology control the electronic programme guide.
+Increasing market developments that will position our Highend digital TVs are also using ARM penetration in target customers to enter markets such as technology to connect to the internet.
+computers, servers and medical devices.
+end-markets 15% 95% The microcontroller market is highly For many years, mobile phones have used fragmented and OEMs are increasingly ARM processorbased chips in most of requesting that their semiconductor the applications processors and baseband suppliers use a common processor modems.
+ARM is often the choice asitisa suitable architecture that is 90% availableto all semiconductor suppliers.
+Hard disk drives HDDs are used in consumer and enterprise products such as The future opportunity settop boxes, servers, PCs, laptops and All of these target end-markets have other storage applications.
+Leading HDD good long-term growth prospects and manufacturers have chosen to use ARM ARMs market share gains look set to processorbased chips in the products as continue as many of ARMs Partners have disk density has increased, requiring announced new products in these areas.
+smarter chips to read the data from the disk.
+Market penetration Year Mobile Hard disk Digital Micro phones drives TVs controllers % % % % 07 90 45 25 3 08 95 55 25 5 09 95 65 30 5 10 95 85 35 8 11 95 90 40 15 ARM has gained share in all its target end-markets.
+Hard disk drives Digital TVs and set-top boxes Microcontrollers % % % 90 40 15 Market share Market share Market share Up from 85% in 2010 Up from 35% in 2010 Up from 8% in 2010 ARMs penetration into hard disk Digital TVs and set-top boxes are ARM processor-based microcontrollers drives HDD and solid state drives becoming more internet connected, gained share as more leading grew strongly in 2011.
+Leading HDD creating an opportunity for ARM semiconductor companies launched controller companies designed technology ARM processor-based products ARM processor technology into in 2011 their new products in 2011 O Ov five er rv viie ew w 1 11 1 21 S St tr ra at te eg gy y a an nd d p pe erf rfo or rm ma an nc ce e 1 16 6 O Ou ur r p pa ar rt tn ne er rs sh hiip p a ap pp pr ro oa ac ch h 2 25 5 O Ou ur r m ma ar rk ke et tp plla ac ce e 3 35 5 O Ou ur r c co om mm miit tm me en nt t 4 44 4 F Fiin na an nc ciia alls s a an nd d r riis sk k 5 50 0 G Go ov five er rn na an nc ce e 5 59 9 Financial statements 95 Sales of chips into smart devices such as In this period, ARMs most advanced Increase value smartphones and highend digital TVs shipping processor, CortexA9, increased its 2. persmart generate higher royalty revenue than penetration of smartphones from zero to electronicdevice basicphones and TVs.
+Typically, ARMs 75%, whilst its penetration of tablets was royalty revenue per device can increase the over 95%.
+CortexA9 commands a higher KPI smarter the device gets.
+Smarter devices percentage perchip royalty than previous Increasing the may generate more royalty revenue because ARM processors.
+valuethat ARM they may contain: receivesfor every The future opportunity More chips than basic models: smartdevice sold ARM expects that as consumer electronic More expensive chips than basic models: devices become smarter they will and incorporate more chips that could be ARM technology-based.
+Some of these More advanced ARM technology that chips may bebased on the Cortex-A commands a higher perchip royalty.
+family of processors, thus generating higher royaltyrevenue per device.
+During 2011, the total number of mobile phones sold increased by 15% and the number ofsmartphones sold increased by 65%.
+Wealso saw ARM processorbased mobilecomputers, suchastablets, grow to60million in2011.
+ARM value per mobile phone indexed to 2007 07 1.00 08 1.40 09 1.40 10 1.55 11 1.65 ARM royalty per mobile phone has continued to increase.
+Smartphones Mobile Digital TVs % % 75 2.5 25 Smartphones contained an ARM ARM processor-based chips per mobile Digital TVs capable of being Cortex-A family processor phone on average connected to the internet 22 ARM Holdings plc Annual Report & Accounts 2011 During 2011, ARM continued to develop Multimedia IP for 3D gaming Generate additional new technologies that are suitable for and HD video 3. royalties from new licensing to leading semiconductor Many consumer electronic devices are technology companies, and for generating additional utilising 3D graphics and HighDefinition royalty streams in the future.
+HD video to improve the visual experience KPI and make games more engaging.
+Mobile Developing and Physical IP for advanced phones, digital TVs and computers are manufacturing processes licensing new familiar, but other applications such as cars, media players and navigation devices technology to ARM develops physical IP for use by leading are emerging.
+semiconductor companies that manufacture generate additional chips using advanced manufacturing royalty streams During 2011, ARM signed 19 Mali graphics processes.
+ARM is already the leading IP licences and leading OEMs such as LG physical IP provider and is well placed as and Samsung launched mobile and semiconductor companies increasingly consumer electronics devices incorporating outsource manufacturing to ARMs chips based on ARMs multimedia IP.
+During 2011, ARM saw strong licensing, The future opportunity especially for advanced processes, and With a growing base of customers just signedfive foundry platform licences for starting to sell their chips in high ARMs physical IP that will drive future quantities, we expect that the number royalty revenues.
+ofchips enabled by ARMs physical IPand Mali graphics technology will In addition, ARM signed 15 licences for continue to grow in the future.
+Processor Optimisation Packs POPs whichassist Partners implementing ARM processors with preconfigured physical IPcomponents.
+Physical IP revenues $m 07 54.4 32.3 08 44.6 40.3 09 35.9 36.2 10 41.3 43.8 11 49.2 48.7 P Ph hy ys siic ca all IIP P L Liic ce en ns siin ng g P Ph hy ys siic ca all IIP P R Ro oy ya allt ty y Physical IP penetration into smartphones Mali growth in 2011 Advanced physical IP development % x nm 35 25 14 Application processors in ARMs Partners reported a 25 fold ARM is working with leading smartphones were developed increase in the shipments of Mali foundrieson advanced withARMs physical IP processor-based chips  O Ov five er rv viie ew w 1 11 1 23 S St tr ra at te eg gy y a an nd d p pe erf rfo or rm ma an nc ce e 1 16 6 O Ou ur r p pa ar rt tn ne er rs sh hiip p a ap pp pr ro oa ac ch h 2 25 5 O Ou ur r m ma ar rk ke et tp plla ac ce e 3 35 5 O Ou ur r c co om mm miit tm me en nt t 4 44 4 F Fiin na an nc ciia alls s a an nd d r riis sk k 5 50 0 G Go ov five er rn na an nc ce e 5 59 9 Financial statements 95 ARM specialises in designing innovative In addition, ARM acquired two small Shareholder return technology and developing a sophisticated companies to bring their experienced community of Partners to bring that engineering teams into the Group to KPI technology to market.
+Our people are our complement our own expertise: Obsidian Investing in ARMs strength for designing the next generation of Inc. a team specialising in processor technology, delivering it to our customers, validation: and Prolific Inc. experts in novel product development and for growing and maintaining the ARM techniques for the development of physical IP.
+ARM invests in our employees capability through hiring a mix of graduates and The future opportunity seasoned industry experts, developing them ARM expects to continue to invest and providing a supportive culture to initsemployees as we develop our maximise their capability and potential.
+engineering capability and operational execution.
+Due to the inherent leverage In 2011, ARM hired an additional net 227 in the business model, over the people.
+About 80% of our new hires were medium-term we expect that we will engineers, to increase our R&D capability.
+beable to grow our revenues faster Most of this investment was in our thanour costs.
+processor and multimedia engineering teams to take advantage of the opportunities for new ARM technology in servers, computing and 3D graphics.
+Number of employees at year end 07 1,102 1,728 08 1,071 1,740 09 1,024 1,710 10 1,191 1,889 11 1,382 2,116 Number of engineers Total employees Investing in innovators ARM invests in our employees through hiring a mix of graduates and seasoned industry experts, developing them and providing a supportive culture to maximise their capability and potential.
+24 ARM Holdings plc Annual Report & Accounts 2011 ARMs business model and exposure to During 2011, ARM generated 204 million Shareholder return structural growth markets means that ARM of cash up 13% over the prior year.
+is well positioned to become increasingly Theincrease in cash generation is primarily KPI profitable, to generate cash and to support a dueto the increase in revenue.
+Since 2004, Growing normalised progressive dividend.
+ARM intends to cover ARM has returned 444 million of cash most of its operational costs from the licence toshareholders through a combination operating margins, revenues of each new technology.
+This leaves ofshare buybacks and dividends.
+EPS, cash generation the majority of royalties as profits.
+Over the and dividends mediumterm, we expect royalties to grow The future opportunity faster than licence revenues and costs.
+As royalty revenues become a greater proportion of ARMs overall revenues, In 2011, ARMs financial discipline focused ARMs profitability and cash generation investment in areas of maximum is expected to increase.
+opportunity such as the recruitment of more engineers to develop next generation processor IP and physical IP.
+As our customers are the worlds largest semiconductor manufacturers, their regular royalty payments have become a highly reliable cash flow.
+Given our broad base ofPartners and endmarkets, ARM is not overly reliant on any one company or consumer product for its future profits and cash.
+Operating margin % Earning per share pence 07 15.3 31.7 07 2.59 4.79 32.7 08 20.1 08 3.39 5.66 09 15.0 31.2 09 3.11 5.45 10 26.3 40.4 10 6.36 9.34 11 30.3 45.1 11 8.19 12.45 Operating margin under IFRS Diluted EPS under IFRS Normalised operating margin Normalised diluted EPS Normalised net cash generation m Dividend pence 07 60.2 07 2.00 08 95.3 08 2.20 09 86.1 09 2.42 10 179.9 10 2.90 11 203.8 11 3.48 Overview 11 25 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Our partnership Over the next few pages we approach discuss how we build our ecosystems and how this knowledge helps put us in a strong position to deliver the right solutions.
+Our seven partnership areas that form our ecosystem: Read more about Mobile phones p28 this on page 1.
+Read more about Hard Disk Drives p29 this on page 2.
+Read more about Microcontrollers p30 this on page 3.
+Read more about Client Computing p31 this on page 4.
+Read more about Servers p32 this on page 5.
+Read more about Implementation p33 this on page 6.
+Read more about Graphics p34 this on page 7.

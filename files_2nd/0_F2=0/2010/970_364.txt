@@ -1,0 +1,35 @@
+150 Anglo American plc Annual Report 2010 FinAnciAl stAtements: Notes to the financial statements continued 25. financial Risk management and deRivative financial assets liabilities continued Interest on floating rate financial liabilities is based on the relevant national inter-bank rates.
+Remaining fixed rate borrowings accrue interest at a weighted average interest rate of 9% 2009: 9% for an average period of three years 2009: four years.
+Average maturity on non-interest bearing instruments is 14months 2009: 14months.
+Commodity price risk The Groups earnings are exposed to movements in the prices of the commodities it produces.
+The Group policy is generally not to hedge price risk, although some hedging may be undertaken for strategic reasons.
+In such cases, the Group uses forward and deferred contracts to hedge the price risk.
+Certain of the Groups sales and purchases are provisionally priced and as a result are susceptible to future price movements.
+The exposure of the Groups financial assets and liabilities to commodity price risk is as follows: 2010 2009 commodity price linked Commodity price linked not Not subject to linked to Subject to linked to price Fixed commodity price Fixed commodity 1 1 US$ million movements price price total movements price price Total Total net financial instruments excluding derivatives 136 1,322 5,959 4,773 352 733 10,667 9,582 2 Commodity derivatives net 26 26 78 78 Non-commodity derivatives net 33 33 22 22 total financial instrument exposure to commodity risk 162 1,322 5,926 4,766 274 733 10,645 9,638 1 Includes financial instruments whose commodity prices are set quarterly or via contract negotiation.
+2 Includes a $26 million 2009: $44 million derivative embedded in a long term power contract.
+Derivatives In accordance with IAS 32 Financial Instruments: Presentation and IAS 39, the fair value of all derivatives are separately recorded on the balance sheet within Other financial assets derivatives and Other financial liabilities derivatives.
+Derivatives are classified as current or non-current depending on the expected maturity of the derivative.
+The Group utilises derivative instruments to manage certain market risk exposures as explained above.
+The Group does not use derivative financial instruments for speculative purposes, however it may choose not to designate certain derivatives as hedges for accounting purposes.
+Such derivatives that are not hedge accounted are classified as non-hedges and fair value movements are recorded in the income statement.
+The use of derivative instruments is subject to limits and the positions are regularly monitored and reported to senior management.
+Embedded derivatives Derivatives embedded in other financial instruments or other host contracts are treated as separate derivatives when their risks and characteristics are not closely related to those of their host contract and the host contract is not carried at fair value.
+Embedded derivatives may be designated into hedge relationships and are accounted for in accordance with the Groups accounting policy set out in note 1.
+Anglo American Sur Anglo American inherited a 1978 agreement with Enami, a Chilean state controlled minerals company, when it acquired Anglo American Sur in 2002.
+In 2008 this agreement was transferred by Enami to Codelco, the Chilean state copper company.
+Anglo American Sur is wholly owned by the Group and owns the Los Bronces and El Soldado copper mines and the Chagres smelter.
+The agreement grants Codelco the right, subject to certain conditions and limitations, to acquire up to a 49% non-controlling interest in Anglo American Sur.
+The right to exercise the option is restricted to a window that occurs once every three years in the month of January until January 2027, with the next window in January 2012.
+The calculations of the price at which Codelco can exercise its rights are complex and confidential but do, inter alia, take account of company profitability over a five year period.
+The options fair value is calculated as the difference between the estimated fair value of the underlying assets to which the option relates and the estimated option price.
+The estimated fair value of the underlying assets may vary based on a market participants assumptions at any point in time, including, inter alia, commodity prices, foreign exchange rates and discount rates.
+In addition, the option price must be estimated based on current assumptions about inputs that cannot be finalised in advance of the option window and are subject to significant fluctuations.
+Based on a range of scenarios for these key variables, it has been concluded that the option has insufficient value to warrant recognition on the balance sheet as at 31 December 2010.
+Cash flow hedges In certain cases the Group classifies its forward foreign currency and commodity price contracts hedging highly probable forecast transactions as cash flow hedges.
+Where this designation is documented, changes in fair value are recognised in equity until the hedged transactions occur, at which time the respective gains or losses are transferred to the income statement or hedged balance sheet item in accordance with the Groups accounting policy set out in note 1.
+Fair value hedges The majority of interest rate swaps taken out to swap the Groups fixed rate borrowings to floating rate, in accordance with the Groups policy have been designated as fair value hedges.
+The carrying value of the hedged debt is adjusted to reflect the fair value of the interest rate risk being hedged.
+Subsequent changes in the fair value of the hedged risk are offset against fair value changes in the interest rate swap and classified within net finance costs in the income statement.
+Non-hedges The Group may choose not to designate certain derivatives as hedges.
+This may occur where the Group is economically hedged but IAS 39 hedge accounting cannot be achieved or where gains and losses on both the derivative and hedged item naturally offset in the income statement, which may for example be the case for certain cross currency swaps of non-US dollar debt.
+Where derivatives have not been designated as hedges, fair value changes are recognised in the income statement in accordance with the Groups accounting policy set out in note 1 and are classified as financing or operating depending on the nature of the associated hedged risk.

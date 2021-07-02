@@ -1,0 +1,30 @@
+206 Aviva plc Notes to the consolidated financial statements continued Annual Report and Accounts 2010 8 Long-term business economic volatility The long-term nature of much of the Groups operations means that, for managements decision-making and internal performance management, the effects of short-term economic volatility are treated as non-operating items.
+The Group focuses instead on an operating profit measure that incorporates an expected return on investments supporting its long-term business.
+This note explains the methodology behind this.
+a Definitions Operating profit for long-term business is based on expected investment returns on financial investments backing shareholder and policyholder funds over the reporting period, with consistent allowance for the corresponding expected movements in liabilities.
+Operating profit includes the effect of variance in experience for non-economic items, such as mortality, persistency and expenses, and the effect of changes in non-economic assumptions, where not treated as exceptional.
+In 2010, the strengthening of annuitant longevity assumptions in the Netherlands is treated as an exceptional item outside operating profit.
+Changes due to economic items, such as market value movements and interest rate changes, which give rise to variances between actual and expected investment returns, and the impact of changes in economic assumptions on liabilities, are disclosed separately outside operating profit.
+b Economic volatility The investment variances and economic assumption changes excluded from the long-term business operating profit are as follows: Long-term business 2010 2009 m m Investment variances and economic assumption changes 791 75 Investment variances of 791 million include 1,010 million relating to Delta Lloyd.
+Of this, around 800 million is due to differing movements in asset and liability yield curves while the remainder primarily relates to gains on interest rate derivatives.
+Liabilities in Delta Lloyd are discounted using a yield curve based on a fully collateralised AAA bond portfolio.
+The discount rate increased in 2010 as an increase of around 80bps in credit spreads on collateralised bonds was only partly offset by lower risk-free yields.
+As a result, whilst lower interest rates increased the market value of assets, this has not been offset by a corresponding movement in liabilities.
+The AAA collateralised bond spread movement in the year reflected the perceived risk regarding the curves components which include bonds issued by Spanish savings banks and a range of other European organisations.
+If spreads were to reduce, this would increase the insurance liabilities which may not be offset by a corresponding increase in asset values.
+This was partly offset by negative economic variances of 154 million in Aviva Europe, primarily from the impact of increased bond yields and credit spreads on assets in Ireland, Italy and Spain.
+The additional provisions for credit defaults on corporate bonds and commercial mortgages in the UK that were established in 2008 remain at consistent levels.
+c Methodology The expected investment returns and corresponding expected movements in long-term business liabilities are calculated separately for each principal long-term business unit.
+The expected return on investments for both policyholders and shareholders funds is based on opening economic assumptions applied to the expected funds under management over the reporting period.
+Expected investment return assumptions are derived actively, based on market yields on risk-free fixed interest assets at the end of each financial year.
+The same margins are applied on a consistent basis across the Group to gross risk-free yields, to obtain investment return assumptions for equities and properties.
+Expected funds under management are equal to the opening value of funds under management, adjusted for sales and purchases during the period arising from expected operating experience.
+The actual investment return is affected by differences between the actual and expected funds under management and changes in asset mix, as well as movements in interest rates.
+To the extent that these differences arise from the operating experience of the long-term business, or management decisions to change asset mix, the effect is included in the operating profit.
+The residual difference between actual and expected investment return is included in investment variances, outside operating profit but included in profit before tax.
+The movement in liabilities included in operating profit reflects both the change in liabilities due to the expected return on investments and the impact of experience variances and assumption changes for non-economic items.
+The effect of differences between actual and expected economic experience on liabilities, and changes to economic assumptions used to value liabilities, are taken outside operating profit.
+For many types of long-term business, including unit-linked and with-profits funds, movements in asset values are offset by corresponding changes in liabilities, limiting the net impact on profit.
+For other longterm business the profit impact of economic volatility depends on the degree of matching of assets and liabilities, and exposure to financial options and guarantees.
+d Assumptions The expected rate of investment return is determined using consistent assumptions between operations, having regard to local economic and market forecasts of investment return and asset classification under IFRS.
+The principal assumptions underlying the calculation of the expected investment return for equities and properties are: Equities Properties 2010 2009 2010 2009 % % % % United Kingdom 7.8 7.0 6.3 5.5 Eurozone 7.2 7.3 5.7 5.8

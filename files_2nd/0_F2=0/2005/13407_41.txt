@@ -1,0 +1,106 @@
+Notes to the consolidated financial statements 23 Derivative financial instruments 2005 2004 m m Non current assets 92 90 Current assets 43 11 135 101 Current liabilities 20 2 Total derivative financial instruments 115 99 See Notes 24 and 25 for further details of derivative financial instruments.
+24 Financial instruments 2005 i Financial risk management Rexams financial risk management is based upon sound economic objectives and good corporate practice.
+Derivative financial instruments are used to manage trading exposures, liabilities and assets under parameters laid down by the Board of Directors and are monitored by its Finance Committee.
+Derivative financial instruments are used as economic hedges to manage interest rate, foreign exchange and commodity risks.
+Rexam has not used derivatives for purposes other than for hedging.
+Hedge accounting treatment has not been applied, following the adoption of IFRS, to all hedging activities due in part to the onerous level of compliance required under IAS39.
+All derivative financial instruments are measured at fair value at each balance sheet date.
+The Groups major operational hedging activities, mainly associated with the European beverage can operation, comply with IFRS hedge accounting requirements.
+For the smaller trading exposures in its other businesses, Rexam has derivative hedges which are effective from an economic standpoint, but where hedge accounting has not been applied.
+Fair value gains and losses on these hedges are recognised in the consolidated income statement at each reporting date.
+The income statement volatility resulting from these exposures is not significant.
+Rexam has entered into interest rate swap transactions to fix its US dollar interest payments.
+These US dollar interest rate swaps hedge floating interest payable on a sterling to US dollar cross currency swap associated with Rexams issue of 250m sterling medium term notes in 2002.
+These medium term notes were subsequently swapped into US dollars as a cost efficient way of raising US dollar bond debt at the time of issue.
+The interest rate swaps fail to get hedge accounting treatment under IAS39 as they are hedging other derivatives.
+Fair value gains and losses on these interest rate swaps have to be taken to the consolidated income statement at each reporting date.
+The amount taken to the consolidated income statement each year will be determined by movements in US dollar interest rates on bonds and swaps with equivalent maturities, which can neither be predicted nor, under current IFRS rules, managed.
+The swaps continue to fulfil their original objective of fixing part of the Group's US dollar interest cash payments, even though the IFRS accounting treatment means that there is associated volatility in the consolidated income statement.
+When the fixed euro medium term notes were issued in 2002, they were immediately swapped to floating rates, so as to maintain the balance between fixed and floating rates.
+Rexam then entered into interest rate swap transactions to fix a part of its euro interest payments.
+Under IFRS, these two sets of interest rate swaps, entered into at different times and at different rates, are now effectively offsetting the volatility each would otherwise generate, whilst the fixed rate notes provide the fixed rate level of funding sought.
+In 2005 there was a net gain of 9m on financing derivatives recorded within interest in the consolidated income statement.
+This comprised a 5m gain on the US dollar interest rate swaps, a 6m gain on the offsetting euro interest rate swaps and a 2m loss on other cross currency swaps.
+Interest rate risk The objective of interest rate risk management is to reduce the Group's exposure to the effects of rising short term interest rates.
+Its effect is to fix the interest cash flows, using interest rate swaps, for a significant part of the Group's borrowings.
+The interest rate risk profile of the Group is set out in iv below.
+The issue of longer term borrowings through the MTN programme is a key element of the Group's debt and financial risk management process.
+Fixed rate MTNs, in sterling 250m and euros euros 550m, were issued in 2002 to meet strong investor demand for public issuance in those currencies, which helped the pricing of the notes issued.
+However, the Group's fixed to floating rate debt proportions were relatively high at that time and its own funding needs were for floating rate euros and US dollars.
+To satisfy both investor demand and meet its own funding needs, the Group entered into a series of swap transactions simultaneously with the pricing of the notes.
+A further MTN issue of 120m was made in February 2003 and, again simultaneous to issue, it was swapped into floating rate US dollar interest rates to its maturity.
+Additional smaller private issues of MTNs have been made in response to investor enquiries.
+Most of these notes have been issued at floating rates to fit more readily into the Groups funding profile.
+This has enabled the Group to continue to manage the fixed to floating rate proportion of its borrowings and the duration of the fixed rate borrowings independently of the sourcing of the funding.
+Interest rate swaps have been used to fix a proportion of the US dollar interest paid by the Group.
+These interest rate swaps cannot be treated as hedges under IFRS rules, so fair value gains and losses are recognised in the consolidated income statement.
+Re nancing risk It is the Group's policy to maintain a range of maturity dates for its borrowings, and to refinance them at the appropriate time so as to reduce refinancing risk.
+The Group also has a committed syndicated bank facility of 775m, reduced from 875m at 31 December 2004, due in 2010.
+87 Notes to the consolidated financial statements 24 Financial instruments 2005 continued Foreign exchange translation risk With substantially all of the Group's businesses located outside the UK, and therefore with net assets denominated in foreign currencies, hedging the consolidated balance sheet position is very important.
+The translation of foreign currency net assets does not affect their underlying local currency value but does affect their sterling value for reporting in the consolidated financial statements.
+The Group has its borrowings largely denominated in foreign currencies, which, with the use of forward foreign exchange FX contracts and cross currency swaps, provide hedges for its foreign currency net assets.
+These amounts are included in the consolidated financial statements by translation into sterling at the reporting date and, where hedge accounted, offset in equity against the translation movements in net assets.
+Interest expense, which mirrors the currency denomination of borrowings, is also largely in foreign currencies and acts as a partial hedge on income earned by overseas businesses.
+In addition, income of overseas businesses is translated in the consolidated financial statements at the average FX rates for the year, and provides some protection against volatility.
+As well as hedging net assets this strategy helps protect gearing and borrowing covenant ratios against adverse currency movements.
+Foreign exchange transaction risk A number of the Group's businesses are involved in cross border trade transactions which inevitably introduce currency risks related to FX movements.
+Where appropriate, hedging strategies using forward FX contracts and other derivatives are put in place for managing these exposures.
+The Group usually hedges a higher proportion of the nearer term currency exposures than the expected, but not contractually committed, sales or purchases to be made further into the future.
+This active management of risk means that more cover is taken out when exchange rates are judged to be favourable or to protect against increased risk.
+Longer term FX contracts have been entered into to hedge future sales and purchasing contracts of the European beverage can operation.
+As a result, a proportion of FX hedges extend beyond the end of 2006 into 2007 and 2008.
+None of the FX derivative financial instruments at 31 December 2005 related to derivative trading activity, although some fair value gains and losses were taken to the consolidated income statement because IFRS hedge accounting was not applied.
+FX derivative contracts are used for hedging general business exposures in foreign currencies such as the purchase and sale of goods, capital expenditure and dividend flows.
+Where IFRS hedge accounting treatment is obtained, gains or losses on the derivative hedges are held in equity and only recognised in the consolidated income statement when the losses or gains on the hedged transactions are recognised in the consolidated income statement.
+Commodity risk The objective of commodity risk management is to identify those businesses that have exposures to commodities traded on commodity markets and to then determine which, if any, commodity market instruments are appropriate for hedging those exposures.
+To manage such exposures, the Group uses mainly over the counter instruments transacted with banks, which are themselves priced through a recognised commodity exchange such as the London Metal Exchange.
+In addition, the Group makes use of physical supply contracts which effectively pass commodity risks through to customers.
+Rexam manages the purchase of certain raw materials, including aluminium and energy costs through physical supply contracts which, in the main, relate directly to commodity price indices.
+The supply contracts can be hedged with appropriate derivative contracts to fix and manage costs.
+The derivative hedge contracts may extend over several years.
+Usually a higher proportion of short term exposures are hedged than those further forward.
+The extent of the forward cover taken is judged according to market conditions and prices of futures prevailing at the time.
+At 31 December 2005, hedges were in place with maturities in 2006, with lesser amounts hedged into 2007 and 2008.
+None of the commodity derivative financial instruments at 31 December 2005 related to derivative trading activity, although some fair value gains and losses were taken to the consolidated income statement because IFRS hedge accounting was not applied.
+The commodity hedges relate to contracted and expected future purchases of aluminium and energy.
+Where IFRS hedge accounting treatment is obtained, gains or losses on the derivative hedges are held in equity and recognised in the consolidated income statement when the losses or gains on the hedged transactions are recognised in the consolidated income statement.
+Embedded derivatives As part of the implementation of IFRS, contracts were reviewed to identify any embedded derivatives which are required to be separately accounted for.
+Certain supply contracts entered into by Group companies include embedded derivatives, used as part of the pricing mechanisms agreed with customers or suppliers.
+These embedded derivatives cannot be reported as being part of a hedging relationship, so fair value gains and losses are taken to the consolidated income statement.
+The effect of fair valuing these embedded derivatives is generally to recognise at the reporting date the impact, at current prices, of the pricing mechanism's embedded derivative on the expected future supplies to be made under the contracts, even where a contract is in profit or would not otherwise require its future financial effects to be recognised.
+88 Notes to the consolidated financial statements 24 Financial instruments 2005 continued ii Carrying amount and fair value of financial assets and liabilities at 31 December 2005: Carrying Fair amount value m m Financial assets: Cash and cash equivalents 87 87 Available for sale financial assets 30 30 Derivative financial instruments 135 135 Financial liabilities: Borrowings: Bank overdrafts 91 91 Bank loans 369 369 Medium term notes 815 845 Finance leases 36 38 Convertible preference shares 70 76 Derivative financial instruments 20 20 Market values have been used to determine the fair values of cash and cash equivalents, available for sale financial assets, cross currency swaps and bank borrowings.
+The fair value of the medium term notes has been determined by reference to their quoted market prices at the close of business on 31 December 2005.
+The fair value of the convertible preference shares has been determined using a market rate for an equivalent non convertible bond.
+The fair values of interest rate swaps, xed rate loans and finance leases have been determined by discounting their cash ows at prevailing interest rates.
+The fair value of forward foreign exchange contracts has been determined by marking those contracts to market against prevailing forward foreign exchange rates.
+The fair value of forward aluminium commodity contracts has been determined by marking those contracts to market at prevailing forward aluminium prices.
+The fair value of embedded derivatives was calculated using valuation models incorporating market commodity prices and foreign exchange rates.
+iii H edging activities The net fair values of the Group's derivative financial instruments at 31 December 2005 designated, and not designated, as hedging instruments are set out below.
+Net Non hedge Fair value Cash ow investment accounted hedges hedges hedges Total m m m m m Derivative financial instruments: Interest rate swaps 8 8 - - - Cross currency swaps 464 - 674 Forward foreign exchange contracts 1- 4- 5 Forward aluminium commodity contracts 1 - 41 - 42 Embedded derivatives 6 - - - 6 8 72 45 6 115 The fair values of the Group's non derivative financial instruments at 31 December 2005 designated as hedging instruments are set out below.
+Net investment hedges m Bank loans 106 Medium term notes 410 516 Derivative financial instruments not hedge accounted At 31 December 2005, the Group had interest rate swaps with principal amounts of euro 510m and $ 356m, whereby interest is payab le at xed interest rates varying from 3.8% to 4.7%, and interest rate swaps with principal amounts of euro 510m and Cz ech K rone 150m, whereby inte rest is receivable at xed interest rates varying from 2.7% to 4.3%.
+These interest rate swaps all settle against the appropriate prevailing LIBOR ra te, in some cases adjusted by a margin.
+The interest rate swaps mature between 2007 and 2009.
+At 31 December 2005, the Group had cross currency swaps of sterling for US dollars with principal amounts of 95m and $ 159m, whereby interest is payable and receivable at oating rates adjusted by a margin.
+The cross currency swaps mature between 2006 and 2009.
+At 31 December 2005, the Group had forward foreign exchange contracts with principal amounts equivalent to 198m that mature between 2006 and 2007.
+At 31 December 2005, the Group had forward aluminium commodity contracts with principal amounts of $ 34m that mature between 2006 and 2007.
+At 31 December 2005, the Group had embedded derivatives with principal amounts equivalent to 45m representing metal price and foreign exchange derivatives within customer and supplier contracts that are due to expire over the next three years.
+89 Notes to the consolidated financial statements 24 Financial instruments 2005 continued Fair value hedges At 31 December 2005, the Group had an interest rate swap contract with a principal amount of 120m, whereby interest is receivable at a xed rate of 7.1% and payable at a oating rate plus a margin.
+At 31 December 2005, the Group had cross currency swaps which are separated for accounting purposes into interest rate swaps and cross currency swaps.
+The interest rate swaps element has a principal amount of 250m, whereby interest is receivable at a xed rate of 7.1% and payable at oating sterling LIBOR plus a margin.
+The cross currency swaps element has principal amounts of $ 356m and 250m, whereby interest is payable and receivable at oating rates plus a margin.
+The 120m interest rate swaps and 250m interest rate swaps element referred to above both hedge the exposure to changes in the fair value of 370m of medium term notes and mature in 2009.
+The cross currency swaps element referred to above hedge changes in the fair value of US dollar intercompany loans and mature in 2009.
+Cash ow hedges At 31 December 2005, the Group had forward foreign exchange contracts and forward aluminium commodity contracts with principal amounts equivalent to 135m and $ 282m respectively.
+The forward foreign exchange contracts and forward aluminium commodity contracts hedge the for eign currency and commodity price risks respectively of anticipated future purchases of aluminium.
+The associated fair value gains and losses will be transferred to inventory when the purchases occur over the next three years.
+During the year, certain forecast purchases of aluminium were no longer expected to occur and cash ow hedge accounting discontinued, resulting in recognition of a gain of 1m in the consolidated income statement.
+Net investment hedges At 31 December 2005, the Group has borrowed amounts denominated in euros and US dollars of euro 703m and $ 121m which it has des ignated as hedges of net investments in its subsidiaries in the Euroz one and the US A.
+The amounts borrowed under the cross currency swaps mature in 2009. iv Interest rate risk The following tables set out the carrying amount, by maturity, of the Groups non derivative financial instruments that are exposed to interest rate risk at 31 December 2005.
+Total Effective ithin W 1 to 2 to 3 to 4 to More than carrying interest rate 1 year 2 years 3 years 4 years 5 years 5 years amount % m m m m m m m Fixed rate: Bank loans 4.6 3 1 1 - - - 5 Medium term notes 6.9 40 388 - 370 - - 798 Finance leases 7.5 16 7 3 1 1 1 29 Convertible preference shares 8.0 ----- 70 70 59 396 4 371 1 71 902 Floating rate: Cash and cash equivalents 87----- 87 Bank overdrafts 91 ----- 91 Bank loans 4 3 3 3 339 12 364 Medium term notes 10 - 7 - - - 17 Finance leases - - 7 - - - 7 18 3 17 3 339 12 392 Cash at bank earns interest at oating rates based on daily bank deposit rates in the relevant currency.
+S hort term deposits are made for varying periods of between one day and three months depending on the immediate cash requirements of the Group and earn interest at the respective short term deposit rates.
+Other oating rate financial instruments above are at the appropriate LIBOR interest rates as adjusted by variable margins.
+Interest on oating rate financial instruments is re-priced at intervals of less than one year.
+Interest on xed rate financial instruments is xed until maturity of the instrument.
+The effect of interest rate swaps and cross currency swaps, including principal amounts only, is to modify the amounts and interest rates of medium term notes as set out below.
+Total Effective ithin W 1 to 2 to 3 to 4 to More than carrying interest rate 1 year 2 years 3 years 4 years 5 years 5 years amount % m m m m m m m Fixed rate 7.2 40 384 - 205 - - 629 Floating rate 10 4 7 111 - - 132 Medium term notes after effects of hedging 50 388 7 316 - - 761 Principal amounts of cross currency swaps - - - 54 - - 54 Medium term notes before effects of hedging 50 388 7 370 - - 815 90

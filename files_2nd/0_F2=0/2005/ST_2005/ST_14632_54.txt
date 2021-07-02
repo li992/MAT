@@ -1,0 +1,30 @@
+SPIRAX-SARCO_JJ ENGINEERING_NN plc_NN ANNUAL_NNP REPORT_NNP 2005_CD A_DT R_NN 2005_CD 17_CD 3_CD 06_CD 01:1_CD pm_NN Page_NNP 84_CD SPIRAX_NNP SARCO_NNP WORLDWIDE_NNP UNITED_NNP KINGDOM_NNP AND_CC UNITED_NNP KINGDOM_NNPS AND_CC REPUBLIC_NNPS OF_IN IRELAND_NNP Spirax-Sarco_NNP Ltd._NNP ._.
+Spirax-Sarco_NNP Investments_NNP Ltd._NNP ._.
+Spirax-Sarco_NNP Overseas_NNP Ltd._NNP ._.
+Watson-Marlow_NNP Ltd._NNP ._.
+Eirdata_NNP Environmental_NNP Services_NNPS Ltd._NNP ._.
+NORTH_NNP AMERICA_NNP CONTINENTAL_NNP EUROPE_NNP Canada_NNP Austria_NNP Spirax_NNP Sarco_NNP Canada_NNP Ltd._NNP ._.
+Spirax_NNP Sarco_NNP Ges_NNP ._.
+mbH_NNP Mexico_NNP Belgium_NNP Spirax-Sarco_NNP Mexicana_NNP S._NNP A._NNP 49_CD %_NN Spirax-Sarco_NNP N._NNP V._NNP USA_NNP Watson-Marlow_NNP N._NNP V._NNP Spirax_NNP Sarco_NNP ,_, Inc._NNP ._.
+Czech_JJ Republic_NNP Sarco_NNP International_NNP ,_, Corp._NNP ._.
+Spirax_NNP Sarco_NNP spol_NN ._.
+s_PRP r._FW o._FW Watson-Marlow_NNP ,_, Inc._NNP ._.
+Denmark_NNP Spirax-Sarco_NNP Ltd._NNP ._.
+Branch_NNP ASIA_NNP Finland_NNP China_NNP Spirax_NNP Oy_NNP Spirax_NNP Sarco_NNP Engineering_NNP China_NNP Ltd._NNP ._.
+France_NNP India_NNP Spirax-Sarco_NNP S._NNP A._NNP S._NNP Spirax-Marshall_NNP Ltd._NNP 40_CD %_NN Watson-Marlow_NNP S._NNP A._NNP Japan_NNP Germany_NNP Spirax-Sarco_NNP Ltd._NNP ._.
+Branch_NNP Spirax-Sarco_NNP GmbH_NNP Malaysia_NNP Hygromatik_NNP Lt._NNP A._NN GmbH_NNP Spirax-Sarco_NNP Sdn_NNP ._.
+Watson-Marlow_NNP GmbH_NNP Singapore_NNP Italy_NNP Spirax-Sarco_NNP Private_NNP Ltd._NNP ._.
+Spirax-Sarco_NNP S._NNP r._NNP l._VBD South_NNP Korea_NNP Watson-Marlow_NNP S._NNP r._NNP l._VBD Spirax-Sarco_NNP Korea_NNP Ltd._NNP 97.5_CD %_NN M&M_NNP International_NNP S._NNP r._NNP l._VBD Taiwan_NNP Ampe_NNP S._NNP r._NNP l._VBD Spirax_NNP Sarco_NNP Co._NNP ._.
+Ltd._NNP ._.
+Netherlands_NNP Thailand_NNP Spirax-Sarco_NNP Engineering_NNP B._NNP V._NNP Spirax_NNP Sarco_NNP Thailand_NNP Ltd._NNP ._.
+Spirax-Sarco_NNP Investments_NNP B._NNP V._NNP Bredel_NNP Hose_NNP Pumps_NNP B._NNP V._NNP REST_NNP OF_IN THE_DT WORLD_NN Watson-Marlow_NNP Bredel_NNP Holdings_NNP B._NNP V._NNP Argentina_NNP Watson-Marlow_NNP B._NNP V._NNP Spirax_NNP Sarco_NNP S._NNP A._NNP Norway_NNP Australia_NNP Spirax-Sarco_NNP Ltd._NNP ._.
+Ltd._NNP ._.
+Poland_NNP Brazil_NNP Spirax_NNP Sarco_NNP Sp_NNP ._.
+Portugal_NNP New_NNP Zealand_NNP Spirax_NNP Sarco_NNP Equip_NNP ._.
+Spirax_NNP Sarco_NNP Ltd._NNP ._.
+Russia_NNP South_NNP Africa_NNP Spirax-Sarco_NNP Engineering_NNP LLC_NNP Spirax-Sarco_NNP South_NNP Africa_NNP Pty._NNP ._.
+Ltd._NNP ._.
+Spain_NNP Watson_NNP Marlow_NNP Bredel_NNP S._NNP A._NNP Pty._NNP ._.
+95.1_CD %_NN Actuators_NNS and_CC Controls_NNP Pty_NNP Ltd._NNP ._.
+Spirax-Sarco_NNP Engineering_NNP S._NNP L._NNP Proportional_NNP Control_NNP Technology_NNP Pty_NNP Ltd._NNP ._.
+M&M_NNP Iberica_NNP S._NNP L._NNP 67_CD %_NN Sweden_NNP Spirax-Sarco_NNP A._NNP B._NNP Switzerland_NNP Spirax-Sarco_NNP A._NN G._NNP Spirax-Sarco_NNP Engineering_NNP plc_NN Charlton_NNP House_NNP ,_, Cirencester_NNP Road_NNP Cheltenham_NNP ,_, Gloucestershire_NNP GL53_NNP 8ER_NNP UK_NNP

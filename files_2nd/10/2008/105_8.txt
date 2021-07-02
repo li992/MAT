@@ -1,0 +1,35 @@
+Risk Report The Group operates in a new and dynamic business 888 operate a 24x7 Network Operations Centre NOC.
+In addition to the day-to-day commercial NOCs role is to conduct real time monitoring of production risks faced by most enterprises, the online gaming industry activities using state-of-the-art systems.
+These systems are faces particular challenges in respect of Regulatory risk, designed to identify and provide alerts regarding problems Reputational risk, Information Technology risk and Taxation related to systems, key business indicators and issues risk, each of which is detailed below.
+Regulatory risk Taxation risk The regulatory framework of online gaming is dynamic and The Group aims to ensure that each legal entity within complex.
+Change in the regulatory regime in a specific the Group is a tax resident of the jurisdiction in which it is jurisdiction could have a material adverse effect on business incorporated and has no taxable presence in any other volume and financial performance in that jurisdiction.
+While the Groups customers are located detailed regulatory review is set out below.
+worldwide, certain jurisdictions may seek to tax such activity which could have a material adverse effect on the amount of Reputational risk tax payable by the Group or on customers behaviour.
+The Group is exposed to the risk of under-age and problem gamblers accessing its online real money gaming sites.
+The The Group benefits from favourable fiscal arrangements in Group devotes considerable resources to putting in place some of the jurisdictions in which it has taxable presence prevention measures coupled with strict internal procedures without which its results would be adversely affected.
+All designed to prevent under-aged players from accessing gaming activities are based in Gibraltar, where the Group its real money sites.
+In addition, the Group promotes a currently benefits from a tax exempt status.
+A change of safe and responsible gaming environment to its customers control or activity of a tax exempt subsidiary would result in supplemented by its corporate culture.
+The Group has a the loss of its tax status.
+However, this is not expected to dedicated Director of CSR & Responsible Gaming tasked have a material adverse effect on the overall tax rate of the with the responsibility of implementing such policies.
+The tax exempt status is due to expire by the end of details about the Groups responsible gaming initiatives are 2010 when the Government of Gibraltar intends to introduce set out on page 31. a new fiscal regime that complies with EU requirements.
+Information technology risks Domestic corporate tax in Gibraltar is 27% 2008 2009.
+As a leading online business, the Groups IT systems Gibraltars Chief Minister has announced further reductions are critical to its operation.
+The Group is reliant on the in anticipation of the introduction of a flat tax rate of 10% performance of these systems.
+A consultation is in place with respect to the new tax regime in Gibraltar and it is widely anticipated, following Cutting-edge technologies and procedures are implemented Government indications that the new rules will be in place throughout the Groups technology operations designed to by July 2009 but not come into effect until July 2010 with protect its networks from malicious attacks and other such gaming companies subject to an effective rate of tax well risks.
+These measures include traffic filtering, anti-DDoS below the new flat tax rate.
+The Group is currently required Distributed Denial of Service devices, Anti-Virus protection to pay a gaming duty, currently set at 1% of gaming yield, from leading vendors and other such means.
+Physical and with an annual maximum cap of 425,000 in aggregate, logical network segmentation is used to isolate and protect in respect of its Casino, Poker, Bingo and Backgammon the Groups networks and restrict malicious activities.
+In order activities and, separately, at the same rate in respect of the to ensure systems are protected properly and effectively, Groups new Sports offering.
+The applicability of the gaming external security scans and assessments are carried out in a taxes following the implementation of the new tax regime is, timely manner.
+The Group has a high-end storage solution to as yet, unclear.
+ensure storage availability and performance.
+All critical data is replicated to another storage device for disaster recovery The Groups subsidiary in Israel, Random Logic Limited, purposes and all data is stored off-site on a daily basis.
+and the Israeli branch of Intersafe Global Limited, have each entered into separate transfer pricing agreements on an arms In order to minimise dependencies on telecommunication length basis with the Israeli Income Tax Commissioner.
+The service providers, the Group invests in network infrastructure arrangements for Random Logic Limited are effective until redundancies whilst regularly reviewing its service providers.
+The 2010, while the arrangement for the Intersafe Global Limited Group has contracted with a second Internet service provider in branch terminated on 31 December 2007.
+Accordingly, the Gibraltar in order to minimise reliance on one provider.
+Group has discontinued the use of this branch.
+As a part of its monitoring system, the Group deploys set The operation in Antigua also benefits from a low tax regime user experience tests which measure performance from further mitigated by the current small scale of the operation.
+different locations around the world.
+Network-related performance issues are addressed by re-routing traffic using different routes or providers.

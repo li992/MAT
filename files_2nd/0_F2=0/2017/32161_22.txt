@@ -1,0 +1,562 @@
+Financial statements N otes to the consolidated financial statements 1.
+Accounting policies and basis of preparation Basis of preparation TalkTalk Telecom Group PLC is incorporated and domiciled in England and Wales under the Companies Act 2006.
+The Companys shares are listed on the London Stock Exchange.
+The registered office of the Company is 11 Evesham Street, London W11 4AR.
+The principal activities of the Group are the provision of telecommunication services to Retail and B2B customers.
+The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS issued by the International Accounting Standards Board IASB.
+The consolidated financial statements of the Group have also been prepared in accordance with IFRS asadopted for use in the European Union EU and as applied in accordance with the provisions of the Companies Act 2006.
+These financial statements therefore comply with Article 4 of the European Union International Accounting Standard regulation.
+The consolidated financial statements have been prepared on the historical cost basis, except for the revaluation of certain financial instruments and investments.
+The consolidated financial statements are presented in Sterling, rounded to the nearest million, because that is the currency of the principal economic environment in which the Group operates.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company, entities controlled by the Company its subsidiaries and entities which are joint ventures accounted for using the equity method made up to 31 March each year.
+Control is achieved where the Company has the power to govern the financial and operating policies of an investee entity so as to obtain benefits from its activities.
+The results of subsidiaries acquired or sold during the year are included from or to the date on which control passed to or was relinquished bythe Group.
+Intercompany transactions and balances between subsidiaries are eliminated on consolidation.
+Where necessary, adjustments are made to the financial statements of subsidiaries and the results of joint ventures to bring accounting policies in line with those used by the Group.
+Alternative performance measures In response to the guidelines on alternative performance measures APMs issued by the European Securities and Markets Authority ESMA, additional information on the APMs used by the Group is provided below.
+The following APMs are used by the Group: Headline revenue: Headline EBITDA: Headline operating profit: Headline profit before taxation: Headline profit after taxation: Headline basic EPS: Headline free cash flow: and Headline leverage net debt to Headline EBITDA ratio.
+Where relevant, a reconciliation between statutory reported measures and Headline measures is shown in note 9 to these consolidated financial statements.
+EBITDA is defined as earnings before interest, tax, depreciation and amortisation.
+Free cash flow is defined as operating cash flows after movements in working capital, net capital expenditure and interest and taxation excluding exceptional cash flows note 9.
+Headline measures exclude items which are non-trading or non-recurring.
+These items are not included in the performance measures theBoard uses to monitor the performance of the Group.
+Headline measures are used to partly determine the variable element of remuneration of senior management throughout the Group andarealso in alignment with performance measures used by certain external stakeholders in the context of the telecoms sector.
+In particular, Headline EBITDA and free cash flow are commonly used across the telecoms industry to aid stakeholders in making comparisons between the performance of the Group and its peers.
+Headline EBITDA and free cash flow are not defined terms under IFRS and may not be comparable with similarly titled profit measures reported by other companies.
+They are not intended to be a substitute for, or superior to, GAAP measures.
+All APMs relate to the current yearresults and comparative periods where provided.
+Going concern The consolidated financial statements have been prepared on the going concern basis.
+Details of the considerations undertaken by the Board in reaching this conclusion are set out on page 21 within the Chief Financial Officers Statement.
+Viability statement Details of the considerations undertaken by the Board in reaching their conclusions are set out on page 40 within the Corporate Governance section.
+Accounting policies The Groups principal accounting policies, which relate to the consolidated financial statements as a whole, are set out below.
+Where an accounting policy isspecific to one note, the policy is described in the note to which it relates.
+This section also shows new EU-endorsed accounting standards, amendments and interpretations, whether these are effective in the current or later years.
+In both cases it is explained how they are expected to impact the performance of the Group.
+78 TalkTalk Telecom Group PLC Annual Report 2017 1.
+Accounting policies and basis of preparation continued Revenue Revenue is stated net of VAT and other sales-related taxes and represents the gross inflow of economic benefit generated from the provision of fixed line, TV and mobile telecommunications services.
+All such revenue is recognised as the services are provided: line rental is recognised in the period to which it relates: voice and broadband subscriptions are recognised in the period to which they relate: usage including voice and TV content is recognised in the period in which the customer takes the service: promotional discounts and credits are amortised on a straight line basis over the minimum contract period, in absence of a minimum contract period an average contract period is used: and data service solutions and other service contracts are recognised as the Group fulfils its performance obligations.
+Revenue is measured at fair value of the consideration received or receivable.
+When the Group sells a number of products within a bundled transaction, the total consideration from the arrangement is allocated to each element based on their relative fair values.
+Management applies judgement in determining the amount of revenue the Group recognises for delivered elements, limited to the amounts billed for thatelement on the basis of recoverability.
+Where the Group sells hardware to third parties involved in outsourcing its customer acquisition, hardware revenue is recognised when risk and rewards of the related hardware is transferred to the outsourced third party.
+Subscriber acquisition costs Subscriber acquisition costs include both third party costs of recruiting and retaining new customers as well as device costs.
+These are expensed as incurred.
+Certain subscriber acquisition costs relate to revenue share arrangements with third parties payable over a definable period subject to customer churn, commission payable under these arrangements are recognised as an expense at the same time as the related revenue with the related reimbursement being recognised on customer acquisition.
+Foreign currency translation and transactions Material transactions in foreign currencies are hedged using forward purchases or sales of the relevant currencies and are recognised in the financial statements at the exchange rates obtained.
+Unhedged transactions are recorded at the exchange rate on the date of the transaction.
+Hedge accounting as defined by IAS 39 Financial Instruments: Recognition and Measurement has been applied in the current and preceding financial year by marking to market the relevant financial instruments at the balance sheet date and recognising the gain or loss through other comprehensive income in respect of cash flow hedges.
+The principal exchange rates against UK Sterling used in these financial statements are as follows: Average Closing 2017 2016 2017 2016 Euro 1.19 1.36 1.17 1.26 United States Dollar 1.30 1.50 1.25 1.44 Leases Rental payments under operating leases are charged to the income statement on a straight line basis over the period of the lease, even where payments are not made on such a basis.
+Lease incentives and rent free periods are amortised through the income statement over theperiod of the lease term.
+Gains or losses from sale and leaseback transactions are deferred over the life of the new lease to the extent that the rentals are considered to be above or below market rentals.
+The remaining gain or loss is recognised within operating expenses in the year in which the sale is completed after consideration of the Groups exceptional policy.
+Financial instruments Financial assets and financial liabilities, in respect of financial instruments, are recognised in the Group balance sheet when the Group becomes a party to the contractual provisions of the instrument.
+Trade and other receivables Trade receivables and other receivables that have fixed or determinable payments that are not quoted in an active market are classified as loans and receivables.
+Loans and receivables are measured at amortised cost using the effective interest rate method, less any impairment.
+Interest income is recognised by applying the effective interest rate, except for short term receivables when the recognition of interest would be immaterial.
+Amounts receivable from suppliers included within trade and other receivables Occasionally, the Group enters into agreements with certain suppliers for rebates on the cost of goods purchased.
+Judgement is applied bymanagement in these circumstances to ensure that the rebate is recognised over the appropriate financial period.
+Income from suppliers in the year related to renegotiated contract rates and compensation received under existing contracts.
+Where theseamounts relate to historical transactions, negotiated in the current year, they are recognised in the current year income statement.
+Where they relate to future transactions, negotiated in the current year, they are recognised in accordance with the contractual terms.
+Annual Report 2017 TalkTalk Telecom Group PLC 79 Financial statements N otes to the consolidated financial statements continued 1.
+Accounting policies and basis of preparation continued Financial instruments continued Cash and cash equivalents Cash and cash equivalents consist of cash at bank and in hand and bank deposits.
+Trade payables Trade payables are other financial liabilities initially measured at fair value and subsequently measured at amortised cost.
+Financial liabilities and equity instruments Financial liabilities and equity instruments issued by the Group are classified according to the substance of the contractual arrangements entered into and the definitions of a financial liability and an equity instrument.
+An equity instrument is any contract that evidences a residual interest inthe assets of the Group after deducting all of its liabilities and includes no obligation to deliver cash or other financial assets.
+Theaccounting policies adopted for specific financial liabilities and equity instruments are set out below.
+Borrowings Borrowings represent committed and uncommitted bank loans, US Private Placement Notes, Senior Notes, a receivables purchase agreement and bank overdrafts.
+These are initially measured at net proceeds and are subsequently measured at amortised cost, using theeffective interest rate method.
+Bank fees and legal costs associated with the securing of external financing are capitalised and amortised over the term of the relevant facility.
+All other borrowing costs are recognised in the income statement in the period in which they are incurred.
+Bank overdrafts that are repayable on demand and form an integral part of the Groups cash management are included as a component ofcash and cash equivalents for the purpose of the statement of cash flows.
+Equity instruments Equity instruments issued by the Group are recorded at the proceeds received, net of direct issuance costs.
+Shares in the Company held by the Group ESOT are shown as a reduction in shareholders funds.
+Other assets and liabilities held by the trust are consolidated with the assets of the Group.
+Derivative financial instruments and hedge accounting The Groups activities expose it to the financial risks of changes in foreign exchange rates and interest rates.
+The use of financial derivatives is governed by the framework approved by the Board, which provides written principles on the use of financial derivatives consistent with the Groups risk management strategy.
+Changes in values of all derivatives of a financing nature are included within investment income and financing costs in the income statement.
+The Group does not use derivative financial instruments for speculative purposes.
+Derivative financial instruments are initially measured at fair value on the contract date and are subsequently remeasured to fair value ateach reporting date.
+Hedge accounting is discontinued when the hedging instrument expires or is sold, terminated or exercised, or no longer qualifies for hedge accounting, or the Company chooses to end the hedging relationship.
+Cash flow hedges The Group uses derivative instruments primarily interest rate swaps to manage its interest rate risk.
+The Group designates these as cash flow hedges.
+The effective portion of changes in the fair value of these instruments is recognised in other comprehensive income.
+The gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+Measurement The financial instruments included on the Group balance sheet are measured at fair value or amortised cost.
+The measurement of this fair value can in some cases be subjective and can depend on the inputs used in the calculations.
+The different valuation methods are called hierarchies and are described below: Level 1: Fair values measured using quoted prices unadjusted in active markets for identical assets or liabilities: Level 2: Fair values measured using inputs, other than quoted prices included within Level 1 that are observable for the asset or liability either directly or indirectly: and Level 3: Fair values measured using inputs for the asset or liability that are not based on observable market data.
+Critical accounting judgements and key sources of estimation uncertainty The preparation of financial statements requires management to exercise judgement in applying the Groups accounting policies.
+Estimates and assumptions used in the preparation of the financial statements are continually reviewed and revised as necessary.
+Whilst every effort is made to ensure that such estimates and assumptions are reasonable, by their nature they are uncertain, and as such changes in estimates and assumptions may have a material impact.
+The areas involving the critical accounting judgements are set out in more detail in the related notes: going concern and viability statement pages 21 and 40 respectively forecast assumptions: revenue recognition for bundled transactions note 1 allocation of each element based on their relative fair values: hardware sales to third parties involved in outsourcing its customer acquisition note 1 transfer of risk and rewards to the outsourced third party: 80 TalkTalk Telecom Group PLC Annual Report 2017 1.
+Accounting policies and basis of preparation continued Critical accounting judgements and key sources of estimation uncertainty continued amounts receivable from suppliers note 1 quantum and nature of income: revenue share arrangements with third parties note 1 recognised as an expense at the same time as the related revenue: and exceptional items note 9 balance of income and cost between exceptional and Headline earnings.
+The area involving key sources of estimation uncertainty is taxation note 7 forecast assumptions.
+In addition, during the year ended 31 March 2017, the Group has revised its accounting estimates in relation to bad debt provisioning 5mcredit to the income statement and the average contract period that certain promotional discounts and credits are amortised over.
+Application of significant new or amended EU-endorsed accounting standards There are no new or revised standards and interpretations that have had a material impact on the Group during the year.
+Future accounting developments At the date of authorisation of these consolidated financial statements, there were a number of significant standards and interpretations that have not been applied in these consolidated financial statements, these were in issue, but not yet effective and in some cases had not yet been adopted by the EU.
+The Directors expect that the following standards will have an impact on the consolidated financial statements of the Group in future periods: IFRS 9 Financial Instruments, impacting the disclosure within the financial instruments.
+The Group will implement this standard for the year ended 31 March 2020.
+IFRS 15 Revenue from Contracts with Customers, impacting revenue recognition, related costs and disclosures.
+The Group will implement this standard for the year ended 31 March 2019.
+The Group expects to elect to present the first-time application of IFRS 15 using the modified retrospective method, applying a one-off cumulative effect of transition to retained earnings at 1 April 2018.
+IFRS 16 Leases, impacting lease recognition.
+The Group expects to adopt this standard early for the year ended 31 March 2019, in line with the adoption of IFRS 15 to ensure future results are comparable year on year.
+IFRS 9 The requirements of IFRS 9 and their implications to the Group have been assessed and management has concluded that the impact to the annual report and accounts will be immaterial.
+IFRS 15 IFRS 15 requirements The core principle of IFRS 15 is that an entity recognises revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods and services.
+An entity recognises revenue in accordance with that core principle by applying the following steps: 1.
+Identify the contract with the customer 2.
+Identify the performance obligations in the contract 3.
+Allocate the transaction price to the performance obligation in the contract 5.
+Recognise revenue when or as the entity satisfies a performance obligation The Group has considered the above guidance and carried out a detailed review including the key actions below: reviewing contract agreements which include variable consideration constraints in order to assess the appropriate transaction price: assessing the performance obligations that exist through the promise of goods or services offered to customers within its contractual agreements: carrying out a review of costs to establish which costs meet the criteria to be capitalised as fulfilment costs under IFRS 15: and carrying out a review of costs to identify those that are incremental in obtaining a new contract.
+Implications for TalkTalk Following the above assessment, we are in the process of completing a detailed exercise where the following items have already been noted: Contract inception From an assessment of revenue associated with specific performance obligations the Group expects a change in the timing of recognition of revenue.
+Under IFRS 15 a stand-alone selling price will be allocated to the sale of hardware and revenue recognised on transfer of control of that hardware in line with the stand-alone selling price.
+The connection fee will form part of the transaction price, which will be allocated to the hardware and service fee, the service fee component of which will be recognised over life of the contract.
+Costs to fulfil contracts Specific subscriber acquisition costs currently recognised on contract inception will be spread over a defined period for the product to which itrelates.
+Costs to obtain contracts Incremental sales commission costs directly attributable to obtaining specific contracts and currently recognised as incurred will be spread over a defined period for the product to which it relates.
+Annual Report 2017 TalkTalk Telecom Group PLC 81 Financial statements N otes to the consolidated financial statements continued 1.
+Accounting policies and basis of preparation continued Future accounting developments continued IFRS 16 The Group has a variety of operating leases, however currently no finance leases are recognised within the consolidated financial statements.
+Theaccounting for these operating leases will change when IFRS 16 is implemented.
+IFRS 16 requirements Following a preliminary review by management of the implications of IFRS 16 the following can be noted: a number of lease contracts currently disclosed within note 24 to the financial statements, which currently give rise to recurring expenses within operating expenses, will be recognised on the balance sheet as a Right of use asset for the year ended 31 March 2019: a corresponding lease liability current and non-current reflecting the Groups commitment to pay consideration to third parties under these contracts will also be recognised, increasing the Groups net debt, although the cash flow profile remains the same for the Group: the Group will depreciate the right of use assets with a charge to the income statement over the shorter of the assets useful lives and the assessed lease term: the Group will charge interest on the liability using the rate of interest implicit in the lease or the Group's incremental borrowing rate.
+Interestwill be charged to finance costs: and the profile of the overall expense in the income statement will change as the interest expense will be more front-loaded compared to a straight line operating lease rental expense.
+Specifically, for management to conclude on whether a contract contains a lease, the following has been reviewed: whether there is an identified asset that the Group has the right to obtain substantially all the economic benefits: whether the Group has the right to direct how and for what purpose the asset is used: whether the Group has the right to operate the asset without the supplier having the right to change those operating instructions: and whether the Group has designed the asset in a way that predetermines how and for what purpose the asset will be used.
+In addition, management has also considered other salient factors in the assessment of the standard such as: the length of assessed lease term taking into account the non-cancellable period of the lease including periods covered by an option toextend or an option to terminate if the Group is reasonably certain to exercise either option: and the applicability of interest rate implicit in the lease or the Groups incremental borrowing rate.
+Implications for TalkTalk Following the above assessment, management has concluded that the following items that are currently classified as operating leases willberecognised in the financial statements using the new requirements: certain property, including offices and data centres: the Groups backhaul network, being backhaul circuits rented from BTOR, Virgin Media and others: the Groups collector ring, being collector circuits rented from BTOR and others: elements of the Groups core network: all fibres and other cable links rented from third parties: the Groups interconnect network, being primarily ISI circuits and ducts rented from BTOR and others: the Groups recurring licences for systems, to the extent they are not capitalised perpetual licences or subscriptions to services: and IT equipment leases, including laptops, mobile phones and printers.
+In addition, management has concluded that the following areas will be out of the scope of IFRS 16 and key judgements based upon the Groups specific network circumstances: the footprint the Group rents from BTOR in the unbundled exchanges and in co-location data centres, as this is not considered to be an identifiable asset: and the copper and fibre connections the Group rents in the last mile, comprising copper between the exchange and customer business premise for MPF and SMPF customers, and a combination of copper and fibre for our FTTC customers, as the Group does not have the total ability to control or direct the use of the equipment in full as stipulated within IFRS 16.
+Management has also reviewed available exemptions contained within IFRS 16 and concluded that tie cables, being the tie pairs the Group rents from BTOR in the unbundled exchanges, will fall under the low value asset exemption.
+In addition, the Group does not intend to utilise the short term exemption for leases whose lease term represents a period of twelve months or less.
+Beyond the information above in relation to IFRS 15 and 16 it is not currently practical toprovide a reasonable financial estimate of the effect of these standards until the full implementation of each project has been concluded.
+Management expects to disclose the financial effect of these standards within the Groups Annual Report for the year ended 31 March 2018 and will also continue to monitor the practical interpretation of these new standards within the telecommunications industry prior to full implementation.
+82 TalkTalk Telecom Group PLC Annual Report 2017 2.
+Segmental reporting IFRS 8 Operating Segments requires the segmental information presented in the financial statements to be that used by the chief operating decision maker CODM to evaluate the performance of the business and decide how to allocate resources.
+The Group has identified the Board as its CODM.
+The Board considers the results of the business as a whole when assessing the performance of the business and making decisions about the allocation of resources.
+Accordingly the Group has one operating segment with all trading operations based in the UnitedKingdom.
+2017 2016 m m Headline revenue 1,783 1,838 Headline EBITDA 304 260 Depreciation 69 72 Amortisation of operating intangibles 59 49 Share of results of joint ventures 11 8 Headline operating profit note 9 165 131 Non-operating amortisation 10 10 Exceptional items revenue 3 Exceptional items cost of sales 21 Exceptional items operating expenses excluding amortisation and depreciation 78 80 Exceptional items depreciation 3 Statutory operating profit note 9 95 38 The Groups revenue is split by On-net, Off-net and Corporate products as this information is provided to the Groups CODM.
+On-net and Off-net comprise Consumer and Business customers that receive similar services.
+2017 2016 m m On-net 1,342 1,399 Corporate 397 384 Off-net 44 55 Headline revenue 1,783 1,838 The Group has no material overseas operations: as a result, a split of revenue and total assets by geographical location has not been disclosed.
+Corporate revenue is further analysed as: 2017 2016 m m Carrier 121 119 Data 157 120 Voice 119 145 Corporate revenue 397 384 Annual Report 2017 TalkTalk Telecom Group PLC 83 Financial statements N otes to the consolidated financial statements continued 3.
+Operating profit Operating profit is stated after charging crediting : 2017 2016 m m Depreciation of property, plant and equipment note 12 69 72 Amortisation of other operating intangible fixed assets note 11 59 49 Amortisation of acquisition intangibles note 11 10 10 Profit on disposal of property, plant and equipment 2 Impairment loss recognised on trade receivables 60 71 Employee costs note 4 136 139 Cost of inventories recognised in expenses 55 72 Rentals under operating leases 105 100 Supplier rebates 13 13, Service level related dispute 27 17 Auditors remuneration 1 1 Exceptional items note 9 86 83 Exceptional items disputed network charges in relation to prior years note 9 29 Exceptional items depreciation note 9 3 1 Included in operating profit are associated increased costs of 13m relating to these supplier rebates.
+2 Included in operating profit are associated increase costs relating to these service level related disputes.
+3 Included in 2017 exceptional items are 12m of service level related disputes relating to 2016.
+4 A breakdown of auditors remuneration is disclosed within the Corporate Governance section on page 43.
+Employee costs The average monthly number of employees including Executive Directors was: 2017 2016 Number Number Administration 1,588 1,670 Sales and customer management 638 620 2,226 2,290 The aggregate remuneration recognised in respect of these employees in the income statement comprised: 2017 2016 m m Wages and salaries 112 115 Social security costs 14 15 Other pension costs 5 4 131 134 Share-based payments note 5 5 5 136 139 The Group provides various defined contribution pension schemes for the benefit of a significant number of its employees.
+These are charged to the income statement as they become payable in accordance with the rules of the schemes.
+Compensation earned by key management personnel is analysed below.
+The key management personnel comprised the Board of Directors see the Directors Remuneration Report on pages 44 to 62 and other senior management.
+2017 2016 m m Salaries and fees 4.0 3.8 Performance bonuses 1.5 1.8 Benefits 0.1 0.1 Pension costs 0.2 0.2 Share-based payments 0.7 1.4 Compensation for loss of office 0.9 7.4 7.3 84 TalkTalk Telecom Group PLC Annual Report 2017 5.
+Share-based payments Accounting policy The Group issues equity settled share-based payments to certain employees and Executive Directors.
+Equity settled share-based payments are measured at fair value at the date of grant and expensed over the vesting period, based on an estimate of the number ofshares that will eventually vest.
+Fair value is measured by use of a dividend discount or binomial model for share-based payments with internal, non-market performance criteria for example, EPS targets and a Black Scholes or Monte Carlo model for those with external performance criteria for example, TSRtargets.
+For schemes with non-market performance criteria, the number of options expected to vest is recalculated at each balance sheet date, based on expectations of performance against target and of leavers prior to vesting.
+The movement in cumulative expense since the previous balance sheet date is recognised in the income statement, with a corresponding entry in reserves.
+For schemes with market performance criteria, the number of options expected to vest is adjusted only for expectations of leavers prior tovesting.
+If a scheme is cancelled, any remaining part of the fair value of the scheme is expensed immediately.
+If a scheme is forfeited, no further expense is recognised and any charges previously recognised are reversed.
+Charges arise on loans that are provided to employees to fund the purchase of shares in the Group as part of long term incentive plans.
+Totheextent to which the loans are not, in certain circumstances, repayable, the cost of such loans is expensed over the course of the relevant incentive plans.
+Charges are also recognised on loans provided to employees to settle personal tax liabilities.
+To the extent to which the loans are not, in certain circumstances, repayable, the cost of such loans is expensed.
+TalkTalk Telecom Group PLC schemes TalkTalk Telecom Group PLC schemes are the Shareholder Value Plan SVP, Discretionary Share Option Plan DSOP, Save-As-You-Earn SAYE Scheme and Share Match Plan SIP.
+Where applicable, the ESOT holds shares to settle these plans, based on the latest view of vesting.
+In order to aid the user of the financial statements, the dilutive effect on EPS of each scheme has been presented.
+This has been calculated using an average share price for the financial year of 2.03 2016: 2.92.
+Summary of share schemes Options outstanding Dilutive at the end of IFRS 2 effect the year charge number number Year ended 31 March 2017 m millions millions TalkTalk Telecom Group PLC schemes SVP participation shares 1 SVP II participation shares 1 DSOP 2016 grant FY17 2 4 10 DSOP 2015 grant FY16 1 1 DSOP 2014 grant FY15 1 3 5 DSOP 2013 grant FY14 1 1 DSOP 2012 grant FY13 1 1 DSOP 2010 grant FY11 1 1 SAYE 3 Total TalkTalk Telecom Group PLC schemes 5 11 22 Options outstanding Dilutive at the end of IFRS 2 effect the year charge number number Year ended 31 March 2016 m millions millions TalkTalk Telecom Group PLC schemes SVP participation shares 2 2 DSOP 2015 grant FY16 2 DSOP 2014 grant FY15 1 3 7 DSOP 2013 grant FY14 1 2 4 DSOP 2012 grant FY13 2 2 DSOP 2010 grant FY11 1 2 SAYE 1 1 4 Total TalkTalk Telecom Group PLC schemes 5 11 21 Annual Report 2017 TalkTalk Telecom Group PLC 85 Financial statements N otes to the consolidated financial statements continued 5.
+Share-based payments continued Summary of share schemes continued i SVP The SVP and SVP II are growth plans and not share option plans operating under the Value Enhancement Scheme VES rules previously approved by shareholders.
+The SVP and SVP II enables participants to share in up to 7% of any increase in the value of the Group over an opening market capitalisation of 2,941m based on a five business day average up to 3 June 2014 for SVP and 2,292m based on a five business day average up to 19 May 2016 for SVP II.
+The awards are subject to the following performance conditions: at least a 7% compound annual increase CAGR in the market capitalisation of the Group from the above valuation over a three and fouryear period: and the Groups TSR outperforms the FTSE 250.
+The performance conditions are measured over an initial performance period from 3 June 2014 SVP and 19 May 2016 SVP II to the date ofannouncement of the Groups FY17 SVP and FY19 SVP II annual results, after which a total of 60% of the options will vest.
+The remaining options are measured over a performance period from 3 June 2014 SVP and 19 May 2016 SVP II to the date of announcement of the Groups FY18 SVP and FY20 SVP II annual results.
+The Pool also has a maximum cap on incremental value equal to 2.75% of the total issued share capital of TalkTalk Telecom Group PLC at the date of each vesting.
+There is a holding period on 100% of the PLC shares received in exchange for participation shares on vesting, of twelve months from each vesting date for Executive Directors.
+All other participants are required to hold 50% of the PLC shares received in exchange for participation shares on vesting for twelve months from each vesting date.
+In FY15, the Company made awards in the SVP.
+No awards were made in the year ended 31 March 2016.
+The Group advanced loans to participants to enable them to purchase participation shares in TalkTalk Group Limited, the holding company of the Groups operating business.
+These loans are subject to a commercial rate of interest based on rates set by HMRC.
+If an employee leaves the Group before the scheme vests, then the participation shares are forfeited for the value of the outstanding loan plus accrued interest.
+A fair value exercise was conducted for the awards using the Monte Carlo method with the total fair value of the participation shares granted totalling 5m in SVP and 4m in SVP II.
+A summary of the schemes is shown below: Participation shares 2017 2016 Number Number SVP 2015 grant million million Outstanding at the beginning of the year 17 17 Forfeited during the year 2 Outstanding at the end of the year 15 17 Exercisable at the end of the year Participation shares 2017 2016 Number Number SVP II 2016 grant million million Outstanding at the beginning of the year Granted during the year 20 Forfeited during the year 2 Outstanding at the end of the year 18 Exercisable at the end of the year ii DSOP In FY15 2014 grant and FY16 2016 grant, the Group granted eight million nil-priced share option awards and two million nil-priced share.
+InFY17 2016 grant, the Group granted eleven million nil-priced share options.
+These options are subject to the following performance conditions: at least a 7% compound annual increase CAGR in the market capitalisation of the Group from the below valuation over the next three and four year periods: at least a 23.8% compound annual increase CAGR in the headline earnings per share EPS of the Group from the FY16 headline EPS: and the employee remains in service with the Group for the vesting periods.
+86 TalkTalk Telecom Group PLC Annual Report 2017 5.
+Share-based payments continued Summary of share schemes continued ii DSOP continued The options are measured as follows: a performance period from 19 May 2016 to 19 May 2019 vesting on announcement of the Groups FY20 annual results.
+A total of 60% ofthevested options are exercisable from the vesting date, with the remaining 40% of options being exercisable twelve months later.
+Options are forfeited if an employee leaves the Group before the options vest, subject to the DSOP scheme rules.
+In FY15 2014 grant and FY16 2015 grant, the Group granted eight million nil-priced share option awards and two million nil priced share option awards respectively.
+These awards are subject to the following performance conditions: at least a 7% compound annual increase CAGR in the market capitalisation of the Group from the below valuation over the next three and four year periods: and the Groups TSR outperforms the FTSE 250.
+The options are measured as follows: 2014 grant: a performance period from 3 June 2014 to 3 June 2017 vesting on announcement of the Groups FY17 annual results.
+A total of 60% of the vested options are exercisable from the vesting date, with the remaining 40% of options being exercisable twelve months later.
+2015 grant: a performance period from 11 September 2015 to 11 September 2018 vesting on 11 September 2018.
+The vested options are only exercisable twelve months following the vesting date.
+In FY14 2013 grant, the Group granted six million nil-priced share option awards subject to absolute TSR and EPS performance targets, 20% of the outstanding options vested on the announcement of the Groups FY16 annual results.
+These options are only exercisable twelve months after the vesting date.
+Options are forfeited if an employee leaves the Group before the options vest.
+2016 grant 2015 grant 2014 grant 2013 grant 2012 grant 2010 grant Number WAEP Number WAEP Number WAEP Number WAEP Number WAEP Number WAEP Number of share options outstanding million million million million million million Opening balance at 1 April 2015 8 5 8 2 Granted during the year 2 Exercised during the year 2 Forfeited during the year 1 1 4 Closing balance at 31 March 2016 2 7 4 2 2 1.27 Granted during the year 11 Exercised during the year 1 1 1.27 Forfeited during the year 1 1 2 3 Closing balance at 31 March 2017 10 1 5 1 1 1 1.27 Number of share options exercisable As at 31 March 2016 2 1.27 As at 31 March 2017 1 1 1.27 Valuation assumptions Valuation method Monte Carlo Monte Carlo Monte Carlo Monte Carlo Monte Carlo Monte Carlo Share price p 240 309 321 228 122 132 Exercise price p nil nil nil nil nil 127 Expected volatility 28.75% 25.0% 25.0% 30.0% 30.0% 37.0% Expected exercise 60% 40% 3 and 4 years 4 years 3 and 4 years 3 and 4 years 3 and 4 years 3 and 4 years Risk free rate 3 years 4 years 0.44% and 1.67% 1.27% and 0.50% and 0.60% 3.40% 0.64% 1.67% 0.80% Expected dividend yield 5.65% 5.60% 5.60% 4.45% 3.50% 3.80% Fair value of options granted m 10 1 4 3 3 9 Weighted average remainingcontractual life 9.1 years 8.4 years 7.2 years 6.2 years 4.9 years 3.6 years Annual Report 2017 TalkTalk Telecom Group PLC 87 Financial statements N otes to the consolidated financial statements continued 5.
+Share-based payments continued Summary of share schemes continued ii DSOP continued Part of the 2016 grant was valued using the Black Scholes model, the valuation assumptions for these are shown below: DSOP 2016 grant Valuation method Black Scholes Share price p 240 Exercise price p nil Expected volatility N A Expected exercise years 3 and 4 years Risk free rate N A Expected dividend yield 5.65% Fair value of options granted m 9 Weighted average remaining contractual life 9.1 years iii SAYE The scheme permits the granting of options to employees linked to a bank SAYE contract for a term of three or five years.
+Contributions from UK employees range from 5 to 250 per month for schemes launched between 2010 and 2013 and between 5 and 500 per month for the 2014 scheme onwards.
+Options may be exercised at the end of the three or five year period at an exercise price determined at the invitation date.
+The scheme is available for a period each year for employees to join.
+Exercise prices for the schemes are set out below: 2016 grant 209p per share 2015 grant 307p per share 2014 grant 240p per share 2013 grant 192p per share 2012 grant 123p per share 2011 grant 119p per share 2010 grant 102p per share 2017 2016 Number WAEP Number WAEP million million Outstanding at the beginning of the year 4 2.32 4 1.89 Granted during the year 2 2.09 2 3.07 Exercised during the year 1 1.88 1 1.19 Forfeited during the year 2 2.37 1 2.54 Outstanding at the end of the year 3 2.26 4 2.32 Exercisable at the end of the year SAYE 2016 grant Valuation method Black Scholes Share price p 232 Exercise price p 209 Expected volatility 29.7% Expected exercise years 3.8 Risk free rate 0.46% Expected dividend yield 6.85% Fair value of options granted m nil Weighted average remaining contractual life 2.2 years 88 TalkTalk Telecom Group PLC Annual Report 2017 5.
+Share-based payments continued Summary of share schemes continued iv Share Match Plan The Group launched its first all-employee, HMRC-approved Share Match Plan SIP in June 2014, following the Remuneration Committee approval of this scheme in the year ended 31 March 2014.
+This enables eligible employees to purchase market priced shares by entering into apartnership share agreement and holding such shares in trust for up to a five year period.
+The rules of the Plan allow an employee maximum contribution of 1,800 per annum, or in line with HMRC limits if these are increased.
+Approval for the TTG Share Match was granted by shareholders at the AGM on 24 July 2013.
+The Remuneration Committee, at its discretion, may award matching and or free shares to eligible participants.
+Matching shares may be granted up to a maximum ratio of two matching shares for each partnership share purchased by a participant.
+Free shares may be awarded upto a maximum value of 3,600 tax free per annum, or in line with HMRC limits if these are increased.
+Currently the Group provides one matching share for each partnership share purchased by participating employees or Executive Directors.
+During the year ended 31 March 2017, the impact of the SIP on the Groups results was not material.
+Net finance costs Net finance costs are analysed as follows: 2017 2016 m m Interest on bank loans and overdrafts 27 21 Facility fees and similar charges 5 3 Exceptional finance income note 9 7 25 24 In FY17, the Group recognised interest of 7m 2016: nil on a BT dispute settled in FY14 for the overcharging of certain wholesale Ethernet services note 9.
+In 2016, the impact of finance income was not material.
+In FY17, the Group issued 400m Senior Notes due 2022 the bond.
+Arrangement fees of 5m were paid and are being amortised over the lifeof the notes.
+Upon receipt of the bond proceeds the Group repaid 50m of the term loan and the 2016 100m RCF in full, accelerating the amortisation of the fees relating to this facility.
+The remaining fees in relation to the 2014 RCF, term loan and US Private Placement continue to be amortised over the expected life of the loans and are included within facility fees and similar charges above.
+The average interest rate in the year was 3.60% 2016: 3.10%.
+Taxation Accounting policy Current tax, including UK corporation tax and overseas tax, is provided at amounts expected to be paid or recovered using the tax rates and laws that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax is provided on temporary differences between the carrying amount of an asset or liability in the balance sheet and its tax base.
+Deferred tax liabilities represent tax payable in future periods in respect of taxable temporary differences.
+Deferred tax assets represent tax recoverable in future periods in respect of deductible temporary differences, and the carry-forward of unused tax losses and credits.
+Deferred tax is determined using the tax rates that have been enacted or substantively enacted at the balance sheet date and are expected to apply when the deferred tax asset is realised or the deferred tax liability is settled.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be available against which the asset can beutilised.
+Current and deferred tax is recognised in the income statement except where it relates to an item recognised directly in reserves, inwhich case it is recognised directly in reserves.
+Deferred tax assets and liabilities are offset where there is a legal right to do so in the relevant jurisdictions.
+Key sources of estimation uncertainty in applying the Groups accounting policy The extent to which tax losses can be utilised depends on the extent to which taxable profits are generated in the relevant jurisdictions forthe foreseeable future, and on the tax legislation then in force, and as such the value of associated deferred tax assets is uncertain.
+Recovery of the deferred tax asset is estimated over a ten year time horizon using an extrapolation of the Groups three year plan.
+Sensitivities have been applied to these forecasts as noted in the viability statement on page 40.
+Forecast profits within the ten year agreed time horizon impact the level of the deferred tax asset recognition.
+Accordingly an increase or decrease in future profitability would increase or decrease the asset recognised.
+In particular, the assumptions regarding customer churn are most critical.
+Annual Report 2017 TalkTalk Telecom Group PLC 89 Financial statements N otes to the consolidated financial statements continued 7.
+Taxation continued Tax income statement The tax charge credit comprises: 2017 2016 m m Current tax UK corporation tax 5 Adjustments in respect of prior years: UK corporation tax 1 Total current tax charge credit 5 1 Deferred tax Origination and reversal of timing differences 9 7 Effect of change in tax rate 7 6 Adjustments in respect of prior years deferred tax credit 1 3 Adjustments in respect of prior years exceptional credit charge 8 3 Total deferred tax charge 7 13 Total tax charge 12 12 The tax charge on Headline earnings for the year ended 31 March 2017 was 33m 2016: 28m, representing an effective tax rate on pre-tax profits of 25% 2016: 26%.
+The tax charge on Statutory earnings for the year ended 31 March 2017 was 12m 2016: 12m.
+The reconciliation between the Headline and Statutory tax charge is shown in note 9.
+The principal differences between the tax charge and the amount calculated by applying the standard rate of UK corporation tax of 20% 2016:20% to the profit before taxation are as follows: 2017 2016 m m Profit before taxation 70 14 Tax at 20% 2016: 20% 14 3 Items attracting no tax relief or liability 1 Effect of change in tax rate 7 6 Adjustments in respect of prior years 1 3 Adjustments in respect of prior years exceptional credit charge 8 3 Movement in recognised tax losses during the year 3 Movement in unrecognised tax losses during the year 1 Total tax charge through income statement 12 12 Tax retained earnings and other reserves Tax on items recognised directly in retained earnings and other reserves is as follows: 2017 2016 m m Total tax charge through income statement 12 12 Deferred tax charge recognised directly in retained earnings and other reserves 3 Total tax charge through retained earnings and other reserves 12 15 The deferred tax charge recognised directly in retained earnings and other reserves for the years ended 31 March 2017 and 31 March 2016 relates to share-based payments.
+90 TalkTalk Telecom Group PLC Annual Report 2017 7.
+Taxation continued Tax balance sheet The deferred tax assets recognised by the Group and movements thereon during the year are as follows: Timing differences on Share-based capitalised Tax Other timing payments costs losses differences Total m m m m m At 1 April 2016 3 53 56 3 115 Charge credit to the income statement 11 4 7 At 31 March 2017 3 42 60 3 108 Timing differences on Share-based capitalised Tax Other timing payments costs losses differences Total m m m m m At 1 April 2015 6 54 69 1 130 Charge credit to the income statement 1 13 2 12 Charge to reserves 3 3 At 31 March 2016 3 53 56 3 115 No deferred tax assets and liabilities have been offset in either year, except where there is a legal right to do so in the relevant jurisdictions.
+On 6 September 2016, a reduction in the UK statutory rate of taxation was substantively enacted, bringing the tax rate down from 19% to 17% from 1 April 2020, replacing the 18% announced previously.
+Accordingly, the tax assets and liabilities recognised at 31 March 2017 take account of these changes.
+At 31 March 2017, the Group had unused tax losses of 606m 2016: 650m available for offset against future taxable profits.
+A deferred tax asset of 60m 2016: 56m has been recognised in respect of 339m 2016: 299m of such losses, based on expectations of recovery in the foreseeable future.
+No deferred tax asset has been recognised in respect of the remaining 267m 2016: 351m as there is insufficient evidence that there will be suitable taxable profits against which these losses can be recovered.
+All losses may be carried forward indefinitely.
+Dividends Accounting policy Dividend income is recognised when payment has been received.
+Final dividend distributions are recognised as a liability in the financial statements in the year in which they are approved by the relevant shareholders.
+Interim dividends are recognised in the year in which they are paid.
+The following dividends were paid by the Group to its shareholders: 2017 2016 m m Ordinary dividends Final dividend for the year ended 31 March 2015 of 9.20p per ordinary share 85 Interim dividend for the year ended 31 March 2016 of 5.29p per ordinary share 50 Final dividend for the year ended 31 March 2016 of 10.58p per ordinary share 100 Interim dividend for the year ended 31 March 2017 of 5.29p per ordinary share 50 Total ordinary dividends 150 135 1 Deducted from Company reserves.
+See Company statement of changes in equity on page 112.
+The proposed final dividend for the year ended 31 March 2017 of 5.0p 2016: 10.58p per ordinary share on approximately 950 million 2016: 946million ordinary shares approximately 48m was approved by the Board on 10 May 2017 and will be recommended to shareholders at the AGM on 19July 2017.
+The dividend has not been included as a liability as at 31 March 2017.
+The payment of this dividend will not have any tax consequences for the Group.
+The Group ESOT has waived its rights to receive dividends in the current and prior year and this is reflected in the analysis above.
+Annual Report 2017 TalkTalk Telecom Group PLC 91 Financial statements N otes to the consolidated financial statements continued 9.
+Reconciliation of Headline information to statutory information Headline information is provided because the Directors consider that it provides assistance in understanding the Groups underlying performance.
+Accounting policy Headline results are stated before the amortisation of acquisition intangibles and exceptional items.
+Exceptional items are those that are considered to be one-off or non-recurring in nature and so material that the Directors believe that they require separate disclosure to avoid distortion of the presentation of underlying performance and should be separately presented on the face of the income statement.
+Critical judgements in applying the Groups accounting policy The classification of items as exceptional is subjective in nature and therefore judgement is required to determine whether the item is in line with the accounting policy criteria outlined above.
+Determining whether an item is exceptional is a matter of qualitative assessment, making it distinct from the Groups other critical accounting judgements where the basis for judgement is estimation.
+Profit Operating before Profit for Revenue EBITDA profit taxation Taxation the year Year ended 31 March 2017 m m m m m m Headline results 1,783 304 165 133 33 100 Exceptional items Operating efficiencies MTTS a 24 24 24 5 19 Exceptional items Operating efficiencies property b 8 8 8 2 6 Exceptional items Network transformation c 8 11 11 2 9 Exceptional items Mobile proposition d 49 49 49 10 39 Exceptional items Acquisitions and disposals e 1 1 1 1 Exceptional items Disputed network charges f 29 29 29 6 23 Exceptional items Operating expenses cyberattack g 2 2 2 1 1 Exceptional items Finance income h 7 1 6 Exceptional items Taxation i 8 8 Amortisation of acquisition intangibles j 10 10 2 8 Statutory results 1,783 247 95 70 12 58 Profit Operating before Profit for Revenue EBITDA profit taxation Taxation the year Year ended 31 March 2016 m m m m m m Headline results 1,838 260 131 107 28 79 Exceptional items Revenue cyber attack g 3 3 3 3 1 2 Exceptional items Operating expenses cyberattack g 39 39 39 8 31 Exceptional items Operating efficiencies MTTS a 31 31 31 6 25 Exceptional items Operating efficiencies property b 10 10 10 2 8 Exceptional items Taxation i 3 3 Amortisation of acquisition intangibles j 10 10 2 8 Statutory results 1,835 177 38 14 12 2 During the year ended 31 March 2017, cash exceptional items amounted to 46m 2016: 88m.
+a Operating efficiencies Making TalkTalk Simpler MTTS During the year ended 31 March 2017, the Group substantially completed its wide-ranging transformation programme that is delivering material improvements to our customers experience, driving operating cost savings, and reducing SAC through lower churn and costs peradd CPA.
+The costs incurred in the year include work on improving Consumer and TalkTalk Business systems and processes which focus on customer experience and the review of the organisational structure of the business.
+These programmes have resulted in 24m 2016: 31m of costs including project management, redundancy, consultancy, migration and call centre costs.
+A total taxation credit of 5m has been recognised on these costs in the year ended 31 March 2017 2016: 6m.
+92 TalkTalk Telecom Group PLC Annual Report 2017 9.
+Reconciliation of Headline information to statutory information continued Critical judgements in applying the Groups accounting policy continued b Operating efficiencies property rationalisation During the prior year the Group reviewed the sites from which it operates, and announced its intention to exit its Warrington and Irlam sites to relocate to one site at the Soapworks in Salford.
+These programmes have resulted in 8m 2016: 10m of costs including redundancy, property, consultancy and dual running costs.
+A total taxation credit of 2m has been recognised on these costs in the year ended 31 March 2017 2016: 2m.
+c Network transformation During the year ended 31 March 2017, the Group embarked on a significant transformation programme which will fundamentally restructure the Group's network, IT infrastructure and technology organisation.
+The change the Group is undertaking will ensure it is fit for the future and underpins the wider Group strategy in providing a great service to our customers as a value provider in the industry.
+This is a discrete project expected to run until FY20.
+This programme has resulted in 11m 2016: nil of costs including project management, consultancy, dual running costs, decommissioning costs and accelerated depreciation costs.
+A total taxation credit of 2m has been recognised on these costs in the year ended 31 March 2017 2016: nil.
+d Mobile proposition During the year ended 31 March 2017, the Group began to reorganise the business under the new leadership team focusing on fewer, clearer priorities that are focused on investment in the Groups core fixed network.
+As part of the review the Group reassessed its mobile strategy andhow capital is allocated.
+The Group has therefore decided not to pursue an inside-out mobile network strategy and instead we will continue to work closely with Telefnica UK on the right platform and customer offering.
+As a result, the Group has assessed that items within inventory and property, plant and equipment have no further economic benefit to the Group leading to impairment charges and onerous lease costs of 49m 2016: nil.
+Additional reorganisation costs may be incurred in FY18 asthe Group works with its MNO partners on developing an alternative mobile distribution strategy.
+A total taxation credit of 10m has been recognised on these costs in the year ended 31 March 2017 2016: nil.
+e Acquisitions and disposal During the year ended 31 March 2017, final migrations of prior year customer base acquisitions were completed, following completion any amounts provided for but not utilised were released resulting in a credit of 1m 2016: nil.
+The tax impact in either year is immaterial.
+f Disputed network charges During the year ended 31 March 2017, the Group has recognised a 29m credit 2016: nil following the resolution of disputes relating to prior periods.
+A total taxation charge of 6m has been recognised on these credits in the year ended 31 March 2017 2016: nil.
+g Cyber attack During the year ended 31 March 2017, the Group received insurance proceeds of 3m 2016: nil in relation to specific cyber related costs incurred in the prior year offset by 1m of costs incurred in the current year, including an ICO fine of 0.4m.
+A total taxation charge of 1m has been recognised on these items in the year ended 31 March 2017 2016: nil.
+In the prior year, there was a significant and sustained cyber attack on the TalkTalk website.
+Following this attack the Group issued an increased number of credits to retain its customers.
+The costs of these credits are recognised against revenue and amounted to 3m.
+TheGroup also incurred costs of 39m.
+These costs included restoring our online capability with enhanced security features, associated IT, incident response and consultancy costs and providing free upgrades to our customers.
+A total taxation charge of nil has been recognised on these items in the year ended 31 March 2017 2016: credit of 8m.
+h Finance income During the year ended 31 March 2017, the Group recognised interest of 7m 2016: nil on a BT dispute settled in FY14 for the overcharging ofcertain wholesale Ethernet services.
+i Taxation items During the year ended 31 March 2017, the Group resolved a longstanding enquiry with HMRC in relation to the tax treatment of 85m of losses inrespect of TalkTalk Brands Limited.
+This has resulted in a tax credit of 8m 2016: nil.
+In the prior year, the Group recognised a tax charge of 3m which relates to the impact of the statutory corporation tax rate change from 20% to 19% and then to 18% on prior year exceptional tax assets.
+j Amortisation of acquisition intangibles An amortisation charge in respect of acquisition intangibles of 10m was incurred in the year ended 31 March 2017 2016: 10m.
+A total taxation credit of 2m has been recognised in relation to the charge in the year ended 31 March 2017 2016: 2m.
+Annual Report 2017 TalkTalk Telecom Group PLC 93 Financial statements N otes to the consolidated financial statements continued 10.
+Earnings per ordinary share Earnings per ordinary share are shown on a Headline and statutory basis to assist in the understanding of the performance of the Group.
+2017 2016 m m Headline earnings note 9 100 79 Statutory earnings 58 2 Weighted average number of shares millions Shares in issue 955 955 Less weighted average holdings by Group ESOT 7 19 For basic EPS 948 936 Dilutive effect of share options note 5 11 11 For diluted EPS 959 947 2017 2016 Pence Pence Basic earnings per ordinary share Headline 10.5 8.4 Statutory 6.1 0.2 2017 2016 Pence Pence Diluted earnings per ordinary share Headline 10.4 8.3 Statutory 6.0 0.2 There are no share options considered anti-dilutive in the year ended 31 March 2017 2016: nil.
+Goodwill and other intangible assets a Goodwill Accounting policy Goodwill arising on the acquisition of subsidiary undertakings and businesses, representing the excess of the fair value of the consideration given over the fair value of the identifiable assets and liabilities acquired is recognised initially as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+On disposal of a subsidiary undertaking, the relevant goodwill is included in the calculation of the profit or loss on disposal.
+The Group has two cash generating units CGUs TalkTalk Consumer and TalkTalk Business, which represent the smallest identifiable groupof assets that generate cash inflows that are largely independent of the cash inflows from other assets or groups of assets.
+Cashinflows generated by the TalkTalk Consumer CGU represent income generated from the provision of telecommunication services toRetailcustomers.
+Cash inflows generated by the TalkTalk Business CGU represent income generated from the provision of telecommunication services to B2B customers.
+For the purpose of impairment testing, at the acquisition date, goodwill is allocated to each of the CGUs expected to benefit from the synergies of the acquisition.
+The Groups shared costs and assets relating mainly to infrastructure and central overheads are allocated across the two CGUs based on the relative future cash flows that those shared costs support.
+Determining whether goodwill is impaired requires estimation of the value in use of the CGUs to which the goodwill has been allocated.
+Inassessing value in use, the estimated cash flows of each CGU are discounted to their present value using a pre-tax discount rate that reflectsthe current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cashflows have not been adjusted.
+Impairment of goodwill Goodwill is not subject to amortisation but is tested for impairment annually or whenever there is an indication that the asset may be impaired: this review is performed at a CGU level.
+Impairment is determined by assessing the future cash flows of the CGU to which the goodwill relates.
+The future cash flows of the Group are taken from the Group's three year plan and extrapolated out to 20 years based on the UKs long term growth rate.
+This is discounted by the CGUs weighted average cost of capital pre-tax to give the net present value of that CGU.
+Where the net present value of future cash flows isless than the carrying value of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the CGU and then to the other assets of the CGU pro-rata on the basis of the carrying amount of each asset in the unit.
+Any impairment loss is recognised in the income statement and is not subsequently reversed.
+94 TalkTalk Telecom Group PLC Annual Report 2017 11.
+Goodwill and other intangible assets continued a Goodwill continued Impairment of goodwill continued Sensitivity analysis is performed using reasonably possible changes in the key assumptions.
+2017 2016 m m Opening cost and net book value 495 490 Acquisitions note 13 5 Closing cost and net book value 495 495 The goodwill acquired in business combinations is allocated at acquisition to the CGUs that are expected to benefit from that business combination.
+The allocation of goodwill across the CGUs is as follows: 2017 2016 m m TalkTalk Consumer 347 347 TalkTalk Business 148 148 495 495 Impairment review The key assumptions used in the Groups goodwill impairment review are as follows: Long term growth rates Long term revenue growth rates applied are based on the growth rate for the UK per the Organisation for Economic Co-operation and Development OECD.
+The rate applied in the current year was 2.0% 2016: 2.0%.
+Discount rate The underlying discount rate for each CGU is based on the UK ten year gilt rate adjusted for an equity risk premium and the systematic risk ofthe CGU.
+The average pre-tax rate for both CGUs used to discount the forecast cash flows is 8.0% 2016: 10.2%.
+The assumptions used inthe calculation of the CGUs discount rate are benchmarked to externally available data.
+The same discount rate has been applied to both CGUs due to the similarity of risk factors and geographical location.
+Capital expenditure Forecast capital expenditure to maintain property, plant and equipment is based on senior management expectations of future required support of the network and current run rate of expenditure, typically at 67% of revenue.
+Customer factors The key assumptions for the forecast cash flows of each of the CGUs are based on expected customer growth rates, ARPU, direct costs including acquisition costs, and changes in product mix.
+The value assigned to each of these assumptions has been determined based onthe extrapolation of historical trends in the Group and external information on expected trends of future market developments.
+Sensitivity analysis has been performed for each key assumption and the Directors have not identified any reasonably possible changes inthe key assumptions that would cause the carrying value of goodwill to exceed the recoverable amount.
+b Other intangible assets Accounting policy Operating intangibles Operating intangibles include internal infrastructure and design costs incurred in the development of software for internal use.
+Internally generated software is recognised as an intangible asset only if it can be separately identified, it is probable that the asset will generate future economic benefits, and the development cost can be measured reliably.
+Where these conditions are not met, development expenditure is recognised as an expense in the year in which it is incurred.
+Directly attributable costs that are capitalised include employee costs specifically incurred in the development of the intangible asset.
+Operating intangibles are amortised on a straight line basis over their estimated useful economic lives of up to eight years.
+Acquisition intangibles Acquired intangible assets such as customer bases and other intangible assets acquired through a business combination are capitalised separately from goodwill and amortised over their expected useful lives of up to six years on a straight line basis.
+The value attributed to such assets is based on the future economic benefit that is expected to be derived from them, calculated as the present value of future cash flows after a deduction for contributory assets.
+Impairment At the acquisition date, acquisition intangibles are allocated to each of the CGUs expected to benefit from the synergies of the combination.
+The Groups shared costs and assets relating mainly to infrastructure and central overheads are allocated across the two CGUs based on the relative future cash flows.
+Determining whether the carrying amounts of operating and acquisition intangibles have any indication of impairment requires judgement.
+Ifan indication of impairment is identified, further judgement is required to assess whether the carrying amounts can be supported by the value in use of the CGU that the asset is allocated to.
+The value in use calculation involves estimation of both the future cash flows of the CGUs and the selection of appropriate discount rates touse to calculate present values.
+Annual Report 2017 TalkTalk Telecom Group PLC 95 Financial statements N otes to the consolidated financial statements continued 11.
+Goodwill and other intangible assets continued b Other intangible assets continued Accounting policy continued Useful economic lives The assessment of the useful economic lives of these operating and acquisition intangibles requires judgement.
+Amortisation is charged to theincome statement based on the useful economic life selected.
+This assessment requires estimation of the period over which the Group will benefit from the assets.
+Impairment of assets The Group reviews the carrying amounts of its intangible assets to determine whether there is any indication that those assets have suffered an impairment loss at each reporting date.
+Where an indicator of impairment exists, the Group makes a formal estimate of the assets recoverable amount and the extent of any impairment loss.
+The recoverable amount is the higher of an assets fair value less costs to sell and its value in use.
+In assessing value in use, the estimated cash flows are discounted to their present value using a pre-tax discount rate that reflects the current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset is estimated to be less than the carrying amount, the carrying amount of the asset or CGU is reduced to its recoverable amount.
+Other intangible assets are analysed as follows: Operating Total other intangibles Non-operating intangibles m m m Opening balance at 1 April 2016 193 34 227 Additions 85 85 Amortisation 59 10 69 Closing balance at 31 March 2017 219 24 243 Cost gross carrying amount 543 142 685 Accumulated amortisation 324 118 442 Closing balance at 31 March 2017 219 24 243 Operating Total other intangibles Non-operating intangibles m m m Opening balance at 1 April 2015 136 42 178 Additions 106 106 Finalisation of provisional acquisition intangible 2 2 Amortisation 49 10 59 Closing balance at 31 March 2016 193 34 227 Cost gross carrying amount 458 142 600 Accumulated amortisation 265 108 373 Closing balance at 31 March 2016 193 34 227 Operating intangibles Operating intangibles includes internally generated assets with a net book value of 102m 2016: 88m, which are amortised over a period of up to eight years.
+This includes additions of 32m 2016: 43m and an amortisation charge of 18m 2016: 14m in the year ended 31 March 2017.
+Included within operating intangibles is the following asset, which is material to the Group: TRIO, the customer billing system, which has a net book value of 28m 2016: 47m.
+TRIO is amortised over a period of up to eight years depending on the release date of the relevant component.
+The weighted average remaining useful economic life of the components of TRIO is two years 2016: two years.
+Acquisition intangibles Acquisition intangibles relate to the broadband customer bases acquired from Virgin Media and Tesco in a prior year: these customer bases are valued from the discounted future cash flows expected from them, after a deduction for contributory assets.
+At 31 March 2017, the net book value of the acquired broadband bases is material to the Group: with the Virgin Media base valued at 12m 2016: 16m and the Tesco base valued at 12m 2016: 15m, with remaining useful economic lives of 34 months 2016: 46 months and 35months 2016: 47 months respectively.
+96 TalkTalk Telecom Group PLC Annual Report 2017 12.
+Property, plant and equipment Accounting policy Property, plant and equipment are stated at cost, net of depreciation and any provision for impairment.
+Depreciation is provided on all property, plant and equipment at rates calculated to write off the cost, less estimated residual value, of each asset on a straight line basis overits expected useful life from the date it is brought into use, as follows: Short leasehold improvements 10% or the lease term if less than ten years Land and buildings 3.33% per annum Network equipment and computer hardware 12.550% per annum Fixtures and fittings 2025% per annum Impairment of assets Property, plant and equipment The Group reviews the carrying amounts of its fixed assets to determine whether there is any indication that those assets have suffered an impairment loss at each reporting date.
+The Group uses the same methodology as set out in note 11 for operating and acquisition intangibles.
+Network equipment and Short computer Fixtures leasehold Land and buildings hardware and fittings Total improvements m m m m m Opening balance at 1 April 2016 7 294 1 302 Additions 2 35 6 43 Depreciation 71 1 72 Disposals 8 8 16 Impairment note 9 22 22 Reclassification 1 1 Closing balance at 31 March 2017 1 228 6 235 Cost gross carrying amount 7 841 8 856 Accumulated depreciation and impairment charges 6 613 2 621 Closing balance at 31 March 2017 1 228 6 235 Network Short equipment and leasehold Land and computer Fixtures improvements buildings hardware and fittings Total m m m m m Opening balance at 1 April 2015 288 2 290 Additions 7 89 96 Depreciation 71 1 72 Disposals 12 12 Closing balance at 31 March 2016 7 294 1 302 Cost gross carrying amount 6 7 814 2 829 Accumulated depreciation and impairment charges 6 520 1 527 Closing balance at 31 March 2016 7 294 1 302 13.
+Non-current asset investments Accounting policy Investments, other than subsidiaries, are initially recognised at cost, being the fair value of the consideration given plus any transaction costs associated with the acquisition.
+Investments are categorised as available for sale and are recorded at fair value.
+Changes in fair value, together with any related taxation, aretaken directly to equity and recycled to the income statement when the investment is sold or determined to be impaired.
+Non-current asset investments at 31 March 2017 related to a 7.3% 2016: 7.3% interest in Shared Band Limited, a telecommunications technology provider.
+The cost of the investment is not material.
+Annual Report 2017 TalkTalk Telecom Group PLC 97 Financial statements N otes to the consolidated financial statements continued 13.
+Non-current asset investments continued Accounting policy continued a Investments The Parent Company has investments in the following subsidiary undertakings, which affected the profits or losses or net assets of the Group.
+Country of incorporation Percentage of Subsidiary undertakings or registration Registered office Principal activity shareholding TalkTalk Telecom Holdings Limited England & Wales 11 Evesham Street Holding company 100 Beheer-en  Antika BV Netherlands Euroweg Non-trading 100 Wireless Internet Portfolio BV Netherlands Euroweg Non-trading 100 TalkTalk Brands Limited England & Wales 11 Evesham Street Telecommunications 100 TalkTalk Group Ltd England & Wales 11 Evesham Street Holding company 100 CPW Broadband Services UK Ltd England & Wales 11 Evesham Street Telecommunications 100 Future Office Communications Limited England & Wales 11 Evesham Street Telecommunications 100 TalkTalk Broadband Services Ireland Limited Ireland 39 40 Upper Mount Street Non-trading 100 TalkTalk Business 2CCH Limited England & Wales 11 Evesham Street Telecommunications 100 TalkTalk Communications Limited England & Wales 11 Evesham Street Telecommunications 100 CPW Network Services Limited England & Wales 11 Evesham Street Telecommunications 100 TalkTalk Corporate Limited England & Wales 11 Evesham Street Holding company 100 Core Telecommunications Limited England & Wales 11 Evesham Street Non-trading 100 CPW UK Group Limited England & Wales 11 Evesham Street Dormant 100 TalkTalk RB Limited formerly Ratebuster Ltd England & Wales 11 Evesham Street Dormant 100 TalkTalk Technology Limited England & Wales 11 Evesham Street Dormant 100 Telequip Limited England & Wales 348350 Lytham Road In liquidation 100 Telco Global Limited England & Wales 11 Evesham Street Dormant 100 Vartec Telecom Europe Limited England & Wales 11 Evesham Street Dormant 100 Video Networks Limited England & Wales 11 Evesham Street Dormant 100 World Online Telecom Limited England & Wales 11 Evesham Street Dormant 100 GIS Telecoms Limited England & Wales 11 Evesham Street Dormant 100 TalkTalk Direct Limited England & Wales 11 Evesham Street Dormant 100 Opal Connect Limited England & Wales 11 Evesham Street Dormant 100 Opal Business Solutions Limited England & Wales 11 Evesham Street Dormant 100 UK Telco GB Limited England & Wales 11 Evesham Street Dormant 100 TalkTalk UK Communications Services Limited England & Wales 11 Evesham Street Dormant 100 Onetel Telecommunications Limited England & Wales 11 Evesham Street Dormant 100 V Networks Limited England & Wales 11 Evesham Street Dormant 100 Green Dot Property Management Limited England & Wales 11 Evesham Street Non-trading 100 Executel Ltd England & Wales 11 Evesham Street Dormant 100 Greystone Telecom Limited England & Wales 11 Evesham Street Dormant 100 Pipex Internet Limited England & Wales 11 Evesham Street Dormant 100 Pipex Communications Services Limited England & Wales 11 Evesham Street Dormant 100 Pipex UK Limited England & Wales 11 Evesham Street Dormant 100 TalkTalk Telecom Limited England & Wales 11 Evesham Street Telecommunications 100 Telco Holdings Limited England & Wales 11 Evesham Street Telecommunications 100 Telco Global Distribution Limited England & Wales 11 Evesham Street Dormant 100 Tele2 Telecommunication Services Limited Ireland 39 40 Upper Mount Street Non-trading 100 Tiscali UK Limited England & Wales 11 Evesham Street Telecommunications 100 Toucan Residential Ireland Limited Ireland 39 40 Upper Mount Street Non-trading 100 TalkTalk TV Entertainment Limited England & Wales 11 Evesham Street Telecommunications 100 formerlyblinkbox tIPicall Limited England & Wales 11 Evesham Street Telecommunications 100 1 Directly held subsidiary.
+2 Full address: 11 Evesham Street, London, W11 4AR.
+3 Full address: Euroweg 20 3825 HD Amersfoort, Amsterdam, Netherlands.
+4 Full address: 39 40 Upper Mount Street, Dublin 2, Ireland.
+5 Full address: 348350 Lytham Road, Blackpool, Lancashire, FY4 1DW.
+98 TalkTalk Telecom Group PLC Annual Report 2017 13.
+Non-current asset investments continued Accounting policy continued a Investments continued Country of incorporation Percentage of Joint venture undertakings or registration Registered office Principal activity shareholding YouView TV Limited England & Wales 10 Lower Thames Street Telecommunications 14.3 Bolt Pro Tem Limited England & Wales 15 Bedford Street Telecommunications 33.3 Internet Matters Limited England & Wales 6th Floor One London Wall Telecommunications 25.0 1 Full address: 10 Lower Thames Street, Third Floor, London, EC3R 6YT.
+2 Full address: 15 Bedford Street, London, WC2E 9HE.
+3 Full address: 6th Floor One London Wall, London, EC2Y 5EB.
+b Acquisitions and disposals i Acquisitions The Group has made no acquisitions during the year ended 31 March 2017.
+There was no movement in the provisional goodwill recognised inthe prior year relating to the tIPicall Limited acquisition when the goodwill was finalised in the current year.
+The Group made the following acquisition during the year ended 31 March 2016: tIPicall Limited On 22 April 2015, the Group acquired 100% shares of tIPicall Limited, a company providing Voice over Internet Protocol VoIP services.
+Theacquisition was satisfied by 5m cash plus 1m of contingent consideration depending on the performance of the business.
+The amounts recognised in respect of assets and liabilities acquired are immaterial to the Group.
+The book value of the assets acquired is expected to equal their fair value.
+On this basis goodwill recognised in relation to the acquisition is 6m.
+This represents the future opportunities arising from the nature of the business and fit with the Groups existing operations.
+The provisional goodwill has been allocated to the Business cash generating unit CGU.
+ii Disposals The Group has made no disposal of investments during the current or prior year.
+Interest in joint ventures Accounting policy Interests in joint ventures are accounted for using the equity method.
+The Group income statement includes the Groups share of the post-tax profits or losses of the joint ventures based on their financial statements for the year.
+In the Group balance sheet, the Groups interest in joint ventures is shown as a non-current asset, representing the Groups investment inthe share capital of the joint ventures, as adjusted for post-acquisition changes in the Groups share of the net assets or liabilities less provision for any impairment.
+In addition to the carrying amount of the investment, the Groups interest in joint ventures includes, where applicable, any long term interests in the venture that, in substance, form part of the Groups net investment in the joint venture.
+An item for which settlement is neither planned nor likely to occur in the foreseeable future is, in substance, an extension of the Groups interest in that joint venture.
+Any loans advanced to a joint venture that, in substance, do not form part of the Groups net investment are shown separately in the balance sheet as a receivable to the Group.
+Losses recognised using the equity method in excess of the Groups investment in ordinary shares are applied to the other components of the Groups interest in the joint venture in the reverse order of their seniority i. e. priority in liquidation.
+YouView TV Limited YouView The Group holds 14.3% 2016: 14.3% of the ordinary share capital of YouView, a joint venture with The British Broadcasting Corporation, ITVBroadcasting Limited, British Telecom PLC BT, Channel Four Television Corporation, Arqiva Limited and Channel 5 Broadcasting Limited.
+The joint venture was set up in order to develop a free-to-air internet-connected TV service to UK homes.
+During a prior year, the Group signed a new agreement with the other existing holders of YouView whereby all seven original partners together Tier 1 funders continue to contribute approximately 1m per annum to fund basic operational and technology costs of YouView, and the Group together with BT as Tier2 funders contribute up to a further 10m per annum for additional development of the technology to support their TV propositions.
+TheGroups total contribution to YouView in the year ended 31 March 2017 was 10m 2016: 8m.
+There was no change in the overall control of the joint venture as a result of these changes as all seven partners share overall control.
+Under this agreement, the Groups share of losses comprises one-seventh of any Tier 1 loss and half of any Tier 2 loss.
+During the year ended 31 March 2017, the Group recognised a 11m share of losses 2016: 8m.
+The Group has reviewed the carrying value of YouView and has concluded that there is no indication of impairment.
+Annual Report 2017 TalkTalk Telecom Group PLC 99 Financial statements N otes to the consolidated financial statements continued 14.
+Interest in joint ventures continued Accounting policy continued Bolt Pro Tem Limited The Group holds 33.3% of the ordinary share capital of Bolt Pro Tem Limited BPT, a joint venture with British Sky Broadcasting Limited BSkyB and City Fibre Holdings Limited.
+The joint venture was set up in the prior year to deliver fibre to the premise FTTP broadband services in the City of York.
+During the year ended 31 March 2017, the Group contributed nil 2016: 1m to the joint venture and received nil share of losses 2016: nil.
+During the prior year, due to an increased certainty around the time of the repayment of a portion of the Groups contribution to BPT, it was concluded that 3m was, in substance, a loan to BPT and not an extension of the investment in the joint venture.
+This was therefore reclassified onthe balance sheet as a non-current trade and other receivable.
+During the current year the Group lent a further 1m to BPTincreasing the overall balance to 4m.
+The Group has reviewed the carrying value of BPT and has concluded that there is no indication of impairment.
+Internet Matters Limited During the year ended 31 March 2014, the Group, alongside BSkyB, BT and Virgin Media established an equal membership joint venture, Internet Matters Limited.
+It is a not-for-profit company set up as an industry-led body to promote and educate parents about internet safety for children.
+Interest in joint ventures is analysed as follows: 2017 2016 m m Opening balance at 1 April 9 10 Additions 10 10 Share of results 11 8 Reclassification to non-current assets trade and other receivables 3 Closing balance at 31 March 8 9 The Groups share of the results, assets and liabilities of its joint ventures are as follows: 2017 2016 Group share of results of joint ventures m m Expenses 11 8 Loss before taxation 11 8 Taxation Loss after taxation 11 8 2017 2016 Group share of net assets of joint ventures m m Non-current assets 8 9 Net assets 8 9 15.
+Inventories Accounting policy Inventories are stated at the lower of cost and net realisable value, valued on a FIFO basis, and consists primarily of set top boxes, power line adaptors and routers.
+Net realisable value is based on estimated selling price, less costs expected to be incurred.
+A provision is made for obsolete items where appropriate.
+2017 2016 m m Goods for resale 18 57 During FY17, the Group revised its strategy toward its mobile proposition giving rise to an impairment of 18m 2016: nil.
+The impairment has been recognised as an exceptional item note 9.
+Trade and other receivables Trade and other receivables comprise: 2017 2016 m m Non-current trade and other receivables Trade and other receivables 2 100 TalkTalk Telecom Group PLC Annual Report 2017 16.
+Trade and other receivables continued 2017 2016 m m Current trade and other receivables Trade receivables gross 192 174 Less provision for impairment 45 30 Trade receivables net 147 144 Other receivables 136 84 Prepayments 32 21 Accrued income 54 45 Trade and other receivables 369 294 The Directors estimate that the carrying amount of trade receivables approximates to their fair value.
+The average credit period taken on trade receivables, calculated by reference to the amount owed at the year end as a proportion of total revenue in the year, was 33 days 2016: 29 days.
+As explained in note 18, in September 2016, the Group signed a 75m receivables purchase agreement which matures in September 2018.
+TheGroup has the ability on a rolling basis to sell its trade receivables to a third party vehicle in exchange for a discounted consideration.
+TheGroup varies the level of trade receivables sold into the programme as part of managing its liquidity position.
+The Group is deemed tocontrol the third party vehicle and therefore continues to consolidate the relevant trade receivables on the grounds that substantially notallthe risks and rewards of ownership have been transferred under the programme.
+The Groups trade receivables are denominated in the following currencies: 2017 2016 m m UK Sterling 181 163 Other 11 11 192 174 The ageing of gross trade receivables is as follows: 2017 2016 m m Not yet due 85 65 0 to 2 months 15 28 2 to 4 months 17 21 Over 4 months 75 60 192 174 The ageing of the provision for impairment of trade receivables is as follows: 2017 2016 m m Not yet due 1 0 to 2 months 2 1 2 to 4 months 2 Over 4 months 41 28 45 30 Movements in the provisions for impairment of trade receivables are as follows: 2017 2016 m m Opening balance 30 25 Charged to the income statement 60 71 Receivables written off as irrecoverable 45 66 Closing balance 45 30 Annual Report 2017 TalkTalk Telecom Group PLC 101 Financial statements N otes to the consolidated financial statements continued 16.
+Trade and other receivables continued Trade receivables of 62m 2016: 80m were past due, but not impaired.
+These balances primarily relate to TalkTalk Consumer and TalkTalk Business fixed line customers.
+The Group has made provisions based on historical rates of recoverability and all unprovided amounts are considered to be recoverable.
+The ageing analysis of these trade receivables is as follows: 2017 2016 m m 0 to 2 months 13 27 2 to 4 months 15 21 Over 4 months 34 32 62 80 17.
+Trade and other payables 2017 2016 m m Trade payables 273 304 Other taxes and social security costs 37 28 Other payables 12 19 Accruals 138 150 Deferred income 51 62 511 563 The Group has commercially agreed longer credit terms with certain suppliers.
+Excluding these suppliers, the underlying average credit period taken on trade payables was 50 days 2016: 40 days.
+Including these suppliers, the average credit period taken was 57 days 2016: 56 days.
+Included in trade payables are capital payables amounting to 65m 2016: 55m.
+Rebates receivable from suppliers are accounted for in accordance with the policy set out in note 1.
+The Directors consider that the carrying amount of trade and other payables approximates to their fair value.
+Cash and cash equivalents and borrowings a Cash and cash equivalents are as follows: 2017 2016 m m Cash at bank and in hand 50 10 The effective interest rate on bank deposits and money market funds was 0.1% 2016: 0.3%.
+b Borrowings comprise: 2017 2016 Maturity m m Current 100m term loan 2017 25 2017 2016 Maturity m m Non-current $185m US Private Placement USPP Notes 2021, 2024, 2026 148 129 560m revolving credit facility 2019 165 430 50m bilateral agreements 2019 50 50 100m term loan 2019 50 75 100m revolving credit facility 2017 75m receivables purchase agreement facility 2018 58 400m Senior Notes 2022 400 Non-current borrowings before derivatives 871 684 Total borrowings before derivatives 871 709 Derivatives 39 20 Borrowings after derivatives 832 689 102 TalkTalk Telecom Group PLC Annual Report 2017 18.
+Cash and cash equivalents and borrowings continued b Borrowings comprise: continued 2017 2016 Maturity m m Undrawn available committed facilities 2018, 2019 412 255 The book value and fair value of the Groups borrowings, are as follows: 2017 2016 m m Less than 1 year 25 1 to 2 years 58 25 2 to 3 years 265 3 to 4 years 530 4 to 5 years 482 Greater than 5 years 27 109 Borrowings after derivatives 832 689 Borrowing facilities The Groups committed facilities total 1,244m 2016: 944m.
+The Groups uncommitted facilities total 116m 2016: 81m giving headroom on committed facilities and uncommitted facilities of 412m 2016: 255m and 116m 2016: 81m respectively.
+The financial covenants included in each bank facility and the USPP Notes restrict the ratio of net debt to EBITDA and require minimum levels of interest cover.
+The amounts used in the covenant calculations are subject to adjustments as defined under the terms of the arrangement.
+The Group was in compliance with its covenants throughout the current and prior periods.
+Details of the Group's borrowing facilities of the Group as at 31 March 2017 are set out below: 400m Senior Notes On 15 January 2017 TalkTalk Telecom Group PLC issued 400m Senior Notes due 2022.
+The Senior Notes include incurrence-based covenants customary for this type of debt, including limitations on TalkTalks ability to incur additional debt and make restricted payments, subject to certain exceptions.
+The Group is permitted to incur additional debt subject to compliance with a net debt to EBITDA ratio of 4.0x and to pay dividends when net debt to EBITDA is below 3.0x 2.75x from January 2019.
+Regardless of the Companys net debt to EBITDA ratio, dividends are also permitted to be paid out of a basket based on 50% of cumulative consolidated net income from 1 October 2016.
+The Senior Notes also contain a separate exception for the payment of the final dividend for FY17 up to 105m.
+The interest rate payable on the notes is 5.375% payable semi-annually.
+The bond proceeds were used to repay the drawings of the 100m 2016 revolving credit facility in full, and partially repay the drawings under the 2014 revolving credit facility and term loan.
+$185m USPP Notes In July 2014, the Group issued $185m of USPP Notes maturing in three tranches $139m in 2021, $25m in 2024 and $21m in 2026.
+The interest rate payable on the Notes is at a margin over US treasury rate for the appropriate period.
+The USPP proceeds were swapped to Sterling to give 109m 82m in 2021, 15m in 2024 and 12m in 2026 and the net debt includes retranslation of the USPP funds at the rates achieved where hedged by cross-currency swaps.
+The fair value of the cross-currency rate swap at 31 March 2017 was 39m 2016: 20m.
+560m revolving credit facility RCF and 50m bilateral agreement The Group has a 560m RCF, which matures in July 2019.
+The interest rate payable in respect of drawings under this facility is at a margin over LIBOR and for the appropriate period.
+The actual margin applicable to any drawing depends on the ratio of net debt to EBITDA calculated in respect of the most recent accounting period.
+In addition to the RCF, the Group also has a 50m bilateral agreement onthesame terms, signed in July 2014, which matures in July 2019.
+100m term loan Following repayment of 50m from the bond proceeds, the Group has a committed term loan of 50m March 2016: 100m, with a final maturity date of July 2019.
+The interest rate payable in respect of drawings under this facility is at a margin over LIBOR for the appropriate period.
+Receivables purchase agreement In September 2016, the Group signed a 75m receivables purchase agreement which matures in September 2018 and is included within committed facilities.
+The Group has the ability on a rolling basis to sell its receivables to a third party vehicle in exchange for a discounted consideration.
+The Group is deemed to control the third party vehicle and therefore continues to consolidate the relevant receivables on thegrounds that substantially not all the risks and rewards of ownership have been transferred under the programme.
+Annual Report 2017 TalkTalk Telecom Group PLC 103 Financial statements N otes to the consolidated financial statements continued 18.
+Cash and cash equivalents and borrowings continued b Borrowings comprise: continued Borrowing facilities continued Uncommitted money market facilities and bank overdrafts These facilities are used to assist in short term cash management: these uncommitted facilities bear interest at a margin over the Bank of England base rate.
+New 640m revolving credit facility RCF On 8 May 2017, the Group refinanced the 2014 RCF, the 2014 bilateral agreement and the 100m term loan.
+The new 640m 2017 RCF is a five year committed facility which contains financial covenants that restrict the ratio of net debt to EBITDA and requires minimum levels of interest cover.
+The interest rate payable on this facility is at a margin over LIBOR for the appropriate period.
+Financial risk management and derivative financial instruments The book value and fair value of the Groups financial assets, liabilities and derivative financial instruments, are as follows: 2017 2016 m m Financial assets Cash and cash equivalents 50 10 Trade and other receivables 369 294 Non-current investments and investment in joint venture 8 9 Non-current trade and other receivables 6 3 Derivative instruments in designated hedge accounting relationships: Derivative financial instruments 31 18 Financial liabilities Trade and other payables 460 501 Borrowings before derivatives 871 709 Derivative instruments in designated hedge accounting relationships: Derivative financial instruments 1 867 877 1 The Group has no financial instruments designated as fair value through the profit and loss FVTPL.
+2 Accrued income has been included within the other receivables so as to give completeness over the Groups future cash inflows.
+3 Derivative financial instruments of 32m 2016: 20m relates to the USPP Notes, and 1m 2016: 2m relates to interest rate hedges.
+a Financial instruments The Groups activities expose it to a variety of financial risks including market risk such as currency risk and interest rate risk, credit risk and liquidity risk.
+The Group treasury function uses certain financial instruments to mitigate potential adverse effects on the Groups financial performance from these risks.
+These financial instruments primarily consist of bank loans and cross-currency rate swaps.
+Other products, such as currency options, can also be used depending on the risks to be covered, but have not been used in the current or preceding financial year.
+The Group does not trade or speculate in any financial instruments.
+The Group has cash flow hedges in place to a swap the interest rate risk on the bank debt from floating to fixed rates.
+The outstanding swaps mature between December 2017 and January 2019 and b swap the currency and interest rate risk on the USPP debt from USD to GBP and from fixed US Treasury interest rates to fixed GBP interest rates.
+The outstanding swaps cover the semi-annual cash flows associated with theUSPP debt and final maturities are in intervals to match the USPP debt maturities.
+These hedges have been fully effective from inception.
+The fair value measurement is classified as Level 2 2016: Level 2, derived from other observable market data: this means that their fair value isbased upon the mark to market valuation at the balance sheet date.
+Fair value measurement at Level 2 gives consideration to interest rates, yield curves and foreign exchange rates at commonly quoted intervals for relevant currencies.
+The Group has also assessed the credit risk within its financial instruments.
+The fair value of these instruments at 31 March 2017 is 38m 2016: 17m.
+Aloss of 5m 2016: gain of 2m has been recognised in other comprehensive income in the period ended 31 March 2017.
+As the hedges were fully effective there has been no income statement or tax impact.
+b Embedded derivatives No contracts with embedded derivatives have been identified and accordingly, no such derivatives have been accounted for separately.
+104 TalkTalk Telecom Group PLC Annual Report 2017 19.
+Financial risk management and derivative financial instruments continued c Foreign exchange risk The Group uses spot and forward foreign exchange trading to hedge transactional exposures, which arise mainly through cost of sales and operating expenses and are primarily denominated in Euro and US Dollar.
+The Group also uses cross-currency swaps to hedge its US Dollar denominated borrowings US Private Placement.
+At 31 March 2017, the adjustment to translate our net debt to Sterling at swap rates to reflect the impact of hedging was 39m 2016: 20m.
+Borrowings and foreign exchange contracts are sensitive to movements in foreign exchange rates: this sensitivity can be analysed in comparison to year-end rates.
+There would be no material impact of a 10% movement in the UK Sterling Euro or UK Sterling US Dollar exchange rate on either the income statement or other equity.
+The effect of foreign exchange derivatives on borrowings at the year end was as follows: UK Sterling US Dollar Total m m m 2017 Borrowings before derivatives 723 148 871 Derivatives 39 39 Borrowings after derivatives 723 109 832 UK Sterling US Dollar Total m m m 2016 Borrowings before derivatives 580 129 709 Derivatives 20 20 Borrowings after derivatives 580 109 689 During the year, the Group used derivatives for the management of US Private Placement debt, foreign currency cash balances and foreign currency trading balances.
+d Interest rate risk The Groups interest rate risk arises primarily from cash, cash equivalents and borrowings, all of which are at floating rates of interest and thus expose the Group to cash flow interest rate risk.
+These floating rates are linked to LIBOR and other interest rate bases as appropriate tothe instrument and currency.
+Future cash flows arising from these financial instruments depend on interest rates and periods for each loan or rollover.
+As detailed in section a, the Group has cash flow hedges in place to mitigate its interest rate risk on its borrowings.
+Cash and borrowings, as well as some foreign exchange products, are sensitive to movements in interest rates and such movements have been analysed in the table below by calculating the effect on the income statement and equity of a one percentage point movement in the interest rate for the currencies in which most Group cash and borrowings are denominated.
+Funding to related parties has been offset against gross borrowings in calculating these sensitivities.
+This annualised analysis has been prepared on the assumption that the year-end positions prevail throughout the year, and therefore may not be representative of fluctuations in levels of borrowings.
+2017 2016 m m 100 basis points movement in the UK Sterling interest rate Income statement movement 2 4 Annual Report 2017 TalkTalk Telecom Group PLC 105 Financial statements N otes to the consolidated financial statements continued 19.
+Financial risk management and derivative financial instruments continued e Liquidity risk The Group manages its exposure to liquidity risk by regularly reviewing the long and short term cash flow projections for the business against facilities and other resources available to it.
+During 2017 the Group continued to diversify its sources of funding with the objective of increasing the tenor of its credit facilities, reducing reliance on any one market, increasing its operational flexibility and managing cost.
+This was evidenced in the period as the Group issued 400m Senior Notes in the GBP public debt market, entered into a 75m receivables purchase agreement, executed the sale and leaseback ofa data centre in Milton Keynes and, following the year end, refinanced its core bank facilities into a new 640m revolving credit facility.
+Thesenew facilities together with the Groups share capital and reserves, existing US Private Placement and a number of equipment and property leases form the Groups core financing.
+In addition to focusing on its core sources of liquidity, the Group uses a mix of overdrafts, short-dated uncommitted money market facilities, receivables factoring and commercial supplier terms to manage its day to day liquidity position.
+The Group will continue to review its sources of finance going forward.
+Headroom is assessed based on historical experience as well as by assessing current business risks, including foreign exchange movements.
+The table below analyses the Groups financial liabilities into relevant maturity groupings.
+The amounts disclosed in the table are the contractual undiscounted gross cash flows assuming year-end interest rates remain constant and that borrowings are paid in full in the year of maturity.
+Less than More than 1 year 1 to 2 years 2 to 3 years 3 to 4 years 4 to 5 years 5 years Total m m m m m m m 2017 Borrowings 39 91 293 26 531 41 1,021 Derivative financial instruments receivable 29 10 39 Trade and other payables 511 511 550 91 293 26 502 31 1,493 Less than More than 1 year 1 to 2 years 2 to 3 years 3 to 4 years 4 to 5 years 5 years Total m m m m m m m 2016 Borrowings 46 44 18 539 5 135 787 Derivative financial instruments receivable 20 20 Trade and other payables 563 563 609 44 18 539 5 115 1,330 f Credit risk The Groups exposure to credit risk is regularly monitored.
+Debt, investments, foreign exchange and derivative transactions are all spread amongst a number of banks, all of which have short or long term credit ratings appropriate to the Groups exposures.
+Trade receivables primarily comprise balances due from fixed line customers, and provision is made for any receivables that are considered to be irrecoverable.
+g Capital risk management The Group manages its capital to ensure that entities in the Group will be able to continue as a going concern while maximising the return tostakeholders.
+The capital structure of the Group consists of debt, which includes the borrowings disclosed in note 18, cash and cash equivalents and equity attributable to equity holders of the parent, comprising issued capital, reserves and retained earnings.
+The Groups Board reviews the capital structure on an annual basis including reviewing opportunities to access other sources of finance including the public debt markets.
+The Group uses the ratio of net debt to headline EBITDA to monitor its capital structure and has a medium term ratio target of 2.0x.
+Theratioat 31 March 2017 is 2.57x 2016: 2.61x and the Board expects the ratio will return to its target in the medium term.
+The net debt to Headline EBITDA ratio at the year end is as follows: 2017 2016 m m Debt 871 709 Cash and cash equivalents 50 10 Derivatives 39 20 Net debt 782 679 Headline EBITDA 304 260 Net debt to Headline EBITDA ratio 2.57x 2.61x 106 TalkTalk Telecom Group PLC Annual Report 2017 20.
+Provisions The tables below analyses the Groups provisions: 2017 2016 m m Current 22 18 Non-current 14 11 36 29 One Company Contract integration Property and other Total m m m m 2017 Opening balance 1 12 16 29 Charged to income statement 4 16 20 Released to income statement 1 1 2 Utilised in the year 11 11 Closing balance 1 15 20 36 One Company Contract integration Property and other Total m m m m 2016 Opening balance 1 2 32 35 Charged to income statement 11 17 28 Released to income statement 1 1 Utilised in the year 33 33 Closing balance 1 12 16 29 Accounting policy Provisions are recognised when a legal or constructive obligation exists as a result of past events and it is probable that an outflow of resources will be required to settle the obligation and a reliable estimate can be made of the amount of the obligation.
+Provisions are discounted where the time value of money is considered to be material.
+Provisions are categorised as follows: One Company integration These provisions relate principally to reorganisation costs and are only recognised where plans are demonstrably committed and where appropriate communication to those affected has been undertaken at the balance sheet date.
+These provisions are expected to be utilised over the next twelve months.
+Property Property provisions relate to dilapidations and similar property costs, and costs associated with onerous property contracts.
+All such provisions are assessed by reference to the terms and conditions of the contract and market conditions at the balance sheet date.
+Onerous property contracts are expected to be utilised over the next seven years.
+Dilapidation provisions are expected to be utilised as and when properties are exited.
+These provisions include the costs of exiting our Warrington and Irlam sites, as the Group relocates to one site at the Soapworks in Salford.
+Contract and other Contract and other provisions relate to SIM replacement costs as part of the mobile migration programme provided for in a prior year.
+Theremaining provisions relate to onerous contracts and contracts with unfavourable terms, anticipated costs of unresolved legal disputes andcommitted costs relating to exceptional projects.
+All such provisions are assessed by reference to the best available information at the balance sheet date.
+Annual Report 2017 TalkTalk Telecom Group PLC 107 Financial statements N otes to the consolidated financial statements continued 21.
+Share capital 2017 2016 2017 2016 million million m m Authorised, issued and fully paid Ordinary shares of 0.1p each 955 955 1 1 The Company has one class of ordinary share that carries no right to fixed income.
+The holders of ordinary shares are entitled to receive dividends as declared and are entitled to one vote per share at meetings of the Company.
+Reserves Share premium The share premium account records the difference between the nominal amount of shares issued and the fair value of the consideration received.
+The share premium account may be used for certain purposes specified by UK law, including to write off expenses incurred on any issue of shares or debentures and to pay up fully paid bonus shares.
+The share premium account is not distributable but may be reduced by special resolution of the Companys ordinary shareholders and with court approval.
+Translation reserve The results of overseas operations are translated at the average foreign exchange rates for the year, and their balance sheets are translated at the rates prevailing at the balance sheet date.
+Exchange differences arising on the translation of opening net assets and results of overseas operations are recognised in the translation and hedging reserve.
+All other exchange differences are included in the income statement.
+Demerger reserve The demerger reserve primarily reflects the profits or losses arising on the transfer of investments and net assets of CPW on demerger.
+Other reserve Group ESOT The Group ESOT held five million shares at 31 March 2017 2016: nine million in the Company for the benefit of employees.
+The decrease in the number of shares held is due to employees participating in the Group schemes exercising their options during the year.
+During the prior year, the Trustees of the Group ESOT reassessed their holdings in relation to the number of options expected to be exercised in the future.
+This resulted in the sale of 20 million shares, generating net proceeds of 61m.
+The Group ESOT has waived its rights to receive dividends andnone of its shares have been allocated to specific schemes.
+At the year end the shares had a market value of 10m 2016: 22m.
+Analysis of changes in net debt Net Non-cash Opening cash flow movements Closing m m m m 2017 Cash and cash equivalents 10 40 50 Borrowings 709 143 19 871 Derivatives 20 19 39 689 143 832 Total net debt 679 103 782 Net Non-cash Opening cash flow movements Closing m m m m 2016 Cash and cash equivalents 10 10 Borrowings 615 90 4 709 Derivatives 16 4 20 599 90 689 Total net debt 589 90 679 108 TalkTalk Telecom Group PLC Annual Report 2017 24.
+Commitments under operating leases The Group leases network infrastructure and offices under non-cancellable operating leases.
+The leases have varying terms, purchase options, escalation clauses and renewal rights.
+There were no leases which were individually significant to the Group.
+Due to the forthcoming adoption in the year ended 31 March 2019 of IFRS 16 Leases, impacting lease recognition, the Group has reviewed thecompleteness of its existing disclosure.
+Accordingly, the 2016 comparatives have been restated to ensure comparable information ispresented.
+The previously presented 2016 total of 175m has been restated to 193m in the table below.
+The Group had outstanding commitments for future minimum payments due as follows: 2017 2016 restated Network Total Network Total Property equipment m Property equipment m Less than 1 year 12 28 40 11 29 40 2 to 5 years 38 43 81 37 52 89 Greater than 5 years 72 8 80 55 9 64 122 79 201 103 90 193 25.
+Commitments The Group has in the normal course of business entered into various multi-year supply and working capital agreements for core network, ITandcustomer equipment.
+As at 31 March 2017, expenditure contracted, but not provided for in these financial statements amounted to 231m 2016: 318m.
+Of this amount, 65m 2016: 55m related to capital commitments and 39m 2016: 25m related to the supply ofcustomer equipment.
+Related party transactions a Subsidiaries and joint ventures Details of subsidiaries and joint ventures are disclosed in notes 13 and 14 respectively.
+b Directors The remuneration of the Directors, who are some of the key management personnel of the Group, is set out in the Directors Remuneration Report on pages 44 to 62.
+The remuneration of all key management personnel is disclosed in note 4.
+Post balance sheet event Following the year end, the Board has decided not to pursue a femto-enabled, inside-out network strategy and instead we will continue to work closely with Telefnica UK on the right platform and customer offering.
+Annual Report 2017 TalkTalk Telecom Group PLC 109

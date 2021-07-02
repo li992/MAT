@@ -1,0 +1,41 @@
+Other information Glossary 3G Third Generation Third generation of mobile communications following first generation analogue and second digital that promises megabits per second.
+4G Fourth Generation Future generation of mobile communications following 3G that promises hundreds of megabits per second.
+Broadband Generic term for devices with a bandwidth greater than one megabit per second.
+CDMA Code Division A digital cellular standard technology allowing communications circuits to carry multiple Multiple Access conversations simultaneously, thus increasing its capacity: used in radio communications.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+DSLAM Digital Subscriber A network device located in the telephone exchange that takes numbers of DSL lines and Line Access Multiplexer concentrates them into a single line.
+Ethernet A family of networking technologies developed for local area networks, migrating to metro area networks and becoming a dominant standard in wireline networks.
+EV-DO Rev A EvolutionData only revision A is a collection of mobile telephone protocols that extend and improve Data Optimised revision A the performance of existing CDMA protocols for high speed data transmission, typically for broadband internet access.
+Galileo The informal name for the European Global Navigation Satellite System, a system that will offer users anywhere in the world near pinpoint geographic positioning when it becomes fully operational.
+GPS Global A system for determining location and height at any point on the earths surface.
+A receiver Positioning System uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+GLONASS Global Global navigation satellite system operated by the Russian Federation Ministry of Defence.
+Navigation Satellite System HSPA High Speed A collection of mobile telephone protocols that extend and improve the performance of Packet Access existing UMTS protocols for high speed data transmission.
+IMS Internet Protocol A standardised next-generation architecture for telecoms operators who want to provide Multimedia Subsystem mobile and fixed multimedia services.
+Internet IP telephony Generic term used to describe various approaches to running voice telephony over IP Internet Protocol.
+IP Internet Protocol Data protocol used by many networking devices to facilitate and control the flow of data.
+Spirent Communications plc Annual Report 2008 117 Other information Glossary continued LTE Long Term Evolution A standard to enhance existing 3G wireless to add 4G mobile communications technology on an IP network air interface, to create a wireless broadband internet system.
+Location Based Services The delivery of information, mapping and locally available business and public data over the wireless network dependent upon the ability to locate mobile devices by means of direct satellite or cellular assisted satellite signals.
+RF Radio Frequency A technology used for wireless broadcasting and or communications.
+Triple Play Voice, video and data transmitted over a single transport medium.
+UMTS Universal Mobile One of the 3G wireless technologies.
+The most common form of UMTS uses WCDMA on its Telecommunications underlying air interface and offers support for high speed data transfer.
+System WCDMA Wideband CDMA A global standard for mobile 3G.
+WiMax Worldwide A wireless transmission technology.
+Interoperability for Microwave Access Spirent Communications plc 118 Annual Report 2008 Notes Spirent Communications plc Annual Report 2008 119 Notes Spirent Communications plc 120 Annual Report 2008 Other information Contact details Spirent Communications plc is a leading communications technology company focused on delivering innovative systems and services to meet the needs of customers Registered office ADR depositary worldwide.
+We are a global provider of testing and Spirent Communications plc The Bank of New York Mellon Corporation Northwood Park ADR Depositary Receipts service assurance solutions that enable the development Gatwick Road 101 Barclay Street Crawley 22nd Floor and deployment of next-generation networking West Sussex RH10 9XN New York United Kingdom NY 10286 technologies such as Ethernet, Triple Play, wireless, Tel: 44 0 1293 767676 USA Fax: 44 0 1293 767677 Tel: 1 888 269 2377 toll free US satellite positioning, web applications and security.
+com Tel: 1 201 680 6825 outside US Website: www.
+com Further information about Spirent Communications plc Website: www.
+com Registered in England No: 470893 can be found at www.
+com Brokers Joint Auditor RBS Hoare Govett Limited Ernst & Young LLP 250 Bishopsgate 1 More London Place London EC2M 4AA London SE1 2AF United Kingdom United Kingdom Tel: 44 0 20 7678 8000 Our business at a glance Revenue by division Tel: 44 0 20 7951 2000 Website: www.
+com Performance Analysis UBS Limited Network equipment manufacturers and service providers face numerous 191.2m Registrar 2 Finsbury Avenue challenges associated with taking products and solutions from the lab 2007 169.3m Equiniti Limited London EC2M 2PP to the marketplace.
+Spirents Performance Analysis division allows Aspect House United Kingdom equipment manufacturers, service providers, enterprise and governments Spencer Road Tel: 44 0 20 7567 8000 to holistically test and benchmark the performance of voice, video and Lancing Website: www.
+com data systems and services in an effort to accelerate the development West Sussex BN99 6DA and deployment of related applications.
+United Kingdom Financial PR Advisers Service Helplines: Financial Dynamics Limited Tel: 0871 384 2126 UK Holborn Gate Service Assurance Tel: 44 0 121 415 7047 overseas 26 Southampton Buildings Spirents service assurance solutions allow service providers to diagnose, 33.5m Text phone for shareholders with hearing difficulties : London WC2A 1PB troubleshoot and determine how to resolve issues with networks and 2007 34.3m 0871 384 2255 UK United Kingdom systems within the live network as well as address the transition to 44 0 121 415 7028 overseas Tel: 44 0 20 7831 3113 next-generation service offerings.
+Service providers rely on Spirent to Website: www.
+com improve the quality of service at the network core, edge or even within the home.
+Systems PG Drives Technology is a leading supplier of sophisticated electronic control systems 33.2m for electrically powered vehicles in the mobility and industrial markets.
+These include 2007 33.4m medical vehicles such as powered wheelchairs and mobility scooters as well as industrial vehicles such as floor cleaning vehicles, golf carts, fork-lift trucks and aerial access platforms.
+Spirent Communications plc Annual Report 2008 Registered office Spirent Communications plc Spirent Communications plc Northwood Park Annual Report 2008 Gatwick Road Crawley West Sussex RH10 9XN United Kingdom Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: investor.
+com Registered in England No: 470893 Spirent and the Spirent logo are trademarks or registered trademarks of Spirent Communications plc.
+All other trademarks or registered trademarks mentioned herein are held by their respective companies.

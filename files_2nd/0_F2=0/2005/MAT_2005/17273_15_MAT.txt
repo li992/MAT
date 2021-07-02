@@ -1,0 +1,106 @@
+Net_JJ
+current_JJ
+assets_NN
+in_PIN
+2001_CD
+include_VPRT
+an_DT
+amount_NN
+of_PIN
+2,223.4_CD
+million_CD
+in_PIN
+respect_NN
+of_PIN
+amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+Kingsher_NN
+which_WDT [WHSUB]
+were_VBD [SPAU] [PASS]
+subsequently_TIME
+cleared_VBN
+on_PIN
+demerger_NN
+by_PIN
+way_NN
+of_PIN
+a_DT
+non-cash_JJ
+dividend_NN
+to_PIN
+Kingsher_NN
+._.
+2002_CD
+and_CC
+2001_CD
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+restated_VBN
+for_PIN
+the_DT
+impact_NN
+of_PIN
+FRS5_CD
+,_,
+Application_NOMZ
+note_NN
+G._NN
+3_CD
+._.
+The_DT
+five-year_JJ
+record_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+for_PIN
+the_DT
+reclassication_NOMZ
+of_PIN
+advertising_GER
+contributions_NOMZ
+from_PIN
+suppliers_NN
+between_PIN
+cost_NN
+of_PIN
+sales_NN
+and_PHC
+selling_GER
+expenses_NN
+and_CC
+the_DT
+impact_NN
+of_PIN
+UITF_NN
+38_CD
+Accounting_GER
+for_PIN
+ESOP_NN
+Trusts_NN
+._.
+Earnings_GER
+per_PIN
+share_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+to_TO
+reect_VB
+the_DT
+effect_NN
+of_PIN
+dilutive_JJ
+shares_NN
+._.
+50_CD
+Woolworths_NN
+Group_NN
+plc_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2005_CD

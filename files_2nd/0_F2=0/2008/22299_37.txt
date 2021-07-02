@@ -1,0 +1,125 @@
+Back-End-Final-AW 17 4 09 14:36 Page 88 88 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 2.
+Management of insurance and financial risk UNDERWRITING RISK The Group separately defines underwriting risk appetite for market losses and Group-specific losses, with appetite for the former being greater.
+Underwriting is the Groups core competence and hence it is the area of greatest risk appetite.
+The Group expresses the underwriting risk appetite is expressed at the highest level, as a maximum event-specific net underwriting loss as a percentage of syndicate capacity for an event of defined probability.
+The detailed stochastic modelling of underwriting risk, both gross and net of reinsurance, using dynamic financial analysis techniques assists with the setting and management of risk appetite.
+The Group has adopted a sliding scale based on exceedance probabilities.
+Risk appetite for Syndicate 1084 ranges from 14% 2007 10% of capacity for 10 to 50 year return periods through to a maximum of 30% 2007 25% of capacity for greater than 1000 year return periods.
+For Syndicate 1176 the nuclear syndicate, its risk appetite is set at approximately 220% of capacity 2007 220% on a first loss basis.
+For Syndicate 4000 the risk appetite is for a net loss from any one event not to exceed 14% of capacity on a 1 in 2000 year basis.
+Based upon current estimates the ultimate costs net of reinsurance of the largest 2008 insured losses to which Syndicates 1084 and 4000 had exposures as a percentage of their capacity were as follows: Cost as % of capacity Syndicate 1084 Syndicate 4000 Syndicate 1084 Syndicate 4000 Year of account Event m m % % 2007 Sub-prime 5.0 23.3 1.1 31.9 2008 Hurricane Ike 45.8 - 10.3 - 2008 Madoff 4.2 10.0 0.9 13.7 1 2008 Financial turmoil 4.0 16.9 0.9 23.2 The table shows each syndicates total cost at 31 December 2008 for each event against a single year of accounts capacity for ease of comparability, although for internal purposes, the Syndicates allocate risk to years of account on an inception basis and consequently, the losses actually straddle years of account.
+The ratios of cost as % of capacity show the ratio of net ultimate costs at the end of the year to the capacity of the relevant year of account at the left 1 The financial turmoil reserves are deemed to cover many losses, including general economic downturn, the Lehman Brothers collapse and the Icelandic banking crisis.
+It also includes an allowance for the knock-on recessionary impact of the credit crunch and the increased claims notification activity that the Group has seen on 2008 compared to previous years The Board of Chaucer Holdings PLC approves the risk appetite limit, considering the relativity between willing to lose and potential forecast profitability for each year of account.
+The risk appetite will therefore reflect the view of forecast profitability, utilising the Syndicates latest business plan assumptions.
+The Group manages underwriting risk through monthly divisional reporting utilising centrally prepared detailed underwriting management information packs.
+The divisions report to the Underwriting Board who in turn report to the Board of Chaucer Syndicates Limited.
+This control process ensures that several layers of review occur for underwriting risks, with the focus being on the main components of risk, notably pricing, loss ratio selection, reserving, experience variations, cycle management, risk aggregation, reinsurance protection and catastrophe modelling.
+Underwriting authorities, underwriting peer reviews of all risks, independent review and expert review committee procedures and the audit and review of delegated arrangements, all contribute to the strength of the underwriting control environment.
+The independent review process is a key control for this risk area.
+The process involves detailed reviews of individual underwriting risks and supporting documentation on a monthly basis.
+Reputable expert underwriting practitioners that are independent of the syndicate or division perform the reviews.
+Group Internal Audit provides assurance over the performance of the controls.
+Underwriting exposure is controlled via risk policy coding systems, setting of maximum lines, setting of jurisdiction limits, strict underwriter authority limits, Realistic Disaster Scenario modelling, reinsurance programme design, policy limitations and exclusions, imposed deductibles and standard policy wording and coverage clauses.
+The Group records individual risk exposures and monitors on a regular basis to ensure they remain within the policies and guidelines set.
+Aggregations of risk are monitored using specialist software tools.
+The seven divisions within the Group undertake an extensive annual underwriting planning process in order to determine the Groups targets for premiums written and profitability for the coming year.
+Factors taken into account in determining the targets include the risk appetite set by the Groups Risk & Capital Committee, anticipated policy pricing, terms and conditions, expected claims frequency and cost and the reinsurance cost and efficacy.
+The Groups diversification of business by division and by geographical location is set out in the segmental information note.
+Chaucer Holdings PLC Annual Report 2008 Back-End-Final-AW 17 4 09 14:36 Page 89 89 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 CONCENTRATIONS OF RISK The Group has exposure to losses arising through aggregation of risks in geographical sectors.
+This mainly affects the property, marine, and energy portfolios.
+Events giving rise to such aggregations are typically natural disasters such as earthquakes or weather-related disasters such as hurricanes, windstorms and typhoons.
+Other examples are major terrorism events.
+As part of its risk management process, the Group models Realistic Disaster Scenarios RDS.
+An RDS exercise is undertaken every quarter and enables the Group to monitor potential accumulations of underwriting exposure, against a pre-determined suite of catastrophic events and to confirm no breach of the Group underwriting risk appetite.
+The tables below show the largest net RDS exposures, with an indicative estimate of the likely gross and final net loss incurred from each scenario at 1 January 2009 and 1 January 2008.
+The Group updates the RDS scenarios are updated every year, based on Lloyds requirements and an internal assessment of the Groups main exposures.
+The Group does not maintain an RDS for Syndicate 4000 since it does not participate on the Syndicate for the 2009 year of account.
+The following table details the maximum gross line sizes that were in place for 2008 and 2007 by class of business.
+Maximum line Gross 2008 2007 Division Class of business Currency Millions Millions Marine Marine hull USD 20.0 15.0 Marine liability USD 60.0 60.0 Marine war USD 40.0 40.0 Cargo USD 25.0 20.0 Specie USD 75.0 70.0 Satellite USD 6.0 6.0 Political risks USD 20.0 15.0 Excess of loss USD 5.0 5.0 Energy Exploration and production USD 125.0 85.0 Physical damage USD 85.0 55.0 Control of well USD 45.0 30.0 Liabilities USD 50.0 20.0 Construction USD 85.0 50.0 Midstream USD 45.0 25.0 Downstream, power and utilities USD 7.5 - Aviation Hull USD 4.5 4.5 Liability USD 50.0 50.0 Airport refuellers and products USD 50.0 50.0 Property Facultative: USA Canada USD 40.0 40.0 Facultative: International USD 40.0 40.0 Treaty: Catastrophe USD 10.0 10.0 Treaty: Risk excess of loss USD 5.0 5.0 Treaty: Other reinsurance USD 5.0 3.0 Delegated authority: USA Canada USD 6.0 2.5 Delegated authority: International GBP 4.0 4.0 Engineering USD 50.0 45.0 Specialist Lines Financial institutions GBP 5.0 5.0 Medical USD 15.0 15.0 Directors and officers Errors and omissions USD 2.0 2.0 Other claims made USD 2.0 2.0 General casualty direct USD 2.0 2.0 General casualty treaty USD 3.0 3.0 UK and international general liability GBP 10.0 10.0 Europe Treaty catastrophe EUR 7.5 7.5 Treaty risk excess of loss EUR 5.0 5.0 Facultative international EUR 25.0 17.5 Accident and health EUR 16.3 16.3 Nuclear Property GBP 185.0 180.0 Liability GBP 46.3 36.0 TERMS AND CONDITIONS OF CONTRACTS Other than UK motor insurance, all of the policies underwritten have maximum indemnity limits per insured event.
+In addition, the number of reinstatements per policy is limited and deductibles and policy exclusions limit risk further.
+UK motor insurance is unlimited by statute, but the Group buys reinsurance to limit any potential maximum loss arising from any one assured.
+CLAIMS Claims events are inherently uncertain and volatile.
+The Group manages claims related risks by way of reinsurance and by a similar monitoring process to underwriting.
+The Group has strict claims handling authority limits and standard claims reports such as the non-moving claims report.
+Only approved third party adjustors and surveyors are used.
+Chaucer Holdings PLC Annual Report 2008 Back-End-Final-AW 17 4 09 14:36 Page 91 91 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 REINSURANCE Reinsurance purchase limits the Groups exposure to individual risks and aggregations of risks.
+The Group purchases a number of different types of reinsurance, including: Facultative to limit the exposure on a specified contract Specific excess and proportional treaty to limit exposure to individual contracts or risks within specified classes of business Catastrophe excess of loss to limit exposure to any one event that might impact more than one individual contract The reinsurance programme is reviewed by the Groups Underwriting Board, peer reviewed and finally approved by the Board of Chaucer Syndicates Limited.
+The Actuarial Department provides supporting analysis utilising stochastic modelling techniques.
+The Underwriting Board also monitors erosion of cover.
+The Group only purchased the majority of the underwriting interest in Syndicate 4000 in 2008 The previous RDS section illustrates the effects of the reinsurance programme against a series of potential major loss events.
+For the non-marine book property and specialist lines, reinsurance of a proportional and non-proportional nature was purchased in order to provide sufficient line capacity to control business and to protect against severity and frequency of losses.
+The retention following a catastrophic event for 2008 was US$50m and is unchanged for 2009.
+The per risk retention for 2009 after application of the core risk-excess programme is US$7.5m on a first loss basis, reducing to US$5m for the second loss.
+The marine and energy accounts purchase extensive protections to provide cover to minimise the effect of any major loss or series of losses.
+For most marine classes the retention was at least US$5m and US$12.5m for energy.
+The motor book has protection from a reinsurance programme placed on a losses occurring basis, which is unlimited, both in terms of the amount and in terms of the number of losses sustained.
+For 2008 the retention was 1m for each and every loss.
+Losses to date have resulted in some recoveries for Hurricane Ike against 2007 and 2008 reinsurance protections.
+Chaucer Holdings PLC Annual Report 2008 Back-End-Final-AW 17 4 09 14:36 Page 92 92 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 CREDIT The Groups Security Committee reviews all reinsurer counterparties with whom it wishes to conduct business and sets credit thresholds for the total potential recoveries due from each reinsurer.
+The review includes an analysis of the financial strength of the reinsurer, its payment performance record and standing in the market.
+Thereafter, management of reinsurer credit risk follows active and regular review, with the assistance of outside expertise, of the credit rating and financial exposure to all approved reinsurers.
+The method of setting credit thresholds was largely unchanged in 2008, Restriction thresholds are set at the total level for a reinsurer and exposures are also monitored at a group level There is a differentiation between short, medium and long tail covers reflecting the longer time for payment of longer-tail business and hence greater insurer default risk Explicit allowance is made for reinstatements when determining exposures For each syndicate, risk and capital implications are the key drivers in setting reinsurer exposure thresholds Monitoring identifies all in-force contracts Maximum exposure thresholds are set per reinsurer as a reflection of Chaucers risk appetite.
+The table below presents the aggregate maximum exposures usually applied for the highest rated reinsurers Highest and for the lowest acceptably rated ones Lowest.
+1 January 2009 1 January 2008 Short-tail Medium-tail Long-tail Short-tail Medium-tail Long-tail Syndicate 1084 US$m US$m US$m US$m US$m US$m Highest 500.0 250.0 167.0 500.0 250.0 167.0 Lowest 50.0 25.0 - 50.0 25.0 - The Group has applied an uplift of 10% in overall threshold for 2009 to account for diversification where a reinsurer has exposure to more than one tail length.
+Syndicates 1176 and 4242 have different thresholds, recognising the different nature of those syndicates accounts and, in particular, the unique nature of Syndicate 1176 and the need to have high levels of reinsurance protection relative to its size.
+Syndicate 4000 is not shown as the Group does not participate for the 2009 year of account.
+The Group predominantly buys reinsurance from reinsurers rated A strong or better by Standard & Poors or equivalent.
+The table below provides an analysis of the 2009 general reinsurance programme security on a 100% basis.
+First loss exposure 2009 2008 Syndicate 1084 % % 1 Reinsurance rating bands Standard & Poors or equivalent Lloyds A 37.1 30.4 AAA 1.5 3.9 AA 30.7 37.3 A 30.7 28.4 100.0 100.0 1 Ratings as at 5 February 2009 and 29 January 2008 respectively In order to quantify the cost of potential reinsurance failure, the Group carries bad and doubtful debt provisions based on an individual assessment of each reinsurer.
+Provisions for bad and doubtful reinsurance debts totalled 1.9% of reinsurance recoveries due at the end of 2008 2007 2.3%.
+There was no material exposure arising from reinsurance failure in 2008 or 2007.
+The following table provides analysis of the Groups reinsurance debtor security including reinsurers share of technical provisions net of bad debt provisions.
+Chaucer Holdings PLC Annual Report 2008 Back-End-Final-AW 17 4 09 14:36 Page 93 93 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 2009 2008 Debt Debt 1 Reinsurance rating bands Standard & Poors or equivalent % % Lloyds syndicates A 15.9 15.9 AAA 4.7 0.9 AA 45.8 55.6 A 31.1 23.2 BBB 0.3 0.2 2 Other 2.2 4.2 100.0 100.0 1 Ratings as at 31 December 2008 and 2007 respectively 2 Other is reinsurers not rated by major rating agencies and is net of offset where appropriate or of post-balance sheet date commutation.
+The figure includes 0.6% of collateralised security 2007 1.2% Broker credit risk limits for Syndicate 1084 are also determined depending on the grading of the relevant broker.
+The 2008 credit thresholds ranged from 1m to 40m 2007 from 1m to 40m.
+The Security Committee monitors exposure against these tolerance thresholds on a monthly basis.
+Motor non-fleet personal lines business has limited credit risk due to the utilisation of intermediary guaranteeing brokers and credit thresholds are not set for the value of business processed through these brokers, although the Group monitors exposure against these tolerance thresholds on a monthly basis.
+RESERVING The Groups reserving policy seeks to ensure appropriate allowance for reserving risk, consistency in reserving from year to year and the equitable treatment of capital providers on closure of a year of account.
+Reserves are set on a hierarchical basis, there being three tiers to the hierarchy.
+Tier 1: Actuarial best estimate reserves Actuarial best estimate reserves are prepared on an underwriting year basis and intended to be true best estimates, i. e. estimates of expected value claims reserves.
+These are the basis for internal reporting and the derivation of expected loss ratios for business planning.
+The actuarial best estimate reserves are the responsibility of the Group Actuary.
+The in-house actuarial team calculates the reserves in conjunction with extensive discussions with underwriting, claims and reinsurance staff.
+Tier 2: Syndicate reserves Syndicate reserves are the level of reserves booked at a syndicate level.
+Determination of syndicate reserves is a two-stage process: first they are determined on an underwriting year basis: and then they are converted to an annually accounted basis.
+a Underwriting year syndicate reserves Underwriting year syndicate reserves are prepared on an underwriting year basis, and equal the Tier 1 reserves plus any reserve risk loadings.
+The intention of such risk loadings is to match areas within each syndicate where the perception is that there is a particularly high risk that the best estimate reserve may be inadequate.
+Such areas include, but are not limited to, the following: New classes of business Classes where early development is materially better or worse than expected Classes or events with abnormally skew claim distributions Claim events with a binomial distribution Claim events or reserving categories with a poorly understood distribution To ensure consistency in the application of risk loadings, the starting point in their assessment is, where possible, formulaic.
+There is adjustment of the formulaic risk loadings where considered either excessive or understated.
+There may also be additional risk loadings, in respect of risks not covered by the formulaic basis.
+The underwriting year syndicate reserves provide the basis for all syndicate results and forecasts.
+b Annually accounted syndicate reserves Annually accounted syndicate reserves are the underwriting year syndicate reserves converted to an annually accounted basis, plus additional loadings to take account of any deficiencies in the conversion process.
+The loadings applied are entirely formulaic.
+The Groups Finance Committee, subject to approval by the Board of Chaucer Syndicates Limited, determines all risk loadings within syndicate reserves.
+Tier 3: Group reserves Where appropriate, there are further additional risk loadings in respect of the Groups share of the annually accounted syndicate reserves.
+These only relate to material information that has emerged in the period between finalisation of the syndicates reserves and the finalisation of the Group reserves.
+Chaucer Holdings PLC Annual Report 2008 Back-End-Final-AW 17 4 09 14:36 Page 94 94 Notes to the Consolidated Financial Statements for the year ended 31 December 2008 The Finance Committee, subject to approval by the Board of Chaucer Holdings PLC, determines risk loadings within Group reserves.
+The assessment of actuarial best estimate reserves is a rolling quarterly process.
+The underwriting portfolio comprises a number of heterogeneous business types, each of which the analysis projects to ultimate.
+Where certain contracts or claim events obscure development trends, the analysis splits these out for separate review.
+The application of standard actuarial techniques to the historical data supports estimation of ultimate loss ratios.
+The analysis also draws on external data or market data or non-standard methodologies where appropriate.
+Whenever actual development of premiums or claims within a reserving category during a quarter is materially different from expected development based on the existing methodology, then that methodology is reassessed and, where appropriate, amended.
+The analysis takes credit for reinsurance recoveries and provides for the possibility of reinsurer failure.
+Reserving risk is controlled by the robust application of actuarial methodologies, stepped sign-off procedures, quarterly tracking of projected ultimate loss ratios and reassessment of methodologies where appropriate, regular dialogue between actuaries and practitioners, and access to a history of loss data.
+Finally, explicit risk loadings are applied in respect of the areas of greatest risk within the reserve assessment.
+Although the risk loadings provide important protection against adverse developments in reserves, the degree of subjectivity in the reserving process, the exposure to unpredictable external influences e. g. the legal environment and the quantum of reserves relative to net tangible assets, mean that reserving remains a significant source of risk to the Group.
+The following reserve scenarios tests illustrate the scale of this exposure.
+The scenarios selected are illustrative of the main risks in setting technical provisions for insurance liabilities.
+In each case, the Group believes the event tested to have a low likelihood, but no specific probability assigned to them.
+The stress tests apply at syndicate level, while the results shown reflect the Groups share.
+Where appropriate, the results include credit for reinsurance recoveries and utilisation of reserve risk loadings.
+SCENARIO 1 Risk: Underestimation of loss ratios on new classes of business Test: 40% increase in estimated ultimate gross loss ratios on the non-marine hospitals account.
+This class is a recent addition to the business and has the longest claim development period.
+SCENARIO 2 Risk: Underestimation of loss ratios in classes of business affected by financial turmoil excluding sub-prime Test: 100% increase of explicit allowances for financial turmoil losses.
+Gross ultimate Madoff exposures at upper end of current market estimates SCENARIO 3 Risk: Under provision for reinsurance bad debt Test: Failure of the Groups largest reinsurer with credit rating A or below.
+The Group has assumed a recovery rate of 40%.
+SCENARIO 4 Risk: Underestimation of sub-prime losses Test: Doubling of loss probabilities on all Syndicate 4000 sub-prime losses maximum 100%, 100% increase in estimated total gross claims in Syndicate 1084.
+SCENARIO 5 Risk: Underestimation of losses from Hurricane Ike Test: Losses assumed to follow most pessimistic development from other recent hurricane losses subject to limits RESULTS Net loss to Group Scenario Risk m 1 Underestimation of loss ratio on new classes of business 15.5 2 Underestimation of loss ratios in classes affected by financial turmoil 24.7 3 Underestimation of our bad debt provision 7.0 4 Underestimation of sub-prime losses 6.8 5 Underestimation of losses from Hurricane Ike 6.6 The development of projections of insurance liabilities over time provides a measure of the Groups ability to estimate the ultimate value of claims.
+The following tables illustrate how the Groups share of total gross and net ultimate claims for each underwriting year has changed at successive year-ends.
+The Group typically strengthens reserves on closure, although for the purposes of this analysis, deems this strengthening to have occurred when these syndicates commenced operations 3 From 2007, the results now include the impact of claims reserves of Syndicate 4000 and Syndicate 4242.
+The Group initially includes these at 100% level before their removal on the unaligned share line 4 Corporate and other adjustments include the effect of quota share agreements held at corporate level The total provision releases from prior years on which the Group participated on a 100% basis amounted to 81.0m 2007 56.7m net of reinsurance in the table above.
+This largely arises because of the Groups reserving philosophy, which may include the addition of risk loadings to actuarial best estimate reserves where sufficient uncertainty exists, especially in the earlier years of an underwriting years development.
+This practice gives rise to the potential for subsequent releases, which, in 2008 and 2007, mainly arose in the Motor, Property and Specialist Lines Divisions and Syndicate 4000.
+The Groups share of the releases above is 74.1m 2007 45.8m, after taking into account the change in participation in different years of account, the impact of foreign exchange and the application of earning patterns.
+Chaucer Holdings PLC Annual Report 2008

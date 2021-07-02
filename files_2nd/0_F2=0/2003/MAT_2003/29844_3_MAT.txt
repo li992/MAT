@@ -1,0 +1,92 @@
+The_DT
+figures_NN
+shown_VBN [PRIV] [WZPAST]
+for_PIN
+1995_CD
+and_CC
+subsequent_JJ
+years_NN
+until_IN
+2002_CD
+are_VPRT [PASS]
+based_VBN
+on_PIN
+this_DEMO
+policy_NN
+but_CC
+earlier_TIME
+years_NN
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+restated_VBN
+._.
+2_CD
+In_PIN
+2003_CD
+there_EX
+was_VBD
+a_DT
+further_JJ
+change_NN
+of_PIN
+policy_NN
+on_PIN
+the_DT
+charging_GER
+of_PIN
+finance_NN
+expenses_NN
+and_PHC
+management_NOMZ
+fees_NN
+such_OSUB
+that_NULL
+60_CD
+%_NN
+of_PIN
+these_DEMP
+are_VPRT [SPAU] [PASS]
+now_TIME
+charged_VBN
+to_PIN
+capital_NN
+._.
+No_SYNE
+prior_JJ
+years_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+._.
+Comparative_JJ
+Dividend_NN
+Growth_NN
+100_CD
+75_CD
+50_CD
+25_CD
+0_CD
+-25_CD
+-50_CD
+1993 1994 1995 1996_CD
+1997 1998 1999 2000_CD
+2001 2002 2003_CD
+Temple_NN
+Bar_NN
+Investment_NOMZ
+Trust_NN
+Sector_NN
+FTSE_NN
+All-Share_NN
+Index_NN
+Retail_NN
+Prices_NN
+Index_NN
+TEMPLE_NN
+BAR_NN
+INVESTMENT_NOMZ
+TRUST_NN
+3_CD
+%_NN
+Change_NN

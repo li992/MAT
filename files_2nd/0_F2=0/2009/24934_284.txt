@@ -1,0 +1,26 @@
+When a financial asset is reclassified as described in the above circumstances, the financial asset is reclassified at its fair value on the date of reclassification.
+Any gain or loss already recognised in the income statement is not reversed.
+The fair value of the financial asset on the date of reclassification becomes its new cost or amortised cost, as applicable.
+f Loans and advances to banks and customers Loans and advances to banks and customers include loans and advances originated by HSBC which are not classified either as held for trading or designated at fair value.
+Loans and advances are recognised when cash is advanced to a borrower.
+They are derecognised when either the borrower repays its obligations, or the loans are sold or written off, or substantially all the risks and rewards of ownership are transferred.
+They are initially recorded at fair value plus any directly attributable transaction costs and are subsequently measured at amortised cost using the effective interest method, less any impairment losses.
+Where exposures are hedged by derivatives designated and qualifying as fair value hedges, the carrying value of the loans and advances so hedged includes a fair value adjustment for the hedged risk only.
+HSBC may commit to underwrite loans on fixed contractual terms for specified periods of time, where the drawdown of the loan is contingent upon certain future events outside the control of HSBC.
+Where the loan arising from the lending commitment is expected to be held for trading, the commitment to lend is recorded as a derivative and measured at fair value through profit or loss.
+On drawdown, the loan is classified as held for trading and measured at fair value through profit or loss.
+Where it is not HSBCs intention to trade but hold the loan, a provision on the loan commitment is only recorded where it is probable that HSBC will incur a loss.
+This may occur, for example, where a loss of principal is probable or the interest rate charged on the loan is lower than the cost of funding.
+On inception of the loan, the loan to be held is recorded at its fair value and subsequently measured at amortised cost using the effective interest method.
+However, where the initial fair value is lower than the cash amount advanced for example, due to the rate of interest charged on the loan being below the market rate of interest, the write-down is charged to the income statement.
+The write-down will be recovered over the life of the loan, through the recognition of interest income using the effective interest method, unless the loan becomes impaired.
+The write-down is recorded as a reduction to other operating income.
+Financial assets which have been reclassified out of the fair value through profit or loss category into the loans and receivables category are initially recorded at the fair value at the date of reclassification.
+The reclassified assets are subsequently measured at amortised cost, using the effective interest rate determined at the date of reclassification.
+g Impairment of loans and advances Losses for impaired loans are recognised promptly when there is objective evidence that impairment of a loan or portfolio of loans has occurred.
+Impairment allowances are calculated on individual loans and on groups of loans assessed collectively.
+Impairment losses are recorded as charges to the income statement.
+The carrying amount of impaired loans on the balance sheet is reduced through the use of impairment allowance accounts.
+Losses expected from future events are not recognised.
+Individually assessed loans and advances For all loans that are considered individually significant, HSBC assesses on a case-by-case basis at each balance sheet date whether there is any objective evidence that a loan is impaired.
+For those loans where objective evidence of impairment exists, impairment losses are determined considering the following factors: HSBCs aggregate exposure to the customer: the viability of the customers business model and their capacity to trade successfully out of financial difficulties and generate sufficient cash flow to service debt obligations: the amount and timing of expected receipts and recoveries: the likely dividend available on liquidation or bankruptcy: the extent of other creditors commitments ranking ahead of, or pari passu with, HSBC and the likelihood of other creditors continuing to support the company: 371

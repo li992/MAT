@@ -1,0 +1,46 @@
+15 Goodwill 000 At 1 January 2008 420,835 Acquisition Logipard 2,074 Revision to consideration Soisic 1,385 Exchange differences 146,320 At 31 December 2008 567,844 Revision to consideration and intangible assets Logipard 103 Exchange differences 51,149 At 31 December 2009 516,798 During the fourth quarter of 2009, the Group tested its balance of goodwill for impairment in accordance with IAS 36, Impairment of assets.
+No impairment charge was recorded as a result of this annual impairment test.
+Goodwill is allocated to the Groups CGUs according to business segment.
+The carrying amounts of goodwill by CGU at 31 December 2009 are summarised below: Systems Processor Physical IP Design Group Division Division Division 000 000 000 000 Goodwill relating to Artisan 488,344 122,086366,258 Goodwill relating to Falanx 9,400 9,400 Goodwill relating to Axys 7,541 7,541 Goodwill relating to KEG and KSI 7,245 7,245 Goodwill relating to Logipard 2,177 2,177 Goodwill relating to other acquisitions 2,091 2,060 31 Goodwill at 31 December 2009 516,798 135,723 366,258 14,817 Goodwill at 31 December 2008 567,844 143,649 407,940 16,255 The recoverable amount for each CGU has been measured based on a value in use calculation.
+Processor Division PD The Processor Division encompasses those resources that are centred around microprocessor cores, including specific functions such as graphics IP, fabric IP, embedded software IP and configurable digital signal processing DSP IP.
+The key assumptions in the value in use calculations were: Period over which the directors have projected cash flows A ten-year forecast period is used with an assumed terminal growth rate after 2019 of 3% per annum.
+It is considered appropriate to use a ten-year forecast period to properly reflect the period over which the benefits of the acquired businesses to the Processor Division are expected to accrue.
+Forecast revenue growth Revenue is forecast to grow by an amount consistent with the Groups five-year plan as well as analysts expectations.
+These have proved to be reliable guides in the past and the directors believe that these estimates are appropriate.
+Forecast average growth is expected to be approximately 8% per annum.
+Revenue attributable to the benefits afforded by owning the PIPD unit The directors believe that revenue will accrue to PD as a result of the ownership of the Physical IP Division for the following reasons: The development of faster and more power-efficient microprocessors as a result of collaboration between PD and PIPD engineering teams.
+This is expected to generate more PD licensing deals at higher prices: The potential for PD to win more microprocessor licensing business as a result of ARM being able to offer both processor and physical IP in-house: and The improvement in PD operating margins as a result of being able to transfer a number of engineering tasks to the Bangalore design centre acquired with Artisan.
+87 Notes to the financial statements continued 15 Goodwill continued Operating margins Operating margins have been assumed to grow steadily over the period of the calculation.
+Discount rate Future cash flows are discounted in line with ARMs estimated weighted average cost of capital of approximately 10% pre-tax.
+The directors are confident that the amount of goodwill allocated to PD is appropriate and that the assumptions used in estimating its fair value are appropriate.
+Whilst it is conceivable that a key assumption in the calculation could change, the directors believe that no reasonably foreseeable changes to key assumptions would result in an impairment of goodwill, such is the margin by which the estimated fair value exceeds the carrying value.
+Physical IP Division PIPD The Physical IP Division is concerned with the building blocks necessary for translation of a circuit design into actual silicon.
+Given the long-term nature of the ARM licensing and royalty business model, it is considered appropriate to use a ten-year forecast period to assess the expected future cash flows to be generated from the assets under review.
+The Groups experience in PD indicates that the base of licences grows gradually over time as licensees outsource an increasing proportion of their physical IP needs, with royalties, which are a function of the cumulative licensing base, increasing accordingly.
+Forecast revenue growth Revenue is expected to grow by approximately 15% per annum on average for the next five years, falling to 6% per annum by 2019, reflecting the uncertainty of forecasting revenues in the years further in the future.
+Since the acquisition of Artisan at the end of 2004, PIPD has accelerated the development of leading-edge physical IP technology.
+As semiconductor process geometries shrink, PIPD is expected to have more licensing opportunities across a broader range of foundries and other semiconductor companies.
+Royalty revenues are expected to increase going forward as a result of the growth in the installed license base, both before and after the acquisition of Artisan.
+Licence revenues decreased by 20% year-on-year in 2009 and royalty revenues decreased by 10%.
+The decrease in revenues was largely due to the difficult economic climate experienced during 2009.
+Backlog, however, remained constant compared with the beginning of the year.
+A number of licenses for the new leading edge technologies have now been signed with the majority of the revenue expected to be recognised in 2010.
+The directors believe that the investment of the past few years in the technology portfolio will not only bring growth in future years to PIPD but also contribute significantly to the success of PD as the synergistic benefits of the combined technologies begin to accrue.
+Therefore the directors have confidence that the overall forecast growth rate attributable to PIPD is achievable.
+Operating margins Operating margins are assumed to increase gradually over time to around 40% by the end of the forecast period.
+In 2009, PIPD made a significant loss, mostly as a result of the reduced revenues but also due to the continued level of investment in the development of leading-edge technology.
+Margins are expected to improve significantly in future years as licence revenues from leading-edge products gather pace and royalties increase at effectively 100% margins.
+Costs are expected to remain relatively flat in real terms.
+This timescale is consistent with ARMs experience in developing the processor licensing and royalty model.
+ARM has signed over 660 processor licences over the last 19 years with less than half of these yielding royalties thus far.
+As royalty revenues are a function of cumulative licensing, royalty growth gathers momentum as the licensing base grows ARM processor royalties have increased from $38 million in 2002 to $208 million in 2009.
+88 15 Goodwill continued Discount rate Future cash flows are discounted in line with ARMs estimated weighted average cost of capital of approximately 10% pre-tax.
+The directors are confident that the amount of goodwill allocated to PIPD and the assumptions used in estimating its fair value are appropriate.
+The overall assessment is most sensitive to any change in the forecast revenues.
+Although an overall compound annual growth rate of 13% is anticipated by the directors in reaching their conclusions, an annual growth rate of 9% would support the carrying value of goodwill within the division.
+Systems Design Division SDD The Systems Design Division is concerned with the tools and models used to create and debug software and system-onchip SoC designs.
+The key assumptions in the value in use calculations were: Period over which the directors have projected cash flows A five-year forecast period is used with an assumed terminal growth rate after 2014 of 3% per annum.
+It is considered appropriate to use a five-year forecast period to properly reflect the weighted average period over which the benefits of the acquisitions of Axys, KEG and KSI are expected to accrue.
+Forecast revenue growth Revenue is forecast to grow by approximately 8% which is consistent with the Groups five-year plan as well as analysts expectations.
+Operating margins Operating margins are assumed to grow gradually to around 16% by the end of the period.
+The directors are confident that the amount of goodwill allocated to SDD and the assumptions used in estimating its fair value are appropriate.

@@ -1,0 +1,153 @@
+Section fi five Other Th is section includes all other notes including accounting policies and critical judgements, commitments and guarantees, licences and operating agreements, legal proceedings, related party transactions, share-based payments, subsidiaries, joint ventures and associates and events after the reporting period.
+5.1 Signi cant accounting policies This section sets out the Groups accounting policies that relate to the financial statements as a whole.
+1 Foreign currencies a Functional currency Amounts included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+b Foreign currency translation Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transaction.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation of monetary assets and liabilities denominated in foreign currencies are recognised through pro t or loss.
+c Foreign operations The results and financial position of all the Group entities that have a functional currency diff erent from the Groups presentation currency of US dollars are translated as follows: i Assets and liabilities are translated at the closing rate at the reporting date: ii Income and expenses are translated at rates closely approximating the rate at the date of the transactions: and iii Resulting exchange diff erences are recognised in the foreign currency translation reserve.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+On disposal of a foreign entity, accumulated exchange diff erences are recognised in pro t or loss in the same period in which the gain or loss on disposal is recognised.
+Exchange diff erences arising from the translation of the net investment in foreign entities are taken to shareholders equity.
+Where investments are matched in whole or in part by foreign currency loans, the exchange diff erences arising on the retranslation of such loans are also recorded as movements in the Groups translation reserves and any excess taken to pro t or loss.
+There are no Group entities operating in a hyperin ationary economy.
+The principal exchange rates used in the preparation of these accounts are as follows: 2013 14 2012 13 : US$ Average 0.6313 0.6330 Year end 0.6059 0.6562 : US$ Average 0.7461 0.7786 Year end 0.7258 0.7694 Annual report 2013 14 137 Notes to the consolidated fi financial statements for the year ended 31 March 2014 Section fi five Other 5.1 Signi cant accounting policies continued 5.1.
+2 Property, plant and equipment Property, plant and equipment is stated at historical cost less accumulated depreciation and impairment losses.
+The cost of property, plant and equipment includes labour and overhead costs arising directly from the construction or acquisition of an item of property, plant and equipment.
+Plant and equipment represents the Groups network infrastructure assets.
+The estimated costs of dismantling and removing assets, typically cell sites and network equipment, and restoring land on which they are located are included in the cost of property, plant and equipment.
+The corresponding obligation is recognised as a provision in accordance with IAS 37 Provisions, contingent liabilities and contingent assets.
+Subsequent costs are included in the assets carrying amount or recognised as a separate asset, as appropriate, only when it is probable that the future economic bene ts will ow to the Group and the cost can be measured reliably.
+All other subsequent costs primarily repairs and maintenance are charged to pro t or loss as incurred.
+Depreciation is not recognised on freehold land or assets under construction.
+Depreciation is provided to write-off the cost of property, plant and equipment, on a straight line basis over the estimated useful lives of the assets as follows: Lives Cables up to 20 years Network equipment 3 to 25 years Ducting 40 years Freehold buildings 40 years Leasehold buildings up to 40 years or term of lease if less Asset useful lives are reviewed, and adjusted if appropriate, at each reporting date.
+An assets carrying amount is written down to its recoverable amount if the carrying amount is greater than its recoverable amount through sale or use.
+3 Intangible assets a Goodwill Goodwill represents the future economic bene ts that arise from acquired assets that are not capable of being individually identi ed and separately recognised.
+The goodwill recorded in the Groups statement of financial position is calculated using two diff erent methods, depending on the acquisition date, as a result of changes in accounting standards.
+All business combinations that occurred since 31 March 2010 are accounted for using the acquisition method in accordance with IFRS 3 Business combinations revised.
+Goodwill represents the excess of the cost of an acquisition over the fair value of the Groups share of the identi able net assets acquired.
+All transaction costs are expensed as incurred.
+All other business combinations are accounted for using the acquisition method in accordance with IFRS 3 Business combinations 2004.
+Costs attributable to these combinations are included in the cost of acquisition.
+Goodwill is not amortised and is tested annually for impairment and carried at cost less accumulated impairment losses.
+Goodwill is allocated to cash-generating units for the purpose of impairment testing.
+b Other intangible assets Costs that are directly associated with the purchase and implementation of identi able and unique soft ware products by the Group are recognised as intangible assets.
+Expenditures that enhance and extend the bene ts of computer soft ware programs beyond their original speci cations and lives are recognised as a capital improvement and added to the original cost of the soft ware.
+Intangible assets relating to customer contracts, customer relationships and licences obtained as part of the Groups business combinations are recorded initially at their fair values.
+Other intangible assets that do not have inde nite useful lives are amortised on a straight line basis over their respective lives which are usually based on contractual terms.
+Other intangible assets are stated at cost less amortisation.
+Lives Soft ware 3 to 5 years Licences Up to 25 years or the licence term if less Customer contracts and relationships 4 to 10 years 138 Cable & Wireless Communications 5.1.
+4 Financial instruments Financial assets The Group classi es its financial assets into the following categories: cash and cash equivalents: trade and other receivables: financial assets at fair value through pro t or loss: available-for-sale financial assets: and held-to-maturity investments.
+The classi cation depends on the purpose for which the assets are held.
+The Group does not currently classify any assets as held-to-maturity investments.
+Management determines the classi cation of its financial assets at initial recognition and re-evaluates this designation at every reporting date for financial assets other than those held at fair value through pro t or loss.
+Cash and cash equivalents Cash and cash equivalents comprise cash in hand and at bank, short-term deposits and money market funds.
+They are highly liquid monetary investments that are readily convertible to known amounts of cash and are subject to an insigni cant risk of changes in value.
+The carrying value of cash and cash equivalents in the statement of financial position is considered to approximate fair value.
+Bank overdraft s are included within borrowings and classi ed in current liabilities on the statement of financial position.
+Trade and other receivables Trade and other receivables are non-derivative financial assets with xed or determinable payments that are not quoted in an active market.
+They arise when the Group provides money, goods or services directly to a third party with no intention of trading the receivable.
+Trade and other receivables are presented in current assets in the statement of financial position, except for those with maturities greater than one year aft er the reporting date.
+Receivables are recognised initially at the value of the invoice sent to the customer and subsequently at the amounts considered recoverable amortised cost.
+Financial assets at fair value through pro t or loss Financial assets at fair value through pro t or loss are financial assets that are either held for trading or those designated upon initial recognition.
+A financial asset is classi ed in this category if acquired principally for the purpose of selling in the short term or if so designated by management.
+These financial assets are recognised initially at fair value.
+Subsequent changes in fair value are recognised through pro t or loss.
+Derivative financial instruments Derivative financial instruments are initially recognised at fair value on the date a derivative contract is entered into and are subsequently remeasured at their fair value at each reporting date.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument, and if so, the nature of the item being hedged.
+Gains and losses on derivative instruments that are not designated as hedge instruments are recognised immediately through pro t or loss.
+Available-for-sale financial assets Available-for-sale financial assets are non-derivative financial assets that are either designated in this category upon initial recognition or not classi ed in any of the other categories.
+They are included in non-current assets unless management intends to dispose of the investment within one year of the reporting date and such assets recognised in this category by the Group include UK and Bahamian government gilts.
+Purchases and disposals of available-for-sale financial assets are recognised at fair value.
+Subsequent changes in fair value, other than impairment losses and foreign currency diff erences, are recognised in other comprehensive income and presented in the fair value reserve within Capital and Other reserves in equity.
+When an asset is derecognised the gain or loss accumulated in equity is reclassi ed through pro t or loss.
+Financial liabilities The Group classi es its financial liabilities into the following categories: trade and other payables: borrowings: and financial liabilities at fair value.
+Management determines the classi cation of its financial liabilities at initial recognition and re-evaluates this designation at every reporting date for financial liabilities other than those held at fair value.
+Borrowings Borrowings are recognised initially at fair value net of directly attributable transaction costs incurred and are subsequently measured at amortised cost.
+Any diff erence between the proceeds received net of transaction costs and the redemption value is recognised through pro t or loss over the period of the borrowings using the eff ective interest method.
+The financial liabilities recognised in this category include secured and unsecured bonds and facilities and other loans held by the Group and are presented in borrowings in current liabilities in the statement of financial position unless the Group has an unconditional right to defer settlement of the liability for at least one year aft er the reporting date.
+Annual report 2013 14 139 Notes to the consolidated fi financial statements for the year ended 31 March 2014 Section fi five Other 5.1 Signi cant accounting policies continued Financial liabilities at fair value This category includes a puttable instrument on non-controlling interests relating to the acquisition of Monaco Telecom the Monaco Telecom put option and derivative financial instruments.
+The CMC put option, more fully described in note 4.6.
+2, was issued and redeemed during the year with no impact on pro t or loss.
+These financial liabilities are recognised initially at fair value.
+Subsequent changes in fair value are recognised through pro t or loss except for changes in the fair value of the Monaco Telecom put option.
+The fair value of the Monaco Telecom put option is based on the present value of the redemption amount, calculated using discounted cash ow techniques, as if the puttable instrument had been exercised at the reporting date.
+Movements in the fair value of the liability are recognised as adjustments to goodwill in accordance with IFRS 3 Business combinations 2004.
+5 Impairment of assets Financial assets The Group assesses at each reporting date whether there is objective evidence that a financial asset not carried at fair value through pro t or loss or a group of those financial assets is impaired.
+An impairment allowance is established for trade receivables when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+Nonfinancial assets Assets that have inde nite useful lives are not subject to amortisation and are tested annually for impairment.
+All other non-current assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be fully recoverable.
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identi able cash ows cashgenerating units.
+The Group determines any impairment by comparing the carrying values of each of the Groups assets or the cash-generating unit to which it belongs to their recoverable amounts, which is the higher of the assets fair value less costs to sell and its value in use.
+Fair value represents market value in an active market.
+Value in use is determined by discounting future cash ows arising from the asset.
+Future cash ows are determined with reference to the Groups own projections using pre-tax discount rates.
+Impairment reviews involve management making assumptions and estimates, which are highly judgemental and susceptible to change.
+6 Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost is the price paid less any rebates, trade discounts or subsidies.
+It also includes delivery charges and import duties, but does not include value added taxes or advertising and administration costs.
+Cost is based on the first-in, first-out FIFO principle.
+For inventories held for resale, net realisable value is determined as the estimated selling price in the ordinary course of business less costs to sell.
+Provision is made for obsolete and slow-moving inventories as required.
+7 Share capital Incremental costs directly attributable to the issue of new shares, stand-alone options or the repurchase of shares are recognised in equity.
+8 Leases All Group leases are operating leases.
+Payments made under operating leases, net of lease incentives or premiums received, are charged through pro t or loss on a straight-line basis over the period of the lease.
+9 Non-current assets and disposal groups held for sale When the value of non-current assets is expected to be recovered principally through sale rather than through continuing usage, they are available for immediate sale in their present condition and a sale is highly probable, they are classi ed as assets held for sale.
+With the exception of deferred tax assets, assets arising from employee bene ts and financial instruments, the assets held for sale are stated at the lower of their carrying amount and fair value less costs to sell.
+Disposal groups are groups of assets and liabilities to be disposed of together as a group in a single transaction.
+They are recognised as held for sale at the reporting date and are separately disclosed as current assets and liabilities on the statement of financial position.
+Any amortisation and depreciation ceases when classi ed as held for sale.
+Measurement diff erences arising between the carrying amount and fair value less cost of disposal are treated as impairment charges and separately disclosed.
+The Islands sub-group and the Macau segment were classi ed at 31 March 2013 as disposal groups held for sale and, with the exception of Seychelles, were subsequently disposed of during the year.
+The Seychelles disposal was not completed during the year, but continues to meet the criteria for recognition as a disposal group held for sale at 31 March 2014.
+10 Discontinued operations A discontinued operation is a component of the Group where the operations and cash ows are clearly distinguished from the rest of the Group and which: Represents a separate major line of business or geographical area of operations: Is part of a single co-ordinated plan to dispose of a separate major line of business or geographical area of operations: or Is a subsidiary acquired exclusively with a view to resale.
+Classi cation as a discontinued operation occurs on disposal or when the operation meets the criteria to be classi ed as held for sale.
+When an operation is classi ed as a discontinued operation, the comparative income statement and cash ow statement are re-presented as if the operation had been discontinued from the start of the comparative year.
+The Islands sub-group and the Macau segment were classi ed as discontinued operations at 31 March 2013 and, with the exception of Seychelles, were subsequently disposed of during the year ended 31 March 2014.
+The Seychelles disposal was not completed during the year, but the Seychelles continues to meet the criteria to be recorded as discontinued operations.
+11 Employee bene ts fide ned contribution pensions A fide ned contribution plan is a pension plan under which the Group pays xed contributions to a third party.
+The Group has no further payment obligations once the contributions have been paid.
+The contributions are recognised as operating costs as they are incurred through pro t or loss.
+fide ned bene t obligations A fide ned bene t plan is a pension plan that fide fines an amount of pension bene t that an employee will receive on retirement, usually dependent on one or more factors such as age, years of service and compensation.
+These schemes are generally funded through payments to insurance companies or Trustee-administered funds, determined by periodic actuarial calculations.
+The asset or liability recognised in the statement of financial position in respect of each fide ned bene t pension plan represents the fair value of plan assets less the present value of the fide ned bene t obligations at the reporting date.
+Assets are only recognised to the extent that the present value of the economic bene ts available in the form of refunds from the plan or reductions in future contributions to the plan exceed the fair value of the plan assets less the present value of the fide ned bene t obligations.
+fide ned bene t obligations for each scheme are calculated annually by independent actuaries.
+The Group recognises actuarial gains and losses, arising from experience adjustments and changes in actuarial assumptions, in the period in which they occur in the statement of other comprehensive income.
+Past service costs are recognised immediately through pro t or loss.
+Current service costs and any past service costs, together with the unwinding of the discount on net plan assets or liabilities, are included within operating costs through pro t or loss.
+Share-based compensation The Group operates various equity-settled, share-based compensation plans.
+The fair value of the employee services received in exchange for the grant of options over shares in the Company is recognised as an operating cost through pro t or loss over the vesting period.
+The total amount to be expensed over the vesting period is determined by reference to the fair value of the options granted, which excludes the impact of any non-market vesting conditions for example service, pro tability and cash ow targets.
+Non-market vesting conditions are included in estimates about the number of options that are expected to vest.
+At each reporting date, the Group revises its estimates of the number of options that are expected to vest.
+Termination bene ts Termination bene ts are payable when employment is terminated before the normal retirement date or whenever an employee accepts voluntary redundancy in exchange for these bene ts.
+The Group recognises termination bene ts within other provisions when it is demonstrably committed to the action leading to the employees termination.
+Bonus plans The Group recognises a liability in the statement of financial position in relation to bonuses payable to employees where contractually obliged or where there is a past practice that has created a constructive obligation.
+Annual report 2013 14 141 Notes to the consolidated fi financial statements for the year ended 31 March 2014 Section fi five Other 5.1 Signi cant accounting policies continued 5.1.
+12 Tax Tax on the pro t or loss for the year comprises current and deferred tax.
+Tax is recognised through pro t or loss except to the extent that it relates to items recognised directly in other comprehensive income and equity, in which case it is recognised in other comprehensive income or equity, respectively.
+Current tax is the expected tax payable on the taxable income for the year, using rates that have been enacted or substantively enacted at the reporting date, and any adjustment to tax payable in respect of prior years.
+Deferred tax is provided in full, using the liability method, on temporary diff erences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements, except where the diff erence arises from: The initial recognition of goodwill: or The initial recognition of an asset or liability in a transaction other than a business combination, aff ecting neither accounting nor taxable pro t. Deferred tax is calculated using tax rates that are expected to apply to the period when the temporary diff erences reverse, based on rates that have been enacted or substantively enacted by the reporting date.
+Deferred tax assets are recognised to the extent that it is probable that future taxable pro t will be available against which the temporary diff erences can be utilised.
+Deferred tax is provided on temporary diff erences arising on investments in subsidiaries and interests in joint ventures and associates, except where the timing of the reversal of the temporary diff erence is controlled by the Group and it is probable that the temporary diff erence will not reverse in the foreseeable future.
+13 Provisions Provisions are liabilities of uncertain timing or amount.
+They are recognised when the Group has a present legal or constructive obligation as a result of past events, it is more likely than not that an out ow of resources will be required to settle the obligation and the amount can be reliably estimated.
+Provisions are presented in the statement of financial position at the present value of the estimated future out ows expected to be required to settle the obligation.
+Provision charges and reversals are recognised through pro t or loss.
+Discount unwinding is recognised as a finance expense.
+14 Revenue recognition Group revenue, which excludes discounts, value added tax and similar sales taxes, represents the amount receivable in respect of services and goods provided to customers.
+It includes sales to joint ventures and associates but does not include sales by joint ventures and associates or sales between Group companies.
+Revenue is recognised only when payment is probable.
+Revenue from services is recognised as the services are provided.
+In respect of services invoiced in advance, amounts are deferred until provision of the service.
+Amounts payable by and to other telecommunications operators are recognised as the services are provided.
+Charges are negotiated separately and are subject to continual review.
+Revenue generated through the provision of these services is accounted for gross of any amounts payable to other telecommunications operators for interconnect fees.
+Revenue from mobile, broadband, TV and xed line products comprises amounts charged to customers in respect of monthly access charges, airtime and usage, messaging and other telecommunications services.
+This includes data services and information provision and revenue from the sale of equipment, including handsets.
+Monthly access charges from mobile, broadband, TV and xed line products are invoiced and recorded as part of a periodic billing cycle.
+Airtime, either from contract customers as part of the invoiced amount or from prepaid customers through the sale of prepaid credit, is recorded in the period in which the customer uses the service.
+Unbilled revenue resulting from services provided to contract customers from the billing cycle date to the end of each period is accrued.
+Unearned monthly access charges relating to periods aft er each accounting period are deferred.
+The Group earns revenue from the transmission of content and traffi c on its network originated by third-party providers.
+Third-party dealers and partners are also used to facilitate the sale and provision of some services and equipment sold by the Group.
+We assess whether revenue should be recorded gross as principal or net as agent, based on the features of such arrangements including the following factors: Whether the Group holds itself out as an agent: Whether the Group has latitude for establishing the price, either directly or indirectly, for example by providing additional services: Provision of customer remedies: Whether the Group has the primary responsibility for providing the services to the customer or for ful lling the order: and Assumption of credit risk.

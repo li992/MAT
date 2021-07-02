@@ -1,0 +1,114 @@
+Vodafone Business Technology and Resources Vodafones key technologies and resources include the telecommunications licences it holds and the related network infrastructure, which enable the Group to operate telecommunications networks in 22 controlled and jointly controlled markets around the world.
+Licences Network infrastructure The Group is dependent on the licences it holds to operate mobile communication services.
+How Vodafones network infrastructure works Further detail on the issue and regulation of licences can be found in Regulation on page 147.
+Vodafones network infrastructure is fundamental to the Group The table below summarises the significant mobile licences held by the Groups mobile operating being able to provide mobile and fixed voice, messaging and data subsidiaries and the Groups joint venture in Italy at 31 March 2008.
+In addition, the Group also has services.
+The Groups customers are linked to the access part of a number of licences to provide fixed line services in many countries in which it operates.
+the network, which links to the core network that manages the set-up of calls, transfer of messages and data connections and The Group holds sufficient spectrum in the majority of the Groups mobile operating subsidiaries allows the Group to provide a wide variety of other services.
+and joint ventures, which meet the medium term requirements for forecast voice and data growth.
+There is also the possibility of enhancing the medium term needs for voice and data capacity 2G 3G mobile access network through the refarming of the Groups existing holdings to more efficient technologies.
+In areas When a voice call or data transmission is made on a mobile where the Group needs to increase capacity, it will participate on an opportunity basis in future device, voice or data is sent from the device and transmitted by auctions.
+low powered radio signals to the nearest base station, which in turn is connected to the Groups core network via the access Country by region 2G licence expiry date 3G licence expiry date transmission infrastructure.
+Each base station provides coverage Europe over a given geographic area, often referred to as a cell.
+Cells can Germany December 2016 December 2020 be as small as an individual building or as large as 20 miles across Italy February 2015 December 2021 and each is equipped with its own radio transmitter and receiver 1 Spain July 2023 April 2020 antenna.
+This network of cells provides, within certain limitations, UK See note 2 December 2021 coverage over the service area.
+When a customer using a mobile Albania June 2016 N A No licences issued device approaches the boundary of one cell, the mobile network 3 Greece August 2016 August 2021 senses that the signal is becoming weak and automatically hands 4 Ireland May 2011 October 2022 over the call to the transmission unit in the next cell into which 5 Malta September 2010 August 2020 the device is moving.
+Netherlands March 2013 December 2016 Portugal October 2021 January 2016 Fixed broadband access network When communication takes place over fixed line networks, 6 EMAPA the traffic flows over a traditional wired infrastructure until Australia See note 7 October 2017 the point it reaches the Vodafone access device a DSLAM, Czech Republic January 2021 February 2025 where it connects to the access transmission infrastructure.
+Egypt January 2022 January 2022 Additionally, corporate customers can connect their local 8 9 Hungary July 2014 December 2019 network to Vodafones access transmission infrastructure 10 India November 2014 directly using a dedicated link.
+December 2026 N A No licences issued 11 New Zealand See note 11 March 2021 In the UK market, Vodafone delivers fixed broadband services Romania December 2011 March 2020 through a reseller agreement with the local incumbent.
+Turkey April 2023 N A No licences issued Access transmission infrastructure Notes: The access transmission network is the connection between a 1 Date relates to 1800 MHz spectrum licence.
+Spain also has a separate 900 MHz spectrum licence which expires base station, a DSLAM, or a corporate customers dedicated line, in February 2020.
+2 Indefinite licence with a one year notice of revocation.
+This consists of mainly leased lines or 3 The licence granted in 1992 900 MHz spectrum will expire in September 2012.
+The licence granted in 2001 Vodafones own transmission lines, such as microwave links.
+900 and 1800 MHz spectrum will expire in August 2016.
+4 Date refers to 900 MHz licence.
+Ireland also has a separate 1800 MHz spectrum licence which expires in December 2015.
+Core network 5 Malta also holds a WiMAX licence, granted in October 2005 and which expires in October 2020.
+The core network is responsible for setting up and controlling 6 In December 2007, a consortium including Vodafone was named as the successful applicant in the auction for connections between mobile or fixed line customers attached a mobile licence in Qatar.
+Subject to regulatory approvals, the licence is expected to be awarded in June 2008. to access networks by locating the called party and routing Services are expected to be launched under the Vodafone brand by the end of the 2009 financial year.
+7 A ustralia holds a 900 MHz spectrum licence.
+This is a rolling five year licence which expires in June 2012. voice calls towards it.
+Additionally, the core network handles Vodafone Australia also holds two 1800 MHz spectrum licences.
+One of these licences expires in June 2013 and data traffic by allowing customers to access service platforms the other in March 2015. offering services such as Vodafone live!, web browsing, email, 8 There is an option to extend this licence for seven years.
+mobile TV and other data related services.
+9 There is an option to extend this licence.
+10 I ndia is comprised of 23 service areas with a variety of expiry dates.
+There is an option to extend these licences by ten years.
+The core network comprises three domains, with each domain 11 B y the end of March 2008, New Zealand owned two 900 MHz licences each 2x7.5 MHz, which expire in containing nodes with specific functionality interconnected by November 2011 and in June 2012.
+These licences are expected to be renewed until November 2031.
+Additionally, Vodafone New Zealand owns a 1800 MHz spectrum licence 2x15 MHz and a 2100 MHz licence 2x15 MHz, transmission links: which expire in March 2021.
+All licences can be used for 2G and 3G at Vodafones discretion.
+The Circuit Switched domain enables voice and video calls.
+Its key nodes are switches which manage the set-up of connections and user databases, storing the information needed to provide services to each customer, such as location in the network, list of subscribed services and home visited network.
+16 Vodafone Group Plc Annual Report 2008 Access & transmission network Core network Other networks Fixed broadband networks Modem Service Fixed line platforms operators IMS Private corporate networks Access Internet Router transmission Packet infrastructure switched e. g. microwave, leased line or DSL Other Circuit mobile switched 2G 3G mobile networks operators Base station DSLAM The Packet Switched domain allows customers to use The GPRS data service offering includes internet and email data services.
+Its key nodes are responsible for a variety of access, allowing the customer to always be connected at functions, such as the delivery of data packets to and from download speeds slightly below a dial-up modem.
+In some mobile devices within a geographical service area, setting markets, Vodafone continues to further evolve data speeds up data connections and providing the gateway between with 2G evolutions beyond GPRS capability.
+the Vodafone network and external data networks, including the internet and customers corporate networks.
+3G The IP Multimedia Subsystem IMS domain is the first step Vodafones 3G networks, operating the Wideband Code Division of a wider evolutionary path from the current core network Multiple Access W-CDMA standard, provide customers with to an all internet protocol IP next generation network.
+Vodafone has expanded its service offering on It enables delivery of advanced multimedia services, both 3G networks with high speed internet and email access, video mobile and fixed, leveraging the flexibility and effectiveness telephony, full track music downloads, mobile TV and other data of internet technologies.
+IMS is expected to be a key element services in addition to existing voice and data services.
+in the future infrastructure to support Vodafones total communications strategy, exploiting the technology of High speed packet access HSPA convergence between the mobile telecommunications and HSPA is a 3G wireless technology enhancement enabling the internet world.
+significant increases in data transmission speeds.
+It allows increased mobile data traffic and improves the customer If the voice call or data transmission is intended for delivery experience through the availability of 3G broadband services to another device which is not on the Vodafone network in and significantly shorter data transfer times.
+the same country, the information is transferred through a public or private fixed line telephone network or the internet.
+High Speed Downlink Packet Access HSDPA has been widely deployed on Vodafone 3G networks at up to 3.6 Mbps Mega Mobile network technology bits per second peak speed.
+In addition, starting in hotspots, 2G the first upgrades to up to 7.2 Mbps peak speed have already Vodafone operates 2G networks in all its mobile operating started to be deployed in several operating subsidiaries.
+The subsidiaries, through Global System for Mobile GSM networks, figures are theoretical peak rates deliverable by the technology offering customers services such as voice, text messaging and in ideal radio conditions with no customer contention for basic data services.
+In addition, all of the Groups controlled resources.
+This is providing customers with faster access networks operate General Packet Radio Services GPRS, often speeds than historically experienced on 3G networks.
+GPRS allows mobile devices to be used for sending and receiving data over an IP based network, enabling wireless access to data networks like the internet.
+Vodafone Group Plc Annual Report 2008 17 Vodafone Business Technology and Resources continued While HSDPA focuses on the downlink network to mobile, IT Vodafone is also improving the data speeds on the uplink The scope of the Groups outsourcing of IT application mobile to network with HSUPA High Speed Uplink Packet development and maintenance operations is expanding.
+Operating subsidiaries have already started deployments commencement is now complete in all 12 selected markets of to achieve peak speeds of up to 1.4 Mbps on the uplink.
+The second phase of the project, principally outsourcing to India, is now in progress.
+Vodafone is actively driving additional 3G data technology enhancements to further improve the customers experience, Vodafone has successfully completed outsourcing of its Indian including evolutions of HSPA technology to upgrade both the IT estate to a specialist organisation with capability to match the downlink and uplink speeds.
+Groups scale and growth requirements.
+Current developments in the infrastructure In addition to the above initiatives, there are a number of IT cost As growth in data traffic accelerates with the proliferation in, and saving initiatives that have been accelerated, which include the adoption of, web services, Vodafone is evolving its infrastructure consolidation of European data centres and the outsourcing of through a range of initiatives.
+Access transmission infrastructure evolution Supply chain management Vodafone is upgrading its access transmission infrastructure Handsets, network equipment, marketing and IT services from the base stations to the core switching network as part account for the majority of Vodafones purchases, with the bulk of a transition to a scaleable and cost effective solution able of these purchases from global suppliers.
+The Groups Supply to deal with the increasing bandwidth demands and data Chain Management SCM team is responsible for managing dominated traffic mix driven by HSDPA and fixed broadband.
+the Groups relationships with all suppliers, except for handsets.
+Core network evolution The transformation of the supply chain organisation into a single Vodafone has transformed its national transport networks in community under one leadership and the application of global all subsidiaries, converging the infrastructure to support all material category strategies, in conjunction with local market services using IP as the strategic technology.
+During the expertise, have enabled savings across all operating companies.
+2009 financial year, the Group expects that the transformation This is supported by a uniform savings methodology applied to IP services will start to be extended to a European level, across all operating companies and the alignment of objectives consolidating Vodafones ten national IP networks into a single across all material categories, operations and enabling functions.
+IP backbone, centralising IP operations, avoiding duplication Innovative sourcing methods such as eAuctions and seamless and achieving simplicity and flexibility to deploy new services business to business applications form a vital part in utilising to serve multiple markets.
+The Vodafone Procurement Company S. a. r. l. was founded in Luxembourg in the 2008 financial year and is Cost reduction expected to enable additional leverage of scale and scope While evolving the Groups infrastructure, it is also important through a leaner procurement model.
+that the Group continues to have a tight control over its cost base.
+This has been achieved through various measures.
+SCM is a major contributor to the European cost reduction programme.
+The publicly announced goal to save 8% of the Infrastructure sharing external networks spend over two years has been overachieved.
+Significant effort has been placed in reducing the costs to deploy mobile network infrastructure.
+Important developments during SCM won two major industry awards in 2007: the European the 2008 financial year included the extension of a tower sharing Leaders in Procurement Award for Corporate Responsibility agreement in Italy as well as the formation of a company for and the European Supply Chain Excellence Award in Sourcing the purposes of network sharing with other operators in India.
+Agreements have also been made on network sharing in Spain and the UK.
+Vodafone continues to investigate opportunities to The major suppliers to Vodafone are required to comply with the share network infrastructure where it makes commercial sense Groups Code of Ethical Purchasing.
+Further detail on this can be based on local market conditions.
+found in Corporate Responsibility on page 61.
+Innovation The China Sourcing Centre based in Beijing, founded in March In 3G network deployments, Vodafone is driving the use of new 2007, has enabled Vodafone to introduce new suppliers from technology enhancements such as Remote Radio Heads that emerging markets to further enhance competitive advantage.
+are a new type of lower cost base station equipment, which improve coverage and enable improvements to the customer It is the Groups policy to agree terms of transactions, including experience.
+In addition, all aspects of wireless access point site payment terms, with suppliers and it is the Groups normal practice design are being targeted to reduce energy consumption.
+that payment is made accordingly.
+The number of days outstanding between receipt of invoices and date of payment, calculated by Another type of innovation being considered by Vodafone is the reference to the amount owed to suppliers at the year end as a potential for 3G femtocells to address capacity and coverage proportion of the amounts invoiced by suppliers during the year, needs in certain network deployments.
+Femtocells are a new was 37 days 2007: 34 days in aggregate for the Group.
+way to deliver 3G wireless coverage to a small area at low cost compared to traditional macro network technologies.
+Effectively, a femtocell would give a customer a small 3G base station connected to the Vodafone network via a fixed broadband line.
+18 Vodafone Group Plc Annual Report 2008 Research and development R&D The work of Group R&D is delivered through a portfolio of The Group R&D function comprises an international team for programmes and cross industry activities with a substantial applied research in mobile and internet communications and number of trials, demonstrations and prototypes.
+All work is set their related applications.
+Group R&D teams are located in in a business and social context, and must lead to intellectual Newbury, Maastricht, Munich, California and Madrid, and there is property rights or to Vodafone having significant influence an affiliated team in Paris belonging to Vodafones associated on the technology it will deploy in the future.
+Group R&D also undertaking in France, SFR.
+A small team was set up at the end of provides leadership for funding research into health and safety 2007 in the Vodafone Beijing office to work in close collaboration aspects of mobile communications and technical leadership with China Mobile and a number of Chinese vendors.
+for the Groups spectrum strategy.
+Function of Group R&D The main themes currently being researched are as follows: Group R&D works beyond the traditional established markets of Vodafone in search of technology based business opportunities by: the next generation of mobile technologies: consumable software for mobile phones: delivering a systematic programme of demand inspired electronic newsmedia: and research and development in wireless and internet new GSM based services.
+communications that is positioned between basic research and commercial product development: There have been several significant advances during the 2008 leading Vodafones work with technical standards bodies and financial year including: its intellectual property activities: and providing a route for start-up companies to engage with next generation technology field trials have been announced Vodafone.
+Group R&D is also in the process of establishing a with Verizon Wireless and China Mobile and are expected to laboratory in Newbury to evaluate start-up technologies.
+begin in summer 2008: a system has been designed and standardised to enable the Typically, Group R&D starts working on developments that are SIM in GSM phones to control nearfield communications for expected to be introduced into the business in three to five years, transport ticketing and other applications, with commercial and leads them until a year or so before full commercialisation.
+trials planned for late 2008: Currently the horizon covers some significant business demonstration of mobile software, social networks and the developments that can already be anticipated.
+For example, open source innovation platform called Vodafone Betavine Group R&D leads the introduction of wireless technology beyond at the Mobile World Congress and at Cebit: and 3G and is researching the next phase of the emergence of the research into the application of mobile communications to internet as a personal communications platform including radio health and well being and to energy use.
+technologies for accessing the internet in emerging markets.
+The R&D programme provides the Group with long term Governance is provided by the Group R&D Board, which is technical policy, strategy and leadership, as well as providing chaired by the Group R&D Director and consists of the chief technical underpinning for the Groups public policies and technology officers from six of the operating subsidiaries in government relations.
+It is shared with all Group functions and Europe, the heads of Business Strategy and Global Terminals Vodafone operating companies.
+Commercialisation of Group and a representative from EMAPA.
+R&D results is through submissions to international standards bodies, intellectual property filings and directly with Vodafone Group R&D work programme operating companies.
+The emphasis of the Group R&D work programme is on providing technology analysis and a vision that contributes directly Collaborative work to business decisions, enabling new applications of mobile Much of the work of Group R&D is done in collaboration with communications, technology for new services and research others, both within the Group and externally, with the Groups for improving operational efficiency and quality of the Groups traditional suppliers and increasingly with other companies in networks.
+This is done by: the communications, media and internet industries.
+During the 2008 financial year the following has been achieved: pioneering the adoption of new technologies, business opportunities and innovations through technology analysis, a research collaboration was started with IBM which has led trials, invention and prototypes: to the development of a mobile private social network called making the Group aware of market opportunities or threats BuddyCom: posed by new technologies and business models and helping a research agreement was also established with Huawei: the Company to exploit or resist them: a continuing programme of work with academic institutions, providing technology leadership by working with the industry which includes student placements in Vodafone laboratories to define and standardise the technology Vodafone uses: and during summer vacations: securing intellectual property and technology ownership for the continued development of Vodafone Betavine, a web the Group.
+based research and innovation platform: the hosting of an academic conference where academic partners were brought together to launch a new programme 3D internet: and academic collaborations in India have started.
+Vodafone Group Plc Annual Report 2008 19

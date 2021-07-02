@@ -1,0 +1,137 @@
+Consolidated financial statements LogicaCMG Annual report and accounts 2006 Notes to the consolidated financial statements 1.
+General information LogicaCMG is a major international force in IT and business services.
+It employs around 40,000 people across 41 countries.
+LogicaCMGs focus is on enabling its customers to build and maintain leadership positions using LogicaCMGs deep industry knowledge and its track record for successful delivery.
+The company provides business consulting, systems integration and IT and business process outsourcing across diverse markets including Telecoms and Media, Financial Services, Energy and Utilities, Industry, Distribution and Transport and the Public Sector.
+Headquartered in Europe, LogicaCMG is listed on both the London Stock Exchange and Euronext Amsterdam LSE: LOG: Euronext: LOG and traded on the Xternal List of the Nordic Exchange in Stockholm.
+More information is available at www.
+The company is a public company incorporated and domiciled in the UK.
+The address of its registered of ce is Stephenson House, 75 Hampstead Road, London, NW1 2PL, UK.
+Accounting policies Basis of preparation These consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as adopted by the European Union EU at 31 December 2006, and those parts of the Companies Act 1985 the Act that remain applicable to companies reporting under IFRS.
+The consolidated financial statements have been prepared under the historical cost convention with the exception of certain items which are measured at fair value, as disclosed in the accounting policies below.
+Basis of consolidation The consolidated financial statements include those of the company and all of its subsidiary undertakings together, the group, and the groups share of the results of associates and joint ventures.
+Investments in associates and joint ventures are accounted for using the equity method.
+Subsidiary undertakings are those entities controlled directly or indirectly by the company.
+Control arises when the company has the ability to direct the financial and operating policies of an entity so as to obtain bene ts from its activities.
+The results of subsidiaries acquired or sold are included in the consolidated income statement from the date of acquisition or up to the date of disposal respectively, using the same accounting policies as those of the group.
+All business combinations are accounted for using the purchase method.
+On acquisition, the interest of any minority shareholders is stated at the minoritys proportion of the fair value of the assets and liabilities recognised.
+Subsequently, the minority interest in the consolidated balance sheet re ects the minoritys proportion of changes in the net assets of the subsidiary.
+A minority interest is not recognised in a subsidiary with net liabilities except to the extent that the minority has a binding obligation, and is able to make an additional investment, to cover cumulative losses.
+All intercompany transactions and balances are eliminated on consolidation.
+Non-current assets held for sale and discontinued operations Non-current assets and disposal groups are classi ed as held for sale in the balance sheet if their carrying amount will be recovered through a sale transaction rather than ongoing use but only if the sale is highly probable and is expected to complete within one year from the date of classi cation.
+Non-current assets and disposal groups held for sale are measured at the lower of their carrying amount and fair value less costs to sell.
+The results of an operation that represents a separate major line of business and either has been disposed of during the period or is classi ed as held for sale, are classi ed as discontinued operations.
+The post-tax pro t or loss of the discontinued operation, plus the post-tax gain or loss recognised on the measurement of the assets and liabilities within the disposal group at fair value less costs to sell, is presented as a single amount on the face of the income statement.
+Intangible assets All intangible assets, except goodwill, are stated at cost less accumulated amortisation and any accumulated impairment losses.
+Goodwill is not amortised and is stated at cost less any accumulated impairment losses.
+Goodwill Goodwill represents the excess of the cost of acquisition over the fair value of the groups interest in the identi able assets, liabilities and contingent liabilities acquired in a business combination and the excess of the consideration paid for an increase in stake in an existing subsidiary over the share of the carrying value of net assets acquired.
+Goodwill previously written off directly to reserves under UK GAAP prior to 1 January 1998 has not been reinstated and is not recycled to the income statement on the disposal of the business to which it relates.
+Development costs Expenditure incurred in the development of software products or enhancements, and their related intellectual property rights, is capitalised as an intangible asset only when the future economic bene ts expected to arise are deemed probable and the costs can be reliably measured.
+Development costs not meeting these criteria, and all research costs, are expensed in the income statement as incurred.
+Capitalised development costs are amortised on a straight line basis over their useful economic lives once the related software product or enhancement is available for use.
+Other intangible assets Intangible assets purchased separately, such as software licences that do not form an integral part of related hardware, are capitalised at cost and amortised over their useful economic life.
+Intangible assets acquired through a business combination are initially measured at fair value and amortised over their useful economic lives.
+Accounting policies continued The useful economic lives of the other intangible assets are as follows: Brand names 3-5 years Customer contracts and relationships 1-10 years Purchased computer software 3 years Software products recognised on acquisition 3-7 years Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and any accumulated impairment losses.
+The cost of an item of property, plant and equipment comprises its purchase price and any costs directly attributable to bringing the asset into use.
+Depreciation is calculated on a straight-line basis to write down the assets to their estimated residual value over their useful economic lives at the following annual rates: Furniture 10-20% Computer equipment 25-33% Partitions and of ce equipment 10-20% Motor vehicles 25% Freehold property 2% Leasehold equipment and plant Life of lease The residual values and useful economic lives of property, plant and equipment are reviewed annually.
+Freehold land and properties under construction are not depreciated.
+Borrowing costs related to the purchase of xed assets are not capitalised.
+Leases Leases are classi ed as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+All other leases are classi ed as operating leases.
+Assets held under finance leases are initially recognised as property, plant and equipment at an amount equal to the fair value of the leased assets or, if lower, the present value of minimum lease payments at the inception of the lease, and then depreciated over their useful economic lives.
+Lease payments are apportioned between repayment of capital and interest.
+The capital element of future lease payments is included in the balance sheet as a liability.
+Interest is charged to the income statement so as to achieve a constant rate of interest on the remaining balance of the liability.
+Rentals payable under operating leases are charged to the income statement on a straight-line basis over the lease term.
+Operating lease incentives are recognised as a reduction in the rental expense over the lease term.
+Impairment of assets Goodwill is allocated to cash-generating units for the purposes of impairment testing.
+The recoverable amount of the cash-generating unit to which the goodwill relates is tested annually for impairment or when events or changes in circumstances indicate that it might be impaired.
+The carrying values of property, plant and equipment, investments measured using a cost basis and intangible assets other than goodwill are reviewed for impairment only when events indicate the carrying value may be impaired.
+In an impairment test, the recoverable amount of the cash-generating unit or asset is estimated to determine the extent of any impairment loss.
+The recoverable amount is the higher of fair value less costs to sell and the value in use to the group.
+An impairment loss is recognised to the extent that the carrying value exceeds the recoverable amount.
+In determining a cash-generating units or assets value in use, estimated future cash ows are discounted to their present value using a pre-tax discount rate that re ects current market assessments of the time value of money and risks speci c to the cash-generating unit or asset that have not already been included in the estimate of future cash ows.
+Inventories Inventories represent computer equipment that, at the balance sheet date, had not yet been allocated to a speci c customer contract and materials, including work-in-progress, used in document printing and nishing.
+Inventories are stated at the lower of cost and net realisable value.
+Cost comprises direct materials and, where applicable, direct labour costs and those overheads that have been incurred in bringing the inventories to their present location and condition.
+Cost is calculated using the first-infirst-out FIFO method.
+Net realisable value represents the estimated selling price less costs to be incurred in marketing, distribution and sale.
+Amounts recoverable on contracts Amounts recoverable on contracts represent revenue which has not yet been invoiced to customers on xed price contracts.
+Such amounts are separately disclosed within trade and other receivables.
+The valuation of amounts recoverable on contracts is adjusted to take up pro t to date or foreseeable losses in accordance with the groups accounting policy for pro t recognition.
+Financial instruments The following policies for financial instruments have been applied in the preparation of the consolidated financial statements.
+Cash and cash equivalents For the purpose of preparation of the cash ow statement, cash and cash equivalents include cash at bank and in hand, and short-term deposits with an original maturity period of three months or less.
+Bank overdrafts that are an integral part of a subsidiarys cash management are included in cash and cash equivalents where they have a legal right of offset against positive cash balances, otherwise bank overdrafts are classi ed as borrowings.
+Trade and other receivables Trade and other receivables are stated at amounts receivable less any provision for recoverability.
+A trade or other receivable is derecognised from the balance sheet when the group enters into a nancing transaction which transfers to a third party all signi cant rights or other access to bene ts relating to that asset, and all signi cant exposures to the risks inherent in that asset.
+71 Financial statements Consolidated financial statements LogicaCMG Annual report and accounts 2006 Notes to the consolidated financial statements continued 2.
+Accounting policies continued Borrowings Borrowings are recognised initially at fair value, net of transaction costs incurred.
+Borrowings are subsequently stated either at amortised cost or, if designated as such, at fair value through pro t or loss.
+For borrowings stated at amortised cost, any difference between the proceeds, net of transaction costs, and the redemption value is recognised in the income statement over the period of the borrowings using the effective interest rate method.
+The groups euro-denominated convertible bonds have been designated as a financial liability at fair value through pro t or loss.
+The change in the fair value of the convertible bonds that re ects the movement in the quoted market price of the convertible bonds is recognised in the income statement as either interest income or expense.
+The change in fair value relating to the movement of the exchange rate between the euro and pounds sterling is treated as a hedge of net investments in foreign operations see below.
+Foreign exchange gains and losses on the convertible bonds are taken directly to equity to the extent that the hedge is effective.
+Derivative financial instruments and hedging activities Derivatives are initially recognised at fair value on the date a contract is entered into and are subsequently re-measured at fair value.
+The fair values of derivatives are measured using observable market prices or, where market prices are not available, by using discounted expected future cash ows at prevailing interest rates and exchange rates.
+The gain or loss on re-measurement is taken to the income statement except where the derivative is part of a designated cash ow hedge or a designated hedge of a net investment in a foreign operation.
+The effective portion of changes in the fair value of derivatives that are designated and qualify as a cash ow hedge of a rm commitment or forecasted transaction are recognised directly in equity.
+The gain or loss relating to the ineffective portion of a cash ow hedge is recognised immediately in the income statement.
+If the cash ow hedge results in the recognition of an asset or liability, then the associated gains or losses on the derivative that had previously been recognised in equity are included in the measurement of the asset or liability at the time the asset or liability is recognised.
+For cash ow hedges that do not result in the recognition of an asset or a liability, amounts deferred in equity are transferred to the income statement in the same period as the underlying transaction occurs.
+Where the group hedges net investments in foreign entities through currency borrowings or derivative financial instruments, the gains or losses on the translation of the borrowings or change in fair value of the derivative are recognised in equity.
+Gains and losses accumulated in equity are included in the income statement when the foreign operation is disposed of.
+Changes in the fair value of derivative financial instruments that are not designated as hedging instruments or do not qualify for hedge accounting are recognised in the income statement as they arise.
+Changes in the fair value of derivatives or other hedging instruments transacted as hedges of financial items are recognised in finance costs income in the income statement as they arise.
+Taxation Current tax is recognised based on the amounts expected to be paid or recovered under the tax rates and laws that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax is provided in full on temporary differences that arise between the carrying amounts of assets and liabilities for financial reporting purposes and their corresponding tax bases.
+Liabilities are recorded on all temporary differences except in respect of investments in subsidiaries and joint ventures where the timing of the reversal of the temporary difference is controlled by the group and it is probable that it will not reverse in the foreseeable future.
+Deferred tax assets are recognised to the extent that it is probable that future taxable pro ts will be available against which the asset can be offset.
+Deferred tax is measured on an undiscounted basis using the tax rates and laws that have been enacted or substantively enacted at the balance sheet date.
+Current and deferred tax are recognised in the income statement, except when the tax relates to items charged or credited directly to equity, in which case the tax is also dealt with directly in equity.
+Provisions Provisions are recognised for restructuring costs when the group has a detailed formal plan for the restructuring that has been communicated to affected employees.
+Provisions are recognised for future committed property lease payments when the group receives no bene t from the property through continuing usage and future receipts from any sub-letting arrangements are not in excess of the groups future committed payments.
+Where the time value of money is material, provisions are measured at the present value of expenditures expected to be paid in settlement.
+Foreign currencies The presentation currency of the group is pounds sterling.
+The group also presents primary statements in euros, see pages 121 to 123.
+Items included in the separate financial statements of group entities are measured in the functional currency of each entity.
+Transactions denominated in foreign currencies are translated into the functional currency of the entity at the rates prevailing at the dates of the individual transactions.
+Foreign currency monetary assets and liabilities are translated at the rates prevailing at the balance sheet date.
+Exchange gains and losses arising are charged or credited to net operating costs or finance costs income in the income statement as appropriate, except when deferred in equity as qualifying cash ow hedges and qualifying net investment hedges.
+Accounting policies continued The income statement and balance sheet of foreign entities are translated into pounds sterling on consolidation at the average rates for the period and the rates prevailing at the balance sheet date respectively.
+Exchange gains and losses arising on the translation of the groups net investment in foreign entities, and of borrowings designated as hedges of such investments, are recognised as a separate component of shareholders equity.
+On disposal of a foreign entity, the cumulative translation differences are recycled to the income statement and recognised as part of the gain or loss on disposal.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the rates prevailing at the balance sheet date.
+The most important foreign currency for the group is the euro.
+The relevant exchange rates to pounds sterling were: 2006 2005 Average Closing Average Closing 1 1.47 1.48 1.46 1.46 Government grants Grants related to assets are recognised initially as deferred income and subsequently credited to the income statement on the same basis that the related assets are depreciated.
+Grants related to income are credited to the income statement over the periods necessary to match them with the related costs which they are intended to compensate.
+Revenue and pro t recognition Revenue represents the fair value of consideration received or receivable from clients for goods and services provided by the group, net of discounts, VAT and other sales-related taxes.
+Where the time value of money is material, revenue is recognised as the present value of the cash in ows expected to be received from the customer in settlement.
+Revenue from the sale of software products or hardware with no signi cant service obligation is recognised 100% on delivery.
+Revenue from the sale of software products or hardware requiring signi cant modi cation, integration or customisation is recognised using the percentage of completion method.
+The revenue and pro t of contracts for the supply of professional services at predetermined rates is recognised as and when the work is performed, irrespective of the duration of the contract.
+The revenue and pro t of xed price contracts is recognised on a percentage of completion basis when the outcome of a contract can be estimated reliably.
+A contracts outcome is usually deemed to be capable of reliable estimation at the earlier of six months from contract commencement and the date at which 50% of the total estimated costs of professional services have been incurred.
+If a contract outcome cannot be estimated reliably, revenues are recognised equal to costs incurred, to the extent that costs are expected to be recovered.
+The stage of contract completion is usually determined by reference to the cost of professional services incurred to date as a proportion of the total estimated cost of professional services.
+Where a contract contains multiple elements, the individual elements are accounted for separately where appropriate.
+Provision is made for all foreseeable future losses.
+Segment reporting At 31 December 2006, LogicaCMG was organised into two business segments: IT services and Telecoms Products.
+These two business segments are the groups primary reporting format for segment information as they represent the dominant source and nature of the groups risks and returns.
+The groups secondary reporting format is by geographical area.
+Inter-segment sales are charged at arms length prices.
+Segment revenue for secondary reporting is allocated based on the country in which the customer is located.
+Segment assets include all intangible assets, property, plant and equipment, inventories, trade and other receivables, and cash and cash equivalents but exclude tax assets.
+Segment liabilities comprise mainly trade and other payables, retirement bene t obligations and certain borrowings that can be attributed to the segment but exclude tax liabilities and borrowings that are for general corporate purposes.
+Capital expenditure comprises additions to property, plant and equipment and intangible assets.
+Total assets are allocated based on where the assets are located.
+Exceptional items Exceptional items fall within the operating activities of the group but are identi ed as exceptional items by virtue of their size, nature or incidence.
+These items are disclosed in aggregate on the face of the income statement to aid an understanding of the groups financial performance.
+Employee bene ts Retirement bene ts The group operates retirement bene t plans of both a fide ned contribution and fide ned bene t nature.
+Retirement bene t plans that are funded by the payment of insurance premiums are treated as fide ned contribution plans unless the group has an obligation either to pay the bene ts directly when they fall due or to pay further amounts if assets accumulated with the insurer do not cover all future employee bene ts.
+In such circumstances, the plan is treated as a fide ned bene t plan.
+The cost of fide ned contribution plans is charged to the income statement on the basis of contributions payable by the group during the year.
+For fide ned bene t plans, the fide ned bene t obligation is calculated annually by independent actuaries using the projected unit credit method.
+The retirement bene t liability in the balance sheet represents the present value of the fide ned bene t obligation as reduced by the fair value of plan assets and unrecognised past service cost.
+A retirement bene t asset is recognised to the extent that the group can bene t from refunds or a reduction in future contributions.

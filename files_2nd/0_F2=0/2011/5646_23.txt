@@ -1,0 +1,122 @@
+The Invisible Enablers | Filtrona plc Annual Report 2011 Financial Statements 73 Accounting Policies a.
+Basis of preparation The consolidated financial statements have been prepared and approved by the Directors in accordance with International Financial Reporting Standards as adopted by the European Union EU in accordance with EU law IAS Regulation EC 1606 2002 adopted IFRS and with those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+The Company has elected to prepare its individual company financial statements in accordance with United Kingdom Generally Accepted Accounting Practice UK GAAP : these are presented on pages 106 to 110.
+The financial statements are prepared under the historical cost convention except for derivatives which are stated at fair value and retirement benefit obligations which are valued in accordance with IAS 19 Revised : Employee benefits.
+The preparation of financial statements that conform with adopted IFRS requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of income and expense during the reporting period.
+Although these estimates are based on managements best knowledge of the amount, event or actions, actual results may ultimately differ from those estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period in which the estimate is revised and future periods if relevant.
+The accounting policies used in the preparation of these financial statements are detailed below.
+These policies have been consistently applied to all periods presented.
+The following standards were adopted by the Group during the year with no significant impact on its consolidated results, financial position or disclosures: Amendment to IAS 1: Presentation of statement of changes in equity Amendment to IAS 24: Disclosure requirements for government related entities and the definition of a related party Amendments to IFRIC 14: Prepayments of a Minimum Funding Requirement Amendments contained in Improvements to IFRSs issued in May 2010 The following standards or interpretations have not yet been adopted by the Group.
+The Group does not currently believe the adoption of these standards or interpretations would have a material impact on the consolidated results or financial position of the Group: IFRS 9: Financial instruments not yet endorsed by the EU the primary impact of which is to remove the multiple classification and measurement models for financial assets required by IAS 39 and introduce a model that has only two classification categories: amortised cost and fair value.
+IFRS 10: Consolidated financial statements not yet endorsed by the EU replaces the guidance of control and consolidation in IAS 27 and SIC 12: Consolidation special purpose entities.
+The core principle that a consolidated entity presents a parent and its subsidiaries as if they were a single entity remains unchanged, as do the mechanics of consolidation.
+IFRS 11: Joint arrangements not yet endorsed by the EU requires joint arrangements to be accounted for as a joint operation or as a joint venture depending on the rights and obligations of each party to the arrangement.
+Proportionate consolidation for joint ventures will be eliminated and equity accounting will be mandatory.
+It is anticipated that the application of the standard will result in an immaterial decrease in net sales, total assets and total liabilities of the Group but have no impact on the Groups net profit or net assets.
+IFRS 12: Disclosure of interests in other entities not yet endorsed by the EU requires enhanced disclosures of the nature, risks and financial effects associated with the Groups interests in subsidiaries, associates, joint arrangements and unconsolidated structured entities.
+IFRS 13: Fair value measurement not yet endorsed by the EU explains how to measure fair value and aims to enhance fair value disclosures.
+The standard does not change the measurement of fair value but codifies it in one place.
+IFRS 10, IFRS 11, IFRS 12 and IFRS 13 are all effective 1 January 2013.
+Amendments to IAS 19: Employee benefits not yet endorsed by the EU changes a number of disclosure requirements for post-employment arrangements and restricts the options currently available on how to account for defined benefit pension plans.
+The most significant change that will impact the Group is that the amendment requires the expected returns on pension plan assets, currently calculated based on managements estimate of expected returns to be replaced by a credit on the pension plan assets calculated at the liability discount rate.
+The Group expects this change will result in an increase in finance costs but will not impact the Groups net assets.
+All other standards and interpretations recently adopted by the EU not discussed above did not have or are not expected to have a significant impact on the Group.
+For the purposes of these financial statements Filtrona or the Group means Filtrona plc the Company and its subsidiaries.
+74 Filtrona plc Annual Report 2011 Accounting Policies continued a.
+Basis of preparation continued The Directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for the foreseeable future and accordingly have adopted the going concern basis in preparing the consolidated financial statements.
+Further information regarding the financial position of the Group, its cash flows, liquidity position, and borrowing facilities are described in the Financial Review on pages 14 to 15.
+In addition, note 1 to the financial statements includes the Groups objectives, policies and processes for managing its capital, its financial risk management objectives, details of its financial instruments and hedging activities and exposures to credit, market and liquidity risk.
+Cash balances and borrowings are included in note 21.
+This disclosure has been prepared in accordance with the Financial Reporting Councils Going Concern and Liquidity Risk: Guide for Directors of UK Companies 2009. b.
+Basis of consolidation i Subsidiaries Subsidiaries are entities controlled by Filtrona.
+Control exists when Filtrona has the power, directly or indirectly, to govern the financial and operating policies of an entity so as to obtain economic benefit from its activities.
+The financial statements of subsidiaries are included in the financial statements from the date that control commences until the date that control ceases.
+ii Transactions eliminated on consolidation Intragroup balances and any unrealised gains and losses or income and expense arising from intragroup transactions are eliminated in preparing the financial statements.
+c. Foreign currency Items included in the financial statements of the Groups subsidiaries are measured using the currency of the primary economic environment in which the subsidiary operates functional currency.
+The consolidated financial statements are prepared in sterling functional currency of the parent company.
+i Foreign currency transactions Transactions in foreign currencies are recorded at the rate of exchange at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are translated into sterling at the exchange rate ruling at that date and recognised in the income statement unless hedge accounting criteria apply see policy for derivatives.
+ii Financial statements of foreign operations The assets and liabilities of foreign operations, including goodwill and fair value adjustments arising on consolidation, are translated into sterling at the exchange rate ruling at the balance sheet date.
+The revenues and expenses of foreign operations are translated into sterling at average exchange rates.
+iii Net investment in foreign operations Exchange differences on retranslation at the closing rate of the opening balances of overseas entities are taken to reserves, as are exchange differences arising on related foreign currency borrowings and derivatives designated as net investment hedges, to the extent that they are effective.
+Other exchange differences are taken to the income statement.
+Differences arising prior to 1 January 2004 are included in retained earnings.
+d. Financial instruments In accordance with IAS 39: Financial instruments: recognition and measurement IAS 39, interest bearing loans and borrowings and other financial liabilities excluding derivatives are held at amortised cost, unless they are included in a hedge accounting relationship.
+See note 15 for separate disclosure of hedge types.
+Derivatives are measured initially at fair value.
+Subsequent recognition in the financial statements depends on the classification of the derivative as follows: i Fair value hedges Where a derivative is used to hedge the foreign exchange exposure of a monetary asset or liability, any gain or loss on the derivative is recognised in the income statement.
+ii Cash flow hedges Where a derivative is designated as a hedging instrument in a cash flow hedge the change in fair value is recognised in equity to the extent that it is effective and any ineffective portion is recognised in the income statement.
+Where the underlying transaction results in a financial asset, accumulated gains and losses are recognised in the income statement in the same period as the hedged item affects profit or loss.
+Where the hedged item results in a non-financial asset the accumulated gains and losses previously recognised in equity are included in the initial carrying value of the asset.
+The Invisible Enablers | Filtrona plc Annual Report 2011 Financial Statements 75 iii Hedges of net investment in foreign operations The gain or loss on an instrument used to hedge a net investment in a foreign operation that is deemed effective is recognised in equity.
+Any ineffective portion is recognised in the income statement.
+e. Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and impairment losses.
+Previously revalued properties were treated as being held at deemed cost upon transition to adopted IFRS.
+Where parts of an item of property, plant and equipment or other assets have different useful lives, they are accounted for as separate items.
+The carrying values of property, plant and equipment and other assets are periodically reviewed for impairment when events or changes in circumstances indicate that the carrying values may not be recoverable.
+f. Depreciation Property, plant and equipment are depreciated over their estimated remaining useful lives on a straight line basis at the following annual rates: Freehold land Not depreciated Buildings 2% or life of lease if shorter Plant and machinery 7-20% Fixtures, fittings and equipment 10-33% The assets useful lives and residual values are reviewed, and adjusted if appropriate, at each balance sheet date.
+g. Leases Rentals associated with operating leases are expensed to the income statement on a straight line basis.
+Lease incentives are amortised in the income statement over the life of the lease.
+h. Intangible assets i Goodwill Goodwill is stated at cost less any impairment losses.
+Acquisitions are accounted for using the purchase method.
+For acquisitions that have occurred since 1 January 2004 goodwill represents the difference between the fair value of the assets given in consideration and the fair value of identifiable assets, liabilities and contingent liabilities of the acquiree.
+For acquisitions made before 1January 2004, goodwill is included on the basis of its deemed cost, which represents the amount previously recorded under UK GAAP.
+Since 1 January 2010 the Group has expensed costs attributable to acquisitions in the income statement.
+ii Research and development Research costs are expensed to the income statement in the year in which they are incurred.
+Development costs relating to new products are capitalised if the new product is technically and commercially feasible.
+All other development costs are recognised in the income statement and expensed as incurred.
+iii Other intangible assets An intangible asset acquired in a business combination is recognised at fair value to the extent it is probable that the expected future economic benefits attributable to the asset will flow to the Group and that its cost can be measured reliably.
+Intangible assets principally relate to customer relationships which were valued using discounted cash flows based on historical customer attrition rates and developed technology which was valued using an income approach.
+The cost of intangible assets is amortised through the income statement on a straight line basis over their estimated useful economic life.
+i. Impairment All assets, except intangible assets, deferred tax assets and inventories, are reviewed annually to determine whether there is any indication of impairment.
+Goodwill and intangible assets with indefinite lives are tested annually.
+Other intangible assets are tested if there is an indication of impairment.
+An impairment loss is recognised whenever the carrying amount of a non-financial asset or its cash generating unit exceeds its recoverable amount, being the greater of value in use and fair value less costs to sell, and is recognised in the income statement.
+Value in use is estimated based on future cash flows discounted using a pre-tax discount rate based upon the Groups weighted average cost of capital.
+76 Filtrona plc Annual Report 2011 Accounting Policies continued j.
+Inventories Inventories are valued at the lower of cost on a first in, first out basis and net realisable value.
+For work-in-progress and finished goods, cost includes an appropriate proportion of labour cost and overheads.
+k. Cash and cash equivalents Cash and cash equivalents comprise cash balances and fixed term investments whose maturities are three months or less from the date of acquisition.
+Bank overdrafts repayable on demand form an integral part of Filtronas cash management and are included as part of cash and cash equivalents in the statement of cash flows.
+l. Loans and borrowings Loans and borrowings are initially measured at cost which is equal to fair value at inception and are subsequently measured at amortised cost using the effective interest rate method.
+Any difference between the proceeds, net of transaction costs, and the settlement or redemption of borrowings is recognised in the income statement over the term of the borrowings.
+m. Trade and other receivables Trade and other receivables carrying value is estimated as the present value of future cash flows less impairment losses.
+n. Trade and other payables Trade payables are non-interest bearing and are recognised initially at fair value and subsequently at amortised cost.
+o. Catalogue costs The costs associated with the production and printing of catalogues are expensed to the income statement when access is received to those goods.
+p. Income tax Income tax in the income statement comprises current and deferred tax.
+Income tax is recognised in the income statement except to the extent that it relates to items recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year using tax rates enacted or substantively enacted at the balance sheet date and any adjustment to tax payable in prior years.
+Deferred tax is provided, using the balance sheet liability method, on temporary differences arising between the tax bases and the carrying amounts of assets and liabilities in the financial statements.
+The following temporary differences are not provided for: goodwill not deductible for tax purposes, the initial recognition of assets or liabilities that affect neither accounting nor taxable profit or loss, and differences relating to investments in subsidiaries to the extent that they will not reverse in the foreseeable future.
+Deferred tax is determined using tax rates that are expected to apply when the related deferred tax asset or liability is settled.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profit will be available against which the asset can be utilised.
+Deferred tax assets are reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+Revenue Revenue from the sale of goods is recognised in the income statement net of expected warranty claims when the significant risks and rewards of ownership have been transferred to the customer.
+r. Finance income and expense Finance income and expense is recognised in the income statement as it accrues.
+s. Segment reporting A segment is identified on the basis of internal reports that are regularly reviewed by the Group Management Committee in order to allocate resources to the segment and assess its performance.
+t. Pensions i Defined contribution schemes Obligations for contributions to defined contribution pension schemes are expensed to the income statement as incurred.
+The Invisible Enablers | Filtrona plc Annual Report 2011 Financial Statements 77 ii Defined benefit schemes The significant pension schemes in Europe and the US have been accounted for on a defined benefit basis.
+The net obligations in respect of defined benefit pension schemes are calculated separately for each scheme by estimating the amount of future benefit that employees have earned in return for their service in the current and prior periods: that benefit is discounted to determine its present value, and the fair value of any scheme assets is deducted.
+The discount rate is the yield at the balance sheet date on AA credit-rated bonds that have maturity dates approximating to the terms of Filtronas obligations.
+The calculation is performed by a qualified independent actuary using the projected unit credit method.
+Actuarial gains and losses that have arisen are recognised in full in the consolidated statement of comprehensive income.
+The amounts charged to operating profit are the current service cost, past service cost and gains and losses on settlement and curtailments.
+The expected increase in the present value of scheme liabilities is included within finance expense and the expected return on scheme assets is included within finance income.
+u. Share-based payments Filtrona operates equity-settled, share-based incentive plans.
+A charge is made in the income statement based on the fair value of option awards using the Monte Carlo or binomial valuation models as appropriate with a corresponding increase in equity.
+The fair value is measured at grant date and spread over the period between grant and vesting date of the options.
+The amount recognised as an expense will be adjusted to reflect the actual number of share options that vest with the exception of options that fail to vest because market-based conditions are not met.
+v. One-off items in the consolidated income statement The exceptional operating costs below are separated from other costs by virtue of their size and incidence.
+They are shown as a separate line item within operating profit on the face of the income statement in order for the reader to obtain a proper understanding of the financial information and performance.
+These costs exclude amortisation of acquired intangible assets which are also presented separately in the income statement.
+i Acquisition fees In 2011, Filtrona incurred significant one-off costs in professional fees as a result of the acquisitions of the entire issued share capital of Richco, Inc. and the assets and business of Reid Supply Company.
+ii Acquisition integration costs These costs represent assets written off as part of the integration of the acquired businesses into the Groups Protection & Finishing Products division.
+iii Other exceptional costs This represents insurance proceeds received net of associated costs, the loss on disposal of the Groups shares in FractureCode Corporation ApS and reorganisation costs within certain of the Groups divisions.
+w. Investment in own shares The shares held in the Filtrona Employee Benefit Trust for the purpose of fulfilling obligations in respect of share option plans are treated as belonging to the Company and are deducted from its retained earnings.
+The cost of shares held directly treasury shares are also deducted from retained earnings.
+Provisions A provision is recognised when there is a probable legal or constructive obligation as a result of a past event and a reliable estimate can be made of the outflow of resources that will be required to settle the obligation.
+The outflow is the present value of managements best estimate of the expenditure required to settle the present obligation at the balance sheet date.
+Net debt Net debt is defined as cash and cash equivalents, net of interest bearing loans and borrowings.
+Dividends Dividends are recognised as a liability in the period in which they are approved by the shareholders of the Company final dividend or paid interim dividend.

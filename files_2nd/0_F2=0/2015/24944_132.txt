@@ -1,0 +1,50 @@
+29 Provisions Accounting policy Provisions are recognised when it is probable that an outflow of economic benefits will be required to settle a present legal or constructive obligation which has arisen as a result of past events and for which a reliable estimate can be made.
+Critical accounting estimates and judgements Provisions Judgement is involved in determining whether a present obligation exists and in estimating the probability, timing and amount of any outflows.
+Professional expert advice is taken on the assessment of litigation, property including onerous contracts and similar obligations.
+Provisions for legal proceedings and regulatory matters typically require a higher degree of judgement than other types of provisions.
+When matters are at an early stage, accounting judgements can be difficult because of the high degree of uncertainty associated with determining whether a present obligation exists, and estimating the probability and amount of any outflows that may arise.
+As matters progress, management and legal advisers evaluate on an ongoing basis whether provisions should be recognised, revising previous judgements and estimates as appropriate.
+At more advanced stages, it is typically easier to make judgements and estimates around a better defined set of possible outcomes.
+However, the amount provisioned can remain very sensitive to the assumptions used.
+There could be a wide range of possible outcomes for any pending legal proceedings, investigations or inquiries.
+As a result, it is often not practicable to quantify a range of possible outcomes for individual matters.
+It is also not practicable to meaningfully quantify ranges of potential outcomes in aggregate for these types of provisions because of the diverse nature and circumstances of such matters and the wide range of uncertainties involved.
+Provisions for customer remediation also require significant levels of estimation and judgement.
+The amounts of provisions recognised depend on a number of different assumptions, for example, the volume of inbound complaints, the projected period of inbound complaint volumes, the decay rate of complaint volumes, the population identified as systemically mis-sold and the number of policies per customer complaint.
+Provisions Legal proceedings Restructuring Contractual and regulatory Customer Other costs commitments matters remediation provisions Total $m $m $m $m $m $m At 1 January 2015 197 234 2,184 1,831 552 4,998 Additional provisions increase in provisions 430 120 2,153 765 138 3,606 Provisions utilised 95 2 619 856 159 1,731 Amounts reversed 29 15 95 170 133 442 Unwinding of discounts 40 6 46 Exchange differences and other movements 40 97 489 236 63 925 At 31 December 2015 463 240 3,174 1,340 335 5,552 At 1 January 2014 271 177 1,832 2,382 555 5,217 Additional provisions increase in provisions 147 136 1,752 1,440 154 3,629 Provisions utilised 143 2 1,109 1,769 112 3,135 Amounts reversed 43 46 281 184 66 620 Unwinding of discounts 143 10 11 65 Exchange differences and other movements 35 32 53 48 10 158 At 31 December 2014 197 234 2,184 1,831 552 4,998 Further details of Legal proceedings and regulatory matters are set out in Note 40.
+Legal proceedings include civil court, arbitration or tribunal proceedings brought against HSBC companies whether by way of claim or counterclaim or civil disputes that may, if not settled, result in court, arbitration or tribunal proceedings.
+Regulatory matters refer to investigations, reviews and other actions carried out by, or in response to the actions of, regulators or law enforcement agencies in connection with alleged wrongdoing by HSBC.
+Further details of Customer remediation are set out in this note.
+Customer remediation refers to activities root cause analysis, customer contact, case reviews, decision making and redress calculations carried out by HSBC to compensate customers for losses or damages associated with a failure to comply with regulations or to treat customers fairly.
+Customer remediation is often initiated by HSBC in response to customer complaints and or industry developments in sales practices, and is not necessarily initiated by regulatory action.
+Payment protection insurance At 31 December 2015, a provision of $1,039m 2014: $1,079m was held relating to the estimated liability for redress in respect of the possible mis-selling of payment protection insurance PPI policies in previous years.
+An increase in provisions of $549m was recognised during the year, primarily reflecting an increase in inbound complaints by claims management HSBC HOLDINGS PLC 421 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Notes on the Financial Statements continued 29 Provisions 30 Subordinated liabilities companies compared with previous forecasts and managements current best estimate of the impact on provisions of the FCA consultation on the introduction of a time bar and the 2014 decision of the UK Supreme Court Plevin.
+The current projected trend of inbound complaint volumes implies that the redress programme will be completed by the first half of 2018 taking into account the likely impact of a time bar.
+Cumulative provisions made since the Judicial Review ruling in the first half of 2011 amounted to $4.7bn of which $3.6bn had been paid as at 31 December 2015.
+The estimated liability for redress is calculated on the basis of total premiums paid by the customer plus simple interest of 8% per annum or the rate inherent in the related loan product where higher.
+The basis for calculating the redress liability is the same for single premium and regular premium policies.
+Future estimated redress levels are based on historically observed redress per policy.
+A total of 5.4m PPI policies have been sold by HSBC since 2000, generating estimated revenues of approximately $4.0bn at 2015 average exchange rates.
+The gross written premiums on these policies was approximately $5.2bn.
+At 31 December 2015, the estimated total complaints expected to be received was 1.9m, representing 35% of total policies sold.
+It is estimated that contact will be made with regard to 2.3m policies, representing 42% of total policies sold.
+This estimate includes inbound complaints as well as HSBCs proactive contact exercise on certain policies outbound contact.
+The cumulative number of PPI complaints received to 31 December 2015 and the number of future claims expected Cumulative to 31 December Future 2015 expected 1 Inbound complaints 000s of policies 1,215 336 Outbound contact 000s of policies 624 101 Response rate to outbound contact 44% 52% 2 Average uphold rate per claim 74% 81% Average redress per claim $ 3,058 2,844 Complaints to FOS 000s of policies 121 51 Average uphold rate per FOS claim 36% 53% 1 Excludes invalid claims where the complainant has not held a PPI policy.
+2 Claims include inbound and responses to outbound contact.
+The main assumptions involved in calculating the redress liability are the volume of inbound complaints, the projected period of inbound complaints, the decay rate of complaint volumes, the population identified as systemically mis-sold and the number of policies per customer complaint.
+The main assumptions are likely to evolve over time as root cause analysis continues, more experience is available regarding customer-initiated complaint volumes received, and we handle responses to our ongoing outbound contact.
+A 100,000 increase decrease in the total inbound complaints would increase decrease the redress provision by approximately $221m at 2015 average exchange rates.
+Each 1% increase decrease in the response rate to our outbound contact exercise would increase decrease the redress provision by approximately $15m.
+The decision under Plevin held that, judged on its own facts, non-disclosure of the amount of commissions payable in connection with the sale of PPI to a customer created an unfair relationship under the provisions of the UK Consumer Credit Act CCA.
+The FCA has issued a consultation on proposed rules and guidelines in relation to the application of this ruling, together with a proposal for the introduction of a time bar.
+HSBC has reflected its current best estimate of the impact of these matters in the provision held as at 31 December 2015.
+There remains uncertainty as to what the eventual outcome of the consultation will be: HSBC will continue to review provisioning levels as further facts become known.
+In addition to these factors and assumptions, the extent of the required redress will also depend on the facts and circumstances of each individual customers case.
+For these reasons, there is currently a high degree of uncertainty as to the eventual costs of redress.
+Interest rate derivatives At 31 December 2015, a provision of $87m 2014: $312m was held relating to the estimated liability for redress in respect of the possible mis-selling of interest rate derivatives in the UK.
+The provision relates to the estimated redress payable to customers in respect of historical payments under derivative contracts.
+A release to the provision of $38m 2014: $288m increase was recorded during the year.
+UK Consumer Credit Act HSBC has undertaken a review of compliance with the fixed-sum unsecured loan agreement requirements of the CCA.
+$167m was recognised at 31 December 2015 within Accruals, deferred income and other liabilities for the repayment of interest to customers 2014: $379m, primarily where annual statements did not remind them of their right to partially prepay the loan, notwithstanding that the customer loan documentation did refer to this right.
+The cumulative liability to date was $569m 2014: $591m, of which payments of $414m 2014: $212m have been made to customers.
+There is uncertainty as to whether other technical requirements of the CCA have been met.

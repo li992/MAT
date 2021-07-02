@@ -1,0 +1,20 @@
+Section 6 Attribution of Wholesale Current Costs and Mean Capital Employed Section 6.1.
+1 - Notes on Wholesale sector costs Other Costs The notes below are intended to provide a brief description of the sectors reported in the Other Costs are dominated by payments to other UK communications providers, but also Attribution of Wholesale Current Cost Statement and the key drivers of these sectors to aid include payments to overseas administrations and internal product transfer charge costs.
+the user of the Current Cost Financial Statements 2013.
+Further details of these sectors can The key drivers include the pence per minute charging of the other operators for BT traffic be found in the Detailed Attribution Methods DAM which outlines in detail the key bases, on their network.
+descriptions and drivers of the network components.
+Depreciation Provision Maintenance Depreciation is analysed between land and buildings, access, switch and transmission and Provision Maintenance includes costs of network provision, installation and maintenance.
+other including network power, computers and software.
+The key drivers are engineering The most material cost relates to D-side copper maintenance which is apportioned to models and direct mapping of BT classes of work to network components and then onto the services on the basis of the number of lines, relative fault rates and service levels.
+appropriate service, based on usage factors and actual service volumes Network Support Network Support contains costs of activities necessary to support the running of BTs network such as time booked by engineers to non-operational activities.
+Most of these costs are apportioned used previously allocated engineers pay.
+General Support General Support includes planning, development, supplies, transport, computing, customer service, personnel & administration, customer support and other general support costs.
+The key drivers for the apportionment of General Support include previously allocated pay costs, time recording systems and activity surveys.
+General Management General Management includes operator services, costs of general management activities and other general expenses.
+The key drivers are activity surveys, pay costs and asset values.
+Finance and Billing Finance and Billing includes costs associated with activities of a financial nature, such as budget building, management reporting, and billing and collection costs.
+The key drivers for the apportionment of Finance and Billing include activity surveys, pay costs and asset values.
+Accommodation The Accommodation sector includes exchange and office building costs.
+Accommodation costs are mainly apportioned based on the use of floor space.
+Bad Debts Bad debts include costs associated with writing off amounts that cannot be collected from customers.
+The key driver is revenue.

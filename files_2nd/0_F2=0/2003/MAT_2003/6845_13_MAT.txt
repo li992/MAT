@@ -1,0 +1,554 @@
+ACCOUNTING_GER
+POLICIES_NN
+for_PIN
+the_DT
+year_NN
+ended_VBD
+4_CD
+May_POMD
+2003_CD
+Basis_NN
+of_PIN
+accounting_GER
+and_PHC
+consolidation_NOMZ
+The_DT
+accounts_NN
+are_VPRT [PASS]
+prepared_VBN
+in_PIN
+accordance_NN
+with_PIN
+the_DT
+Companies_NN
+Act_NN
+1985_CD
+and_CC
+applicable_JJ
+accounting_GER
+and_CC
+financial_JJ
+reporting_GER
+standards_NN
+._.
+They_TPP3
+are_VPRT [PASS]
+prepared_VBN
+under_IN
+the_DT
+historical_JJ
+cost_NN
+convention_NOMZ
+modified_VBN [WZPAST]
+by_PIN
+the_DT
+revaluation_NOMZ
+of_PIN
+property_NN
+._.
+The_DT
+group_NN
+accounts_VPRT
+incorporate_VB
+the_DT
+accounts_NN
+of_PIN
+the_DT
+company_NN
+,_,
+its_PIT
+subsidiaries_NN
+under_IN
+the_DT
+acquisition_NOMZ
+method_NN
+and_CC
+its_PIT
+associates_NN
+under_IN
+the_DT
+equity_NOMZ
+method_NN
+._.
+Turnover_NN
+Turnover_NN
+represents_VPRT
+the_DT
+value_NN
+of_PIN
+goods_NN
+and_PHC
+services_NN
+supplied_VBN [WZPAST]
+to_PIN
+third_JJ
+parties_NN
+net_NN
+of_PIN
+discounts_NN
+and_CC
+excluding_VBG
+value_NN
+added_VBD [PUBV]
+tax_NN
+._.
+Revaluation_NOMZ
+of_PIN
+properties_NN
+Fixed_VBN
+asset_NN
+properties_NN
+were_VBD [PASS]
+revalued_VBN
+in_PIN
+earlier_TIME
+years_NN
+and_CC
+the_DT
+surplus_NN
+reflected_VBN [PRIV] [WZPAST]
+in_PIN
+the_DT
+balance_NN
+sheet_NN
+._.
+With_PIN
+effect_NN
+from_PIN
+2_CD
+May_POMD
+1999_CD
+,_,
+and_ANDC
+following_VBG
+the_DT
+implementation_NOMZ
+of_PIN
+the_DT
+FRS_NN
+15_CD
+accounting_GER
+standard_NN
+,_,
+revaluations_NOMZ
+are_VPRT [SPAU] [PASS]
+no_RB
+longer_RB
+undertaken_VBN
+._.
+Earlier_TIME
+valuations_NOMZ
+are_VPRT [PASS]
+retained_VBN
+but_CC
+not_XX0
+updated_VBN
+._.
+Depreciation_NOMZ
+Freehold_NN
+land_NN
+is_VPRT [PASS]
+not_XX0
+depreciated_VBN
+,_,
+freehold_VBN
+buildings_GER
+are_VPRT [PASS]
+depreciated_VBN
+to_PIN
+their_TPP3
+estimated_VBN [PRIV]
+residual_JJ
+values_NN
+over_IN
+periods_NN
+up_IN
+to_PIN
+fifty_CD
+years_NN
+,_,
+long_JJ
+leasehold_NN
+properties_NN
+are_VPRT [PASS]
+depreciated_VBN
+to_PIN
+their_TPP3
+estimated_VBN [PRIV]
+residual_JJ
+values_NN
+over_IN
+periods_NN
+up_IN
+to_PIN
+fifty_CD
+years_NN
+,_,
+short_JJ
+leasehold_NN
+properties_NN
+are_VPRT [PASS]
+depreciated_VBN
+to_PIN
+their_TPP3
+estimated_VBN [PRIV]
+residual_JJ
+values_NN
+over_IN
+the_DT
+remaining_VBG
+term_NN
+of_PIN
+the_DT
+lease_NN
+and_PHC
+furniture_NN
+,_,
+fixtures_NN
+and_PHC
+equipment_NOMZ
+assets_NN
+are_VPRT [PASS]
+depreciated_VBN
+over_IN
+their_TPP3
+estimated_VBN [PRIV]
+lives_NN
+which_WDT [WHSUB]
+range_VPRT
+from_PIN
+three_CD
+to_PIN
+twenty_CD
+years_NN
+._.
+Where_RB
+the_DT
+carrying_GER
+value_NN
+of_PIN
+properties_NN
+may_POMD
+not_XX0
+be_VB [BEMA]
+recoverable_PRED
+an_DT
+impairment_NOMZ
+in_PIN
+the_DT
+value_NN
+of_PIN
+fixed_JJ
+assets_NN
+is_VPRT [PASS]
+charged_VBN
+to_PIN
+the_DT
+profit_NN
+and_PHC
+loss_NN
+account_NN
+._.
+Stocks_NN
+Stocks_NN
+are_VPRT [PASS]
+valued_VBN
+at_PIN
+the_DT
+lower_JJ
+of_PIN
+cost_NN
+and_CC
+net_JJ
+realisable_JJ
+value_NN
+and_ANDC
+where_RB
+applicable_JJ
+include_VPRT
+an_DT
+element_NOMZ
+of_PIN
+production_NOMZ
+overheads_NN
+._.
+Loan_NN
+capital_NN
+Loan_NN
+capital_NN
+and_CC
+equivalent_JJ
+financial_JJ
+instruments_NOMZ
+include_VPRT
+the_DT
+premium_NN
+realized_VBN [PRIV] [WZPAST]
+on_PIN
+issue_NN
+,_,
+or_CC
+recognized_VBN [PRIV]
+on_PIN
+acquisition_NOMZ
+,_,
+which_WDT [SERE]
+is_VPRT [PASS]
+amortised_VBN
+over_IN
+the_DT
+term_NN
+of_PIN
+the_DT
+loan_NN
+to_TO
+keep_VB
+the_DT
+effective_JJ
+interest_NN
+rate_NN
+constant_JJ
+._.
+Deferred_JJ
+taxation_NOMZ
+Deferred_VBN
+tax_NN
+is_VPRT [PASS]
+recognized_VBN [PRIV]
+in_PIN
+respect_NN
+of_PIN
+all_QUAN
+timing_NN
+differences_NN
+that_TSUB
+have_VPRT [PEAS]
+originated_VBN
+but_CC
+not_XX0
+been_VBN [BYPA]
+reversed_VBN
+by_PIN
+the_DT
+balance_NN
+sheet_NN
+date_NN
+._.
+Deferred_JJ
+tax_NN
+is_VPRT [PASS]
+not_XX0
+recognized_VBN [PRIV]
+when_RB [WHCL]
+an_DT
+asset_NN
+is_VPRT [PASS]
+sold_VBN
+if_COND
+it_PIT
+is_VPRT [BEMA]
+more_EMPH
+likely_PRED
+than_PIN
+not_XX0
+that_DEMO
+the_DT
+taxable_JJ
+gain_NN
+will_PRMD
+be_VB [PASS]
+rolled_VBN
+over_RP
+._.
+Deferred_JJ
+tax_NN
+assets_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+to_PIN
+the_DT
+extent_NN
+that_TOBJ
+they_TPP3
+are_VPRT [PASS]
+regarded_VBN
+as_IN
+recoverable_JJ
+._.
+Provisions_NN
+for_PIN
+deferred_JJ
+tax_NN
+are_VPRT [PASS]
+not_XX0
+discounted_VBN
+._.
+Deferred_JJ
+tax_NN
+assets_NN
+and_PHC
+liabilities_NOMZ
+are_VPRT [PASS]
+calculated_VBN [PRIV]
+using_VBG
+the_DT
+tax_NN
+rates_NN
+that_TSUB
+have_VPRT [PEAS]
+been_VBN [PASS]
+enacted_VBN
+or_CC
+substantively_RB
+enacted_VBN
+by_PIN
+the_DT
+balance_NN
+sheet_NN
+date_NN
+._.
+Financial_NN
+instruments_NOMZ
+Amounts_NN
+payable_JJ
+or_CC
+receivable_JJ
+in_PIN
+respect_NN
+of_PIN
+interest_NN
+rate_NN
+swaps_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+as_IN
+adjustments_NOMZ
+to_PIN
+the_DT
+interest_NN
+expense_NN
+over_IN
+the_DT
+period_NN
+of_PIN
+the_DT
+swap_NN
+contracts_NN
+._.
+Pensions_NN
+The_DT
+cost_NN
+of_PIN
+providing_VBG
+defined_VBN
+benefit_NN
+pensions_NN
+is_VPRT [PASS]
+charged_VBN
+against_PIN
+profits_NN
+on_PIN
+a_DT
+systematic_JJ
+basis_NN
+taking_VBG [WZPRES]
+account_NN
+of_PIN
+actuarial_JJ
+surpluses_NN
+and_PHC
+deficits_NN
+arising_VBG [WZPRES]
+which_WDT
+are_VPRT [PASS]
+allocated_VBN
+over_IN
+the_DT
+remaining_VBG
+average_JJ
+service_NN
+life_NN
+of_PIN
+current_JJ
+qualifying_VBG
+employees_NN
+._.
+The_DT
+cost_NN
+of_PIN
+providing_VBG
+defined_VBN
+contribution_NOMZ
+pensions_NN
+amounts_VPRT
+to_PIN
+the_DT
+value_NN
+of_PIN
+contributions_NOMZ
+made_VBN
+._.
+Goodwill_NN
+Goodwill_NN
+arising_VBG [WZPRES]
+from_PIN
+the_DT
+premium_NN
+paid_VBN [WZPAST]
+on_PIN
+businesses_NOMZ
+acquired_VBN
+after_IN
+3_CD
+May_POMD
+1998_CD
+is_VPRT [PASS]
+amortised_VBN
+over_IN
+its_PIT
+estimated_VBN [PRIV]
+useful_JJ
+life_NN
+of_PIN
+20_CD
+years_NN
+._.
+Previously_TIME
+goodwill_NN
+was_VBD [PASS]
+written_VBN [PUBV]
+off_PIN
+to_PIN
+reserves_NN
+and_CC
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+re-instated_VBN
+._.
+Operating_VBG
+leases_NN
+Rental_JJ
+payments_NOMZ
+in_PIN
+respect_NN
+of_PIN
+operating_VBG
+leases_NN
+are_VPRT [PASS]
+charged_VBN
+against_PIN
+trading_GER
+profit_NN
+on_PIN
+a_DT
+straight_JJ
+line_NN
+basis_NN
+over_IN
+the_DT
+period_NN
+of_PIN
+the_DT
+lease_NN
+._.

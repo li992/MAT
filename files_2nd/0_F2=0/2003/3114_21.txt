@@ -1,0 +1,34 @@
+Differences between United Kingdom and United States generally accepted accounting principles for the year ended 31 December 2003 Profit and loss account Adjustments to the loss for the period under UK GAAP and the net profit under US GAAP are as follows: Notes 2003 2002 Loss for the period under UK GAAP 53.9 45.8 US GAAP adjustments: Revenue recognition i 27.3 12.7 Medeva goodwill adjustments ii 20.1 3.6 Amortisation of goodwill and other intangibles iii 64.2 39.8 Pension costs 0.6 1.9 Stock-based compensation iv 0.9 7.2 OGS acquisition in process research and development v 2.3 OGS acquisition other vi 3.6 Exceptional items vii 4.4 Unrealised gains on derivative financial instruments viii 3.0 6.9 Deferred taxation ix 4.7 5.1 Taxation on GAAP difference 0.8 Net profit as adjusted to accord with US GAAP 6.0 15.2 Shareholders funds Adjustments between shareholders funds under UK GAAP and US GAAP are as follows: Notes 2003 2002 Shareholders funds under UK GAAP 505.9 564.4 US GAAP adjustments: Revenue recognition i 1.5 25.8 Goodwill and intangibles iii 180.9 163.2 OGS acquisition other vi 2.2 Pensions 0.4 0.2 Pensions other comprehensive income xi 21.0 14.0 Unrealised gains on derivative financial instruments viii 5.8 8.8 Employee Share Ownership Plan x 1.7 0.3 Exceptional items vii 4.4 Deferred taxation ix 4.7 Taxation 0.8 Shareholders funds as adjusted to accord with US GAAP 672.1 696.5 82 Celltech Annual Report 2003 Notes: i Revenue recognition Under UK GAAP, non-refundable licence fee revenue is recognised when earned.
+Refundable licence fees are deferred until such time as they are no longer refundable.
+Arrangements with multiple deliverables are evaluated and if the elements are determined to be separable, these elements, such as milestones and research and development contributions are accounted for separately based on the revenue recognition criteria set out in note 1 to the accounts.
+US GAAP requires in most circumstances the deferral of non-refundable upfront licence fees and other income received under a contract where there is a continuing involvement with the licensed asset through collaboration or other arrangements.
+During the year Pfizer terminated its relationship on CDP870 with Celltech.
+Income previously deferred under US GAAP has consequently been released to the profit and loss account.
+ii Medeva goodwill adjustments Under US GAAP, the time frame allowed to make adjustments to goodwill is one year from the date of acquisition, except for adjustments in respect of taxation when an indefinite period is available.
+Under UK GAAP, the time frame available extends to the first full reporting period after the reporting period in which the acquisition was made.
+The 2003 adjustment is in respect of the settlement of certain tax exposures.
+After the look-back period, under UK GAAP, potential tax liabilities that are recorded at acquisition and are subsequently released are recorded as an income tax benefit.
+Under US GAAP, the release of the tax liability is recorded as an adjustment to goodwill.
+iii Amortisation of goodwill and other intangibles Under US GAAP the merger between Celltech and Chiroscience failed to qualify as a pooling of interest and therefore additional goodwill and intangible assets were established on the US balance sheet certain other differences also arose on the acquisitions of Medeva and OGS.
+In addition, amortisation is no longer automatically charged under SFAS 142, Goodwill and Other Intangible Assets, on goodwill.
+Amortisation continues to be applied in the US on finite life intangibles.
+Goodwill and infinite lived intangible assets are tested for impairment annually or when events indicate that assets may be impaired.
+iv Stock based compensation Under UK GAAP, no compensation expense is recorded in connection with the issue of share options to Group employees at market value.
+Under US GAAP, APB 25, an annual compensation expense is imputed for stock compensation arrangements based on the excess of the market price over the exercise price at the measurement date.
+v OGS acquisition in process research and development Under US GAAP, purchase accounting a fair value exercise is performed to identify in process research and development in an acquired company.
+The purchased in process research and development, once valued, is immediately expensed.
+The in process research and development determined in the preliminary purchase price allocation has been reduced to the extent that negative goodwill was identified.
+vi OGS acquisition other Under UK GAAP, certain businesses acquired with OGS were held for immediate resale.
+Provision for the result of these businesses notably proteomics and Confirmant was made in the opening balance sheet.
+Under US GAAP the results of the businesses post-acquisition are charged to the profit and loss account.
+In addition, US GAAP and UK GAAP differ in the timing of the recognition of certain provisions and closure costs.
+vii Exceptional items US GAAP and UK GAAP differ in the timing of the recognition of certain redundancy arrangements and other closure costs.
+viii Unrealised gains on derivative financial instruments As described in note 1 to the accounts Financial Instruments the Group uses forward exchange contracts to match against forecast receipts and payments in foreign currency.
+As the contracts are not matched to specific receivables or payables the gains or losses arising on the hedges are not recognised until such time as they are realised under UK GAAP.
+SFAS 133 determines that under such circumstances recognition should be made currently of the gains or losses that have arisen and should be taken to the profit and loss account.
+ix Deferred taxation UK GAAP, FRS 19, requires that the Group recognise deferred tax assets in respect of timing differences associated with goodwill.
+Under US GAAP, no deferred tax liability is recognised on the difference between the financial carrying value and the tax basis of recorded goodwill for which amortisation is not deducted for tax purposes.
+x Employee Share Ownership Plan ESOP Under UK GAAP, the Company's own shares held by the ESOP are recorded as fixed asset investments at cost.
+Under US GAAP those shares not fully vested are regarded as treasury stock and recorded at cost as a deduction from shareholders' equity.
+xi Pensions - other comprehensive income Under US GAAP, an additional minimum pension liability is recognised through other comprehensive income in certain circumstances when there is a deficit of plan assets relative to the accumulated benefits obligation.
+Under UK GAAP, SSAP 24, there is no such requirement.

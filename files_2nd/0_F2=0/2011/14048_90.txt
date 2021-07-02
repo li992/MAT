@@ -1,0 +1,31 @@
+Notes to the Company Financial Statements 1.
+Accounting policies The principal accounting policies adopted are set out below and have been applied consistently throughout the current and preceding year.
+Basis of accounting These financial statements have been prepared in accordance with United Kingdom Generally Accepted Accounting Practice UK GAAP and applicable UK law.
+Accounting convention These accounts have been prepared under the historical cost convention and, as discussed in more detail in the Finance Review, on the going concern basis.
+Fixed asset investments Investments held as fixed assets are stated at cost less provision for any impairment in value.
+Share-based payment The Company has applied the requirements of FRS 20 Share-based Payment.
+In accordance with the transitional provisions, FRS 20 has been applied to all grants of equity instruments after 7 November 2002 that were not fully vested as of 1 January 2005.
+The Company issues equity-settled share-based payments to certain employees and operates an HMRC approved Save As You Earn SAYE share option scheme open to eligible employees which allows the purchase of shares at a discount.
+These are measured at fair value at the date of grant.
+The fair value is expensed on a straight-line basis over the vesting period, based on the Companys estimate of shares that will eventually vest.
+SAYE options are treated as cancelled when employees cease to contribute to the scheme, resulting in an acceleration of the remainder of the related expense.
+Where the fair value of share options requires the use of a valuation model, fair value is measured by use of the Binomial Lattice or Monte Carlo Simulation models depending on the type of scheme.
+The expected life used in the models has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Where relevant, the value of the option has also been adjusted to take account of market conditions applicable to the option.
+Dividends Dividends are approved by the Board of Directors, and recorded in the Companys financial statements in the period in which they are declared, appropriately authorised and no longer at the discretion of the Company.
+Derivative financial instruments and hedging activities Derivatives are initially recognised at fair value at the date a derivative contract is entered into and subsequently remeasured at fair value at each balance sheet date.
+The gain or loss is taken to the profit and loss account immediately unless the derivative is designated as a hedging instrument.
+The accounting treatment of derivatives classified as hedges depends on their designation, which occurs on the date that the derivative contract is committed to.
+The Company designates derivatives as: a hedge of the fair value of an asset or liability fair value hedge : a hedge of the income cost of a highly probable forecast transaction or commitment cash flow hedge : and a hedge of a net investment in a foreign entity.
+Gains and losses on fair value are recorded in the profit and loss account with the gain or loss on the hedged item attributable to the hedged risk.
+Gains or losses on cash flow hedges that are regarded as highly effective are recognised in equity.
+Where the forecast transaction results in a financial asset or liability, only gains or losses previously recognised in equity are reclassified to profit or loss in the same period as the asset or liability affects profit or loss.
+Where the forecast transaction or commitment results in a non-financial asset or liability, any gains or losses previously deferred in equity are included in the cost of the related asset or liability if the forecast transaction or commitment results in future income or expenditure.
+Gains and losses deferred in equity are transferred to the profit and loss account in the same period as the underlying income or expenditure.
+The ineffective portion of the gain or loss on the hedging instrument is recognised in the profit and loss account.
+For the ineffective portion of hedges or transactions that are not designated for hedge accounting under FRS 26, any change in assets or liabilities is recognised immediately in the profit and loss account.
+Where a hedge no longer meets the effectiveness criteria, any gains or losses deferred in equity are only transferred to the profit and loss account when the committed or forecast transaction is recognised in the profit and loss account.
+However, where cash flow hedge accounting has been applied for a forecast or committed transaction that is no longer expected to occur, then the cumulative gain or loss that has been recorded in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in the profit and loss account.
+Where the Company hedges net investments in foreign entities through currency borrowings, the gains or losses on the translation of the borrowings are recognised in equity.
+Gains and losses accumulated in equity are included in the profit and loss account when the foreign operation is disposed of.
+Serco Group plc | Annual report and accounts 2011 | 167 Financial statements Governance Our performance Our business Overview

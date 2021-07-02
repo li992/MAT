@@ -1,0 +1,4 @@
+Transfer_NN from_IN to_TO reserves_NNS 14 150 102_CD ,790_CD 102,940_CD 81_CD 30,506_CD 30,587_CD Return_NN per_IN ordinary_JJ share_NN Basic_JJ 8_CD 4.9_CD p_NN 57.6_CD p_VBP 52.7_CD p_JJ 4.9_CD p_NN 17.2_CD p_NN 22.1_CD p_NN Diluted_VBN 8_CD 4.8_CD p_NN 55.5_CD p_NN 50.7_CD p_NN 4.7_CD p_VBP 16.5_CD p_JJ 21.2_CD p_NN The_DT revenue_NN column_NN of_IN this_DT statement_NN is_VBZ the_DT profit_NN and_CC loss_NN account_NN of_IN the_DT Company_NN ._.
+All_DT revenue_NN and_CC capital_NN items_NNS in_IN the_DT above_JJ statement_NN derive_VBP from_IN continuing_VBG operations_NNS ._.
+No_DT operations_NNS were_VBD acquired_VBN or_CC discontinued_VBN in_IN the_DT year_NN ._.
+Closing_NN Shareholders_NNS funds_NNS 207,715_CD 307,857_CD The_DT accompanying_JJ notes_NNS are_VBP an_DT integral_JJ part_NN of_IN this_DT statement_NN

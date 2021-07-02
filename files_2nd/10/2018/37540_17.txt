@@ -1,0 +1,274 @@
+Principal risks and uncertainties The management of risk is fundamental to the successful execution of our Strategic Plan and FURTHER DETAIL to the resilience of our operations.
+During 2018 the Group successfully adapted its systems, Detailed information can be found in our risk processes and controls, adjusting to several significant changes in the regulatory environment management oversight supplement.
+Please visit: including MiFID II and the introduction of the EU Benchmark Regulations.
+com  support its key markets and deliver stable and resilient services that meet our clients needs.
+group  In prior years, within this section, we have included descriptions of our strategic risk objectives, our current risk focus, a narrative description of our risk appetite, how LSEGs risk management framework operates, as well as an overview of the CCPs risk management and operations.
+As LSEGs risk culture, objectives, appetite, governance and operations are well established, these descriptions naturally do not significantly change from year to year.
+LSEG Risk Governance OVERVIEW OF PRINCIPAL RISKS: Strategic Risks Financial Risks Operational Risks Global economy Credit risk Technology Regulatory change and compliance Market risk Model risk Competition Liquidity risk Security threats Physical Transformation Capital risk Security threats Cyber Reputation Brand IP Change management Settlement and custodial risks Employees KEY: Risk Level Increasing Risk Level Static Risk Level Decreasing STRATEGIC RISKS Risks related to our strategy including the implementation of strategic initiatives and external threats to the achievement of our strategy.
+The category also includes risks associated with reputation or brand values RISK DESCRIPTION MITIGATION RISK LEVEL Global economy The footprint of the Group continues to broaden, further improving As a diversified markets infrastructure business, we operate in a broad range of the geographical diversification of the Groups income streams equity, fixed income and derivative markets servicing clients who increasingly seek which serves to mitigate the risks of a localised economic downturn.
+If the global economy underperforms, lower activity Furthermore, income streams across the business divisions of the in our markets may lead to lower revenue.
+Group comprise annuity and fee based recurring revenues to balance against more cyclical and market driven activity.
+Economic data and inflation concerns have dominated central bank official rate actions.
+The Federal Open Market Committee FOMC increased the Fed Funds The Group performs regular analysis to monitor the markets and target rate 4 times during 2018.
+In November the Bank of England BoE increased the potential impacts of market price movements on the business.
+Meanwhile the European Central Bank ECB has left rates Activities include Key Risk Indicator tracking, stress testing, and unchanged at zero and has announced that its quantitative easing programme hedging.
+We continue to actively monitor the ongoing will end by the end of 2018.
+The expected economic growth could fail to developments following the result of the UK referendum on leaving materialise and higher rates could lead to a slowdown.
+Committees have been established to assess and address areas of impact on our operations and the Group has formulated Ongoing geopolitical tensions continue to add uncertainty in the markets which contingency plans with the objectives of continuity of market may impact confidence and activity levels.
+This is being be monitored closely.
+function and customer service in the event of a hard no deal Brexit.
+The Financial Risk Committee closely monitors and analyses multiple market stress scenarios and action plans in order to minimise any impacts stemming from a potential deterioration of the macroeconomic environment.
+The stress scenarios are regularly reviewed and updated in response to changes in macroeconomic conditions.
+Additional ad hoc analysis such as special credit reviews of counterparties are presented to the Financial Risk Committee for consideration where events dictate.
+For more information, see Market trends and our response on pages 1417, and Note 3 to the accounts, Financial Risk Management on pages 133137.
+48 London Stock Exchange Group Annual Report December 2018 Strategic Report Principal risks and uncertainties RISK DESCRIPTION MITIGATION RISK LEVEL Regulatory change and compliance Changes in the regulatory environment form a key input into our The Group and its exchanges, other trading venues, CCPs, index administrators, strategic planning, including the political impact on our growth central securities depositories, trade repositories and other regulated strategies, both organic and inorganic.
+We monitor regulatory entities operate in areas that are highly regulated by governmental, competition developments continually and engage directly with regulatory and other regulatory bodies.
+and governmental authorities at national, EU and international levels.
+The Group has developed contingency plans to address Brexit The UK vote in 2016 to leave the EU introduced significant uncertainty the UKs exit from the EU and monitors developments closely.
+concerning the political and regulatory environment, the UKs future relationship with the EU, and the overall impact on the UK and European economies both in the short We continue to develop our relationships with the key political and medium term.
+Negotiations between the UK and the EU continue but the UKs stakeholders in the EU, North America and Asia.
+Potential impacts final exit terms are unclear.
+The lack of agreement between the UK and the EU from regulatory change are assessed and, depending on the increases the risk of a no deal scenario.
+The effects of Brexit including those that impact, opportunities are developed and mitigating strategies may follow an extension to the Article 50 process are uncertain, and could adversely and actions are planned.
+affect the Groups businesses, operations, financial condition and cash flows.
+The Group has executed the following contingency plans for its LSEG companies conducting regulated activities in the EU or with customers in the business.
+Following the EC Implementing decision for UK CCPs on EU are subject to EU regulation.
+The Group is executing contingency plans to 19 December 2018, it was announced on 18 February 2019 that maintain continuity of service to customers and orderly functioning of its markets, LCH Ltd has been recognised by ESMA as a third country CCP including incorporation of new entities in the EU27 and applications for authorisation under Article 25 of EMIR.
+This recognition will apply from 30 March within the EU27 for certain Group businesses.
+The Group also has a structured Brexit 2019 until 30 March 2020 in the absence of a withdrawal programme to engage with UK, EU and US Brexit policy leads to advise on financial agreement with the UK in accordance with Article 50 2 of the market infrastructure considerations.
+However, the complexity and the lack of clarity Treaty on European Union.
+This recognition confirms LCH Ltds of the application of a hard Brexit may decrease the effectiveness or applicability of ability to continue to offer all clearing services for all products and some of these contingency plans.
+As is the case with all change, these contingency services to all members and clients after 29 March 2019 in a plans introduce some execution risk.
+LCH reserves its right to take any action it considers appropriate at any time, should there be a material Regulation Impacting CCPs Regulatory initiatives with the potential to impact change in circumstances.
+In addition, LCH SA and CC&G are cleared derivatives markets and CCPs continue through international standard allowed under the Bank of England Temporary Recognition setters and regulators in the EU and US and other major jurisdictions.
+Our primary Regime TRR to clearing services and activities in the UK for up to focus remains on development of a coherent, cross-border regulatory framework for 3 years in a no deal scenario.
+market access to global CCPs, including appropriate access rules under the EMIR review, likely to be finalised in H1 2019.
+As part of this review, EMIR 2.2 introduces the In June 2018, Turquoise Global Holdings Europe B. V. submitted an option to impose enhanced supervision or deny the recognition of third country CCPs application for authorisation as an investment firm to operate a that are of systemic importance for the EU, which could have implications for the multilateral trading facility MTF in the Netherlands.
+Proper calibration of EU rules on CCP Recovery and Resolution and in June 2018, UnaVista TRADEcho B. V. submitted an application for harmonisation with other key jurisdictions is also a key priority and could likely have authorisation as a Data Reporting Services Provider DRSP in the an impact on the Groups CCPs.
+Netherlands, under which it will operate an approved reporting mechanism ARM and an approved publication arrangement MiFID II MiFIR Together with MiFIR, its accompanying regulation, MiFID II APA.
+Both applications are in advanced stages and we anticipate came into force on 3 January 2018.
+LSEG delivered a series of key technological and receiving regulatory authorisations imminently.
+procedural changes to prepare for smooth implementation.
+ESMA has signalled that reviewing the implementation of MiFID II R is a priority and it is likely to propose In addition, MTS has established 2 MTF markets in Italy to replace amendments with potential impacts on the Group, particularly in the areas of certain markets operated by EuroMTS in the UK.
+trading transparency and market data.
+The third country access rules for trading venues and market participants continue to be evaluated in 2019 and could also have a potential to impact access to our trading venues in the UK and EU.
+Prudential Capital Rules In December 2017, the Basel Committee on Banking Supervision BCBS published final recommendations on the Basel III Framework, which as currently drafted could adversely impact the cleared derivatives industry.
+One area of primary importance is the treatment of customer margin under the Leverage Ratio.
+BCBS is considering reviewing its approach on this issue which would be a positive development for market participants and therefore the Group.
+The European Commission also proposed a prudential regime for investment firms which may affect the ability of proprietary trading firms to provide liquidity on LSEG markets.
+However, the nature of final political agreement on the proposal is highly uncertain.
+London Stock Exchange Group Annual Report December 2018 49 Principal risks and uncertainties continued RISK DESCRIPTION MITIGATION RISK LEVEL Regulatory change and compliance continued Potential impacts from regulatory change are assessed and, Benchmark Regulation Regulatory focus on the role of benchmarks in the depending on the impact, opportunities are developed, and market and regulation of benchmark providers continues to increase in several mitigating strategies and actions are planned and executed.
+major jurisdictions around the world.
+FTSE International Limited, was authorised LSEGs key objectives are maintaining Londons position as a by the UKs Financial Conduct Authority FCA in 2018 as a Benchmark global financial hub and providing continuity of stable financial Administrator, under the European Benchmark Regulation.
+In May 2018, the infrastructure services.
+As the various regulatory initiatives European Commission proposed several sustainable finance legislative proposals, progress, there will be greater certainty with regard to their likely which could potentially impact sustainable indices.
+The Group continues to focus on remaining well located outside of the EU will likely have to elect an established method for EU positioned to respond to regulatory developments and further users to access their benchmarks after the BMR transitional period ends this year.
+opportunities exist for the Group to deliver solutions to help the market address the changing regulatory environment including Financial Transactions Tax FTT Some EU member states are considering a those linked with the departure of the UK from the EU.
+possible Financial Transaction Tax FTT, which could adversely impact volumes in financial markets.
+During 2018 little progress was made, but The Group continues to maintain systems and controls to mitigate efforts continue to finalise the measure.
+Compliance policies and procedures are regularly reviewed to ensure that Group entities and staff are compliant Information and cyber security standards In many of our key regulatory with applicable laws and regulations and uphold our corporate jurisdictions, there is an increasing legislative and regulatory focus on cyber standards.
+All staff across the Group are subject to mandatory security and data protection which could impact our operations and compliance compliance training.
+LSEG supports the regulatory efforts on these issues, as they increase the standards for clients, vendors and other third parties with whom we interact.
+We continue to support regional and global efforts to harmonise these standards to avoid conflicting or duplicative requirements for market infrastructure providers and our market participants.
+Regulation of Emerging Technology Regulators are considering the application of existing or new frameworks around the development of innovative financial services technologies, which are important for maintaining the resilience in the market and allowing innovation with emerging technology.
+We are monitoring these efforts closely as they have potential to impact industry behaviour and potential application of emerging technology to our businesses.
+Changes in the regulatory environment form a key input into our strategic planning, including the political impact on our growth strategies, both organic and inorganic.
+We monitor regulatory developments continually and engage directly with regulatory and governmental authorities at local, regional and national levels.
+The Group has developed contingency plans to address the UKs exit from the EU and monitors developments closely.
+We continue to develop our relationships with the key government and regulatory stakeholders in all relevant jurisdictions.
+Potential impacts from regulatory change are assessed and, depending on the impact, opportunities are developed, and mitigating strategies and actions are planned and executed.
+As the various regulatory initiatives progress, there will be greater certainty with regard to their likely final form.
+The Group continues to focus on remaining well positioned to respond to regulatory developments and further opportunities exist for the Group to deliver solutions to help the market address the changing regulatory environment including those linked with the departure of the UK from the EU.
+The Group continues to maintain systems and controls to mitigate compliance risk.
+Compliance policies and procedures are regularly reviewed to ensure that Group entities and staff are compliant with applicable laws and regulations and uphold our corporate standards.
+All staff across the Group are subject to mandatory compliance training.
+Compliance Risk There is a risk that one or more of the Groups entities may fail to comply with the laws and regulatory requirements incl.
+GPDR to which it is, or becomes, subject.
+In this event, the entity in question may be subject to censures, fines and other regulatory or legal proceedings.
+For more information on regulatory changes, see Market trends and our response on pages 1417.
+50 London Stock Exchange Group Annual Report December 2018 Strategic Report Principal risks and uncertainties RISK DESCRIPTION MITIGATION RISK LEVEL Competition Competitive markets are, by their very nature, dynamic, and the The Group operates in a highly competitive and global industry.
+Continued effects of competitor activity can never be fully mitigated.
+Senior consolidation has fuelled competition including between peers and service management and a broad range of customer-facing staff in all providers in different geographical areas.
+business areas are actively engaged with clients to understand their evolving needs and motivations.
+We have established a The Groups Information Services business faces competition from a variety of Group Relationship Programme to co-ordinate this across Group sources, notably from index providers which offer indices and other benchmarking businesses globally.
+tools which compete with those offered by the Group as well as from other venues that offer market data relating to securities that are traded on the Groups equity The Group undertakes constant market monitoring and pricing markets.
+As the Information Services offering diversifies and seeks to meet revision to mitigate risks and ensure we are competitive.
+customer needs for new data sources, segments and asset classes, it is facing a Commercial initiatives are aligned with our clients and this is broader range of competitors.
+complemented by an ongoing focus on technology operations and innovation.
+In Post Trade Services, we continue to see increased clearing activity of OTC derivative products across a number of asset classes, reflecting the attractiveness of the Groups current customer offering and open access philosophy, however competitors may be able to respond more quickly to changing market conditions or develop products that are preferred by customers.
+The Groups track record of working with customers and other financial market infrastructure providers, including the user focused model in LCH, will help us to continue to deliver innovative new products and services to seek to meet evolving customer needs.
+Our Capital Markets operations face continuing risk from competitors commercial and technological offerings.
+There is strong competition for primary listings and capital raises from other global exchanges and regional centres.
+Private equity, venture capital and new options such as crowd-funding and crypto-currencies are increasingly being considered as alternatives methods of capital formation for issuers.
+We maintain a dedicated international team who promote the benefits of listing on our markets to international issuers, the global advisory community and other stakeholders.
+The Group will need to continue strong and collaborative dialogue with customers and other relevant industry stakeholders to ensure it remains responsive to changing requirements and is able to react in a timely manner.
+If competitors are quicker to access and deploy technology innovations such as artificial intelligence AI, machine learning and analytics, they may achieve a valuable advantage which may impact the attractiveness of the Groups offering and its relative profitability.
+Our integrated and business-led approach to technology innovation help us to manage this risk and the Group is well advanced in investigating and applying numerous new technology innovations across its business portfolio.
+In Technology Services, there is intense competition across all our current activities and in some of our growth areas, in addition to strong incumbent providers.
+New entrants are increasing from both within and outside of our traditional competition base and some consolidation is evident.
+Start-ups, which may be sponsored by existing LSEG competitors or customers, are introducing new technology and commercial models to our customer base to which we need to respond with new products and services of our own.
+Continual client dialogue, facilitated through our partnership approach and investment in product management and innovation are critical to understanding and managing the impact of changing customer requirements in our technology and other business lines.
+London Stock Exchange Group Annual Report December 2018 51 Principal risks and uncertainties continued RISK DESCRIPTION MITIGATION RISK LEVEL Transformation The Groups exposure to transformation risk is mitigated through The Group is exposed to transformation risks risk of loss or failure resulting from the application of the Groups Enterprise Risk Management business integration transformation or integration.
+This derives from internal Framework ERMF to deploy consistent, appropriate Risk organic change and change required by the integration of acquisitions whereby Management across the Group, both during and post-acquisition.
+the Group targets specific synergy benefits, necessitating change to operating The governance of the Group following a merger or acquisition is models, business models, technology and people.
+aligned and strengthened as appropriate.
+A failure to successfully align the businesses of the Group may lead to an increased Oversight during transformation is provided by a Steering cost base without a commensurate increase in revenue: a failure to capture future Committee comprising Executive Committee members and product and market opportunities: and risks in respect of capital requirements, chaired by the Chief Financial Officer with reports to the Board Risk regulatory relationships and management time.
+The additional effort related to M&A and post-transaction alignment activities could The Group has an effective track record of integrating acquisitions have an adverse impact on the Groups day-to-day performance and or key strategic and delivering tangible synergies, supported by robust governance initiatives which could damage the Groups reputation and financial performance.
+and programme management structures through the Groups Change Framework to mitigate change-related risks.
+The size and complexity of acquisitions in the past 6 years have increased the Groups change management and transformation risks.
+However, it allows the Group to compete on a global scale and it has diversified its revenue footprint by industry product and customer base.
+Reputation Brand IP LSEG has policies and procedures in place which are designed to A number of the Groups businesses have iconic national brands that are wellensure the appropriate use of the Groups brands and to maintain recognised at international as well as at national levels.
+The strong reputation of the integrity of the Groups reputation.
+the Groups businesses and their valuable brand names are a key selling point.
+LSEG actively monitors the use of its brands and other intellectual Any events or actions that damage the reputation or brands of the Group, such as property, including monitoring for internet brand impersonation those propagated via social media or caused by its misuse, could adversely affect and social media sentiment, in order to prevent, identify and the Groups business, financial condition and operating results.
+Failure to protect the Groups intellectual property rights adequately could result in The Group protects its intellectual property by relying upon a costs for the Group, negatively impact the Groups reputation and affect the ability combination of trademark laws, copyright laws, patent laws, trade of the Group to compete effectively.
+Further, defending or enforcing the Groups secret protection, confidentiality agreements and other intellectual property rights could result in the expenditure of significant financial contractual arrangements with its affiliates, clients, customers, and managerial resources, which could adversely affect the Groups business, suppliers, strategic partners and others.
+financial condition and operating results.
+52 London Stock Exchange Group Annual Report December 2018 Strategic Report Principal risks and uncertainties FINANCIAL RISKS The risk of financial failure, reputational loss, loss of earnings and or capital as a result of investment activity, lack of liquidity, funding or capital, and or the inappropriate recording, reporting and disclosure of financial results, taxation or regulatory information.
+RISK DESCRIPTION MITIGATION RISK LEVEL Credit risk Clearing Clearing As CCP members continue to work towards strengthening of their CCPs in the Group are exposed to credit risk as a result of their clearing activities.
+balance sheets, the risk to LSEG CCPs of a member default reduces, A default by a CCP clearing member that could not be managed within the although continuing geopolitical uncertainty continues, and the resources of the defaulted clearing member, could adversely affect that CCPs banking sectors of some countries remain stressed.
+The financial revenues and its customers reputation.
+CCPs authorised in the EU are required to risks associated with clearing operations are further mitigated by: make a proportion of their regulatory capital available to cover default losses after Strict CCP membership rules including supervisory capital, the defaulters resources have been exhausted and prior to allocation of losses to financial strength and operational capability non-defaulters and so, in extreme circumstances, a default could lead to a call on the Group CCPs own capital skin-in-the-game.
+CCPs may also be exposed The maintenance of prudent levels of margin and default funds to credit exposure to providers of infrastructure services such as Central to cover exposures to participants.
+Members deposit margin, Securities Depositaries CSDs and commercial banks providing investment computed at least daily, to cover the expected costs which the and operational services.
+clearing service would incur in closing out open positions in a volatile market in the event of the members default.
+A default In addition, certain CCPs within the Group have interoperability margin arrangements fund sized to cover the default of the 2 members with the largest with other CCPs requiring collateral to be exchanged in proportion to the value of exposures in each service using a suite of extreme but plausible the underlying transactions.
+stress tests mutualises losses in excess of margin amongst the The relevant clearing provider entities within the Group are therefore exposed to clearing members the risk of a default of other CCPs under such arrangements.
+Regular Fire Drills are carried out to test the operational Non-Clearing soundness of the CCPs default management processes CCPs and other parts of LSEG Group are also exposed to credit risk as a result of Infrastructure providers are regularly assessed in line with policy placing money with investment counterparties on both a secured and unsecured basis.
+Losses may occur due to the default of either the investment counterparty Non-Clearing or of the issuer of bonds bought outright or received as collateral.
+The Groups Policies are in place to ensure that investment counterparties are credit risk also relates to its customers and counterparties being unable to meet of good credit quality, and at least 95% of CCP commercial bank their obligations to the Group either in part or in full.
+CCP and non-CCP counterparty concentration risk is consolidated and monitored daily at the Group level and reported to the Executive Committee and to the Board Risk Committee, including limits and status rating.
+Group companies make a judgement on the credit quality of their customers based upon the customers financial position, the recurring nature of billing and collection arrangements and, historically, a low incidence of default.
+For more information on this risk see the Post Trade Services section of the Segmental Review on pages 2628, and Note 3 to the accounts, Financial Risk Management on pages 133137.
+Market risk Clearing Clearing The margins and default funds referred to previously are sized to The Groups CCPs assume the counterparty risk for all transactions that are cleared protect against latent market risk.
+The adequacy of these through their markets.
+In the event of default of their clearing members, therefore, resources is evaluated daily by subjecting member and customer credit risk will manifest itself as market risk.
+As this market risk is only present in the positions to extreme but plausible stress scenarios event of default this is referred to as latent market risk.
+The latent market risk encapsulating not only historical crises, but theoretical includes interest rate risk, foreign exchange risk, equity risk and commodity price forward-looking scenarios and decorrelation events.
+All our CCPs risk as well as country risk, issuer risk and concentration risk.
+This risk is greater if are compliant with the appropriate regulatory requirements market conditions are unfavourable at the time of the default.
+regarding margin calculations, capital and default rules.
+Latent market risk is monitored and managed on a day-to-day basis by Non-Clearing the risk teams within the clearing services.
+Committees The Group is exposed to foreign exchange risk as a result of its broadening overseeing market risks meet on a regular basis.
+There are, however, also benefits of global diversification including reduced exposure to local events such as the UK Brexit vote and the Non-Clearing geopolitical tensions.
+Foreign exchange FX risk is monitored closely and translation risk is managed by matching the currency of the Groups debt to its The Group is exposed to interest rate risk through its borrowing activities and earnings to protect key ratios and partially hedge currency net treasury investments.
+Further changes in interest rates in 2019 may increase assets.
+FX derivatives including cross-currency swaps are used the Groups exposure to these risks.
+under a control framework governed by LSEG Board approved policy.
+The split between floating and fixed debt is managed to support the Groups target of maintaining an interest coverage ratio that underpins a good investment grade credit rating.
+Authorised derivatives can be used to transform fixed rate bond debt, to supplement a mix of short dated commercial paper and floating rate loan borrowings, to achieve the Groups policy objective.
+For more information on this risk, see Note 3 to the accounts, Financial Risk Management on pages 133137.
+London Stock Exchange Group Annual Report December 2018 53 Principal risks and uncertainties continued RISK DESCRIPTION MITIGATION RISK LEVEL Liquidity risk Clearing Clearing The Groups CCPs have put in place regulatory compliant There are 2 distinct types of risk to which the Groups CCPs are exposed to that are liquidity plans for day-to-day liquidity management, including commonly referred to as liquidity risk market liquidity risk and funding liquidity contingencies for stressed conditions.
+The Groups CCPs have risk.
+The former is the risk that it may be difficult or expensive to liquidate a large or multiple layers of defence against liquidity shortfalls including concentrated position and is addressed under market risk.
+The latter is the risk that intraday margin calls, minimum cash balances, access to the CCP may not have enough cash to pay variation margin to non-defaulters or to contingent liquidity arrangements, and, for certain CCPs, physically settle securities delivered by a non-defaulter that cannot be on-sold to a access to central bank liquidity.
+defaulter and this is the subject of this section.
+Under the ERMF, CCP investments must be made in compliance The Groups CCPs collect clearing members margin and or default funds with the Group CCP Financial Risk Policy as well as the policies of contributions in cash and or in highly liquid securities.
+To maintain sufficient the CCPs themselves.
+These policies stipulate a number of Risk ongoing liquidity and immediate access to funds, the Groups CCPs deposit the Management standards including investment limits secured and cash received in highly liquid and secure investments, such as sovereign bonds unsecured and liquidity coverage ratios.
+Committees overseeing and reverse repos, as mandated under EMIR: securities deposited by clearing CCP investment risk meet regularly.
+members are therefore held in dedicated accounts with CSDs and or International Each CCP monitors its liquidity needs daily under stressed and Central Securities Depositaries ICSDs.
+The Groups CCPs also hold a small unstressed assumptions and reports to the Group Financial Risk proportion of their investments in unsecured bank and money market deposits Committee each month.
+subject to the limitations imposed by EMIR.
+The successful operation of these investment activities is contingent on general market conditions and there is Non-Clearing no guarantee that such investments may be exempt from market losses.
+Requirements for liquidity including headroom requirements are set out in the Groups Board approved Treasury Policy.
+The Group Non-Clearing maintains appropriately sized liquidity facilities and monitors its Liquidity risk in a non-clearing context is the risk that the firm may be unable requirements on an ongoing basis.
+Stressed facility headroom is to make payments as they fall due.
+assessed using plausible downside business projections.
+Group Treasury risk is monitored daily and is managed within the constraints of a Board approved policy by the Group Treasury team and is overseen by the Treasury Committee a sub-Committee of the Financial Risk Committee, both chaired by the CFO.
+An update on Group Treasury risks and actions is provided monthly to the Financial Risk Committee and to each meeting of the Board Risk Committee.
+Capital risk The Groups Capital Management Policy provides a framework Principal risks to managing the Groups capital are: to ensure the Group maintains suitable capital levels both at Group and solo entity levels, and effectively manages the In respect of regulated entities, capital adequacy compliance risk the risk that risks thereof.
+The Groups Treasury Policy recognises the need regulated entities do not maintain and report sufficient qualifying capital to meet to observe regulatory requirements in the management of regulatory requirements and capital reporting compliance risk the risk that the Groups resources.
+regulated entities fail to comply with capital reporting and regulatory obligations.
+If a regulated entity in the Group fails to ensure that sufficient capital resources are The Risk Appetite approved by the Board includes components maintained to meet regulatory requirements, this could lead to loss of regulatory related to the Groups leverage ratios and capital risks: Key Risk approvals and or financial sanctions Indicators are monitored regularly.
+The Group maintains an ongoing review of the capital positions of its regulated entities to In respect of regulated and unregulated entities, commercial capital adequacy ensure that they operate within capital limits which are overseen and quality risk the risk that Group and solo entities do not maintain both by the Financial Risk Committee, the Executive Committee and sufficient quantity and quality of capital to meet commercial requirements and the Board.
+The Group can manage its capital structure by varying investment return risk the risk that capital is held in subsidiaries or invested in returns to shareholders, issuing new shares or increasing or projects that generate a return that is below the Groups cost of capital reducing borrowings.
+The Board reviews dividend policy and Availability of debt or equity capital whether specific to the Group or driven funding capacity on a regular basis and the Group maintains by general financial market conditions comfortable levels of debt facility headroom.
+The Group regularly assesses debt and equity markets to maintain access to new capital at reasonable cost.
+The Group is mindful of potential impacts on its key metrics when considering changes to its capital structure.
+54 London Stock Exchange Group Annual Report December 2018 Strategic Report Principal risks and uncertainties OPERATIONAL RISKS The risk of loss, or other adverse consequences to the business, resulting from inadequate or failed internal processes, people and systems, or from external events.
+RISK DESCRIPTION MITIGATION RISK LEVEL Technology The performance and availability of the Groups systems are Robust, secure and stable technology performing to high levels of availability, constantly reviewed and monitored to prevent problems arising continues to be critical to the Groups businesses.
+Technology failures may impact and where possible, ensure a prompt response to any potential our clients and the orderly running of our markets, potentially leading to a loss of service-impacting incident.
+trading or clearing volumes or impacting our information services activities.
+The Group continues actively to identify, manage and mitigate The Group continues to consolidate its technology delivery and operation capabilities risks associated with the consolidation of technology development through its LSEG Technology and LSEG Business Services companies respectively.
+Regular rigorous business impact and operational risk scenario analysis are performed in conjunction with the Group Continued efforts to consolidate to LSEG Technology solutions and a homogeneous Risk Group Business Continuity and Crisis Management functions technology stack may increase systemic technology risk as components and to identify, assess and remedy potential system and governance development are shared or similar in build.
+Furthermore, increased demand on LSEG vulnerabilities.
+In addition, all technology solutions are Technology as a mission-critical supplier may result in over-stretch resources to meet comprehensively tested by both LSEG Technology and third-party both the requirements of the Group and those of third parties.
+quality assurance providers as appropriate: functional, nonThe Group also has dependencies on a number of third parties for the provision of functional, user-acceptance and other testing is performed across hardware, software and networks for elements of its trading, clearing, settlement, a number of technical environments to ensure products are ready data and other systems.
+The Groups technology teams mitigate the risk of resource over-stretch by ensuring prioritisation of key development and operations activities, and resource utilisation and allocation are kept under constant review.
+The LSEG Technology systems are designed to be software and hardware fault tolerant and alternative systems are available in the unlikely event of multiple failures from which the system is unrecoverable.
+The Group actively manages relationships with key strategic technology suppliers to avoid any breakdown in service provision which could adversely affect the Groups businesses.
+Where possible the Group has identified alternative suppliers that could be engaged in the event of a third party failing to deliver on its contractual commitments.
+The Group actively monitors new technological developments and opportunities such as blockchain and Artificial Intelligence AI.
+For more information, see the Technology Services section of the Segmental Review on pages 35.
+Model risk LSEGs businesses have in place robust formalised model validation The Group defines model risk as the risk that a model may not capture the processes to ensure our models are fit for purpose and essence of the events being modelled, or inaccuracies in the underlying calculation appropriately developed, implemented, maintained and potentially resulting in adverse consequences resulting from decisions based documented.
+on incorrect or missed model outputs.
+Security threats Physical Security threats are treated very seriously.
+The Group has robust The Group is reliant upon secure premises to protect its employees and physical physical security arrangements.
+assets as well as appropriate safeguards to ensure uninterrupted operation of its IT The Group is supported by relevant governmental organisations in systems and infrastructure.
+our key areas of operation.
+Security teams respond to intelligence Terrorist attacks and similar activities directed against our offices, operations, received and liaise closely with police and global government computer systems or networks could disrupt our markets, harm staff, tenants and agencies.
+Across major hubs covering the UK, Europe, the visitors, and severely disrupt our business operations.
+Civil or political unrest could Americas and Asia, the Group maintains close monitoring of impact companies within the Group.
+Long-term unavailability of key premises geopolitical threats through a third-party security monitoring could lead to the loss of client confidence and reputational damages.
+Where events are detected, response support services are mobilised to support as required.
+The Group has well established and regularly tested business continuity and crisis management procedures.
+The Group assesses its dependencies on critical suppliers and ensures robust contingency measures are in place.
+London Stock Exchange Group Annual Report December 2018 55 Principal risks and uncertainties continued RISK DESCRIPTION MITIGATION RISK LEVEL Security threats Cyber The Group continues to invest in and enhance its information The threat of cybercrime has the potential to have an adverse impact on our security control environment, cyber defences and operational business.
+Public and private organisations continue to be targeted by increasingly processes, including its recovery capability, as it delivers its Board sophisticated cyber-attacks.
+Threats such as ransomware, theft of customer data and distributed denial of service Extensive IT measures aligned to the National Institute of attacks were increasingly significant to the financial industry as a whole in 2018.
+Standards and Technology NIST control framework are in place to Such threats could result in the loss of data integrity or disruption to our operations prevent, detect and respond to cyber security threats such as thirdand client-facing services.
+Additionally, new emerging technologies for the Group party risks, sophisticated malware, system vulnerabilities and such as cloud computing could impact our cyber security risk profile.
+access control, as well as enhancing our security event detection and incident response processes.
+Security training and awareness The Groups technology and operational support providers, internal and third-party, of our people remains a key component of the control framework.
+could suffer a security breach resulting in the loss or compromise of sensitive information both internal and external or loss of services.
+Such a breach could Regular testing of security controls and incident response materialise as a result of weaknesses in system controls or processes, or through the processes is undertaken, both internally and externally to provide inadvertent or malicious actions of employees, contractors or vendors.
+assurance over the effectiveness of cyber security controls and recovery processes.
+A major information security breach that results in data and intellectual property loss, system unavailability or sensitive data leakage, could have a significant Information Security teams monitor intelligence and liaise closely negative impact on our reputation, financial results and the confidence of our with global Government agencies as well as industry forums and clients and could lead to fines and regulatory censure.
+regulators to help improve our ability to respond to the evolving threats faced by us and our industry.
+Change management The risks associated with change are mitigated by effective The considerable change agenda exposes the Group to the risk that change is either implementation of the Groups Change framework.
+This includes misaligned with the Groups strategic objectives or not managed effectively within Board oversight across the Groups change portfolio and project time, cost and quality criteria.
+In turn this could lead to an adverse impact on the pipeline, to ensure these align to the Group and Divisional operation of core services, and revenue growth, as well as damaging the Groups strategies and support our financial plans.
+The volume of simultaneous change could also lead to a loss of client and executive oversight is exercised over individual programmes goodwill if execution is not managed appropriately and supported with adequate and projects based on the scale, complexity and impact of the operating models to operationalise new services.
+Synergies and cost benefits may change to confirm compliance with the approved project not be delivered to anticipated levels.
+management policy and to manage budget, resource, escalations, risks, issues and dependencies.
+The volume of change is driven by both internal and external factors.
+Internal factors include the diversification strategy of the Group and its drive for technology For software specific development, software design innovation, consolidation and operational resilience.
+External factors include the methodologies, testing regimes and test environments are changing regulatory landscape and requirements which necessitate changes to continuously being enhanced to minimise implementation risk.
+For more information, see the Chairmans statement on pages 45, and the Chief Executives statement on pages 69.
+Settlement and custodial risks In addition to the technology, model and change management The Groups CCPs are exposed to operational risks associated with clearing risks, the Groups CCPs are also exposed to Operational risk.
+transactions and the management of collateral, particularly where there are Operational risk is minimised via highly automated processes manual processes and controls.
+While the Groups CCPs have in place procedures reducing administrative activities while formalising procedures and controls to prevent failures of these processes, and to mitigate the impact of for all services.
+any such failures, any operational error could have a material adverse effect on The operations of the settlement service are outsourced to the the Groups reputation, business, financial condition and operating results.
+The Group provides routing, netting and settlement and custody services through The CSD mitigates IT risks by providing for redundancy of systems, its CSD to ensure that securities are settled in a timely and secure manner.
+There daily backup of data, fully updated remote recovery sites and SLAs are operational risks associated with such services, particularly where processes with outsourcers.
+Monte Titoli Business Continuity Plan covers all the critical operational processes and related activities.
+56 London Stock Exchange Group Annual Report December 2018 Strategic Report Principal risks and uncertainties RISK DESCRIPTION MITIGATION RISK LEVEL Employees We focus on a number of strategic initiatives to ensure we attract and retain the right calibre of talent for our business and continue The calibre and performance of our leaders and colleagues is critical to to facilitate a culture of high performance.
+We have a rigorous in-house recruitment and selection process, The Groups ability to attract and retain key personnel is dependent on to ensure that we are bringing the best possible talent into the several factors.
+This includes but not exclusively organisational culture and organisation, in terms of their skills, technical capabilities, cultural reputation, prevailing market conditions, compensation packages offered by fit and potential.
+competing companies, and any regulatory impact thereon.
+These factors also encompass the Groups ability to continue to have appropriate variable We aim to remove barriers to our colleagues overall sense of remuneration and retention arrangements in place, which help drive strong engagement, proactively measuring how satisfied they are with business performance and alignment to long-term shareholder value and returns, their working experience at LSEG, and the extent to which they impact the size of the local labour force with relevant experience, and the would recommend it as a place to work, via our bi-annual number of businesses competing for such talent.
+Whilst the Group focuses very engagement Have Your Say survey.
+We also measure colleague carefully on the attraction and retention of talent, if unsuccessful it may adversely sentiment when they join the organisation via our joiners survey affect the Groups ability to conduct its business through an inability to execute and via an exit survey for those who choose to move on.
+We use business operations and strategies effectively.
+this feedback to inform our plans for improvement, and to identify and resolve any barriers to performance and Whilst our preparations are comprehensive in relation to Brexit, a common engagement in the workplace.
+risk across the Group is the uncertainty surrounding the status of the EU citizens in the UK and UK citizens in the EU.
+We recognise that the overall wellbeing of our colleagues is vital for our continued performance and have introduced a proactive Employee-related risks are assessed and monitored as sustainability risks approach to wellbeing in the UK, which we are in the process of within our Enterprise Risk Management Framework.
+Please see also Our Wider rolling out globally.
+This looks to improve wellbeing across 5 Responsibility for details regarding employee matters.
+dimensions: physical, mental, financial, social purpose, and work-life balance.
+In 2018 we also launched the new Speak Up campaign, designed to provide our colleagues with the confidence to speak up and raise concerns when they witness or suspect inappropriate behaviour, misconduct or wrongdoing that conflicts with our values.
+Career development remains a key enabler for success, and we have a carefully managed learning and development budget which enables us to take a coordinated approach and focus investment in the development of colleagues.
+We provide colleagues with a range of courses, materials and tools to support them in owning their development.
+In 2018 we launched our global career framework, Futures, which outlines all roles in our organisation, helping our colleagues understand how to navigate the opportunities that exist across the Group and the development steps they need to take to progress.
+We also offer additional investment to identified key talent and executives, for instance, by providing coaches for key senior successors.
+In terms of talent management, we always look to promote internally where possible.
+We undertake a comprehensive annual review of critical roles, and ensure we have succession plans in place to minimise the impact of losing critical personnel.
+We monitor the attrition in each division and country, in addition to any critical colleague turnover, so that appropriate mitigation can be taken where needed.
+Performance management plays a key role in mitigating retention and performance risk at LSEG, and the Group operates a robust performance management and appraisal process for all colleagues, which links to how we utilise incentives and compensation to drive organisational performance.
+This assesses performance against financial objectives, strategic deliverables, and the extent to which colleagues role model the Groups values and behaviours.
+In terms of other reward approaches, critical high performers are offered Long Term Incentive Plans, aligned with the fulfilment of the Groups strategic goals and increases in shareholder value.
+We also regularly benchmark our reward, benefits and incentive systems to ensure they are competitive.
+LSEG continuously engages with the EU and the UK regulators to minimise the impact of Brexit on our colleagues.
+For more information, see Our wider responsibility on pages 3640 and Remuneration Report on pages 82100.
+London Stock Exchange Group Annual Report December 2018 57

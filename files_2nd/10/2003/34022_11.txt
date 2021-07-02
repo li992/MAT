@@ -1,0 +1,519 @@
+Risk Management Risk Management and Control Overview Responsibilities for Risk Management and Control Barclays aims to employ superior risk practices to The responsibilities for risk management and control within the overall optimise financial performance and value.
+Our approach governance framework rest with: to risk management and control continued to evolve in the Board, which ensures that management maintains an effective 2003 to reect best practice.
+The Group takes risks that system of internal control and reviews its effectiveness: are commensurate with the associated returns and within the Group Risk Director, under delegation from the Group Chief its overall risk appetite.
+Executive, who has responsibility for the adequacy of risk management and control: Risk governance framework business leaders, who are responsible for the identication and Barclays risk governance framework is based on the following: management of the risks in their businesses: business risk Directors and their teams in the businesses, who are Risk appetite is approved by the Board.
+responsible for assisting business leaders in the identication and Internal controls focus on risks that could prevent the Group management of their business risk proles: from creating outstanding shareholder value.
+Group Risk Type Heads and their teams in the Group Centre, who are responsible for the risk control oversight of credit risk, market risk, Risk management systems provide management with assurance operational and business risk, and regulatory compliance risk: that risks are being managed appropriately and that the internal other Function Heads in the Group centre, who are responsible for the controls are adequate.
+risk control oversight of risks within their functional responsibilities: Responsibility for internal controls is clearly dened and Group Internal Audit which is responsible for the independent review documented.
+Staff training supports the risk culture and ensures that risks are Committee Oversight regularly monitored and that corrective action can be taken in a The execution of these responsibilities is guided and monitored by: timely manner.
+The main risk and governance The Groups risk prole is reviewed on a regular basis.
+committees and their principal risk management and control responsibilities are shown in the risk governance structure chart on The Board systematically monitors the effectiveness of the risk page 38.
+The committees roles are reviewed and refreshed regularly: management processes and systems of internal control at least business and regional Governance and Control Committees.
+committees report to the Group Governance and Control Committee.
+During 2003, initiatives were pursued to build on the establishment of Together, they are responsible for ensuring that business risk the Board Governance Standards Standards in 2002.
+The Standards governance and control frameworks have been established in each are high-level articulations of the Boards risk control requirements, business, consistent with the Groups risk governance and control covering what are considered to be the principal risks to the framework.
+They also review and assess the completeness and achievement of the Groups objectives.
+Risk reporting to the Board Risk effectiveness of, and compliance with, internal controls within Committee is aligned to the Standards.
+The risk governance framework is being aligned with the internationally accepted standard Internal Control Integrated Framework published by the Committee of Sponsoring Organisations of the Treadway Commission.
+Barclays operates in a highly regulated industry and is engaged in responding to significant changes in the regulatory environment, for example, from the implementation of Basel II, International Financial Reporting Standards and the US Sarbanes-Oxley Act.
+These changes, which directly affect risk management, necessitate considerable resources to amend or re-design our systems and reporting processes.
+Under Basel II, Barclays aims to achieve advanced status in all risk categories.
+Barclays PLC Annual Report 2003 37 Risk Management Risk Management and Control Overview Group Risk Governance Structure Board oversight Board Board Audit Committee Board Risk Committee Reviews the effectiveness of risk Approves the Group risk governance management Standards.
+Authority Reviews reports on control issues of Approves risk management Standards.
+Approves overall Group risk appetite.
+Appetite Reviews the Group risk profile.
+Management Group Chief Executive ASSURANCE REPORTING performance Group Executive Committee Monitors and manages risk adjusted performance of strategic business units.
+Group Governance Group Treasury Committee Group Risk Oversight Committee and Control Committee Reviews the completeness and Monitors the Groups liquidity and Debates and agrees actions on the risk effectiveness of the Group risk maturity mismatch.
+profile, strategy and key controls governance and control framework.
+Monitors usage of regulatory and Monitors compliance with the risk economic capital.
+Ensures consistency with Group risk governance framework.
+Reviews policy controls for liquidity, Ensures that principal controls are maturity transformation and structural Considers issues escalated by Risk type consistent with risk management interest rate exposure.
+Reviews reports of the management assurance process over adequacy and effectiveness of internal controls.
+Assurance Group Internal Audit including Credit Risk Review Assesses compliance with the system Reviews the application of credit risk of internal control.
+policies, procedures and processes and their consistency with business Assesses management assurance decisions and strategy.
+38 Risk Management Insurance Risk Economic capital is estimated through benchmark Risk management in the businesses is the responsibility of business analysis of the free asset ratio of similarly rated insurance companies.
+management, who are advised and supported by Business Risk Directors Fixed Assets Economic capital is also estimated through benchmark who also have a functional reporting line to the Group Risk Director.
+The key role of Business Risk Directors and their teams is to assist the Private Equity Economic capital is allocated using an equation based businesses to maximise value by: on the amount of equity investment and comparable benchmark performing high quality risk analyses: capitalisation.
+ensuring that risks are properly controlled, consistent with agreed Barclays estimates the correlation between risk types and calculates a risk appetite: diversication benefit which results in a reduction in allocated economic evaluating economic trade-offs between risk and return: capital for the Group.
+designing cost-effective ways of mitigating and transferring risks: The total economic capital required by the Group, as determined by its generating alternative risk strategies: and internal risk assessment models and after considering the Groups ensuring that Group level policies are properly implemented in their estimated diversication benets, is compared with available common business line.
+shareholders funds to evaluate overall capital utilisation.
+Specialist risk teams led by Group Risk Type Heads and other risk Average economic capital by business and risk type are shown in the specialists report to the Group Risk Director.
+following charts and shown by business in the table on page 40.
+Their role is to: create and maintain the Groups risk management and control Average economic capital allocation by business during 2003 framework: measure aggregate risk by type: Business Banking 24% set high level policies and controls within the overall risk governance Personal Financial Services 20% framework: Barclays Capital 17% perform research, development and quality assurance: Barclaycard 15% provide analytical support to businesses: Capital held at Group Centre 9% provide comprehensive reports to all levels of management and the Barclays Private Clients 6% Board to enable them to make effective risk management decisions: Discontinued and Other Operations 6% and Barclays Africa 2% operate risk limit setting systems and, in the case of certain risks such as Barclays Global Investors 1% credit, provide independent input to material risk acceptance decisions.
+Risk Measurement and Economic Capital Average economic capital allocation by risk type during 2003 The Group assesses internal capital requirements by using its own riskbased methodologies.
+These are used in performance assessment and for Credit 67% risk management decision making.
+The Group computes and assigns this Business & Operational 9% economic capital to all operating units.
+This enables the Group to apply Property & Equipment 6% a common, consistent metric to ensure that returns throughout the Other 5% Group are commensurate with the associated risks.
+Economic capital is Market 4% assigned primarily within the six risk categories summarised below: Unallocated Capital at Group Centre 9% Credit Risk The Group estimates the losses expected from its credit portfolio and sets aside appropriate provisions.
+Capital is required in the event that losses substantially exceed the expected level.
+The amount is estimated by statistical analysis of the historical loan loss volatility in the various product categories.
+Within wholesale and retail businesses, capital allocation is differentiated by segment and customer grade.
+Off-balance sheet exposures are converted to loan equivalent amounts based on their probability of being drawn, before applying capital factors.
+See page 41 for further information on credit risk measurement.
+Market Risk The required economic capital is primarily based on Daily Value at Risk DVaR measurements.
+Where risks are not measured using DVaR, the capital requirement is based on stress test analysis.
+Market risk measurement is further discussed on page 60. Business and Operational Risk A combined economic capital allocation for operational risk and business risk is derived through an equation including variables such as cost base, historic profit volatility and comparable external benchmarks.
+These risks are discussed on page 70.
+Barclays PLC Annual Report 2003 39 Risk Management Risk Management and Control Overview Average economic capital by business Average economic capital 2003 2002 m m Personal Financial Services 2,400 2,100 Barclays Private Clients ongoing 700 550 closed life assurance activities 200 300 Barclaycard 1,800 1,500 Business Banking 2,850 2,750 Barclays Africa 200 200 Barclays Capital 2,100 2,050 Barclays Global Investors 150 200 a Other operations 500 550 Average economic capital 10,900 10,200 Average historical goodwill 5,100 4,700 b Capital held at Group centre 1,100 900 Total average shareholders funds 17,100 15,800 Notes a Includes Transition Businesses see page 80. b The capital held at Group centre represents the variance between average economic capital by business and average shareholders funds.
+Personal Financial Services economic capital allocation has increased by 300m to 2,400m largely due to continued improvements in methodologies for quantication of credit risk for long maturity assets, previously carried at the Group centre.
+Barclays Private Clients economic capital allocation has increased by 150m to 700m due to the acquisitions of Banco Zaragozano and Charles Schwab Europe.
+The closed life assurance activities economic capital allocation has reduced by 100m to 200m due to the continued run-off of the portfolio and a series of hedges implemented to reduce exposure to equity markets.
+Barclaycard economic capital allocation has increased by 300m to 1,800m due to continued growth in the loan book, including the acquisition of Clydesdale Financial Services.
+Goodwill has increased with the acquisition of Charles Schwab Europe, Clydesdale Financial Services, Banco Zaragozano and Gerrard.
+The Group regularly reviews and updates its economic capital allocation methodologies.
+A number of enhancements developed during 2003 will be incorporated in 2004.
+40 Risk Management Credit Risk Management In addition, Group Credit Risk, led by the Group Credit Risk Director, Credit Risk Management provides Group-wide direction of credit risk-taking.
+Group Credit Risk manages resolution of all significant credit policy issues and runs the Credit risk arises because the Groups customers, clients Group Credit Committee which approves major credit decisions.
+The or counterparties may not be able or willing to full their Group Credit Risk Director reports to the Group Financial Risk Director, contractual obligations under loan agreements or other a new role introduced in 2003, who reports to the Group Risk Director.
+The Group Financial Risk Director has responsibility for both credit and market risk.
+The taking of credit risk is central to our business.
+At the year end, Barclays had 291,820m 2002: 263,648m of loans and advances Regular reports are provided to the Group Risk Oversight Committee to and also other credit risks.
+The annual credit risk expense of 1,347m enable it to discharge its responsibilities.
+2002: 1,484m exceeds the risk-taking cost associated with all other Systems: Credit Risk Measurement and Analysis risk types combined.
+Therefore considerable resources, expertise and Data and analytical tools are integral to risk management.
+Barclays has controls are devoted to managing credit risk.
+been in the forefront of the development and use of advanced credit risk Credit Risk Control systems.
+These systems assist the bank in managing credit risk, both in The central objective of credit risk management at Barclays is to create front-line credit decisions on new commitments and in managing the shareholder value by ensuring that the net income generated by each portfolio of existing exposures.
+They enable the application of consistent exposure individually and in aggregate is commensurate with the risk risk measurements across all credit exposures, retail and wholesale.
+At Barclays, this is primarily achieved through People and Systems: key building blocks, described below, are the probability of customer default expressed through an internal risk rating, severity, and People with the skill and experience needed for this task working within exposure in the event of default.
+the Group Risk Governance Framework.
+Internal risk ratings Systems, including advanced analytics, to measure, monitor and analyse Internal risk ratings are used to assess the credit quality of borrowers.
+the risk and inform management judgement.
+Each internal rating corresponds to a probability of default, which is the People: Credit Risk Management Responsibility statistical probability of a customer defaulting within a 12-month period.
+Barclays recognises that the taking of credit risk involves judgement, This internal rating is derived from different sources depending upon the skill and knowledge.
+borrower, e. g. internal model or credit rating agency.
+The table below shows Barclays internal ratings and the associated expected probabilities The Groups approach to managing credit risk is consistent with the of default.
+Governance framework described previously but varies in execution according to the specic nature of the risk in each of the businesses.
+Where internal models are used, they are based upon up-to-date account, market and financial information.
+The models are reviewed In retail businesses, such as Barclaycard and Personal Financial regularly to monitor their robustness relative to actual performance Services, where there are large numbers of customers, a systems and revised as necessary to optimise their effectiveness.
+Credit decisions are made with the aid of statistically based scoring systems.
+Account management is likewise Barclays credit ratings automated.
+Both application scoring for new accounts and behavioural Barclays Probability of Default scoring for existing relationships are used.
+These systems measure risk Internal Rating Minimum Maximum Mid Point using statistical methodologies derived from the wealth of information and experience Barclays has gained through its relationships with over 1.2 0.02% 0.04% 0.025% 14 million customers.
+1.5 0.05% 0.09% 0.075% Small business credit risk is managed like consumer accounts using 1.8 0.10% 0.14% 0.125% scoring systems.
+Mid-range business credits are approved and reviewed according to a hierarchy of discretions, under which limits are set 2.1 0.15% 0.19% 0.175% according to the skills, experience and seniority of the credit managers 2.5 0.20% 0.24% 0.225% and sanctioning teams.
+They are assisted by analytical models credit 2.8 0.25% 0.29% 0.275% grading tools that help to assess the quality of the borrower.
+3 0.30% 0.59% 0.450% Large value wholesale credits are similarly handled by experienced frontline risk management staff also equipped with analytical tools who 4 0.60% 1.19% 0.900% work alongside relationship management teams.
+Decisions must be 5 1.20% 2.49% 1.850% referred to the Group Credit Committee if the intended exposures exceed specified limits.
+Besides loans, the credit risks include those 6 2.50% 4.99% 3.750% arising from money market, foreign exchange, derivative, securities 7 5.00% 9.99% 7.500% dealing and other products.
+8 10.00% 15.000% In each business, specialist teams deal with impaired credits.
+As mentioned in the preceding section, the risk management teams are accountable to the Business Risk Directors in each business who, in turn, report to the head of their business and also to the Group Risk Director.
+Barclays PLC Annual Report 2003 41 Risk Management Credit Risk Management Severity Risk Tendency by Business Cluster 2003 2002 Severity is the estimated amount of loss expected if a loan defaults, m m calculated as a percentage of the exposure at the date of default.
+It Personal Financial Services 340 370 recognises that the loss is usually substantially less than the exposure.
+Barclays Private Clients 65 45 The value depends on the collateral, if any, seniority or subordination Barclaycard 525 435 of the exposure, work-out expenses relative to the loan value and Business Banking 280 280 other considerations.
+The outcome is heavily dependent on economic Barclays Africa 30 30 conditions that determine, for example, whether businesses can be Barclays Capital 130 210 renanced or the prices that can be realised for assets in the event Transition Businesses 20 5 that they are sold.
+Total 1,390 1,375 Exposure Exposure in the event of default represents the expected level of usage Non-performing loans, against which specic provisions are held, are of the credit facility when default occurs.
+For example, at default the excluded from this calculation.
+Adjustments to these provisions in the customer may not have drawn the loan up to the approved limit or may light of emerging information about the borrowers financial strength already have repaid some of it.
+For derivative instruments, exposure in can collectively have a substantial inuence on the annual credit the event of default is the estimated cost of replacing contracts with a expense that is not captured in Risk Tendency.
+positive value if counterparties fail to perform their obligations.
+Credit Risk Portfolio Management The Group monitors its credit risk on an ongoing basis by applying these Barclays uses mechanisms such as credit derivatives, securitisations and measurements across the portfolio both wholesale and retail.
+It does asset sales to reduce the uncertainty of returns from the credit portfolio.
+this by combining the information into a measure called Risk Tendency.
+The benets are reected in reduced credit risk provisions and or Risk Tendency reduced volatility of earnings and consequently an improved return Risk Tendency is based on the results of a set of model-based on economic capital.
+More information on credit risk portfolio calculations, the models having been created using historical data.
+The management appears on page 50. models estimate the expected loss arising from loan defaults over the forthcoming 12 months from the current performing loan portfolio, taking into account its current composition, size and risk characteristics.
+The actual credit provisions can vary signicantly around this value, due to changes in the economic environment or the business conditions in specic sectors or countries during the year and from unpredictable or unexpected events.
+This applies especially in wholesale portfolios where the default of a small number of large exposures can have a significant impact on the outcome.
+In addition to enhancing the understanding of the average credit quality of the portfolio, Risk Tendency is one of the measures used by the Group to inform a wider range of decisions, such as establishing the desired aggregate exposure levels to individual sectors and determining pricing policy.
+The models used in the Risk Tendency calculation reect the diversity of the portfolio.
+They are being improved constantly as the Group collects more data and deploys more sophisticated techniques.
+The Group believes that each change will have a minor impact on the total result but should lead to better estimates over time.
+As shown in the table below, Risk Tendency was 1,390m based upon the composition of the lending portfolio as at 31st December 2003 31st December 2002: 1,375m.
+It fell in Personal Financial Services by 8% as a result of enhanced risk and fraud management strategies.
+Barclaycard Risk Tendency increased by 21%, commensurate with growth in the portfolio and the impact of the acquisition of Clydesdale Financial Services.
+Risk Tendency increased in Barclays Private Clients by 44% following the acquisition of Banco Zaragozano.
+It fell in Barclays Capital by 38% following the recovery in wholesale credit markets and improvement in the quality and reduction in the size of the loan portfolio.
+Risk tendency also increased in Transition Businesses after assets were transferred into this portfolio see page 80.
+42 Risk Management Analysis of Loans and Advances Loans and advances by banking and trading books Analysis of Loans and Advances 2003 Throughout the remainder of the risk management section, a regional Customers Banks Total presentation of data will be found with disclosures by the United m m m Kingdom, other European Union countries, the United States and the rest Banking book 170,919 17,270 188,189 of the world.
+In all cases, unless otherwise indicated, the information Trading book 58,961 44,670 103,631 refers to the location of the ofce where the loan was booked.
+Total 229,880 61,940 291,820 Loans and advances grew over the year, increasing by 28.2bn 10.7% to 291.8bn at 31st December 2003.
+2002 The management of retail credit risk is different from wholesale credit Customers Banks Total m m m risk.
+In retail, where there are millions of loans and advances, both initial and ongoing account maintenance decisions are driven by efficient, Banking book 160,216 15,451 175,667 smart systems which have been developed using the Groups Trading book 45,176 42,805 87,981 considerable accumulated experience.
+In contrast, wholesale loans are Total 205,392 58,256 263,648 more complex and are individually considered, although analytical tools still have a major role.
+The amounts shown in the tables above are before deduction of Outcomes also differ.
+Typically credit losses in retail portfolios are more provisions and interest in suspense.
+The banking book comprises stable though not necessarily lower than those in wholesale portfolios loans and advances which are intended to be held to maturity or until where the default of an individual large loan can have a significant repayment by the customer.
+In contrast the loans and advances on the impact.
+The table below shows the Groups retail and wholesale loan trading book are held for sale.
+Loans and advances 2003 2002 m m Retail businesses Banks 1,495 1,748 Customers 100,774 90,625 Total retail businesses 102,269 92,373 Wholesale businesses Banks 60,445 56,508 Customers 129,106 114,767 Total wholesale businesses 189,551 171,275 Total 291,820 263,648 The analysis above is based on the business unit in which the loans are booked.
+Those businesses that deal primarily with personal customers, such as Personal Financial Services and Barclaycard, are included under retail businesses, even though they have some wholesale customers.
+Similarly, businesses that deal primarily with corporate, institutional and sovereign clients are included in wholesale businesses, even though they may have some personal customers.
+In subsequent pages, considerable detail on loans and advances is provided.
+A principal segmentation is between exposures to banks and to customers as introduced in the next table.
+Barclays PLC Annual Report 2003 43 Risk Management Analysis of Loans and Advances Loans and Advances to Banks Credit exposures to banks for the most part arise in the course of providing services to customers or trading in capital markets for profit.
+They may be reciprocal in nature.
+The majority of loans and advances to banks are placings, amounting to 56.5bn at 31st December 2003 2002: 48.1bn, and include reverse repo transactions.
+Also included are loans to banks and building societies, interbank settlement accounts and federal funds sold.
+Loans and advances to banks increased by 6% to 61.9bn at 31st December 2003 2002: 58.3bn.
+The amounts shown in the tables below are before deductions of provisions and interest in suspense.
+Maturity analysis of loans and advances to banks Over three Over one months year but Not more but not not more than three more than than five Over On demand months one year years five years Total At 31st December 2003 m m m m m m Banking business: United Kingdom 629 4,299 586 5,127 3,674 14,315 Other European Union 116 1,525 28 12 21 1,702 United States 23 57 10 20 110 Rest of the World 295 605 192 48 3 1,143 Total banking business 1,063 6,486 816 5,207 3,698 17,270 Total trading business 830 39,660 4,180 44,670 Total 1,893 46,146 4,996 5,207 3,698 61,940 Over three Over one months year but Not more but not not more than three more than than five Over On demand months one year years five years Total At 31st December 2002 m m m m m m Banking business: United Kingdom 423 2,742 648 7,518 179 11,510 Other European Union 222 1,689 84 31 128 2,154 United States 14 110 118 14 256 Rest of the World 262 890 376 3 1,531 Total banking business 921 5,431 1,226 7,566 307 15,451 Total trading business 1,052 38,693 3,060 42,805 Total 1,973 44,124 4,286 7,566 307 58,256 1 Interest rate sensitivity of loans and advances to banks 2003 2002 Fixed Variable Fixed Variable rate rate Total rate rate Total At 31st December m m m m m m Banking business: United Kingdom 7,221 7,094 14,315 6,493 5,017 11,510 Other European Union 1,523 179 1,702 1,830 324 2,154 United States 17 93 110 30 226 256 Rest of the World 781 362 1,143 1,212 319 1,531 Total banking business 9,542 7,728 17,270 9,565 5,886 15,451 Total trading business 25,607 19,063 44,670 24,929 17,876 42,805 Total 35,149 26,791 61,940 34,494 23,762 58,256 1 Where a loan is earning a xed rate on the reporting date, it is included as a xed rate loan, regardless of the term for which the rate is xed.
+44 The chart shows that Barclays largest sectoral exposures are to home Loans and Advances to Customers loans, other personal loans and business and other services.
+These Geographical analysis of the banking book categories overwhelmingly comprise small loans, have lower volatility Loans and advances to customers on the banking book amounted of credit risk outcomes, and are intrinsically highly diversied.
+to 171bn at the financial year end.
+A geographical analysis of these During 2003, the sectors that were of special interest in 2002 energy, exposures, based on the location of the ofce recording the transaction, utilities and telecommunications all improved.
+Nevertheless, some of is shown in the chart below.
+the companies within these sectors still have weak balance sheets and continue to be stressed.
+The tourism, travel and airline sub-sectors were also of concern in 2003, in part due to global terrorist threats, SARS and Geographic analysis of loans and advances to customers on the the war in the Middle East, in part due to competition and discounting banking book within these sectors.
+In the property sector, commercial ofce space was in excess supply in London and the South East of the United Kingdom.
+UK 84% Other European Union 11% Commentators anticipated higher credit losses in the mortgage market United States 2% due to an expected decline in house prices.
+This followed several years Rest of the World 3% of rapid price rises and with higher interest rates in prospect.
+Although there was a modest interest rate rise, house prices increased further and mortgage defaults fell from an already very low level.
+There was also 171bn at 31st December 2003 interest in other retail credits unsecured loans and credit cards in the wake of comments on the record levels of consumer indebtedness relative to incomes by the Bank of England, the FSA and others.
+Industry analysis However, due to the still low interest rates, consumers debt servicing A critical element of risk management is to ensure adequate costs remained well below previous peaks and there was no material diversication of credit exposures.
+Barclays tracks its global exposure by impact on Barclays 2003 provision charges.
+industry as shown in the following chart, paying particular attention to Maturity analysis industries that might be volatile or pose higher risk.
+This is important, The analysis by contractual maturity shown in the chart below and because industries are often synchronised globally, as has been apparent the table on page 48, indicates that 40% of loans to customers have a over recent years.
+For example, when oil prices rise or fall, customers maturity of more than five years, the majority of which are mortgages.
+sensitive to such changes will be affected regardless of their location.
+Industry classications have been prepared at the level of the borrowing entity.
+This means that a loan to the subsidiary of a major corporation is classied by the industry in which the subsidiary operates, even though Maturity analysis of loans and advances to customers the parents predominant business may be in a different industry.
+Loans On demand 5% to customers domiciled outside the country where the ofce recording Not more than three months 33% the transaction is located are shown in the chart below under Overseas Over three months but not more than one year 7% customers and not by industry.
+Over one year but not more than five years 15% Global loans and advances to customers by industry banking book Over five years 40% only % of total 230bn at 31st December 2003 Home loans Other personal Business and other services Financial institutions Wholesale and retail distribution and leisure Manufacturing Property Overseas customers Finance lease receivables Transport Energy and water Construction Agriculture, forestry and fishing 2003 Communication 2002 % 0 5 10 15 202530354045 Barclays PLC Annual Report 2003 45 Risk Management Analysis of Loans and Advances Interest rate sensitivity of loans and advances to customers 2003 2002 Fixed Variable Fixed Variable rate rate Total rate rate Total At 31st December m m m m m m Banking business: United Kingdom 35,998 107,811 143,809 41,332 94,568 135,900 Other European Union 4,159 14,868 19,027 2,876 9,703 12,579 United States 1 3,572 3,573 314 5,824 6,138 Rest of the World 2,738 1,772 4,510 4,351 1,248 5,599 Total banking business 42,896 128,023 170,919 48,873 111,343 160,216 Total trading business 26,587 32,374 58,961 20,204 24,972 45,176 Total 69,483 160,397 229,880 69,077 136,315 205,392 Geographic and industry analysis These tables have been prepared on the basis described on page 45.
+Loans to financial institutions, wholesale, retail and leisure, and property all increased by more than 10% as did finance leases.
+b In the UK, finance lease receivables are included in Other Lending although some leases are to corporate customers.
+48 Risk Management Loans and Advances in Non-local Currencies and to Countries Receiving IMF Support Loans and advances to borrowers in currencies other than the local currency of the borrower The worldwide operations of the Group involve significant exposures in non-local currencies.
+The US Securities and Exchange Commission requires that Barclays report those exposures denominated in currencies other than the borrowers local currency.
+These outstandings exclude finance provided within the Group, and are based on the country of domicile of the borrower or guarantor of ultimate risk.
+They comprise loans and advances to customers and banks including placings, finance lease receivables, interest bearing investments, acceptances, other monetary assets and on-balance sheet amounts arising from off-balance sheet financial instruments.
+At 31st December 2003, the countries where these outstandings exceeded 1% of total Group assets were the United States and Germany and amounted to 17,237m.
+At 31st December 2002 and 31st December 2001, the countries where these outstandings exceeded 1% of total Group assets were the US, Germany and France and amounted to 32,105m and 20,715m respectively.
+Further detail is provided in the table below.
+Loans and advances to borrowers in currencies other than the local currency of the borrower for countries where this exceeds 1% of total Group assets Commercial Banks industrial and other Governments and other As % of financial and ofcial private assets Total institutions institutions sectors m m m m At 31st December 2003 United States 2.7 12,110 4,679 7,431 Germany 1.2 5,127 4,662 7 458 At 31st December 2002 United States 4.2 17,140 9,672 1 7,467 Germany 2.5 10,094 9,841 7 246 France 1.2 4,871 4,484 24 363 At 31st December 2001 United States 2.3 8,294 4,878 3,416 Germany 2.3 8,218 8,031 1 186 France 1.2 4,203 3,088 22 1,093 Loans and advances to borrowers in currencies other than the local currency of the borrower for countries where this is between 0.75% and 1% of total Group assets At 31st December 2003, Barclays had cross-currency loans to borrowers in France of between 0.75% and 1% of total Group assets, amounting to 3,570m.
+At 31st December 2002, there were cross-currency loans to borrowers in the Netherlands and Ireland of between 0.75% and 1% of total Group assets, amounting to 7,552m.
+At 31st December 2001, cross-currency loans to borrowers in Japan and Netherlands fell in the range between 0.75% and 1% of total Group assets and totalled 5,774m.
+Countries receiving IMF support Barclays exposure to countries receiving substantial IMF support amounted to 0.5bn in total at 2003 year end 2002: 0.5bn, 2001: 1.3bn.
+The largest exposure was to Turkey 0.3bn.
+Barclays PLC Annual Report 2003 49 Risk Management Other Credit Risks Other Credit Risks Credit Risk Portfolio Management and In addition to loans and advances, Barclays is exposed to other credit the Use of Credit Derivatives risks summarised in the table below.
+The credit risks shown here are Barclays actively manages its credit exposures through the use of credit managed in a similar way to those in Loans and Advances, and are derivatives, the sale of loan assets and securitisation.
+subject to the same or similar approval and governance processes.
+Credit derivatives are traded for profit and used for managing nonOff balance sheet and other credit exposures trading credit exposures.
+The extent of these activities is illustrated in as at 31st December the table below: 2003 2002 m m Notional principal amounts of credit derivatives Off balance sheet exposures at 31st December Contingent liabilities 33,694 26,546 2003 2002 m m Commitments to lend 114,847 101,378 On balance sheet exposure Credit derivatives held or issued for Balances arising from off-balance sheet trading purposes 43,256 10,665 financial instruments OTC derivatives 15,812 13,454 Credit derivatives held for the purpose London Metal Exchange warrants and of managing non-trading exposures 4,194 7,736 other trading positions 1,290 829 Total 47,450 18,401 Debt securities held for trading 59,812 53,961 non-trading 37,581 40,268 See Note 45 page 154, for further details of the credit derivative positions.
+The nature of the credit risks in these exposures differs considerably.
+Losses resulting from exposures held for trading derivatives, debt During 2003, Barclays also sold loan assets.
+When non-performing loans securities are accounted for as trading losses, rather than credit for which provisions were held were sold, the net proceeds were applied charges, even though the fall in value causing the loss may be to the relevant exposures and related provisions.
+These sales are distinct attributable to a credit deterioration.
+from Barclays substantial loan trading business.
+Further details on contingent liabilities are shown in Note 44 to the Barclays securitised 3.3bn of loan assets comprising credit card and Accounts page 153.
+They include guarantees, assets pledged as other receivables.
+Most of the credit risk associated with these assets collateral, acceptances and endorsements.
+These reect contracts was retained.
+entered into on behalf of customers who undertake to compensate the bank for payments made on their behalf.
+The credit risk exists in that the customers may not meet their commitments when they arise.
+Commitments to lend see also Note 44 on page 153 are contractual undertakings to lend to customers during a specified period or at a future date or they may be ongoing facilities subject to periodic review.
+These facilities are available to be used by customers, usually at their discretion, and may therefore become loans.
+Balances arising from off balance sheet financial instruments represent the positive mark to market or otherwise assessed fair values of derivatives.
+See Note 45 page 154, for a comprehensive disclosure of derivatives.
+The management of the market risk inherent in derivatives is described on page 65 along with a description of derivatives used.
+The credit risk in these instruments exists in that the counterparty may be unable to settle when settlement is due in Barclays favour.
+Most derivatives are with highly rated counterparties.
+Debt securities are shown in Note 17 page 137, and London Metals Exchange exposures are disclosed in Note 23 page 141.
+50 Risk Management Potential Credit Risk Lendings Non-performing loans Potential Credit Risk Lendings 5,000 Potential credit risk lendings PCRLs comprise non- 4,526 4,155 4,000 3,871 performing loans NPLs and potential problem loans 1,189 3,377 844 908 3,000 PPLs.
+NPLs are loans where the customers have failed to 628 2,609 504 meet their commitments, either in part or in whole.
+PPLs 2,000 3,311 3,337 2,963 2,749 are loans which are current as to payment of principal and 1,000 2,105 Foreign offices interest, but where there exists serious doubt as to the 0 UK offices ability of the borrowers to comply with repayment terms m 1999 2000 2001 2002 2003 in the near future.
+Potential problem loans UK non-performing loans decreased by 1% 26m to 3,311m 1,600 2002: 3,337m.
+Other European Union non-performing loans 1,477 1,402 1,400 increased by 34% 58m from 173m to 231m, reecting growth 1,304 338 1,200 434 in the portfolio, including acquisitions.
+US non-performing loans 1,107 310 1,000 decreased by 49% 361m to 383m as the exposures in this category 379 800 711 were written off, restructured, upgraded, sold or otherwise worked out 63 1,139 600 994 at a faster rate than new non-performing loans arose.
+In the Rest of the 968 400 728 648 World non-performing loans decreased by 15%, to 230m.
+200 Foreign offices 0 UK offices The table that follows presents an analysis of non-performing loans m 1999 2000 2001 2002 2003 consistent with both UK and US practice and US Securities and Exchange Commission guidelines.
+In conformance with UK practice, accruing loans where interest is being suspended with or without provisions and other accruing loans where specic provisions have been raised are shown separately from non-accrual loans.
+Normal US banking practice would be to place such loans on non-accrual status as reected in the sub-total in the table below.
+The amounts are stated before deduction of the value of security held, the specic provisions carried or interest suspended, all of which might reduce the impact of an eventual default, should it occur.
+Non-performing loans summary 2003 2002 2001 2000 1999 m m m m m Non-accrual loans 2,261 2,542 1,923 1,539 1,251 Accruing loans where interest is being suspended with or without provisions 646 611 561 496 436 Other accruing loans against which no provisions have been made 669 677 734 623 553 Sub total 3,576 3,830 3,218 2,658 2,240 Accruing loans 90 days or more overdue, against which no provisions have been made 575 690 648 713 361 Reduced rate loans 4 6568 Total non-performing loans 4,155 4,526 3,871 3,377 2,609 A geographical analysis of this table appears on the next page.
+Barclays PLC Annual Report 2003 51 Risk Management Potential Credit Risk Lendings Non-performing loans 2003 2002 2001 2000 1999 m m m m m Non-accrual loans: United Kingdom 1,572 1,557 1,292 1,223 1,007 Other European Union 143 1089096 122 United States 383 744 306 119 47 Rest of the World 163 133 235 101 75 Total 2,261 2,542 1,923 1,539 1,251 Accruing loans where interest is being suspended with or without provisions: United Kingdom 559 480 386 351 326 Other European Union 46 35 30 36 19 United States Rest of the World 41 96 145 109 91 Total 646 611 561 496 436 Other accruing loans against which provisions have been made: United Kingdom 610 609 660 474 423 Other European Union 33 27 20 71 42 United States 11 2 38 Rest of the World 26 41 43 76 50 Total 669 677 734 623 553 Sub totals: United Kingdom 2,741 2,646 2,338 2,048 1,756 Other European Union 222 170 140 203 183 United States 383 744 317 121 85 Rest of the World 230 270 423 286 216 Total 3,576 3,830 3,218 2,658 2,240 Accruing loans 90 days overdue, against which no provisions have been made: United Kingdom 566 687 621 695 343 Other European Union 9 3 1 United States Rest of the World 27 17 18 Total 575 690 648 713 361 Reduced rate loans: United Kingdom 4 4466 Other European Union United States Rest of the World 21 2 Total 4 6568 Total non-performing loans: United Kingdom 3,311 3,337 2,963 2,749 2,105 Other European Union 231 173 140 204 183 United States 383 744 317 121 85 Rest of the World 230 272 451 303 236 Total 4,155 4,526 3,871 3,377 2,609 Potential problem loans 2003 2002 2001 2000 1999 m m m m m United Kingdom 1,139 994 968 728 648 Other European Union 23 22 23 United States 259 241 369 313 5 Rest of the World 56 69 63 64 35 Total 1,477 1,304 1,402 1,107 711 Interest forgone on non-performing loans The total interest income that would have been recognised under the original contractual terms of the non-performing loans in 2003 was 312m 2002: 275m of which 247m 2002: 209m related to loans recorded in the UK and 65m 2002: 66m related to foreign loans.
+Interest income of approximately 47m 2002: 22m from such loans was included in profit, of which 39m 2002: 21m related to domestic lending and the remainder to foreign lending.
+The balance was not received or was suspended.
+Ratios of provisions to non-performing loans and potential credit risk lendings appear in the next section on page 59, following the discussion of provisions.
+52 Risk Management Provisions for Bad and Doubtful Debts Provisions charge over ten years Provisions for Bad and Doubtful Debts 1,500 1,484 Barclays policy is to provide for credit losses when it 1,347 1,200 1,149 considers that recovery is doubtful.
+Risk managers 900 continuously review the quality of the exposures and 817 621 make provisions where necessary, based on their 602 600 492 396 knowledge of the customer or counterparty, and 300 227 215 developments in the industry and country of operation.
+0 m 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 Provisioning approach The estimation of potential credit losses is inherently uncertain and Provisions charge over ten years as a percentage of the banking book depends upon many factors, including general economic conditions, loan migration i. e. deterioration in credit quality, structural changes within 1.0 industries that alter competitive positions, and other external factors 0.85 0.8 such as legal and regulatory requirements.
+0.73 0.73 0.67 0.60 0.6 0.58 Total provisions are comprised of two components, specic provisions 0.49 and general provisions.
+0.41 0.4 Specic provisions are raised when the Group considers that the 0.23 0.23 0.2 creditworthiness of a borrower has deteriorated such that recovery 0 of the whole or part of an outstanding advance is in serious doubt.
+% 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 Within the retail businesses, where the portfolio comprises large numbers of homogeneous assets, statistical techniques are used The provisions charge fell 9% 137m to 1,347m 2002: 1,484m.
+to raise specic provisions for each product portfolio, based on Provisions excluding the impact of Transition Businesses, mainly delinquency data and historical recovery rates.
+are updated monthly: Business Banking provisions increased broadly in line with portfolio Small business accounts with loans up to about 300,000 are similarly growth.
+Provisions fell in Barclays Capital reecting the ongoing treated on a product portfolio basis using statistical methods: improvement in the loan book and the continued recovery in the large corporate credit environment.
+For the larger business and wholesale accounts, specic provisioning is done on an individual basis and all relevant considerations that have Provisions fell in Personal Financial Services with an improvement in a bearing on the expected future cash ows are taken into account, the quality of the loan portfolio and improved risk management.
+for example the business prospects of the customer, the realisable The reduction occurred in the unsecured lending portfolio.
+Provisions value of collateral, the Groups position relative to other claimants, the charges for mortgages remained at a very low rate.
+Barclaycard reliability of customer information and the likely cost and duration provisions increased in line with continued portfolio growth.
+These provisions are formally reviewed Further details appear in the analysis of results by business starting quarterly and revised as new information becomes available in the on page 90. course of each work-out.
+General provisions reect losses that, although not specically identied, are known from experience to be present in the lending portfolio at the balance sheet date.
+These provisions are adjusted at least half yearly by an appropriate charge or release.
+General provisions are also created with respect to the recoverability of assets arising from off-balance sheet exposures and country transfer risk, all prepared in a manner consistent with the general provisioning methodology.
+Write-off occurs immediately when, and to the extent that, the whole or part of a debt is considered irrecoverable.
+See also page 104 Critical Accounting estimates and page 115 Accounting policies: loans and advances for a description of relevant terms and policies.
+Barclays PLC Annual Report 2003 53 Risk Management Provisions for Bad and Doubtful Debts Analysis of the provisions charges for bad and doubtful debts Year ended 31st December 2003 2002 2001 2000 1999 m m m m m Net specic provisions charge release United Kingdom 1,132 1,041 964 688 568 Other European Union 37 14 20 12 1 a United States 84 385 136 17 34 Rest of the World 67 46 45 60 32 Total net specic provisions charge 1,320 1,486 1,165 777 635 General provisions charge release 27 2 16 40 14 Total 1,347 1,484 1,149 817 621 Note a The US charge includes provisions raised against South American Corporate Banking exposures booked in the US.
+Bad debt provisions charge ratios Loan loss ratios The Groups provisions charge ratio improved signicantly from 0.85% to 0.73% of average banking loans and advances in 2002 and 2003 respectively.
+Year ended 31st December 2003 2002 2001 2000 1999 % %%%% Provisions charge as a percentage of average banking loans and advances for the year: Specic provisions 0.71 0.85 0.74 0.64 0.60 General provisions 0.02 0.01 0.03 0.02 0.73 0.85 0.73 0.67 0.58 Amounts written off net of recoveries 0.74 0.64 0.53 0.47 0.52 Provisions charge as a percentage of average loans and advances for the year including trading business : Specic provisions 0.46 0.58 0.52 0.44 0.43 General provisions 0.01 0.02 0.01 Total 0.47 0.58 0.52 0.46 0.42 Amounts written off net of recoveries 0.48 0.43 0.37 0.32 0.38 54 Provisions charge analysis 1,800 1,719 1,628 1,600 1,484 1,440 1,400 1,347 1,200 1,149 1,000 800 600 Specific provisions New and increased 400 Specific provisions Releases and recoveries 200 General provision Charge release 27 0 Total provisions charge -16 -2 -200 -400 -233 -275 -308 m 2001 2002 2003 Provision balances Provisioning decisions result in changes to the provisioning balances, the cumulative effects of which are shown below.
+Barclays PLC Annual Report 2003 55 Risk Management Provisions for Bad and Doubtful Debts Provisions balance ratios As at 31st December 2003 2002 2001 2000 1999 % % % % % Excluding trading business Provisions balance at end of year as a percentage of loans and advances at end of year: Specic provisions 1.19 1.29 1.22 1.06 1.19 General provisions 0.42 0.42 0.46 0.51 0.61 1.61 1.71 1.68 1.57 1.80 Including trading business Provisions balance at end of year as a percentage of loans and advances at end of year: Specic provisions 0.77 0.86 0.85 0.79 0.83 General provisions 0.27 0.28 0.32 0.38 0.42 1.04 1.14 1.17 1.17 1.25 Treatment of interest on debts that have specic provisions If the collection of interest is doubtful, it is credited to a suspense account and excluded from interest income in the profit and loss account.
+Although interest continues to be charged to the customers account, the amount suspended is netted against the relevant loan.
+Loans on which interest is suspended are not reclassied as accruing interest until interest and principal payments are up-to-date and future payments are reasonably assured.
+If the collection of interest is considered remote, interest is no longer applied.
+Treatment of collateral assets acquired in exchange for advances Assets acquired in exchange for advances in order to achieve an orderly realisation continue to be reported as advances.
+The assets acquired are recorded at the carrying value of the original advance as at the date of the exchange and any impairment is accounted for as a specic provision.
+Movements in provisions for bad and doubtful debts 2003 2002 2001 2000 1999 m m m m m Provisions balance at beginning of year 2,998 2,716 2,353 1,983 1,943 Acquisitions and disposals 62 11 46 119 10 Exchange and other adjustments 18 77 1 4 13 Amounts written off 1,474 1,220 973 683 651 Recoveries 113 106 142 113 93 Provisions charged against profit 1,347 1,484 1,149 817 621 Provisions balance at end of year 3,028 2,998 2,716 2,353 1,983 A geographical analysis of the values in this summary table follows in the next three tables.
+58 Coverage ratios The coverage of non-performing loans by the Groups stock of provisions and interest in suspense increased from 68.0% at 31st December 2002 to 74.1% at 31st December 2003.
+Over the same period, coverage of potential credit risk lendings increased from 52.8% to 54.6%.
+Another useful way of assessing provision balances is to recognise that specic provisions are created to cover non-performing loans, whereas general provisions relate to as yet unidentified losses on performing loans.
+The following table provides an analysis of provision balances on this basis.
+Ratios of general and specic provision balances 2003 2002 2001 2000 1999 % % % % % Specic provisions coverage of non-performing loans 53.7 50.0 50.9 47.2 50.2 General provisions coverage of performing loans excluding trading book 0.43 0.43 0.47 0.52 0.62 General provisions coverage of performing loans including trading book 0.28 0.28 0.33 0.38 0.43 The ratio of general provisions to performing loans declined in 2000 and 2001 following the acquisition of Woolwich plc, a portfolio consisting predominantly of secured residential mortgage loans needing comparatively low general provisions.
+Performing loans comprise gross loans and advances less non-performing loans.
+All non-performing loans are on the banking book.
+Barclays PLC Annual Report 2003 59 Risk Management Market Risk Management Where DVaR does not adequately measure the risk, alternative methods Market Risk Management are used such as Annual Earnings at Risk.
+Annual Earnings at Risk measures the sensitivity of annual earnings to shocks in market rates at Market risk is the risk that the Groups earnings or capital, the 99th percentile for change over a one-year period.
+This shock is or its ability to meet business objectives, will be adversely consistent with the standardised interest rate shock recommended by affected by changes in the level or volatility of market the Basel II framework for assessing banking book interest rate risk.
+rates or prices such as interest rates including credit To facilitate the identication, measurement, control and reporting of spreads, foreign exchange rates, equity prices, and market risk, Barclays has categorised market risk into three broad commodity prices.
+categories as described below: Market risk management and control responsibilities i Trading market risk The market risk management policies of the Group are determined by Trading includes transactions where Barclays Capital acts as principal the Group Risk Oversight Committee, which also recommends overall with clients or with the market.
+A detailed review of this risk is market risk appetite, via the Group Executive Committee, to the Board provided below.
+The Groups policy is that the market risks associated ii Asset and liability management with the Groups business activities are clearly identied, assessed and The Group encounters risks in managing its assets and liabilities.
+controlled within agreed limits and that the market risks arising from A detailed review of these risks is covered in the Treasury Asset and trading activities are concentrated in Barclays Capital.
+Liability Management section on pages 66 to 69.
+The Group Market Risk Director is responsible for the content, iii Other market risks effectiveness and efficiency of the Groups market risk control In some instances, the Group incurs market risks that do not t into the framework, and is assisted by risk management departments in the above categories.
+The principal risks of this type are asset management Groups businesses and a central market risk management team.
+The structural market risk and dened benefit pension scheme risk.
+These Group Market Risk Director reports to the Group Financial Risk Director are covered below.
+who reports to the Group Risk Director.
+The Group Risk Oversight Committee allocates a total Daily Value at Risk Trading Market Risk DVaR limit for the Group and delegates the day-to-day control and monitoring of market risk to the Group Market Risk Director, who sets As mentioned above, the Groups policy is to concentrate trading limits for each business area.
+To assist this process, a market risk report activities in Barclays Capital.
+Trading includes transactions where is produced daily which summarises the Groups market risk exposures Barclays Capital acts as principal with clients or with the market.
+Data for this report is supplied by the business For maximum efficiency, Barclays manages client and market activities areas.
+This daily report is sent to the Group Risk Director, the Group together.
+In Barclays Capital, trading risk occurs in both the trading Financial Risk Director, the Group Market Risk Director, the Group book and the banking book as dened for regulatory purposes.
+Finance Director and the appropriate Business Risk Directors.
+In anticipation of future customer demand, the Group maintains access A more detailed market risk report is presented each month by the to market liquidity by quoting bid and offer prices with other market Group Market Risk Director to the Group Risk Oversight Committee.
+makers and carries an inventory of capital market and treasury This report brings to the attention of all Committee members current instruments, including a broad range of cash, securities and derivatives.
+Group market risk exposures and issues along with relevant Trading positions and any offsetting hedges are established as background information.
+appropriate to accommodate customer or Group requirements.
+Barclays Capital takes principal positions in the interest rate, credit spread, Each business area of the Group is accountable for identifying, foreign exchange, equity and commodity markets based on expectations measuring and managing all market risks associated with its activities.
+of customer demand or a change in market conditions.
+In managing market risk, businesses must consider asset liquidity risk and funding liquidity risk where these issues are relevant.
+Derivatives entered into for trading purposes include swaps, forward rate agreements, futures, credit derivatives, options and combinations of Market risk measurement these instruments.
+For a description of the nature of derivative Barclays uses DVaR as the primary mechanism for controlling market instruments, see page 65. risk.
+DVaR is an estimate, with a confidence level of 98%, of the potential loss which might arise if the current positions were to be held unchanged for one business day.
+Daily losses exceeding the DVaR gure are likely to occur, on average, twice in every 100 business days.
+60 Risk control Risk measurement In Barclays Capital, the Head of Market Risk is responsible for the market Barclays Capital calculates DVaR using the historical simulation method risk governance and control framework.
+Day-to-day responsibility for with a historical sample of two years.
+As stated above, the calculation managing exposure to market risk lies with the senior management of assumes a one-day holding period and is performed to the 98% level Barclays Capital, supported by the Global Market Risk Management Unit of confidence.
+that operates independently of the trading areas.
+Daily DVaR utilisation The DVaR methodology allows the interest rate risk due to changes reports are produced across the main business areas and the five main in the government interest rates to be measured separately from risk factor categories, namely interest rate, credit spread, foreign credit spread risk due to changes in credit spreads.
+The credit spread exchange, equity and commodity risk.
+is the premium for holding a non-government investment, and is the Any DVaR excess at the business level, risk factor level or total level, difference between the total interest rate and the appropriate along with the relevant background information and proposed way government interest rate, for the same maturity.
+forward, is reported to the senior management of Barclays Capital and In total, the DVaR methodology maps interest rate risk into eight the Group Market Risk Director.
+The Group Market Risk Director categories.
+These are government, interest rate swaps and six credit presents these DVaR excesses to the Group Risk Oversight Committee.
+This categorisation allows the As DVaR does not provide a direct indication of the potential size of measurement process to discriminate between the market risk of losses that could arise in extreme conditions, Barclays Capital uses a holding bonds with different credit qualities, for example AAA grade number of complementary techniques for controlling market risk.
+These securities as against non-investment grade securities.
+In particular, include revenue loss triggers and stress tests.
+The latter are based on it shows the effectiveness of hedging strategies such as shorting both historical and hypothetical extreme movements of market prices government bonds or swaps against non-government bond portfolios.
+and are reviewed as part of the detailed market risk presentation at the The DVaR numbers shown in the table below are all based on the above fortnightly Traded Products Risk Review meetings.
+The attendees at this methodology.
+meeting include senior managers from Barclays Capital and Group Analysis of market risk exposures Central Functions.
+Barclays Capitals market risk exposure increased in 2003.
+The credit If the potential loss indicated by a stress test exceeds an agreed trigger businesses incurred additional credit spread risk, primarily due to level, then the positions captured by the stress test are reviewed and growing client business in corporate bonds and credit derivatives.
+discussed by Barclays Capital Market Risk and the respective Business The daily average, maximum and minimum values of DVaR were Head s. The minutes of the discussion, including the merits of the estimated as below.
+position and the appropriate course of action, are then sent to the Group Market Risk Director.
+Barclays Capital DVaR: Summary table for 2003 and 2002 Twelve months to Twelve months to 31st December 2003 31st December 2002 a a a a Average High Low Average High Low m m m m m m Interest rate risk 21.0 34.1 13.6 21.7 34.5 10.0 Credit spread risk 16.2 29.2 8.9 9.4 12.5 6.0 Foreign exchange risk 2.3 5.0 1.0 2.9 4.4 1.9 Equities risk 2.6 4.9 1.5 3.6 5.4 2.1 Commodities risk 4.4 7.0 2.2 1.8 3.3 0.8 Diversication effect 20.6 n a n a 16.2 n a n a b Total DVaR 25.9 38.6 17.6 23.2 35.7 13.4 Notes a The high and low DVaR gures reported for each category did not necessarily occur on the same day as the high and low DVaR reported as a whole.
+Consequently, a diversication effect number for the high and low DVaR gures would not be meaningful and is therefore omitted from the above table.
+Barclays PLC Annual Report 2003 61 Risk Management Market Risk Management Total DVaR Daily exposures in 2002 and 2003 Other Market Risks 40 Asset management structural market risk Asset management structural market risk is the risk that fee and 30 commission income is affected by a change in equity market levels.
+It affects Barclays Private Clients assets under management, Barclays 20 Life and Barclays Global Investors.
+This risk is measured and managed using Annual Earnings at Risk AEaR where the potential reduction in 10 income is measured over a year.
+For more detail on AEaR, see market risk measurement on page 60.
+In 2003, Barclays Private Clients placed 0 m 2002 2003 a series of hedges which reduced the market risk for 2003 and 2004.
+Dened benefit pension scheme risk Trading revenue Barclays maintains a number of dened benefit pension schemes for past The histograms below show the distribution of market risk daily trading and current employees.
+The ability of the pension fund to meet the revenue for Barclays Capital in 2003 and 2002.
+Market risk daily trading projected pension payments is maintained through investments.
+Market revenue includes all primary income net fees and commissions and risk arises because the market value of the pension fund assets might secondary income net interest income and dealing profits.
+The average decline or their investment returns might reduce or because the present daily revenue in 2003 was 10.0m 2002: 8.7m and there were 244 value of the pension liabilities might increase.
+In these circumstances, positive revenue days out of 254 2002: 238 positive revenue days out Barclays might be required or might choose to make extra contributions of 252. to the pension fund.
+Barclays Capital Trading Revenue 2003 m 100 94 80 60 58 42 40 30 20 13 9 7 1 0 0 Number 10 10 5 0 to 5 5 10 15 20 25 of days to 5 to 0 to 10 to 15 to 20 to 25 Barclays Capital Trading Revenue 2002 m 100 79 80 69 60 47 40 28 20 9 8 7 3 2 0 Number 10 10 5 0 to 5 5 10 15 20 25 of days to 5 to 0 to 10 to 15 to 20 to 25 Regulatory DVaR and back-testing Barclays Capitals DVaR model, along with the market risk management and control infrastructure, has been approved by the FSA under the internal model approach for calculating regulatory capital for general market risk.
+For regulatory DVaR, the methodology maps interest rate risk into one category interest rate swaps, rather than the eight categories described above.
+Model recognition was first given in 1999.
+Barclays recognises the importance of assessing the effectiveness of its DVaR model.
+The main approach employed is the technique known as back-testing, which counts the number of days when trading related losses are bigger than the estimated DVaR gure.
+The regulatory standard for back-testing is to measure DVaR assuming a one-day holding period with a 99% level of confidence.
+For Barclays Capitals regulatory trading book, there were no instances in 2003 of a daily trading revenue loss exceeding the corresponding back-testing DVaR.
+In 2002, there were two instances.
+62 Risk Management Disclosures about Certain Trading Activities including Non-exchange Traded Contracts The US Securities and Exchange Commission requires disclosures relating to certain trading activities, particularly energy trading and commodity trading through non-exchange traded contracts.
+The Group delivers a fully integrated service to clients for base metals, precious metals, energy products covering US natural gas, oil and oilrelated products and European power and gas through Barclays Capital.
+The base and precious metals business enters into outright metal purchase and sales transactions as well as the associated over the counter OTC and exchange traded derivatives.
+The energy business deals in commodity derivative contracts but does not maintain any physical exposures.
+Structured products are also developed and offered in respect of energy, base and precious metal and power and gas commodities.
+The European power and gas business trades both physical forwards and derivative contracts.
+The Groups commodity business continues to expand, as market conditions allow, both through the addition of new products and markets in European power and gas, and the continuing growth in the existing metals and energy trading volumes.
+The Groups principal commodity related derivative contracts are swaps, options, forwards and futures, which are similar in nature to such noncommodity related contracts.
+Commodity derivatives contracts include commodity specication and delivery location as well as forward date and notional values.
+The fair values of commodity physical and derivative positions are determined through a combination of recognised market observable prices, exchange prices and established inter-commodity relationships.
+In common with all derivatives, the fair value of OTC commodity derivative contracts is either determined using a quoted market price or by using valuation models.
+Where a valuation model is used, the fair value is determined based on the expected cash ows under the terms of each specic contract, discounted back to present value.
+The expected cash ows for each contract are either determined using market parameters such as commodity price curves, commodity volatilities, interest rate yield curves and foreign exchange rates, or derived from historical or other market prices.
+Fair values generated by models are independently validated with reference to market price quotes, or price sharing with other institutions.
+However, where no observable market parameter is available then instrument fair value will include a provision for the uncertainty in that parameter based on sale price or subsequent traded levels.
+Discounting of expected cash ows back to present value is achieved by constructing discount curves from the market price of observable interest rate products, such as deposits, interest rate futures and swaps.
+In addition, the Group maintains fair value adjustments reecting the cost of credit risk where this is not embedded in the fair value, future administration costs associated with ongoing operational support of products, the cost of exiting illiquid or significant positions, as well as the cost of trading out of a position all positions are marked to midmarket and hence the bid offer cost would be incurred.
+The tables on page 64 analyse the overall fair value of the commodity derivative contracts by movement over time and source of fair value.
+Additionally, the positive fair value, adjusted for the impact of netting, of such contracts is analysed by counterparty credit risk rating.
+Barclays PLC Annual Report 2003 63 Risk Management Disclosures about Certain Trading Activities including Non-exchange Traded Contracts The following tables analyse the overall fair value of the commodity derivative contracts by movement over time and source of fair value.
+As at 31st December 2003 this reects a gross positive fair value of 1,982m 31st December 2002: 701m and a gross negative fair value of 2,088m 31st December 2002: 661m.
+Realised and unrealised profits related to physical commodity and commodity derivative activities are included within dealing profits.
+Physical commodity positions are held at fair value and reported within other assets in Note 23 on page 141.
+Movement in fair value of commodity derivative positions Total Total 2003 2002 m m Fair value of contracts outstanding at the beginning of the year 40 45 Contracts realised or otherwise settled during the year 8 25 Fair value of new contracts entered into during the year 101 50 Other changes in fair value 37 10 Fair values of contracts outstanding at the end of the year 106 40 Source of commodity derivative fair values Fair value of contracts at 31st December 2003 Maturity Maturity Maturity Maturity Total less than one to four to over fair one year three years five years five years value m m m m m Prices actively quoted 103 44 13 74 120 Prices provided by other external sources 1 1 Prices based on models and other valuation methods 11 3 2 21 15 Total 115 47 15 53 106 The following table analyses the positive fair value, adjusted for the impact of netting, arising on commodity derivative contracts.
+As at 31st December 2003, this reects a gross positive fair value of 1,982m 31st December 2002: 701m adjusted for the Groups ability to net amounts due to the same counterparties 31st December 2003: 864m, 31st December 2002: 351m.
+Analysis of net positive commodity derivative fair value by counterparty credit risk rating Total Total value value 2003 2002 m m Ato AAA 792 147 BBBto BBB 280 133 BB and below 46 70 Total 1,118 350 At 31st December 2003, 70% of the commodities credit exposure was to counterparties with cross asset class netting agreements, that is, netting agreements allowing exposure on commodities products to be reduced by amounts owed to the same counterparties in other asset classes.
+Additionally, collateral agreements are held with a majority of these same counterparties that allow collateral to be called against commodity exposures.
+64 Risk Management Derivatives Interest rate derivatives The use of derivatives and their sale to customers as risk The Groups principal interest rate related contracts are interest rate management products is an integral part of the Groups swaps, forward rate agreements, basis swaps, caps, oors and swaptions.
+These instruments are also used to Included in this product category are transactions that include manage the Groups own exposure to uctuations in combinations of these features.
+interest and exchange rates as part of its asset and An interest rate swap is an agreement between two parties to exchange liability management activities.
+xed rate and oating rate interest by means of periodic payments based upon a notional principal amount and the interest rates dened in the Barclays Capital manages the trading derivatives book as part of the contract.
+Certain agreements combine interest rate and foreign currency market risk book.
+This includes foreign exchange, interest rate, equity, swap transactions, which may or may not include the exchange of commodity and credit derivatives.
+The policies regarding market risk principal amounts.
+A basis swap is a form of interest rate swap, in which management are outlined in the market risk management section on both parties exchange interest payments based on oating rates, where pages 60 to 62. the oating rates are based upon different underlying reference indices.
+The policies for derivatives that are used to manage the Groups own In a forward rate agreement, two parties agree a future settlement of the exposure to interest and exchange rate uctuations are outlined in the difference between an agreed rate and a future interest rate, applied to treasury asset and liability management section on pages 66 to 69. a notional principal amount.
+The settlement, which generally occurs at the start of the contract period, is the discounted present value of the Derivative instruments are contracts whose value is derived from one or payment that would otherwise be made at the end of that period.
+more underlying financial instruments or indices dened in the contract.
+They include swaps, forward rate agreements, futures, options and Equity derivatives combinations of these instruments and primarily affect the Groups net The Groups principal equity related contracts are equity and stock index interest income, dealing profits, commissions received and other assets swaps and options including warrants, which are equity options listed and liabilities.
+Notional amounts of the contracts are not recorded on the on an exchange.
+An equity swap is an agreement between two parties balance sheet.
+to exchange periodic payments, based upon a notional principal amount, with one side paying xed or oating interest and the other side paying The Group participates both in exchange traded and OTC derivatives based on the actual return of the stock or stock index.
+An equity option provides the buyer with the Exchange traded derivatives right, but not the obligation, either to purchase or sell a specified stock, The Group buys and sells financial instruments that are traded or cleared basket of stocks or stock index at a specified price or level on or before on an exchange, including interest rate swaps, futures and options on a specified date.
+Holders of exchange traded instruments provide margin daily Credit derivatives with cash or other security at the exchange, to which the holders look The Groups principal credit derivative related contracts include credit for ultimate settlement.
+default swaps and total return swaps.
+A credit derivative is an Over the counter traded derivatives OTC arrangement whereby the credit risk of an asset the reference asset The Group also buys and sells financial instruments that are traded over is transferred from the buyer to the seller of protection.
+the counter, rather than on a recognised exchange.
+A credit default swap is a contract where the protection seller receives These instruments range from commoditised transactions in derivative premium or interest related payments in return for contracting to make markets, to trades where the specic terms are tailored to the requirements payments to the protection buyer upon a dened credit event.
+Credit of the Groups customers.
+In many cases, industry standard documentation events normally include bankruptcy, payment default on a reference is used, most commonly in the form of a master agreement, with individual asset or assets and downgrades by a rating agency.
+The existence of a signed master agreement is A total return swap is an instrument whereby the seller of protection intended to give the Group protection in situations where a counterparty is receives the full return of the asset, including both the income and in default, including the ability to net outstanding balances where the rules change in the capital value of the asset.
+The buyer in return receives of offset are legally enforceable.
+For further explanation of the Groups a predetermined amount.
+policies on netting, see Accounting policies on pages 114 to119.
+A description of how credit derivatives are used within the Group is Foreign exchange derivatives provided on pages 50 and 107.
+The Groups principal exchange rate related contracts are forward foreign exchange contracts, currency swaps and currency options.
+A description of the impact of derivatives under US GAAP is set out on Forward foreign exchange contracts are agreements to buy or sell a page 195. specified quantity of foreign currency, usually on a specified future date Commodity derivatives at an agreed rate.
+A currency swap generally involves the exchange, or The Groups principal commodity related derivative contracts are swaps, notional exchange, of equivalent amounts of two currencies and a options, forwards and futures.
+The main commodities transacted are commitment to exchange interest periodically until the principal base metals, precious metals, energy products covering US natural gas, amounts are re-exchanged on a future date.
+oil and oil-related products and European power and gas.
+Currency options provide the buyer with the right, but not the A description of commodity derivatives is provided on page 63. obligation, either to purchase or sell a xed amount of a currency at a specified exchange rate on or before a future date.
+As compensation for assuming the option risk, the option writer generally receives a premium at the start of the option period.
+Barclays PLC Annual Report 2003 65 Risk Management Treasury Asset and Liability Management An important source of liquidity is our core UK retail deposits, mainly Group Treasury actively manages the financial risks current accounts and savings accounts.
+Although current accounts are relating to the Groups assets and liabilities, which repayable on demand and savings accounts are repayable at short comprise liquidity, funding and funding concentration notice, maintaining a broad base of customers, both numerically and risks, structural interest rate risks and exchange rate risks.
+by depositor type, helps to protect against unexpected uctuations.
+Such accounts form a stable deposit base for the Groups operations Group Treasury policies are set by the Group Treasury Committee which and liquidity needs.
+is chaired by the Group Finance Director.
+Group policy is to centralise retail asset and liability management within Group Treasury to minimise In order to avoid reliance on a particular group of customers or market earnings volatility and meet Group control standards.
+The Group sectors, the distribution of sources and maturity prole of deposits are Treasury Committee sanctions Liquidity and Structural Interest Rate risk also carefully managed.
+Important factors in assuring liquidity are limits across the Group and ensures compliance via a limit and control competitive rates and the maintenance of depositors confidence.
+monitoring structure in collaboration with the local Asset and Liability Such confidence is based on a number of factors including the Groups Committees ALCOs.
+reputation, the strength of earnings and the Groups financial position.
+Liquidity risk management In overseas markets, day to day liquidity is the responsibility of local Liquidity risk is the risk that the Group is unable to meet its payment treasury management in each territory within the parameters set by obligations when they fall due and to replace funds when they are Group Treasury and subject to regular reports to Group Treasury in withdrawn: the consequence of which may be the failure to meet order to maximise the benets of knowledge gained.
+Local asset and obligations to repay depositors and full commitments to lend.
+liability management committees comprising senior local executives and Group Treasury representatives also review liquidity management Group Treasury is responsible for the Groups overall liquidity policy and depending on the size and complexity of the treasury operation.
+control which is managed to ensure that the Group can meet its current and future re-nancing needs at all times and at acceptable costs.
+The Sources of liquidity are regularly reviewed to maintain a wide Groups liquidity position was strong at 31st December 2003. diversication by currency, geography, provider and product.
+Whilst 2003 saw a relatively stable situation, with no notable consequences Liquidity management within the Group has two main strands.
+The first for the Groups liquidity, significant market events over recent years is day to day funding, managed by monitoring future cash ows to including corporate scandals all resulted in a short-term ight to quality ensure that requirements can be met.
+This includes replenishment of in financial markets from which Barclays benefited.
+existing funds as they mature or are withdrawn to satisfy demands for additional borrowings by customers.
+The second is maintaining a The ability to raise funds is in part dependent on maintaining the portfolio of highly marketable assets that can easily be liquidated as Groups credit rating, although, except at extremes, a credit downgrade protection against any unforeseen interruption to cash ow.
+is likely to affect only the price at which funding is available rather than the volume that can be raised.
+Monitoring and reporting take the form of cash ow measurement and projections for the next day, week and month as these are key periods Many factors contribute to the credit rating process including for liquidity management.
+This is based on principles agreed by the UK assessment of management capability, and the quality of the corporate Financial Services Authority.
+Each operation is required to maintain governance and risk management processes.
+The Group considers one sufficient access to funds, in terms of maturing assets and proven of the most important factors in preserving its strong credit rating, capacity to borrow in the money markets.
+which is a core objective, is maintaining a strong capital base and strong capital ratios.
+Additionally, in evaluating the Groups liquidity position, Group Treasury monitors unmatched medium-term assets and the level and type of For further details see contractual cash obligations and commercial undrawn lending commitments, the usage of overdraft facilities and the commitments of the Group on page 69. impact of contingent liabilities such as standby letters of credit and guarantees.
+66 Interest rate risk management The Group exposure, excluding Barclays Capital interest rate risk which Interest rate risk is the risk of loss arising from adverse movements in is disclosed within the preceding Market Risk section, is shown in the the level or volatility of market interest rates.
+The interest rate risk form of an interest rate repricing table see Note 45, page 154 and arising from the UK banking operations is aggregated and managed by includes non-trading hedges.
+This summarises the repricing prole Group Treasury.
+of the Groups assets, liabilities and off-balance sheet exposures at 31st December 2003.
+The table provides the basis for assessment of Overall mismatches of xed rate assets and liabilities are managed in the the sensitivity of the Groups earnings to interest rate movements.
+aggregate by Group Treasury through the use of interest rate swaps and Based on the Group balance sheet as at 31st December 2003, the other derivatives.
+Care is taken to ensure that the management of the Groups expected earnings in 2004 would not be signicantly affected portfolio is exible, as market circumstances and customer requirements either by a hypothetical immediate and sustained 1% increase or can rapidly change the desired portfolio structure.
+Group Treasury can decrease in interest rates.
+exercise some discretion within limits prescribed by Group Market Risk with respect to the risk management of these positions and ows.
+Group risk management activities employing interest rate swaps, currency swaps, basis swaps and other derivatives that are designated as The exposure is then passed to the market mainly via independently hedges.
+The derivative components of the Groups hedging programme managed dealing units within Barclays Capital who treat these are transferred to the market via internal or external counterparties.
+transactions as part of their normal trading activities, and also via third parties.
+Risks arising in the Groups other banking operations are Interest rate swaps and cross currency interest rate swaps that are used managed in a similar way.
+in the management of the non-trading exposures are shown in the table below except for those within Barclays Capital, where the exposure is Management of the retail positions inherent in the Groups balance sheet included in the reported DVaR gures, see page 61.
+These gures are include the structural interest rate risk associated with interest free the weighted average pay xed rates and receive xed rates by maturity deposits, other interest free or xed rate liabilities as well as the Groups date and nominal amount at 31st December 2003.
+The positions arising from these balances are amounts below include 5,320m and 495m, in respect of sterling and managed by the maintenance of assets with xed interest rates over non-sterling basis swaps respectively.
+Basis swaps are swaps where both several years, including loans and advances to customers and debt payable and receivable legs are at variable rates of interest.
+In managing securities, and also variable rate assets.
+Derivatives are also employed to the non-trading exposures relating to capital balances and demand hedge both the structural interest rate risk resulting from interest free deposits, both on-balance sheet and derivative positions are held.
+deposits and the Groups shareholders funds.
+The reported gures do not take account of underlying balance sheet The earnings from retail products generally in personal and corporate items being hedged, the net interest income thereon or their mark to banking can also be adversely affected by customer behaviour and market values.
+movements in the level or volatility of market rates and prices.
+The risk embedded within retail contracts is managed by a specialist Retail Market Risk Unit.
+It is measured using behavioural models and then converted into wholesale swap and option exposure, which is transferred to Group Treasury at an appropriate market rate transfer price.
+This leaves residual risk within the business to the extent that wholesale contracts do not replicate the market or customer behaviour.
+This risk is controlled by limits set by Group Market Risk.
+International banking operations also incur market interest rate risk.
+Policies for managing this risk are agreed between Group Treasury and Group Market Risk and are applied through Asset and Liability Committees ALCOs.
+Guidance on the scope and constitution of ALCOs is provided by Group Market Risk, which maintains regular contact with the businesses on treasury issues.
+Compliance with the policy is controlled via a comprehensive financial risk reporting framework including interest rate gap limits or value at risk limits issued by Group Market Risk.
+These limits allow banking books to be managed by local treasury operations in an orderly fashion, either through Barclays Capital or, where necessary, through local markets.
+Barclays PLC Annual Report 2003 67 Risk Management Treasury Asset and Liability Management Analysis of weighted-average receive xed and pay xed rates by reset maturity date and nominal amount at 31st December 2003 Sterling denominated contracts Non-sterling denominated contracts Pay xed Receive xed Pay xed Receive xed Nominal Average Nominal Average Nominal Average Nominal Average amount rate amount rate amount rate amount rate m % m % m % m % Reset maturity date Not more than three months 1,673 5.25 2,754 5.67 3,403 2.24 593 2.85 Over three months but not more than six months 2,696 5.36 946 5.76 152 3.32 268 3.38 Over six months but not more than one year 2,631 5.22 2,854 6.20 2,109 2.51 341 4.38 Over one year but not more than five years 7,097 5.24 24,807 5.17 2,523 5.12 3,347 6.17 Over five years 2,057 5.65 6,286 5.99 1,361 4.52 4,744 6.65 Total 16,154 5.31 37,647 5.44 9,548 3.40 9,293 6.06 Analysis of weighted-average receive variable and pay variable rates by reset maturity date and nominal amount at 31st December 2003 Sterling denominated contracts Non-sterling denominated contracts Receive variable Pay variable Receive variable Pay variable Nominal Average Nominal Average Nominal Average Nominal Average amount rate amount rate amount rate amount rate m % m % m % m % Reset maturity date Not more than three months 12,951 3.19 27,230 3.89 7,460 2.17 8,437 3.55 Over three months but not more than six months 6,041 4.07 13,304 4.20 2,357 2.55 1,162 2.01 Over six months but not more than one year 62 4.12 13 3.65 86 1.53 35 3.10 Over one year but not more than five years Over five years 14 Total 19,054 3.47 40,547 3.99 9,903 2.25 9,648 3.36 The net effect of the derivative positions, in isolation, on net interest income was a credit of 240m 2002: 246m.
+This included credits of 273m 2002: 242m and debits of 33m 2002: credits of 4m for interest rate and exchange rate derivatives respectively.
+Foreign exchange risk management Corporate and retail banking businesses incur foreign exchange risk in the course of providing services to their customers.
+The part of this risk that arises in UK operations is transferred directly to and managed by Barclays Capital as reported in the previous section.
+Group Market Risk allocates modest foreign exchange open position limits to international operations to facilitate the management of customer originated ows.
+Exposures are reported daily to Group Market Risk.
+Throughout 2002 and 2003, aggregate DVaR of these businesses for foreign exchange rate risk was immaterial.
+Management of foreign currency investments Non-trading positions in foreign currencies arise from the currency investments that the Group makes in its overseas businesses.
+Group Treasury manages the funding and nancing of these investments so as to limit the effect of exchange rate movements on the Groups risk asset ratios.
+The principal structural currency exposures of the Group are set out on page 155.
+These positions, together with the currency composition of tiers 2 and 3 capital and minority interests in tier 1 and tier 2 capital, ensure that movements in exchange rates have little impact on the Groups risk asset ratios.
+However, exchange rate movements do have an impact on reserves see Consolidated statement of changes in reserves on page 124.
+With the positions in place at 31st December 2003, a hypothetical increase of 10% in the value of sterling against all currencies would have led to a fall of some 79m in reserves 2002: 36m.
+68 Additional information on liquidity management The tables below give details of the contractual obligations and commercial commitments of the Group as at 31st December 2003.
+Contractual obligations Payments due by period Less than One to Four to After Total one three five five year years years years m m m m m Long-term debt 33,812 2,746 8,138 10,902 55,598 Capital lease obligations 15 17 42 36 110 Operating lease obligations 198 390 347 1,851 2,786 Purchase obligations 273 377 123 73 846 Other long-term liabilities 7 7 Total 34,305 3,530 8,650 12,862 59,347 Included within long-term debt is dated loan capital and debts securities in issue.
+Purchase obligations relate to contracts for the provision of services such as ofce supplies, telecommunications and maintenance and sponsorship agreements where the Bank has entered into legally binding contracts to purchase products or services over a specified period of time.
+Other long-term liabilities relate to obligations relating to the Groups main dened benefit pension plans.
+Amounts are based on current and projected obligations of the plans, performance of plan assets and participant contributions.
+Other commercial commitments Amount of commitment expiration per period Less than One to Four to After Total one three five five amounts year years years years committed m m m m m Acceptances and endorsements 581 90 671 Guarantees and assets pledged as collateral security 20,789 1,750 1,173 884 24,596 Other contingent liabilities 6,455 920 690 362 8,427 Documentary credits and other short-term trade related transactions 352511 359 Forward asset purchases and forward forward deposits placed 72 16 88 Undrawn Note issuance and revolving underwriting facilities Undrawn formal standby facilities, credit lines and other commitments to lend 87,240 15,845 8,684 2,631 114,400 Total 115,489 18,610 10,548 3,894 148,541 Further information on guarantees is provided in Note 61 on page 200.
+Barclays PLC Annual Report 2003 69 Risk Management Management of Other Risks In the corporate centre, the Non-Financial Risk Director exercises In addition to the risks discussed so far, Barclays also faces oversight over the portfolio of non-financial risk across the Group a number of other risks which it groups and manages in accordance with the Group Non-Financial Risk Framework.
+Non-financial risk encompasses The Group Internal Audit function provides an assurance process for operational risk and business risk: non-financial risk control across the organisation to the Board and Operational risk is the risk of direct or indirect impacts resulting from senior management.
+inadequate or failed internal processes or systems or from external Measurement and management of non-financial risk events.
+Major sources of operational risk include: implementation of strategic change, integration of acquisitions, outsourcing of operations, Risk assessment dependence on key suppliers, fraud, error, customer service quality, A consistent approach to the identication and assessment of key risks regulatory compliance, payment systems reliability, IT security, and controls is undertaken across all business units.
+Scenario analysis recruitment, training and retention of staff, and social and and self-assessment techniques are widely used by business environmental impacts.
+management for risk identication and evaluation of control effectiveness and monitoring capability.
+Business management Business risk is the risk of adverse impact resulting from a weak determine whether particular risks are effectively managed within competitive position or from poor choice of strategy, markets, products, business risk appetite or otherwise take remedial action.
+Major potential sources of business risk include: revenue volatility due to factors outside our control: inexible cost Risk event data collection and reporting structures: uncompetitive products or pricing: and structural A standard process is used Group-wide for the recognition, capture, inefficiencies.
+assessment, analysis and reporting of risk events.
+Quantitative information about both internal and external risk events is used to Barclays is expanding its Group-wide commitment to the management analyse scenarios and to validate quantitative risk assessments.
+Barclays will continue to enhance its non-financial practices and methodologies where appropriate and will implement Reporting advanced non-financial risk management to enhance shareholder value Business units are required to report on both a regular and an eventand the quality of customer service.
+The reports include a prole of the key risks to their business objectives, control issues of Group-level signicance, and Responsibility and control of non-financial risks operational risk events losses or incidents.
+Specic reports are Barclays has a Group-wide non-financial risk framework, which is prepared on a regular basis for the Group Risk Oversight Committee, approved by the Board and is consistent with and part of the Group Risk the Board Risk Committee and the Board Audit Committee.
+Board Governance Standards have been established for all key areas of identied risk.
+These standards Economic capital are high-level articulations of the Boards risk control requirements.
+As for other risks, economic capital methodologies have been developed to allocate capital to business units for both operational and business Non-financial risk is subject to management and oversight throughout risks.
+This risk-based capital provides businesses with incentives to the organisation.
+demonstrate implementation of risk reduction practices or policies.
+The prime responsibility for the management of non-financial risk The operational risk economic capital methodology includes the and compliance with Board Standards rests with the businesses and modelling of dominant unexpected risks and adjustments to reect the functional units where the risk arises.
+Front-line non-financial risk business control environment.
+Continued enhancement of this managers are widely distributed throughout the Group in business methodology will support Barclays objective of qualifying for the units.
+They service and support these areas assisting line managers Advanced Measurement Approach under the proposed Basel II Accord.
+Regulatory compliance risk management Business Risk Directors in each business are responsible for the Regulatory compliance risk arises from a failure or inability to comply implementation of and compliance with Group policies.
+with the laws, regulations or codes applicable specically to the financial services industry.
+Non-compliance can lead to fines, public reprimands, Governance and Control Committees in each business monitor risk damage to reputation, enforced suspension of operations or, in extreme management and control effectiveness.
+cases, withdrawal of authorisation to operate.
+Board Governance Standard owners have Group-wide responsibility The Group is subject to extensive supervisory and regulatory regimes for setting policy and providing expert advice to improve the in the UK, elsewhere in Europe, the US, the Asia-Pacic region and management of non-financial risk by business managers.
+The standard in the other countries around the world in which it operates.
+Effective owners are generally the Group functional units with the relevant management of regulatory compliance risk is a key business line expertise.
+For example, Group Human Resources own the people risk management accountability.
+It is the primary responsibility of business standard, Group Compliance the regulatory compliance standard and management to conduct business in accordance with applicable Group Finance the financial reporting standard.
+regulations and with an awareness of compliance risk.
+The Group Compliance Director is responsible for formulating and communicating a risk control framework for the management of compliance risk and for monitoring a reporting framework to assist business management in discharging its responsibility.
+70 Legal risk management Effective management of legal risk is a key business line management accountability.
+It is the primary responsibility of business management to conduct business in accordance with applicable laws and with an awareness of legal risk.
+Legal risk may arise in a number of ways, primarily: Barclays businesses may not be conducted in accordance with applicable laws: contractual arrangements may either not be enforceable as intended or may be enforced against Barclays in an adverse way: the intellectual property of Barclays such as its trade names may not be adequately protected: and Barclays may be liable for damages to third parties harmed by the conduct of its business.
+The Group identies and manages legal risk through the effective use of its internal and external legal advisers.
+The Group General Counsel is responsible for formulating and communicating a risk control framework for the management of legal risk and for monitoring a reporting framework to assist business management in discharging its responsibility.
+Tax risk management This is the risk of loss or increased charges associated with changes in, or errors in the interpretation of, taxation rates or law.
+Responsibility for control of this lies with the Group Taxation Director, reporting to the Group Finance Director, and systems are in place to identify and manage this risk.
+This includes taking external advice as necessary.
+The businesses are advised of their obligations to comply with tax and reporting requirements.
+Whilst managed centrally, taxation staff are located within the business areas, in the UK and overseas, where this adds to the effectiveness of risk management.
+Barclays PLC Annual Report 2003 71 Section 3 Results 73 Financial Data Barclays PLC 114 Consolidated Accounts Barclays PLC 114 Accounting policies 76 Business Description 119 Accounting presentation 120 Consolidated profit and loss account 121 Statement of total recognised gains and losses 82 Financial Review 122 Consolidated balance sheet 82 Introduction 124 Consolidated statement of changes in reserves 83 Financial performance 2003 125 Consolidated cash ow statement 84 Results by nature of income and expense 126 Parent company accounts 90 Analysis of results by business 127 Notes to the accounts 96 Average balance sheet 100 Total assets and liabilities 205 SEC Form 20-F Cross Reference 100 Capital resources and Other Information 102 Deposits 102 Short-term borrowings 207 Glossary 103 Securities 104 Critical accounting estimates 208 Barclays Bank PLC data 106 Off balance sheet arrangements 217 US GAAP Financial Data 108 Other Information 108 Economic and monetary union 218 Reconciliation of Economic profit 108 International Financial Reporting standards 108 Supervision and regulation 110 Risk factors 219 Shareholder Information 219 Dividends 112 Auditors Reports 220 Trading market for ordinary shares of Barclays PLC 221 Shareholdings at 31st December 2003 222 Memorandum and Articles of Association 223 Taxation 225 Exchange controls and other limitations affecting security holders 225 Documents on display 225 Shareholder enquiries 226 Group Senior Management and Principal Ofces 72

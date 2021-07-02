@@ -1,0 +1,63 @@
+Financial review Financial review Financial review of 2010 Risks and risk management Trends, risks and opportunities Risks and risk management ARM has a robust risk management process that follows a sequence of risk identification, assessment of probability and impact, and assigns an owner to manage mitigation activities.
+ARMs risks are managed within a systematic process of ARMs ongoing operations may mitigate either the impact risk identification and assessment.
+As appropriate, risks or probability of the risk.
+However, there can be some level are assigned owners.
+An action plan is then developed of residual risk, and the risk owner determines the extent to to counter remaining residual elements of the risk and to which the residual risk is at an acceptable level, or whether further reduce the impact and probability of the risk.
+Residual risks, that are not at an acceptable level, are required to have an action plan that A register is kept of all corporate risks and is monitored by mitigate or further reduce the impact and or likelihood of the the risk review committee, chaired by Mike Muller, Chief risk occurring.
+Risk management action plans are managed Technology Officer.
+The executive committee, the audit within the relevant operational plans of the divisions and committee and the board ensure that the risk management functions.
+The risk review committee typically meets on a quarterly Corporate Risk Register basis to review the Corporate Risk Register and identify Corporate risks are identified and assessed within the other risks that need to be incorporated.
+The risk owner Corporate Risk Register.
+The Corporate Risk Register is required to demonstrate that residual risks are being includes a description of the risk, identifies the owner, the appropriately mitigated via the operational plans.
+inherent Probability and Impact of that risk occurring, ARMs Audit assurance current processes and control activities, remaining residual risk and the planned activities to further mitigate it.
+ARMs internal audit function regularly audits the Groups compliance to its policies, processes and procedures, Risk review process including international standards and regulations.
+The Common business risks and company-specific risks have programmes of audits provide assurance that risk been examined for relevance to ARM.
+Relevant risks are management activities and policies are operating effectively.
+entered onto a risk review register and given an owner.
+Risks are classified against impact assessment criteria and probability assessment criteria.
+Risk model Corporate Risk Register Description Management Operational Plans New risk Residual risk Owner Residual Risk Activities to mitigate risk Impact Action Plan Probability ARM Holdings plc Annual Report 2010 35 Financial review Financial review of 2010 Risks and risk management Trends, risks and opportunities Licensing: slowing growth in the semiconductor industry Trends Risks Opportunities As industry growth slows companies About half of ARMs revenue comes Saving cost increases a companys look for other ways to grow, such as from direct sales to semiconductor profitability, even as revenue growth consolidating with other companies companies.
+ARM demonstrates to our to reduce costs.
+In 2010, there were semiconductor companies, then customers how further utilising several examples of ARMs customer ARM may have fewer customers to ARM technology can reduce costs base consolidating either through sell to.
+ARM is exposed to a range of across their divisions.
+In consolidating acquisition of entire companies or markets including wireless handsets companies, ARM technology is one company acquiring the division and microcontrollers.
+Consolidation often a standard both companies of another.
+An example in 2010 in these parts of the industry could can integrate around.
+None of the was the merger between Renesas represent a loss to ARMs future consolidation we have seen to date and NEC.
+has had a meaningful impact on ARMs licensing opportunity.
+Technology companies can use ARM is developing more functionally ARM has a rich portfolio of patents their patent portfolios to generate capable products and our that is growing as we develop new additional revenue streams.
+The technology is becoming more widely technology each year.
+These patents majority of patent disputes are deployed in a broad range of end are useful not only in defending resolved with companies licensing markets.
+Having a more capable ARM technology, but also as their technology to each other either product increases the risk of patent potential currency in cross-licensing as a one-off payment or as part of infringement, and our success agreements with other major a cross-licensing deal.
+For example, may encourage a patent owner to technology developers.
+From time we have recently seen NVIDIA license make a claim against ARM or one to time ARM has entered into patent their graphics patents to Intel.
+Mobile: convergence of smartphones and laptops Trends Risks Opportunities Smartphones are getting smarter The main processor in a laptop ARM processor-based chips for and laptops are getting smaller is typically based on the x86 mobile computing are significantly and more portable, and we are architecture.
+It has been announced lower-cost and lower-power than seeing new mobile computing that smaller and lower-power x86- products available based on x86.
+This is creating based chips are being developed ARMs licensees have already an opportunity for smartphone that will be suitable for the main announced chips that are suitable technology to cross-over into laptops processor in a smartphone.
+There for mobile computers, including and laptop technology to crossis therefore competition from large tablets, E-book readers and over into smartphones.
+Consumers companies that have demonstrated netbooks.
+The ARM Partnership is want portable products that keep advanced technology and wellworking with software companies them connected to their social and funded marketing strategies.
+They and OEMs to ensure that a business networks, have an all-day are capable of reducing ARMs complete ecosystem of PC-class battery life and are simple to use.
+market share in smartphone software is available, and that our application processors and hindering shared experience in developing any market share gains that might portable consumer products be made by ARM licensees in enables a new market of low-cost mobile computing.
+In addition mobile computers contain 3-5 chips that can incorporate ARM processorbased technology, further increasing the opportunity for ARM royalty revenues.
+36 ARM Holdings plc Annual Report 2010 Financial review Non-mobile: competing in microcontrollers Trends Risks Opportunities Although growing strongly, in It could be difficult for ARM to be ARM believes that it can capture 2010 ARM had only about 10% successful in the microcontroller a significant proportion of the market share of the six billion market.
+ARM will need to displace microcontroller MCU market as unit microcontroller market.
+This many established in-house processor demonstrated by recent strong market is characterised by a large designs.
+ARM has invested a unit growth rate.
+ARM processors number of proprietary processor lot of effort and cost to achieve are already 30% of the 32-bit architectures, being developed by modest penetration to date.
+As the MCU market and our strategy is to many semiconductor companies, microcontroller chips are low-cost, develop technology that enables who sell very low-cost chips into a the royalty revenue per device is also companies currently using 8- and highly fragmented end-market.
+16-bit MCUs to migrate to ARMbased chips.
+The Cortex-M processor family was specifically developed for the MCU market and, by the end of 2010, had been licensed more than 80 times.
+In addition, the ARM community is working to ensure that as well as a broad range of ARM processor-based chips, all the software and software tools are available for end customers using established microcontroller distributors.
+Beyond processors: outsourcing by semiconductor companies Trends Risks Opportunities As semiconductor manufacturing Currently, most major chip ARM is a proven supplier of has become increasingly expensive, companies develop their physical processor technology to most most chip companies are IP using their in-house teams.
+Even of the major chip companies in considering whether to outsource for companies that have outsourced the world.
+We have developed their manufacturing facilities to manufacturing, the rate at which the most advanced physical IP specialist foundries.
+This creates a they want to license in physical IP is technology and we were market new opportunity for chip companies unclear.
+The foundries may choose leaders in the physical IP market to license in their physical IP R&D.
+to develop the physical IP.
+Currently this is a small As all chips require physical IP add more value to their customers market that we believe will grow technology, this could be a larger and help create lock-in by making over the medium-term as more market than processors.
+it harder for the customer to change major semiconductor companies foundry.
+There are also other physical outsource their manufacturing.
+IP suppliers who compete in this ARM can demonstrate significant market, some with a similar scale cost savings for our customers and scope as ARM.
+if they license physical IP from ARM: and with the combination of advanced physical IP and processor technology we have an unmatched offering.
+To view the Annual Report online visit www.
+com annualreport10 ARM Holdings plc Annual Report 2010 37

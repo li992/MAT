@@ -1,0 +1,43 @@
+Notes to the financial statements for the year to 31 December 2005 Accounting Policies a Fair value hedge Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recorded in the income statement, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+b Cash flow hedge The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges is recognised in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+Amounts accumulated in equity are recycled through the income statement in periods when the hedged item affects profit or loss.
+However, when the forecast transaction that is hedged results in the recognition of a non-financial asset or liability, the cost of the asset or liability is adjusted by the gains or losses previously held in equity.
+When a hedging instrument expires or is sold, or when a hedge no longer meets the criteria for hedge accounting, any cumulative gain or loss existing in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in the income statement.
+When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was reported in equity is immediately transferred to the income statement.
+c Net investment hedge Hedges of net investments in foreign operations are accounted for similarly to cash flow hedges.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in equity: the gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+Gains and losses accumulated in equity are included in the income statement when the foreign operation is disposed of.
+d Derivatives that do not qualify for hedge accounting Certain derivatives, whilst providing effective economic hedges under the Group's treasury policy are not designated as hedges.
+Changes in the fair value of any derivative instruments that are not designated for hedge accounting are recognised immediately in the income statement.
+Fair value estimation The fair value of financial instruments traded in active markets is based on quoted market prices at the balance sheet date.
+The fair value of interest rate swaps is calculated as the present value of their estimated future cash flows.
+The fair value of forward foreign exchange contracts is determined using forward foreign exchange market rates at the balance sheet date.
+The carrying values of trade receivables and payables approximate to their fair values.
+The fair value of financial liabilities is estimated by discounting the future contractual cash flows at the current market interest rate that is available to the Group for similar financial instruments.
+Operating leases As lessee Payments made under operating leases are charged to the income statement on a straight line basis over the period of the lease.
+Benefits received and receivable as an incentive to enter into an operating lease are also spread on a straight line basis over the period of lease.
+As lessor Operating lease rental income arising from leased assets is recognised in the income statement on a straight line basis over the period of the lease.
+64 John Wood Group PLC Notes to the financial statements for the year to 31 December 2005 Finance leases As lessee Assets held under finance leases are capitalised as PP&E and depreciated over the shorter of the lease term and the asset's useful life.
+The capital element of the future lease obligation is recorded as a liability, with the interest element charged to the income statement over the period of the lease so as to produce a constant rate of charge on the capital outstanding.
+As lessor Finance lease rental income arising from leased assets is recognised in the income statement so as to produce a constant rate of return on the net cash investment.
+Amounts receivable under finance leases represent the outstanding amounts due under these agreements less amounts allocated to future periods.
+Retirement benefit liabilities The Group operates a defined benefit scheme and a number of defined contribution schemes and these are accounted for under IAS 19 'Employee Benefits'.
+The liability recognised in respect of the defined benefit scheme represents the present value of the defined benefit obligations less the fair value of the scheme assets.
+The assets of this scheme are held in separate trustee administered funds.
+The defined benefit scheme's assets are measured using market values.
+Pension scheme liabilities are measured annually by an independent actuary using the projected unit method and discounted at the current rate of return on a high quality corporate bond of equivalent term and currency to the liability.
+The increase in the present value of the liabilities of the Group's defined benefit pension scheme expected to arise from employee service in the period is charged to operating profit.
+The expected return on the scheme assets and the increase during the period in the present value of the scheme's liabilities arising from the passage of time are included in finance income expense.
+Actuarial gains and losses are recognised in the Group statement of recognised income and expense in full in the period in which they occur.
+The defined benefit scheme's surpluses, to the extent that they are considered recoverable, or deficits are recognised in full and presented on the face of the balance sheet.
+The Group's contributions to defined contribution schemes are charged to the income statement in the period to which the contributions relate.
+Provisions Provision is made for the estimated liability on all products and services still under warranty, including claims already received, based on past experience.
+Other provisions are recognised where the Group is deemed to have a constructive liability.
+Share based charges relating to employee share schemes The Group has a number of employee share schemes:- i Share options granted under Executive Share Option Schemes 'ESOS' are granted at market value.
+A charge is booked to the income statement as an employee benefit expense for the fair value of share options expected to be exercised, accrued over the vesting period.
+The corresponding credit is taken to retained earnings.
+The fair value is calculated using an option pricing model.
+ii Share options granted under the Long Term Retention Plan 'LTRP' are granted at par value.
+The charge to the income statement for LTRP shares is also calculated using an option pricing model and as with ESOS grants, the fair value of the share options expected to be exercised is accrued over the vesting period.
+The corresponding credit is also taken to retained earnings.

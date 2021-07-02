@@ -1,0 +1,6 @@
+BAT_NNP Report_NNP 028-084_CD ._.
+qxd_NN 18_CD 3_CD 05_CD 17:53_CD Page_NNP 70_CD 70_CD British_JJ American_JJ Tobacco_NNP Directors_NNS Report_NNP and_CC Accounts_NNPS 2004_CD Principal_NN associated_VBN undertakings_NNS Latest_JJS Total_JJ issued_VBN %_NN published_VBN capital_NN shares_NNS information_NN m_NN held_VBN Europe_NNP Denmark_NNP Skandinavisk_NNP Tobakskompagni_NNP AS_NNP Class_NNP I_NNP Ordinary_NNP 30.06.04_CD 1_CD tobacco_NN Class_NNP II_NNP Ordinary_NNP 35_CD 26_CD America-Pacic_JJ United_NNP States_NNPS of_IN America_NNP Reynolds_NNP American_NNP Inc._NNP ._.
+Common_NNP Stock_NNP 31.12.04_CD 42_CD tobacco_NN Preferred_NNP Stock_NNP Asia-Pacic_NNP India_NNP ITC_NNP Ltd._NNP ._.
+Ordinary_JJ 31.12.04_CD 30_CD 32_CD tobacco_NN paper_NN and_CC packaging_NN hotels_NNS VST_NNP Industries_NNPS Ltd._NNP ._.
+As_IN at_IN 31_CD December_NNP 2004_CD ,_, Reynolds_NNP American_NNP Inc._NNP had_VBD issued_VBN 147,364,450_CD shares_NNS US$_$ 0.0001_CD Common_NNP Stock_NNP ,_, of_IN which_WDT the_DT Group_NNP held_VBD 61,952,762_CD ._.
+As_IN at_IN 31_CD December_NNP 2004_CD ,_, Reynolds_NNP American_NNP Inc._NNP had_VBD issued_VBN 1,000,000_CD shares_NNS US$_$ 0.01_CD Preferred_NNP Stock_NNP ,_, in_IN which_WDT the_DT Group_NNP held_VBD no_DT interest_NN ._.

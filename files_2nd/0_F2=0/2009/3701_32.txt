@@ -1,0 +1,55 @@
+| Group financial statements Parent company accounting policies Accounting convention Intangible assets These financial statements have been prepared under the historical cost Intangible assets, comprising software, are stated at cost less convention, as modified by the revaluation of certain tangible fixed assets accumulated amortisation and impairment losses.
+They are amortised and derivative contracts which are held at fair value, in accordance with on a straight-line basis over their estimated useful lives which range the Companies Act 2006 and applicable accounting standards UK GAAP.
+The principal accounting policies, which have been consistently applied, Tangible fixed assets are as set out below.
+Plant and machinery fixed assets are depreciated on a straight-line basis to their estimated residual values over their estimated useful lives which FRS 8 revised has been adopted in these accounts for the first time range from three to six years.
+and has resulted in additional disclosure of transactions with subsidiaries which are not wholly owned.
+Investments in group and other undertakings Investments in subsidiary undertakings are stated at cost less any Dividends provision for impairment in value and include the fair value at the date of Dividends payable are recognised as a liability in the period in which grant of share options awarded to employees of subsidiary undertakings, they are fully authorised.
+Dividend income is recognised when the net of amounts recovered as management charges.
+shareholders right to receive payment has been established.
+Other investments are stated at cost less any provision for impairment Pensions in value.
+The Company operates and contributes to a multi-employer defined benefit pension scheme.
+Contributions and pension costs are Operating leases apportioned across the scheme as a whole and assessed in accordance Operating lease payments for assets leased from third parties are with the advice of qualified actuaries.
+The scheme is closed to new charged to the profit and loss account on a straight-line basis over members and has a high proportion of deferred and pensioner members the term of the lease.
+from businesses that no longer participate in the scheme.
+The Company 107 is therefore not able to identify its share of underlying assets and Provisions liabilities of the scheme on a reasonable and consistent basis and in A provision is recognised when the Company has a present legal or accordance with the multi-employer exemption contained in FRS 17, constructive obligation as a result of a past event and it is probable that Retirement Benefits, the scheme has been accounted for as if it was settlement will be required of an amount that can be reliably estimated.
+The charge to the profit and loss account therefore reflects payments for the year.
+Share capital Ordinary share capital is classified as equity.
+Financial liabilities and equity Contributions to defined contribution schemes are charged to the profit instruments are classified according to the substance of the contractual and loss account in the period the contributions are payable.
+An equity instrument is any contract that evidences a residual interest in the assets of the Company after The Company also makes contributions for certain employees to deducting all of its liabilities.
+individual personal pension and stakeholder schemes.
+Contributions are charged to the profit and loss account in the year to which they relate.
+Preference share capital is classified as a liability if it is redeemable on a specific date or at the option of the preference shareholders or if Deferred taxation dividend payments are not discretionary.
+Dividends on preference share Deferred tax is recognised in respect of all timing differences that capital classified as liabilities are recognised in the profit and loss account have originated but not reversed at the balance sheet date, where as interest expense.
+transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in the future have occurred at the Foreign currencies balance sheet date.
+The functional currency of the Company is sterling.
+Transactions in currencies other than the local currency are translated at the exchange A net deferred tax asset is recognised as recoverable when, on the basis rate ruling at the date of the transaction.
+Monetary assets and liabilities of all available evidence, it can be regarded as more likely than not that denoted in non-functional currencies are retranslated at the exchange there will be suitable taxable profits from which the future reversal of rate ruling at the balance sheet date.
+underlying timing differences can be deducted.
+All exchange differences arising are taken to the profit and loss account.
+Deferred tax is measured at the tax rates that are expected to apply in the periods in which the timing differences are expected to reverse, In order to manage the Groups exposure to certain foreign exchange based on tax rates and laws that have been enacted or substantively risks, the Company enters into forward contracts and options which are enacted by the balance sheet date.
+Deferred tax has not been discounted.
+accounted for as derivative financial instruments.
+Cobham plc | Annual Report and Accounts 2009 | Group financial statements Parent company accounting policies continued Derivative financial instruments and hedge accounting Other financial instruments Derivatives are initially recognised at fair value on the date a derivative Amounts receivable from and owed to subsidiaries are recognised at contract is entered into and are subsequently re-measured at their fair their nominal value, receivables are reduced by appropriate allowances value.
+The method of recognising the resulting gain or loss depends on for estimated irrecoverable amounts.
+whether the derivative is designated as a hedging instrument, and if so, the nature of the item being hedged.
+Interest-bearing bank loans and overdrafts are recorded at the proceeds received, net of direct issue costs.
+Finance charges are accounted for The Companys activities expose it primarily to the financial risks of on an accruals basis in the profit and loss account using the effective changes in foreign currency exchange rates and interest rates.
+The interest rate method and are added to the carrying amount of the Company uses foreign exchange forward contracts and interest rate instrument to the extent that they are not settled in the period in which swap contracts to reduce these exposures.
+The Company does not they arise.
+use derivative financial instruments for speculative purposes.
+Share-based payments The Company documents at the inception of an interest rate swap For grants made to employees of Cobham plc under the Companys transaction the relationship between hedging instruments and hedged share-based payment schemes, amounts which reflect the fair value of options awarded as at the time of grant are charged to the profit and items, as well as its risk management objectives and strategy for loss account over the vesting period.
+The fair value of options awarded undertaking various hedge transactions.
+The Company also documents to employees of subsidiary undertakings, net of amounts recovered its assessment, both at hedge inception and on an ongoing basis, of as management charges, is recognised as a capital contribution and whether the derivatives used in hedging transactions are highly effective recorded in investments.
+in offsetting changes in fair values or cash flows of hedged items.
+The costs of awards made to employees of Cobham plc under cash Hedge accounting is not used to account for foreign exchange settled share-based payment schemes are measured initially at the grant derivatives entered into to mitigate foreign exchange impacts of trading date and expensed over the vesting period.
+The liability is re-measured in non-local currencies and movements in fair values are shown at each balance sheet date up to and including the settlement date with separately in the profit and loss account as part of operating profit.
+108 changes in fair value recognised through the profit and loss account.
+Foreign exchange derivatives entered into to mitigate foreign exchange impacts arising on the acquisition of fixed assets are accounted for The valuation of the options utilises a methodology based on the as cash flow hedges.
+Black-Scholes model, modified where required to allow for the impact of market related performance criteria and taking into account all Fair value hedges non-vesting conditions.
+Changes in fair values of derivatives that are designated and qualify as fair value hedges are recorded in the profit and loss account, together with any changes in the fair values of the hedged asset or liability that are attributable to the hedged risk.
+The gains or losses relating to interest rate swaps hedging fixed rate borrowings are recognised in finance income and expense in the profit and loss account.
+Cash flow hedges The effective portion of changes in fair values of derivatives that are designated and qualify as cash flow hedges are recognised in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in the profit and loss account.
+Amounts accumulated in equity are recycled to the profit and loss account in the periods when the hedged item affects profit or loss.
+When a hedging instrument expires or is sold, or when a hedge no longer meets the criteria for hedge accounting, any cumulative gain or loss existing in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in the profit and loss account.
+If a hedged transaction is no longer expected to occur, the net cumulative gain or loss recognised in equity is immediately transferred to the profit and loss account for the period.

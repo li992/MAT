@@ -1,0 +1,38 @@
+159711 Reed Report 55-102 7 3 06 12:04 Page 98 98 Combined financial statements Notes to the combined financial statements For the year ended 31 December 2005 33 Reconciliations to previous GAAP The combined financial statements have been prepared in accordance with International Financial Reporting Standards IFRS.
+The adoption of these standards has resulted in changes to the accounting policies previously applied under UK GAAP for the 2004 financial year previous GAAP.
+The effects of differences to previous GAAP on net profit for the year ended 31 December 2004 and combined shareholders equity as at that date, are summarised below.
+2004 2004 Year ended 31 December Note m am Net profit under previous GAAP 305 448 Adjustments Acquired goodwill and intangible assets i 151 223 Pensions ii 27 40 Share based remuneration iii 48 71 Deferred taxation iv 80 118 Net profit under IFRS 461 678 2004 2004 As at 31 December Note m am Shareholders' equity under previous GAAP 2,267 3,196 Adjustments Acquired goodwill and intangible assets i 215 303 Pensions ii 405 571 Deferred taxation iv 643 907 Equity dividends v 248 350 Other 18 25 Shareholders' equity under IFRS 1,664 2,346 i Acquired goodwill and intangible assets IFRS3 Business Combinations prohibits the amortisation of acquired goodwill.
+Goodwill amortisation of 206m a304m charged under previous GAAP in 2004 is therefore reversed under IFRS.
+On the balance sheet, the net book amount of goodwill under IFRS was 262m a370m higher as at 31 December 2004 than under previous GAAP.
+This higher amount reflects the reversal of the previous GAAP amortisation charge for 2004, together with an increase of 68m a96m in the amount of goodwill arising on 2004 acquisitions under IFRS due to the recognition of additional deferred taxation liabilities see below, less the effects of currency translation on adjustments.
+IAS38 Intangible Assets requires more detailed evaluations to be made of acquired intangible assets and their estimated useful lives than under previous GAAP.
+Estimated useful lives of acquired intangible assets under IFRS are typically shorter than under previous GAAP, although in certain cases may be considered indefinite.
+The adoption of IAS38 gives rise to a net increase in the amortisation charge in respect of acquired intangible assets of 55m a81m.
+Other adjustments to goodwill and intangible assets on the balance sheet at 31 December 2004 are due to the effects of currency translations on the adjustments described above.
+There is no retrospective restatements of the acquired goodwill and intangible asset values as at the 1 January 2004 transition date.
+ii Pensions The accounting for the costs of defined benefit pension schemes and other post-retirement employee benefits under IFRS is governed by IAS19 Employee Benefits, which differs from previous GAAP in that the net expense is determined using assumptions that are based on market conditions at the start of each financial year, principally in relation to salary 159711 Reed Report 55-102 7 3 06 12:04 Page 99 Reed Elsevier Annual Reports and Financial Statements 2005 99 33 Reconciliations to previous GAAP continued inflation, investment returns and discount rates.
+Similarly, the assets and liabilities of defined benefit pension schemes and other employee benefit schemes are determined based on market conditions at the balance sheet date.
+Under previous GAAP, determinations were made based on long run actuarial assumptions.
+The adoption of IAS19 valuation methodologies increases the expense for employee benefits in 2004 by 27m a40m compared to the amount reported under previous GAAP.
+Net pension obligations calculated using the IAS19 valuation methodologies were 321m a453m as at 31 December 2004, which compares with a net pension prepayment less accrued liabilities under previous GAAP of 84m a118m.
+Reed Elsevier is adopting the approach available under IAS19 to reflect all actuarial gains and losses in the balance sheet in full and to report the amounts of such gains and losses arising each year through the Statement of Recognised Income and Expense.
+Actuarial losses of 74m a109m arising in the year ended 31 December 2004 are reflected in the amount of net pension obligations at the balance sheet date.
+iii Share based remuneration For share based remuneration, the expense under IFRS2 Share Based Payment is determined based on the fair value of such payments at the date of grant, spread over the vesting period taking account of the number of shares that are expected to vest.
+Under previous GAAP, only the intrinsic value was expensed, i. e. where options are granted over shares with an exercise price below the market price of the shares at the date of grant.
+The charge under IFRS2 in 2004 is 48m a71m higher than the 11m a16m charge under previous GAAP.
+There is no effect on net assets as the expense is offset by an equivalent amount credited to reserves.
+iv Deferred taxation IAS12 Income Taxes requires deferred taxation to be provided for nearly all differences between the balance sheet amounts of assets and liabilities and their corresponding tax bases.
+Under previous GAAP, deferred tax was provided for timing differences only and deferred tax assets were not recognised unless realisable in the near term.
+Net deferred tax liabilities as at 31 December 2004 are 643m a907m higher under IFRS than under previous GAAP.
+This relates principally to deferred tax of 785m a1,107m on the difference between the balance sheet amount of acquired intangible assets and the historic tax bases of the underlying assets, partly offset by deferred tax assets in respect of net pension obligations.
+The goodwill on acquisition is grossed up by the amount of deferred tax liabilities on acquired intangible assets, other than in respect of intangible assets acquired prior to the transition date of 1 January 2004.
+Under transition rules, the deferred tax liability as at the 1 January 2004 transition date in respect of intangible assets acquired prior to that date is charged directly to reserves and not added to goodwill.
+The tax charge under IFRS for 2004 is 80m a118m lower than under previous GAAP due to the unwinding of deferred tax liabilities and the deferred tax effects of other IFRS adjustments.
+v Dividends payable Under previous GAAP, dividends were provided for in the year in respect of which they were declared or proposed by the directors.
+Under IAS10 Post Balance Sheet Events, dividends are only provided for when declared.
+Current liabilities have been reduced by 248m a350m as at 31 December 2004 in respect of proposed dividends not formally declared as at the balance sheet date.
+vi Joint ventures Under IFRS, the equity accounted share of joint ventures results is included within operating profit on a post-tax basis.
+Under previous GAAP, the equity share of the taxes in joint ventures was included in taxation and not deducted within operating profit.
+The effect is to reduce both the operating profit and taxation under IFRS by 7m a10m.
+There is no effect on net profit and shareholders equity.
+As at the IFRS transition date of 1 January 2004, shareholders equity was 788m a1,119m lower under IFRS than under previous GAAP due to additional deferred tax liabilities of 686m a974m, additional net pension obligations of 310m a440m and other additional liabilities of 18m a26m, partly offset by reversal of proposed dividends of 226m a321m.

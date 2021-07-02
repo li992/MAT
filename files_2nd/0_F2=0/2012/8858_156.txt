@@ -1,0 +1,35 @@
+129 Accounting Policies for the year ended 31st March 2012 Cash and cash equivalents Cash and deposits comprise cash at bank and in hand, including short term deposits with a maturity date of three months or less from the date of acquisition.
+The group and parent company routinely use short term bank overdraft facilities, which are repayable on demand, as an integral part of their cash management policy.
+Therefore cash and cash equivalents in the cash flow statements are cash and deposits less bank overdrafts.
+Offset arrangements across group businesses have been applied to arrive at the net cash and overdraft figures.
+Derivative financial instruments The group and parent company use derivative financial instruments, in particular forward currency contracts and currency swaps, to manage the financial risks associated with their underlying business activities and the financing of those activities.
+The group and parent company do not undertake any trading activity in derivative financial instruments.
+Derivative financial instruments are measured at their fair value.
+Derivative financial instruments may be designated at inception as fair value hedges, cash flow hedges or net investment hedges if appropriate.
+Derivative financial instruments which are not designated as hedging instruments are classified under IFRS as held for trading, but are used to manage financial risk.
+Changes in the fair value of any derivative financial instruments that are not designated as or are not determined to be effective hedges are recognised immediately in the income statement.
+Changes in the fair value of derivative financial instruments designated as fair value hedges are recognised in the income statement, together with the related changes in the fair value of the hedged asset or liability.
+Fair value hedge accounting is discontinued if the hedging instrument expires or is sold, terminated or exercised, the hedge no longer meets the criteria for hedge accounting or the designation is revoked.
+Changes in the fair value of derivative financial instruments designated as cash flow hedges are recognised in equity, to the extent that the hedges are effective.
+Ineffective portions are recognised in the income statement immediately.
+If the hedged item results in the recognition of a non-financial asset or liability, the amount recognised in equity is transferred out of equity and included in the initial carrying amount of the asset or liability.
+Otherwise, the amount recognised in equity is transferred to the income statement in the same period that the hedged item is recognised in the income statement.
+If the hedging instrument expires or is sold, terminated or exercised, the hedge no longer meets the criteria for hedge accounting or the designation is revoked, amounts previously recognised in equity remain in equity until the forecast transaction occurs.
+If a forecast transaction is no longer expected to occur, the amounts previously recognised in equity are transferred to the income statement.
+For hedges of net investments in foreign operations, the effective portion of the gain or loss on the hedging instrument is recognised in equity, while the ineffective portion is recognised in the income statement.
+Amounts taken to equity are transferred to the income statement when the foreign operations are sold.
+Other financial instruments All other financial instruments are initially recognised at fair value plus transaction costs.
+Subsequent measurement is as follows: Unhedged borrowings are measured at amortised cost.
+Available-for-sale investments are investments in equity instruments that do not have a quoted market price in an active market and whose fair value cannot be measured reliably and so are measured at cost.
+All other financial assets and liabilities, including short term receivables and payables, are measured at amortised cost less any impairment provision.
+Taxation Current and deferred tax are recognised in the income statement, except when they relate to items recognised directly in equity when the related tax is also recognised in equity.
+Current tax is the amount of income tax expected to be paid in respect of taxable profits using the tax rates that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amount in the balance sheet.
+It is provided using the tax rates that are expected to apply in the period when the asset or liability is settled, based on tax rates that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+No deferred tax asset or liability is recognised in respect of temporary differences associated with investments in subsidiaries, branches and associates where the group is able to control the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+Provisions and contingencies Provisions are recognised when the group has a present obligation as a result of a past event and a reliable estimate can be made of a probable adverse outcome, for example warranties, environmental claims and restructurings.
+Otherwise, material contingent liabilities are disclosed unless the transfer of economic benefits is remote.
+Contingent assets are only disclosed if an inflow of economic benefits is probable.
+The parent company considers financial guarantees of its subsidiaries borrowings and precious metal leases to be insurance contracts.
+These are treated as contingent liabilities unless it becomes probable that it will be required to make a payment under the guarantee.

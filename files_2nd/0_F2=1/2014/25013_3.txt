@@ -1,0 +1,116 @@
+08 ICAP plc Annual Report 2014 Strategic report Our business model How we create value for our customers Trade life cycle Venue Price to Register the Credit Information Submission of Portfolio Portfolio Trade Trade SEF Risk Order and clients client checks services trade data EBS Market EBS Direct ISDX compression reconciliation conrmation aggregation Mitigation Indices trade data i-Swap ICAP ICAP EBS Liquidity Traiana Information Information Reset Optimisation CreditLink TriOptima Traiana Services Global Services BrokerTec ReMatch IIS Broking IIS triReduce triResolve Services Name Matched Exchange EBS Liquidity give-up principal broking Optimisation broking broking give-up Service ICAPs products businesses New trade Pre trade Execution Pre trade transparency is essential in helping market participants make more ICAP provides customers with a choice of trading venues and services to allow informed trading decisions and assess market levels and activity prior to the them to select the execution method appropriate for the liquidity of the product execution of a trade.
+Market participants can trade products via an executing broker or through direct access to ICAPs portfolio of electronic platforms.
+Managing risk through the life cycle of a trade is crucial.
+EBS Liquidity Optimisation addresses the entire FX workow providing customers with the tools needed to Global Broking provides customers with the ability to speak with and execute price end-client business more effectively and maximise the value they retain for trades with an ICAP broker, a particularly valuable service in less liquid or more consistent profitability.
+Traiana CreditLink provides our customers with full credit life cycle management, BrokerTec and EBS Market are the worlds leading global electronic platforms from the legal framework underpinning relationships, directly into active trade and for the trading of fixed income and FX products.
+These central limit order books position monitoring for pre and post trade certainty of clearing.
+provide efficient and effective exchange-like trading solutions to more than 2,800 IIS leverages the Companys unique position in the wholesale financial markets customers in over 50 countries.
+A new platform, EBS Direct, was launched during to provide access to an unrivalled array of OTC market information including highthe year, offering a relationship-based streaming service to a broader customer quality benchmark pricing, live and historic trading and a variety of compliance, base.
+These electronic platforms are built on ICAPs bespoke networks connecting risk and research solutions.
+Pre trade Transparency and market information Execution Venues and opportunities for trade execution Post trade portfolio rebalancing Support to other infrastructure portfolio risk reduction and messaging Governance and Strategic report Financial statements Other information directors report ICAP plc Annual Report 2014 09 ICAP plays a pivotal role in bringing buyers and the product and their specific needs.
+They also sellers together in the global wholesale financial have access to an unrivalled source of financial markets.
+We help our customers manage and markets data.
+Our risk mitigation services help mitigate their risks and provide them with a customers reduce both their operational risk choice of trading venues and methods ranging and market exposure.
+from fully electronic to broker assisted trades.
+We continue to innovate and develop new This allows them to select the most appropriate products and services as the markets and execution method depending on the liquidity of our customers needs evolve.
+Trade life cycle Venue Price to Register the Credit Information Submission of Portfolio Portfolio Trade Trade SEF Risk Order and clients client checks services trade data EBS Market EBS Direct ISDX compression reconciliation conrmation aggregation Mitigation Indices trade data i-Swap ICAP ICAP EBS Liquidity Traiana Information Information Reset Optimisation CreditLink TriOptima Traiana Services Global Services BrokerTec ReMatch IIS Broking IIS triReduce triResolve Services Name Matched Exchange EBS Liquidity give-up principal broking Optimisation broking broking give-up Service ICAPs products businesses New trade Post trade participants in financial markets.
+These platforms facilitate efficient price discovery ICAPs collective post trade businesses help customers reduce both risk and for both manual traders and users who access via automated interfaces.
+market exposure by identifying and removing trade mismatches, unwanted exposures and transactions that no longer have a commercial purpose.
+ICAPs newly formed SEF provides customers with the ability to trade OTC TriOptima and Reset provide a host of different services to market infrastructures derivatives, across the five main asset classes rates, credit, FX, commodities and enabling users of derivatives and bonds to mitigate unwanted risks in their equities in line with the CFTC regulatory framework under the Dodd-Frank Act.
+ISDX is a listing and trading venue for equities and debt instruments, facilitating In addition, TriOptima allows trading counterparties and trade repositories to access to capital and providing a liquid secondary market service.
+reconcile trade details ensuring accurate calculation of risk.
+Traiana increases the efficiency of trading, clearing and settlement and reduces costs by automating links from high speed execution systems to assist in the reconciliation of transactions, thus also allowing for accurate reporting to regulators and clearing houses.
+Pre trade Transparency and market information Execution Venues and opportunities for trade execution Post trade portfolio rebalancing Support to other infrastructure portfolio risk reduction and messaging 10 ICAP plc Annual Report 2014 Strategic report Our business model continued How we execute trades and access clearing ICAP executes or arranges trades on behalf of ICAP also frequently assists market users its customers in one of three ways depending executing multiple transactions simultaneously, on the asset class and market involved.
+which means that more than one of these These methods exist in the electronic and methods may be involved in providing broking businesses.
+customers with their desired outcome.
+Name give-up broking Matched principal broking Exchange broking give-up ICAP identifies and introduces counterparties ICAP enters into simultaneous or nearICAP executes a trade on an exchange in the who have indicated their willingness to trade simultaneous purchase and sale transactions capacity of executing broker on behalf of a with each other, and who have reciprocal of securities between customers and is customer.
+The customers clearing member credit or clearing, and or where two or more responsible for settlement.
+This provides accepts the trade for settlement, at which point customers orders match.
+These counterparties access to clearing and maintains post trade ICAP ceases to be party to the transaction contract directly with each other and or the anonymity.
+Settlement risk to ICAP is minimised and settlement risk transfers.
+This model is relevant clearing house securities depository through use of the delivery versus payment used to broke financial, commodity, equity bearing the settlement obligation as well settlement model where delivery of the traded derivatives and cash equities instruments.
+as the counterparty credit risk themselves.
+instruments, i. e. the change in their ownership, ICAP is a member of the worlds largest Increasingly these trades are novated into occurs at the same time and is dependent derivatives exchanges.
+clearing and ICAP aims to automate the on payment.
+Name give-up broking Matched principal broking Exchange broking give-up Dealer 1 Dealer 2 Dealer 1 Dealer 2 Customer Exchange counterparty ICAP ICAP ICAP execution ICAP ICAP contracts contracts Contract and settlement and settles and settles Clearing Clearing Customer Clearing Counterparty house house clearer house clearer Risk Risk Risk No credit risk or contractual link between Delivery versus payment model minimises ICAP has minimal settlement risk but may be settlement risk.
+Any unmatched positions are ICAP and dealers.
+called to deliver margin to the exchange closed out as soon as reasonably practicable.
+intra-day before the customers clearer accepts the trade.
+Governance and Strategic report Financial statements Other information directors report ICAP plc Annual Report 2014 11 ICAPs electronic capabilities Harmony Post Trade Risk Electronic Markets and Information Euclid Opportunities EBS Market CreditLink Traiana ISDX TriOptima Reset EBS Direct ReMatch BrokerTec triResolve Technology is TR Connect MyTreasury triReduce ICAPture i-Swap at the heart of ICAPination.
+com iLinked ETC our business TradingPro Global Broking ICAP Fusion TrueQuote ICAP Credit ICAP is the leading provider of market infrastructure to the global minimal operational downtime.
+In November 2013, ICAP launched a new financial sector through the provision of trade execution, workow relationship-based streaming service, EBS Direct.
+This new platform and risk mitigation solutions.
+This position has been achieved as a result is delivered through EBS Market user infrastructure and leverages of significant investment in its electronic capabilities over many years.
+existing EBS straight through processing.
+Our technology is connected to, and fully embedded in, the infrastructure ICAPs technology increasingly provides pre and post trade services, of our customers and other market participants.
+Technology constitutes through Reset, TriOptima and Traiana, that are embedded in our a major component of ICAPs cost base, with approximately 25% of customers operational ows.
+During the year, TriOptima and Traiana employees engaged in IT related activities.
+An increasing proportion of enhanced their existing products triResolve and developed new our capital expenditure is utilised in product and technological innovation.
+technological solutions CreditLink to address evolving customer Our technology is developed both in-house and by external partners.
+requirements in a period of regulatory change.
+Global Broking continues We operate technology research and development hubs in New Jersey, to expand its electronic capabilities with the development of ICAP Fusion, Stockholm and Tel Aviv.
+a new portal which is being developed to provide one-stop access to a BrokerTec and EBS Market are the leading electronic platforms for the full range of hybrid and electronic products and services under a single trading of fixed income and FX products.
+These platforms are integral ICAP brand name.
+to the smooth operation of the financial markets, offering exchange-like As evident within the wider financial industry, the threat of cyber attack trading solutions to more than 2,800 customers in over 50 countries.
+is ever evolving in sophistication and scope.
+To mitigate and reduce the Significant ongoing investment is made in these platforms to ensure industry wide risk, ICAP continually enhances the security of its global their continued reliability, robustness and security.
+Over the past five systems.
+We have increased the size and capability of our IT security years, even during periods of extreme volatility, BrokerTec and EBS function globally and have made significant new investments in technical have maintained exceptionally high levels of system performance with and procedural controls.
+Maximise the value of ICAPs unique Our strategy in action combination of businesses.
+ICAP Fusion The new portal ICAPFusion.
+com enables ICAP to In an increasingly fragmented environment, unify and simplify its hybrid and electronic services ICAP Fusion offers opportunities to provide under a single branded product.
+ICAP Fusion aims a single and cost effective view of markets to leverage ICAPs best-in-class businesses enabling ultimately allowing a one-stop shop and trade life those services to be viewed and utilised through cycle capability for the end user, including access one system that is seamlessly distributed to a broad to news and enhanced analytic services.
+in 2013, ICAP Fusion has quickly established a following of more than 1,000 users from 100 institutions globally across multiple asset classes.
+12 ICAP plc Annual Report 2014 Strategic report Our business model continued We encourage ambition and promote ethical conduct organisation design and succession planning to create clarity of roles and Our people responsibilities as well as a clear route to senior management positions for ICAP employs just under 5,000 people in 32 countries.
+We recognise our top performers.
+the importance of investing in our people and ensuring that we have the right mix of experience and skills to support the continued success We have made and will continue to make a significant investment of the business.
+to develop the skills and capabilities of our people and to ensure that every employee is aware of their responsibilities.
+Compliance and risk As at 31 March the board of ICAP plc comprised three executive management training is being delivered to every ICAP employee and directors and five non-executive directors of which one non-executive contractor.
+All staff have received specific training on issues relevant director is female.
+The senior managers of the Company excluding the on the yen Libor investigations.
+In-depth leadership and management board comprised 11 women and 77 men: and the Group employed training has also been provided to over 250 senior managers, reinforcing 1,197 women and 3,743 men.
+cultural values and building best business practice.
+ICAPs policy is that no employee, contractor or temporary worker Our global graduate programme continues to set the industry standard.
+will be treated less favourably, victimised or harassed on the grounds Since the programme began in 2006, 319 graduates have joined ICAP of disability, gender, marital or civil partnership status, race, nationality, and we are proud of our record of nurturing and retaining this pool colour, ethnicity, religion or similar philosophical belief, sexual orientation, of high potential individuals.
+By building strong links with universities age or any other distinction other than merit.
+Consideration is given to round the world we are able to deliver fresh talent into all of our diverse human rights principles as part of the Groups working practices.
+Our graduate programme, combined with internships, apprenticeships and insight opportunities, ensures that we continue to Our culture identify and connect with a broad range of individuals at all levels and Our values and culture have underpinned our success enabling us to from diverse backgrounds.
+provide outstanding service to our customers by adapting to changing markets and regulatory demands.
+Our experience of the yen Libor Rewarding performance investigation has reinforced our commitment to our corporate values Pay and benefits represent the single biggest cost for ICAP as well and underscored the importance of promoting the right culture.
+It is as being a key lever in encouraging and rewarding the right business critical that the culture of the organisation encourages behaviours that performance and behaviour.
+The industry standard for rewarding revenue are consistent with our key values: namely leadership, entrepreneurship, generators is essentially a profit-sharing model based on individual and integrity and respect for control.
+Our relatively at organisation structure business contribution.
+This year higher variability based on contribution has helped create an environment where each employee is able to and more emphasis on growth have been the key drivers in the contribute and influence how we do business and is therefore more determination of bonus awards.
+As a firm that takes no proprietary risk engaged in the future of the organisation.
+we have not had to introduce mandatory bonus capping and deferral.
+We have, however, increased the number of participants in our long ICAPs culture is transmitted and reinforced in deliberate ways.
+The board term incentive plan and strategic objectives are part of every senior plays a critical role in setting the tone from the top and has clearly managers goals.
+articulated ICAPs corporate values, desired culture and principles of acceptable behaviour.
+Each year our senior management conference We believe that enhancing leadership skills throughout our firm and provides a valuable forum for senior leaders to come together and agree emphasising the integrity of our approach to business and customers the strategic priorities for the year ahead, foster increased collaboration creates an environment in which innovation and entrepreneurship can across the business One ICAP and reaffirm our cultural values.
+ourish within a compliance and risk-focused culture that is firmly in Our values are also conveyed through internal communication, staff keeping with our values.
+training and development and alignment of reward mechanisms to the desired culture.
+We have made a number of changes within the human resources HR organisation to improve its support of the business.
+In July 2013 We recognise that our culture is evolving as the business changes.
+We are a new Group Head of HR was appointed.
+The HR function has been managing this evolution in a controlled and deliberate way so that we are restructured to create an advisory team with an increased focus on able to drive cultural change within the organisation where it is needed business partnering coupled with the development of specific areas and retain the characteristics of ICAP.
+of functional expertise, including learning and development, talent management, reward and resourcing.
+We have also established a global Developing talent HR operations team to improve service delivery to the business and The achievement of our corporate goals ultimately depends on the support the HR advisory team.
+We are investing in new technology quality of the people we have in our business specifically their that will deliver operational efficiency utilising enhanced management capabilities, ethics and motivation.
+In order to support our talent both information and analytical tools.
+now and in the future we have increased our focus this year on effective Governance and Strategic report Financial statements Other information directors report ICAP plc Annual Report 2014 13 Our values and culture define the way we do business There are four key values on which we focus to deliver our strategic goals.
+These define the culture of ICAP.
+Leadership Integrity ICAP aims to deliver best in industry results, both financially and ICAP endeavours to build and maintain a relationship of openness and operationally.
+We need to be the standard setter for our industry across trust with its customers, partners, investors and regulators.
+To do this the a broad range of measures, establishing the performance benchmarks Company and its employees are expected to behave consistently and that other companies use to judge themselves.
+To do this we encourage within standards of ethical and professional conduct at all times.
+ambition and reward success of our employees and managers.
+Respect for control Entrepreneurship As a key part of the global financial infrastructure, ICAP respects both the ICAP seeks to anticipate industry change, assess and develop new spirit and the letter of the control, compliance and assurance environment business opportunities, and manage the risks that inevitably arise in within which the Group operates worldwide.
+To do this the Company must attract, motivate and retain creative people, manage itself and its infrastructure and processes in a way which fosters agility and provide an environment where employees are heard and valued.
+Our strategy in action Reinforce cultural values and uphold best practices ICAP enjoys success with innovative apprenticeship programme This year we worked with Leadership Through Sport LTS, a social mobility and employability charity combining sport and business to help young adults fulfil their potential.
+It offers school leavers an apprenticeship programme that enables them to develop their leadership skills and gain work experience.
+The first group of six apprentices joined in December 2012, for an initial period of 12 months.
+The programme was a great success, with four of the six apprentices accepting permanent positions.
+In creating this opportunity, ICAP aims to foster talent in communities where leadership potential is often left unharnessed.
+The programme at ICAP has opened many doors of opportunity, which will support me in obtaining my long-term ambitions.
+Atera Rahman Junior Accounts Assistant, ICAP It has been a privilege to work in partnership with LTS and provide a springboard from which these young people can forge their careers in finance.
+Lorraine Barclay Head of Global Business Services, ICAP

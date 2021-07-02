@@ -1,0 +1,7 @@
+AnnualReport_NNP &_CC AccountingPolicies_NNP Basisofpreparation_NNP &_CC theGroup_NNP whichhavebeen_NN IFRS_NNP ._.
+Property_NN ,_, ,_, ,_, lives_NNS ,_, asfollows_NNS :_: over10years_NNS Motorvehicles_NNPS over3years_NNPS Officefurniture_NNP &_CC equipment_NN over3-5years_NNS Computerequipment_NNP over3years_NNS ._.
+:_: Investmenttrusts_NNS 20years_NNS Insurance_NN 10years_VBZ Institutional_JJ 10years_NNS Retail_NNP 10years_VBZ iii_FW ._.
+74_CD AnnualReport_NNP &_CC Financialassets_NNP Afinancialassetor_NNP ,_, whereapplicable_JJ ,_, ,_, haveexpired_VBN ._.
+Currentservicecost_NNP ,_, period_NN ._. ._.
+Pastservicecosts_NNS ,_, ,_, ,_, orimprovementto_NN ,_, ,_, assumptions_NNS ._.
+v_NN IFRIC_NNP haveissuedthe_NN ,_, relevanttotheGroup_NNP ,_, :_: EffectiveDate_NNP IAS_NNP IFRS_NNP 1January2006_NNP :_: Disclosures_NNS 1January2007_NNP IAS1Amendment_NNP :_: CapitalDisclosures_NNS 1January2007_NNP Day1profits_NNS 1January2006_NNP 1January2006_NNP IAS39_NNP 1January2006_NNP IFRIC_NNP 1January2006_NNP IFRIC8ScopeofIFRS2_NNP 1May2006_NNP 1June2006_NNP ._.

@@ -1,0 +1,62 @@
+The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion Notes to the consolidated financial statements Notes to the consolidated financial statements 1.
+Basis of preparation Transition We previously disclosed in our Annual Report & Form 20-F 2017 Preparation of the financial statements that we were planning to adopt IFRS 15 retrospectively.
+This meant These consolidated financial statements have been prepared in applying the new standard to each prior reporting period presented, accordance with the Companies Act 2006 as applicable to ie 2016 17 and 2017 18, in accordance with IAS 8 Accounting companies using International Financial Reporting Standards IFRS, Policies, Changes in Accounting Estimates and Errors.
+Having Article 4 of the IAS Regulation and International Accounting considered further the factors that would influence our approach Standards IAS and IFRS and related interpretations, as adopted by including the time, effort and cost of adopting IFRS 15 the European Union.
+The consolidated financial statements are also retrospectively, as disclosed in the prior year Annual Report, we in compliance with IFRS as issued by the International Accounting have decided to adopt the new standard on a modified retrospective Standards Board the IASB and interpretations as issued by the IFRS basis and the group will recognise the cumulative effect of initially Interpretations Committee.
+The consolidated financial statements applying the standard as an adjustment to the opening balance of are prepared on a going concern basis.
+retained earnings at 1 April 2018, ie the date of initial application.
+Under this transition method: These financial statements consolidate British Telecommunications the standard will be applied only to contracts in progress but plc, the parent company, and its subsidiaries together the group.
+not completed at the date of initial application The consolidated financial statements are prepared on the for contracts that were modified before 1 April 2018, the group historical cost basis, except for certain financial and equity shall reflect the aggregate effect of all of the modifications that instruments that have been measured at fair value.
+The occur before this date at 1 April 2018 consolidated financial statements are presented in Sterling, the we will not restate prior year comparatives for the effect of IFRS functional currency of British Telecommunications plc, the parent 15 but will instead restate our 1 April 2018 opening retained company.
+earnings for the full cumulative impact of adopting this standard for the year ended 31 March 2019 we will provide a New and amended accounting standards reconciliation of our primary financial statements under IFRS 15 effective during the year to those in accordance with IAS 18.
+Note 23 of these consolidated financial statements reflect the amendments of IAS 7 Statement of Cash Flows requiring the IFRS 15 Project disclosure of changes in liabilities arising from financing activities.
+The group has deployed a cross-functional project team dedicated to the implementation of IFRS 15.
+This team has been engaged in There have been no other new or amended standards or determining accounting policies under the new standard, interpretations adopted during the year that have a significant quantifying the transitional adjustments and selecting and impact on the financial statements.
+The team is also reviewing the impact on tax, intragroup trading, forecasting, the bid and New and amended accounting standards that tender process and HR and remuneration plans.
+There is a significant have been issued but are not yet effective impact on the groups billing data and accounting platforms.
+The following standards have been issued and are effective for accounting periods ending on or after 1 April 2018 and are Performance obligations expected to have an impact on the group financial statements.
+IFRS 15 requires that at contract inception, we assess the goods or services promised in a contract with a customer and identify as a IFRS 15 Revenue from Contracts with Customers performance obligation each promise to transfer to the customer the Background good or service.
+Promises in a contract can be explicit, or implicit if the In May 2014, IFRS 15 Revenue from Contracts with Customers was promises create a valid expectation to provide a good or service based issued.
+It was subsequently amended in September 2015 and April on the customary business practices, published policies, or specific 2016.
+It is effective for periods beginning on or after 1 January 2018. statements.
+Transition to IFRS 15 for the group will take place on 1 April 2018.
+Results in the 2018 19 financial year will comply with IFRS 15, with The stand-alone selling prices of the groups products and services the first Annual Report and Form 20-F published in accordance with have been determined.
+These may be regulated prices, list prices, IFRS 15 being that for the year ended 31 March 2019. a cost-plus derived price, the price of similar products when sold on a stand-alone basis by BT or a competitor or in some cases the IFRS 15 sets out the requirements for recognising revenue and contract price where the price contracted represents a bespoke costs from contracts with customers and includes extensive price that would be the same for a similar customer in a similar disclosure requirements.
+The standard requires entities to circumstance.
+apportion revenue earned from contracts to individual promises, or performance obligations, on a relative stand-alone selling price basis, based on a five-step model.
+110 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 111 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued Financial Impact The above two impacts will be partly offset by amended The group is in the process of finalising the impact of the standard accounting for connections revenue.
+Currently, the group including the final transition adjustment to retained earnings.
+We recognises connections revenue upon performance of the have estimated that the likely impact on transition at 1 April 2018 connection activity.
+Under IFRS 15 connections revenue will be will produce a cumulative increase in retained earnings of between deferred and recognised on a straight-line basis over the 1.1bn and 1.5bn before tax.
+The corresponding impact will associated line circuit contractual period.
+This will mean that primarily be recorded as contract asset and will lead to an revenue and profits will be recognised later and on transition additional one-off cash tax payment split equally between leads to the recognition of a contract liability as revenue and 2018 19 and 2019 20.
+The cumulative increase in retained profits are deferred to future periods.
+Wholesale and Ventures earnings is mainly due to the acceleration of handset revenues and Openreach deliver the majority of this service and therefore and, to a lesser extent, deferral of costs notably third party will experience the majority of the impact.
+Over time, this contract acquisition costs primarily associated with post pay liability is expected to remain at similar levels as old contracts contracts.
+expire and new ones are signed.
+On the adoption date we expect the impact of this deferral to The financial impact of each business area is as follows: be significantly less than the impact of handset revenue and Under our current accounting policy, mobile handset revenue is third party acquisition costs noted above.
+recognised based on the amount the customer pays for the We will provide for expected lifetime losses on recognised handset when it is delivered to the customer.
+Generally mobile contract assets as required by IFRS 9 as set out below.
+handsets are either provided for free or for a small upfront charge.
+IFRS 15 will impact other areas but we do not expect the impact to be Under IFRS 15, additional revenue will be allocated to the material.
+These include certain contract fulfilment costs which will be mobile handset at the start of the contract.
+This is calculated recognised as an asset and amortised over the period in which benefit with reference to its relative standalone value within the is received and certain expenses will be recognised as a deduction from contract, regardless of the contract pricing.
+handset contract the revenue recognition profile will change IFRS 15 also provides more detailed guidance on how to account for with greater day one recognition of revenue for the handset contract modifications than the current revenue standards IAS 18 and a corresponding reduction in ongoing mobile service and IAS 11.
+Changes must be accounted for either as a retrospective revenue over the contract period.
+The difference between the change creating either a catch up or deferral of previously recorded mobile handset revenue recognised and the amounts charged revenues, prospectively with a reallocation of revenues amongst to the customer will be recognised as a contract asset.
+identified performance obligations, or prospectively as separate On adoption of IFRS 15, we will recognise a contract asset for all contracts which will not require any reallocation.
+We expect contract open contracts at 1 April 2018. modifications would primarily relate to changes in the agreed Over time, we expect the contract asset generated to remain at products and services to be provided to customers for long-term IT similar levels as old contracts expire and new ones are signed.
+However, we will see short-term volatility, for example around key handset launches.
+Disclosures This will be the most significant impact of the IFRS 15 adoption on The adoption of IFRS 15 would also result in changes to our the group and will primarily impact EE.
+To a lesser extent this will Annual Report disclosures.
+They key changes expected are as also impact mobile handset revenues in Business and Public Sector, follows: in respect of the legacy EE business division, and BT Consumer.
+The we will amend our existing revenue disclosures to comply with impact in these customer-facing units is less significant due to the the requirements to disaggregate revenue recognised from lower handset base.
+contracts with customers into categories that depict how the We expect to see a similar trend in respect of subsidised nature, amount, timing and uncertainty of revenue and equipment although we expect this to have a less significant associated cash flows are affected by economic factors impact due to the lower relative standalone value for this we will provide further detail around contract balances and equipment.
+their movements Currently, sales commissions and other third party acquisition we will provide an aggregate amount of the transaction price costs resulting directly from securing contracts with customers allocated to the performance obligation that are unsatisfied as are expensed when incurred.
+of the end of the reporting period and an explanation of when Under IFRS 15 sales commissions and other third party contract the entity expects the amounts to be recognised as revenue.
+acquisition costs will be recognised as an asset, and amortised over the period in which the corresponding benefit is received, IFRS 9 Financial instruments resulting in earlier profit recognition.
+IFRS 9 is effective for BT from 1 April 2018.
+It is applicable to The impact is greatest in EE in respect of third-party acquisition financial assets and financial liabilities and covers the costs partially associated with post pay contracts.
+classification, measurement, impairment and fide-recognition of financial assets and liabilities together with a new hedge accounting model.
+With the exception of the impact on IFRS 15 contract assets we do not expect the standard to have a material impact on our results, with the key issues for BT being around documentation of policies, hedging strategy and new hedge documentation.
+112 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 111

@@ -1,0 +1,38 @@
+96_CD BAE_NNP SYSTEMS_NNP Annual_JJ report_NN 2003_CD Glossary_NNP A400M_NNP BROACH_NNP DLO_NNP An_NNP Airbus_NNP military_JJ transport_NN aircraft_NN A_DT multi-warhead_JJ system_NN designed_VBN to_TO attack_VB Defense_NNP Logistics_NNP Organisation_NNP ,_, part_NN of_IN the_DT program_NN ._.
+a_DT range_NN of_IN buried_VBN high-value_JJ targets_NNS ._.
+Al_NNP Yamamah_NNP C3I_NNP DoD_NNP The_NNP UKs_NNP largest_JJS export_NN defense_NN Command_NNP ,_, Control_NNP ,_, Communications_NNP and_CC US_NNP Department_NNP of_IN Defense_NNP ._.
+program_NN :_: a_DT total_JJ solutions_NNS package_NN for_IN Intelligence_NNP ._.
+the_DT Kingdom_NNP of_IN Saudi_NNP Arabia_NNP ._.
+BAE_NNP Systems_NNPS F-35_NNP is_VBZ the_DT prime_JJ contractor_NN ._.
+C4ISR_CD Also_RB known_VBN as_IN the_DT Joint_NNP Strike_NN Fighter_NNP Command_NNP ,_, Control_NNP ,_, Communication_NNP and_CC JSF_NNP ._.
+BAE_NNP Systems_NNPS is_VBZ part_NN of_IN the_DT Archerfish_NNP Computing_NNP C4_NNP ,_, Intelligence_NNP ,_, Surveillance_NNP Lockheed_NNP Martin_NNP led_VBD consortium_NN An_DT expendable_JJ ,_, single_JJ shot_NN naval_JJ mine_NN and_CC Reconnaissance_NNP ISR_NNP ._.
+Systems_NNPS that_WDT developing_VBG three_CD variants_NNS for_IN the_DT US_NNP disposal_NN munition_NN ._.
+provide_VB a_DT precise_JJ picture_NN of_IN the_DT battlefield_NN Airforce_NNP ,_, Navy_NNP and_CC Marine_NNP Corps_NNP and_CC the_DT in_IN real-time_JJ ,_, optimising_VBG the_DT information_NN Royal_NNP Air_NNP Force_NNP and_CC Royal_NNP Navy_NNP ._.
+C4ISR_CD Aster_NNP PAAMS_NNP systems_NNS sense_VBP the_DT environment_NN ,_, process_NN A_DT multi-layer_JJ ground_NN and_CC naval_JJ air_NN defense_NN Future_NNP Combat_NNP System_NNP data_NNS and_CC combine_VBP it_PRP with_IN existing_VBG missile_NN being_VBG developed_VBN by_IN MBDA_NNP ._.
+The_DT cornerstone_NN of_IN the_DT US_NNP Armys_NNP knowledge_NN ,_, for_IN optimised_JJ mission_NN plans_NNS ._.
+It_PRP will_MD develop_VB network_NN centric_JJ concepts_NNS for_IN a_DT Astute_NNP C-17_NNP multi-mission_JJ combat_NN system_NN through_IN the_DT The_DT UKs_NNP newest_JJS class_NN of_IN nuclear_JJ powered_VBN United_NNP States_NNPS military_JJ transport_NN aircraft_NN ._.
+use_NN of_IN a_DT combination_NN of_IN manned_VBN and_CC attack_NN submarine_NN ._.
+BAE_NNP Systems_NNPS is_VBZ the_DT premier_JJ avionics_NNS unmanned_JJ ground_NN and_CC air_NN platforms_NNS ._.
+Auxiliary_JJ Oiler_NNP Future_NNP Carrier_NN Royal_NNP Fleet_NNP Auxiliary_NNP supply_NN ships_NNS to_TO Captor_NNP The_NNP Royal_NNP Navys_NNP next_IN generation_NN provide_VBP replenishment_NN for_IN ships_NNS at_IN sea_NN ._.
+Radar_NN system_NN for_IN the_DT Typhoon_NNP combat_NN aircraft_NN carrier_NN ._.
+aircraft_NN :_: Captor_NNP detects_VBZ ,_, identifies_VBZ ,_, BMEC_NNP prioritises_NNS and_CC engages_VBZ targets_NNS beyond_IN the_DT ESOP_NNP Battlespace_NNP Management_NNP Evaluation_NNP effective_JJ range_NN of_IN enemy_NN weapons_NNS ,_, while_IN Employee_NNP Share_NNP Ownership_NNP Plan_NNP ._.
+Simulates_NNS and_CC evaluates_VBZ complex_JJ remaining_VBG resistant_JJ to_TO electronic_JJ jamming_NN ._.
+systems_NNS within_IN operational_JJ scenarios_NNS early_RB in_IN a_DT program_NN life-cycle_NN ._.
+DASS_NNP Defensive_NNP Aids_NNP Sub-Systems_NNP -_: an_DT electronic_JJ protection_NN system_NN ._.
+BAE_NNP SYSTEMS_NNP Annual_JJ report_NN 2003_CD 97_CD BAE_NNP Systems_NNPS microprocessor_NN guides_NNS Rover_NNP landings_NNS on_IN Mars_NNP BAE_NNP Systems_NNPS built_VBD the_DT radiation_NN hardened_VBD RAD6000_CD computers_NNS that_WDT are_VBP guiding_VBG the_DT Spirit_NN and_CC Opportunity_NNP Rovers_NNP that_WDT have_VBP successfully_RB landed_VBN on_IN Mars_NNP to_TO study_VB minerals_NNS in_IN rocks_NNS ._.
+These_DT computers_NNS also_RB processed_VBN key_JJ navigational_JJ data_NNS during_IN each_DT spacecrafts_NNS six_CD month_NN journey_NN ._.
+Picture_NNP credits_NNS :_: NASA_NNP JPL_NNP Cornell_NNP GR9_NNP MoD_NNP Type_NNP 45_CD A_DT major_JJ capability_NN upgrade_NN for_IN the_DT Harrier_NNP ,_, UK_NNP Ministry_NNP of_IN Defense_NNP ._.
+Next_JJ generation_NN Anti_NNP Air_NNP Warfare_NNP Destroyer_NNP enhancing_VBG propulsion_NN and_CC aircraft_NN systems_NNS for_IN the_DT Royal_NNP Navy_NNP ._.
+and_CC providing_VBG a_DT smart_JJ weapon_NN capability_NN ._.
+Typhoon_NNP HALO_NNP Collaborative_NNP combat_NN aircraft_NN program_NN Passive_JJ acoustic_JJ artillery_NN location_NN system_NN :_: involving_VBG the_DT UK_NNP ,_, Germany_NNP ,_, Italy_NNP and_CC Spain_NNP ._.
+Operational_JJ Framework_NN monitors_VBZ artillery_NN activities_NNS across_IN a_DT wide_JJ It_PRP will_MD be_VB the_DT cornerstone_NN of_IN the_DT Royal_NNP Air_NNP Sets_VBZ out_RP mandatory_JJ operational_JJ and_CC area_NN of_IN the_DT battlefield_NN ._.
+financial_JJ controls_NNS ,_, approved_VBN by_IN the_DT Executive_NNP Committee_NNP ,_, to_TO be_VB followed_VBN in_IN Harrier_NNP conducting_VBG the_DT groups_NNS business_NN ._.
+It_PRP also_RB Tornado_NNP V_NNP STOL_NNP Vertical_NNP Short_NNP Take-Off_NNP and_CC sets_VBZ out_RP the_DT management_NN ethos_NN of_IN the_DT The_DT Royal_NNP Air_NNP Forces_NNP front_JJ line_NN combat_NN Landing_NN combat_NN aircraft_NN ._.
+aircraft_NN ,_, also_RB in_IN service_NN with_IN the_DT Royal_NNP Saudi_NNP Air_NNP Force_NNP ,_, and_CC in_IN Germany_NNP and_CC Italy_NNP ._.
+Hawk_NN Performance_NNP Centred_NNP Leadership_NNP PCL_NNP Advanced_NNP jet_NN training_NN and_CC light_JJ combat_NN PCL_NNP is_VBZ a_DT leadership_NN development_NN USAF_NNP aircraft_NN ._.
+program_NN which_WDT drives_VBZ business_NN success_NN United_NNP States_NNP Air_NNP Force_NNP ._.
+by_IN linking_VBG individual_JJ goals_NNS with_IN the_DT wider_JJR goals_NNS of_IN the_DT organization_NN ._.
+HIDAS_NNP VC10_NNP Helicopter_NNP Integrated_NNP Defensive_NNP Aids_NNP Royal_NNP Air_NNP Force_NNP aerial_JJ refuelling_NN Sub-System_NNP ._.
+Siren_NNP DLH_NNP Radar_NN decoy_NN systems_NNS for_IN warships_NNS ._.
+ISO_NNP 14001_CD The_DT standard_NN for_IN environmental_JJ Spearfish_JJ management_NN published_VBN by_IN the_DT International_NNP Advanced_NNP heavyweight_JJ torpedo_VBP in_IN service_NN Standards_NNP Organisation_NNP ._.
+Landing_VBG Platform_NNP Dock_NNP Sting_NNP Ray_NNP A_NNP Royal_NNP Navy_NNP assault_NN ship_NN capable_JJ of_IN Advanced_NNP lightweight_JJ torpedo_VBP in_IN service_NN controlling_VBG a_DT complete_JJ force_NN of_IN amphibious_JJ with_IN the_DT Royal_NNP Navy_NNP ,_, Royal_NNP Air_NNP Force_NNP and_CC in_IN ships_NNS and_CC supporting_VBG the_DT deployment_NN of_IN other_JJ countries_NNS ._.

@@ -1,0 +1,38 @@
+178 Aviva plc Accounting policies continued Annual Report and Accounts 2010 AFS equity securities: An AFS equity security is considered impaired if there is objective evidence that the cost may not be recovered.
+In addition to qualitative impairment criteria, such evidence includes a significant or prolonged decline in fair value below cost.
+Unless there is evidence to the contrary, an equity security is considered impaired if the decline in fair value relative to cost has been either at least 20% for a continuous six-month period or more than 40% at the end of the reporting period.
+Evidence to the contrary may include a significant rise in value of the equity security, for example as a result of a merger announced after the period end.
+We also review our largest equity holdings for evidence of impairment, as well as individual equity holdings in industry sectors known to be in difficulty.
+Where there is objective evidence that impairment exists, the security is written down regardless of the size of the unrealised loss.
+For both debt and equity AFS securities identified as being impaired, the cumulative unrealised net loss previously recognised within the investment valuation reserve is transferred to realised losses for the year with a corresponding movement through other comprehensive income.
+Any subsequent increase in fair value of these impaired securities is recognised in other comprehensive income and recorded in the investment valuation reserve, unless this increase can be objectively related to an event occurring after the impairment loss was recognised in the income statement.
+In such an event, the reversal of the impairment loss is recognised as a gain in the income statement.
+Mortgages and securitised loans: Impairment is measured based on the present value of expected future cash flows discounted at the effective rate of interest of the loan, subject to the fair value of the underlying collateral.
+When a loan is considered to be impaired, the income statement is charged with the difference between the carrying value and the estimated recoverable amount.
+Interest income on impaired loans is recognised based on the estimated recoverable amount.
+Reversals of impairments on any of these assets are only recognised where the decrease in the impairment can be objectively related to an event occurring after the write-down such as an improvement in the debtors credit rating, and are not recognised in respect of equity instruments.
+T Derivative financial instruments and hedging Derivative financial instruments include foreign exchange contracts, interest rate futures, currency and interest rate swaps, currency and interest rate options both written and purchased and other financial instruments that derive their value mainly from underlying interest rates, foreign exchange rates, commodity values or equity instruments.
+All derivatives are initially recognised in the statement of financial position at their fair value, which usually represents their cost.
+They are subsequently remeasured at their fair value, with the method of recognising movements in this value depending on whether they are designated as hedging instruments and, if so, the nature of the item being hedged.
+Fair values are obtained from quoted market prices or, if these are not available, by using valuation techniques such as discounted cash flow models or option pricing models.
+All derivatives are carried as assets when the fair values are positive and as liabilities when the fair values are negative.
+Premiums paid for derivatives are recorded as an asset on the statement of financial position at the date of purchase, representing their fair value at that date.
+Derivative contracts may be traded on an exchange or over-the-counter OTC.
+Exchange-traded derivatives are standardised and include certain futures and option contracts.
+OTC derivative contracts are individually negotiated between contracting parties and include forwards, swaps, caps and floors.
+Derivatives are subject to various risks including market, liquidity and credit risk, similar to those related to the underlying financial instruments.
+The notional or contractual amounts associated with derivative financial instruments are not recorded as assets or liabilities on the statement of financial position as they do not represent the fair value of these transactions.
+These amounts are disclosed in note 58.
+Interest rate and currency swaps Interest rate swaps are contractual agreements between two parties to exchange periodic payments in the same currency, each of which is computed on a different interest rate basis, on a specified notional amount.
+Most interest rate swaps involve the net exchange of payments calculated as the difference between the fixed and floating rate interest payments.
+Currency swaps, in their simplest form, are contractual agreements that involve the exchange of both periodic and final amounts in two different currencies.
+Both types of swap contracts may include the net exchange of principal.
+Exposure to gain or loss on these contracts will increase or decrease over their respective lives as a function of maturity dates, interest and foreign exchange rates, and the timing of payments.
+Interest rate futures, forwards and options contracts Interest rate futures are exchange-traded instruments and represent commitments to purchase or sell a designated security or money market instrument at a specified future date and price.
+Interest rate forward agreements are OTC contracts in which two parties agree on an interest rate and other terms that will become a reference point in determining, in concert with an agreed notional principal amount, a net payment to be made by one party to the other, depending what rate in fact prevails at a future point in time.
+Interest rate options, which consist primarily of caps and floors, are interest rate protection instruments that involve the potential obligation of the seller to pay the buyer an interest rate differential in exchange for a premium paid by the buyer.
+This differential represents the difference between current rate and an agreed rate applied to a notional amount.
+Exposure to gain or loss on all interest rate contracts will increase or decrease over their respective lives as interest rates fluctuate.
+Foreign exchange contracts Foreign exchange contracts, which include spot, forward and futures contracts, represent agreements to exchange the currency of one country for the currency of another country at an agreed price and settlement date.
+Foreign exchange option contracts are similar to interest rate option contracts, except that they are based on currencies, rather than interest rates.
+Exposure to gain or loss on these contracts will increase or decrease over their respective lives as currency exchange and interest rates fluctuate.

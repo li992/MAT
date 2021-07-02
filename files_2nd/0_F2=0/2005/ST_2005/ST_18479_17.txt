@@ -1,0 +1,3 @@
+a_DT BasisofAccounting_NNP f_SYM InvestmentProperties_NNPS ,_, or_CC ,_, beingthefair_NN adoptedby_NN ,_, the_DT ,_, IASB_NNP ,_, ._.
+g_NNP Investments_NNP c_NN RevenueRecognition_NNP Rentalincome_NNP ,_, excludingVAT_NNP ,_, ,_, fairvalue_NN ._.
+i_FW SegmentalReporting_NNP ,_, basedontaxrates_VBZ andtaxlaws_NNS that_IN ,_, theUnitedKingdom_NN ._.

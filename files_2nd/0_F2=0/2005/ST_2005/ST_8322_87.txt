@@ -1,0 +1,56 @@
+Glossary_NNP 143_CD GLOSSARY_NNP ABI_NNP Association_NNP of_IN British_NNP Insurers_NNP ,_, a_DT body_NN which_WDT ,_, inter_VB alia_NN ,_, sets_VBZ standards_NNS of_IN corporate_JJ governance_NN on_IN behalf_NN of_IN Insurance_NN companies_NNS ._.
+Availability_NN A_DT measure_NN giving_VBG the_DT proportion_NN of_IN electrical_JJ energy_NN that_WDT was_VBD available_JJ during_IN a_DT period_NN of_IN time_NN ,_, after_IN taking_VBG account_NN of_IN both_DT planned_VBN and_CC unplanned_JJ plant_NN outages_NNS ._.
+Bond_NNP Security_NNP that_IN obligates_VBZ the_DT issuer_NN International_NNP Power_NNP to_TO make_VB specified_VBN payments_NNS to_TO the_DT bondholder_NN financial_JJ institutions_NNS ._.
+Brownfield_NNP Building_NNP a_DT plant_NN on_IN a_DT previously_RB operational_JJ site_NN ._.
+CCGT_NNP Combined_NNP cycle_NN gas_NN turbine_NN turbines_NNS ,_, that_WDT are_VBP typically_RB fuelled_VBN by_IN natural_JJ gas_NN ,_, are_VBP used_VBN to_TO drive_VB generators_NNS and_CC use_VB exhaust_NN gases_NNS to_TO produce_VB steam_NN that_IN in_IN turn_NN drives_NNS an_DT additional_JJ turbine_NN coupled_VBN to_TO a_DT generator_NN ._.
+2_CD Cogeneration_NNP The_DT simultaneous_JJ generation_NN of_IN heat_NN and_CC electricity_NN ,_, typically_RB where_WRB the_DT need_NN for_IN both_DT arises_VBZ for_IN industrial_JJ or_CC commercial_JJ purposes_NNS ._.
+Corridor_NN approach_NN Under_IN this_DT approach_NN to_TO pension_NN plans_NNS ,_, actuarial_JJ gains_NNS and_CC losses_NNS are_VBP not_RB recognized_VBN immediately_RB ._.
+Only_RB when_WRB the_DT cumulative_JJ gains_NNS or_CC losses_NNS fall_VBP outside_IN the_DT corridor_NN is_VBZ a_DT specified_VBN portion_NN recognized_VBN in_IN the_DT income_NN statement_NN from_IN the_DT following_JJ year_NN onwards_NNS ._.
+The_DT corridor_NN is_VBZ 10_CD %_NN of_IN the_DT present_JJ value_NN of_IN the_DT pension_NN rights_NNS accrued_VBN or_CC of_IN the_DT fund_NN assets_NNS at_IN market_NN value_NN ,_, whichever_WDT is_VBZ greater_JJR ._.
+Dark_JJ spread_NN The_DT difference_NN between_IN the_DT cost_NN of_IN coal_NN to_TO generate_VB electricity_NN and_CC the_DT price_NN at_IN which_WDT that_WDT electricity_NN is_VBZ sold_VBN ._.
+Debt_NN capitalization_NN Net_JJ debt_NN divided_VBN by_IN the_DT sum_NN of_IN the_DT net_JJ debt_NN and_CC total_JJ equity_NN ._.
+Emission_NN allowances_NNS Under_IN the_DT EU_NNP Emissions_NNPS Trading_NNP Scheme_NNP allowances_NNS are_VBP granted_VBN to_TO entities_NNS under_IN a_DT cap_NN and_CC trade_NN emission_NN scheme_NN ._.
+Credits_NNS can_MD also_RB be_VB purchased_VBN by_IN entities_NNS to_TO enable_VB them_PRP to_TO emit_VB additional_JJ CO_NNP 2_CD EPS_NNP Earnings_NNS per_IN share_NN ,_, calculated_VBN by_IN dividing_VBG the_DT profit_NN after_IN interest_NN ,_, tax_NN and_CC minority_NN interests_NNS by_IN the_DT weighted_JJ average_JJ number_NN of_IN shares_NNS in_IN issue_NN ._.
+Gearing_VBG Net_JJ debt_NN divided_VBN by_IN total_JJ equity_NN ._.
+Generator_NN nameplate_NN The_DT maximum_JJ output_NN of_IN a_DT generator_NN ,_, under_IN specific_JJ conditions_NNS designated_VBN by_IN the_DT manufacturer_NN ._.
+Installed_VBN capacity_NN installed_VBN generator_NN capacity_NN is_VBZ commonly_RB expressed_VBN in_IN megawatts_NNS MW_NNP and_CC is_VBZ usually_RB indicated_VBN on_IN a_DT nameplate_NN physically_RB attached_VBN to_TO the_DT generator_NN ._.
+Greenfield_NNP Building_NNP a_DT plant_NN on_IN a_DT new_JJ site_NN ._.
+Hedge_VB contracts_NNS A_DT contract_NN that_WDT gives_VBZ protection_NN against_IN risks_NNS of_IN future_JJ commodity_NN price_NN movements_NNS ._.
+HSE_NNP Health_NNP ,_, safety_NN and_CC environment_NN ._.
+HUBCO_NNP The_NNP Hub_NNP Power_NNP Company_NNP ._.
+IFRS_NNP International_NNP Financial_NNP Reporting_NNP Standards_NNPS ._.
+ISO_NNP 14001_CD The_DT international_JJ standard_NN of_IN environment_NN management_NN systems_NNS ._.
+Load_NN factor_NN The_DT proportion_NN of_IN electricity_NN actually_RB sold_VBN ,_, compared_VBN with_IN the_DT maximum_NN possible_JJ sales_NNS of_IN electricity_NN at_IN maximum_JJ net_JJ capacity_NN ._.
+KAPCO_NNP The_NNP Kot_NNP Addu_NNP Power_NNP Company_NNP ._.
+Merchant_NN market_NN A_DT merchant_NN market_NN is_VBZ a_DT deregulated_VBN market_NN in_IN which_WDT the_DT price_NN of_IN commodities_NNS ,_, such_JJ as_IN gas_NN and_CC electricity_NN ,_, can_MD change_VB due_JJ to_TO market_NN forces_NNS and_CC power_NN is_VBZ sold_VBN into_IN a_DT traded_VBN market_NN ._.
+Merchant_NN plant_NN Our_PRP$ merchant_NN plants_NNS operate_VBP in_IN merchant_NN markets_NNS selling_VBG power_NN without_IN long-term_JJ power_NN purchase_NN agreements_NNS PPAs_NNS ._.
+MIGD_NNP Millions_NNPS of_IN imperial_JJ gallons_NNS per_IN day_NN ._.
+MW_NNP Megawatt_NNP :_: one_CD MW_NNP equals_VBZ 1,000_CD kilowatts_NNS ._.
+MWth_NNP One_CD megawatt_NN of_IN thermal_JJ power_NN ._.
+National_NNP Allocation_NNP Plan_NNP The_NNP Plan_NNP issued_VBD under_IN the_DT EU_NNP Emissions_NNPS Trading_NNP Scheme_NNP that_WDT sets_VBZ out_RP how_WRB greenhouse_NN gas_NN emission_NN allowances_NNS will_MD be_VB allocated_VBN to_TO affected_JJ industry_NN sectors_NNS and_CC the_DT assets_NNS within_IN the_DT relevant_JJ sector_NN ._.
+144_CD International_NNP Power_NNP Annual_JJ Report_NNP 2005_CD GLOSSARY_NNP continued_VBD Non-recourse_JJ debt_NN Debt_NN secured_VBN on_IN an_DT asset_NN ,_, and_CC where_WRB the_DT lender_NN has_VBZ no_DT recourse_NN to_TO the_DT shareholder_NN ._.
+O&M_NNP Operations_NNP and_CC maintenance_NN ,_, usually_RB used_VBN in_IN the_DT context_NN of_IN operating_NN and_CC maintaining_VBG a_DT power_NN station_NN ._.
+OCGT_NNP Open_NNP cycle_NN gas_NN turbine_NN turbines_NNS ,_, typically_RB fuelled_VBN by_IN gas_NN or_CC diesel_NN oil_NN ,_, are_VBP used_VBN to_TO drive_VB the_DT generators_NNS to_TO produce_VB electricity_NN ._.
+Offtake_NNP agreement_NN Power_NN purchase_NN agreement_NN between_IN a_DT company_NN owning_VBG a_DT power_NN station_NN and_CC its_PRP$ customer_NN the_DT offtaker_NN whereby_WRB the_DT customer_NN takes_VBZ the_DT electricity_NN generated_VBN by_IN a_DT power_NN station_NN ._.
+OHSAS_NNP 18001_CD Occupational_NNP Health_NNP and_CC Safety_NNP Assessment_NNP Series_NNP 18001_CD ._.
+A_DT management_NN system_NN specification_NN ,_, developed_VBN by_IN British_JJ Standards_NNPS Institute_NNP ,_, for_IN health_NN and_CC safety_NN which_WDT is_VBZ compatible_JJ with_IN ISO_NNP 9001:1994_CD Quality_NNP and_CC ISO_NNP 14001:1996_CD Environmental_NNP management_NN ._.
+PBIT_NNP Profit_NN before_IN interest_NN and_CC tax_NN ._.
+Peak_NNP load_NN The_DT maximum_JJ demand_NN for_IN electricity_NN during_IN a_DT specified_VBN high_JJ demand_NN period_NN ._.
+This_DT may_MD require_VB use_NN of_IN plant_NN for_IN example_NN pumped_VBD storage_NN that_WDT is_VBZ kept_VBN in_IN reserve_NN for_IN peak_NN periods_NNS ._.
+PFO_NNP Profit_NN from_IN operations_NNS ,_, which_WDT includes_VBZ profit_NN after_IN interest_NN ,_, tax_NN and_CC minority_NN interests_NNS of_IN joint_JJ ventures_NNS and_CC associates_NNS ._.
+PPA_NNP Power_NNP Purchase_NNP Agreement_NNP see_VB also_RB Offtake_JJ agreement_NN ._.
+Put_JJ To_TO sell_VB a_DT security_NN back_RB to_TO the_DT issuer_NN at_IN a_DT pre-determined_JJ price_NN ._.
+Recourse_NN debt_NN Debt_NN where_WRB the_DT lender_NN has_VBZ recourse_NN to_TO parties_NNS other_JJ than_IN the_DT borrower_NN ,_, usually_RB a_DT parent_NN company_NN or_CC shareholder_NN ._.
+Reserve_NNP margin_NN The_DT amount_NN of_IN plant_NN reserve_NN capacity_NN above_IN the_DT systems_NNS peak_VBP electricity_NN requirements_NNS ._.
+Rights_NNPS Issue_NNP The_DT offer_NN of_IN new_JJ shares_NNS to_TO shareholders_NNS pro-rata_JJ to_TO their_PRP$ current_JJ holding_NN ,_, usually_RB at_IN a_DT discounted_JJ price_NN ._.
+RREV_NNP Research_NNP Recommendations_NNPS Electronic_NNP Voting_NNP ._.
+A_DT body_NN which_WDT acts_VBZ on_IN behalf_NN of_IN institutional_JJ investors_NNS monitoring_VBG the_DT corporate_JJ governance_NN performance_NN of_IN quoted_VBN companies_NNS ,_, and_CC which_WDT issues_NNS recommendations_NNS for_IN voting_VBG on_IN resolutions_NNS at_IN those_DT companies_NNS general_JJ meetings_NNS ._.
+2_CD Spark_NNP spread_NN The_DT difference_NN between_IN the_DT fuel_NN costs_VBZ to_TO generate_VB electricity_NN and_CC the_DT price_NN at_IN which_WDT electricity_NN is_VBZ sold_VBN ._.
+UK_NNP GAAP_NNP Generally_RB Accepted_JJ Accounting_NN Principles_NNS in_IN the_DT UK_NNP ._.
+US_NNP Sarbanes-Oxley_NNP Act_NNP The_NNP Sarbanes-Oxley_NNP Act_NNP of_IN 2002_CD was_VBD enacted_VBN in_IN reaction_NN to_TO the_DT highly_RB publicised_VBN bankruptcies_NNS of_IN Enron_NNP and_CC WorldCom_NNP and_CC is_VBZ concerned_VBN with_IN strictly_RB enforcing_VBG corporate_JJ governance_NN and_CC financial_JJ disclosure_NN ._.
+Designed_VBN and_CC produced_VBN by_IN Natural_JJ www_NN ._.
+com_NN Board_NNP and_CC senior_JJ management_NN photography_NN by_IN Orla_NNP Deevy_NNP Printed_NNP in_IN the_DT UK_NNP by_IN Royle_NNP Corporate_NNP Print_NNP This_DT document_NN is_VBZ printed_VBN throughout_IN using_VBG vegetable-based_JJ inks_NNS ._.
+The_DT cover_NN and_CC pp1-76_NN are_VBP printed_VBN on_IN Robert_NNP Horne_NNP Revive_NNP Special_JJ Silk_NNP which_WDT contains_VBZ 60_CD %_NN fiber_NN from_IN sustainable_JJ sources_NNS ,_, 30_CD %_NN fide-inked_JJ post_NN consumer_NN waste_NN and_CC 10_CD %_NN mill_NN waste_NN :_: pp77-144_NNS are_VBP printed_VBN on_IN Robert_NNP Horne_NNP Revive_NNP Uncoated_NNP ,_, a_DT 100_CD %_NN recycled_JJ paper_NN made_VBN from_IN 80_CD %_NN fide-inked_JJ post_NN consumer_NN waste_NN and_CC 20_CD %_NN mill_NN waste_NN ._.
+The_DT papermill_NN and_CC the_DT printer_NN are_VBP both_DT accredited_VBN to_TO ISO_NNP 14001_CD ._.
+Our_PRP$ core_NN business_NN values_NNS Financial_JJ discipline_NN Integrity_NN of_IN communication_NN Respect_NN for_IN the_DT individual_JJ Safe_NNP behavior_NN Team_NNP first_JJ culture_NN Hidd_NNP ,_, Bahrain_NNP www_NN ._.
+com_NN Available_JJ on_IN the_DT website_NN :_: investor_NN presentations_NNS press_NN releases_VBZ share_NN price_NN information_NN financial_JJ data_NNS and_CC reports_NNS Registered_NNP Office_NNP International_NNP Power_NNP plc_NN Senator_NNP House_NNP 85_CD Queen_NNP Victoria_NNP Street_NNP London_NNP EC4V_NNP 4DP_NNP Registered_NNP in_IN England_NNP and_CC Wales_NNP No_NNP :_: 2366963_CD Published_VBN by_IN International_NNP Power_NNP plc_NN www_NN ._.

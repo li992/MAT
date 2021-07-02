@@ -1,0 +1,36 @@
+1d Critical accounting estimates and judgements The preparation of financial statements in accordance with generally accepted accounting principles requires the directors to make critical accounting estimates and judgements that affect the amounts reported in the financial statements and accompanying notes.
+These estimates and judgements are continually evaluated and are based on historical experiences and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+The resulting accounting estimates will, by definition, seldom equal the related actual results.
+The estimates and assumptions that have significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+Impairment of goodwill The Group tests goodwill for impairment at least annually.
+This requires an estimation of the value in use of the cash generating units CGUs to which goodwill is allocated.
+As discussed in detail in note 15, estimating the value in use requires the Group to make an estimate of the expected future cash flows from the CGUs and also to choose a suitable discount rate in order to calculate the present values of those cash flows.
+Revenue recognition Revenue from the sale of licence agreements which are designed to meet the specific requirements of each customer is recognised on a  method basis.
+Use of this method requires the directors to estimate the total project resource requirement and also any losses on uncompleted contracts.
+Provisions for income taxes The Group is subject to income taxes in numerous jurisdictions.
+Significant judgement is required in determining the worldwide provision for income taxes.
+There are many transactions and calculations for which the ultimate tax determination is uncertain during the ordinary course of business.
+The Group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due.
+Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will impact the income tax and deferred tax provisions in the period in which such determination is made.
+Provision for impairment of trade receivables The Group assesses trade receivables for impairment which requires the directors to estimate the likelihood of payment forfeiture by customers.
+Legal settlements and other contingencies Determining the amount to be accrued for legal settlement requires the directors to estimate the committed future legal and settlement fees the Group is expecting to incur.
+Where suits are filed against the Group for infringement of patents, the directors assess the extent of any potential infringement based on legal advice and written opinions received from external counsel and then estimate the level of accrual required.
+Contingent consideration for an acquisition is recognised as part of the purchase consideration if the contingent conditions are expected to be satisfied.
+This requires the directors to estimate the acquirees future financial performance, typically more than one year post-acquisition.
+2 Segmental reporting At 31 December 2009 the Group is organised on a world-wide basis into three main business segments: Processor Division PD, encompassing those resources that are centred around microprocessor cores, including specific functions such as graphics IP, fabric IP, embedded software and configurable digital signal processing IP.
+Physical IP Division PIPD, concerned with the building blocks necessary for translation of a circuit design into actual silicon.
+Systems Design Division SDD, focused on the tools and models used to create and debug software and system-on-chip SoC designs.
+This is based upon the Groups internal organisation and management structure and is the primary way in which the CODM is provided with financial information.
+Whilst revenues are reported into four main revenue streams namely licensing, royalties, development systems and services, the costs, operating results and balance sheets are only analysed into these three divisions.
+The acquisition of Logipard in 2008 was allocated to PD, together with the related goodwill.
+The following analysis is of revenues: operating costs: investment income: interest payable: profit loss before tax: tax: profit loss after tax: depreciation: amortisation of intangible assets: share-based payment costs: capital expenditure: total assets and liabilities: net assets and goodwill for each segment and the Group in total.
+Unallocated operating costs are foreign exchange revaluation on monetary items, including cash and cash equivalents.
+Unallocated assets and liabilities include: cash and cash equivalents: short-term investments and marketable securities: deferred tax balances: current tax and VAT.
+Capital expenditure comprises additions to property, plant and equipment and other intangible assets, including additions resulting from acquisitions through business combinations.
+The results of each segment have been prepared using accounting policies consistent with those of the Group as a whole.
+76 2 Segmental reporting continued Geographical information The Group manages its business segments on a global basis.
+The operations are based in three main geographical areas.
+The UK is the home country of the parent.
+The main operations in the principal territories are as follows: Europe United States Asia Pacific Analysis of revenue by destination : 2008 2009 000 000 United States 90,648 84,747 Japan 54,561 48,014 South Korea 33,472 41,381 Taiwan 26,746 34,828 China 10,008 15,835 British Virgin Islands 15,985 14,550 Netherlands 16,410 14,347 Rest of Europe 35,074 32,786 Rest of North America 6,370 10,702 Rest of Asia Pacific 9,660 7,832 298,934 305,022 Destination is defined as the location of ARMs customers.
+The Groups exports from the UK were 293.2 million and 281.1 million for the years ended 31 December 2009 and 2008 respectively.
+Analysis of revenue by revenue stream: 2008 2009 000 000 Licensing 103,506 98,446 Royalties 147,728 155,447 Services 16,552 18,188 Development systems 31,148 32,941 298,934 305,022 Analysis of non-current assets excluding deferred tax assets, goodwill and other intangible assets : 2008 2009 000 000 Europe 8,278 14,410 United States 8,502 7,975 Asia Pacific 2,411 2,223 19,191 24,608 Includes the UK which had non-current assets excluding deferred tax assets, goodwill and other intangible assets of 14.0 million in 2009 2008: 7.8 million.

@@ -1,0 +1,201 @@
+This_DEMP
+was_VBD [PASS]
+made_VBN
+up_IN
+of_PIN
+interim_JJ
+dividends_NN
+of_PIN
+9.75_CD
+p_NN
+,_,
+a_DT
+final_JJ
+foreign_JJ
+income_NN
+dividend_NN
+FID_NN
+of_PIN
+2.00_CD
+p_NN
+and_CC
+a_DT
+final_JJ
+ordinary_JJ
+dividend_NN
+of_PIN
+1.90_CD
+p._NN
+The_DT
+final_JJ
+ordinary_JJ
+dividend_NN
+was_VBD [BYPA]
+enhanced_VBN
+by_PIN
+0.40_CD
+p_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+no_SYNE
+shareholder_NN
+would_PRMD
+be_VB [SPAU] [BYPA]
+adversely_RB
+affected_VBN
+by_PIN
+the_DT
+FID_NN
+._.
+Excluding_VBG [PRESP]
+this_DEMO
+enhancement_NOMZ
+the_DT
+normal_JJ
+distribution_NOMZ
+for_PIN
+1997_CD
+was_VBD [BEMA]
+therefore_CONJ
+13.25_CD
+p._NN
+#_#
+Inclusive_NN
+of_PIN
+0.50_CD
+p_JJ
+tax_NN
+credit_NN
+on_PIN
+the_DT
+FID_NN
+which_WDT [WHSUB]
+is_VPRT [BEMA]
+notional_PRED
+and_CC
+not_XX0
+repayable_JJ
+._.
+The_DT
+total_JJ
+distribution_NOMZ
+for_PIN
+1999_CD
+was_VBD [BEMA]
+15.59_CD
+p._NN
+This_DEMP
+was_VBD [PASS]
+made_VBN
+up_IN
+of_PIN
+interim_JJ
+ordinary_JJ
+dividends_NN
+of_PIN
+8.86_CD
+p_NN
+,_,
+an_DT
+interim_JJ
+foreign_JJ
+income_NN
+dividend_NN
+FID_NN
+of_PIN
+2.98_CD
+p_NN
+and_CC
+a_DT
+final_JJ
+ordinary_JJ
+dividend_NN
+of_PIN
+3.75_CD
+p._NN
+The_DT
+FID_NN
+was_VBD [BYPA]
+enhanced_VBN
+by_PIN
+0.59_CD
+p_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+no_SYNE
+shareholder_NN
+would_PRMD
+be_VB [SPAU] [BYPA]
+adversely_RB
+affected_VBN
+by_PIN
+receiving_VBG
+this_DEMO
+form_NN
+of_PIN
+dividend_NN
+._.
+Excluding_VBG [PRESP]
+this_DEMO
+enhancement_NOMZ
+the_DT
+normal_JJ
+distribution_NOMZ
+for_PIN
+1999_CD
+was_VBD [BEMA]
+therefore_CONJ
+15.00_CD
+p._NN
+Inclusive_NN
+of_PIN
+0.74_CD
+p_JJ
+tax_NN
+credit_NN
+on_PIN
+the_DT
+FID_NN
+which_WDT [WHSUB]
+is_VPRT [BEMA]
+notional_PRED
+and_CC
+not_XX0
+repayable_JJ
+._.
+&_CC
+RPIX_NN
+-_:
+excludes_VPRT
+the_DT
+effect_NN
+of_PIN
+mortgage_NN
+rates_NN
+._.
+NAV_NN
+total_JJ
+return_NN
+reflects_VPRT [PRIV]
+both_CC
+the_DT
+change_NN
+in_PIN
+net_JJ
+asset_NN
+value_NN
+per_PIN
+ordinary_JJ
+share_NN
+and_CC
+the_DT
+net_JJ
+ordinary_JJ
+dividends_NN
+declared_VBD [PUBV]
+in_PIN
+respect_NN
+of_PIN
+each_QUAN
+year_NN
+._.

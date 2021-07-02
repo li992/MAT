@@ -1,0 +1,115 @@
+THOMSON REUTERS CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Unless otherwise stated, all amounts are in millions of U. S. dollars Revenue Recognition NOTE 1: SUMMARY OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES Revenues are recognized, net of estimated returns, when the following four criteria are met: General Business Description persuasive evidence of an arrangement exists: Thomson Reuters operates under a dual listed company DLC structure and has two parent companies, Thomson Reuters delivery has occurred: Corporation and Thomson Reuters PLC collectively, Thomson Reuters.
+Thomson Reuters Corporation also referred to as thethe fee is xed or determinable: and Company is an Ontario, Canada corporation, and Thomson collectability is probable.
+Reuters PLC is a public limited company registered in England Delivery does not occur until products have been shipped or and Wales.
+These companies operate as a unied group pursuant to contractual arrangements as well as provisions in their services have been provided to the customer, risk of loss has organizational documents.
+Under the DLC structure, shareholders transferred to the customer, customer acceptance has been of Thomson Reuters Corporation and Thomson Reuters PLC both obtained or such acceptance provisions have lapsed, or the Company has objective evidence that the criteria specified in have a stake in Thomson Reuters, with cash dividend, capital distribution and voting rights that are comparable to the rights the client acceptance provisions have been satisfied.
+The sales they would have if they were holding shares in one company price is not considered to be xed or determinable until all carrying on the Thomson Reuters business.
+Thomson Reuters contingencies related to the sale have been resolved.
+Corporation and Thomson Reuters PLC are separate publicly listed Revenue from sales of third party vendor products or services companies.
+Thomson Reuters Corporation common shares are is recorded net of costs when the Company is acting as an agent listed on the Toronto Stock Exchange TSX and the New York between the customer and vendor and recorded gross when the Stock Exchange NYSE and its Series II preference shares are Company is a principal to the transaction.
+Several factors are listed on the TSX.
+Thomson Reuters PLC ordinary shares are considered to determine whether the Company is an agent or admitted to the ofcial list of the UK Listing Authority and to principal, most notably whether the Company is the primary trading on the London Stock Exchanges main market for listed obligor to the customer, has inventory risk or adds meaningful securities.
+Thomson Reuters PLC American Depositary Shares value to the vendors product or service.
+Consideration is also ADSs, each of which represents six ordinary shares, are listed given to whether the Company was involved in the selection of on the Nasdaq Global Select Market.
+The boards of the two the vendors product or service, has latitude in establishing companies are comprised of the same individuals, as are the the sales price, or has credit risk.
+In addition to the above general principles, the Company applies the following specic revenue recognition policies: Principles of Consolidation The consolidated financial statements of Thomson Reuters SUBSCRIPTION-BASED PRODUCTS EXCLUDING SOFTWARE Corporation include the accounts of both Thomson Reuters Corporation and Thomson Reuters PLC, and their respective Revenues from sales of subscription-based products are subsidiaries, and are prepared in accordance with accounting primarily recognized ratably over the term of the subscription.
+principles generally accepted in Canada Canadian GAAP.
+Where applicable, usage fees above a base period fee are The results of Reuters are included in the accounts of Thomson recognized as earned.
+Subscription revenue received or receivable Reuters from April 17, 2008. in advance of the delivery of services or publications is included in deferred revenue.
+Incremental costs that are directly related to Accounting Estimates the subscription revenue are deferred and amortized over the subscription period.
+The preparation of financial statements in conformity with Canadian GAAP requires management to make estimates and MULTIPLE ELEMENT ARRANGEMENTS assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the When a sales arrangement requires the delivery of more than date of the financial statements, and the reported amounts of one product or service that have value on a stand-alone basis, the revenues and expenses during the reporting period.
+Actual results individual deliverables are accounted for separately, if reliable and may differ from those estimates.
+objective evidence of fair value for each deliverable is available.
+The amount allocated to each unit is then recognized when each unit is delivered, provided that all other relevant revenue Foreign Currency recognition criteria are met with respect to that unit.
+Assets and liabilities of self-sustaining subsidiaries denominated If, however, evidence of fair value is only available for undelivered in currencies other than U. S. dollars are translated at the period end rates of exchange, and the results of their operations are elements, the revenue is allocated first to the undelivered items, translated at average rates of exchange for the period.
+The with the remainder of the revenue being allocated to the delivered resulting translation adjustments are included in accumulated items, utilizing the residual method.
+Amounts allocated to delivered items are deferred if there are further obligations with other comprehensive income in shareholders equity.
+Foreign exchange gains and losses related to certain intercompany loans respect to the delivered items.
+If evidence of fair value is only that are permanent in nature are included in accumulated other available for the delivered items, but not the undelivered items, comprehensive income.
+Other currency gains or losses are the arrangement is considered a single element arrangement and revenue is recognized as the relevant recognition criteria are met.
+References to $ are to U. S. dollars, references to C$ are to Canadian dollars and references to are to British pounds sterling.
+ANNUAL REPORT 2008 67 THOMSON REUTERS CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Unless otherwise stated, all amounts are in millions of U. S. dollars SOFTWARE-RELATED PRODUCTS AND SERVICES cumulative difference between actual and estimated results exceeds 10% of the greater of the benefit obligation or the fair License fees are generally recognized ratably on a straight-line value of the plan assets, such difference is amortized into earnings basis over the license period when the Company has an ongoing over the average remaining service period of active employees.
+obligation over the license period.
+Alternatively, if there is neither Past service costs arising from plan amendments are amortized an associated license period nor significant future obligations, on a straight-line basis over the average remaining service period revenues are recognized upon delivery.
+of active employees at the date of the amendment.
+For funded Certain software arrangements include implementation services.
+plans, surpluses are recognized only to the extent that the surplus Consulting revenues from these arrangements are accounted for is considered recoverable.
+separately from software license revenues if the arrangements Payments to dened contribution plans are expensed as incurred, qualify as service transactions as dened in Statement of Position which is as the related employee service is rendered.
+The more significant factors considered in determining whether the revenue should be accounted Cash and Cash Equivalents for separately include the nature of services i. e. consideration of whether the services are essential to the functionality of the licensed Cash and cash equivalents comprise cash on hand, demand product, degree of risk, availability of services from other vendors, deposits and investments with an original maturity at the date of timing of payments and impact of milestones or acceptance criteria purchase of three months or less.
+on the realizability of the software license fee.
+Long-Lived Assets If an arrangement does not qualify for separate accounting of the software license and consulting transactions, then software Long-lived assets with nite lives are tested for impairment when license revenue is generally recognized together with the events or changes in circumstances indicate that their carrying consulting services using either the  or amounts may not be recoverable.
+When such a situation occurs, completed-contract method.
+Contract accounting is applied to the expected future operating cash ows associated with the any arrangements: 1 that include milestones or customer specic asset are compared to its carrying value to determine if the asset acceptance criteria that may affect collection of the software is recoverable.
+If the expected future operating cash ows are license fees: 2 where services include significant modication not sufficient to recover the asset, an estimate of the fair value or customization of the software: 3 where significant consulting of the asset is computed.
+Impairment of the carrying amount services are provided for in the software license contract without of a long-lived asset is recognized in operating profit of continuing additional charge or are substantially discounted: or 4 where or discontinued operations, as appropriate, when the carrying the software license payment is tied to the performance of amount is not recoverable and is in excess of its fair value.
+For certain of these arrangements, a impairment loss recognized is equal to the excess of the carrying customers obligation to pay corresponds to the amount of work amount over the fair value.
+In these circumstances, revenue is recognized as a percentage of completed work using the Companys costs as Computer Hardware and Other Property the measurement factor.
+Computer hardware and other property are recorded at cost and Certain contracts specify separate fees for software and ongoing depreciated on a straight-line basis over their estimated useful fees for maintenance and other support.
+If sufficient vendor lives as follows: specic objective evidence of the fair value of each element of the arrangement exists, the elements of the contract are unbundled Computer hardware 35 years and the revenue for each element is recognized as appropriate.
+Buildings and building improvements 540 years Furniture, xtures and equipment 310 years OTHER SERVICE CONTRACTS For service or consulting arrangements, revenues are recognized Computer Software as services are performed based on appropriate measures.
+CAPITALIZED SOFTWARE FOR INTERNAL USE Employee Future Benets Certain costs incurred in connection with the development of For dened benefit pension plans and other post-retirement software to be used internally are capitalized once a project has benets, the net periodic pension expense is actuarially progressed beyond a conceptual, preliminary stage to that of determined using the projected benefit method.
+Costs which qualify for capitalization of benefit expense requires assumptions such as the expected include both internal and external costs, but are limited to those return on assets available to fund pension obligations, the that are directly related to the specic project.
+The capitalized discount rate to measure obligations, the projected age of amounts, net of accumulated amortization, are included in employees upon retirement, the expected rate of future Computer software, net in the consolidated balance sheet.
+compensation and the expected healthcare cost trend rate.
+For These costs are amortized over their expected useful lives, which the purpose of calculating expected return on plan assets, the range from three to ten years.
+The amortization expense is assets are valued at fair value.
+Actual results will differ from included in Depreciation in the consolidated statement results which are estimated based on assumptions.
+68 THOMSON REUTERS CAPITALIZED SOFTWARE TO BE MARKETED Goodwill is tested for impairment using the following two-step approach: In connection with the development of software that is intended to be marketed to customers, certain costs are capitalized onceIn the first step, the fair value of each reporting unit is technological feasibility of the product is established and a market determined.
+If the fair value of a reporting unit is less than its for the product has been identied.
+The capitalized amounts, net carrying value, this is an indicator that the goodwill assigned of accumulated amortization, are also included in Computer to that reporting unit might be impaired, which requires software, net in the consolidated balance sheet.
+The capitalized performance of the second step.
+amounts are amortized over the expected period of benefit, not to exceed three years, and the related amortization expense In the second step, the fair value of the reporting unit is is included in Cost of sales, selling, marketing, general and allocated to the assets and liabilities of the reporting unit as administrative expenses in the consolidated statement if it had just been acquired in a business combination, and of earnings.
+as if the purchase price was equivalent to the fair value of the reporting unit.
+The excess of the fair value of the reporting unit Identiable Intangible Assets over the amounts assigned to its assets and liabilities is referred and Goodwill to as the implied fair value of goodwill.
+The implied fair value Upon acquisition, identiable intangible assets are recorded at fair of the reporting units goodwill is then compared to the actual value.
+Goodwill represents the excess of the cost of the acquired carrying value of goodwill.
+If the implied fair value is less than businesses over fair values attributed to underlying net tangible the carrying value, an impairment loss is recognized for assets and identiable intangible assets.
+The carrying values of all that excess.
+intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that their carrying amounts The fair values of the Companys reporting units are determined may not be recoverable.
+Additionally, the carrying values of based on a combination of various techniques, including the identiable intangible assets with indefinite lives and goodwill are present value of future cash ows, earnings multiples of competitors tested annually for impairment because they are not amortized.
+and multiples from sales of like businesses.
+Details of the testing Impairment is determined by comparing the fair values of such performed in 2008 are included in note 15. assets with their carrying amounts.
+Equity Investments in Associates IDENTIFIABLE INTANGIBLE ASSETS and Investments in Joint Ventures Certain trade names with indefinite lives are not amortized.
+Equity investments represent ownership interests over which Identiable intangible assets with nite lives are amortized over the Company has significant inuence.
+Equity investments in their estimated useful lives as follows: associates are initially recognized at cost and subsequently accounted for by the equity method of accounting.
+Joint ventures represent equity ownership interests over which the Company has Trade names 227 years joint control with one or more unafliated entities.
+Joint ventures Customer relationships 232 years are proportionately consolidated based upon the Companys Databases and content 225 years ownership percentage.
+Publishing rights 30 years Other 227 years Disposal of Long-Lived Assets and Discontinued Operations Identiable intangible assets with nite lives are tested for Long-lived assets are classied as held for sale once certain impairment as described under Long-Lived Assets above.
+Such criteria include a rm decision by Selected trade names comprise the entire balance of identiable management or the board of directors to dispose of a business or intangible assets with indefinite lives.
+For purposes of impairment a group of selected assets and the expectation that such disposal testing, the fair value of trade names is determined using an will be completed within a twelve month period.
+Assets held for income approach, specically the relief from royalties method.
+sale are measured at the lower of their carrying amounts or fair values less costs to sell, and are no longer depreciated.
+Long-lived GOODWILL assets held for sale are classied as discontinued operations if the operations and cash ows will be eliminated from ongoing Goodwill is tested for impairment on a reporting unit level.
+operations as a result of the disposal transaction and there will A reporting unit is a business for which: a discrete financial not be any significant continuing involvement in the operation information is available: and b segment management regularly of the disposed asset.
+reviews the operating results of that business.
+Two or more businesses shall be aggregated and deemed a single reporting unit if the businesses have similar economic characteristics.
+ANNUAL REPORT 2008 69 THOMSON REUTERS CORPORATION NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Unless otherwise stated, all amounts are in millions of U. S. dollars transaction is realized.
+The differential paid or received on interest Deferred Income Taxes rate swap agreements is recognized as part of net interest expense.
+Deferred income taxes are determined based on the temporary Gains and losses on treasury lock agreements are reported as differences between the financial reporting and tax bases of other comprehensive income until settlement.
+These gains and assets and liabilities using the enacted or substantially enacted losses are then recognized in interest expense over the life of rates expected to apply to taxable income in the years in which the hedged debt.
+Certain derivative instruments, while providing those temporary differences are expected to reverse.
+A valuation effective economic hedges, are not designated as hedges.
+Changes allowance is recorded against deferred income tax assets if in the fair value of any derivatives that are not designated as management determines that it is more likely than not that such hedges are recognized within Net other income expense deferred income tax assets will not be realized.
+The income tax in the Companys consolidated statement of earnings.
+provision for the period is the tax payable for the period and the change during the period in deferred income tax assets PURCHASE AND SALE OF FINANCIAL ASSETS and liabilities.
+Purchases and sales of financial assets are recognized on the settlement date, which is the date that the asset is delivered to, Financial Instruments or by, the Company.
+The Companys financial instruments are comprised of the following: EMBEDDED DERIVATIVES assets and liabilities accounted for at cost, or amortized cost, The Company has embedded foreign currency derivatives in which include accounts receivable, notes receivable, short-term certain revenue and purchase contracts where the currency of indebtedness and accounts payable and accruals: and the contract is different from the functional currencies of the parties involved.
+These derivatives are accounted for as separate assets and liabilities accounted for at fair value, which include instruments from the host contracts when their economic cash and cash equivalents, available-for-sale investments, characteristics and risks are not closely related to those of the host derivative instruments and associated debt instruments.
+These derivatives are measured at fair value at each balance sheet date using forward exchange market rates.
+DERIVATIVE INSTRUMENTS HEDGING Changes in their fair values are recognized in the Companys In the ordinary course of business, Thomson Reuters enters into consolidated statement of earnings.
+the following types of derivative financial instruments to manage foreign currency and interest rate exposures: Stock-Based Compensation Plans cross-currency swap agreements to hedge foreign currency STOCK INCENTIVE PLAN exposures on non-U.
+S. dollar-denominated debt: Under its stock incentive plan, Thomson Reuters may grant stock foreign currency contracts to hedge forecasted cash ows options, restricted share units RSUs, performance restricted denominated in currencies other than the functional currency share units PRSUs and other equity-based awards to certain of a particular Thomson Reuters subsidiary: employees for a maximum of up to 50,000,000 Thomson Reuters Corporation common shares or Thomson Reuters PLC ordinary interest rate swap agreements to manage the xed versus shares.
+All grants through December 31, 2008 relate to Thomson oating interest rate mix of debt.
+Such contracts require periodic Reuters Corporation common shares.
+There have been no grants exchange of payments without the exchange of the notional related to Thomson Reuters PLC ordinary shares, though the principal amount upon which the payments are based: and plan permits such grants.
+treasury lock agreements to hedge against changes in interest rates for anticipated debt offerings.
+STOCK OPTIONS The Company identies a risk management objective for each Options vest over a period of four to five years.
+All derivatives are linked to specic assets and liabilities term of an option is ten years from the date of grant.
+Options or to specic rm commitments or forecasted transactions.
+For under the plan have been granted at the closing price of derivatives designated as hedges, periodic assessments of each Thomson Reuters Corporation common shares on the day prior derivatives effectiveness are performed.
+Compensation expense related to stock options is recognized over the vesting period, based upon the estimated While the derivative financial instruments are subject to the risk fair value of the options at issuance.
+of loss from changes in exchange and interest rates, these losses are offset by gains on the exposures being hedged.
+Gains and RESTRICTED SHARE UNITS losses on cross currency swap agreements designated as hedges of existing assets and liabilities are accrued as exchange rates RSUs vest over a period of up to seven years.
+Compensation change, thereby offsetting gains and losses from the underlying expense related to RSUs is recognized over the vesting period, assets and liabilities.
+Gains and losses on foreign currency based upon the closing price of Thomson Reuters Corporation contracts designated as hedges for rm commitments or common shares on the day prior to the grant date.
+forecasted transactions are recorded in earnings when the related 70 THOMSON REUTERS

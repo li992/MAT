@@ -1,0 +1,118 @@
+Financial statements Significant accounting policies Significant accounting policies continued for the year ended 12 September 2009 Financial assets and liabilities Financial assets and financial liabilities, except for certain non-current other receivables, other current investments and derivative financial instruments, are measured initially at fair value, plus directly attributable transaction costs, and thereafter at amortised cost.
+Certain non-current other receivables comprise available-for-sale investments which are measured at market prices where available.
+Where quoted market prices in an active market are not available, and where fair value cannot be reliably measured, unquoted equity instruments are measured at cost less impairment.
+Other current investments classified under other financial assets are designated as at fair value through profit and loss because they are managed and their performance is evaluated on a fair value basis in accordance with the groups risk management and investment strategy.
+Cash and cash equivalents Cash and cash equivalents comprise bank and cash balances, call deposits and short-term investments with original maturities of three months or less.
+Bank overdrafts that are repayable on demand and form an integral part of the groups cash management are included as a component of cash and cash equivalents for the purposes of the cash flow statement.
+Derivative financial instruments Derivative financial instruments are used to manage the groups economic exposure to financial and commodity risks.
+The principal instruments used are forward foreign exchange contracts, futures, swaps or options the hedging instrument.
+The group does not use derivative financial instruments for speculative purposes.
+Derivative financial instruments are recognised in the balance sheet, within other financial assets and liabilities, at fair value at the date a derivative contract is entered into, and are subsequently remeasured to fair value at each balance sheet date.
+Fair value is based on market rates or calculated using either discounted cash flow or option pricing models consistently applied for similar types of instrument.
+These calculations take into consideration managements best estimates and assumptions based on market-related data at the balance sheet date.
+The gain or loss on subsequent fair value measurement is recognised in the income statement unless the derivative qualifies for hedge accounting, when recognition of any resultant gain or loss depends on the nature of the item being hedged.
+The purpose of hedge accounting is to mitigate the impact on the groups income statement of changes in foreign exchange or interest rates and commodity prices, by matching the impact of the hedged risk and the hedging instrument in the income statement.
+Hedge accounting is applied to derivatives that are expected to be effective in offsetting the changes in cash flows of highly probable forecast transactions the hedged item.
+To qualify for hedge accounting, the hedging relationship must meet several conditions with respect to documentation, probability of occurrence, hedge effectiveness and reliability of measurement.
+At inception of the transaction, the group documents the relationship between hedging instruments and hedged items, as well as the risk management objective and strategy for undertaking various hedging transactions.
+This includes linking all derivatives designated as hedges to specific firm commitments or forecast transactions.
+The group also documents its assessment, both at inception and at least quarterly thereafter, as to whether the derivatives that are used in hedging transactions have been, and are likely to continue to be, highly effective.
+Where a derivative financial instrument is designated as a hedge of the variability in cash flows of a highly probable forecast transaction, the effective part of the gain or loss on the derivative financial instrument is recognised in equity in the hedging reserve.
+The ineffective part of the gain or loss is recognised immediately within operating profit in the income statement.
+When the forecast transaction results in the recognition of a non-financial asset or liability, the associated cumulative gains and losses previously recognised in equity are included in the initial measurement of the cost of the asset or liability.
+Otherwise, gains and losses previously recognised in equity are removed and recognised in the income statement at the same time as the hedged transaction.
+Hedge accounting is discontinued when the hedging instrument expires or is sold, terminated, exercised or no longer qualifies for hedge accounting.
+At that time, for forecast transactions, any cumulative gain or loss on the hedging instrument recognised in equity is retained in equity until the forecast transaction occurs.
+Gains or losses on hedging instruments that relate to an underlying exposure that no longer exists are taken directly to the income statement.
+Hedges of the groups net investment in foreign operations take the form of borrowings in the currency of the investments net assets.
+The group economically hedges foreign currency exposure on recognised monetary assets and liabilities but does not normally seek hedge accounting under IAS 39.
+Any derivatives that the group holds to hedge this exposure are classified as held for trading within other financial assets and liabilities.
+Changes in the fair value of such derivatives and the foreign exchange gains and losses arising on the related monetary items are recognised within operating profit in the income statement.
+60 Associated British Foods Annual Report and Accounts 2009 Financial statements Significant accounting policies Intangible assets other than goodwill Non-operating intangible assets are intangible assets that arise on business combinations and typically include intellectual property, brands, customer relationships and grower agreements.
+Operating intangible assets are intangible assets acquired in the ordinary course of business and typically include software costs and expenditure in relation to the purchase of additional sugar quota.
+Intangible assets other than goodwill that have a finite life are stated at cost less accumulated amortisation and impairment charges.
+Intangible assets other than goodwill that do not have a finite life are stated at cost less impairment charges and are subject to an annual impairment test.
+Amortisation is charged to the income statement within operating costs on a straight-line basis over the estimated useful lives of intangible assets from the date they are available for use.
+The estimated useful lives are generally deemed to be no longer than: Customer relationships up to 5 years Grower agreements up to 10 years Technology and brands up to 15 years Goodwill All business combinations are accounted for by applying the acquisition method.
+In respect of business acquisitions that have occurred since 3 September 2004, goodwill represents the excess of the purchase consideration over the fair value of the net identifiable assets acquired, including separately identified intangible assets.
+In respect of acquisitions prior to this date, goodwill is included on the basis of its deemed cost, represented by the net book value recorded under previous GAAP.
+The classification and accounting treatment of business combinations that occurred prior to 3 September 2004 was not reconsidered on transition to IFRS.
+Certain commercial assets associated with the acquisition of a business are not capable of being recognised in the acquisition balance sheet.
+In such circumstances, goodwill is recognised, which may include, but is not necessarily limited to, workforce assets and the benefits of expected future synergies.
+Goodwill is not amortised but is subject to an annual impairment test.
+Research and development Expenditure on research activities, undertaken with the prospect of gaining new scientific or technical knowledge and understanding, is recognised as an expense in the income statement as incurred.
+Expenditure on development activities, whereby research findings are applied to a plan or design for the production of new or substantially improved products and processes, is capitalised if the product or process is technically and commercially feasible and the group has sufficient resources to complete development.
+The expenditure capitalised includes the cost of materials, direct labour and an appropriate proportion of overheads.
+Other development expenditure is recognised in the income statement as incurred.
+Capitalised development expenditure is stated at cost less accumulated amortisation and impairment charges.
+Impairment The carrying amounts of the groups intangible assets and property, plant & equipment are reviewed at each balance sheet date to determine whether there is any indication of impairment.
+If any such indication exists, the assets recoverable amount is estimated.
+For goodwill and intangibles without a finite life, the recoverable amount is estimated at each balance sheet date.
+An impairment charge is recognised whenever the carrying amount of an asset or its cash-generating unit exceeds its recoverable amount.
+Impairment charges are recognised in the income statement within operating costs.
+Impairment charges recognised in respect of cash-generating units are allocated first to reduce the carrying amount of any goodwill allocated to a cash-generating unit or group of units and then to reduce the carrying amount of the other assets in the unit or group of units on a pro rata basis.
+Calculation of recoverable amount The recoverable amount of assets is the greater of their fair value less costs to sell and value in use.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+For an asset that does not generate largely independent cash inflows, the recoverable amount is determined for the cash-generating unit to which the asset belongs.
+Reversals of impairment An impairment charge in respect of goodwill is not subsequently reversed.
+In respect of other assets, an impairment charge is reversed if there has been a change in the estimates used to determine recoverable amount.
+An impairment charge is reversed only to the extent that the assets carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment charge had been recognised.
+Associated British Foods Annual Report and Accounts 2009 61 Financial statements Significant accounting policies Significant accounting policies continued for the year ended 12 September 2009 Property, plant & equipment Items of property, plant & equipment are stated at cost less accumulated depreciation and impairment charges.
+Depreciation is charged to the income statement on a straight-line basis over the estimated useful lives of items of property, plant & equipment sufficient to reduce them to their estimated residual value.
+The estimated useful lives are generally deemed to be no longer than: Freehold buildings 66 years Plant & equipment, fixtures and fittings sugar factories, yeast plants and mills 20 years other operations 12 years Vehicles 10 years Leases A lease is defined as an agreement whereby the lessor conveys to the lessee, in return for a payment or a series of payments, the right to use a specific asset for an agreed period of time.
+Where the group is a lessee and has substantially all the risks and rewards of ownership of an asset, the arrangement is considered a finance lease.
+Finance leases are recognised as assets of the group within property, plant & equipment at the inception of the lease at the lower of fair value and the present value of the minimum lease payments.
+Depreciation on leased assets is charged to the income statement on the same basis as owned assets.
+Payments made under finance leases are apportioned between capital repayments and interest expense charged to the income statement.
+Other leases where the group is a lessee are treated as operating leases.
+Payments made under operating leases are recognised in the income statement on a straight-line basis over the term of the lease.
+The benefit of lease incentives is recognised in the income statement on a straight-line basis over the life of the lease.
+Where the group is a lessor and has transferred substantially all the risks and rewards of ownership of an asset to a lessee, the arrangement is considered a finance lease.
+For finance leases, capital amounts due from lessees are recognised as financial assets of the group within trade and other receivables at the inception of the lease at the amount of the net investment in the lease after making provision for bad and doubtful debts.
+Payments received under finance leases are apportioned between capital repayments and interest income credited to the income statement.
+Other leases where the group is a lessor are treated as operating leases.
+For operating leases, the asset is capitalised within property, plant & equipment and depreciated over its useful economic life.
+Payments received under operating leases are recognised in the income statement on a straight-line basis over the term of the lease.
+Biological assets Biological assets are measured at fair value less costs to sell.
+Cane roots and growing cane are stated at fair value determined on the following bases: Cane roots the escalated average cost, using appropriate inflation-related indices, of each year of planting adjusted for the remaining expected life.
+Expected useful lives are currently ten years in South Africa, seven years in Zambia and eight years in each of the other countries of operation.
+Growing cane the estimated sucrose content valued at the estimated sucrose price for the following season, less the estimated costs for harvesting and transport.
+When harvested, growing cane is transferred to inventory at fair value less costs to sell.
+Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost includes raw materials, direct labour and expenses, an appropriate proportion of production and other overheads, but not borrowing costs.
+Cost is calculated on a first-in first-out basis.
+62 Associated British Foods Annual Report and Accounts 2009 Financial statements Significant accounting policies New accounting policies The following interpretations issued by the International Financial Reporting Interpretations Committee IFRIC are effective for the first time in the current financial year and have been adopted by the group with no significant impact on its consolidated results or financial position: IFRIC 12 Service concession agreements IFRIC 13 Customer loyalty programmes IFRIC 14 IAS 19: The limit on a defined benefit asset, minimum funding requirements and their interaction The following standards and interpretations issued by the International Accounting Standards Board IASB or the IFRIC have not yet been adopted by the group: Amendment to IFRS 3 Business combinations and IAS 27 Consolidated and separate financial statements effective prospectively for annual periods beginning on or after 1 July 2009.
+These revised standards implement substantial revisions in the application of acquisition accounting, notably with respect to the treatment of acquisition costs, step and partial acquisitions, minority interests and contingent consideration.
+The group has reviewed these changes and, with the exception of the requirement to expense acquisition costs, does not expect them to have a material impact on the groups results.
+IFRS 8 Operating segments effective for annual periods beginning on or after 1 January 2009.
+This standard contains requirements for the disclosure of information about an entitys operating segments and also about the entitys products and services, the geographical areas in which it operates, and its major customers.
+The standard is concerned only with disclosure and replaces IAS 14 Segment reporting.
+The standard is not expected to have a material effect on the disclosure of the groups operating segments.
+Amendment to IAS 23 Borrowing costs effective for annual periods beginning on or after 1 January 2009.
+The amendment to IAS 23 generally eliminates the option to expense as incurred borrowing costs attributable to the acquisition, construction or production of a qualifying asset, and instead requires the capitalisation of such borrowing costs as part of the cost of specific assets.
+The group does not expect these changes to have a material effect on the groups results.
+IFRIC 16 Hedges of a net investment in a foreign operation effective for annual periods beginning on or after 1 October 2008.
+The IFRIC clarifies certain aspects of IAS 39 with respect to hedge accounting.
+The impact of this interpretation on the groups financial statements is not expected to be material.
+IAS 1 Revised Presentation of financial statements effective for annual periods beginning on or after 1 January 2009, endorsed by the EU in December 2008.
+IAS 27 Revised Consolidated and separate financial statements effective for annual periods beginning on or after 1 July 2009, endorsed by the EU in June 2009.
+Amendments to IFRS 7 Improving disclosures about financial instruments effective for annual periods beginning on or after 1 January 2009, not yet endorsed by the EU requires enhanced disclosures about fair value measurements of financial instruments by using a three-level fair value hierarchy that prioritises the inputs to valuation techniques used in fair value calculations.
+The amended standard also requires improved disclosure in respect of liquidity risk.
+The group is currently assessing the impact that these amendments will have on the groups disclosures.
+The group does not consider that any other standards or interpretations issued by the IASB or the IFRIC, either applicable in the current year or not yet applicable, have, or will have, a significant impact on the consolidated financial statements.
+Associated British Foods Annual Report and Accounts 2009 63 Financial statements Notes forming part of the financial statements Notes forming part of the financial statements for the year ended 12 September 2009 1.
+Segmental analysis Segment reporting is presented in respect of the groups business and geographical segments.
+The primary format, business segments, is based on the groups management and internal reporting structure and combines businesses with common characteristics.
+Inter-segment pricing is determined on an arms length basis.
+Segment results, assets and liabilities include items directly attributable to a segment as well as those that can be allocated on a reasonable basis.
+Unallocated items comprise mainly corporate assets and expenses, cash, borrowings, employee benefit balances and current and deferred tax balances.
+Segment capital expenditure is the total cost incurred during the period to acquire segment assets that are expected to be used for more than one year.
+Business segments The group is comprised of the following business segments: Grocery The manufacture of grocery products, including hot beverages, sugar & sweeteners, vegetable oils, bread & baked goods, cereals, ethnic foods, herbs & spices, and meat products which are sold to retail, wholesale and foodservice businesses.
+Sugar The growing and processing of sugar beet and sugar cane for sale to industrial users and to Silver Spoon, which is included in the grocery segment.
+Agriculture The manufacture of animal feeds and the provision of other products for the agriculture sector.
+Ingredients The manufacture of bakers yeast, bakery ingredients, speciality proteins, enzymes, lipids and yeast extracts.
+Retail Buying and merchandising value clothing and accessories through the Primark and Penneys retail chains.
+Geographical segments The secondary format presents the revenues, profits and assets for the following geographical segments: United Kingdom Europe & Africa The Americas Asia Pacific Revenues are shown by reference to the geographical location of customers.
+Profits are shown by reference to the geographical location of the businesses.
+Segment assets are based on the geographical location of the assets.
+Segmental analysis for the year ended 12 September 2009 Business segments Grocery Sugar Agriculture Ingredients Retail Central Eliminations Total m m m m m m m m Revenue from continuing businesses 3,197 1,683 1,005 1,033 2,314 162 9,070 Businesses disposed 177 8 185 Internal revenue 9 108 1 44 162 Revenue from external customers 3,365 1,575 1,004 997 2,314 9,255 Adjusted operating profit from continuing businesses 191 189 34 88 252 34 720 Businesses disposed Adjusted operating profit 191 189 34 88 252 34 720 Inventory fair value adjustment 12 12 Amortisation of non-operating intangibles 27 25 1 29 82 Profits less losses on sale of property, plant & equipment 1 1 Profits less losses on sale and closure of businesses 57 2 6 65 Profit before interest 107 149 33 53 252 34 560 Finance income 17 17 Finance expense 95 95 Other financial income 13 13 Taxation 112 112 profit for the period 107 149 33 53 252 211 383 Segment assets excluding investments in associates and joint ventures 2,414 2,570 230 1,240 1,780 54 8,288 Investments in associates and joint ventures 32 42 51 29 154 segment assets 2,446 2,612 281 1,269 1,780 54 8,442 Cash and cash equivalents 391 391 Employee benefits assets 16 16 Deferred tax assets 184 184 segment liabilities 503 557 90 150 339 296 1,935 Interest-bearing loans and overdrafts 1,390 1,390 Income tax 114 114 Deferred tax liabilities 396 396 Employee benefits liabilities 122 122 net assets 1,943 2,055 191 1,119 1,441 1,673 5,076 Capital additions 96 184 11 77 177 5 550 Depreciation 89 76 8 32 85 290 Impairment of PP&E 37 37 Amortisation 29 27 29 85 Impairment of intangibles on closure of business 6 6 Other significant non-cash expenses inventory fair value adjustment 12 12 Geographical segments United Europe The Asia Kingdom & Africa Americas Pacific Eliminations Total m m m m m m Revenue from external customers 4,140 2,027 1,253 1,835 9,255 Segment assets 3,258 2,689 1,021 1,474 8,442 Capital additions 198 189 20 143 550 Depreciation 149 62 27 52 290 Impairment of PP&E 37 37 Amortisation 14 35 26 10 85 Impairment of intangibles on closure of business 6 6 Other significant non-cash expenses inventory fair value adjustment 12 12 Associated British Foods Annual Report and Accounts 2009 65

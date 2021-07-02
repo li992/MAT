@@ -1,0 +1,45 @@
+30 Business review London Stock Exchange Group plc Annual Report 2013 TECHNOLOGY SERVICES Introduction Revenues The Groups Technology Services provides high speed trading platforms, real time market data and infrastructure products and services to our own markets and a wide range of customers including banks, specialist trading m 56.1 rms and other exchanges.
+2012: 52.6m The Technology Services division delivered a good performance with revenues up seven per cent to 56.1 million 2012: 52.6 million.
+Exchange technology We have now migrated our Italian cash market and MOT xed income market on to the Millennium Exchange trading platform and relocated the matching engine and co-location services to Milan.
+This migration has helped reduce our cost base for these markets and increased opportunities for customers to benefit from enhanced functionality and further expansion of our co-location services.
+MillenniumIT Technology Oslo Brs and Johannesburg Stock Exchange JSE both migrated on to Millennium Exchange during the year, with Oslo Brs platform hosted in London and JSEs in South Africa.
+Both exchanges will benefit from Millennium Exchanges ultra low latency and exible systems.
+The result of these migrations has enabled us to retire the legacy TradElect system and increase available resource in our data centre.
+Our UK cash equity and Turquoise platforms continue to exhibit excellent technical performance attributable to our Millennium Exchange technology.
+Our Turquoise markets have an average latency of 99 microseconds FY 2012 Q4: 102 microseconds, remaining one of the fastest operating trading platforms in the world.
+On the UK cash equities platform, average latency is 106 microseconds FY 2012 Q4: 128 microseconds, slightly higher than Turquoise due to the more diverse range of customers that it serves and the advanced functionality that it offers.
+In Post Trade Services, in preparation for the migration to TARGET2-Securities, Year ended 31 March Organic and we have begun adapting our IT systems and processes to interoperate with constant currency the T2S platform before testing in 2014.
+1 2013 2012 Variance variance Revenue m m % % In December 2012, we launched the first phase of our Group Ticker Plant.
+MillenniumIT 26.9 22.2 21 34 This high speed technology platform provides a single, normalised real Technology 29.2 30.4 4 4 time market data protocol for broadcast of market data from across the Total revenue 56.1 52.6 7 11 Group, regardless of asset class, trading platform or geography.
+The launch 1 Organic growth exludes GATElab.
+represents a significant step in our technology strategy.
+It will allow customers to connect to our markets or data products including indices via a single interface.
+OVERVIEW BUSINESS REVIEW GOVERNANCE GROUP FINANCIAL STATEMENTS SHAREHOLDER INFORMATION Business review Technology services 31 We continue to expand our co-location services with customers leveraging MillenniumIT the full benets of using the Millennium platform.
+This service enables MillenniumIT offers a leading, innovative capital markets technology service.
+trading clients to place their servers in our data centre and thus reduce MillenniumITs systems are live in over 30 capital markets businesses around network latency, leading to high performance trading access.
+We have the world, ranging from major international markets including our own to continued investing in our strategically important primary data centre emerging and frontier markets.
+MillenniumIT has been part of the Group by releasing additional data centre capacity to support business growth, since 2009. with the ability to accommodate larger server footprints and a more diversied client base.
+We are integrating FTSE into the Groups Technology MillenniumITs suite of capital market products include: Millennium Services.
+Operational staff will form a single team and work has commenced Exchange, our agship multi-asset trading platform: Millennium SOR, on migrating FTSE data servers into the Groups data centre.
+our smart order router, providing cost-effective, smart access to all markets: Millennium Surveillance, real time, scalable smart market monitoring and OeKB, the Austrian capital market infrastructure provider, selected the Group supervision: Millennium MarketData, providing high speed access to a world as technology partner to deliver a state-of-the-art, real time solution for of market data: and Millennium NewClear, bringing the Millennium advantage clearing cash market trades.
+This platform, our first commercial CCP offering, to multi-asset clearing and settlement.
+MillenniumIT also provides enterprise was successfully launched for Central Counterparty Austria CCP.
+A in April systems integration and infrastructure services to customers in Sri Lanka 2013 and enables CCP.
+A to provide best practice international clearing and and elsewhere.
+risk management services, while minimising costs.
+In 2013, MillenniumIT increased revenue by 21 per cent to 26.9 million In February 2013, we announced the acquisition of a 67 per cent stake in 2012: 22.2 million.
+GATElab, an Italian and UK based technology company supplying advanced trading and post trade technology globally.
+GATElab complements our current technology offerings through the development of multi-asset, cross-market suites of components that full the needs of buy-side, sell-side and hedge fund partners.
+32 Business review London Stock Exchange Group plc Annual Report 2013 TECHNOLOGY SERVICES Technology sales and implementation Exchange partnerships The past year has seen many successes for MillenniumIT.
+During the In 2012, the Mongolian Stock Exchange MSE completed the migration summer, in one month, MillenniumIT technology went live at three on to MillenniumITs trading, surveillance and settlement systems, as part exchanges on three continents: of a project to modernise the countrys capital markets infrastructure.
+The Group not only helped with the technology aspects of the modernisation, but In Europe: Borsa Italiana cash equity and MOT xed income markets has also worked with the MSE to introduce new rules aligned to international migrated to Millennium Exchange and switched from London to Milan standards and move the market from a pre-funded to a T 3 settlement cycle.
+In Africa: the Johannesburg Stock Exchange migrated to Millennium The Group has also delivered a wide-ranging education programme for Exchange and Surveillance Mongolian market participants.
+During the year, Mongolia was included in FTSEs Frontier market Watch List.
+In Asia: the Mongolian Stock Exchange went live with three MillenniumIT platforms for trading, surveillance and CSD.
+In January 2013, we entered into a technology partnership with Bolsa fide Valores fide Lima, the Peruvian Stock Exchange.
+MillenniumIT will provide Other migrations included: Oslo Brs on to Millennium Exchange: Bursa state-of-the-art trading and Smart Order Routing technology to Perus Malaysia implemented MillenniumITs surveillance system: the Group Ticker markets via its ultra low latency, highly scalable trading platform.
+Plant phase one was launched on MillenniumITs Market Data platform: This strategic alliance will allow Bolsa fide Valores fide Lima to keep up with and CCP.
+A in Austria went live with Millennium NewClear.
+the growing Peruvian economy, one of Latin Americas fastest growing economies, by creating a robust and vibrant capital market infrastructure.
+MillenniumIT continues to service our existing clients and has also won a number of new contracts in the past year: UK equity trading platforms The Millennium Smart Order Router product as the Orion Central Gateway platform for Hong Kong Exchanges and Clearing Limited, milliseconds to simplify its market access infrastructure 12 11.0 Compliance Monitoring System CMS for the London Metal Exchange 10 Oslo Brs contract extended to cover acquisition of Burgundy, the Nordic MTF 8 6.0 Millennium CSD technology for the Colombo Stock Exchange 6 5.0 3.7 Smart Order Router technology for TMX to aid compliance with 4 3.0 Canadian best execution regulation.
+2 1.41 0.106 0.099 0 Trading system latency milliseconds TradElect Jun 07 TradElect Oct 07 TradElect Sep 08 TradElect May 09 TradElect Jul 09 TradElect Mar 10 Millennium Exchange London Stock Exchange equity Millennium Exchange Turquoise

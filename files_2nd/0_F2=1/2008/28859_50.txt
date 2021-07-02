@@ -1,0 +1,139 @@
+Business review continued Market risk audited Traded portfolios audited Market risk arises from changes in interest rates, foreign currency, credit The primary focus of the Groups trading activities is client facilitation.
+spread, equity prices and risk related factors such as market volatilities.
+The Group also undertakes: Market risk is actively managed and aligned with the Groups risk appetite.
+Market conditions were difficult throughout 2008 with Market making quoting firm bid buy and offer sell prices with the significant volatility and write-downs across markets and portfolios.
+intention of profiting from the spread between the quotes.
+The Group manages market risk in the trading and non-trading Arbitrage entering into offsetting positions in different but closely treasury portfolios using the market risk management framework.
+The related markets in order to profit from market imperfections.
+framework includes value-at-risk VaR limits, backtesting, stress testing, scenario analysis, position sensitivity analysis and model validation.
+Proprietary activity taking positions in financial instruments as principal in order to take advantage of anticipated market conditions.
+The focus through 2008 has been on overhauling and reviewing the market risk limits for trading book activities, reflecting market Financial instruments held in the Groups trading portfolios include, but performance and events.
+are not limited to: debt securities, loans, deposits, equities, securities sale and repurchase agreements and derivative financial instruments Measurement audited futures, forwards, swaps and options.
+A number of techniques are used to calculate the Groups exposure to market risk, including VaR, sensitivity analysis and stress testing.
+The Group participates in exchange traded and over the counter OTC derivatives markets.
+The Group buys and sells financial instruments that VaR is a technique that produces estimates of the potential change in are traded or cleared on an exchange, including interest rate swaps, the market value of a portfolio over a specified time horizon at given futures and options.
+Holders of exchange traded instruments provide confidence levels.
+For internal risk management purposes, the Groups margin daily with cash or other security at the exchange, to which the VaR assumes a time horizon of one trading day and a confidence level holders look for ultimate settlement.
+The Group also buys and sells of 95%.
+The trading book market risk is calculated using VaR at a financial instruments that are traded OTC, rather than on a recognised confidence level of 99% and a time horizon of ten trading days.
+These instruments range from commoditised transactions in 2009, the Group is adopting 99% confidence limits, in line with industry derivative markets, to trades where the specific terms are tailored to the practice.
+requirements of the Groups customers.
+In many cases, industry standard documentation is used, most commonly in the form of a The Group calculates VaR using historical simulation models but does master agreement, with individual transaction confirmations.
+not make any assumption about the nature or type of underlying loss distribution.
+The methodology uses the previous 500 trading days of The Group calculates the VaR of trading portfolios at the close of market data and calculates both general market risk i. e. the risk due to business and positions may change substantially during the course of a movement in general market benchmarks and idiosyncratic market risk trading day.
+Further controls are in place to limit the Groups intra-day i. e. the risk due to movements in the value of securities by reference to exposure, such as the calculation of the VaR for selected portfolios.
+All VaR models have limitations, which include: Group cannot guarantee that losses will not exceed the VaR amounts indicated due to the limitations and nature of VaR measurements.
+Historical data may not provide the best estimate of the joint distribution of risk factor changes in the future and may fail to capture the risk of possible extreme adverse market movements which have not occurred in the historical window used in the calculations.
+VaR using a one-day time horizon does not fully capture the market risk of positions that cannot be liquidated or hedged within one day.
+VaR using a 95% confidence level does not reflect the extent of potential losses beyond that percentile.
+108 RBS Group Annual Report and Accounts 2008 Assets and liabilities in the trading book are measured at their fair value.
+provides an independent evaluation of the model for transactions Fair value is the amount at which the instrument could be exchanged in deemed by the Model Product Review Committee MPRC to be large, a current transaction between willing parties.
+The fair values are complex and or innovative.
+Any profits or losses on the revaluation of determined following IAS 39 guidance which requires banks to use positions are recognised in the daily profit and loss.
+quoted market prices or valuation techniques models that make the maximum use of observable inputs.
+When marking to market using a The VaR for the Groups 2008 trading portfolios segregated by type of model, the valuation methodologies are reviewed and approved either market risk exposure is shown below.
+by the market risk function in the business or at Group level.
+Group Risk million unaudited 70 60 50 40 30 20 10 January February March April May June July August September October November December Interest rate Credit spread FX Equity Commodity Total Note: 1 The traded market risk VaR excludes super senior tranches of asset backed CDOs.
+The average total VaR utilisation increased in 2008 compared with 2007 result of sales, reclassification of assets to the non-trading book and as a result of increased market volatility.
+This increase was offset by a write-downs.
+The average equity VaR increased in 2008 compared with reduction in trading book exposure throughout the period, due to a 2007, due to the integration of ABN AMRO from 17 October 2007. reduction in the size of the inventory held on the balance sheet as a 2008 2007 Average Period end Maximum Minimum Average Period end Maximum Minimum m m m m m m m m Interest rate 20.7 26.3 36.5 12.1 12.5 15.0 21.8 7.6 Credit spread 37.2 40.4 51.2 26.0 18.8 41.9 45.2 12.6 Currency 4.5 8.7 10.5 1.2 2.6 3.0 6.9 1.1 Equity 12.3 9.4 19.9 6.0 5.4 14.0 22.0 1.4 Commodity 6.7 6.3 18.2 0.2 0.5 1.6 Diversification 43.3 28.7 Total 44.6 47.8 60.9 29.9 21.6 45.7 50.1 13.2 The 2008 data in the table above excludes exposures to super-senior market and related exposures Super senior CDOs on page 132 and tranches of asset backed CDOs, as VaR no longer produces an Financial statements: Note 11, Financial instruments Valuation level 3 appropriate measure of risk for these exposures due to the illiquidity portfolios collateralised debt obligations on pages 204 and 205. and opaqueness of the pricing of these instruments over an extended period.
+For these exposures, the maximum potential loss is equal to the RBS Sempra Commodities LLP, the  joint venture aggregate net exposure, which was 1,398 million as at 31 December between RBS and Sempra Energy, was formed on 1 April 2008, and its 2008.
+For more information, please refer to the discussion of Credit trading risks were included in the disclosed VaR from that date.
+RBS Group Annual Report and Accounts 2008 109 Business review continued Backtesting, stress testing and sensitivity analysis audited by MPRC, a forum which brings together front office quants, market risk, The Group undertakes a programme of daily backtesting, which finance and QuaRC Quantitative Research Centre, Group Risks compares the actual profit or loss realised in trading activity to the VaR independent quantitative model review function.
+The results of the backtesting process are one of the incremental default risk, counterparty credit risk models are developed methods by which the Group monitors the ongoing suitability of its VaR both within business units and by Group functions.
+Risk models are also model.
+subject to independent review and sign-off.
+Meetings are held with the FSA every quarter to discuss the traded market risk, including changes A Risks not in VaR framework has been developed to address those in models, management, back testing results, other risks not included in market risks not adequately captured by the market standard VaR the VaR framework and other model performance statistics.
+Where risks are not included in the model various non-VaR controls e. g. position monitoring, sensitivity limits, triggers or stress Risk control audited limits are in place.
+All divisions that are exposed to market risk in the course of their business are required to comply with the requirements of the Groups The Group undertakes daily stress testing to identify the potential losses Market Risk Policy Standards MRPS.
+The main risk management tools in excess of VaR.
+Stress testing is used to calculate a range of trading are delegated authorities, specifically hard limits and discussion book exposures which result from exceptional but plausible market triggers, independent model valuation, a robust and efficient risk system events.
+Stress testing measures the impact of abnormal changes in and timely and accurate management information.
+market rates and prices on the fair value of the Group`s trading portfolios.
+GEMC approves the high-level market stress test limit for the Limits form part of the dealing authorities and constitute one of the Group.
+The Group calculates historical stress tests and hypothetical cornerstones of the market risk management framework.
+notification of a limit breach, the appropriate body must take one of the following actions: Historical stress tests calculate the loss that would be generated if the market movements that occurred during historical market events were Instructions can be given to reduce positions so as to bring the repeated.
+Hypothetical stress tests calculate the loss that would be Group within the agreed limits.
+generated if a specific set of adverse market movements were to occur.
+A temporary increase in the limit for instance, in order to allow Stress testing is also undertaken at key trading strategy level, for those orderly unwinding of positions can be granted.
+strategies where the associated market risks are not adequately captured by VaR.
+Stress test exposures are discussed with senior A permanent increase in the limit can be granted.
+management and are reported to GRC, GEMC and the Board.
+Breaches in the Group`s market risk stress testing limits are monitored and Non-traded portfolios audited reported.
+Risks in non-traded portfolios mainly arise in retail and commercial banking assets and liabilities and financial investments designated as In addition to VaR and stress testing, the Group calculates a wide range available-for-sale and held-to-maturity.
+of sensitivity and position risk measures, for example interest rate ladders or option revaluation matrices.
+These measures provide Group Treasury is responsible for setting and monitoring the adequacy valuable additional controls, often at individual desk or strategy level.
+and effectiveness of management, using a framework that identifies, measures, monitors and controls the underlying risk.
+GALCO approves Model validation governance audited the Groups non-traded market risk appetite, expressed as statistical Pricing models are developed and owned by the front office.
+Where and non-statistical risk limits, which are delegated to the businesses pricing models are used as the basis of books and records valuations, responsible.
+they are all subject to independent review and sign-off.
+Models are assessed by MPRC as having either immaterial or material model risk Various banking regulators review non-trading market risk as part of valuation uncertainty arising from choice of modelling assumptions, their regulatory oversight.
+As home regulator, the FSA has responsibility the assessment being made on the basis of expert judgement.
+Those for reviewing non-trading market risk at a Group consolidated level.
+models assessed as having material model risk are prioritised for independent quantitative review.
+Independent quantitative review aims to quantify model risk by comparing model outputs against alternative independently developed models.
+The results of independent quantitative review are used by Market Risk to inform risk limits and by Finance to inform reserves.
+Governance over this process is provided 110 RBS Group Annual Report and Accounts 2008 The Group is exposed to the following non-traded risks: Risk is managed within VaR limits approved by GALCO, through the execution of cash and derivative instruments see Note 13 on the Interest Rate Risk in the Banking Book IRRBB represents exposures accounts, on page 214.
+Execution of the hedging is carried out by the to instruments whose values vary with the level or volatility of interest relevant division through the Group`s treasury functions.
+These instruments include, but are not limited to, loans, debt risk position is reported to divisional asset and liability committees, securities, equity shares, deposits, certificates of deposits, and other GALCO and the Board.
+debt securities issued, loan capital and derivatives.
+Hedging instruments used to mitigate these risks include related derivatives such Foreign Exchange Risk in the Banking Book FXRBB represents as options, futures, forwards and swaps.
+Interest rate risk arises from exposures to changes in the values of current holdings and future the Groups non-trading activities in four principal forms: cashflows denominated in other currencies.
+Hedging instruments used to mitigate these risks include foreign currency options, currency swaps, Repricing risk arises from differences in the repricing terms of the futures, forwards and deposits.
+Foreign exchange risk results from the Groups assets and liabilities.
+Groups investments in overseas subsidiaries, associates and branches in three principal forms: Optionality arises where a customer has an option to exit a deal early.
+i Structural foreign currency exposures that arise from net investment in overseas subsidiaries, associates and branches: Basis risk arises, for example, where one month LIBOR is used to fund base rate assets.
+ii Transactional commercial foreign currency exposures that arise from mismatches in the currency balance sheet: and Yield curve risk arises as a result of non-parallel changes in the yield curve.
+iii Foreign currency profit streams.
+From an economic perspective, it is the Groups policy to minimise the Equity Risk in the Banking Book ERBB is defined as the potential sensitivity to changes in interest rates in its retail and commercial variation in the Groups non-trading income and reserves arising from businesses and, where interest rate risk is retained, to ensure that changes in equity prices income.
+This risk may crystallise during the appropriate resources, measures and limits are applied.
+course of normal business activities or in stressed market conditions.
+Equity positions in the Groups banking book are retained to achieve Non-trading interest rate risk is calculated in each business on the basis strategic objectives, support venture capital transactions or in respect of of establishing the repricing behaviour of each asset, liability and offrestructuring arrangements.
+From an economic perspective, it is the balance sheet product.
+For many retail and commercial products, the Groups policy to ensure that equity exposures in the banking book are actual interest rate repricing characteristics differ from the contractual identified, monitored and controlled, with the aim of maximising their repricing.
+In most cases, the repricing maturity is determined by the potential strategic or business value.
+market interest rate that most closely fits the historical behaviour of the product interest rate.
+For non-interest bearing current accounts, the The commercial decision to invest in equity holdings is taken by GEMC, repricing maturity is determined by the stability of the portfolio.
+The GCC or an appropriate sub-committee within delegated authority.
+repricing maturities used are approved by Group Treasury and Investments of a strategic nature are referred to GEMC for approval: divisional asset and liability committees at least annually.
+Key those involving the purchase or sale by the Group or subsidiary conventions are reviewed annually by GALCO.
+companies also require Board approval, after consideration by GEMC.
+A static maturity gap report is produced as at the month-end for each Treasury audited business, in each functional currency based on the behavioural The Groups treasury activities include its money market business and repricing for each product.
+It is Group policy to include in the gap the management of internal funds flow within the Groups businesses.
+report, non-financial assets and liabilities, mainly property, plant and In addition, this includes GBM trading portfolio assets that have been equipment and the Groups capital and reserves, spread over medium reclassified to available-for-sale.
+Money market portfolios include cash and longer term maturities.
+The report includes hedge transactions, instruments principally debt securities, loans and deposits and related principally derivatives.
+VaR for the Groups treasury portfolios, which relates mainly to interest rate risk including credit spreads, was 52.0 Any residual non-trading interest rate exposures are controlled by million at 31 December 2008 2007 5.5 million.
+During the year limiting repricing mismatches in the individual business balance sheets.
+the maximum VaR was 52.0 million 2007 6.4 million, the minimum Potential exposures to interest rate movements in the medium to long- 4.8 million 2007 1.3 million and the average 8.3 million term are measured and controlled using a version of the same VaR 2007 3.7 million.
+methodology that is used for the Groups trading portfolios.
+Net accrual income exposures are measured and controlled in terms of sensitivity over time to movements in interest rates.
+RBS Group Annual Report and Accounts 2008 111 Business review continued Non-trading interest rate VaR audited million 2007 53.6 million, the minimum was 53.9 million 2007 Non-trading interest rate VaR for the Groups treasury and retail and 32.9 million and the average was 75.1 million 2007 43.2 million.
+commercial banking activities was 70.6 million at 31 December 2008 2007 42.9 million with the major exposure being to changes in longer A breakdown of the Groups non-trading VaR on a statutory basis by term US dollar interest rates.
+During 2008, the maximum VaR was 117.6 currency is shown below.
+2008 2007 m m EUR 19.0 4.5 GBP 18.3 7.3 USD 64.8 52.8 Other 4.5 2.6 Citizens Financial Group CFG was the main contributor to overall nonMortgages, home equity loans and mortgage-backed securities MBS trading interest rate VaR.
+CFG manages non-trading interest rate risk comprise a large portion of CFGs assets.
+In the US, mortgage and with the objective of minimising accrual accounted earnings volatility.
+To home equity customers may prepay loans without penalty.
+However, do so it uses a variety of income simulation and valuation risk measures under the requirements of FAS 133, the risk that they may do so cannot that more effectively capture the risk to earnings due to mortgage be hedged in a cost effective manner and must be born by the lender.
+prepayment and competitive deposit pricing behaviour than a VaRPrepayment risk is a primary component of interest rate risk in the based methodology would.
+This balance sheet management approach banking book at CFG.
+is common for US retail banks.
+Interest rate risk in the banking book is managed by a professional treasury function which optimises the yield, whilst staying within approved limits on interest rate risk, liquidity and capitalisation.
+2008 2007 Carrying Carrying Principal 1 amount Principal 1 amount US$m US$m US$m US$m Total MBS and mortgages 63,542 63,165 69,948 69,672 MBS total high grade AA or AAA rated 26,268 25,893 26,848 26,572 rated C to A 602 600 MBS commercial high grade AA or AAA rated 2,253 2,089 2,205 2,211 MBS retail high grade AA or AAA rated 24,015 23,804 24,643 24,361 rated C to A 602 600 Residential Mortgage and Home Equity Loans non-securitised, fixed rate and ARM, prepayable 36,672 36,672 43,100 43,100 Note: 1 The principal on MBS is the redemption amount on maturity or, in the case of an amortising instrument, the sum of future redemption amounts through the residual life of the security.
+112 RBS Group Annual Report and Accounts 2008 In addition to VaR, the following measures are reported to CFG ALCO, Economic value of equity EVE sensitivity to a series of parallel Group Treasury, GALCO and the Board: movements in interest rates.
+EVE is only used within CFG and to meet the FSA prescribed standard shock test of - 200bp parallel shock.
+The sensitivity of net accrual earnings to a variety of parallel and non-parallel movements in interest rates.
+Percent increase decrease in CFG EVE 1 2% parallel downward 2% parallel movement in upward US interest movement in rates No US interest negative rates unaudited rates allowed Period end 0.7 19.0 Maximum 18.2 20.8 Minimum 0.7 4.4 Average 12.2 12.6 Note: 1 Economic value of equity is the net present value of assets and liabilities calculated by discounting expected cash flows of each instrument over its expected life.
+Risk to EVE is quantified by calculating the impact of interest rate changes on the net present value of equity and is expressed as a percentage of CFG regulatory capital.
+Sensitivity of net interest income unaudited which could reduce future net interest income, whilst balancing the cost There have been no material changes to the Group`s measurement and of such hedging activities on the current net revenue stream.
+management of the sensitivity of net interest income to movement in interest rates.
+The table below sets out the effect on future net interest income of a sustained -100bp parallel rise fall in all yield curves.
+The Group aims, through its management of market risk in non-trading portfolios, to mitigate the effect of prospective interest movements Year 1 m 100bp shift in yield curves 138.9 100bp shift in yield curves 234.1 The interest rate sensitivities in the table above are illustrative only and The projections also assume that interest rates of all maturities move by are based on simplified scenarios.
+the same amount and therefore do not reflect the potential effect on net interest income of some rates changing whilst others remain the same.
+The figures represent the effect on pro forma net interest income of movements of the yield curve based on the Groups current non-trading The projections do not take into account the effect on net interest interest rate risk profile.
+This effect however does not incorporate income of anticipated differences in changes between interest rates actions that would be taken by the business units to mitigate the effect and interest rates linked to other bases such as central bank rates or of this interest rate risk.
+In reality the business units proactively seek product rates for which the entity has discretion over the timing and to change the interest rate risk profile to minimise losses and optimise extent of rate changes.
+The projections make other simplifying net revenues.
+assumptions, including that all positions run to maturity and that there are no negative interest rates.
+RBS Group Annual Report and Accounts 2008 113

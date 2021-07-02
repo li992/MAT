@@ -1,0 +1,37 @@
+Our market The data centre industry is diverse.
+At the simplest level data centres arebuildings that have within them electrical and mechanical The data centre infrastructure that creates an environment in which computing and telecommunications equipment can run without interruption.
+As such, they provide resilient power supplies and cooling to this equipment.
+industry Different groups of operators run data centres see the key characteristics of different types of data centres in the table below.
+Telecoms companies often operate data centres to support their networks and service offerings: property-focussed companies operate data centres to service the wholesale IT outsourcing needs of large organisations: and IT services companies operate them to supply services to their customers.
+Data centres provide secure The carrier-neutral data centre operational environments A truly carrier-neutral data centre provider such as TelecityGroup isentirely independent of any network, hardware or software vendor.
+fororganisations IT and Without afliation to any one partner, a wide range of different network, application and IT service providers are present in such data centres, telecomsequipment.
+most of whom are competing to sell their services to other data centre customers.
+TelecityGroups role in the industry TelecityGroup operates highly-connected facilities in key internet hub cities across Europe.
+The presence of multiple national and international communications services operators in our data centres provides a wide range of connectivity options for customers.
+Our data centres are places in which separate networks that make up the internet meet and where bandwidth-intensive applications, content and information are hosted.
+As such, they are important network hubs, or enabling environments, of the European digital economy.
+Carrier-neutral data centres in Europe continue to experience strong growth in demand.
+This growth is driven by organisations, such as providers of internet content and cloud services, who look for premium, highly-connected data centre capacity to support the services they offer to their end users.
+During 2012, we remained focussed on developing our position as aprovider of choice for organisations looking to exploit the opportunities in the European digital economy.
+The geographic locations in which TelecityGroup operates are key international internet hubs and, as such, offer attractive growth opportunities for us.
+During 2012, in addition to ongoing investment and opening new capacity in our existing city locations such as London and Amsterdam, TelecityGroup entered the new market of Helsinki through the acquisitions of the data centre businesses Tenue and Academica.
+Helsinki is a rapidly developing internet hub which we believe offers considerable opportunities forgrowth.
+Our data centres are centrally located Typical types of data centre inkey internet hubs across Europe.
+and their attributes Theyare built to the highest technological standards and supported Wholesale System integrator operated by tried and tested resilience systems.
+Typically very large facilities Typically integrate multiple inout-of-town locations systems and applications Michael Tobin, CEO forlarge scale customer Operators provide a basic level deployments of data centre environment pluspower feeds Host and manage much of theirclients IT and server Customer typically ts out requirements individual space and often provides its own on-site Limited connectivity choice facilities and engineering teams Limited connectivity options 8 Telecity Group plc Annual report and accounts 2012 Demand growth Demand drivers: Internet trafc growth The growth in demand for carrier-neutral data centres is closely linked tothe growth in internet usage.
+remains strong Gigabits per second 12,000 Growth in internet trafc is driven by the increasing proliferation of connected people and devices.
+Examples include increasing broadband penetration, data intensive smartphone usage and mobile usage in general, digital content and the growth of cloud computing effectively 9,000 on-demand computing resource accessed over a network.
+From a system performance and commercial perspective, carrier-neutral data centres are typically selected by organisations as the location of choice for their  computer hardware due to the range 6,000 ofnetworks available to which they can connect.
+The importance of connectivity, internet exchanges and 3,000 peering The top chart on the right shows the growth in trafc over the European internet exchange points IXPs.
+An IXP is a physical combination of network switches and routers: a public junction point for carriers 0 telecoms networks service providers and ISPs Internet Service 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 Providers to exchange internet trafc.
+Networks and other organisations connect to the IXP infrastructure directly from their own hardware within Source: Euro IX, peak internet trafc the data centre.
+At these exchange points, IXP customers or members mostly Peering points within European communication service providers accept trafc from each other and carrier neutral data centres agree to carry one anothers data across their network without charge.
+1,000 There are typically just one or two major IXPs in each city market, with thelargest of those in Europe being the Amsterdam Internet Exchange AMS-IX, the London Internet Exchange LINX, the German Internet Exchange fide-CIX and the Swedish Internet Exchange Netnod.
+750 TelecityGroup hosts these and other major IXPs across Europe.
+Network service providers also have private peering agreements betweeneach other which enable direct network to network voice 500 anddata trafc exchange.
+Connecting into an IXP or using a physical datacentre cross-connect and peering directly with another operator enablesorganisations to reduce their overall communications costs, whileimproving network performance and therefore quality of 250 customerexperience.
+In summary, the networks that make up the internet can be seen as a combination of the public networks exchanging information at the IXPs, 0 and private peering between network providers, most of which happens within data centres.
+Equinix Interxion TelecityGroup Telehouse The chart bottom right shows the aggregate number of organisations Source: PeeringDB.
+com as at January 2013 listing themselves as possible peering points in the data centres of the four largest pan-European carrier-neutral data centre operators facilities as appearing on PeeringDB.
+com, a public register of networks peering in facilities across Europe.
+In-house Network operated Carrier-neutral End-user operated Operated by network service Typically centrally located close to transport providers infrastructure and telecoms networks Often located in the same location as an organisations Limited connectivity options as Extensive connectivity options enable customers own ofce network operators prefer data to access multiple network service providers and centre customers to use their IXPs directly Limited connectivity options proprietary network services Proximity to other data centre customers generates commercial opportunities within the digital ecosystems Data centre operator provides on-site engineering, t-out and ongoing technical support Telecity Group plc Annual report and accounts 2012 9

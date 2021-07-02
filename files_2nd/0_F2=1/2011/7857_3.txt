@@ -1,0 +1,259 @@
+Imagination Required Imagination Technologies is a leading multimedia, communications and processor technologies company.
+Thats why our intellectual property IP is at the heart of many of todays most iconic and highly respected consumer electronics products.
+Imaginations customers are drawn from the worlds most successful semiconductor and consumer electronics companies, as well as smaller innovative companies who are leaders in their markets.
+We are intensely relationship focused, working closely with our partners to help them get successfully to market, shipping high volumes of advanced semiconductors containing our technologies.
+Beyond our direct licensees we also work with a broad ecosystem of developers whose energy is increasingly focused on supporting Imagination-based platforms as their top priority, with comprehensive tools, middleware and support as well as the most innovative and exciting content.
+Imagination believes that SoCs systems-on-chip powering everything in the consumer and embedded electronics space can be constructed based around combinations of our unique portfolio of IP cores.
+We deliver the highest performance at lowest power consumption and silicon area by making full use of our advanced, patented low-level design features alongside system-level philosophies such as hardware multi-threading, system latency tolerance and reconfigurable multi-standard solutions.
+Our IP products offer a refined balance of programmability and optimized hardware as well as architectural and chip-level elements designed to ensure small silicon area and low power consumption while delivering classleading performance and flexibility, enabling our technologies to help our partners lead and disrupt in many markets.
+At the heart of this approach we have a simple design philosophy: deliver the maximum 2 performance per mm of silicon and per mW of power.
+We focus on the four screens which define the primary gateways for consumers to interact with their connected world: mobile phones, mobile computers, home consumer electronics and in-car.
+Mobile Computing The four-screens define the modern consumer electronics experience Home Mobile Electronics Multimedia Automotive 11 It is vital that any app or service provider delivers a consistent converged experience to its customers when they move between these devices, with particular focus on multimedia and connectivity technology domains where Imagination excels.
+Increasingly consumer electronics CE devices have to deliver the internet, computing, TV, music, navigation and more in one platform.
+It is our role to create technologies that enable better delivery of the multimedia and connectivity features consumers want now.
+Our solutions are all ultra-low power, scalable, programmable and multi-standard so they can be used across a wide range of applications and markets.
+Imagination is more than a semiconductor IP company.
+Our focus is increasingly on solutions, and that includes the extensive software and Cloud-based infrastructure required for system-level solutions.
+As consumer-centric companies increasingly focus on delivering complete application platforms which include App Stores, Cloud-based content and services and more, a consistent hardware and software platform based on our technologies makes it possible to ensure the best possible environment for delivering rich multimedia content to consumers, thanks to our thriving ecosystem of industry-leading applications and middleware developers.
+Over half a billion chips containing our technologies have Graphics already been shipped to date, almost half of those Video shipping within the past year.
+Indeed, we are expecting Adoption our partners to ship around one billion units per annum Rate Comms within five years.
+We currently hold The Queens award for Enterprise in the Flow, connected micro & M2M International Trade category, presented to the company 2011 Time for its success in licensing ground-breaking technologies used in highly successful consumer electronics products.
+This is the fifth Queens award we have won.
+Everything we do is underpinned by our four key technologies, which address the inescapable truth of modern consumer and electronics product design: that for any market of sufficiently high volume the most successful solution will be a single system-on-chip SoC.
+Meta PowerVR Apps Graphics Ensigma PowerVR DSP TV Radio Flow Display Real Time W Wi Wi i-FFi Fi i PowerVR Audio Our key technologies: Video PowerVR, Meta, Ensigma and Flow 12 Business Overview Imagination today has a highly skilled workforce of around 900 people from over 25 different nationalities, across more than a dozen countries.
+More than 80% of these are qualified engineers.
+Our sales teams and local management are located in all the key regional markets that we serve to ensure that customers always have access to someone who speaks their language in their time zone.
+We also have R&D centres in strategically strong technology regions to exploit local skills and academic excellence.
+Our headquarters and largest R&D base is in Kings Langley, near London, UK, with other R&D centres in Chepstow and Leeds in the UK, as well as rapidly growing centres in the USA, India and Poland.
+We keep close to our technology customers and partners worldwide, with sales and support offices in the USA, Europe, Japan, China, Korea and Taiwan.
+Our consumer electronics division, PURE, has offices in Australia, Ireland, the USA, Italy, France and Germany and operations and R&D in China.
+Imagination has delivered on a strategy of innovation and diversification that has created a globally recognized technology company.
+Thanks to the long and deep relationships we have with our licensees, strategic partners and our shareholders, we believe the lives of hundreds of millions of consumers around the world are being enriched by Imagination.
+Imagination worldwide Headquarters R&D Sales UK Technology Technology UK and India UK, Japan, Korea, Taiwan and USA PURE PURE UK, India and China UK, Australia, France, Italy, Germany, Ireland and USA 13 Inside Imagination Using Imagination Imagination Technologies Group plc is an international leader Our Technology business is based on IP licensing with up-front in the creation and licensing of multimedia, communications license fees plus royalties when silicon devices which use our and processor technology for use in semiconductors and in technologies are shipped.
+the development and manufacture of advanced connected From licensing to semiconductor device shipment can take consumer products.
+anything from nine months to two years or more, and it can We create new technologies in the form of hardware and take a further one to two years before our semiconductor software design IP, which we license and deliver to customers partners customers, including many of the worlds leading together with extensive tools, support and integration OEMs, deliver consumer products incorporating those expertise.
+That means Imagination has unrivalled visibility of the future of consumer electronics.
+Our customers are usually leading semiconductor companies who IP licensing makes sound commercial sense for semiconductor manufacture and sell advanced chips, companies, who are freed from the punitive cost of sometimes referred to as SoCs, with our developing all their required technology in-house, enabling technology inside.
+them to concentrate on the competencies at the heart of their businesses such as SoC integration, product range The Group consists of two divisions: development, supply chain logistics, support, application The Technology division creates market-leading semiconductor platform development and of course their own unique IP.
+IP cores for adding graphics, video and audio acceleration, Because our IP is designed to be high performance with display enhancement, embedded processing with DSP and very low power requirements and small silicon area so it is multi-standard communications and connectivity technologies low cost to manufacture it is enabling the most advanced into designs for advanced SoCs.
+These are complemented by multimedia and communications technologies to reach every extensive software and tools, and dynamic developer support consumer and embedded application now and in the future.
+And for those licensees utilizing our connectivity capabilities, we also provide Cloud-based PURE creates innovative and stylish market-leading consumer infrastructure and services IP too.
+electronics products using chips from our IP licensees, which are sold through a wide range of channels, both retail and The PURE division develops market-leading and innovative online.
+PURE is not only consumer products.
+It consistently delivers products with an an innovation leader in key acclaimed mix of high performance and ease of use which not markets for Imagination, only dominate in PUREs target markets but also showcase the it also helps us to better capabilities of Imaginations technologies and stimulate new understand the needs of the and emerging markets.
+market, path-find new areas, PURE is the creator and manufacturer of the worlds most and directly engage with popular digital radios and connected audio devices.
+a separate business, PURE innovates in product design through the use of Imaginations IP, stimulating new and changing markets.
+14 Business Overview Why choose Imagination?
+1 Performance By combining unique innovations such as multi-threaded specialized processors and ultra-low power design with comprehensive production-ready software, the technology we offer does the job better than anything else on the market.
+2 Proven Our IP is proven in shipments of hundreds of millions of devices and hundreds of successful products from many world-class brands.
+Choosing Imagination is low risk partners know our designs will work correctly in volume production.
+3 Low Power By delivering fundamentally power-efficient architectures we enable longer battery life and less heat in mobile devices, as well as eco-friendly, fan-free, mains powered products.
+4 Roadmaps Our complete roadmaps and scalable SoC-friendly architectures mean customers can use our IP from low to high-end devices, over multiple products and markets for maximum return on investment.
+5 Solutions Our SoC and solution-based approach means that our IP is easy to integrate.
+We have strong ecosystem programmes with developers and designers who deliver everything from end products to services, middleware and applications.
+15 Multi-processor versions of our IP allow us to compete in Building on Imagination higher-end markets too, while our smallest IP cores mean Today, Imagination Technologies is a well-recognized and we are enabling higher volume, lower cost SoCs too.
+Indeed, highly respected industry leader and innovator.
+our breadth of market from low to high end has never We have made strong progress in licensing, not only for been stronger.
+individual IP cores but increasingly in broader IP portfolio The licensing we have achieved over the past few years is relationships.
+More of our partners are committing to our creating very strong and growing unit shipments and we have technologies as integral to their long term plans.
+set an exciting new target of shipping 1 billion devices within Significant design wins as well as extensive license renewals 5 years.
+and extensions in an ever expanding range of markets PURE continues its success as the leading consumer brand drive future volume and royalty revenue.
+Our partners have in its market and is continuing to grow, especially overseas.
+continued to extend their use of our IP, not just to new PURE keeps our technology firmly engaged with the latest generations of the same technology but across an increasing consumer product trends and demands, especially in Cloudnumber of our IP product families.
+PowerVR graphics remains our most mature and best known product family, but more than 30% of SoCs shipping from Imaginations Partners our partners, by volume, contain our PowerVR video IP and Each of our major IP families contains innovations and more than 40% contain Meta IP.
+We also have a diverse and capabilities that attract world-leading partners, not only as growing range of Meta processor licensees and our Ensigma customers, but as allies in the development of new markets, communications and connectivity technology is being adopted open standards and opportunities.
+by a rapidly expanding customer base, including a tier one We have four main types of partner: licensee.
+IP core licensees, who are our main customers Many of our partners now use several of our IP cores within their SoCs, significantly increasing the royalties per chip.
+Industry partners, who include the alliances and organizations which help set the pace for technology change We are now seeing customers choosing to license multiprocessor versions of our IP cores to enable them to Technology partners, representing the most innovative and build a wider range of more powerful products, and take successful technology businesses full advantage of the latest process nodes using our fully Branded consumer electronics manufacturers, including synthesizable IPs inherent scalability.
+some of the worlds most recognized OEMs Our business is not built on achieving the highest number of partners, but rather working closely with the very best in the GPU industry and keeping in step with their long-term strategies.
+GPU CPU CPU Our lead partners innovate in their primary target markets, and help shape our longer term IP roadmap to ensure that our technologies remain at the forefront of the markets we As SoCs advance, the GPU is increasingly significant address.
+Lead partners engage with us by working with our 16 Business Overview IP licensees Imagination has a dynamic industry presence, working alongside many industry bodies and other leading technology organizations such as Adobe, Google and Microsoft.
+Our involvement in standards groups such as Khronos is helping to specify the products of tomorrow, and to make sure that key open standards are in line with our technology offerings.
+Industry partners unity SUNPLUS OEM partners More and more software developers are engaging with us to benefit from our expertise and industry contacts.
+They frequently use our software development kits SDKs and tools and many ship our tools as part of their own offerings.
+They also engage with us at engineering level to ensure they can deliver the best possible experiences by optimizing their content and tools for our IP.
+We also work closely with engineering services, EDA engineers to refine the specification of new IP, helping us to Electronic Design Automation companies and silicon minimize risk and make sure we get the key features right foundries to ensure our IP is ready for deployment in the latest processes.
+first time, while providing them with the opportunity to get to market with a leading edge solution in the shortest possible time.
+Imagination made real Our PowerVR multimedia technologies continue to lead the As our IP becomes increasingly recognized as of strategic field in mobile and embedded.
+We continue to see strong importance more and more customers are engaging with us progress in other markets too with our graphics, video and as lead partners: our next generation graphics technology, display technologies being used by major manufacturers, PowerVR Series6, already has multiple lead partners.
+and supported by industry giants across a broad range of We also foster new business by providing access to our IP for operating systems.
+start-up and niche companies through a range of commercial Our video and display technologies are now shipping in the arrangements.
+Often these are speedboat companies who mobile phone, mobile computing, in-car, TV and STB markets.
+can provide aggressive focus and time to market to help our IP Our graphics technology is used in the mobile phone, handheld reach new market areas.
+multimedia, in-car, mobile computing, netbook, tablet, TV 17 and STB markets and will soon ship in the game console and Imagination continues to grow aggressively but largely camera markets too.
+However, we also continuously seek out the best technologies that complement our core IP portfolio.
+This has Our communications and processor technologies have recently led to two highly strategic acquisitions in Q4 2010: maintained their leadership position in the digital radio market HelloSoft and Caustic Graphics.
+and increased share in the connected audio and TV spaces.
+Combined with our innovative Flow technologies they will HelloSoft is one of the worlds leading providers of V. VoIP soon enable a new wave of connected products linked to the Video & Voice over Internet Protocol and wireless LAN Cloud.
+Cloud attached silicon and the technologies needed technologies.
+The acquisition of HelloSoft will enhance to enable it are a key area for Imagination, as we develop Imaginations system-level communications capabilities by the technologies that will help drive the M2M machine to providing access to leading edge V. VoIP technology.
+With the machine revolution where billions of devices will become migration to IP internet protocol networks, this is of increasing connected within the next 5-10 years.
+importance in all key markets, opening up the path for wider and deeper engagement with other parts of the telecommunications, Software technologies are critical for the success of our consumer and embedded systems value chain.
+hardware IP and much of our success is predicated on the strength of our software teams.
+Unlike many hardware IP Caustic Graphics specializes companies we excel in delivering software support, from in ray tracing, a technique comprehensive production quality drivers across all major for rendering cinema quality operating systems through to SDKs software development 3D at a level of near kits, tools and marketing demos.
+photographic realism that is impractical with traditional As we move forward, we will continue to refine, evolve and 3D graphics techniques.
+reinvent our technologies while expanding their reach into Caustic has developed further new and dynamic market areas such as healthcare, unique and patented security, smart power and M2M connectivity.
+hardware and software technologies to radically lower the cost and dramatically increase the efficiency and performance of Future Imagination ray tracing.
+Our business is not just about our ability to deliver proven The ray tracing approach has the added benefit of substantially and well-supported IP today.
+It is fundamentally driven by simplifying content creation and reducing associated cost.
+our capability to create a roadmap of future technologies that accurately anticipates the requirements of tomorrows Caustic technology operates fully in conjunction with and consumers and captures the support and increasing complements Imaginations existing graphics processing IP.
+This helps ensure Imagination stays at technological forefront, driving major innovations in the growing 3D graphics market.
+Our partnerships with the strongest suppliers to the markets we target and our compelling IP roadmaps, the cornerstone of PURE is expected to continue to develop its reach, both in Imaginations on-going leadership, will continue to take the UK and international markets.
+PURE will also pursue new us forward.
+product strategies that help Imagination to stimulate and drive new markets.
+It will continue to drive broadcast digital radio Image created using Lightworks from Lightwork Design 18 Business Overview adoption on an international level, while also fulfilling its role The ever-growing mass market deployment of our technologies as a pathfinder for our Cloud technologies.
+Indeed PUREs means that leading applications are developed first and product innovations in this area are helping to create new foremost for our technology with ports to other platforms licensable technologies for Imagination.
+coming much later, if at all.
+Competitive Imagination We have demonstrated our ability to be very robust and highly competitive in increasingly dynamic IP markets, winning key design slots with many of the leading players in our target markets and displacing our competitors.
+We are particularly pleased that, as the competitive landscape has become more crowded, evaluations of our IP by partners against alternatives has consistently shown our technological and quality advantages.
+The quality of our service and support, the reliability of our performance claims and the veracity of our R&D further reinforce these advantages.
+As use of our portfolio of IP technologies grows we are Our main competition remains not other IP companies but continually expanding our ecosystems and strategic the internal design capability of our customers.
+As such we partnership programmes, making them ever more valuable, must ensure that our IP offers benefits to our customers that comprehensive and rewarding.
+far outweigh any advantages they could achieve by designing in-house.
+Our graphics-focused PowerVR Insider programme is the leading 3D ecosystem in the mobile and embedded markets, Whilst competitors vary from core to core, Imaginations with over 24,000 members as of June 2011, including many consistent strength remains our ability to offer our exceptional leading application developers, which gives us access to performance, power consumption and functionality advantages showcase apps demonstrating the full capabilities of our in every one of the IP cores we design and develop, and PowerVR graphics technology.
+provide a one-stop-shop for all the key functional blocks of modern SoC and Cloud-based system designs.
+We have continued to expand our ecosystem programmes, to help Imaginations licensees and key partners meet and Ecosystems engage with a broad community of developers, middleware The success of our technologies naturally gives rise to providers, foundries, EDA and tool vendors, and thirdecosystems of companies that create software or hardware party support teams and provide extensive co-marketing using our IP, or create devices with our IP inside.
+opportunities for product manufacturers, content developers and semiconductor companies.
+Our ecosystem programmes, which are increasingly becoming a differentiator of Imagination, provide our licensees and partners with everything they need to ensure success and time to market.
+19 Platforms Imaginations Vision A key differentiator for Imagination is our ability to combine SoC our technologies into platforms, which directly and efficiently In order to be cost effective, complex SoCs must integrate provide solutions to our customers key requirements.
+a wide range of capabilities, which can be programmed or Compared to our competitors we place more focus on systemconfigured to allow them to be used in many functional and centric solutions, resulting in the shortest time from device geographic markets.
+This has made single chip integration development to volume sales.
+increasingly key to our customers strategies, leading to an uptake in the use of our SoC IP.
+Green Consumers demand sound environmental credentials in the Connectivity products they buy.
+Because we design all our IP for low power All mainstream consumer electronics products, including operation, our technologies are outstanding at delivering the TVs, radios, cameras, printers and more will ultimately be best performance at lowest power consumption, whether connected to the internet and to each other.
+Indeed, this battery or mains powered.
+revolution will reach far beyond these traditional consumer devices into products as diverse as security monitors, Markets instrumentation, white goods, toys and much more.
+Our While our technologies can be found in a wide variety of IP is extremely small i. e. low cost and low power ideal different product form factors, the markets we are engaged characteristics to drive this key industry trend.
+in can be broadly classified into six categories: mobile phone multimedia, handheld multimedia, home consumer, mobile Cloud computing, in-car electronics and emerging markets.
+Once a device has integrated connectivity, some of its features Increasingly, consumers expect to be able to access the broad can instead be in the Cloud, a realm of storage, processing and range of media and features they use every day no matter sharing often accessed through internet portals.
+We provide what device they are using.
+This convergence means that the a unique range of Cloud-based technologies and services six categories increasingly share common requirements.
+Our specifically designed to meet the needs of consumer and common IP across all markets enables us to drive and ride the embedded product designers, with much more to come.
+Software We look for emerging markets, or ones in which discontinuities, Our extensive software capabilities, from drivers for key or significant changes, are creating opportunities for disruptive application programming interfaces APIs over multiple new technologies and technology providers.
+We create operating systems, to application-level reference code, tutorial exceptional technologies to exploit those opportunities.
+examples and much more is a key part of our offering and a major differentiator.
+Indeed, despite being regarded as a hardware IP company, Imagination in fact has many more software engineers than hardware engineers, reflecting the significance of high quality software for our IP products.
+20 Business Overview With our class-leading PowerVR multimedia technologies, Mobile Phone Multimedia handheld multimedia products can achieve exceptional Smartphones are driving growth in the mobile phone multimedia functionality with long battery life.
+Our multimedia market and will account for around 50% of the technologies are uniquely positioned to enable the new total phone market within the next few years.
+It is increasingly generation of media players with graphics-rich applications, accepted that high performance, low power graphics and HD video encode and decode, digital broadcast reception, video are the key to making a phone smart especially as connectivity and advanced, intuitive user interfaces as elegant displays on such devices trend towards high-definition HD.
+As we move forward we expect that User interfaces and App Stores are now the key differentiators increasingly these devices will require Wi-Fi connectivity, which across phone models and brands.
+Both drive the need for ever can be enabled using our MetaFlow and Ensigma UCC families.
+App Stores drive demand for Home Consumer consistency across hardware In Digital TV and STB we are seeing the market moving at great platforms, to ensure that speed towards internet connectivity and graphically advanced content will always run UIs.
+Gaming and other apps will follow.
+regardless of what product We are now seeing significant product deployments based is being used.
+Optimizing on chip designs from our growing number of partners leading content for our IP delivers a this market.
+winning advantage for Apps developers, across an ever As the home increasingly broadening range of SoC and OS platforms.
+becomes connected our technologies are ideally PowerVR graphics leads the market for 3D graphics positioned to deliver full acceleration in mobile phones, with our PowerVR video integration of connectivity solutions not far behind.
+Handheld Multimedia In home audio we continue In the broader handheld to dominate the digital radio multimedia market, which segment and have now taken includes personal media a significant share in internet and connected audio as well as players, digital cameras and expanding our portfolio of global radio and TV standards.
+handheld games consoles, With the debut of our Flow technology we also have a number we see devices following of Cloud-based audio service offerings with our partners smartphone trends towards including music tagging, purchase and streaming.
+advanced graphical UI and App Stores.
+However certain Our multi-standard receiver and connectivity technologies, of these devices, such as Sonys PlayStation Vita are pushing complemented by our significant strengths in HD multimedia mobile graphics to new levels of realism and performance.
+video, audio and graphics enable us to provide unrivalled platform solutions in these markets.
+21 entertainment and dashboard graphics to the next level.
+High Mobile Computing performance yet low power credentials enable PowerVR This segment contains many different device types: tablets, graphics to deliver advanced multimedia experiences while netbooks, smartbooks, e-readers and laptops amongst them.
+minimizing in-dash heat build-up, while our multi-standard, Each delivers innovative and uncompromised computing multi-stream video enables the delivery of the latest TV and experiences in ultra-low-power highly mobile form factors, movies to every screen in the car.
+The converged broadcast and connectivity capabilities of our There is growing momentum Ensigma UCCP is also proving attractive within the automotive in tablets, which are market enabling increased connectivity in cars as well as the redefining mobile computing richest flow of multi-standard broadcast content, whether for consumers, and we are popping down the street or heading across continents.
+aware of much more innovation and product Emerging Markets deployment to come as this Beyond our core markets we are increasingly finding new major new market segment demands for our technology as we seek out emerging major develops.
+We can already see the way forward to our lead in this new device type, with the most significant tablets first billion units of partner devices but it is in emerging all PowerVR enabled, allowing them to combine low power for markets that we expect to find the opportunities for multimobility while delivering advanced computing performance.
+From home automation to In-car Electronics healthcare to green smart In-dash and portable navigation and in-car entertainment are energy, security and now a mature and widespread market and we continue to see Machine-to-Machine M2M our partners gaining key design wins in this area, as well as in we are seeing significant other in-car multimedia, such as cameras.
+new opportunities for all of Moving forward we expect our multimedia connectivity that electronic dashboards and Cloud technologies.
+will become the norm in new Given the diversity and capability of our IP family, and car designs and this in particular our new Flow technology, we are forging represents a considerable partnerships in emerging markets that will see the deployment opportunity for our of Imaginations technologies in an ever more diverse universe technologies.
+existing relationships in this market to expand as Imagination has already formed partnerships in several of multimedia becomes important to all aspects of car design.
+these new market areas, including healthcare, smart power and more.
+PowerVR graphics is a key technology for taking navigation, 22 Business Overview PowerVR is also now delivering advanced graphics capability Technologies to digital TV, STB, in-car and handheld gaming devices.
+Our Our unique, patented technologies are embodied in our roadmap for PowerVR will continue to deliver innovations that PowerVR, Ensigma, Meta and Flow technology families, which, lead the market, including ray-tracing and advanced multi-core whether delivered individually or as platform IP, deliver flexible solutions.
+solutions to some of the most difficult challenges of modern electronics.
+All popular APIs and operating systems OS are supported by the PowerVR graphics core family, including OpenCL 1. x, These technologies are the building blocks for solutions with OpenGL ES 1. x, 2. x and the forthcoming Halti, OpenVG 1. x, lower product costs and a differentiated end-product feature OpenGL 2. x and 3. x and DirectX 9 10 11, with solutions for iOS, set that enable our customers to lead in their chosen markets.
+Symbian, Linux, Android, QNX and the Windows family of OS.
+Our technologies strike an optimum balance between As the Windows platform drives the convergence of desktop programmability and optimized hardware, which ensures we and consumer appliances the ability to properly support achieve uncompromised performance while supporting open DirectX is key.
+Imagination is one of the only technology IP standards, which we think are crucial to convergence.
+companies with direct experience of delivering production DirectX solutions, having done so for more than 20 years.
+PowerVR Central to the PowerVR family is our GPU: a graphics The PowerVR family also includes a VPU: a video processing unit to run graphics and complex parallel tasks.
+At the heart of this technology is a unique tile-based, deferred At the heart of this rendering TBDR, shader-based architecture which allows a technology we build on very small die size to deliver higher performance and higher the underlying architectural image quality at lower power consumption than all competing philosophies of PowerVR technologies.
+graphics to use the lowest power and memory by PowerVR GPUs are also capable of doing more than only processing what is just graphics.
+By using compute-based APIs application absolutely necessary.
+Our programming interfaces such as OpenCL, the PowerVR video technology is an architecture delivers vast parallel processing power, exceptional balance of increasingly referred to as GPGPU: general purpose GPU.
+CPU hardcoded and programmable elements, which combine to scalability tends to top-out at around two to four SMP CPU deliver the most efficient multi-standard and multi-stream cores, with four cores rarely delivering much more than two video decoders and encoders.
+and a half times the performance of a single CPU.
+GPGPUs, which are inherently parallel in design, are far more scalable, Today our video decode technology is extensively deployed enabling GPUs with dozens or even hundreds of execution in smartphone, netbook, tablet and connected TV devices.
+units to become increasingly commonplace in the years ahead.
+The pace of change in this market is accelerating, driven by Indeed, we feel GPUs will increasingly come to dominate SoC consumer excitement for video content that is un-tethered heavy lifting processor-intensive computing.
+from the TV and the convergence of video cameras into 23 other mobile devices.
+Imagination is at the forefront of video Our PowerVR I2P IP cores achieve exceptional fide-interlace technology for the mobile and embedded market.
+performance up to full HD resolutions, while using innovative new algorithms to deliver the highest performance in far In future we expect our VXD decode and VXE encode video smaller silicon area than traditional solutions.
+IPs to become key features in mobile and embedded devices as the revolution in commercial video content delivery, social Our latest PowerVR FRC IP cores enable full motion estimation networking, user generated content, multi-stream preview and motion compensation MEMC frame rate conversion to 2 video telephony continues to accelerate.
+1080P240 in a silicon area from under 1.5 mm in 40LP.
+Our VXD and VXE cores support all the major video standards Today our display technologies are used across a very broad including H. 264 Base to High profile, MPEG-4, MPEG-2, range of markets and we expect particular growth in its mobile VC-1 WMV, AVS, Sorenson and JPEG.
+Many VXD cores now deployment.
+PowerVR FRC is the industrys first FRC core that also offer hardware rotation and scaling, delivering significant is sufficiently small to be integrated on an SoC while offering reductions in bandwidth and power consumption.
+When the required performance to enable deployment of FRC both in combined with on-GPU cores, many more dynamic effects can high volume mobile and embedded SoC applications, as well be achieved thanks to uniquely efficient linkage between these as more traditional FRC applications such as TV.
+cores that cannot be matched by our competitors.
+Ensigma PowerVR display is another key part of the PowerVR portfolio, Ensigmas main technology, the UCCP Universal enabling the refinement of each display pixel.
+Communications Core Platform is an RPU: a radio-processing This technology deliveres an unit to run communications and connectivity tasks.
+unrivalled range of display At the heart of this technology is a uniquely optimized enhancement technologies balance of programmability and hardware configurability, yet for high-definition TV HDTV it occupies equivalent or less silicon area than comparable to and mobile devices.
+From hard-wired, single-standard hardware solutions.
+skin tone and blue black stretch engines to state-ofUCCP is a multi-standard baseband transceiver one core for all radio, TV and connectivity standards.
+It uses a unique the-art  scan conversion combination of hardware and software to create an ideally technologies: from frame flexible architecture with programmability and fixed hardware rate conversion to display pipelines, including Stereoscopic 3D blocks in sophisticated balance.
+PowerVR display technologies have it covered.
+Our Ensigma UCC technology has already shipped in tens of With our expertise in the area of display processing, our millions of devices.
+partners have shipped tens of millions of units of PowerVR Today UCCP solves the problem of proliferating broadcast display IP into the market to date.
+and connectivity standards by supporting them all on a single device.
+24 Business Overview other multi-processor approaches.
+Hardware multi-threading is a key technology for Imagination most of our IP cores use Wi-Fi this approach to extract the maximum possible processor Processor Memory CPU performance from every clock cycle.
+Radio Conventional CPUs stall frequently due to what is known as a TV Communications Multimedia cache miss, a mismatch between the data the CPU requires Modem RPU GPU VPU and the data held in cache memory.
+It can take thousands of processing cycles to re-sync.
+Meta switches between up SoC to four virtual CPUs clock by clock, optimizing the use of all execution resources within the CPU every single clock cycle.
+We keep adding new standards support to the UCCP family The result is a processor that almost always executes useful including DVB-T2, DVB-S2 S, worldwide cable DVB-C J.
+83B work every clock, making it far more efficient.
+ISDB-C and GB20600 Chinese Digital Terrestrial TV.
+These formats extend the already broad range supported by the Meta evolved from technologies used in PowerVR graphics.
+UCCP family, which already supports the 802.11a b g family of As well as being an integral part of our UCCP and PowerVR Wi-Fi standards, digital TV ATSC 8VSB, Nordig Unified 2.0 video platforms, Meta is licensed as a core part of SoC designs DVB-T, Full-seg ISDB-T, mobile TV DVB-H, T-DMB, 1-seg based on our IP.
+It is also now being increasingly licensed as ISDB-T and digital radio DAB, DAB and FM with RDS and a stand-alone embedded processor as more of our partners 3-seg ISDB-T. come to appreciate its unique capabilities.
+In the future we will grow the range of standards supported Today Meta enables over 70% of DAB digital radios and a wide by the UCCP even further with support for 802.11n Wi-Fi up range of connected audio devices.
+to 4x4 MIMO and Bluetooth 2.1 EDR and 3.0, CMMB, and In future Meta will also be used in emerging markets such other emerging communications and broadcast standards.
+as healthcare and smart power.
+It will continue to be a key Availability of these will be announced together with partners part of our video solutions and our new MetaFlow connected in due course as the Ensigma ecosystem continues to gain processor family, which will enable always on internet momentum.
+connectivity in mass market consumer and embedded products.
+Meta Meta is a CPU: a multi-threaded central processing unit to run Meta processors run a wide operating systems and signal processing like audio.
+range of operating systems, including full Linux both Metas unified architecture delivers powerful digital signal single processor and processing DSP and general-purpose processing within the symmetric multi-processor same CPU, while multi-threading hides memory latency in SMP, Android, and our SoC solutions, enabling it to deliver up to three times the own MeOS real-time performance of similar conventional CPUs.
+Meta has all the benefits of multi-processor solutions but uses less silicon resource and development complexity than 25 the broad range of engineering and commercial know-how and Flow Technology resources usually only found in the biggest industry players.
+Imaginations Flow technology is a comprehensive and unique end-to-end connectivity solution, optimized for MetaFlow Flow technology will enable processors and incorporating the sophisticated and highly the growth and acceleration configurable FlowWorld portal.
+It establishes a new benchmark of markets for products for connecting devices to the Cloud.
+featuring connectivity across an increasingly diverse Flow technology enables an end-to-end solution for delivery range of applications such of services and content between service providers and as home automation, users through the cloud.
+This highly streamlined IP platform security, entertainment, will become a key enabler of future always-on internet toys, and healthcare.
+categories will be created Flow technology is already being used to deliver PUREs and old ones revitalised by this ubiquitous connectivity Lounge portal and FlowSongs music purchase and Cloud technology, which enables embedded devices to deliver their audio service.
+functionality using an optimal mix of local and internet resources.
+Just as we helped to revolutionize the use of In the future using Flow technology, we will enable the next graphics across the mobile and embedded markets we intend wave of ubiquitous connectivity in all manner of embedded to do the same for connected embedded devices with products across consumer, industrial and enterprise segments.
+Using the platforms advanced APIs it is possible for a wide range of developers, large and small, to prototype and deploy truly connected products and solutions without requiring Services Products Flow APIs Flow APIs Security, healthcare, payment Cameras, tablets, doorbells music, smart power coffee machines, toys Internet the Cloud MetaFlow Fl FlowW Worl ld Connected Servers Processor Connecting consumer and M2M devices to cloud-based services shrink-wrapped 26 Business Overview accelerate time to market for their products by providing Supporting our IP software integration, customization and optimization services.
+As well as our core technologies we have a number Together they enable licensees to fully exploit our IP offerings.
+of important technology offerings that support our customers designs.
+Imagination focuses on how to most practically deliver our IP, a feature we think is crucial to our success as an IP company.
+Via Codescape is our comprehensive suite of development IMGworks for example we implement our IP on test chips and tools, which supports the advanced and unique features optimize layouts for customer silicon so that we can then offer of Imaginations IP cores.
+On-time delivery of leading-edge IP which is in the best possible state for swift time to volume.
+embedded solutions requires world-class tools.
+Codescape By working closely with EDA companies and foundries, streamlines programming, debugging and application IMGworks ensures our IP is ready to be used in any design optimization at all stages of SoC development to reduce flow and at all process nodes.
+time-to-market and ensure the best power consumption and system use.
+We only ship synthesizable IP which can be used at any silicon manufacture process node, whether by companies on the Codescape already supports heterogeneous multi-processor cutting edge of process development, or by smaller fabless SoCs making it a unique debug environment that works on all companies using tried and trusted processes and aggressive of the SoC, not just parts.
+We are continuing to expand the cost engineering.
+toolchain across all of our IP families.
+The quality of support we offer our licensees both before and IMGworks is an SoC after licensing is a crucial differentiator of our business.
+We integration support continue to grow our support teams around the world, allowing capability that we offer our us to provide extensive on-site support close to our licensees customers to help them and partners wherever it is needed, whatever the time zone.
+deliver their SoC designs, We also have the capability to host multiple partners at our totally focused on solving offices in the UK.
+the most difficult problems in specific and challenging areas of silicon design.
+IMGworks offers the complete range of SoC integration, physical design, and custom development services.
+We also have our Platform Services group which is dedicated to helping customers 27 PURE is the UKs number one radio brand and is now a PURE significant presence in overseas radio markets including the As well as our Technology division, Imagination has a USA, Norway, Denmark, France, Australia, Belgium, Italy, consumer electronics division, PURE, which is tasked Ireland, Switzerland, Germany and Malta.
+with delivering market driving products in pursuit of our overall strategy.
+PURE will continue to strengthen its handheld and in-car DAB options, creating further convergence products for First and foremost PURE creates award-winning consumer docking and streaming and developing new music streaming products which lead in their chosen markets.
+There will be key extensions to the connected on a foundation of innovative products which have won many product range, further exclusive Lounge content and major loyal fans.
+The success of those products created the basis updates to Lounge apps across multiple platforms.
+PURE for a brand built on product quality and ground-breaking new recently completely revamped the Lounge adding a music features.
+We are now able to use the strength of that brand to store and new search facilities.
+PUREs on-going range drive new product concepts utilizing our IP into the market to a refreshment programme will introduce compelling new highly receptive audience.
+features and help invigorate the digital radio market, as The PURE brand encompasses ground-breaking and will further promotional campaigns to be introduced by the award-winning products that have won strong media and broadcasters with whom PURE works closely.
+The Groups investment in developing its new Flow IP portfolio, Beyond that PURE keeps us in touch with consumers first deployed in the PURE Flow range, will enable Imagination preferences and enthusiasms, integrates and promotes our to drive the next generation of Cloud-based products and technology, acts as a pathfinder and catalyst in new markets, services.
+and is a potentially attractive lead customer design-win for our These connected technologies and services are considered of licensees chips.
+significant strategic importance to the Group.
+PURE is making PURE has recently launched three more radios with Flow valuable contributions to the development of fundamental technology ONE Flow, Contour and Sirocco 550, which takes intellectual property in this area, which is a key factor in the the connected range to eight products.
+The PURE Lounge internet portal, based on FlowWorld portal We are confident that as the digital switchover gathers technology, now offers over 18,000 internet radio stations, pace across Europe and the world PURE is well positioned along with podcasts, listen again content and unique PURE to maintain its leadership position in radio, audio and other sounds.
+markets, while continuing to deliver new and strategic technologies back into Imaginations Technology division.
+28 Business Overview 29 Directors and Advisers 30

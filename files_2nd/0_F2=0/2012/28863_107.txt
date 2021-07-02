@@ -1,0 +1,369 @@
+GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 393 RBS GROUP 2012 11 Financial instruments - valuation Senior Management Valuation Control Committees meet formally on a Valuation of financial instruments carried at fair value monthly basis to discuss independent pricing, reserving and valuation Control environment issues relating to both Markets and Non-Core exposures.
+All material The Group's control environment for the determination of the fair value of methodology changes require review and ratification by these financial instruments includes formalised protocols for the review and committees.
+The committees include valuation specialists representing validation of fair values independent of the businesses entering into the several independent review functions which comprise Market Risk, transactions.
+There are specific controls to ensure consistent pricing QuaRC and Finance.
+policies and procedures, incorporating disciplined price verification.
+The Group ensures that appropriate attention is given to bespoke The Group Executive Valuation Committee discusses the issues transactions, structured products, illiquid products and other instruments escalated by the Modelled Product Review Committee, Markets and Nonwhich are difficult to price.
+Core Senior Management Valuations Control Committees and other relevant issues.
+This committee covers key material and subjective A key element of the control environment is the independent price valuation issues within the trading businesses and provides a ratification verification IPV process.
+Valuations are first performed by the business to the appropriateness of areas with high levels of residual valuation which entered into the transaction.
+Such valuations may be directly from uncertainty.
+Committee members include the Group Finance Director, the available prices, or may be derived using a model and variable model Group Chief Accountant, the Group Head of Market and Insurance Risk, inputs.
+These valuations are reviewed, and if necessary amended, by a the Markets Chief Financial Officer, the Non-Core Chief Financial Officer, team independent of those trading the financial instruments, in light of the Head of QuaRC, the Head of GPU and representation from Front available pricing evidence.
+IPV variances are classified as hard, soft or indicative.
+A variance is hard Valuation issues, adjustments and reserves are reported to Markets, where the independent information represents tradable or liquid prices Non-Core and Group Audit Committees.
+Key judgmental issues are and soft where it does not.
+Variances are classed as indicative where the described in the reports submitted to these Audit Committees.
+independent evidence is so subjective or sparse that conclusions cannot be formed with a sufficient degree of confidence.
+Adjustments are Market risk metrics such as value-at-risk VaR and stressed value-at-risk required for all hard variances and for aggressive soft variances, with SVaR cover financial instruments in Markets and Non-Core.
+The Group conservative and indicative variances not requiring automatic adjustment.
+has a framework for quantify those market risks not adequately captured IPV is performed at a frequency to match the availability of independent by standard market risk framework such as VaR and SVaR - Risks not in data.
+For liquid instruments, the standard is to perform IPV daily.
+Refer to page 245 for details.
+minimum frequency of review in the Group is monthly for exposures in New products the regulatory trading book and quarterly for exposures in the regulatory The Group has formal review procedures owned by Group Operational banking book.
+Monthly meetings are held between the business and the Risk to ensure that new products, asset classes and risk types are support functions to discuss the results of the IPV and reserves process appropriately reviewed to ensure, amongst other things, that valuation is in detail.
+The IPV control includes formalised reporting and escalation of appropriate.
+The scope of this process includes new business, markets, any valuation differences in breach of established thresholds.
+The Global models, risks and structures.
+Pricing Unit GPU determines IPV policy, monitors adherence to that policy and performs additional independent reviews on highly subjective Valuation hierarchy valuation issues for Markets and Non-Core.
+There is a process to review and control the classification of financial instruments into the three level hierarchy established by IFRS 7.
+Some During 2012, the Group has made a significant and ongoing investment instruments may not easily fall into a level of the fair value hierarchy per into enhancing its already robust control environment.
+This included IFRS 7 refer to pages 399 and 400 and judgment may be required as to continuing investment into a global IPV and reserving tool which partly which level the instrument is classified.
+automates the process of carrying out IPV and consolidation of reserves into a single central portal.
+Initial classification of a financial instrument is carried out by the Business Unit Control team following the principles in IFRS.
+The Business Unit Valuation models are subject to a review process which requires different Control team base their judgment on information gathered during the IPV levels of model documentation, testing and review, depending on the process for instruments which include the sourcing of independent prices complexity of the model and the size of the Group's exposure.
+The quality and completeness of the information element of the control environment for model use is a Modelled Product gathered in the IPV process gives an indication as to the liquidity and Review Committee, made up of valuations experts from several functions valuation uncertainty of an instrument.
+This committee sets the policy for model documentation, testing and review, and prioritises models with significant These initial classifications are challenged by GPU and are subject to exposure for review by the Group's Quantitative Research Centre senior management review.
+Particular attention is paid during the review QuaRC.
+Potential valuation uncertainty is a key input in determining processes upon instruments crossing from one level to another, new model review priorities at these meetings.
+The QuaRC team within Group instrument classes or products, instruments that are generating Risk, which is independent of the trading businesses, assesses the significant profit and loss and instruments where valuation uncertainty is appropriateness of the application of the model to the product, the high.
+mathematical robustness of the model, and where appropriate, considers alternative modelling approaches.
+393 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 394 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued correlation: if they move in opposite directions there is negative Valuation techniques correlation.
+Volatility is a key input in valuing options and the The Group derives fair value of its instruments differently depending on valuation of certain products such as derivatives with more than one whether the instrument is a non-modelled or a modelled product.
+Volatility and correlation values are obtained from broker quotations, pricing Non-modelled products services or derived from option prices.
+Non-modelled products are valued directly from a price input and are typically valued on a position by position basis and include cash, equities x Prepayment rates - the fair value of a financial instrument that can and most debt securities.
+be prepaid by the issuer or borrower differs from that of an instrument that cannot be prepaid.
+In valuing prepayable Modelled products instruments that are not quoted in active markets, the Group Modelled products are those that are valued using a pricing model, considers the value of the prepayment option.
+ranging in complexity from comparatively vanilla products such as x Counterparty credit spreads - adjustments are made to market interest rate swaps and options e. g. interest rate caps and floors prices or parameters when the creditworthiness of the counterparty through to more complex derivatives.
+The valuation of modelled products differs from that of the assumed counterparty in the market price or requires an appropriate model and inputs into this model.
+models are also used to derive inputs e. g. to construct volatility surfaces.
+The Group uses a number of modelling methodologies.
+x Recovery rates loss given default - these are used as an input to valuation models and reserves for asset-backed securities and other Inputs to valuation models credit products as an indicator of severity of losses on default.
+Values between and beyond available data points are obtained by Recovery rates are primarily sourced from market data providers or interpolation and extrapolation.
+When utilising valuation techniques, the inferred from observable credit spreads.
+fair value can be significantly affected by the choice of valuation model and by underlying assumptions concerning factors such as the amounts The Group may use consensus prices for the source of independent and timing of cash flows, discount rates and credit risk.
+The principal pricing for some assets.
+The consensus service encompasses the equity, inputs to these valuation techniques are as follows: interest rate, currency, commodity, credit, property, fund and bond x Bond prices - quoted prices are generally available for government markets, providing comprehensive matrices of vanilla prices and a wide bonds, certain corporate securities and some mortgage-related selection of exotic products.
+Markets and Non-Core contribute to products.
+consensus pricing services where there is a significant interest either from a positional point of view or to test models for future business use.
+x Credit spreads - where available, these are derived from prices of Data sourced from consensus pricing services is used for a combination credit default swaps or other credit based instruments, such as debt of control processes including direct price testing, evidence of securities.
+For others, credit spreads are obtained from pricing observability and model testing.
+In practice this means that the Group services.
+submits prices for all material positions for which a service is available.
+x Interest rates - these are principally benchmark interest rates such In order to determine a reliable fair value, where appropriate, as the London Interbank Offered Rate LIBOR, Overnight Index management applies valuation adjustments to the pricing information Swaps rate OIS and other quoted interest rates in the swap, bond gathered from the above sources.
+These adjustments reflect the Group's and futures markets.
+assessment of factors that market participants would consider in setting a x Foreign currency exchange rates - there are observable markets price.
+Furthermore, on an ongoing basis, the Group assesses the both for spot and forward contracts and futures in the world's major appropriateness of any model used.
+To the extent that the price provided currencies.
+by internal models does not represent the fair value of the instrument, for instance in highly stressed market conditions, the Group makes x Equity and equity index prices - quoted prices are generally readily adjustments to the model valuation to calibrate to other available pricing available for equity shares listed on the world's major stock sources.
+Where unobservable inputs are used, the Group may determine exchanges and for major indices on such shares.
+a range of possible valuations derived from differing stress scenarios to determine the sensitivity associated with the valuation.
+When establishing x Commodity prices - many commodities are actively traded in spot the fair value of a financial instrument using a valuation technique, the and forward contracts and futures on exchanges in London, New Group considers certain adjustments to the modelled price which market York and other commercial centres.
+participants would make when pricing that instrument.
+Such adjustments x Price volatilities and correlations - volatility is a measure of the include the credit quality of the counterparty and adjustments to tendency of a price to change with time.
+Correlation measures the compensate for any known model limitations.
+degree which two or more prices or other variables are observed to move together.
+If they move in the same direction there is positive 394 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 395 RBS GROUP 2012 Valuation reserves When valuing financial instruments in the trading book, adjustments are made to mid-market valuations to cover bid-offer spread, liquidity and credit risk.
+The following table shows credit valuation adjustments and other reserves.
+Credit valuation adjustments Valuation adjustments represent an estimate of the adjustment to fair value that a market participant would make to incorporate the risk inherent in derivative exposures.
+Certain credit derivative product company CDPC exposures were restructured during the first half of the year and the credit valuation adjustment methodology applied to these exposures was updated to reflect the revised risk mitigation strategy that is now in place.
+There were no other changes to valuation methodologies.
+2012 2011 2010 m m m Credit valuation adjustments CVA - monoline insurers 192 1,198 2,443 - credit derivative product companies 314 1,034 490 - other counterparties 2,308 2,254 1,714 2,814 4,486 4,647 Bid-offer, liquidity, funding, valuation and other reserves 1 1,997 2,704 2,797 Valuation reserves 4,811 7,190 7,444 Note: 1 Includes bid-offer reserves of 625 million 2011 - 806 million, funding valuation adjustment of 475 million 2011 - 552 million, product and deal specific reserves of 763 million 2011 - 1,040 million, valuation basis reserves of 103 million 2011 - 253 million and other reserves of 31 million 2011 - 53 million.
+Key points x Restructuring of certain monoline exposures resulted in gross x The increase in credit valuation adjustment held against exposure to exposure reducing from 1.9 billion at 31 December 2011 to 0.6 other counterparties was driven by the impact of counterparty rating billion at 31 December 2012 and the CVA decreasing.
+Tighter credit downgrades and an increase in sector specific reserves, partially spreads also contributed to the reduction in credit valuation offset by tighter credit spreads.
+x Within other reserves, bid-offer reserves decreased, primarily x CDPCs gross exposure decreased by 1.3 billion from 1.9 billion in reflecting restructuring in the second half of 2012, due to risk December 2011 to 0.6 billion at 31 December 2012.
+This was reduction and the impact of Greek government debt restructuring.
+primarily driven by tighter credit spreads of the underlying reference loans and bonds together with a decrease in the relative value of senior tranches compared with the underlying reference portfolio and the impact of restructuring certain exposures in the first half of the year.
+The valuation adjustment, incorporating transactions and related risk mitigation strategies that are now in place, decreased on an absolute basis in line with the decrease in exposure while remaining stable on a relative basis.
+395 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 396 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued The gross mark-to-market of the CDPC protection is determined using Monoline insurers industry standard models.
+Trade restructurings during the second half of The Group has purchased protection from monoline insurers 2012 provided market evidence of the fair value of certain CDPC monolines, mainly against specific asset-backed securities.
+Monolines exposures resulting in valuation adjustments of 279 million at specialise in providing credit protection against the principal and interest 31 December 2012.
+These adjustments are also included in the table cash flows due to the holders of debt instruments in the event of default above.
+For trades facing other CDPCs, the methodology employed to by the debt instrument counterparty.
+This protection is typically held in the calculate the CDPC CVA is different to that outlined above for monolines, form of derivatives such as credit default swaps CDSs referencing as there are no market observable credit spreads and recovery levels for underlying exposures held directly or synthetically by the Group.
+The level of expected loss on these CDPC exposures is estimated with reference to risk mitigation strategies.
+The gross mark-to-market of the monoline protection depends on the value of the instruments against which protection has been bought.
+A Other counterparties positive fair value, or a valuation gain, in the protection is recognised if The CVA for all other counterparties is calculated on a portfolio basis the fair value of the instrument it references decreases.
+For the majority reflecting an estimate of the amount a third party would charge to assume of trades the gross mark-to-market of the monoline protection is the credit risk.
+determined directly from the fair value price of the underlying reference instrument.
+However, for the remainder of the trades the gross mark-toWhere exposure exists to a counterparty that is considered to be close to market is determined using industry standard models.
+default, the CVA is calculated by applying expected losses to the current level of exposure.
+Otherwise, expected losses are applied to estimated The methodology employed to calculate the monoline CVA uses market potential future exposures which are modelled to reflect the volatility of implied probability of defaults and internally assessed recovery levels to the market factors which drive the exposures and the correlation between determine the level of expected loss on monoline exposures of different those factors.
+Potential future exposures arising from vanilla products maturities.
+The probability of default is calculated with reference to including interest rate and foreign exchange derivatives are modelled market observable credit spreads and recovery levels.
+CVA is calculated jointly using the Group's core counterparty risk systems.
+The majority of at a trade level by applying the expected loss corresponding to each the Group's CVA held in relation to other counterparties arises on these trades expected maturity, to the gross mark-to-market of the monoline vanilla products together with exposures to counterparties which are protection.
+The expected maturity of each trade reflects the scheduled considered to be close to default.
+The exposures arising from all other notional amortisation of the underlying reference instruments and product types are modelled and assessed individually.
+The potential whether payments due from the monoline are received at the point of future exposure to each counterparty is the aggregate of the exposures default or over the life of the underlying reference instruments.
+arising on the underlying product types.
+Credit derivative product companies CDPC The correlation between exposure and counterparty risk is also A CDPC is a company that sells protection on credit derivatives.
+CDPCs incorporated within the CVA calculation where this risk is considered are similar to monoline insurers, however they are not regulated as significant.
+The risk primarily arises on credit derivative trades where the insurers.
+default risk of the referenced entity is correlated with the counterparty risk.
+The risk also arises on trades with emerging market counterparties The Group has purchased credit protection from CDPCs through where the gross mark-to-market value of the trade, and tranched and single name credit derivatives.
+The Group's exposure to therefore the counterparty exposure, increases as the strength of the CDPCs is predominantly due to tranched credit derivatives tranches.
+tranche references a portfolio of loans and bonds and provides protection against total portfolio default losses exceeding a certain percentage of Collateral held under a credit support agreement is factored into the CVA the portfolio notional the attachment point up to another percentage the calculation.
+In such cases where the Group holds collateral against detachment point.
+counterparty exposures, CVA is held to the extent that residual risk remains.
+The Group has predominantly traded senior tranches with CDPCs, the average attachment and detachment points are 16% and 49% Bid-offer, liquidity and other reserves respectively 2011 - 13% and 47%: 2010 - 13% and 49%, and the Fair value positions are adjusted to bid or offer levels, by marking majority of the loans and bonds in the reference portfolios are investment individual cash based positions directly to bid or offer or by taking bidgrade.
+offer reserves calculated on a portfolio basis for derivatives exposures.
+The bid-offer approach is based on current market spreads and standard market bucketing of risk.
+396 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 397 RBS GROUP 2012 Risk data are used as the primary sources of information within bid-offer The discount rates applied to derivative cash-flows in determining fair calculations and are aggregated when they are more granular than value reflect any underlying collateral agreements.
+Bid-offer adjustments for each risk factor derivatives are generally discounted at the relevant OIS rates at an including delta the degree to which the price of an instrument changes individual trade level.
+Uncollateralised derivatives are discounted with in response to a change in the price of the underlying, vega the degree reference to funding levels by applying a funding spread over benchmark to which the price of an instrument changes in response to the volatility in interest rates on a portfolio basis funding valuation adjustment.
+the price of the underlying, correlation the degree to which prices of different instruments move together and others are determined by Amounts deferred on initial recognition aggregating similar risk exposures arising on different products.
+On initial recognition of financial assets and liabilities valued using Additional basis bid-offer reserves are taken where these are charged in valuation techniques incorporating information other than observable the market.
+Risk associated with non-identical underlying exposures is market data, any difference between the transaction price and that not netted down unless there is evidence that the cost of closing the derived from the valuation technique is deferred.
+Such amounts are combined risk exposure is less than the cost of closing on an individual recognised in profit or loss over the life of the transaction: when market basis.
+data becomes observable: or when the transaction matures or is closed out as appropriate.
+At 31 December 2012, net gains of 153 million 2011 Bid-offer spreads vary by maturity and risk type to reflect different - 161 million: 2010 - 167 million were carried forward.
+During the year, spreads in the market.
+For positions where there is no observable quote, net gains of 39 million 2011 - 89 million: 2010 - 62 million were the bid-offer spreads are widened in comparison to proxies to reflect deferred and 47 million 2011 - 95 million: 2010 - 99 million reduced liquidity or observability.
+Bid-offer methodologies also recognised in the income statement.
+incorporate liquidity triggers whereby wider spreads are applied to risks above pre-defined thresholds.
+Own credit The Group takes into account the effect of its own credit standing when Netting is applied on a portfolio basis to reflect the level at which the valuing financial liabilities recorded at fair value in accordance with IFRS.
+Group believes it could exit the portfolio, rather than the sum of exit costs Own credit spread adjustments are made to issued debt held at fair for each of the portfolios individual trades.
+For example, netting is value, including issued structured notes, and derivatives.
+An own credit applied where long and short risk in two different maturity buckets can be adjustment is applied to positions where it is believed that counterparties closed out in a single market transaction at less cost than by way of two would consider the Group's creditworthiness when pricing trades.
+This reflects the fact that to close down the portfolio, the net risk can be settled rather than each long For issued debt and structured notes this adjustment is based on debt and short trade individually.
+issuance spreads above average inter-bank rates at a range of tenors.
+Secondary senior debt issuance spreads are used in the calculation of Vanilla risk on exotic products is typically reserved as part of the overall the own credit adjustment applied to senior debt.
+portfolio based calculation e. g. delta and vega risk on exotic products are included within the delta and vega bid-offer calculations.
+Aggregation of The fair value of the Group's derivative financial liabilities has also been risk arising from different models is in line with the Group's risk adjusted to reflect the Group's own credit risk.
+The adjustment takes into management practices: the model review control process considers the account collateral posted by it and the effects of master netting appropriateness of model selection in this respect.
+Product related risks such as correlation risk, attract specific bid-offer The own credit adjustment for fair value does not alter cash flows, is not reserves.
+Additional reserves are provided for exotic products to ensure used for performance management, is disregarded for regulatory capital overall reserves match market close-out costs.
+These market close-out reporting processes and will reverse over time as the liabilities mature.
+costs inherently incorporate risk decay and cross-effects taking into account how moves in one risk factor may affect other inputs rather than The reserve movement between periods will not equate to the reported treating all risk factors independently that are unlikely to be adequately profit or loss for own credit.
+The balance sheet reserves are stated by reflected in a static hedge based on vanilla instruments.
+Where there is conversion of underlying currency balances at spot rates for each period limited bid-offer information for a product, the pricing approach and risk whereas the income statement includes intra-period foreign exchange management strategy are taken into account when assessing the sell-offs.
+The effect of change in credit spreads could be reversed in future periods, provided the liability is not repaid at a premium or a discount.
+397 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 398 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued The following table shows the cumulative own credit adjustment recorded on securities held-for-trading HFT, classified as fair value through profit or loss DFV and derivative liabilities.
+It is disregarded for regulatory capital reporting purposes and will reverse over time as the liabilities mature.
+2 Consists of wholesale and retail note issuances.
+3 The reserve movement between periods will not equate to the reported profit or loss for own credit.
+The balance sheet reserves are stated by conversion of underlying currency balances at spot rates for each period, whereas the income statement includes intra-period foreign exchange sell-offs.
+Key points x The own credit adjustment decreased significantly during the year x Significant tightening of credit spreads, buy-backs exceeding primarily due to tightening of credit spreads, reflecting improved issuances and the impact of buying back certain securities at lower investor perception of RBS.
+spreads than at issuance, resulted in cumulative own credit adjustment of 29 million at 31 December 2012. x Senior issued debt adjustments are determined with reference to secondary debt issuance spreads.
+At 31 December 2012, the five x Derivative liability own credit adjustment decreased as credit default year level tightened to c. 100 basis points from c. 450 basis points at swap spreads tightened.
+31 December 2011, primarily due to increased demand from investors following quantitative easing measures from the European Central Bank and US Federal Reserve and the announcement of the Groups liability management exercise.
+398 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 399 RBS GROUP 2012 Valuation hierarchy The following tables show financial instruments carried at fair value on the Groups balance sheet by valuation hierarchy - level 1, level 2 and level 3.
+Examples include G10 government securities, listed equity shares, certain exchange-traded derivatives and certain US agency securities.
+Level 2: valued using techniques based significantly on observable market data.
+Instruments in this category are valued using: a quoted prices for similar instruments or identical instruments in markets which are not considered to be active: or b valuation techniques where all the inputs that have a significant effect on the valuations are directly or indirectly based on observable market data.
+The type of instruments that trade in markets that are not considered to be active, but are based on quoted market prices, banker dealer quotations, or alternative pricing sources with reasonable levels of price transparency and those instruments valued using techniques include non-G10 government securities, most government agency securities, investment-grade corporate bonds, certain mortgage products, including CLOs, most bank loans, repos and reverse repos, less liquid listed equities, state and municipal obligations, most notes issued, and certain money market securities and loan commitments and most OTC derivatives.
+Level 3: instruments in this category have been valued using a valuation technique where at least one input which could have a significant effect on the instruments valuation, is not based on observable market data.
+Where inputs can be observed from market data without undue cost and effort, the observed input is used.
+Otherwise, the Group determines a reasonable level for the input.
+Financial instruments primarily include cash instruments which trade infrequently, certain syndicated and commercial mortgage loans, certain emerging markets instruments, unlisted equity shares, certain residual interests in securitisations, majority of CDOs, other mortgage-backed products and less liquid debt securities, certain structured debt securities in issue, and OTC derivatives where valuation depends upon unobservable inputs such as certain credit and exotic derivatives.
+No gain or loss is recognised on the initial recognition of a financial instrument valued using a technique incorporating significant unobservable data.
+400 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 401 RBS GROUP 2012 The following table analyses level 3 balances and related valuation sensitivities.
+401 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 402 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued Level 3 valuation assumptions Assets Valuation basis technique Main assumptions 2 Loans and advances Proprietary model credit spreads, indices Debt securities RMBS Industry standard model prepayment rates, probability of default, loss severity and yield, recovery rates CMBS Proprietary model prepayment rates, probability of default, loss severity and yield, recovery rates CDO Proprietary model credit spreads, default rates, housing prices, implied collateral valuation CLO Industry standard simulation model credit spreads, default rates, loss severity and yield, recovery rates Other ABS Proprietary model credit spreads Other debt securities Proprietary model credit spreads Equity securities Fund valuation statements, performance of funds and issuers fundamentals valuation Derivatives Foreign exchange Proprietary model correlation, volatility Interest rate Proprietary model correlation, volatility Equities and commodities Proprietary model correlation, long dated volatility, dividends Credit Proprietary CVA model, industry correlation, counterparty credit risk, volatility option and correlation model Liabilities Customer accounts Proprietary model correlation, credit spreads Debt securities in issue Proprietary model correlation, volatility, model uncertainty risk Short positions Proprietary model correlation, credit spreads Derivatives Foreign exchange Proprietary model correlation, volatility Interest rate Proprietary model correlation, volatility Equities and commodities Proprietary model correlation, long dated volatility, dividends Credit Proprietary CVA model, industry correlation, counterparty credit risk, volatility option and correlation model Notes: 1 Sensitivity represents the favourable and unfavourable effect on the income statement or the statement of comprehensive income due to reasonably possible changes to valuations using reasonably possible alternative inputs to the Group's valuation techniques or models.
+Totals for sensitivities are not indicative of the total potential effect on the income statement or the statement of comprehensive income.
+Key points x Total assets carried at fair value decreased by 130.4 billion in the x Level 3 assets of 10.4 billion represented 1.4% of the total 2011 - year to 751.8 billion at 31 December 2012, principally reflecting 16.4 billion and 1.9%, a decrease of 6.0 billion derivatives 2.9 decreases in derivative assets 87.7 billion, debt securities 50.0 billion and debt securities 3.1 billion.
+This reflected transfers from billion and derivative collateral 6.4 billion, partially offset by level 3 to level 2 of 1.1 billion as well as maturity and sale of increases in reverse repos 15.1 billion.
+instruments, particularly securities in Non-Core.
+These transfers from level 3 were based on the re-assessment of the impact and x Total liabilities carried at fair value decreased by 91.0 billion, with nature of unobservable inputs used in valuation models.
+1.6 billion decreases in derivative liabilities 89.7 billion, short positions was transferred from level 2 to level 3, principally relating to 13.4 billion, debt securities in issue 12.7 billion and collateral securities of 1 billion, primarily ABS in Non-Core Markets and 4.4 billion, partially offset by increases in repos 29.8 billion.
+x Level 3 instruments in Markets comprise instruments held in the x Level 3 liabilities decreased by 1.4 billion during the year to 4.9 normal course of business and those in Non-Core primarily relate to billion primarily due to buy-back and maturity of instruments.
+legacy ABS and derivative positions.
+x The favourable and unfavourable effects of reasonably possible alternative assumptions on level 3 instruments carried at fair value were 1.0 billion 2011 - 1.7 billion and 0.7 billion 2011 - 1.0 billion respectively.
+x There were no significant transfers between level 1 and level 2.
+402 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 403 RBS GROUP 2012 The level 3 sensitivities above are calculated at a trade or low level As part of the Groups IPV process, data is gathered at a trade level from portfolio basis.
+They are not calculated on an overall portfolio basis and market trading activity, trading systems, pricing services, consensus therefore do not reflect the likely overall potential uncertainty on the pricing providers, brokers and research material amongst other sources.
+The figures are aggregated and do not reflect the correlated nature of some of the sensitivities.
+In particular, for some of the The breadth and depth of this data allows a good assessment to be made portfolios the sensitivities may be negatively correlated where a of liquidity and pricing uncertainty, which assists with the process of downwards movement in one asset would produce an upwards allocation to an appropriate level.
+Where suitable independent pricing movement in another, but due to the additive presentation of the above information is not readily available the instrument will be considered to be figures this correlation cannot be observed.
+The actual potential level 3. downside sensitivity of the total portfolio may be less than the noncorrelated sum of the additive figures as shown in the above table.
+Modelled products For modelled products the market convention is to quote these trades Judgmental issues through the model inputs or parameters as opposed to a cash price The diverse range of products traded by the Group results in a wide equivalent.
+A mark-to-market is derived from the use of the independent range of instruments that are classified into the three level hierarchy.
+market inputs calculated using the Groups model.
+Whilst the majority of these instruments naturally fall into a particular level, for some products an element of judgment is required.
+The majority The decision to classify a modelled asset as level 2 or 3 will be of the Groups financial instruments carried at fair value are classified as dependent upon the product model combination, the currency, the level 2: inputs are observable either directly i. e. as a price or indirectly maturity, the observability of input parameters and other factors.
+All these i. e. derived from prices.
+need to be assessed to classify the asset.
+Active and inactive markets An assessment is made of each input into a model.
+There may be A key input in the decision making process for the allocation of assets to multiple inputs into a model and each is assessed in turn for observability a particular level is liquidity.
+In general, the degree of valuation and quality.
+If an input fails the observability or quality tests then the uncertainty depends on the degree of liquidity of an input.
+For example, a instrument is considered to be in level 3 unless the input can be shown to derivative can be placed into level 2 or level 3 dependent upon its have an insignificant effect on the overall valuation of the product.
+The majority of derivative instruments are classified as level 2 as they are Where markets are liquid or very liquid, little judgment is required.
+vanilla products valued using observable inputs.
+The valuation However, when the information regarding the liquidity in a particular uncertainty on these is considered to be low and both input and output market is not clear, a judgment may need to be made.
+This can be made testing may be available.
+Examples of these products would be vanilla more difficult as assessing the liquidity of a market may not always be interest rate swaps, foreign exchange swaps and liquid single name straightforward.
+For an equity traded on an exchange, daily volumes of credit derivatives.
+trading can be seen, but for an over-the counter OTC derivative assessing the liquidity of the market with no central exchange can be Non-modelled products more difficult.
+Non-modelled products are generally quoted on a price basis and can therefore be considered for each of the 3 levels.
+This is determined by A key related issue is where a market moves from liquid to illiquid or vice the liquidity and valuation uncertainty of the instruments which is in turn versa.
+Where this change is considered to be temporary, the measured from the availability of independent data used by the IPV classification is not changed.
+For example, if there is little market trading process.
+in a product on a reporting date but at the previous reporting date and during the intervening period the market has been considered to be The availability and quality of independent pricing information is liquid, the instrument will continue to be classified in the same level in the considered during the classification process.
+An assessment is made hierarchy.
+This is to provide consistency so that transfers between levels regarding the quality of the independent information.
+For example where are driven by genuine changes in market liquidity and do not reflect short consensus prices are used for non-modelled products, a key assessment term or seasonal effects.
+of the quality of a price is the depth of the number of prices used to provide the consensus price.
+If the depth of contributors falls below a set Interaction with the IPV process hurdle rate, the instrument is considered to be level 3.
+This hurdle rate is The determination of an instruments level cannot be made at a global consistent with the rate used in the IPV process to determine whether or product level as a single product type can be in more than one level.
+For not the data is of sufficient quality to adjust the instruments valuations.
+example, a single name corporate credit default swap could be in level 2 However, where an instrument is generally considered to be illiquid, but or level 3 depending on whether the reference counterparty is liquid or regular quotes from market participants exist, these instruments may be illiquid.
+classified as level 2 depending on frequency of quotes, other available pricing and whether the quotes are used as part of the IPV process or not.
+403 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 404 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued Loans and advances to customers For some instruments with a wide number of available price sources, Loans in level 3 primarily comprise loans to emerging market there may be differing quality of available information and there may be a counterparties and, legacy commercial and residential mortgages.
+wide range of prices from different sources.
+In these situations an assessment is made as to which source is the highest quality and this will Loans to emerging market counterparties be used to determine the classification of the asset.
+For example, a The trades in each loan structure are valued using curves using a proxy tradable quote would be considered a better source than a consensus methodology.
+Each curve consists of the independent proxy value and price.
+various basis adjustments, such as those relating to loan-CDS basis, credit basis, tenor and liquidity.
+For the low and high valuation scenarios Instruments that cross levels for the structures, these different bases are flexed up and down within the Some instruments will predominantly be in one level or the other, but range that each one is deemed to span.
+The resultant maximum and others may cross between levels.
+For example, a cross currency swap minimum scenario curves are used to value the assets and liabilities in may be between very liquid currency pairs where pricing is readily the structure separately.
+The low valuation scenario is the one that observed in the market and will therefore be classified as level 2.
+The minimises the assets and maximises the liabilities.
+The high valuation cross currency swap may also be between two illiquid currency pairs in scenario is the converse.
+which case the swap would be placed into level 3.
+Defining the difference between liquid and illiquid may be based upon the number of consensus Commercial mortgages providers the consensus price is made up from and whether the These senior and mezzanine commercial mortgages are loans secured consensus price can be supplemented by other sources.
+on commercial land and buildings that were originated or acquired by the Group for securitisation.
+Senior commercial mortgages carry a variable Level 3 portfolios and sensitivity methodologies interest rate and mezzanine or more junior commercial mortgages may For each of the portfolio categories shown in the tables above, there carry a fixed or variable interest rate.
+Factors affecting the value of these follows a description of the types of products that comprise the portfolio loans may include, but are not limited to, loan type, underlying property and the valuation techniques that are applied in determining fair value, type and geographic location, loan interest rate, loan-to-value ratios, debt including a description of valuation techniques used for levels 2 and 3 service coverage ratios, prepayment rates, cumulative loan loss and inputs to those models and techniques.
+Where reasonably possible information, yields, investor demand, market volatility since the last alternative assumptions of unobservable inputs used in models would securitisation and credit enhancement.
+Where observable market prices change the fair value of the portfolio significantly, the alternative inputs for a particular loan are not available, the fair value will typically be are indicated.
+Where there have been significant changes to valuation determined with reference to observable market transactions in other techniques during the year a discussion of the reasons for this are also loans or credit related products including debt securities and credit included.
+Assumptions are made about the relationship between the loan and the available benchmark data.
+Overview of sensitivity methodologies Reasonably possible alternative assumptions of unobservable inputs are Residential mortgages determined based on a 95% confidence interval.
+The assessments These pools of residential mortgages were mostly acquired for recognise different favourable and unfavourable valuation movements securitisation before the 2008 financial crisis.
+Factors that affect the where appropriate.
+Each unobservable input within a product is value, or liquidation level, of these loans are geographic location, current considered separately and sensitivity is reported on an additive basis.
+loan-to-value, condition of the home, and availability of eligible buyers.
+The loans are serviced by various mortgage servicers.
+Operations and Alternative assumptions are determined with reference to all available the Front Office monitor the performance of these loans and the evidence including consideration of the following: quality of independent valuations are tested against an estimated recovery level as part of the pricing information taking into account consistency between different IPV process.
+The market for non-agency securitisation remains extremely sources, variation over time, perceived tradability or otherwise of weak and is restricted to new issue prime loans.
+available quotes: consensus service dispersion ranges: volume of trading activity and market bias e. g. one-way inventory : day 1 P&L arising on Debt securities new trades: number and nature of market participants: market conditions: Level 3 debt securities principally comprise asset-backed securities.
+modelling consistency in the market: size and nature of risk: length of holding of position: and market intelligence.
+Residential mortgage-backed securities RMBS RMBS where the underlying assets are US agency-backed mortgages and there is regular trading are generally classified as level 2 in the fair value hierarchy.
+RMBS are also classified as level 2 when regular trading is not prevalent in the market, but similar executed trades or third-party data including indices, broker quotes and pricing services can be used to substantiate the fair value.
+RMBS are classified as level 3 when trading activity is not available and a model with significant unobservable data is utilised.
+404 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 405 RBS GROUP 2012 In determining whether an instrument is similar to that being valued, the A collateral net asset value methodology using dealer buy side marks is Group considers a range of factors, principally: the lending standards of used to determine an upper bound for super senior CDO valuations.
+An the brokers and underwriters that originated the mortgages, the lead ABS index implied collateral valuation is also used to provide a market manager of the security, the issue date of the respective securities, the calibrated valuation data point.
+Both the ABS index implied valuation and underlying asset composition including origination date, loan to value the collateral net asset value methodology apply an assumed immediate ratios, historic loss information and geographic location of the liquidation approach.
+mortgages, the credit rating of the instrument, and any credit protection that the instrument may benefit from, such as insurance wraps or Collateralised loan obligations CLO subordinated tranches.
+Where there are instances of market observable To determine the fair value of CLOs purchased from third parties, the data for several similar RMBS tranches, the Group considers the extent Group uses third party broker or lead manager quotes as the primary of similar characteristics shared with the instrument being valued, pricing source.
+These quotes are benchmarked to consensus pricing together with the frequency, tenor and nature of the trades that have sources where they are available.
+This method is most frequently used for US and UK RMBS.
+RMBS of Dutch and Spanish originated mortgages guaranteed by For CLOs originated and still held by the Group, the fair value is those governments are valued using the credit spreads of the respective determined using a correlation model based on a Monte Carlo simulation government debt and certain assumptions made by the Group, or based framework.
+The main model inputs are credit spreads and recovery rates on observable prices from Bloomberg or consensus pricing services.
+of the underlying assets and their correlation.
+A credit curve is assigned to each underlying asset based on prices from third party dealer quotes The Group primarily uses an industry standard model to project the and cash flow profiles, sourced from an industry standard model.
+Losses expected future cash flows to be received from the underlying mortgages are calculated taking into account the attachment and detachment point and to forecast how these cash flows will be distributed to the various of the exposure.
+Where the correlation inputs to this model are not holders of the RMBS.
+This model utilises data provided by the servicer of observable, CLOs are classified as level 3. the underlying mortgage portfolio, layering on assumptions for mortgage prepayments, probability of default, expected losses and yield.
+The Other asset-backed and corporate debt securities Group uses data from third-party sources to calibrate its assumptions, Where observable market prices for a particular debt security are not including pricing information from third party pricing services, available, the fair value will typically be determined with reference to independent research, broker quotes, and other independent sources.
+An observable market transactions in other related products, such as similar assessment is made of third party data source to determine its debt securities or credit derivatives.
+Assumptions are made about the applicability and reliability.
+The Group adjusts the model price with a relationship between the individual debt security and the available liquidity premium to reflect the price that the instrument could be traded in benchmark data.
+Where significant management judgment has been the market and may also make adjustments for model deficiencies.
+applied in identifying the most relevant related product, or in determining the relationship between the related product and the instrument itself, the The fair value of securities within each class of asset changes on a instrument is classified as level 3. broadly consistent basis in response to changes in given market factors.
+However, the extent of the change, and therefore the range of reasonably Equity shares possible alternative assumptions, may be either more or less Private equity investments include unit holdings and limited partnership pronounced, depending on the particular terms and circumstances of the interests primarily in corporate private equity funds, debt funds and fund individual security.
+The Group believes that probability of default was the of hedge funds.
+Externally managed funds are valued using recent prices least transparent input into Alt-A and prime RMBS modelled valuations where available.
+Where not available, the fair value of investments in and most sensitive to variations.
+externally managed funds is generally determined using statements or other information provided by the fund managers.
+Commercial mortgage-backed securities CMBS CMBS are valued using an industry standard model and the inputs, The Group considers that valuations may rely significantly on the where possible, are corroborated using observable market data.
+judgments and estimates made by the fund managers, particularly in assessing private equity components.
+Given the decline in liquidity in Collateralised debt obligations CDO world markets, and the level of subjectivity, these are included in level 3.
+CDOs purchased from third-parties are valued using independent, thirdparty quotes or independent lead manager indicative prices.
+For super Derivatives senior CDOs which have been originated by the Group no specific thirdDerivatives are priced using quoted prices for the same or similar party information is available.
+The valuation of these super senior CDOs instruments where these are available.
+However, the majority of therefore takes into consideration outputs from a proprietary model, derivatives are valued using pricing models.
+Inputs for these models are market data and appropriate valuation adjustments.
+usually observed directly in the market, or derived from observed prices.
+However, it is not always possible to observe or corroborate all model inputs.
+Unobservable inputs used are based on estimates taking into account a range of available information including historic analysis, historic traded levels, market practice, comparison to other relevant benchmark observable data and consensus pricing data.
+405 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 406 Notes on the consolidated accounts continued 11 Financial instruments - valuation continued Equity derivatives Credit derivatives Equity derivative products are split into equity exotic derivatives and The Group's other credit derivatives include vanilla and bespoke portfolio equity hybrids.
+Exotic equity derivatives have payouts based on the tranches, gap risk products and certain other unique trades.
+performance of one or more stocks, equity funds or indices.
+Most payouts are based on the performance of a single asset and are valued using Valuation of single name credit derivatives is carried out using industry observable market option data.
+Unobservable equity derivative trades are standard models.
+Where single name derivatives have been traded and typically complex basket options on stocks.
+Such basket option payouts there is a lack of independent data or the quality of the data is weak, depend on the performance of more than one equity asset and require these instruments are classified into level 3.
+These assets will be priced correlations for their valuation.
+Valuation is then performed using industry using the Groups standard credit derivative model using a proxy curve standard valuation models, with unobservable correlation inputs based upon a suitable alternative single name curve, a cash based calculated by reference to correlations observed between similar product or a sector based curve.
+Where the sector based curve is used, underlyings.
+the proxy will be chosen taking maturity, rating, seniority, geography and internal credit review on recoveries into account.
+Sensitivities for these Equity hybrids have payouts based on the performance of a basket of instruments will be based upon the selection of reasonable alternative underlyings where underlyings are from different asset classes.
+assumptions which may include adjustments to the credit curve and Correlations between these different underlyings are typically recovery rate assumptions.
+unobservable with no market information on closely related assets available.
+Where no market for the correlation input exists, these inputs The bespoke portfolio tranches are synthetic tranches referenced to a are based on historical time series.
+bespoke portfolio of corporate names on which the Group purchases credit protection.
+Bespoke portfolio tranches are valued using Gaussian Interest rate and commodity derivatives Copula, a standard method which uses observable market inputs credit Interest rate and commodity options provide a payout or series of spreads, index tranche prices and recovery rates to generate an output payouts linked to the performance of one or more underlying, including price for the tranche by way of a mapping methodology.
+In essence this interest rates, foreign exchange rates and commodities.
+method takes the expected loss of the tranche expressed as a fraction of the expected loss of the whole underlying portfolio and calculates which Exotic options do not trade in active markets except in a small number of detachment point on the liquid index, and hence which correlation level, cases.
+Consequently, the Group uses models to determine fair value coincides with this expected loss fraction.
+Where the inputs to this using valuation techniques typical for the industry.
+These techniques can valuation technique are observable in the market, bespoke tranches are be divided firstly into modelling approaches and secondly, into methods considered to be level 2 assets.
+Where inputs are not observable, of assessing appropriate levels for model inputs.
+The Group uses a bespoke tranches are considered to be level 3 assets.
+However, all variety of proprietary models for valuing exotic trades.
+transactions executed with a CDPC counterparty are considered level 3 as the valuation adjustment applied to these exposures is a significant Exotic valuation inputs include the correlation between interest rates, component of these valuations.
+foreign exchange rates and commodity prices.
+Correlations for more liquid rate pairs are valued using independently sourced consensus Gap risk products are leveraged trades, with the counterparty's potential pricing levels.
+Where a consensus pricing benchmark is unavailable, loss capped at the amount of the initial principal invested.
+Gap risk is the these instruments are classified as level 3. probability that the market will move discontinuously too quickly to exit a portfolio and return the principal to the counterparty without incurring The carrying value of debt securities in issue is represented partly by losses, should an unwind event be triggered.
+This optionality is underlying cash and partly through a derivative component.
+The embedded within these portfolio structures and is very rarely traded classification of the amount in level 3 is driven by the derivative outright in the market.
+Gap risk is not observable in the markets and, as component and not by the cash element.
+such, these structures are deemed to be level 3 instruments.
+Other financial instruments Other unique trades are valued using a specialised model for each In addition to the portfolios discussed above, there are other financial instrument and the same market data inputs as all other trades where instruments which are held at fair value determined from data which are applicable.
+By their nature, the valuation is also driven by a variety of not market observable, or incorporating material adjustments to market other model inputs, many of which are unobservable in the market.
+Where these instruments have embedded optionality they are valued using a variation of the Black-Scholes option pricing formula, and where they have correlation exposure they are valued using a variant of the Gaussian Copula model.
+The volatility or unique correlation inputs required to value these products are generally unobservable and the instruments are therefore deemed to be level 3 instruments.
+406 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 407 RBS GROUP 2012 Other considerations Funding valuation adjustments Valuation adjustments The discount rates applied to derivative cash-flows in determining fair CVA applied to derivative exposures to other counterparties and own value reflect any underlying collateral agreements.
+Collateralised credit adjustments applied to derivative liabilities DVA are calculated on derivatives are generally discounted at the relevant OIS rates whilst a portfolio basis.
+Whilst the methodology used to calculate each of these uncollateralised derivatives are discounted with reference to funding adjustments references certain inputs which are not based on observable levels.
+Whilst the discount rates applied reference certain inputs which market data, these inputs are not considered to have a significant effect are not based on observable market data, these inputs are not on the net valuation of the related portfolios.
+The classification of the considered to have a significant effect on the valuation of the individual derivative portfolios which the valuation adjustments are applied to is not trades.
+The classification of derivatives is not determined by the determined by the observability of the valuation adjustments, and any observability of the discount rates applied, and any related sensitivity related sensitivity does not form part of the level 3 sensitivities presented.
+does not form part of the level 3 sensitivities presented.
+CVA is calculated by applying expected losses to potential future Reasonably possible alternative assumptions of unobservable inputs exposures whilst DVA is calculated by applying expected gains to used to determine discount rates applied to collateralised derivatives potential future liabilities.
+Expected losses and gains are determined from result in a favourable valuation movement of 23 million and an market implied probability of defaults and internally assessed recovery unfavourable valuation movement of 23 million.
+The probability of default is calculated with reference to observable credit spreads and observable recovery levels.
+For Own credit - issued debt counterparties where observable data do not exist, the probability of For issued debt and structured notes the own credit adjustment is based default is determined from the credit spreads and recovery levels of on debt issuance spreads above average inter-bank rates at a range of similarly rated entities.
+A weighting is applied to arrive at the expected tenors.
+Whilst certain debt issuance spreads are not based on loss or gain.
+The weighting reflects portfolio churn and varies according observable market data, these inputs are not considered to have a to counterparty credit quality and hedging considerations.
+significant effect on the valuation of individual trades.
+The classification of issued debt and structured notes is not determined by the observability of The unobservable inputs include certain inputs used in the calculation of the debt issuance spreads applied, and any related sensitivity does not potential future exposures and liabilities, probabilities of default, and form part of the level 3 sensitivities presented.
+recovery levels together with the weightings applied.
+Reasonably possible alternative assumptions of unobservable inputs result in a favourable valuation movement of 68 million and an unfavourable valuation movement of 216 million.
+Net gains on other instruments of 141 million 2011 - 143 million: 2010 - 141 million were recorded in other operating income, interest income and impairment losses as appropriate.
+2 Consolidated statement of comprehensive income.
+3 Fair value through profit or loss.
+Fair value of financial instruments not carried at fair value The following table shows the carrying value and fair value of financial instruments carried at amortised cost on the balance sheet.
+2012 2012 2011 2011 2010 2010 Carrying value Fair value Carrying value Fair value Carrying value Fair value bn bn bn bn bn bn Financial assets Cash and balances at central banks 79.3 79.3 79.3 79.3 57.0 57.0 Loans and advances to banks 17.3 17.3 28.3 28.2 36.2 36.1 Loans and advances to customers 405.1 385.4 436.2 406.3 493.1 468.8 Debt securities 4.5 4.0 6.1 5.5 7.1 6.4 Settlement balances 5.7 5.7 7.8 7.8 11.6 11.6 Financial liabilities Deposits by banks 34.5 34.5 51.3 50.7 50.0 50.4 Customer accounts 420.7 421.0 417.5 417.6 438.5 438.6 Debt securities in issue 60.1 59.8 115.4 112.7 167.2 163.8 Settlement balances 5.9 5.9 7.5 7.5 11.0 11.0 Notes in circulation 1.7 1.7 1.7 1.7 1.8 1.8 Subordinated liabilities 25.6 24.3 25.4 19.2 25.9 21.9 410 GRA12 5b Financial Statement 388 420 AW Layout 1 25 03 2013 12:35 Page 411 RBS GROUP 2012 The fair value is the amount an asset could be exchanged, or a liability Loans and advances to banks and customers settled, between knowledgeable, willing parties in an arm's length In estimating the fair value of loans and advances to banks and transaction.
+Quoted market values are used where available: otherwise, customers measured at amortised cost, the Groups loans are fair values have been estimated based on discounted expected future segregated into appropriate portfolios reflecting the characteristics of the cash flows and other valuation techniques.
+These techniques involve constituent loans.
+Two principal methods are used to estimate fair value: uncertainties and require assumptions and judgments covering prepayments, credit risk and discount rates.
+Furthermore there is a wide a Contractual cash flows are discounted using a market discount rate range of potential valuation techniques.
+Changes in these assumptions that incorporates the current spread for the borrower or where this is would significantly affect estimated fair values.
+The fair values reported not observable, the spread for borrowers of a similar credit standing.
+would not necessarily be realised in an immediate sale or settlement.
+This method is used for portfolios where counterparties have external ratings: large corporate loans in UK Corporate and institutional and The fair values of intangible assets, such as core deposits, credit card corporate lending in International Banking and Markets.
+and other customer relationships are not included in the calculation of these fair values as they are not financial instruments.
+b Expected cash flows unadjusted for credit losses are discounted at the current offer rate for the same or similar products.
+This approach The assumptions and methodologies underlying the calculation of fair is adopted for lending portfolios in UK Retail, Ulster Bank, US Retail values of financial instruments at the balance sheet date are as follows: & Commercial and Wealth and SME loans in UK Corporate reflecting the homogeneous nature of these portfolios.
+For certain short-term financial instruments, fair value approximates to carrying value: cash and balances at central banks, items in the course of For certain portfolios where there are very few or no recent transactions, collection from other banks, settlement balances, items in the course of such as Ulster Banks commercial real estate portfolio, and high loan to transmission to other banks and demand deposits.
+value mortgages, a bespoke approach is used based on available market data.
+The discount to amortised cost predominantly reflects stressed markets for commercial real estate loans, in both Non-Core and Core as well as high loan to value tracker mortgages.
+Debt securities Fair values are determined using discounted cash flow valuation techniques.
+Deposits by banks and customer accounts Fair values of deposits are estimated using discounted cash flow valuation techniques.
+Debt securities in issue and subordinated liabilities Fair values are determined using quoted prices where available or by reference to valuation techniques, adjusting for own credit spreads where appropriate.

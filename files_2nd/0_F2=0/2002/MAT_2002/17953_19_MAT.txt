@@ -1,0 +1,121 @@
+Gains_NN
+made_VBN [WZPAST]
+by_PIN
+Directors_NN
+on_PIN
+share_NN
+options_NOMZ
+and_PHC
+LTIPs_NN
+audited_VBD
+The_DT
+table_NN
+below_PLACE
+shows_NN
+gains_NN
+made_VBN [WZPAST]
+by_PIN
+individual_JJ
+Directors_NN
+from_PIN
+the_DT
+exercise_NN
+of_PIN
+share_NN
+options_NOMZ
+and_PHC
+LTIPs_NN
+._.
+The_DT
+gains_NN
+are_VPRT [PASS]
+calculated_VBN [PRIV]
+as_IN
+at_PIN
+the_DT
+exercise_NN
+date_NN
+,_,
+although_CONC
+the_DT
+shares_NN
+may_POMD
+have_VB [PEAS]
+been_VBN [PASS]
+retained_VBN
+._.
+2002 2001 000 000_CD
+Dr_NN
+John_NN
+Brown_NN
+89_CD
+330_CD
+Gordon_NN
+Cameron_NN
+585_CD
+-_:
+Nicolas_NN
+Higgins_NN
+16_CD
+343_CD
+Total_JJ
+gains_NN
+on_PIN
+share_NN
+options_NOMZ
+&_CC
+LTIPs_NN
+690_CD
+673_CD
+Acambis_NN
+Total_NN
+Shareholder_NN
+Return_NN
+TSR_NN
+performance_NN
+Acambis_NN
+TSR_NN
+performance_NN
+is_VPRT [PASS]
+shown_VBN [PRIV]
+against_PIN
+the_DT
+FTSE_NN
+All-Share_NN
+Pharmaceuticals_NN
+&_CC
+Biotech_NN
+Index_NN
+._.
+This_DEMO
+index_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+chosen_VBN
+as_IN
+Acambis_NN
+is_VPRT [BEMA]
+a_DT
+constituent_NN
+of_PIN
+this_DEMO
+sector_NN
+._.
+31_CD
+December_NN
+1997_CD
+0_CD
+On_PIN
+behalf_NN
+of_PIN
+the_DT
+Board_NN
+Alan_NN
+Dalby_NN
+,_,
+Non-executive_JJ
+Director_NN
+27_CD
+March_NN
+2003_CD
+63_CD

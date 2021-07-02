@@ -1,0 +1,75 @@
+56 ARM Holdings plc Annual Report & Accounts 2011 Financial review of 2011 continued Risks and risk management ARM has a robust risk management process that follows a sequence of risk identification, assessment of probability and impact, and assigns an owner to manage mitigation activities.
+ARMs risks are managed within a Corporate Risk Register occurring.
+Risk management action plans systematic process of risk identification are managed within the relevant Corporate risks are identified and assessed andassessment.
+As appropriate, risks are operational plans of the divisions and within the Corporate Risk Register.
+An action plan is then corporate functions.
+Corporate Risk Register includes a developed to counter remaining residual description of the risk, identifies the owner, The risk review committee typically meets elements of the risk and to further reduce the inherent probability and impact of that on a quarterly basis to review the Corporate the impact and probability of the risk.
+risk occurring, ARMs current processes Risk Register and identify other risks that and control activities, remaining residual A register is kept of all corporate risks and need to be incorporated.
+The risk owner is risk and the planned activities to further is monitored by the risk review committee, required to demonstrate that residual risks mitigate it.
+chaired by Mike Muller, Chief Technology are being appropriately mitigated via the Officer.
+The Executive Committee, the operational plans.
+Risk review process Audit Committee and the Board ensure thatthe risk management process is Common business risks and company Audit assurance operating effectively.
+specific risks have been examinedfor ARMs internal audit function regularly relevance to ARM.
+Relevant risks are audits the Groups compliance to its entered onto a risk review register and policies, processes and procedures, givenan owner.
+Risks are classified against including international standards and probability assessment criteria and impact regulations.
+The programme of audits is assessment criteria.
+intended to provide assurance that processes, control activities, and policies ARMs ongoing operations may mitigate the are operatingeffectively.
+probability and or the impact of the risk.
+However, there will be some level of residual On the following pages are some industry risk, and the risk owner determines the trends that bring risks and opportunities extent to which the residual risk is at an that may have a material impact on ARMs acceptable level, or whether further action is operating results, reputation and share required.
+Residual risks, that are not at an price, and how those trends changed acceptable level, are required to have an in2011.
+action plan that mitigates or further reduces the impact and or likelihood of the risk Overview 11 57 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Licensing: slowing growth in the semiconductor industry Trend Risk Opportunity Change in 2011 As industry growth slows About half of ARMs revenue Saving cost increases a ARM has seen increasing companies look for other ways comes from direct licence companys profitability, even demand for processor to grow, such as consolidating sales to semiconductor as revenue growth slows.
+About with other companies to companies.
+If there are fewer demonstrates to our customers athird of processor licences reduce costs.
+In the past year, semiconductor companies, how further utilising ARM signed during the year were there were several examples then ARM may have fewer technology can reduce costs with companies buying their ofARMs customer base customers to sell to.
+ARM is across their divisions.
+In first licence with ARM.
+The consolidating either through exposed to a range of consolidating companies, remaining licences were with acquisition of entire marketsincluding wireless ARM technology is often a existing customers who are companies or one company handsets and microcontrollers.
+standard both companies either upgrading an existing acquiring a division of another.
+Consolidation in these can integrate around.
+None ARM technology-based For example Qualcomms partsofthe industry could ofthe consolidations we have product line or are using acquisition of Atheros, and represent a loss to ARMs seen to date has had a ARMfor the first time in Broadcoms acquisition futurelicensing business.
+meaningful impact on ARMs anewmarket.
+Technology companies can ARM is developing more ARM has a rich portfolio of ARM has seen an increase use their patent portfolios to functionally capable products patents that is growing as we inpatent assertion in markets generate additional revenue and our technology is develop new technology into which ARM licenses its streams.
+The majority of patent becoming more widely each year.
+These patents are technology in 2011, which disputes are resolved with deployed in a broad range useful not only in defending wecontinue to monitor to companies licensing their ofend-markets.
+Developing ARM technology, but also ensure that we are suitably technology to each other technology has an inherent aspotential currency in prepared.
+ARM has a rich either as a one-off payment risk of patent infringement, cross-licensing agreements portfolio of patents that grew oras part of a cross-licensing and the success of the with other major technology to 685 US patents and 986 deal.
+From time to time non-US patents with many apatent owner to make a ARM has entered into patent more pending.
+claim against ARM or one agreements with third parties.
+Mobile: convergence of smartphones and laptops Trend Risk Opportunity Change in 2011 ARM processor-based chips ARM technology is extremely Smartphones are getting The main processor in a laptop for mobile computing are energy-efficient.
+In 2011, smarter and laptops are is typically based on the x86 lower cost and lower power ARMintroduced its new getting smaller and more architecture.
+It has been than x86-based products.
+LITTLE micro-architecture portable, and we are seeing announced that smaller and ARMs licensees have which enables very high new mobile computing lower power x86-based chips announced chips that are performance, whilst retaining products introduced.
+This is are being developed that suitable for mobile computers, along battery life.
+creating an opportunity for will be suitable for the main including tablets, E-book smartphone technology to processor in a smartphone.
+Also during 2011 Intel readers and laptops.
+The ARM cross-over into laptops and There is therefore competition announced they are Partnership is working with laptop technology to from large companies developing chips to be software companies and cross-over into smartphones.
+that have demonstrated increasingly suitable for OEMs to develop an Consumers want portable advanced technology and smartphones by focusing on ecosystem of PC-class products that keep them have well-funded marketing advanced manufacturing software, which will enable connected to their social and strategies.
+They are capable techniques and processes.
+anew market of low-cost business networks, have an of reducing ARMs market They expect to have their mobile computers.
+all-day battery life and are share in smartphone first smartphone design simple to use.
+hindering any market share gains that might be made by ARM licensees in mobile computing.
+58 ARM Holdings plc Annual Report & Accounts 2011 Non-mobile: competing in microcontrollers Trend Risk Opportunity Change in 2011 Although growing strongly, It could be difficult for ARM ARM believes that it can ARM increased its market in2011 ARM had about tobe successful in the MCU capture a significant proportion share from 8% in 2010 to 15%market share of the market.
+ARM will need to of the MCU market.
+This was due to 8billion unit microcontroller displace many established more OEMs choosing ARM The Cortex-M processor family MCU market.
+processor-based chips, and was developed for the MCU ischaracterised by a large ARM has invested a lot of effort also to more semiconductor market and, by the end of number of proprietary and cost to achieve modest companies choosing to 2011, had been licensed more processor architectures, penetration to date.
+As the sellARM processor-based than 120 times.
+In addition, beingdeveloped by many MCU chips are low-cost, the chips for the first time.
+During theARM community is working semiconductor companies, royalty revenue per device is 2011 major semiconductor to ensure that appropriate who sell very low-cost chips also lower than other markets.
+companies such as Cypress, software and tools are into a highly fragmented Freescale, Fujitsu and Toshiba available for MCU users.
+started shipping ARM microcontrollers for the first time.
+This market share gain islikely to continue as ARM sold another 30 licences tocompanies intending to develop microcontrollers.
+Beyond processors: outsourcing by semiconductor companies Trend Risk Opportunity Change in 2011 As semiconductor Currently, many major chip ARM has developed the During 2011, ARM saw the manufacturing has become companies develop their mostadvanced physical semiconductor industry increasingly expensive, physical IP using their in-house IPtechnology and we are increase its use of our most chip companies are teams.
+Even for companies leaders in the physical IP physicalIP.
+ARM announced considering whether to that have outsourced market.
+Currently this is a small partnerships with leading outsource their manufacturing manufacturing, the rate at market that will grow as more foundries, including IBM, facilities to specialist foundries.
+which they want to licence semiconductor companies TSMC, UMC and Samsung This creates a new opportunity inphysical IP is unclear.
+todevelop physical IP libraries for chip companies to licence Thefoundries may choose Our customers benefit from from 28nm to 14nm.
+More in their physical IP R&D.
+As all todevelop the physical IP.
+significant savings if they major fabless semiconductor chips require physical IP Thiscould add more value licence physical IP, especially companies, including technology, this could be a totheir customers and help when they combine Freescale, announced larger market than processors.
+create lock-in by making advanced physical IP with plansto start using ARMs itharder for the customer ARM processor technology.
+physical IP for the first time.
+There are Processor Optimisation also other physical IP suppliers Packsalso increased the who compete in this market, adoption of ARMs physical some with a similar scale IPby the industry.
+Overview 11 59 Strategy and performance 16 Our Partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Governance This section explains the Boards approach to corporate governance and corporate responsibility.
+We believe that effective governance requires leadership, ethical behaviour and collaboration.
+In this section: Read more about Chairmans statement p60 this on page Read more about Board of directors p63 this on page Read more about Corporate governance p66 this on page Read more about Directors report p75 this on page Read more about Remuneration report p80 this on page

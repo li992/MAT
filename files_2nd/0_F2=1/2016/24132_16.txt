@@ -1,0 +1,38 @@
+Fresnillo plc Annual Report 2016 56 Information Technology Technology and cybersecurity as a competitive advantage Technology has changed the way every business operates, including the mining industry.
+Increased productivity, reduced costs, improved safety and enhanced decision-making are among the many benefits.
+To secure a competitive advantage, we must continuously adapt and embrace innovation and secure our networks, systems and data.
+Whilst cybersecurity has not risen to the level of a key risk, it continues to merit ongoing management oversight and review.
+IT governance To better prepare and help guide the Group through a process of digital transformation, we have created an IT Governance Committee, chaired by the Chief Executive Officer, to steer discussions on innovation and performance at a strategic level, provide macro-level insights into technology for mining, map out technology strategy execution and oversee cybersecurity protocols.
+The main responsibilities of this Committee are to: Review technology options for business process innovation.
+Select the best technology, ensure alignment with business strategy and prioritise projects.
+Strengthen cybersecurity framework and protocols.
+Develop and oversee a technology implementation budget.
+Cybersecurity We recognise the importance of confidentiality, continuity, integrity and security of our data and production systems.
+A third party cybersecurity assessment in 2016 identified certain gaps and weaknesses that should be addressed, indicating the need for a formal cybersecurity strategy, now under development, with dedicated specialists being selected.
+Our approach incorporates: i the US National Institute of Standards and Technology Cybersecurity Framework NIST CSF which provides a policy framework of computer security guidance for how private sector organisations can assess and improve their ability to prevent, detect and respond to cyber attacks: and ii Control Objectives for Information and Related Technologies COBIT, a framework created by ISACA, the international professional association for IT management and governance that provides an implementable set of controls over IT and organises them around a logical framework of IT-related processes and enablers.
+At year end 2016, we estimated our NIST rating was 0.9 out of 4.0, compared to an Expected Industry Level rating of 2.7.
+A work plan to achieve that rating is well underway and expected to be complete by 1Q 2018.
+The following areas have already been addressed: Disaster recovery protocols: automated backups and alternate site creation for every data room in each business unit.
+Hardening: secure access configurations to servers, databases and applications: next generation hardware and software: built-in security for all devices and systems.
+Network access: automated access policy management.
+Network perimeter security: hacker protection tools.
+Our IT model To support the Groups value creation model, our IT efforts are focused on three main areas: Execution: technologies that can reduce costs and increase productivity and throughput.
+Innovation: disruptive technologies and paradigm shifts.
+Decision-making: data analytics and automatic insight generation.
+We believe that employees are best equipped to identify opportunities for improvement within their function areas or business units.
+initiative was created to foster ideas, innovation and communication about such opportunities: employees generated more than 120 ideas, and seven projects were ultimately selected by the IT Governance Committee for a five-year implementation roadmap 2014-2018.
+These related to the basic capabilities of a mining operation such as personnel and equipment tracking, proximity-warning systems and ventilation on-demand: intelligent plants process automation and optimisation: intelligent maintenance predictive maintenance through big data analysis : and business intelligence:  data.
+In 2016, the total investment in technology was US$16.1 million, of which US$7.8 million was related to these projects.
+FRESNILLO TODAY STRATEGIC REPORT CORPORATE GOVERNANCE FINANCIAL STATEMENTS Fresnillo plc Annual Report 2016 57 Saucito control room December 2014 December 2017 1 Track Plus Manual and intuitive solution 100x100x100x100 100% of mine sites 100% of miners Tracking 100% of mining vehicles 100% of stopes 2 ProxAlarm Accident provoked by lack of precaution 100x100x100x100 100% of mine sites Prevention 100% of miners of collisions and run-overs 100% of mining vehicles 100% of stopes 3 Ventilation Plus Bad ventilation causes: Ventilation optimised all through the mine that also helps to: accidents Comply with NOM-023-STPS.
+low productivity and Better quality of life.
+4 Intelligent Plant Automated plants but not optimised: Automated and optimised plants: reduction no control of inherent variability of ore, of 5% in reagent consumption: increment causing loss of value.
+of 3% in recovery and metallic content.
+5 MineOps Optimiser Low productivity caused by late shift Real-time follow up on mining operations.
+Optimising task assignment and achieving a 2-5% increase in productivity.
+6 Smart Ops Manual processes for daily operations.
+Real time monitoring and productive Based on multiple Excel sheets causing processes analysis.
+Efficient multi-dimensional poor and late analysis.
+analysis for on-time decision making.
+7 One View Manual adjustments for the strategy One strategic dynamic and centralised operation.
+Based on Excel and control scorecard.
+Single version of batch processing.

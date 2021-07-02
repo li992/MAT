@@ -1,0 +1,151 @@
+Financial statements Notes on financial statements 26.
+Financial instruments and financial risk factors The accounting classication of each category of financial instruments, and their carrying amounts, are set out below.
+$ million At 31 December 2011 Financial Available-forAt fair value Derivative liabilities Total Loans and sale financial through profit hedging measured at carrying Note receivables assets or loss instruments amortized cost amount Financial assets Other investments equity shares 27 1,128 1,128 other 27 1,277 1,277 Loans 1,128 1,128 Trade and other receivables 29 36,879 36,879 Derivative financial instruments 33 7,188 1,707 8,895 Cash and cash equivalents 30 9,750 4,317 14,067 Financial liabilities Trade and other payables 32 50,651 50,651 Derivative financial instruments 33 6,436 557 6,993 Accruals 6,321 6,321 Finance debt 34 44,183 44,183 47,757 6,722 752 1,150 101,155 44,774 $ million At 31 December 2010 Financial Available-forAt fair value Derivative liabilities Total Loans and sale financial through profit hedging measured at carrying Note receivables assets or loss instruments amortized cost amount Financial assets Other investments equity shares 27 1,191 1,191 other 27 1,532 1,532 Loans 1,141 1,141 Trade and other receivables 29 32,380 32,380 Derivative financial instruments 33 7,222 1,344 8,566 Cash and cash equivalents 30 13,462 5,094 18,556 Financial liabilities Trade and other payables 32 56,499 56,499 Derivative financial instruments 33 7,254 279 7,533 Accruals 6,249 6,249 Finance debt 34 39,139 39,139 46,983 7,817 32 1,065 101,887 46,054 The fair value of finance debt is shown in Note 34.
+For all other financial instruments, the carrying amount is either the fair value, or approximates the fair value.
+Financial risk factors The group is exposed to a number of different financial risks arising from natural business exposures as well as its use of financial instruments including: market risks relating to commodity prices, foreign currency exchange rates, interest rates and equity prices: credit risk: and liquidity risk.
+The group financial risk committee GFRC advises the group chief financial officer CFO who oversees the management of these risks.
+The GFRC is chaired by the CFO and consists of a group of senior managers including the group treasurer and the heads of the group finance, tax and the integrated supply and trading functions.
+The purpose of the committee is to advise on financial risks and the appropriate financial risk governance framework for the group.
+The committee provides assurance to the CFO and the group chief executive GCE, and via the GCE to the board, that the groups financial risk-taking activity is governed by appropriate policies and procedures and that financial risks are identied, measured and managed in accordance with group policies and group risk appetite.
+The groups trading activities in the oil, natural gas and power markets are managed within the integrated supply and trading function, while the activities in the financial markets are managed by the integrated supply and trading function, on behalf of the treasury function.
+All derivative activity is carried out by specialist teams that have the appropriate skills, experience and supervision.
+These teams are subject to close financial and management control.
+The integrated supply and trading function maintains formal governance processes that provide oversight of market risk associated with trading activity.
+These processes meet generally accepted industry practice and reect the principles of the Group of Thirty Global Derivatives Study recommendations.
+A policy and risk committee monitors and validates limits and risk exposures, reviews incidents and validates risk-related policies, methodologies and procedures.
+A commitments committee approves value-at-risk delegations, the trading of new products, instruments and strategies and material commitments.
+In addition, the integrated supply and trading function undertakes derivative activity for risk management purposes under a separate control framework as described more fully below.
+BP Annual Report and Form 20-F 2011 217 Notes on financial statements 26.
+Financial instruments and financial risk factors continued a Market risk Market risk is the risk or uncertainty arising from possible market price movements and their impact on the future performance of a business.
+The primary commodity price risks that the group is exposed to include oil, natural gas and power prices that could adversely affect the value of the groups financial assets, liabilities or expected future cash ows.
+The group enters into derivatives in a well-established entrepreneurial trading operation.
+In addition, the group has developed a control framework aimed at managing the volatility inherent in certain of its natural business exposures.
+In accordance with the control framework the group enters into various transactions using derivatives for risk management purposes.
+The group measures market risk exposure arising from its trading positions using value-at-risk techniques.
+These techniques are based on Monte Carlo simulation and make a statistical assessment of the market risk arising from possible future changes in market prices over a one-day holding period.
+The calculation of the range of potential changes in fair value takes into account a snapshot of the end-of-day exposures and the history of one-day price movements, together with the correlation of these price movements.
+The value-at-risk measure is supplemented by stress testing.
+The value-at-risk table does not incorporate any of the groups natural business exposures or any derivatives entered into to risk manage those exposures.
+Market risk exposure in respect of embedded derivatives is also not included in the value-at-risk table.
+Value-at-risk limits are in place for each trading activity and for the groups trading activity in total.
+The board has delegated a limit of $100 million value at risk in support of this trading activity.
+The high and low values at risk indicated in the table below for each type of activity are independent of each other.
+Through the portfolio effect the high value at risk for the group as a whole is lower than the sum of the highs for the constituent parts.
+The potential movement in fair values is expressed to a 95% confidence interval.
+This means that, in statistical terms, one would expect to see a decrease in fair values greater than the trading value at risk on one occasion per month if the portfolio were left unchanged.
+$ million Value at risk for 1 day at 95% confidence interval 2011 2010 High Low Average Year end High Low Average Year end Group trading 83 28 42 28 70 15 34 33 Oil price trading 84 23 39 27 39 10 19 25 Gas and power trading 20 6 11 7 62 72718 The major components of market risk are commodity price risk, foreign currency exchange risk, interest rate risk and equity price risk, each of which is discussed below.
+i Commodity price risk The groups integrated supply and trading function uses conventional financial and commodity instruments and physical cargoes available in the related commodity markets.
+Oil and natural gas swaps, options and futures are used to mitigate price risk.
+Power trading is undertaken using a combination of over-the-counter forward contracts and other derivative contracts, including options and futures.
+This activity is on both a standalone basis and in conjunction with gas derivatives in relation to gas-generated power margin.
+In addition, NGLs are traded around certain US inventory locations using over-the-counter forward contracts in conjunction with over-the-counter swaps, options and physical inventories.
+Trading value-at-risk information in relation to these activities is shown in the table above.
+As described above, the group also carries out risk management of certain natural business exposures using over-the-counter swaps and exchange futures contracts.
+Together with certain physical supply contracts that are classied as derivatives, these contracts fall outside of the value-at-risk framework.
+For these derivative contracts the sensitivity of the net fair value to an immediate 10% increase or decrease in all reference prices would have been $23 million at 31 December 2011 2010 $104 million.
+This gure does not include any corresponding economic benefit or disbenet that would arise from the natural business exposure which would be expected to offset the gain or loss on the over-the-counter swaps and exchange futures contracts mentioned above.
+In addition, the group has embedded derivatives relating to certain natural gas contracts.
+The net fair value of these contracts was a liability of $1,417 million at 31 December 2011 2010 liability of $1,607 million.
+Key information on the natural gas contracts is given below.
+At 31 December 2011 2010 Remaining contract terms 3 years and 5 months to 6 years and 9 months 4 years and 5 months to 7 years and 9 months Contractual notional amount 952 million therms 1,688 million therms For these embedded derivatives the sensitivity of the net fair value to an immediate 10% favourable or adverse change in the key assumptions is as follows.
+$ million At 31 December 2011 2010 Discount Discount Gas price Oil price Power price rate Gas price Oil price Power price rate Favourable 10% change 100 74 4 5 145 48 10 10 Unfavourable 10% change 109 77 4 5 180 68 10 10 218 BP Annual Report and Form 20-F 2011 Financial statements Notes on financial statements 26.
+Financial instruments and financial risk factors continued The sensitivities for risk management activity and embedded derivatives are hypothetical and should not be considered to be predictive of future performance.
+In addition, for the purposes of this analysis, in the above table, the effect of a variation in a particular assumption on the fair value of the embedded derivatives is calculated independently of any change in another assumption.
+In reality, changes in one factor may contribute to changes in another, which may magnify or counteract the sensitivities.
+Furthermore, the estimated fair values as disclosed should not be considered indicative of future earnings on these contracts.
+ii Foreign currency exchange risk Where the group enters into foreign currency exchange contracts for entrepreneurial trading purposes the activity is controlled using trading value-at-risk techniques as explained above.
+This activity is included within oil price trading in the value-at-risk table above.
+Since BP has global operations, uctuations in foreign currency exchange rates can have significant effects on the groups reported results.
+The effects of most exchange rate uctuations are absorbed in business operating results through changing cost competitiveness, lags in market adjustment to movements in rates and translation differences accounted for on specic transactions.
+For this reason, the total effect of exchange rate uctuations is not identiable separately in the groups reported results.
+The main underlying economic currency of the groups cash ows is the US dollar.
+This is because BPs major product, oil, is priced internationally in US dollars.
+BPs foreign currency exchange management policy is to minimize economic and material transactional exposures arising from currency movements against the US dollar.
+The group co-ordinates the handling of foreign currency exchange risks centrally, by netting off naturally-occurring opposite exposures wherever possible, and then dealing with any material residual foreign currency exchange risks.
+The group manages these exposures by constantly reviewing the foreign currency economic value at risk and aims to manage such risk to keep the 12-month foreign currency value at risk below $200 million.
+At 31 December 2011, the foreign currency value at risk was $100 million 2010 $81 million.
+At no point over the past three years did the value at risk exceed the maximum risk limit.
+The most significant exposures relate to capital expenditure commitments and other UK and European operational requirements, for which a hedging programme is in place and hedge accounting is claimed as outlined in Note 33.
+For highly probable forecast capital expenditures the group locks in the US dollar cost of non-US dollar supplies by using currency forwards and futures.
+The main exposures are sterling, euro, Norwegian krone, Australian dollar and Korean won and at 31 December 2011 open contracts were in place for $1,242 million sterling, $158 million euro, $118 million Norwegian krone, $210 million Australian dollar and $230 million Korean won capital expenditures maturing within five years, with over 69% of the deals maturing within two years 2010 $989 million sterling, $115 million euro, $212 million Norwegian krone and $143 million Australian dollar capital expenditures maturing within five years, with over 80% of the deals maturing within two years.
+For other UK, European and Australian operational requirements the group uses cylinders and currency forwards to hedge the estimated exposures on a 12-month rolling basis.
+At 31 December 2011, the open positions relating to cylinders consisted of receive sterling, pay US dollar, purchased call and sold put options cylinders for $2,683 million 2010 $1,340 million : receive euro, pay US dollar cylinders for $1,304 million 2010 $650 million : receive Australian dollar, pay US dollar cylinders for $312 million 2010 $286 million.
+At 31 December 2011 there were no open positions relating to currency forwards 2010 buy sterling, sell US dollar currency forwards for $925 million: buy euro, sell US dollar currency forwards for $630 million: buy Canadian dollar, sell US dollar currency forwards for $162 million.
+In addition, most of the groups borrowings are in US dollars or are hedged with respect to the US dollar.
+At 31 December 2011, the total foreign currency net borrowings not swapped into US dollars amounted to $371 million 2010 $278 million.
+Of this total, $129 million was denominated in currencies other than the functional currency of the individual operating unit being entirely Canadian dollars 2010 $125 million, being entirely Canadian dollars.
+It is estimated that a 10% change in the corresponding exchange rates would result in an exchange gain or loss in the income statement of $13 million 2010 $12 million.
+iii Interest rate risk Where the group enters into money market contracts for entrepreneurial trading purposes the activity is controlled using value-at-risk techniques as described above.
+BP is also exposed to interest rate risk from the possibility that changes in interest rates will affect future cash ows or the fair values of its financial instruments, principally finance debt.
+While the group issues debt in a variety of currencies based on market opportunities, it uses derivatives to swap the debt to a oating rate exposure, mainly to US dollar oating, but in certain dened circumstances maintains a US dollar xed rate exposure for a proportion of debt.
+The proportion of oating rate debt net of interest rate swaps and excluding disposal deposits at 31 December 2011 was 65% of total finance debt outstanding 2010 62%.
+The weighted average interest rate on finance debt at 31 December 2011 is 2% 2010 2% and the weighted average maturity of xed rate debt is five years 2010 five years.
+The groups earnings are sensitive to changes in interest rates on the oating rate element of the groups finance debt.
+If the interest rates applicable to oating rate instruments were to have increased by 1% on 1 January 2012, it is estimated that the groups profit before taxation for 2012 would decrease by approximately $289 million 2010 $241 million decrease in 2011.
+This assumes that the amount and mix of xed and oating rate debt, including finance leases, remains unchanged from that in place at 31 December 2011 and that the change in interest rates is effective from the beginning of the year.
+Where the interest rate applicable to an instrument is reset during a quarter it is assumed that this occurs at the beginning of the quarter and remains unchanged for the rest of the year.
+In reality, the xed oating rate mix will uctuate over the year and interest rates will change continually.
+Furthermore, the effect on earnings shown by this analysis does not consider the effect of any other changes in general economic activity that may accompany such an increase in interest rates.
+iv Equity price risk The group holds equity investments, typically made for strategic purposes, that are classied as non-current available-for-sale financial assets and are measured initially at fair value with changes in fair value recognized in other comprehensive income.
+Accumulated fair value changes are recycled to the income statement on disposal, or when the investment is impaired.
+No impairment losses have been recognized for the years presented relating to listed non-current available-for-sale investments.
+For further information see Note 27.
+At 31 December 2011, it is estimated that an increase of 10% in quoted equity prices would result in an immediate credit to other comprehensive income of $87 million 2010 $95 million credit to other comprehensive income, while a decrease of 10% in quoted equity prices would result in an immediate charge to other comprehensive income of $87 million 2010 $95 million charge to other comprehensive income.
+BP Annual Report and Form 20-F 2011 219 Notes on financial statements 26.
+Financial instruments and financial risk factors continued At 31 December 2011, 77% 2010 80% of the carrying amount of non-current available-for-sale equity financial assets represented the groups stake in Rosneft, thus the groups exposure is concentrated on changes in the share price of this equity investment in particular.
+b Credit risk Credit risk is the risk that a customer or counterparty to a financial instrument will fail to perform or fail to pay amounts due causing financial loss to the group and arises from cash and cash equivalents, derivative financial instruments and deposits with financial institutions and principally from credit exposures to customers relating to outstanding receivables.
+The group has a credit policy, approved by the CFO, that is designed to ensure that consistent processes are in place throughout the group to measure and control credit risk.
+Credit risk is considered as part of the risk-reward balance of doing business.
+On entering into any business contract the extent to which the arrangement exposes the group to credit risk is considered.
+Key requirements of the policy are formal delegated authorities to the sales and marketing teams to incur credit risk and to a specialized credit function to set counterparty limits: the establishment of credit systems and processes to ensure that counterparties are rated and limits set: and systems to monitor exposure against limits and report regularly on those exposures, and immediately on any excesses, and to track and report credit losses.
+The treasury function provides a similar credit risk management activity with respect to group-wide exposures to banks and other financial institutions.
+The global credit environment exhibited deterioration in 2011, suffering not only from continuing economic and political uncertainties but also from key event risks, causing the group to further heighten awareness, discussion and co-ordination around the material credit risks arising from its activities.
+Before trading with a new counterparty can start, its creditworthiness is assessed and a credit rating is allocated that indicates the probability of default, along with a credit exposure limit.
+The assessment process takes into account all available qualitative and quantitative information about the counterparty and the group, if any, to which the counterparty belongs.
+The counterpartys business activities, financial resources and business risk management processes are taken into account in the assessment, to the extent that this information is publicly available or otherwise disclosed to BP by the counterparty, together with external credit ratings.
+Creditworthiness continues to be evaluated after transactions have been initiated and a watchlist of higher-risk counterparties is maintained.
+The group does not aim to remove credit risk but expects to experience a certain level of credit losses.
+The group attempts to mitigate credit risk by entering into contracts that permit netting and allow for termination of the contract on the occurrence of certain events of default.
+Depending on the creditworthiness of the counterparty, the group may require collateral or other credit enhancements such as cash deposits, letters of credit, trade credit insurance, liens, third-party guarantees and other forms of credit mitigation.
+Trade receivables and payables, and derivative assets and liabilities, are presented on a net basis where unconditional netting arrangements are in place with counterparties and where there is an intent to settle amounts due on a net basis.
+The maximum credit exposure associated with financial assets is equal to the carrying amount.
+Collateral received and recognized in the balance sheet at the year end was $273 million 2010 $313 million and collateral held off balance sheet was $6 million 2010 $52 million.
+As at 31 December 2011, the group had in place other credit enhancements designed to mitigate approximately $8.6 billion of credit risk 2010 $7.0 billion.
+Credit exposure exists in relation to guarantees issued by group companies under which amounts outstanding at 31 December 2011 were $415 million 2010 $404 million in respect of liabilities of jointly controlled entities and associates and $1,430 million 2010 $1,339 million in respect of liabilities of other third parties.
+Notwithstanding the processes described above, significant unexpected credit losses can occasionally occur.
+Exposure to unexpected losses increases with concentrations of credit risk that exist when a number of counterparties are involved in similar activities or operate in the same industry sector or geographical area, which may result in their ability to meet contractual obligations being impacted by changes in economic, political or other conditions.
+The groups principal customers, suppliers and financial institutions with which it conducts business are located throughout the world.
+In addition, these risks are managed by maintaining a group watchlist and aggregating multi-segment exposures to ensure that a material credit risk is not missed.
+Reports are regularly prepared and presented to the GFRC that cover the groups overall credit exposure and expected loss trends, exposure by segment, and overall quality of the portfolio.
+The reports also include details of the largest counterparties by exposure level and expected loss, and details of counterparties on the group watchlist.
+For the contracts comprising derivative financial instruments in an asset position at 31 December 2011, it is estimated that over 76% 2010 over 80% of the unmitigated credit exposure is to counterparties of investment grade credit quality.
+For cash and cash equivalents, the treasury function dynamically manages bank deposit limits to ensure cash is well-diversied and to reduce concentration risks.
+At 31 December 2011, 98% of the cash and cash equivalents balance was deposited with financial institutions rated at least A by Standard & Poors and A2 by Moodys.
+Direct cash and cash equivalent exposures to Greek, Italian, Irish, Portuguese and Spanish financial institutions totalled less than 1% of total cash and cash equivalents.
+Trade and other receivables of the group are analysed in the table below.
+By comparing the BP credit ratings to the equivalent external credit ratings, it is estimated that approximately 70-80% 2010 approximately 50-60% of the unmitigated trade receivables portfolio exposure is of investment grade credit quality.
+With respect to the trade and other receivables that are neither impaired nor past due, there are no indications as of the reporting date that the debtors will not meet their payment obligations.
+$ million Trade and other receivables at 31 December 2011 2010 Neither impaired nor past due 34,563 30,181 Impaired net of valuation allowance 33 67 Not impaired and past due in the following periods within 30 days 1,263 1,358 31 to 60 days 250 249 61 to 90 days 132 101 over 90 days 638 424 36,879 32,380 220 BP Annual Report and Form 20-F 2011 Financial statements Notes on financial statements 26.
+Financial instruments and financial risk factors continued The movement in the valuation allowance for trade receivables is set out below.
+$ million 2011 2010 At 1 January 428 430 Exchange adjustments 16 9 Charge for the year 115 150 Utilization 124 143 Write-back 71 At 31 December 332 428 c Liquidity risk Liquidity risk is the risk that suitable sources of funding for the groups business activities may not be available.
+The groups liquidity is managed centrally with operating units forecasting their cash and currency requirements to the central treasury function.
+Unless restricted by local regulations, subsidiaries pool their cash surpluses to treasury, which will then arrange to fund other subsidiaries requirements, or invest any net surplus in the market or arrange for necessary external borrowings, while managing the groups overall net currency positions.
+In managing its liquidity risk, the group has access to a wide range of funding at competitive rates through capital markets and banks.
+The groups treasury function centrally co-ordinates relationships with banks, borrowing requirements, foreign exchange requirements and cash management.
+The group believes it has access to sufficient funding through its own current cash holdings and future cash generation including disposal proceeds, the commercial paper markets and by using undrawn committed borrowing facilities to meet foreseeable liquidity requirements.
+The group has in place a European Debt Issuance Programme DIP under which the group may raise up to $20 billion of debt for maturities of one month or longer.
+At 31 December 2011, the amount drawn down against the DIP was $11,582 million 2010 $12,272 million.
+In addition, the group has in place an unlimited US Shelf Registration under which it may raise debt with maturities of one month or longer.
+The group has long-term debt ratings of A2 stable outlook assigned by Moodys consistently throughout the year, and A stable outlook assigned by Standard & Poors since July 2011, strengthened from A negative outlook in force at the start of the year.
+During 2011 $10.7 billion of long-term taxable bonds were issued with tenors of between 18 months and 10 years, and $0.8 billion of US Industrial Municipal bonds were re-issued in term-out mode of between three and ten years.
+Flexible commercial paper is issued at competitive rates to meet short-term borrowing requirements as and when needed.
+As a further liquidity measure, the group continues to maintain suitable levels of cash and cash equivalents, invested with highly rated banks or money market funds and readily accessible at immediate and short notice $14.1 billion at the end of 2011: $18.6 billion at the end of 2010.
+At 31 December 2011, the group had substantial amounts of undrawn borrowing facilities available, consisting of $6,925 million of standby facilities of which $6,825 million is available to draw and repay until mid-March 2014, and the equivalent of $100 million is available to draw and repay in Chinese yuan with half expiring in mid-September 2012 and half in December 2012.
+These facilities were renegotiated during 2011 across 25 international banks, and borrowings under them would be at pre-agreed rates.
+The group also has committed letter of credit LC facilities totalling $5,125 million with a number of banks for a one-year duration, allowing LCs to be issued to a maximum one-year duration.
+There were also uncommitted secured LC evergreen facilities in place at the year end for $2,160 million, secured against inventories or receivables when utilized.
+The amounts shown for finance debt in the table below include expected interest payments on borrowings and the future minimum lease payments with respect to finance leases.
+Current finance debt on the group balance sheet at 31 December 2011 includes $30 million 2010 $6,197 million in respect of cash deposits received for disposals expected to complete in 2012, which will be considered extinguished on completion of the transactions.
+This amount is excluded from the table below.
+The table also shows the timing of cash outows relating to trade and other payables and accruals.
+BP Annual Report and Form 20-F 2011 221

@@ -1,0 +1,69 @@
+INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 19 Q & A WITH MANAGEMENT TEAM Q&A WITH MEMBERS OF THE SOPHOS SENIOR MANAGEMENT TEAM SOPHOS HELPS BUSINESSES TO FOCUS ON WHAT THEY DO BEST BY OFFERING THE INDUSTRYS LEADING PROTECTION AGAINST CYBER AND DATA ATTACKS.
+MEMBERS OF THE MANAGEMENT TEAM OFFER THEIR INSIGHTS INTO SOME OF THE CHALLENGES AND OPPORTUNITIES FACING SOPHOS, ITS PARTNERS AND CUSTOMERS, TODAY AND IN THE FUTURE.
+Its a difficult question to answer.
+rely heavily on their resellers for MICHAEL VALENTINE The demand for cybersecurity skills local support, so we can offer SENIOR VICE PRESIDENT, far outstrips the supply and we are three different levels of support WORLDWIDE SALES focused on helping our partners to without additional investment.
+Our When you talk to customers, train and retain staff within their customers trust us to develop highly Q. what are their most pressing companies.
+Nothing motivates effective products that will protect issues?
+a sales person like hitting their them against todays sophisticated It really is the need to reduce targets and we believe that Sophos threats and we rely on our partners A. complexity.
+These companies can offer the best products on the to deliver the right advice, training often have limited IT staff and rarely market and make business easy to and services to them.
+Everyone wants to be on the What is the biggest challenge manage multiple security products winning team and thats what we Q. facing Sophos?
+and are even more challenged to drive towards every day.
+respond to the daily alerts and There are more than 60 million Can you tell me about the notifications they receive.
+They want A. businesses in the sweet spot Q. importance of the Sophos simplicity and flexibility.
+They want of our target market and gaining partner ecosystem?
+a seamless experience between brand recognition within a vast reseller and vendor.
+They do not Without a strong partner market is challenging.
+We compete have the expertise to run lengthy IT A. ecosystem, we would have no against big established names and procurement projects and rely on business.
+As a 100 percent channelsmall challenger companies in both their IT resellers to make the right focused company, it is our ability endpoint and network security choices for them.
+to educate, enable and incentivise markets.
+We have made huge our channel partners that drives progress over the last five years but For our partners, their concerns are our growth and enables us to more we still have work to do in continuing twofold: what business model do I quickly enter new markets and scale to make our brand stand out in this adopt: and, how do I hire and retain up our business.
+the right calibre of sales and sales engineering staff?
+The opportunities We are addressing a huge market We are differentiated against the offered by MSP and IaaS models are opportunity that relies on its trusted competition and gaining traction appealing as more customers move IT resellers for advice, services and with our unique synchronized to AWS or Azure.
+However, can every products to protect their critical security vision, which is supported product reseller make the move to data.
+Mid-market companies also by our comprehensive network and value added or managed services?
+20 Q & A WITH MANAGEMENT TEAM CONTINUED Q&A WITH MEMBERS OF THE SOPHOS SENIOR MANAGEMENT TEAM endpoint security portfolio.
+However, For any security effort to succeed, What does innovation mean much like the rest of the industry, it must begin here.
+our security-focused partners have practicable risk management Innovation at its core describes specialisms in network or endpoint strategies be developed and applied.
+A. improvement through novelty, security and we need to continue to Are attitudes towards security and in the context of information educate them on both sides of our Q. changing among your security its key attribute is portfolio.
+We are investing heavily customers?
+Security is in partner enablement, education a property of system, so to innovate and training to make sure that our It is difficult to ignore in information security requires not partners are taking advantage of the A. the headlines related to just continuous improvements in opportunity offered by Sophos: both information security incidents.
+technology, but also in how people in terms of more business and with Whether it is the latest data breach, interact with that technology, and better security for their customers.
+the rise of ransomware, reminders how it interfaces with the rest of our to the fragility of our critical increasingly interconnected world.
+JOE LEVY infrastructure or allegations of Advancements in computing and CHIEF TECHNOLOGY OFFICER tampering with democracy, hardly data science have given us a world a day goes by without coverage How should customers where everything is a computer, of some unfortunate exploitation Q. prioritise what they are doing?
+everything is connected, and of weaknesses in our information machines operate autonomously.
+A. to enhancing security must Our day-to-day lives increasingly start here.
+Our information systems But every cloud has a silver lining, benefit from and depend on this used to relate to physical things, and a positive consequence of new reality and with such leverage applications and operating systems these events is a heightened comes high-stake risk.
+Attackers running directly on clients and awareness of the threat.
+Businesses exploit flaws in software, fragility servers that we could see, touch, of all sectors and sizes, institutions in complex systems, human and count, but they become of learning, corporate boards, susceptibility to social engineering, more intangible, and abstract the insurance industry and and the shroud of anonymity every day.
+Cloud, virtualisation, governments are increasingly provided by the internet and mobile, containers, micro treating information security crypto-currencies.
+Innovation services and APIs have enabled seriously and saliently.
+Attitudes in information security seeks to unimaginable advancements toward information security are anticipate and stay one step ahead in automation, manufacturing, shifting from an afterthought that is of this and it should be measured by business intelligence, collaboration, taxing or punitive, to a forethought its usability, durability, adaptability personalisation, and prediction, that is among any projects core and utility in preventing, detecting but these come at the costs of requirements.
+We are slowly getting and responding to todays and complexity and opaqueness.
+better at understanding risk in tomorrows threats.
+Its an encouraging In order to protect the maturation, but we must not allow confidentiality, integrity and ourselves to become inured to the availability of our assets, among the stream of reminders.
+We must most valuable of which is our data, be unrelenting in our pursuit of we must know that they exist, where adaptation and improvement.
+they exist, and what they are worth.
+INTRODUCTION STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 21 DAN SCHIAPPA SIMON REED SENIOR VICE PRESIDENT VICE PRESIDENT, & GENERAL MANAGER, SOPHOSLABS ENDUSER SECURITY & What does Sophos mean by NETWORK SECURITY Q. s ecurity?
+GROUPS Computers now dominate our Can a company be truly A. l ives.
+It is part of everything Q. s ecure?
+we do, at work and in our personal lives.
+Weve grown dependent on A company can be secure, but technology.
+Like any tool, it can be A. it will never be impervious.
+used to benefit our lives, or be used There has never been a security against us for nefarious purposes.
+technology that is perfect, but by Security allows us to have the full having a broad and interconnected benefits that computers can provide ensemble of capabilities, a company whilst keeping the evil aspects at bay.
+can raise the bar high enough that the attacks return on investment What is the best way to stay isnt worthwhile.
+Q. ahead of security concerns and threats?
+What is the biggest opportunity Q. for Sophos?
+Be a smart consumer of the A. benefit of the IT-ization of Our biggest opportunity is our lives.
+Understand the basics of A. to take a highly innovative staying secure: strong passwords: security portfolio and make it prodigious patching: etc.
+Consider simple enough for any business to the downsides as well as the deploy and secure their business.
+advantages that can be provided Leveraging our portfolio through and make a balanced decision.
+Stay the synchronized security approach careful and cautious online and to differentiate the reason to use when interacting with email and multiple Sophos products.
+If it sounds too good to be continuously innovating, staying on true, treat with extreme caution.
+the front foot to compete against the attackers.
+How would you summarise the Q.
+Deliver innovative, easy to use, A. and highly effective security solutions to enterprises of all sizes.
+Have end-to-end experiences that just work and delight our customers.
+Sell this to customers who value innovation, simplicity and highly effective security.
+Network and endpoint protection, centrally managed and communicating together.
+For stronger, more simple security.

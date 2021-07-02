@@ -1,0 +1,399 @@
+NOTES_NN
+ON_PIN
+THE_DT
+FINANCIAL_NN
+STATEMENTS_NOMZ
+CONTINUED_VBD
+2005_CD
+2004_CD
+8_CD
+TAXATION_NOMZ
+CONTINUED_VBD
+m_FW
+m_FW
+Debtors_NN
+amounts_NN
+falling_VBG [WZPRES]
+due_JJ
+after_IN
+more_EMPH
+than_PIN
+one_CD
+year_NN
+Deferred_VBN
+taxation_NOMZ
+note_NN
+20_CD
+42_CD
+46_CD
+Liabilities_NOMZ
+note_VPRT [PRIV]
+22_CD
+UK_NN
+corporation_NOMZ
+tax_NN
+17_CD
+12_CD
+Overseas_PLACE
+taxation_NOMZ
+68_CD
+54_CD
+85_CD
+66_CD
+Provisions_NN
+notes_VPRT [PRIV]
+26_CD
+f_SYM
+and_CC
+27_CD
+30_CD
+Deferred_JJ
+taxation_NOMZ
+85_CD
+92_CD
+Factors_NN
+affecting_VBG [WZPRES]
+future_JJ
+tax_NN
+charges_NN
+At_PIN
+31st_CD
+March_NN
+2005_CD
+the_DT
+deferred_JJ
+tax_NN
+asset_NN
+principally_RB
+arises_VPRT
+in_PIN
+the_DT
+USA_NN
+._.
+An_DT
+asset_NN
+of_PIN
+33_CD
+million_CD
+2004_CD
+37_CD
+million_CD
+has_VPRT [PEAS]
+been_VBN [PASS]
+recognized_VBN [PRIV]
+based_VBN
+on_PIN
+medium-term_JJ
+board_NN
+approved_VBD
+forecasts_NN
+which_WDT [WHSUB]
+reflect_VPRT [PRIV]
+the_DT
+effects_NN
+of_PIN
+recent_JJ
+restructuring_GER
+and_PHC
+cost_NN
+saving_VBG [WZPRES]
+schemes_NN
+._.
+A_DT
+further_JJ
+potential_JJ
+asset_NN
+of_PIN
+87_CD
+million_CD
+2004_CD
+90_CD
+million_CD
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+recognized_VBN [PRIV]
+due_JJ
+to_PIN
+the_DT
+inherent_JJ
+difficulty_NN
+in_PIN
+long-term_JJ
+forecasting_GER
+and_ANDC
+because_CAUS
+certain_JJ
+taxation_NOMZ
+losses_NN
+in_PIN
+the_DT
+USA_NN
+will_PRMD
+time_VB
+expire_VB
+either_DT
+15_CD
+or_CC
+20_CD
+years_NN
+after_IN
+they_TPP3
+originally_TIME
+arose_VBD
+._.
+Other_JJ
+deferred_VBN
+tax_NN
+assets_NN
+arise_VB
+,_,
+amounting_VBG [PRESP]
+to_PIN
+9_CD
+million_CD
+2004_CD
+9_CD
+million_CD
+and_CC
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+in_PIN
+full_JJ
+based_VBN
+on_PIN
+forecasted_VBN [PUBV]
+taxable_JJ
+profits_NN
+._.
+Other_JJ
+unrecognised_JJ
+deferred_JJ
+tax_NN
+assets_NN
+amounting_VBG [WZPRES]
+to_PIN
+18_CD
+million_CD
+2004_CD
+16_CD
+million_CD
+are_VPRT [PASS]
+not_XX0
+currently_RB
+considered_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+recoverable_PRED
+and_CC
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+accounted_VBN
+for_PIN
+as_IN
+assets_NN
+._.
+Such_JJ
+assets_NN
+will_PRMD
+be_VB [PASS]
+recognized_VBN [PRIV]
+when_RB [WHCL]
+future_JJ
+board_NN
+approved_VBD
+forecasts_NN
+support_VB
+the_DT
+generation_NOMZ
+of_PIN
+future_JJ
+taxable_JJ
+profits_NN
+._.
+The_DT
+Group_NN
+expects_VPRT [PRIV]
+that_THVC
+the_DT
+effective_JJ
+tax_NN
+rate_NN
+of_PIN
+30_CD
+per_PIN
+cent_NN
+applied_VBN [WZPAST]
+to_PIN
+the_DT
+2005_CD
+profits_NN
+may_POMD
+rise_VB
+marginally_RB
+in_PIN
+the_DT
+future_NN
+._.
+No_SYNE
+deferred_JJ
+tax_NN
+is_VPRT [PASS]
+recognized_VBN [PRIV]
+on_PIN
+the_DT
+unremitted_JJ
+earnings_GER
+of_PIN
+overseas_PLACE
+subsidiaries_NN
+,_,
+joint_JJ
+ventures_NN
+and_PHC
+associates_NN
+._.
+As_IN
+the_DT
+earnings_GER
+are_VPRT [SPAU] [BYPA]
+continually_RB
+reinvested_VBN
+by_PIN
+the_DT
+Group_NN
+,_,
+no_SYNE
+tax_NN
+is_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+payable_PRED
+on_PIN
+them_TPP3
+in_PIN
+the_DT
+foreseeable_JJ
+future_NN
+._.
+2005_CD
+2004_CD
+9_CD
+MINORITY_NOMZ
+INTERESTS_NN
+PROFIT_VPRT
+AND_PHC
+LOSS_VPRT
+ACCOUNT_NN
+m_FW
+m_FW
+Equity_NOMZ
+12_CD
+7_CD
+Non-equity_NOMZ
+2_CD
+2_CD
+Share_NN
+of_PIN
+associates_NN
+equity_NOMZ
+minority_NOMZ
+interest_NN
+1_CD
+2_CD
+15_CD
+11_CD
+Net_JJ
+paid_VBN
+payable_JJ
+Net_JJ
+paid_VBN
+payable_JJ
+per_PIN
+ordinary_JJ
+share_NN
+2005 2004 2005 2004_CD
+10_CD
+DIVIDENDS_NN
+pence_NN
+pence_NN
+m_NN
+m_NN
+Equity_NOMZ
+shares_NN
+:_:
+Interim_NN
+paid_VBD
+on_PIN
+17th_JJ
+December_NN
+2004_CD
+1.75_CD
+1.75_CD
+22_CD
+22_CD
+Final_JJ
+payable_JJ
+on_PIN
+1st_CD
+August_NN
+2005_CD
+3.35_CD
+3.25_CD
+43_CD
+41_CD
+5.10_CD
+5.00_CD
+65_CD
+63_CD
+Dividends_NN
+amounting_VBG [WZPRES]
+to_PIN
+477,000_CD
+2004_CD
+423,000_CD
+in_PIN
+respect_NN
+of_PIN
+the_DT
+companys_NN
+shares_NN
+held_VBN [PRIV] [WZPAST]
+by_PIN
+an_DT
+employee_NN
+trust_NN
+under_IN
+the_DT
+Deferred_NN
+Bonus_NN
+Plan_NN
+and_CC
+the_DT
+Leadership_NN
+Equity_NOMZ
+Award_NN
+Plan_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+deducted_VBN
+in_PIN
+arriving_VBG
+at_PIN
+the_DT
+aggregate_NN
+of_PIN
+dividends_NN
+paid_VBN
+and_PHC
+proposed_VBN [SUAV]
+._.
+PILKINGTON_NN
+plc_NN
+DIRECTORS_NN
+REPORT_NN
+AND_PHC
+ACCOUNTS_NN
+2005_CD

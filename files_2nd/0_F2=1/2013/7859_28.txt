@@ -1,0 +1,30 @@
+Inside the Imagination-based SoC We recognize that it can be difficult to understand the complex industry in which we operate.
+As such, we would like to take this opportunity to explain a little bit about how the semiconductor industry works, and share some of the recent work we have done with silicon foundries, and key tools suppliers.
+Just as memory drove The SoCs that power everything in the consumer and embedded electronics space can be silicon processes in the constructed from combinations of our unique portfolio of IP cores.
+80s and 90s, and CPUs drove these in the late 90s When combined with our software and solutions, we enable partners SoCs to deliver the and 00s, mobile GPUs key multimedia, processor, communications, connectivity and telecoms features that their are now becoming the most demanding on-chip customers require.
+function driving tomorrows advanced SoCs and silicon At the heart of our approach, we have a simple design philosophy: deliver the best performance processes.
+We see our efficiency at the lowest power in the industry.
+strengthening relationships with leading foundries, We enable heterogeneous SoCs where multiple processors, each with domain-optimized EDA vendors and library providers, as well as architectures, can perform highly optimized tasks in a complementary, efficient and flexible way.
+strategic activities with industry standards bodies Imagination is a leading player in global technology.
+For example, Imagination is a founder such as HSA Foundation member of the HSA Foundation, which is creating new standards and tools for connecting and Khronos Group, as key to ensuring we continue heterogeneous processors together for future generations of advanced SoCs.
+to drive and deliver the leading edge capabilities our Imagination is also working with leading foundries such as TSMC and GlobalFoundries, as well customers have come to as EDA and tools vendors such as Synopsys, Cadence, Mentor and Green Hills to ensure that expect from us.
+licensees of all of Imaginations IP cores can benefit from well-defined tool flows and optimized Tony King-Smith libraries to achieve the most aggressive speed, area and power consumption targets.
+EVP Marketing In our industry, the ultimate battleground is power.
+Power consumption and thermal envelope considerations are becoming a dominant factor in mobile SoC design decisions.
+Imagination puts significant research into design for low power to help extend the ever-essential battery life of mobile and embedded computing systems.
+Designing first for low power has made Imagination a leading supplier for mobile markets as well as a key supplier in other markets such as thin, flat TVs, complex automotive dashboards, connected audio media players and ultra-portable computers, where power and thermal constraints can be just as demanding as in mobile devices.
+Products built around Imaginations technologies deliver excellent low power and thermal footprints compared to those using other IP, according to third party analysis.
+PowerGearing is a family of power management features used across all of Imaginations IP cores for fine grain power management control.
+This is coupled with unique IP specific features such as: PowerVR GPUs ultra-low power operating modes Ensigma RPUs ultra-low clock PHY processing MIPS CPUs hardware thread management and core-level DVFS 28 IP services The quality of support we offer our licensees both before and after licensing is crucial to Imagination stakes its success on its licensees our business.
+Taking the licensee fee and then In addition to our core IP technologies we have an extensive range of complementary leaving the customer to technology offerings that support our customers designs and help them succeed.
+fend for themselves is simply not in Imaginations IMGworks is our SoC integration support team.
+This team is available to help our customers vocabulary.
+To that end we have experts who have deliver optimized SoC designs, and is skilled at solving the most difficult problems in specific created highly successful and challenging areas of silicon design.
+IMGworks offers a complete range of SoC integration, SoCs here in IMGworks who physical design, and custom development services.
+can help customers tape out their own designs or By working closely with EDA companies and leading foundries, IMGworks ensures that our IP even design complete SoCs for customers who are still is ready to be used in any design flow and at all process nodes.
+developing their own design capability.
+Our Platform Services team is dedicated to helping customers accelerate time to market for Ramesh Singh their products using Imaginations IP by providing software integration, customization and GM IMGworks optimization services.
+Together with IMGworks, they enable our licensees to exploit the full capabilities of our IP.
+Codescape is our comprehensive suite of development tools, which supports the advanced and unique features of Imaginations IP cores.
+Codescape already supports heterogeneous multi-processor SoCs, making it a unique debug environment that supports all processors in the SoC, not just the CPU.
+Codescape has been significantly enhanced this year by the acquisition of MIPS.

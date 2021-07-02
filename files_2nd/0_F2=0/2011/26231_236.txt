@@ -1,0 +1,23 @@
+OUR GROUP OUR PERFORMANCE OUR APPROACH GOVERNANCE FINANCIAL STATEMENTS OTHER INFORMATION SUPPLEMENTARY FINANCIAL STATEMENTS ANNUAL REPORT AND ACCOUNTS 2011 219 EUROPEAN EMBEDDED VALUE BASIS CONTINUED NOTES TO THE SUPPLEMENTARY FINANCIAL STATEMENTS CONTINUED Summary statistics: Sensitivity calculations The following table sets out means and standard deviations x.
+A number of sensitivities have been produced on alternative StDev of future returns as at 31 December 2011 for the most assumption sets to reect the sensitivity of the embedded significant asset classes.
+Correlations between asset classes value and the new business contribution to changes in key have been set based on an internal assessment of historical data.
+Relevant details relating to each sensitivity are: 10-year return 20-year return 1% variation in discount rate a one percentage point 1 2 1 2 Mean StDev Mean StDev increase decrease in the risk margin has been assumed UK Business in each case for example a 1% increase in the risk margin Sterling would result in a 4.7% risk margin.
+Government 1% variation in interest rate environment a one bonds 2.2% 3.1% 3.3% 3.3% percentage point increased decreased parallel shift in Corporate bonds 4.5% 3.6% 5.1% 3.8% Property the risk free curve with consequential impacts on xed excess returns 2.0% 15.0% 2.1% 15.2% asset market values, investment return assumptions, Equities risk discount rate, including consequential changes excess returns 3.3% 20.1% 3.4% 20.6% to valuation bases.
+European 1% higher equity property yields a one percentage Business Euro point increase in the assumed equity property investment Long Government 3 bonds 2.7% 3.8% 3.2% 3.8% returns, excluding any consequential changes, for Short example, to risk discount rates or valuation bases, has Government been assumed in each case for example a 1% increase 4 bonds 2.7% 3.2% 3.2% 5.8% in equity returns would increase assumed total equity US Business US Dollar returns from 5.8% to 6.8%.
+Long Government 10% lower equity property market values an immediate 3 bonds 2.0% 4.3% 3.1% 4.5% 10% reduction in equity and property asset values.
+For asset classes other than for equities and property, mean returns are calculated 10% lower maintenance expenses, excluding any as the mean return in excess of 1 year government bonds plus the mean return on consequential changes, for example, to valuation 1 year government bonds.
+Mean excess returns for the equities and property are calculated as the mean return in excess of 1 year government bonds.
+Each mean expense bases or potentially reviewable policy fees return is derived by calculating the accumulated value of a unit asset invested to time n years for each simulation, averaging the resultant values across all a10% decrease on a base assumption of 10 per annum simulations, then calculating the equivalent annual return required to give this would result in a 9 per annum expense assumption.
+average accumulation by taking the nth root of the average accumulation and deducting 1.
+10% lower assumed persistency experience rates, 2.
+Standard deviations are calculated by accumulating a unit investment for n years in each simulation, taking the natural logarithm of the result, calculating the variance excluding any consequential changes to valuation of this statistic, dividing by n and taking the square root.
+Equities and property bases, incorporating a 10% decrease in lapse, surrender values use excess returns.
+The results are comparable to implied volatilities quoted in investment markets.
+and premium cessation assumptions a 10% decrease 3.
+Long term bonds are dened to be 10 year par-coupon bonds.
+on a base assumption of 7% would result in a 6.3% 4.
+Short term bonds are dened to be 1 year duration bonds.
+5% lower mortality and morbidity rates, excluding any Risk discount rate: consequential changes to valuation bases but including The risk discount rate is scenario dependent within the stochastic assumed product repricing action where appropriate projection.
+It is calculated by applying the deterministic risk for example if base experienced mortality is 90% of margin to the risk free rate in each stochastic projection.
+astandard mortality table then, for this sensitivity, theassumption is set to 85.5% of the standard table.
+The sensitivities for covered business allow for any material changes to the cost of financial options and guarantees but do not allow for any changes to reserving bases or capital requirements within the sensitivity calculation, unless indicated otherwise above.

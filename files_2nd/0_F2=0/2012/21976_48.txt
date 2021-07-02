@@ -1,0 +1,18 @@
+06A 329013 Notes to the Con Financial Statements.
+Share-based payments continued Executive share plans Movements in executive share plans during 2012 are shown below: Number of shares millions ISP DBP RSP Total At 1 April 2011 114.5 18.7 0.3 133.5 Awards granted 30.0 6.7 0.3 37.0 Awards vested 5.5 0.2 5.7 Awards lapsed 35.2 0.9 36.1 Dividend shares reinvested 4.9 0.9 5.8 At 31 March 2012 114.2 19.9 0.4 134.5 At 31 March 2012, 0.1m shares 2011: 0.3m were held in trust and 134.4m shares 2011: 133.2m were held in treasury for executive share plans.
+Fair values The following table summarises the fair values and key assumptions used for valuing grants made under the Employee Sharesave plans and ISP in 2012, 2011 and 2010.
+2012 2011 2010 Employee Employee Employee Year ended 31 March Sharesave ISP Sharesave ISP Sharesave ISP Weighted average fair value 44p 170p 34p 108p 14p 106p Weighted average share price 198p 198p 138p 134p 80p 131p Weighted average exercise price 161p 107p 63p Expected dividend yield 5.3% 5.5% 5.3% 5.4% 5.8% 5.4% 5.7% 6.4% 6.5% Risk free rates 1.1% 2.0% 1.1% 1.2% 2.2% 1.2% 2.2% 2.8% 2.5% Expected volatility 31.0% 35.6% 31.2% 34.4% 41.4% 34.4% 26.9% 30.7% 38.5% Employee Sharesave grants are valued using a Binomial options pricing model.
+Awards under the ISP are valued using Monte Carlo simulations.
+TSRs were generated for BT Group plc and the comparator group at the end of the three-year performance period, using each companys volatility and dividend yield, as well as the cross correlation between pairs of stocks.
+Volatility has been determined by reference to BT Group plcs historical volatility which is expected to reect the BT Group plc share price in the future.
+An expected life of three months after vesting date is assumed for Employee Sharesave options and for all other awards the expected life is equal to the vesting period.
+The risk-free interest rate is based on the UK gilt curve in effect at the time of the grant, for the expected life of the option or award.
+The fair values for the DBP and RSP were determined using the market price of the shares at the date of grant.
+The weighted average share price for DBP awards granted in 2012 was 198p 2011: 131p, 2010: 131p.
+Investments 2012 2011 At 31 March m m Non-current assets Available-for-sale 81 80 Amounts owed by ultimate parent company 1,286 682 Amounts owed by parent company 18,140 17,339 Fair value through profit and loss 10 19,517 18,101 Current assets Available-for-sale 505 1 Amounts owed by ultimate parent company 21 13 Amounts owed by parent company 630 1,206 Loans and receivables 8 7 Fair value through profit and loss 11 1,164 1,238 The majority of current asset investments are held for periods ranging from one day to one year.
+Current assets consist of investments in AAA rated liquidity funds denominated in Sterling of 505m 2011: nil.
+Non-current assets include unlisted investments of 31m 2011: 31m, listed investments of 31m 2011: 34m and an investment in the shares of the ultimate parent company, BT Group plc, of 19m 2011: 15m.
+These shares are held in trust for the BT Group Incentive Share Plan, the Retention Share Plan and the Deferred Bonus Plan.
+Amounts owed by parent and ultimate parent company mainly consist of Sterling denominated loans which earn a oating rate of interest based upon LIBOR.
+Further details of these amounts are disclosed in note 28.
+Notes to the consolidated financial statements British Telecommunications plc Annual Report & Form 20-F 2012 73

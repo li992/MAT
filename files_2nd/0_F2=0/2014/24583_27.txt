@@ -1,0 +1,375 @@
+Notes to the Consolidated Financial Statements 1.
+GENERAL INFORMATION Hargreaves Lansdown plc the Company and ultimate parent of the Group is a company incorporated and domiciled in the United Kingdom under the Companies Act 2006 whose shares are publicly traded on the London Stock Exchange.
+The address of the registered office is One College Square South, Anchor Road, Bristol, BS1 5HL, United Kingdom.
+The nature of the Groups operations and its principal activities are set out in the Business Review.
+These financial statements are presented in pounds sterling which is the currency of the primary economic environment in which the Group operates.
+Basis of preparation The consolidated financial statements of Hargreaves Lansdown plc have been prepared in accordance with the Companies Act 2006, IFRS adopted by the International Accounting Standards Board IASB and interpretations issued by the International Financial Reporting Interpretations Committee of the IASB together IFRS as adopted by the European Union.
+The financial statements are prepared on a going concern basis as discussed on page 57.
+During the year there has been a change in accounting policy relating to cash and the presentation of the income statement: - Delivery versus payment exemptions from the FCA client money rules are not taken by the Group.
+The related cash balances are at all times held in trust as client money.
+Client settlement account balances were previously shown as restricted cash included within cash and cash equivalents.
+The accounting policy has now been changed to reclassify these balances to trade and other receivables, which better reflects the form of these balances.
+The impact of this change is to reduce restricted cash and cash equivalents by 21.0 million 30 June 2013: 19.8 million, 30 June 2012: 12.6 million and increase trade and other receivables by an equal amount.
+The subsequent impact on the cash flow statement for the year to 30 June 2013 is that net cash from operating activities was reduced by 7.2 million and the cash and cash equivalents at the beginning of the year were decreased by 12.6 million to 145.1 million.
+There was no impact on profit before tax in either reporting period.
+- The presentation of the income statement has been changed from the function of expense to the nature of expense format.
+Following the implementation of the Retail Distribution Review in March 2014 it is felt that this format provides users of the accounts with more useful information.
+The preparation of financial statements in conformity with IFRSs requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the companys accounting policies.
+The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements are disclosed in Note 3.
+In the current year, the following new and revised Standards and Interpretations have been adopted and have affected the amounts reported in these financial statements.
+- Amendment to IFRS 7, Financial instruments: Disclosures, on asset and liability offsetting.
+This amendment includes new disclosures to facilitate comparison between those entities that prepare IFRS financial statements to those that prepare financial statements in accordance with US GAAP.
+Disclosures are provided in Notes 17 and 20.
+- IFRS 13, Fair value measurement, aims to improve consistency and reduce complexity by providing a precise definition of fair value and a single source of fair value measurement and disclosure requirements for use across IFRSs.
+The requirements, which are largely aligned between IFRSs and US GAAP, do not extend the use of fair value accounting but provide guidance on how it should be applied where its use is already required or permitted by other standards within IFRSs.
+Disclosures are provided in Note 28.
+At the date of authorisation of these financial statements, the following Standards and Interpretations which have not yet been applied in these financial statements were in issue but not yet effective and in some cases had not yet been adopted by the EU : - Amendments to IFRS 10, 11 and 12 on transition guidance - IFRS 10, Consolidated financial statements - Amendment to IAS 32, Financial instruments: Presentation - IFRS 11, Joint arrangements - Amendments to IAS 36, Impairment of assets - IFRS 12, Disclosures of interests in other entities - Amendment to IFRS 11, Joint arrangements - IFRS 15, Revenue from contracts with customers - Amendment to IAS 16, Property, plant and equipment - IFRS 9, Financial instruments - Amendment to IAS 38, Intangible assets - IAS 27, revised 2011 Separate financial statements - Annual improvements 2012 and Annual improvements 2013 - IAS 28, revised 2011 Associates and joint ventures - IFRIC 21, Levies Other than to expand certain disclosures within the financial statements, the directors do not expect that the adoption of the standards and interpretations listed above will have a material impact on the financial statements of the Group in future periods.
+The financial statements have been prepared on the historical cost basis, except for the revaluation of available for sale financial assets and financial assets at fair value through profit and loss.
+The principal accounting policies adopted are set out below.
+66 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 2.
+SIGNIFICANT ACCOUNTING POLICIES Accounting policies as shown below have been consistently applied throughout the current and prior financial year.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and entities controlled by the Company its subsidiaries made up to 30 June 2014.
+Control is achieved where the Company has the power to govern the financial and operating policies of an investee entity so as to obtain benefits from its activities.
+The results of subsidiaries acquired or disposed of during the year are included in the consolidated income statement from the effective date of acquisition or up to the effective date of disposal, as appropriate.
+Where necessary, adjustments are made to the financial statements of subsidiaries to bring the accounting policies used into line with those used by the Group.
+All intra-group transactions, balances, income and expenses are eliminated on consolidation.
+Business combinations The acquisition of subsidiaries is accounted for using the purchase method.
+The cost of the acquisition is measured at the aggregate of the fair values, at the date of exchange, of assets given, liabilities incurred or assumed, and equity instruments issued by the Group in exchange for control of the acquiree.
+The acquirees identifiable assets, liabilities and contingent liabilities that meet the conditions for recognition under IFRS 3 Business Combinations are recognised at their fair value at the acquisition date.
+The Group recognises any non-controlling interest in the acquiree at the non-controlling interests proportionate share of the recognised amounts of acquirees identifiable net assets.
+Goodwill Goodwill arising on consolidation represents the excess of the cost of acquisition over the Groups interest in the fair value of the identifiable assets and liabilities of a subsidiary at the date of acquisition.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the cash-generating unit expected to benefit from the synergies of the combination.
+Cash-generating units to which goodwill has been allocated are reviewed for impairment at least annually as a matter of course, and whenever an event or change in circumstances occurs which indicates potential impairment.
+The carrying value of goodwill is compared to the recoverable amount, which is the higher of value in use and the fair value less costs of disposal.
+Any impairment is recognised immediately in profit or loss and is not subsequently reversed.
+On disposal of a subsidiary, the attributable amount of goodwill is included in the determination of the profit or loss on disposal.
+Goodwill arising on acquisitions before the date of transition to IFRS on 1 July 2005 has been retained at the previous UK GAAP amounts subject to being tested for impairment at that date.
+Goodwill written off to reserves under UK GAAP prior to 30 June 1997 has not been reinstated and is not included in determining any subsequent profit or loss on disposal.
+Revenue recognition Revenue is measured at the fair value of the consideration received or receivable and represents amounts receivable for services provided in the normal course of business, net of discounts, VAT and other sales-related taxes.
+Revenue is primarily classified as recurring, transactional or other.
+Recurring revenue principally comprises the revenue streams of renewal income, management fees, platform fees and interest income on client money, while transactional revenue principally comprises initial commission on stockbroking transactions.
+Revenue is recognised as follows: Recurring Renewal income is earned from fund management groups and is recognised on an accruals basis calculated according to the level of assets under the administration, or agency, of the Group primarily at each month-end.
+Management and platform fees are paid by clients and are recognised on an accruals basis calculated according to the level of applicable assets where fees apply at each month-end.
+The interest income on client money balances is the net interest margin earned by the Group and is accrued on a time basis, according to the client money balances under administration and by reference to the effective interest rate applicable.
+Transactional The Groups stockbroking and unit trust management subsidiaries earn commission on securities transactions entered into on behalf of clients.
+The commission earned is recorded in the accounts on the date of the transaction, as this is the date on which the service is provided to the client and the Group becomes entitled to the income.
+Hargreaves Lansdown plc Report and Financial Statements 2014 67 Notes to the Consolidated Financial Statements 2.
+SIGNIFICANT ACCOUNTING POLICIES CONTINUED The Group also earns initial commission from third party providers on the set up of group pension schemes.
+Initial commissions are deemed to be earned at the policy inception date on those policies where there are only negligible ongoing services.
+Where ongoing services are provided, an appropriate proportion of the income is deferred over the relevant period.
+Where such commission is received on an indemnity basis, a provision is made for clawbacks, if any, which would be due if the policy lapses during the indemnity period.
+Other Other income principally represents the amount of fees receivable from the provision of Funds Library services, and is recognised on an accruals basis when the services are provided.
+Investment revenue recognition Interest income is accrued on a time basis by reference to the principal balance and the effective interest rate applicable.
+Dividend income from investments is recognised when the shareholders rights to receive payment have been established.
+Commission payable, staff costs and other operating costs Commission payable represents a percentage of renewal income paid to clients as a loyalty bonus.
+Staff costs represent amounts paid to employees in respect of services provided in the year including wages and salaries, share-based payment expenses, bonuses, payments to a defined contribution retirement benefit scheme and related social security costs.
+Other operating costs represent costs arising as a result of our operations and includes depreciation and amortisation.
+All amounts are recognised on an accrual basis.
+Provisions Provisions are recognised when the Group has a present obligation as a result of a past event, and it is probable that the Group will be required to settle that obligation.
+Provisions are measured at the directors best estimate of the expenditure required to settle the obligation at the balance sheet date, and are discounted to present value where the effect is material.
+Provisions are recognised for: - future committed property lease payments when the Group receives no benefit from the property through continuing usage and future receipts from any sub-letting arrangements are not in excess of the Groups future committed payments.
+- commissions received on indemnity terms where there may be a liability to repay the commissions received.
+Taxation The tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year.
+Taxable profit differs from net profit as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit, and is accounted for using the balance sheet liability method.
+Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+Such assets and liabilities are not recognised if the temporary difference arises from the initial recognition of goodwill or from the initial recognition other than in a business combination of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+Deferred tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries and associates, except where the Group is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date.
+Deferred tax assets are recognised to the extent that it is probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the year when the liability is settled or the asset is realised.
+Deferred tax is charged or credited in the income statement, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same taxation authority and the Group intends to settle its current tax assets and liabilities on a net basis.
+68 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS Share-based payments The Group has applied the requirements of IFRS 2 Share-based Payments to all grants of equity instruments after 7 November 2002 that were unvested at 1 July 2005.
+The Group issues equity-settled share-based payments to certain employees.
+Equity-settled share-based payments are measured at fair value excluding the effect of non-market-based vesting conditions at the date of grant.
+The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Groups estimate of shares that will eventually vest and adjusted for the effect of non-market-based vesting conditions.
+At each balance sheet date, the Group revises its estimate of the number of options expected to vest as a result of the effect of non-market based vesting conditions.
+The impact of the revision of the original estimates, if any, is recognised in the income statement such that the cumulative expense reflects the revised estimate, with a corresponding adjustment to equity reserves.
+Fair value is measured by use of the Black-Scholes model.
+The expected life used in the model has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Prior to 15 May 2007 the Companys shares were not listed on a stock exchange and therefore, in the absence of a readily available market price for the shares, the share price was based on the market value agreed with HM Revenue & Customs and share price volatility was estimated as the average of the volatility applying to a comparable group of listed companies.
+Any gains or losses on sale of the Companys own shares held by the Hargreaves Lansdown Employee Benefit Trust EBT are credited or debited directly to the EBT reserve and are treated as undistributable profits.
+Property, plant and equipment Plant and equipment are stated at cost less accumulated depreciation and any recognised impairment loss.
+Cost includes the original purchase price of the asset and the costs attributable to bringing the asset to its working condition for its intended use.
+Depreciation is charged on all plant and equipment based on the estimates of their useful economic lives and expected residual values, which are reviewed annually.
+Management determines the useful lives and residual values for assets when they are acquired, based on experience with similar assets and taking into account other relevant factors such as any expected changes in technology.
+The charge is calculated to write off the cost or valuation, less estimated residual value, of each asset evenly using a straight-line method over its estimated useful life as follows: Fixtures, fittings, plant and equipment: Leasehold property tenants fixtures, IT, office equipment and other fixtures over 3 to 10 years The carrying values of plant and equipment are reviewed for impairment when events or changes in circumstances indicate that the carrying value may not be recoverable.
+The gain or loss arising on the disposal or retirement of an asset is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognised in income.
+Leasing Rentals payable for assets under operating leases are charged to income on a straight-line basis over the term of the relevant lease.
+Benefits received and receivable as an incentive to enter into an operating lease are also spread on a straight-line basis over the lease term.
+Intangible assets excluding goodwill Other intangible assets comprise computer software and the Groups key operating system which are stated at cost less amortisation and any recognised impairment loss.
+Amortisation is provided, where material, on all intangible assets excluding goodwill at rates calculated to write off the cost or valuation, less estimated residual value, of each asset evenly using a straight-line method over its estimated useful life as follows: Computer software: over 3 to 4 years Computer software relates entirely to purchases and does not include any internally generated value.
+The carrying values of computer software are reviewed for impairment when events or changes in circumstances indicate that the carrying value may not be recoverable.
+Internally generated assets IT development costs are capitalised only to the extent that they lead to the creation of an enduring asset, which delivers benefits at least as great as the amount capitalised.
+Development work has been undertaken in-house to enhance the key operating systems.
+Until 1 July 2012 this cost was not material and was recognised as an expense, the amounts are now more material and hence the costs are being capitalised as an intangible asset and subsequently depreciated over the estimated useful life of the system.
+Where such costs relate to an asset that is not yet available for use by the business, they have been separately classified as assets under construction and have not been amortised, but instead been reviewed for impairment.
+Hargreaves Lansdown plc Report and Financial Statements 2014 69 Notes to the Consolidated Financial Statements 2.
+SIGNIFICANT ACCOUNTING POLICIES CONTINUED Impairment of tangible and intangible assets excluding goodwill At each balance sheet date, the Group reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash flows that are independent from other assets, the Group estimates the recoverable amount of the cashgenerating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+If the recoverable amount of an asset is estimated to be less than its carrying amount, the carrying amount of the asset is reduced to its recoverable amount.
+An impairment loss is recognised as an expense immediately, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Dividend recognition Dividend distributions to the Companys shareholders are recognised in the accounting period in which the dividends are declared and paid, or, if earlier, in the accounting period when the dividend is approved by the Companys shareholders at the Annual General Meeting.
+Financial instruments Financial assets and financial liabilities are recognised in the Groups balance sheet when the Group becomes a party to the contractual provisions of the instrument.
+Trade receivables Trade receivables are measured at initial recognition at fair value.
+Subsequently appropriate allowances for estimated irrecoverable amounts are made and recognised in profit or loss when there is objective evidence that the asset is impaired.
+In accordance with market practice, certain balances with clients, Stock Exchange member firms and other counterparties are included as debtors.
+Market receivables and payables are presented net where there is a legal right of offset.
+Investments Investments are recognised and derecognised on a trade date where a purchase or sale of an investment is under a contract whose terms require delivery of the investment within the timeframe established by the market concerned, and are initially measured at cost, including transaction costs.
+The Groups available-for-sale investments have been included at fair value where a fair value can be reliably calculated, with the revaluation gains and losses reflected in the investment revaluation reserve, as shown in the Consolidated Statement of Changes in Equity on page 63, until sale when the cumulative gain or loss is transferred to the income statement.
+If a fair value cannot be reliably calculated by reference to a quoted market price or other method of valuation, available-for-sale investments are included at cost where the directors believe that cost is not materially different to fair value, with a fair value adjustment recognised upon disposal of the investment.
+Investments which are designated as being held at fair value through profit or loss are carried at fair value, being the quoted market price of the listed investment, with any gain or loss reported within the income statement.
+An investment is classified in this category if it is held principally for the purpose of selling in the short term.
+Cash and cash equivalents Cash and cash equivalents comprise cash on hand and demand deposits and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+Financial liabilities and equity Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into.
+An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its liabilities.
+Trade payables Trade payables are measured at fair value which is equivalent to amortised cost.
+In accordance with market practice, certain balances with clients, Stock Exchange member firms and other counterparties are included as creditors.
+Market debtors and creditors are presented net where there is a legal right of offset.
+70 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 3.
+KEY SOURCES OF JUDGEMENTS AND ESTIMATION UNCERTAINTY The preparation of the financial statements requires management to make estimates and assumptions that affect the reported amount of revenues, expenses, assets and liabilities and the disclosure of contingent liabilities.
+If in the future such estimates and assumptions, which are based on managements best judgement at the date of preparation of the financial statements, deviate from actual circumstances, the original estimates and assumptions will be modified as appropriate in the period in which the circumstances change.
+The areas where a higher degree of judgement or complexity arise, or areas where assumptions and estimates are significant to the consolidated financial statements, are minimal and discussed below.
+Share-based payments In determining the fair value of equity-settled share-based awards and the related charge to the income statement, the Group makes assumptions about the future events and market conditions.
+In particular, judgement must be formed as to the likely number of shares that will vest, and the fair value of each award granted.
+The fair value is determined using the Black-Scholes valuation model which is dependent on future estimates, including the Groups future dividend policy, the timing with which the options will be exercised and the future volatility in the price of the Groups shares.
+Different assumptions about these factors to those made by the Group could affect the reported value of share-based payments.
+Whilst this is an area of judgement in the financial statements, the value of share-based payments is not materially impacted by the selection of assumptions and consequently no sensitivity analysis has been presented.
+The main assumptions are provided in note 25.
+REVENUE Revenue represents commission receivable from financial services provided to clients, interest income on client money and management fees charged to clients.
+It relates to services provided in the UK and is stated net of value added tax.
+An analysis of the Groups revenue is as follows: Year ended Year ended 30 June 2014 30 June 2013 000 000 Revenue from services: Recurring income 287,293 233,008 Transactional income 65,118 53,371 Other income 5,982 6,024 Total revenue 358,393 292,403 Recurring income principally comprises renewal income, management fees, platform fees and interest income on client money.
+Transactional income principally comprises commission earned from stockbroking transactions.
+Other income principally represents the amount of fees receivable from the provision of Funds Library services.
+The policies adopted for the recognition of each significant revenue stream are set out in note 2 above.
+As highlighted in the Business Review, following the implementation of the Retail Distribution Review RDR, total revenue earned from investment funds held by clients significantly increased as a new platform fee was introduced.
+At the same time commission income is being received from the fund management groups on funds purchased by clients before the RDR implementation date.
+Where we still receive commission on these preRDR or legacy funds the vast majority is now passed back to our clients in the form of a significantly higher loyalty bonus which is shown within commission payable in the income statement.
+SEGMENT INFORMATION The Group is organised into three business segments, namely the Vantage division, the Discretionary division and the Third Party Other Services division.
+This is based upon the Groups internal organisation and management structure and is the primary way in which the Chief Operating Decision Maker CODM is provided with financial information.
+The CODM has been identified as the Board of Executive Directors.
+The Vantage division represents all activities relating to our direct to private investor platform.
+The Discretionary Managed division is focused on the provision of managed services such as our Portfolio Management Service PMS and range of Multi-Manager funds.
+The Third Party Other Services division includes activities relating to the broking of third party investments and pensions, certificated share dealing and other niche services such as currency, CFDs and spread betting.
+In this division, clients investments are not administered within the Group.
+Hargreaves Lansdown plc Report and Financial Statements 2014 71 Notes to the Consolidated Financial Statements 5.
+SEGMENT INFORMATION CONTINUED The Group segment contains items that are shared by the Group as a whole and cannot be reasonably allocated to other operating segments.
+Segment expenses are those that are directly attributable to a segment together with the relevant portion of other expenses that can reasonably be allocated to the segment.
+Gains or losses on the disposal of available-for-sale investments, investment income, interest payable and tax are not allocated by segment.
+Segment assets and liabilities include items that are directly attributable to a segment plus an allocation on a reasonable basis of shared items.
+Corporate assets and liabilities are not included in business segments and are thus unallocated.
+At 30 June 2014 and 2013, these comprise cash and cash equivalents, short-term investments, tax-related and other assets or liabilities.
+Consolidation adjustments relate to the elimination of inter-segment revenues at arms length prices, balances and investments in group subsidiaries required on consolidation.
+The breakdown of revenue from external customers for each type of service is therefore the same as the segmental analysis above.
+Information about geographical area All business activities are located within the UK.
+Information about major customers The Group does not rely on any individual customer.
+72 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 6.
+OPERATING PROFIT FOR THE FINANCIAL YEAR Operating profit for the financial year has been arrived at after charging: Year ended Year ended 30 June 2014 30 June 2013 000 000 Depreciation of owned plant and equipment 2,074 1,352 Amortisation of other intangible assets 426 363 Operating lease rentals payable property 2,365 2,412 Office running costs 4,244 3,787 Marketing and distribution 11,253 10,995 The analysis of auditor remuneration is as follows: Year ended Year ended 30 June 2014 30 June 2013 000 000 Audit fees: Fees payable to the Companys auditor for the statutory audit of the companys annual financial statements 5 5 Fees payable to the Companys auditor and its associates for the audits of the Companys associates 89 88 Audit related assurance services 24 23 Total fees: 118 116 Fees for the year-ended 30 June 2014 were payable to  LLP and for the year-ended 30 June 2013 were payable to Deloitte LLP.
+The auditors have not received any remuneration for non-audit services of any kind.
+STAFF COSTS The average monthly number of employees of the Group including executive directors was: Year ended Year ended 30 June 2014 30 June 2013 No.
+Operating and support functions 564 524 Administrative functions 230 207 794 731 Their aggregate remuneration comprised: 000 000 Wages and salaries 38,528 38,195 Social security costs 6,666 6,304 Share-based payment expenses 2,016 2,386 Other pension costs 4,070 3,380 51,280 50,265 The Group aims to attract, motivate and retain high calibre employees by rewarding them with competitive salary and benefit packages, which may be linked to the creation of long-term shareholder value.
+Salary ranges are established by reference to those prevailing in the employment market generally for employees of comparable status, responsibility and skills.
+All employees are eligible to be considered for an annual discretionary bonus.
+In addition to cash bonuses, the Group operates various share-based remuneration schemes as described in note 25.
+Other pension costs relate wholly to defined contribution schemes.
+Hargreaves Lansdown plc Report and Financial Statements 2014 73 Notes to the Consolidated Financial Statements 8.
+INVESTMENT REVENUE Year ended Year ended 30 June 2014 30 June 2013 000 000 Interest on bank deposits 1,646 2,769 Dividends from equity investment 122 110 1,768 2,879 9.
+TAX Year ended Year ended 30 June 2014 30 June 2013 000 000 Current tax: on profits for the year 46,723 46,804 Current tax: adjustments in respect of prior years 35 106 Deferred tax Note 19 : 235 502 Deferred tax: adjustments in respect of prior years 59 1 47,052 46,195 Corporation tax is calculated at 22.5% of the estimated assessable profit for the year to 30 June 2014 2013: 23.75%.
+In addition to the amount charged to the income statement, certain tax amounts have been charged or credited directly to equity as follows: Year ended Year ended 30 June 2014 30 June 2013 000 000 Deferred tax relating to share-based payments 56 3,546 Current tax relating to share-based payments 3,848 482 3,904 4,028 Factors affecting tax charge for the year It is expected that the ongoing effective tax rate will remain at a rate approximating to the standard UK corporation tax rate in the medium term.
+The standard UK corporation tax rate was reduced to 21% from 23% on 1 April 2014.
+Deferred tax has been recognised at 20%, being the rate substantially enacted at the balance sheet date.
+A deferred tax asset in respect of future share option deductions has been recognised based on the Companys share price as at 30 June 2014.
+Factors affecting future tax charge Any increase or decrease to the Companys share price will impact the amount of tax deduction available in future years on the value of shares acquired by staff under share incentive schemes.
+The Finance Act 2013 received Royal Assent on 17 July 2013 and will reduce the standard rate of UK corporation tax to 20% from 1 April 2015.
+74 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS The charge for the year can be reconciled to the profit per the income statement as follows: Year ended Year ended 30 June 2014 30 June 2013 000 000 Profit before tax from continuing operations 209,786 195,184 Theoretical tax charge 47,205 46,358 - at the UK corporation tax rate of 22.5% 23.75% Items allowable not allowable for tax 396 148 Effect of adjustments relating to prior year 94 107 Impact of the change in tax rate 149 92 Tax expense for the year 47,052 46,195 Effective tax rate 22.4% 23.7% 10.
+DIVIDENDS Amounts recognised as distributions to equity holders in the period: Year ended Year ended 30 June 2014 30 June 2013 000 000 2013 Second interim dividend of 14.38p 2012: 10.65p per share 67,355 49,756 2013 Special dividend of 8.91p 2012: 6.84p per share 41,734 31,956 2014 First interim dividend of 7.0p 2013: 6.3p per share 32,924 29,511 Total dividends paid during the year 142,013 111,223 After the balance sheet date, the directors declared a second interim final ordinary dividend of 15.39 pence per share and a special dividend of 9.61 pence per share payable on 26 September 2014 to shareholders on the register on 12 September 2014.
+Dividends are required to be recognised in the financial statements when paid, and accordingly the declared dividend amounts are not recognised in these financial statements, but will be included in the 2014 financial statements as follows: 000 2014 Second interim dividend of 15.39p 2013: 14.38p per share 72,435 2014 Special dividend of 9.61p 2013: 8.91p per share 45,240 Under an arrangement dated 30 June 1997 the Hargreaves Lansdown Employee Benefit Trust, which held the following number of ordinary shares in Hargreaves Lansdown plc at the date shown, has agreed to waive all dividends.
+Year ended Year ended 30 June 2014 30 June 2013 No.
+of shares Number of shares held by the Hargreaves Lansdown Employee Benefit Trust 3,547,124 5,923,930 Representing % of called-up share capital 0.75% 1.25% Hargreaves Lansdown plc Report and Financial Statements 2014 75 Notes to the Consolidated Financial Statements 11.
+EARNINGS PER SHARE EPS Basic earnings per share is calculated by dividing the profit attributable to equity holders of the Company by the weighted average number of ordinary shares in free issue during the period, including ordinary shares held in the EBT reserve which have vested unconditionally with employees.
+Diluted earnings per share is calculated adjusting the weighted average number of ordinary shares outstanding to assume conversion of all dilutive potential ordinary shares.
+The weighted average number of anti-dilutive share options and awards excluded from the calculation of diluted earnings per share was 179,414 at 30 June 2014 2013: 320,210.
+Year ended Year ended 30 June 2014 30 June 2013 000 000 Earnings all from continuing operations : Earnings for the purposes of basic & diluted EPS - net profit attributable to equity holders of parent company 162,091 148,391 Number of shares: Weighted average number of ordinary shares for the purposes of diluted EPS 474,365,495 471,923,756 Weighted average number of shares held by HL EBT which have not vested unconditionally with employees 4,109,730 3,981,223 Weighted average number of ordinary shares for the purposes of basic EPS 470,255,765 467,942,533 Earnings per share: Pence Pence Basic EPS 34.5 31.7 Diluted EPS 34.2 31.4 12.
+GOODWILL Year ended Year ended 30 June 2014 30 June 2013 000 000 Cost - at beginning and end of year 1,450 1,450 Accumulated impairment losses At beginning and end of year 117 117 Carrying amount - at end of year 1,333 1,333 The net carrying value of goodwill relates entirely to the acquisition of Hargreaves Lansdown Pensions Direct Limited HLPD.
+During the prior year as part of a restructuring exercise, HLPD changed its name to Hargreaves Lansdown Advisory Services Limited HLAS.
+From 1 January 2013 advisory services previously provided by Hargreaves Lansdown Asset Management Limited HLAM, including those in respect of the Portfolio Management Service, are now provided by HLAS.
+Certain administration services previously provided by HLAS are now provided by HLAM.
+The overall impact to the group is nil but the impact on HLAS was that it had less revenue and profits than previously.
+The Group tests goodwill annually for impairment or more frequently if there are indications that goodwill might be impaired.
+The Group has prepared financial forecasts for the business for the period to June 2017 which show that the Group as a whole will remain highly profitable and cash generative.
+Within the forecast, the revenue streams which belong to HLAS, although lower than before the restructuring, are forecast to grow with the company continuing to be profitable.
+HLAS is profit-making profit before tax for year ended 30 June 2014 was 13.8 million and has a net assets position as at 30 June 2014 of 24.1 million, therefore the directors see no reason to impair the value of goodwill and continue to hold it at its carrying amount.
+76 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 13.
+Other movements relate to assets that are no longer in use by the Group.
+Hargreaves Lansdown plc Report and Financial Statements 2014 77 Notes to the Consolidated Financial Statements 14.
+PROPERTY, PLANT AND EQUIPMENT Fixtures, fittings, plant and equipment: Group 000 Cost At 1 July 2012 15,017 Additions 5,301 Other movements 1,197 At 30 June 2013 19,121 Additions 5,018 Other movements 5 At 30 June 2014 24,134 Accumulated depreciation At 1 July 2012 9,225 Charge 1,352 Other movements 1,193 At 30 June 2013 9,384 Charge 2,074 Other movements 3 At 30 June 2014 11,455 Carrying amount At 30 June 2014 12,679 At 30 June 2013 9,737 At 30 June 2012 5,792 Other movements relate to assets that are no longer in use.
+SUBSIDIARIES A list of the investments in subsidiaries included in the consolidated results of Hargreaves Lansdown Plc is shown in note 4 to the parent company financial statements.
+78 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 16.
+INVESTMENTS Year ended Year ended 30 June 2014 30 June 2013 000 000 At beginning of year 613 2,228 Sales - 1,712 Purchases 261 97 Net increase in the value of available-for-sale investments - - At end of year 874 613 Comprising: Current asset investment - UK listed securities valued at quoted market price 610 349 Current asset investment - Unlisted securities valued at cost 264 264 610,000 2013: 349,000 of investments are classified as held at fair value through profit and loss and 264,000 2013: 264,000 are classified as available-for-sale.
+Available-for-sale investments have been included at fair value where a fair value can be reliably calculated, with the revaluation gains and losses reflected in the investment revaluation reserve as shown in the Consolidated Statement of Changes in Equity, until sale when the cumulative gain or loss is transferred to the income statement.
+If a fair value cannot be reliably calculated by reference to a quoted market price or other method of valuation, available-for-sale investments are included at cost where the directors believe that this is not significantly different to fair value, with a fair value adjustment recognised upon disposal of the investment.
+TRADE AND OTHER RECEIVABLES Year ended Year ended 30 June 2014 30 June 2013 000 000 Financial assets: Trade receivables 262,257 249,697 Other receivables 6,039 962 268,296 250,659 Non-financial assets: Prepayments and accrued income 35,567 33,556 303,863 284,215 The prior period comparatives have been restated as a result of a change in accounting policy.
+The impact of this is disclosed in Note 1.
+Trade and other receivables are measured at initial recognition at fair value.
+Appropriate allowances for estimated irrecoverable amounts are recognised in profit or loss when there is objective evidence that the asset is impaired.
+In accordance with market practice and IFRS, certain balances with clients, Stock Exchange member firms and other counterparties totalling 242.9 million 2013: 231.2 million are included in trade receivables.
+These balances are presented net where there is a legal right of offset and the ability and intention to settle net.
+The gross amount of trade receivables is 314.5 million and the gross amount offset in the balance sheet with trade payables is 71.6 million.
+Hargreaves Lansdown plc Report and Financial Statements 2014 79 Notes to the Consolidated Financial Statements 18.
+CASH AND CASH EQUIVALENTS Year ended Year ended 30 June 2014 30 June 2013 000 000 Cash and cash equivalents Restricted cash balances held by EBT 4,471 37 Group cash and cash equivalent balances 196,767 177,717 201,238 177,754 The prior period comparatives have been restated as a result of a change in accounting policy.
+Cash and cash equivalents comprise cash and institutional cash funds with near-instant access held by the Group.
+At 30 June 2014 segregated deposit amounts held by the Group on behalf of clients in accordance with the client money rules of the Financial Conduct Authority amounted to 4,109 million 2013: 3,581 million.
+The client retains the beneficial interest in these deposits and accordingly they are not included in the balance sheet of the Group.
+DEFERRED TAX The following are the major deferred tax assets recognised and movements thereon during the current and prior reporting years.
+Deferred tax has been recognised at 20%, being the rate in force at the balance sheet date.
+Other deductible Accelerated tax Future relief on Share-based temporary depreciation capital losses payments differences Total 000 000 000 000 000 At 1 July 2012 650 22 1,162 1,105 2,939 Charge credit to income 203 22 465 263 503 Credit to equity - - 3,546 - 3,546 At 30 June 2013 447 - 5,173 1,368 6,988 Charge credit to income 302 - 11 3 294 Credit to equity - - 56 - 56 At 30 June 2014 145 - 5,240 1,365 6,750 80 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 20.
+TRADE AND OTHER PAYABLES Year ended Year ended 30 June 2014 30 June 2013 000 000 Financial liabilities: Trade payables 242,153 231,192 Social security and other taxes 11,488 10,063 Other payables 16,385 7,311 270,026 248,566 Non-financial liabilities: Accruals and deferred income 10,896 11,379 280,922 259,945 In accordance with market practice and IFRS, certain balances with clients, Stock Exchange member firms and other counterparties totalling 241.1 million 2013: 230.0 million are included in trade payables.
+As stated in note 17 above, where we have a legal right of offset and the ability and intention to settle net, trade payable balances have been presented net.
+The gross amount of trade payables is 312.7 million and the gross amount offset in the balance sheet with trade receivables is 71.6 million.
+Other payables principally comprise amounts owed to clients as a loyalty bonus and to staff as a bonus.
+Accruals and deferred income principally comprise amounts outstanding for trade purchases and revenue received but not yet earned on group pension schemes where an ongoing service is still being provided.
+PROVISIONS Commission on indemnity terms 000 Included within current liabilities: At 1 July 2012 - Charged during the year 127 At 30 June 2013 127 Utilised during the year 95 At 30 June 2014 32 The indemnity provision represents managements best estimate of the Groups liability to repay commission received on indemnity terms.
+The provision is based on past experience and the volume of indemnified commission.
+Property costs 000 Included within non-current liabilities: At 1 July 2012 277 Charged during the year - At 30 June 2013 277 Utilised during the year 30 At 30 June 2014 247 The provision on property related costs represents the Groups future committed lease payments on non-cancellable leases and other contractual obligations that arise on the surrendering of operating leases.
+These property provisions are not expected to be fully utilised until 2026.
+Hargreaves Lansdown plc Report and Financial Statements 2014 81 Notes to the Consolidated Financial Statements 22.
+SHARE CAPITAL Year ended Year ended 30 June 2014 30 June 2013 000 000 Authorised: 525,000,000 ordinary shares of 0.4p each 2,100 2,100 Issued and fully paid: Ordinary shares of 0.4p each 1,897 1,897 Shares Shares Issued and fully paid: Number of ordinary shares of 0.4p each 474,318,625 474,318,625 The Company has one class of ordinary shares which carry no right to fixed income.
+NOTES TO THE CONSOLIDATED STATEMENTS OF CASH FLOWS Year ended Year ended 30 June 2014 30 June 2013 000 000 Profit for the year after tax 162,734 148,989 Adjustments for: Investment revenues 1,768 2,879 Income tax expense 47,052 46,195 Depreciation of plant and equipment 2,074 1,352 Amortisation of intangible assets 426 363 Loss on disposal 3 155 Share-based payment expense 2,016 2,386 Decrease increase in provisions 125 127 Operating cash flows before movements in working capital 212,412 196,688 Increase decrease in receivables 19,648 128,967 Increase decrease in payables 20,977 122,993 Cash generated from operations 213,741 190,714 The prior period comparatives have been restated as a result of a change in accounting policy.
+82 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 24.
+COMMITMENTS Operating lease commitments as lessee Year ended Year ended 30 June 2014 30 June 2013 000 000 Minimum lease payments under operating lease recognised as an expense in the year 2,365 2,412 At the balance sheet date, the Group had outstanding commitments for future minimum lease payments under the remaining term of non-cancellable operating leases, which fall due as follows: Within one year 2,913 2,896 In the second to fifth years inclusive 11,313 11,349 After five years 20,309 22,976 Total minimum lease payments 34,535 37,221 Operating lease payments represent rentals payable by the Group for its office properties.
+The Group leases various offices under non-cancellable operating lease agreements.
+The leases have varying terms, escalation values and renewal rights.
+Capital commitments At the balance sheet date, the Group had capital commitments of 749,000 2013: 1,385,000 for IT equipment.
+SHARE-BASED PAYMENTS Equity-settled share option scheme The Group seeks to facilitate significant equity ownership by employees, principally through schemes which encourage and assist the purchase of the Companys shares.
+The Group operates four share option and share award plans: the Employee Savings-Related Share Option Scheme SAYE, the Hargreaves Lansdown plc Share Incentive Plan SIP, the Hargreaves Lansdown Company Share Option Scheme the Executive Option Scheme and the Hargreaves Lansdown Joint Share Ownership Plan JSOP.
+Awards granted under the Employee SAYE scheme vest over five years.
+Awards granted under the Employee Share Incentive Plan vest over a threeyear period.
+Awards granted under the Executive Option Scheme vest between nil and ten years.
+Options are exercisable at a price equal to the market value of the Companys shares on the date of grant.
+There are currently no performance conditions attached to any options granted under any of the schemes, although options are forfeited in most circumstances if the employee leaves the Group before the options vest.
+Interests in shares purchased under the JSOP were granted at under market value, with tax and National Insurance being paid on the difference.
+The shares must be held for a minimum of three years under the terms of the Deeds and are realisable in only very limited circumstances before that date.
+There are no performance conditions attached to the shares.
+Details of the share options and share awards outstanding during the year are as follows: Hargreaves Lansdown plc Report and Financial Statements 2014 83 Notes to the Consolidated Financial Statements 25.
+SHARE-BASED PAYMENTS CONTINUED Year ended 30 June 2014 Year ended 30 June 2013 Share Weighted average Share Weighted average options exercise price options exercise price No.
+84 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS The share options outstanding at the end of each year have exercise prices and expected remaining lives as follows: Year ended 30 June 2014 Year ended 30 June 2013 Share Weighted Share Weighted options average expected options average expected No.
+SHARE-BASED PAYMENTS CONTINUED The fair value at the date of grant of options awarded during the year ended 30 June 2014 and the year ended 30 June 2013 has been estimated by the Black-Scholes methodology and the principal assumptions required by the methodology were as follows: At 30 June 2014 At 30 June 2013 Weighted average share price 1,198.42p 761.84p Expected dividend yields 2.73% 4.13% SAYE Weighted average exercise price 1,143.00p 868.00p Expected volatility 33% 63% Risk-free rate 1.87% 2.50% Expected life 5 years 5 years Executive scheme Weighted average exercise price 1,154.68p 669.85p Expected volatility 34% 63% Risk-free rate 1.28% 2.50% Expected life 3.8 years 4 years The expected volatility The expected Hargreaves Lansdown Plc share price volatility was determined by calculating the historical volatility of the Groups share price since flotation in May 2007.
+Prior to 15 May 2007 the Companys shares were not listed on a stock exchange and therefore no readily available market price existed for the shares.
+The share price of share option awards granted prior to 15 May 2007 were based on the latest market value agreed with HM Revenue & Customs using an earnings multiples approach based on comparable quoted companies.
+Similarly, share price volatility was estimated as the average of the volatility experienced by a comparable group of quoted companies.
+Since 15 May 2007, a quoted market price has been available for the Companys shares.
+The Group recognised total expenses related to equity-settled share-based payment transactions as shown in note 7.
+EVENTS AFTER BALANCE SHEET DATE On 3 September 2014 the directors proposed a second interim ordinary dividend payment of 15.39 pence per ordinary share and a special dividend of 9.61 pence per ordinary share, payable on 26 September 2014 to all shareholders on the register at the close of business on 12 September 2014 as detailed in note 10.
+86 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 27.
+RELATED PARTY TRANSACTIONS The Company has a related party relationship with its subsidiaries, and with its directors and members of the Executive Committee the key management personnel.
+Transactions between the Company and its key management personnel are disclosed below.
+Details of transactions between the Company and other related parties are also disclosed below.
+Trading transactions The Company entered into the following transactions with directors within the Hargreaves Lansdown Group and related parties who are not members of the Group: During the years ended 30 June 2014 and 30 June 2013 the Company has been party to a lease with P K Hargreaves, a current director and S P Lansdown, a director until 23 November 2012, for rental of the old head office premises at Kendal House.
+A ten-year lease was signed on 6 April 2011 for a rental of part of the building, to be used for disaster recovery purposes at a market rate rent of 105,000 per annum.
+No amount was outstanding at either year-end.
+Shortly before 30 June 2013 P K Hargreaves bought out the 50% ownership in Kendal House held by S P Lansdown.
+During the year the Company settled certain personal expenses on behalf of one director, all of which were subject to subsequent reimbursement from the director.
+The maximum outstanding at any one time was 5,444.
+At the year end the amount outstanding was 4,999 which was repaid on 23 July 2014.
+No interest was paid on these amounts.
+During the years ended 30 June 2014 and 30 June 2013 the Group has provided a range of investment services in the normal course of business to shareholders, directors and staff on normal third party business terms.
+Remuneration of key management personnel The remuneration of the key management personnel of the Group, being those personnel who were either a member of the Board of a Group company or a member of the Executive Committee during the relevant year shown below, is set out below in aggregate for each of the categories specified in IAS 24 Related Party Disclosures.
+Year ended Year ended 30 June 2014 30 June 2013 000 000 Short-term employee benefits 8,813 11,035 Post-employment benefits 590 416 Termination benefits 50 - Share-based payments 1,141 1,528 10,594 12,979 In addition to the above key management personnel received gains of 2,999,000 relating to the Joint Share Ownership Plan 2013: 11,364,000 and 12,168,000 relating to the exercise of share options 2013: 1,438,000.
+Hargreaves Lansdown plc Report and Financial Statements 2014 87 Notes to the Consolidated Financial Statements 27.
+RELATED PARTY TRANSACTIONS CONTINUED Included within the previous table are the following amounts paid to directors of the Company who served during the relevant year.
+Full details of directors remuneration are shown in the Remuneration Committee report.
+Year ended Year ended 30 June 2014 30 June 2013 000 000 Short-term employee benefits 3,318 4,459 Post-employment benefits 108 94 Share-based payments 278 733 3,704 5,286 In addition to the above, directors of the Company received gains of nil relating to the Joint Share Ownership Plan 2013: 7,829,000 and 9,016,000 relating to the exercise of share options 2013: 1,438,000.
+Emoluments of the highest paid director 2,036 2,836 Number of directors who exercised share options during the year 2 2 Number of directors who were members of money purchase pension schemes 2 2 Any amounts outstanding with related parties are unsecured and will be settled in cash.
+No guarantees have been given or received in respect of amounts outstanding.
+No provisions have been made for doubtful debts in respect of the amounts owed by the related parties.
+FINANCIAL INSTRUMENTS The fair values of the Groups financial assets and liabilities are not materially different from their carrying values.
+Market values have been used to determine the fair values of cash and cash equivalents, and available-for-sale financial assets where there is a quoted market price.
+Investments in equity instruments which do not have a quoted market price in an active market or whose fair value cannot be reliably measured are measured at cost which the directors believe is not significantly different to fair value.
+Level 1 Level 2 Level 3 Total 000 000 000 000 At 30 June 2014 Financial assets at fair value through profit or loss 610 - - 610 Available-for-sale financial assets - - 264 264 610 - 264 874 At 30 June 2013 Financial assets at fair value through profit or loss 349 - - 349 Available-for-sale financial assets - - 264 264 349 - 264 613 There were no transfers between Level 1 and Level 2 and no reduction in level 3 assets during the year 2013: nil.
+88 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS Nature and extent of risks arising from financial instruments a Financial risk management Financial assets principally comprise trade and other receivables, cash and cash equivalents, and current asset listed and unlisted investments.
+Financial liabilities comprise certain provisions and trade and other payables.
+The main risks arising from financial instruments are market risk including interest rate risk, foreign exchange risk and price risk, liquidity risk, and credit risk.
+Each of these risks is discussed in detail below.
+The Group monitors financial risks on a consolidated basis.
+Hargreaves Lansdowns financial risk management is based upon sound economic objectives and good corporate practice.
+No hedging transactions have taken place during the years presented.
+The Group has designed a framework to manage the risks of its business and to ensure that the directors have in place risk management practices appropriate to a listed company.
+The management of risk within the Group is governed by the Board.
+b Market risk Interest rate risk Interest rate risk is the risk that the Group will sustain losses from adverse movements in interest-bearing assets.
+There is an exposure to interest rates on banking deposits held in the ordinary course of business.
+At 30 June 2014 the value of financial instruments on the Group balance sheet exposed to interest rate risk was 201.24 million 2013: 177.75 million comprising cash and cash equivalents.
+A 50bps 0.5% move in interest rates, in isolation, would impact investment income by c. 1.1 million per annum.
+This impact, after taking into account the corresponding increase decrease in the Groups tax charge, would lead to a change in retained profit for the year.
+This exposure is continually monitored to ensure that the Group is maximising its interest earning potential within accepted liquidity and credit constraints.
+The Group has no external borrowings and as such is not exposed to interest rate or refinancing risk on borrowings.
+Cash at bank earns interest at floating rates based on daily bank deposit rates.
+Short-term deposits are also made for varying periods of between one day and 13 months depending on the immediate cash requirements of the Group and earn interest at the respective fixed term deposit rates.
+As a source of revenue is based on the value of client cash under administration, the Group has an indirect exposure to interest rate risk on cash balances held for clients.
+These balances are not on the Group balance sheet but amounted to 4,045 million 2013: 3,561 million.
+Foreign exchange translation and transaction risk Foreign currency risk is the risk that the Group will sustain losses through adverse movements in currency exchange rates.
+With substantially all of the Groups businesses located within the UK, and therefore with minimal net assets and transactions of the Group denominated in foreign currencies, the Group is not exposed to significant foreign exchange translation or transaction risk and as such does not hedge any foreign current assets or liabilities.
+The Group deals in foreign currencies on a matched basis on behalf of clients, limiting foreign exchange exposure.
+Given the limited nature of transactions and assets involving foreign currencies no sensitivity analysis has been conducted as the impact would be minimal.
+Price risk Price risk is the risk that a decline in the value of assets adversely impacts on the profitability of the Group as a result of an asset not meeting its expected value.
+The Group is exposed to price risk on corporate investments held on the Group balance sheet.
+At 30 June 2014, the fair value of investments recognised on the Group balance sheet was 874,000 2013: 613,000.
+A 20% move in equity prices, in isolation, would not have a material impact on the Group balance sheet or results.
+As a main source of revenue is based on the value of client assets under administration, the Group has an indirect exposure to security price risk on investments held for clients.
+These assets are not on the Group balance sheet.
+The risk of lower revenues is partially mitigated by asset class diversification.
+The Group does not hedge its revenue exposure to movements in the value of client assets arising from these risks, and so the interests of the Group are aligned to those of its clients.
+In addition, the Group acts as a private client investment manager, unit trust manager and agency stockbroker on a matched basis so its exposure to market price movements in this capacity is limited to when there is a trade mismatch or error, or if one matched counterparty fails to fulfil its obligations.
+The impact of these risks is minimised by limits and monitoring controls.
+c Liquidity risk The Group is exposed to liquidity risk, namely the risk that it may be unable to meet its payment obligations as they fall due.
+The Group is highly cash generative and holds significant liquid assets.
+The Group actively maintains a proportion of cash balances on short-term deposit to ensure that the Group has sufficient available funds for operations.
+Hargreaves Lansdown plc Report and Financial Statements 2014 89 Notes to the Consolidated Financial Statements 28.
+FINANCIAL INSTRUMENTS CONTINUED The table below analyses the maturities of the undiscounted cash flows relating to financial liabilities of the Group based on the remaining period to the contractual maturity date at the balance sheet date.
+0-3 months 3-6 months 6-12 months Over 1 year Total 000 000 000 000 000 At 30 June 2014 Trade and other payables: Trade payables 242,153 - - - 242,153 Other payables 16,385 - - - 16,385 258,538 - - - 258,538 At 30 June 2013 Trade and other payables: Trade payables 231,192 - - - 231,192 Other payables 7,311 - - - 7,311 238,503 - - - 238,503 d Credit risk The Group has no significant concentration of credit risk as credit exposure is spread over a large number of counterparties and customers.
+Within the Groups Stockbroking operation, the Group is exposed to credit risk from counterparties to a securities transaction during the period between the trade date and the settlement date.
+This period is generally three business days.
+The Group has credit exposure that extends beyond the original settlement date if the counterparty fails either to make payment or to deliver securities.
+These transactions are with financial institutions and clients.
+Settlement risk is substantially mitigated as a result of the delivery versus payment mechanism whereby, if a counterparty fails to make payment, the securities would not be delivered to the counterparty.
+In that instance, the securities could be sold in the market and therefore the economic substance of the transaction is that securities serve as collateral in the case of delivery versus payment trade debtors.
+As a result, the risk exposure is effectively to an adverse movement in market prices between the time of trade and settlement.
+Other credit risk within the Group is primarily attributable to its trade receivables and the majority represents balances due from other regulated financial institutions where there is an ongoing relationship between the Group and institution.
+Credit risk is therefore considered to be limited.
+The amounts presented in the balance sheet are net of allowances for doubtful receivables.
+An allowance for impairment is made where there is an identified loss event which, based on previous experience, is evidence of a reduction in the recoverability of the cash flows.
+Cash is held with UK banks.
+The credit risk on liquid funds is minimised because the counterparties are banks with strong credit-ratings assigned by international credit-rating agencies.
+The Group takes a conservative approach to treasury management and selection of banking counterparties, and carries out regular reviews of all its banks and custodians credit ratings.
+The following table discloses the Groups maximum exposure to credit risk on financial assets: At 30 June 2014 At 30 June 2013 000 000 Receivables at cost: Cash and cash equivalents 201,238 177,754 Trade and other receivables 303,863 284,215 Financial assets at fair value through profit or loss: Financial investments 610 349 Available-for-sale financial assets: Financial investments 264 264 505,975 462,582 The prior period comparatives have been restated as a result of a change in accounting policy.
+90 Hargreaves Lansdown plc Report and Financial Statements 2014 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS The following table contains an analysis of financial assets that are past due but not impaired at the balance sheet date.
+An asset is past due when the counterparty has failed to make a payment when contractually due.
+The table below shows the credit quality of financial assets that are neither past due nor impaired using the following counterparty gradings: Financial institutions In respect of trade receivables, 21.9 million 2013: 13.6 million is due from financial institutions regulated by the Financial Conduct Authority FCA in the course of settlement as a result of daily trading and 114.0 million 2013: 15.6 million relates to revenue items due from financial institutions regulated by the FCA.
+For prepayments and accrued income, the balance predominantly relates to accrued interest due from financial institutions regulated by the FCA on own and client cash balances.
+Corporate clients Prepayments relating to businesses other than financial institutions, mainly purchase suppliers.
+Individuals In respect of trade receivables, the balance is related to amounts due from individual clients in the course of settlement as a result of daily trading.
+For prepayments and accrued income, the balance includes management fees and charges due from clients.
+Hargreaves Lansdown plc Report and Financial Statements 2014 91 Notes to the Consolidated Financial Statements 28.
+FINANCIAL INSTRUMENTS CONTINUED Financial Corporate institutions clients Individuals Total 000 000 000 000 At 30 June 2014 Trade receivables 60,718 18 191,628 252,364 Other receivables 6,039 - - 6,039 Prepayments and accrued income 20,022 4,346 11,199 35,567 Held-for-trading assets 610 - - 610 Available-for-sale assets 264 - - 264 87,653 4,364 202,827 294,844 At 30 June 2013 Trade receivables 29,268 73 217,921 247,263 Other receivables 962 - - 962 Prepayments and accrued income 28,180 3,757 1,619 33,556 Held-for-trading assets 349 - - 349 Available-for-sale assets 264 - - 264 59,023 3,830 219,540 282,393 Capital management Capital is defined as the total of share capital, share premium, retained earnings and other reserves.
+Total capital at 30 June 2014 was 228.3 million 2013: 197.1 million and this capital is managed via the net assets to which it relates.
+It is the Groups policy to maintain a strong capital base.
+The Groups objectives when managing capital are i to safeguard the Groups ability to continue as a going concern so that it can continue to provide returns for shareholders and benefits for other stakeholders: ii to maintain a strong capital base and utilise it efficiently to support the development of its business: and iii to comply with the regulatory capital requirements set by the Financial Conduct Authority FCA.
+Capital adequacy and the use of regulatory capital are monitored by the Groups management and Board.
+All regulated entities within the Group are required to comply with the requirements set by the FCA and must meet the Pillar 1 regulatory Capital Resources Requirements CRR set out in the Capital Requirements Directive the Directive.
+The CRR is the higher of i the fixed overhead requirement and ii the sum of the credit risk capital requirement and the market risk capital requirement.
+The Group is also required to comply with the requirements of the Directive under Pillar 2 Operational Risk and Pillar 3 Disclosure in respect of the Groups regulatory capital requirements.
+The Directive requires continual assessment of the Groups risks in order to ensure that the higher of Pillar 1 and 2 requirements is met, the objective being to ensure that the regulated firms have adequate capital to enable them to manage their risks.
+The Group completes its assessment of regulatory capital requirements using its Individual Capital Adequacy Assessment Process ICAAP under Pillar 2, which is a forward looking exercise that includes stress testing on major risks, such as a significant market downturn, and identifying mitigating action.
+The ICAAP covers current as well as projected capital requirements, and is used to manage regulatory capital.
+Under the requirements of Pillar 3, the Group is required to disclose regulatory capital information, and has done so by making the disclosures available in the Groups website at http: www.
+Regulatory capital is determined in accordance with the requirements of the Capital Requirements Directive prescribed in the UK by the FCA, and the Groups regulatory capital is divided into two tiers: - Tier 1 capital, which is the total of issued share capital, retained earnings and reserves created by appropriations of retained earnings, net of the book value of goodwill and other intangible assets: and - Tier 2 capital, which is unrealised gains arising on the fair valuation of equity instruments held as available-for-sale.
+All of the regulated firms maintained surplus regulated capital throughout the year.
+The aggregated regulatory Pillar 1 capital surplus across the four regulated subsidiaries was approximately 63.3 million at 30 June 2014 2013: 47.1 million.
+The regulated subsidiaries may be limited in the distributions that can be paid up to the parent by their individual capital requirements.
+92 Hargreaves Lansdown plc Report and Financial Statements 2014

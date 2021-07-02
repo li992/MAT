@@ -1,0 +1,125 @@
+42 BT Group plc Annual Report 2016 Under the powers of the Communications Act, Ofcom sets conditions that CPs must comply with.
+Some conditions, known Ofcom wants a strengthened model of functional separation of Openreach so that it can take its own decisions on budget, investment as General Conditions, apply to all CPs.
+These mainly deal with: and strategy, in consultation with the wider industry.
+protecting consumers: Ofcom intends to introduce: tougher rules on faults, repairs and access and interconnection: installations: transparent information on service quality: and automatic planning for emergencies: compensation for consumers when things go wrong.
+providing information to Ofcom: and Ofcom will work with the Government to deliver a new universal right to allocating and transferring phone numbers.
+fast, affordable broadband for every household and business in the UK.
+Also, when Ofcom releases spectrum for mobile operators, it intends to Other conditions apply to certain companies that are universal impose obligations to improve rural mobile coverage.
+service providers or which Ofcom has decided have SMP in a particular market.
+Were the designated universal service provider Weve made a number of proposals to Ofcom to address its concerns.
+These include a new governance structure for Openreach and a clear for the UK except for the Hull area where it is KCOM Group and commitment on investment.
+Were happy for other companies to use so we have certain obligations.
+The main one is to make sure our ducts and poles which have been open to competitors since 2011. that basic fixed-line services are available at an affordable price to all consumers.
+Were also obliged to provide public payphones, although we can remove those that are uneconomic subject to Overseas regulation local consultation and agreement by local authorities.
+The degree of regulation in international markets varies widely.
+We have SMP in a number of markets including Business This can hinder our ability to compete and provide the services our Connectivity such as Ethernet and backhaul, Fixed Access customers require.
+Were pressing incumbent operators around the including LLU, GEA and WLR and Wholesale Narrowband such world, and their national regulatory authorities, for fairer, costas Call Origination.
+Ofcoms market reviews are therefore very related wholesale access to their networks.
+Were also in discussions with both EC and US regulatory authorities Following a market review, if Ofcom decides that a CP has SMP, it over what we believe to be premature deregulation of parts of the can put controls in place, typically on the prices which the CP can US telecoms market.
+This has made it more difficult for non-US CPs charge.
+Ofcom will generally try to set charges that are reasonably to enter and compete in the US, while European telecoms markets based on costs and an appropriate return on the capital invested.
+remain open to competition from US operators.
+CPs affected by Ofcom decisions can appeal them through a Price regulation of our main wholesale products number of routes, including to the Competition Appeal Tribunal The following table shows the main wholesale products provided CAT or to the High Court.
+to CPs which are subject to price controls in markets where we have been found to have SMP.
+BTs Undertakings In response to Ofcoms 2005 Strategic Review of Telecommunications we gave some legally-binding undertakings Product Annual charge control Current charge under the Enterprise Act 2002.
+These Undertakings which control ends included the creation of Openreach began in September 2005.
+Call origination RPI3.6% 30 September 2016 They aim to give clarity and certainty to the UK telecoms industry about the way we provide wholesale regulated products.
+This Call termination RPI3.1% 30 September 2016 in turn supports effective and fair competition in related retail markets.
+Ethernet CPI13.5% 31 March 2019 PPCs CPI3.5% 31 March 2019 Ofcoms Strategic Review WLR rental CPI3.0% 31 March 2017 of Digital Communications a IPStream rental CPI4.4% in Market A 31 March 2017 only Ofcom announced in March 2015 that, ten years on from the last one, it would carry out a new strategic review, this time of the wider digital MPF rental CPI 0.3% 31 March 2017 communications industry.
+SMPF rental CPI33.4% 31 March 2017 The review has looked at ways to improve investment, innovation and sustainable competition across fixed-line, broadband and mobile a markets, and at ways to ensure that where regulation is necessary it is Wholesale broadband services are regulated in Market A which covers 9.5% of UK premises.
+Market B covers the remaining premises and is competitive and unregulated.
+Ofcom has also looked at ways of empowering consumers.
+Our wholesale fibre broadband product, GEA, is not currently On 25 February 2016, Ofcom published its initial conclusions: subject to price regulation.
+This will be reviewed again in Ofcoms Ofcom sees passive access to Openreachs underground ducts and Wholesale Local Access market review, expected to begin later in telephone poles as key to its future competition policy, especially 2016, with a final decision due by 1 April 2017. to encourage investment in  by other companies.
+Ofcom wants an improved process for getting access to this infrastucture, including an online database of its location, condition and capacity.
+43 Overview The Strategic Report Governance Financial statements Additional information Pay-TV Other regulatory decisions and activities Were appealing to the CAT Ofcoms November 2015 decision Business Connectivity market and cost attribution to remove Skys Wholesale Must Offer obligation on Sky Sports.
+In April 2016, Ofcom published its final statement on its Business We believe that effective remedies are essential to address the Connectivity Market Review, Leased Lines Charge failure of competition in the pay-TV market, where Sky has held Control and Cost Attribution Review.
+The key measures Ofcom a dominant position for more than a decade.
+imposed are: Broadband USO charge controls to apply from 1 May 2016 until 31 March In March 2016, the UK Government began a consultation on a 2019: broadband Universal Service Obligation USO that will require a the introduction of minimum service levels for the provision minimum line speed of 10Mbps to be provided.
+In April 2016, of Ethernet services by Openreach: at the Governments request, Ofcom began a consultation on the requiring Openreach to provide access to its fibre network for design of the USO including: whether there should be one or more providers of high-speed leased lines for businesses dark fibre.
+designated USO providers: whether there should be a competitive process for designating USO providers: and whether the net costs In setting the charge controls, Ofcom made a number of base year of a USO should be funded by industry.
+Ofcom plans to report back cost adjustments to reflect its Cost Attribution Review assessment to the Government by the end of 2016. that some of our attribution methodologies do not reflect the activity that drives the cost.
+This is also likely to affect future price controls, including in the Wholesale Local Access and Narrowband Regulatory approval markets.
+of our acquisition of EE Ethernet dispute In August 2015, the Court of Appeal granted us permission to In February 2015 we announced that wed agreed definitive terms to appeal the CATs August 2014 decision relating to a dispute on acquire EE.
+This transaction was subject to approval by BT shareholders historical Ethernet pricing that was originally determined by Ofcom and merger clearance, in particular from the UK Competition and Markets Authority CMA.
+In October 2015, the CMA gave its provisional clearance in 2012.
+Our appeal was granted on three legal grounds, including to the deal, announcing that it is not expected to result in a substantial whether Ofcom had the power to require us to make the payments lessening of competition in any market in the UK.
+The CMA gave formal it determined in the dispute and if it has the power to award approval, unconditionally without remedies, on 15 January 2016. interest charges on these payments.
+Ofcom has deferred its final determination on the amount of interest payable until the Court hears the appeal, which we expect to take place in March 2017.
+Protecting In November 2015, the Court of Appeal also granted TalkTalk permission to appeal the CATs August 2014 decision.
+the environment Margin squeeze test We believe that the Information and Communications Technology In May 2015, we lodged an appeal with the CAT against the ICT industry plays a vital and ever-growing role in tackling climate design of Ofcoms regulatory margin squeeze test which requires a b change.
+As set out in a report published this year, we believe BT Consumer to maintain a minimum margin on newly-acquired increased investment in ICT can reduce UK carbon emissions by fibre broadband customers.
+24% by 2030, while creating value for the UK economy 122bn In August 2015, Ofcom issued supplementary guidance on how in that year.
+Reflecting our role in this area, we also organised and the minimum margin test in respect of fibre broadband would be took part in working sessions at the UN climate negotiations in impacted by a material change in circumstances such as the Paris COP21.
+launch of our UEFA Champions League and UEFA Europa League We launched 100% Sport at Climate Week in New York, content.
+While we welcome this guidance, it still doesnt provide encouraging sports fans to switch to renewable energy and enough flexibility around how we recover our BT Sport costs.
+promoting our support for the global #go100percent campaign And we believe it doesnt address concerns previously raised by the created by the Renewables 100 Policy Institute.
+European Commission around providing us sufficient flexibility to recover these costs.
+In March 2016, the CAT issued its judgment on our appeal.
+The Our 2020 ambition CAT found that Ofcom was entitled to impose a regulatory margin squeeze test as one of the remedies in its Fixed Access Market Enable customers to reduce their Review, and rejected our arguments that Ofcom had not met the carbon emissions by at least three legal or evidential tests to impose such a condition.
+Our appeal times the end-to-end carbon impact on the design of the margin squeeze test is being heard by the 3:1 of our business CMA and its provisional determination is expected in the coming months.
+a As a signatory to the Climate Disclosure Standards Boards CDSB fiduciary duty and climate change disclosure, we summarise our response to climate change through this Annual Report with more details in our Delivering Our Purpose report, www.
+com Purposefulbusiness b The Role of ICT in Reducing Carbon Emissions in the UK, www.
+com Purposefulbusiness Stories Energyenvironment UKcarbontargets index.
+htm 44 BT Group plc Annual Report 2016 a, b Reducing our carbon footprint Reducing our customers carbon footprint We report all of the greenhouse gas GHG emission sources We continue to progress towards our 3:1 goal, measuring the c required under UK regulations.
+The following chart shows the impact our products and services can have on reducing our 10% reduction this year in our total operational worldwide customers carbon emissions.
+d CO equivalent CO e emissions : 2 2 This year we generated 3.6bn of revenue from products that have contributed to carbon abatement up from 3.4bn in a, b, c, e 2014 15.
+As an example, our Field Force Automation services BTs worldwide greenhouse gas emissions enable organisations with mobile teams to improve their Year ended 31 March productivity by automating fleet and driver scheduling and CO e Ktonnes 2 reporting.
+This means they can better manage their fleet of 1,750 vehicles, saving fuel and reducing emissions.
+In Great Britain we spent around 307m on Scope 3: Other indirect emissions eg production of purchased materials energy and fuel this year 2014 15: 306m.
+We estimate that e and fuels our energy savings programme has helped reduce our overall bill Scope 2: Indirect emissions from the generation of our purchased energy by 29m this year, and by 190m since 2009 10.
+95% of the mainly electricity worldwide energy we buy comes from renewable sources and Scope 1: Direct emissions from our own operations eg fuel combustion were aiming to achieve 100% where markets allow by the end Figures exclude third-party consumption and EE.
+We also report two CO e intensity measures: a, b 2 BTs worldwide energy use Year ended 31 March Our climate stabilisation intensity CSI target: by 2020, well reduce our operational worldwide carbon emissions per unit of Gwh value-added our contribution to GDP by 80% compared to 2,800 1996 97.
+This year, we achieved 81%, exceeding our target.
+2,700 Next year, well incorporate EE into the numbers and set a new target.
+2,600 Our scope 1 & 2 emissions this year totalled 12.5 tonnes CO e 2 2,500 per m revenue, reflecting an 86% reduction since our base 2,400 year of 1996 97.
+2,300 a, b Conserving natural resources 2,200 Reducing water usage 2,100 Most of our water usage is for office and catering facilities, or to 2,000 cool equipment for example, in telephone exchanges.
+This year 2012 2013 2014 2015 2016 we reduced our UK water consumption by 10%.
+Well continue to target and reduce leaks using our half-hourly meter readings, provided by our automatic monitoring and reporting programme.
+Managing waste products We try to minimise the amount of materials we use in our operations, and re-use them where we can.
+Otherwise our specialist contractors recycle them wherever possible, or manage their disposal including hazardous materials such as oil and some types of light bulbs and batteries in line with legislation.
+a d We restate previous years data when subsequent information is deemed to be materially We report on all our greenhouse gas emissions as a single total, by converting them to the significant, such as replacing previous estimates with measured figures.
+equivalent amount of CO using latest government conversion factors.
+2 b e EE data is excluded, in line with the GHG protocol below, pending next years report when we Detailed emissions data is available from our Delivering Our Purpose website, www.
+will provide new baseline numbers.
+To comply with revised GHG Protocol guidance this year, we now c We use the GHG Protocol Corporate Accounting and Reporting Standard, with UK Government report both market and location-based Scope 2 data.
+This chart uses a market-based measure GHG Conversion Factors for Company Reporting 2015. for 2015 16, consistent with the methodology used in previous years.
+2,678 2,616 2,526 2,412 2,338 45 Overview The Strategic Report Governance Financial statements Additional information Our performance as a sustainable and responsible business The first table below demonstrates our performance against our six 2020 ambitions.
+Below that, we report progress against seven foundation measures.
+Next year, we aim to maintain or improve on each of our ambitions and measures.
+To aid comparison against previous years, we exclude EEs contribution to the group this year, but well provide new baseline numbers in our 2016 17 Annual Report.
+Our 2020 ambitions Our 2020 ambitions 2014 15 performance 2015 16 performance Status Page Supporting Use our skills and technology to help generate more than 1bn 86m raised for 94m raised for 38 charities and for good causes good causes good causes communities Cumulative total: Cumulative total: 234m since 2012 327m since 2012 Inspire 66% two-thirds of our people to volunteer 26% of BT people 27% of BT people 34 volunteering volunteering Creating a More than 9 10 people in the UK will have access to our fibre-based 7.5 out of 10 8.5 out of 10 38 connected products and services society Helping 10m people overcome social disadvantage through the n a new target 2.6m people reached 38 benefits our products and services can bring Creating Help 5m children to receive better teaching in computer skills n a new target 344,000 children 33 a culture reached of tech literacy Delivering Enable customers to reduce their carbon emissions by at least 1.5:1 achieved 1.6:1 achieved 44 environmental three times the end-to-end carbon impact of our business benefits Our foundation measures Our foundations 2014 15 performance 2015 16 performance Status Page Our Investment to accelerate our purposeful business approach: 1.15% of PBT 1.10% of PBT 38 investment to be more than 1% of adjusted profit before tax PBT invested invested Our Customer service: to consistently improve RFT across our entire 4.7% improvement 3.0% reduction 22 customers customer base see page 22 Our Employee engagement index: our relationship with our 3.82 5 achieved 3.81 5 achieved 33 employees employees Sickness absence rate: % of calendar days lost to sickness 2.23% calendar days 2.33% calendar days 34 lost to sickness lost to sickness Ethical performance: our employees awareness and training 4.33 5 achieved 4.31 5 achieved 52 Our suppliers Ethical Trading: across our supply chain, with focus on Human 96% follow-up 100% follow-up 40 Rights.
+Achieve 100% follow-up within three months, for all within three months within three months suppliers identified as high or medium risk, through our ethical standards questionnaire Our CO e emissions: a measure of our climate change impact.
+Well reduce 79% reduction in net 81% reduction in net 2 44 environmental our worldwide CO e emission intensity by 80% by December 2020 CO e emission intensity CO e emission intensity 2 2 2 impact vs. base levels vs. base levels 1996 97 1996 97 Target met Target failed Ongoing To find out more about our 2020 ambitions, our methodologies and how our results are calculated, take a look at www.
+com Purposefulbusiness 46 BT Group plc Annual Report 2016 Our risks We have a group-wide risk management process with four stages.
+Were affected by a number of risks and uncertainties.
+The directors believe our Enterprise Risk Management framework Some risks come from outside our business, others from and process support a robust assessment of our principal risks.
+Many of our risks are similar to those felt by comparable businesses.
+Identification Principal risks and uncertainties The principal risks and uncertainties that affect us could have an impact on our business, brand, assets, revenue, profits, liquidity Monitoring Business activities Evaluation or capital resources.
+The principal risks we described last year have evolved, and so has our response to them.
+Our Enterprise Risk Management framework gives reasonable Response but cannot give absolute assurance that weve identified and addressed our biggest risks.
+However, there may be some risks which are unknown to us today.
+And there may be some that we Changes over the year consider less significant now but which become more important In 2014 15 we improved the way we manage risk by: later.
+strengthening our approach to managing it in projects and Things that happen outside BT present both risks and programmes: further developing our assessment of risk appetite: opportunities, to our business and to others.
+We focus our efforts and identifying opportunities to develop our risk management on predicting and mitigating those risks while aiming to take culture.
+Specific improvements in 2015 16 included: advantage of any opportunities that may emerge.
+UK Corporate Governance Code We recognise the particular uncertainty that political and geoResponding to changes in the UK Corporate Governance political risks present, both in the UK like the forthcoming Code, weve refreshed several aspects of our risk management referendum on Britains membership of the EU and globally.
+That included expanding our quantification We monitor these through a separate sub-committee of our methodology and reviewing our material controls.
+Enhanced tools In the section that follows, we talk about what were doing to stop This year weve trialled software which helps with modelling risk.
+our main risks materialising, or to limit their impact.
+Our biggest Were also in the process of upgrading our core risk management risks and uncertainties should be considered alongside the risk software to make it easier for people to use.
+management process, the forward-looking statements in this document and the cautionary statement on those statements Education and awareness see page 248.
+We believe risk management is an essential capability for our business.
+Itll therefore be a core skill across all the professions in How we manage risk our business with tailored training for everyone who works for BT.
+To meet our objectives, build shareholder value and promote our stakeholders interests, we must manage risk.
+Enterprise Risk Management framework Line of business and Audit & Risk BT TSO audit Committee & risk committees Line of business and BT TSO Group Risk Operating Board leadership teams Panel Committee Our lines of business and BT TSO The Group Risk Panel supports The Operating Committee identifies, The Board has overall responsibility follow our process for managing the Board and the Operating evaluates, responds to and monitors for making sure we manage risks risk as part of our Enterprise Risk Committee.
+Significant risks are reported appropriately.
+It regularly reviews, Management framework.
+That means it reviews the Group Risk Register and monitored through the Group either directly or through the Audit identifying and responding to the key which summarises those risks of Risk Register.
+The Operating & Risk Committee, how were doing risks to their business.
+They record the greatest significance across our Committee assigns a management across the group, in our lines of risks in a register for their leadership business, considers the inclusion owner to take charge of monitoring business and in BT TSO.
+Audit & risk of new or emerging risks, and and managing each risk.
+It monitors committees in each line of business, recommends ways to tackle them.
+risks through regular detailed BT TSO and our group functions, It also oversees the work of the reviews as well as six-monthly ensure this process is effective.
+reviews of the Group Risk Register.
+Geo-political risks are reviewed by a sub-committee of the Panel.

@@ -1,0 +1,43 @@
+ARM Holdings plc Strategic Report 2013 emBeDDeD cOmputing emBeDDing intelligence everyWHere Many of the products and services we use every day are enabled by a small smart microcontroller or smart card.
+Forexample, the control panel and electric motor in a washing machine or lift controller, the remote control for a Tv, and the chip in a passport or credit card.
+gary atKinSOn embedded intelligence creating an connecting intelligence to create Director of Emerging Technologies, ARM internet of things aninternet of things In 2013, approximately 19 billion smart Smartphones and mobile devices are Gary is based in Cambridge, UK and spends his timetravelling the world looking for new technology microcontrollers were sold globally.
+As these becoming the controller and the display for that already has or may have a use for ARM-based chips are used in awide range of end the digital world around us, which is creating processors in disruptive, globally scalable and markets they are general-purpose controllers opportunities for smart devices to connect impactful applications.
+developed to be usable in all sorts of devices.
+and give us more information and more They can be very low cost, and in 2013, the control than we have ever had before.
+ARMaverage selling price of amicrocontroller based smart sensors and controllers are being wasabout $1.
+integrated into a wide range of applications from consumer electronics, to manufacturing, In 2013, there were about 3 billion ARMtransportation and agriculture.
+based microcontrollers and smart embedded chips sold.
+Over the last five years much of The market for embedded computing is very the growth in the embedded market can be large.
+In 2013 there were about 16 billion attributed toARM-based chips.
+Estimates for 2020 vary considerably, with Many ARM-based microcontrollers used an some between 30 to 50 billion network ARM Cortex-M class processor, and ARM connected devices, most of them based on has now signed over 200 licences for this smart sensors.
+technology, mainly for use in microcontrollers and the new generation of Internet of Things devices.
+ARM signed 47 licences for Cortex-M class processors in 2013.
+36 Our Vision Our performance Our Commitment Our Financial Report Consumer electronics Smart watches that display more than the time weather, alerts, text messages, in 2013 Facebook updates.
+Digital pedometers that count calories burned, which can link to an app that THE AvERAGE PRICE OF also records the calories eaten.
+AMICROCONTROLLER Transportation Tracking of luggage in an airport or shipping container around the world or even locating car keys in the home.
+THIS Inter-vehicle communications, improving automotive safety and helping enable COuLDDECLINE AS autonomously driven vehicles.
+Infrastructure Identifying free parking spaces across a city.
+More accurately tracking trains and trams to increase effectiveness of existing networks.
+Smart meters, grids and appliances to use energy more efficiently.
+Manufacturing Tracking of critical equipment across a large site.
+More efficiently controlling throughput across a manufacturingprocess.
+Medical Implanted or ingested sensors to monitor vital signs and create alerts if outside normal parameters.
+Implanted or ingested devices to monitor internal levels of chemicals and hormones.
+Direct and accurate application of drugs when the patient needsthem.
+Agriculture Remote monitoring of water and nutrient levels in the soil to control water andfertiliser use.
+Implanted medical devices for valuable livestock.
+Most Internet of Things devices will have The applications for Internet of Things are For embedded computing to achieve its an integrated SoC or package that contains highly diverse.
+If every application had multiple potential to create an Internet of Things a microcontroller, sensor s, and wired or chip suppliers it would lead to a fragmented that numbers in the tens to hundreds of wireless connectivity.
+Integrating everything market for software developers and system billions, the technology needs to get out of together into a single chip reduces costs and designers.
+However, all chips that use an ARM the lab and into the hands of designers to complexity.
+ARM is very well placed for the processor benefit from a common underlying create smart wearables, industrial and civil Internet of Things due to a high market share architecture making software and software engineering equipment suppliers to develop in both microcontrollers and connectivity tools reusable regardless of application, smarter infrastructure systems, medical chips, and also because ARMs designs help which makes iteasier and cheaper to develop specialists to invent smart devices to monitor reduce the overall development cost.
+Internet of Things devices for different our vital signs, and so on.
+Internet of Things end markets.
+systems need to become easy to innovate and Many of these smart embedded devices deploy and manage.
+ARM and our Partners will be connected to a network wirelessly.
+In 2013, ARM acquired Sensinode Oy are working on making the Internet of Things For example, most digital pedometers and based in Finland.
+The team from Sensinode building blocks that anyone can put together, smart watches use Bluetooth to connect to is developing low-power protocol stacks and that can be taught at schools and colleges a smartphone.
+ARM-based chips operate necessary for wireless communications and to help enable the next generation of the protocol stack in more than 75% of control between remote tiny sensors and digital entrepreneurs.
+wireless devices including established a hub that can collate data and manage the wireless standards such as Bluetooth, WiFi sensors.
+ARM believes that this technology and emerging standards such as WiGIG will enable many new applications, and help and Zigbee.
+accelerate the Internet of Things.

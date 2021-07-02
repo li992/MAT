@@ -1,0 +1,36 @@
+THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION 19.
+Provisions Provisions and contingent liabilities As disclosed below, our provisions principally relate to obligations arising from property rationalisation programmes, restructuring programmes, asset retirement obligations, network assets, insurance claims, litigation and regulatory risks.
+What critical judgements have we made in accounting for provisions?
+We exercise judgement in determining the timing and quantum of all provisions to be recognised.
+Our assessment includes consideration of whether we have a present obligation, whether payment is probable and if so whether the amount can be estimated reliably.
+As part of this assessment, we also assess the likelihood of contingent liabilities occurring in the future which are not recognised as liabilities on our balance sheet.
+By their nature, contingencies will be resolved only when one or more uncertain future events occur or fail to occur.
+We assess the likelihood that a potential claim or liability will arise and also quantify the possible range of financial outcomes.
+Weve disclosed our assessment of contingent liabilities in note30.
+What other critical estimates and assumptions have we made?
+Under our property rationalisation programmes weve identified a number of surplus properties.
+Although efforts are being made to sublet this space, this is not always possible.
+Estimates have been made of the cost of vacant possession and of any shortfall arising from any potential sub-lease income being lower than the lease costs.
+Any such shortfall is recognised as a provision.
+Restructuring programmes involve estimation of the direct cost necessary for the restructuring and exclude items that are associated with ongoing activities.
+Asset retirement obligations involve an estimate of the cost to dismantle equipment and restore sites upon vacation and the timing of the event.
+The provision represents the groups best estimate of the amount that may be required to settle the obligation.
+Network asset provisions represent our future operational costs and vacant site rentals arising from obligations relating to network share agreements.
+Costs are expected to be incurred over a period of up to 20 years.
+Our regulatory provision represents our best estimate of the cost to settle our present obligation in relation to historical regulatory matters.
+Included within the increase for the year is a 300m charge in relation to estimated compensation payments to other Communication Providers as a result of Ofcoms March 2017 findings on historical practices on Deemed Consent by Openreach.
+The precise amount of the compensation payments will result from discussions with the affected parties.
+A related fine of 42m has been imposed and is recognised as a payable rather than as a provision.
+The fine and associated compensation payments totalling 342m are treated as a specific item charge in this years income statement.
+The remaining provision reflects managements estimates of regulatory risks across a range of issues, including price and service issues.
+These increased by 126m, also treated as specific items, resulting from our re-assessment of these other regulatory risks and in light of the regulatory decisions by Ofcom and by the Competition Appeal Tribunal.
+Refer to note 8 for further information on specific items.
+In respect of claims, litigation and regulatory risks, the group provides for anticipated costs where an outflow of resources is considered probable and a reasonable estimate can be made of the likely outcome.
+The prices at which certain services are charged are regulated and may be subject to retrospective adjustment by regulators.
+Estimates are used in assessing the likely value of the regulatory risk.
+For all risks, the ultimate liability may vary from the amounts provided and will be dependent upon the eventual outcome of any settlement.
+The estimates are discounted using a rate that reflects the passage of time and risk specific to the liability.
+An estimate is also required in assessing the timing of when a provision is recognised.
+The outcome of our estimate of the provisions is disclosed below.
+Network Network a Restructuring Property ARO share Regulatory Other Total m m m m m m m At 31 March 2015 45 217 84 218 564 Acquisitions 72 81 63 23 239 Income statement expense 28 2 - 15 45 Unwind of discount 8 8 Utilised or released 25 29 5 3 20 26 108 Transfers 7 7 Exchange differences 2 2 At 31 March 2016 20 296 78 60 64 225 743 Income statement expense 38 27 5 426 40 536 Unwind of discount 12 2 2 16 Utilised or released 10 54 24 17 11 19 135 Transfers 3 3 Exchange differences 1 3 4 At 31 March 2017 11 292 83 50 479 246 1,161 a Other provisions include amounts provided for legal or constructive obligations arising from insurance claims and litigation which will be utilised as the obligations are settled.
+202 BT Group plc Annual Report 2017 Annual Report 2017 BT Group plc 203

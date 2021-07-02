@@ -1,0 +1,106 @@
+A review of CSR CSR history up to the IPO Bluetooth Cambridge Silicon Radio CSR was founded in The Bluetooth standard was initially developed 1998 by a team from Cambridge Consultants Limited by a consortium of Ericsson, IBM, Intel, Nokia and in Cambridge.
+Most of the engineering team had Toshiba.
+Together, they formed the Bluetooth SIG worked together for a number of years developing Special Interest Group to promote development expertise in building high frequency radio systems of short range wireless technology and encourage with radio, computing and software functions product definition.
+CSR was one of the first companies integrated together as a single chip integrated circuit to join the Bluetooth SIG once membership was IC.
+These were manufactured on a high volume, low extended beyond the original founding five.
+cost, bulk CMOS silicon chip process.
+The team Bluetooth was created to enable cable replacement formed CSR to develop single chip wireless solutions and synchronisation of data between personal and selected the Bluetooth standard for its electronics devices such as mobile phones and first product.
+headsets, and PCs and peripherals such as printers CSR was initially funded by venture capital and PDAs.
+In automobiles, its applications include companies 3i, Amadeus Capital Partners and Gilde IT hands free telephony.
+Bluetooth technology also Fund BV.
+Subsequent rounds of funding attracted operates in consumer products such as cameras, strategic investors including ARM, Capital Research, MP3 players and stereo headsets.
+Compaq, Intel, Philips, Siemens, Sony and, in the pre IPO round, financial investors Scottish Equity Partners and Lloyds Development Capital.
+CSR raised a total of $84 million of funding and delivered its first profit in the third quarter of 2003, by which time the Company had introduced its third generation of Bluetooth products.
+The IPO of 2 March 2004 at a price of 2.00 per share was oversubscribed.
+CSR is a leading provider of single chip radio devices for short range wireless communication.
+CSRs core competence is its ability to rapidly innovate to produce new wireless systems on CMOS ICs for emerging wireless standards and also provide 31 out of 56 mobile phone the associated software solution.
+handsets qualified with the Bluetooth SIG in 2004 use CSR technology 08 Changing the way the world connects Companies joining the SIG and agreeing to its rules gain access to the necessary patents which they can licence on a royalty free basis.
+They also have the right to use the Bluetooth logo.
+The market for Bluetooth has grown from 28 million devices in 2002 to 140 million devices in 2004, according to industry analysts IMS and a wide and growing variety of products incorporating Bluetooth are offered by most of the worlds major electronics suppliers.
+Its a market still in its growth phase with an expanding number of applications such as the adoption of headsets which has in part been assisted by legislation in a number of countries prohibiting drivers from using hand held mobile phones in automobiles.
+Total Bluetooth shipments 440 Millions of units CSR achieved 55% of all Bluetooth design wins in 2004 in mobile handsets 250 CSR and Bluetooth 140 CSR has consistently demonstrated its lead in Bluetooth and is currently in mass production of its 28 64 fourth generation product, BlueCore4, with BlueCore5 2002 2003 2004 2005E 2006E set to launch during 2005.
+The Company has more than 100 hardware variants in production running in Source: 2004 and 2005 from IMS Jan 2005.
+2006 from IMS May 2004 as no further updated information available conjunction with more than 100 different firmware Mid points of latest estimates and software configurations.
+BlueCore is a fully integrated 2.4 GHz radio, baseband and microcontroller and it features in 69% of all qualified Bluetooth v1.1, v1.2 and v2.0 enabled products and modules listed on the Bluetooth website.
+Industry leaders Apple, Dell, IBM, Motorola, NEC, Nokia, Panasonic, RIM, Sharp, Sony and Toshiba all use BlueCore devices in their range of Bluetooth products.
+CSR had 83% of all laptop design wins incorporating Bluetooth in 2004 CSR plc Annual Report and Financial Statements 2004 09 A review of CSR CSRs R&D strengths have enabled it to extend continued its offering in Bluetooth from its original specification v1.0 2000, through v1.1 2001, v1.2 2003 to v2.0 2004.
+The standard continues to evolve to support higher data rates and more applications.
+CSR intends to continue to be first to market with its BlueCore chips as each new standard emerges.
+The Company has continued to drive down chip size and cost.
+This enables the adoption of BlueCore in new applications and increases volume in existing applications.
+CSR also continues to add new functions onto variants of its chips that are suitable for different segments of the Bluetooth enabled market.
+These new functions are both in hardware for example Mono and Stereo Audio Codecs, Digital Signal Processors DSP, CSR is number one in every power supply conditioning and embedded flash and, Bluetooth application, including increasingly, in software for example complete PCs and PC peripherals applications for music streaming to headsets and more sophisticated software development products Interoperability is a paramount consideration and kits such as BlueCore Host Software when CSR designs a product, ensuring that BlueCore TM and BlueLab.
+is able to function in conjunction with the software and functionality of the host product.
+TM Through BlueLab, CSR provides software support to our customers for embedded on-chip TM applications.
+BlueLab has been used by customers to improve efficiencies in product development cycles and to optimise the functionality of their own applications.
+This has included allowing programming of a DSP co-processor included on CSRs BlueCore3 and newer generation products.
+This will support more sophisticated multipoint applications for Bluetooth such as use in MP3 players and stereo headsets.
+WiFi Bluetooth is often confused with another All the leading headset manufacturers wireless standard, WiFi, which is a wireless LAN local use CSRs BlueCore solutions area network technology, while Bluetooth enables PANs personal area networks.
+The two have been BlueCore Host Software BCHS provides incorrectly regarded as competing technologies.
+In software for end products where the upper layers of the practice, Bluetooth can be considered as wireless protocol stack and profile run on the main processor.
+USB and WiFi as wireless Ethernet.
+BCHS has been optimised for use in mobile phones.
+The two standards are complementary and In the past year, CSR has increased the number and provide different capabilities with some minor range of profiles that BCHS supports, adding DSP overlap.
+Both standards provide for cable replacement functions and enabling operating systems to run on and data synchronisation.
+CSR considers the killer Windows, Symbian and Linux.
+application for Bluetooth to be audio whilst for WiFi it is video.
+10 Changing the way the world connects Using CSRs technology, our CSR and WiFi Operations and suppliers customers secured 82% of all In November 2004, CSR announced UniFi CSR is a design and marketing company.
+All design wins in 2004 qualified by the Bluetooth SIG in the which meets the WiFi standard.
+UniFi is the first wafer fabrication, assembly and test, and shipping automotive sector WiFi single chip IEEE 802.11 a, b, g solution focused is subcontracted, predominantly to TSMC and ASE on embedded applications specifically targeting the in Taiwan.
+Manufacturing is located in Taiwan to mobile phone and consumer electronics markets.
+minimise production cycle time and inventory, UniFi has improved performance through builtin, full simplify logistics and to take advantage of a common receiver spatial diversity a precursor to MIMO and language and culture.
+CSR has worked to develop improved radio co-existence with co-located cellular excellent relationships at all levels with these partners.
+It also has the best-inThis has served CSR well and provided the Company class low power consumption, size and cost.
+with leading edge manufacturing technology and UniFi will enable a rapid update of WiFi strong support in satisfying capacity requirements technology in the brand new market outside the and controlling costs.
+traditional PC sector, for applications including Using this production process has enabled CSR mobile phones, portable music and video players to successfully ship over 75 million Bluetooth single and consumer video, cameras and audio equipment.
+chip devices whilst aggressive cost reduction programs CSR has recently sampled the first fully have allowed it to maintain margins as it drives down functional UniFi chips to lead customers and expects prices.
+This encourages CSRs customers to to enter into production towards the end of 2005. increasingly adopt CSRs technology in their products.
+Employees and world wide operations Over 100 people joined CSR in 2004 and the Company now has over 300 employees of which 68% have a degree or higher qualification.
+CSR has offices in seven countries.
+Research and development is primarily in Cambridge, with design centres in Aalborg, Denmark: Richardson Texas, USA and Lund, Sweden which was opened in February 2005.
+Sales, marketing and applications staff operate from Cambridge, Richardson, Seoul, Taipei and Tokyo.
+Access to e-mails whilst on the move is supported by CSRs market leading silicon CSR plc Annual Report and Financial Statements 2004 11 Market trends and opportunities CSRs technology serves a trend towards the adoption of wireless connectivity in the global electronics and IT industries.
+Its solution on a chip offering is also creating new market opportunities.
+Enabling new players in the wireless communications For traditional OEMs Original Equipment value chain Manufacturers, the big brands who do have the skills CSRs highly integrated wireless systems on to manufacture wireless, the attraction of CSRs CMOS provide much more than just a radio component.
+They are looking to make their The level of added capability is having a dramatic profit by adding value in different areas and want to effect on the market, opening up new opportunities, buy in the communications technology that will allow because CSRs customers no longer need to become them to differentiate their products.
+Outsourcing involved in the following aspects of wireless systems non strategic technology to third party contract manufacturing: manufacturers allows them to focus their resources on Signal processing algorithms adding value through the things they do best: brand Communications protocols and software stacks recognition, adding features and applications, and Radio frequency, production measurement achieving high manufacturing economies of scale.
+and testing Interoperability testing Enabling device portability through further Regulatory approvals for radio frequencies and system level improvements in power consumption, communications industry certifications size and cost In the past, because a manufacturer needed Fundamental improvements in wireless proficiency in these disciplines, digital wireless communications technology, which CSR is communication was the preserve of companies that particularly strong at, are not only enabling CSR to had evolved from either defence industries or state beat the competition, they are opening up the whole funded telecoms providers and operators.
+These improvements are: BlueCore and UniFi systems are designed to integrate Better real world radio performance with better all of the above aspects in a pre-packaged form.
+This is range and reliability why CSR says it creates solutions for customers rather Lower power consumption than just chips.
+CSRs products make it much easier Reduced size for customers to add wireless capability and therefore Lower cost reduce time-to-market.
+Companies, and even whole These were significant barriers that not only electronics industry sectors, which in the past had stopped CSR selling chips, they held back the whole limited experience in deploying modern wireless wireless industry.
+Removing them opens up several communications, are now able to introduce wireless market opportunities.
+connectivity by using CSRs technology.
+The mobile phone of five years time will in This expansion of access to wireless technology reality be a combined personal organiser, web browser, for manufacturers is what is meant by the phrase e-mail client, still and video camera and portable democratising wireless.
+CSRs solution on a chip television.
+means Original Design Manufacturers ODMs who previously did not have the skills to include wireless, are now able to do so.
+12 Changing the way the world connects With the explosion in the amount of personal 3.
+Convergence of fixed and mobile telephony data and content stored on new multi-function People prefer a single phone number for both personal communications devices such as the portable home phones which are replacing landlines Gizmondo pictured will come an increasing demand and their mobiles.
+As both mobile and fixed line for new and better ways to store and share this telephone infrastructure is rapidly migrated from information.
+The user of such devices will want to use circuit switched to IP based networks, it is spawning the increasing variety and quantity of data they have the demand for new ways for the mobile phone to collected.
+They will want to store and print documents connect to the network.
+The UMA unlicensed mobile and contact details, view images and videos on larger access initiative, for instance, specifies both screens and listen to music on headphones or Bluetooth and WiFi as alternative physical layer speakers.
+Short range wireless connectivity will play connections from mobile phone to network, an increasing role in enabling this sharing of data broadening the domain of applications for which between devices to happen and CSR is the leader in CSRs UniFi and BlueCore technologies are optimised.
+making it possible quickly, reliably and between a wide range of devices.
+Convergence of communications control and With the emergence of increasingly entertainment electronics inside the automobile sophisticated personal devices like these, the Bluetooth technology has the perfect demands on the wireless communications provider optimisation of performance against cost to enable continue to accelerate.
+CSR has pioneered the voice telephony, music playback and even vehicle miniaturisation and integration of the complete service diagnostics within the next generation of cars.
+modern digital communications chain from antenna CSRs portfolio will continue to expand to meet both to user interface in order to serve this fundamental the stringent quality and reliability requirements of technological need.
+the automotive industry, as well as the demand for state-of-the-art functionality.
+Short range connectivity enables convergence There are currently four areas where Summary convergence of communications and consumer CSRs strength is delivering highly integrated technologies is driving demand for the type of shortwireless systems on silicon.
+These add capability range connectivity in which CSR technology excels.
+across the wireless technology value chain from chip An example of the trend to component, through robust proven interoperable convergence from separate 1.
+Convergence of delivery of music protocols and pre-certified solutions, to complete devices is the recently and communications production test.
+announced Gizmondo, which combines messaging, The success of portable music players, together CSR will continue to add value through imaging and games.
+It uses with new operator services to distribute music on-line, providing more application-centric hardware and CSRs BlueCore3-ROM for are creating new ways to distribute and listen to music.
+software inside its systems on silicon.
+As the wireless personal connectivity.
+Wireless connections from a portable music device to convergence of devices and services increases there hi-fi quality stereo headphones for personal listening is an increasing need to achieve wireless connectivity.
+and from the same player to home music centres will At the same time, device manufacturers will increasingly be provided by short-range wireless increasingly try to differentiate themselves, not in the technologies such as Bluetooth and WiFi.
+wireless technology but through the degree to which more functions can be integrated into the converged 2.
+Convergence of computing and device and the speed with which these devices can be entertainment in the home brought to market.
+The pressure to outsource the The television which traditionally resided in the design and supply of wireless communications will corner of the living room is rapidly being replaced by therefore increase.
+CSRs highly-integrated wireless an appliance that is a hybrid of the PC and set top box.
+systems on CMOS chips, its solutions on a chip It requires increased wireless communications offering, will enable CSR to serve the new markets bandwidths in home networking, local area video being created by new wireless standards as they distribution and broadband connectivity to facilitate emerge, from Bluetooth and WiFi to the standards viewing throughout the home.
+This wireless of the future.
+connectivity will require the high bandwidths and improved quality of service developed by CSR in its latest UniFi range of WiFi communication devices.
+Glenn Collinson Sales Director CSR plc Annual Report and Financial Statements 2004 13

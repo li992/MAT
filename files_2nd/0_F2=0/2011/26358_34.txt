@@ -1,0 +1,176 @@
+Shareholder information 356 Lloyds Banking Group Forward looking statements 358 Annual Report and Accounts 2011 359 Glossary 359 Abbreviations 364 Index to annual report 365 1 20 171 205 GLOSSARY Asset-Backed Securities ABS Asset-backed securities are securities that represent an interest in an underlying pool of referenced assets.
+The referenced pool can comprise any assets which attract a set of associated cash flows but are commonly pools of residential or commercial mortgages but could also include leases, credit card receivables, motor vehicles, student loans.
+Further information on the Groups investments in ABS is given in note 56.
+Asset Quality Ratio The impairment charge for the year in respect of loans and advances to customers expressed as a percentage of average loans and advances to customers.
+Alt-A Alt-A are mortgage loans regarded as lower risk than sub-prime, but they share higher risk characteristics than lending under normal criteria.
+Further information on the Groups exposure to Alt-A investments is given in note 56.
+Arrears A customer is in arrears when they are behind in fulfilling their obligations with the result that an outstanding loan is unpaid or overdue.
+Such a customer is also said to be in a state of delinquency.
+When a customer is in arrears, the entire outstanding balance is said to be delinquent, meaning that delinquent balances are the total outstanding loans on which payments are overdue.
+Asset-backed commercial paper See Commercial Paper Bank levy The levy that applies to certain UK banks, UK building societies and the UK operations of foreign banks from 1 January 2011.
+The levy is payable based on a percentage of the chargeable equity and liabilities of the bank as at the balance sheet date.
+Basel II The capital adequacy framework issued by the Basel Committee on Banking Supervision in June 2006 in the form of the International Convergence of Capital Measurement and Capital Standards.
+Basel III The capital reforms and introduction of a global liquidity standard proposed by the Basel Committee on Banking Supervision in 2010 and due to be phased in from 1 January 2013 onwards.
+Basis point One hundredth of a per cent 0.01 per cent.
+Used in quoting movements in interest rates or yields on securities.
+Buy-to-let mortgages Buy-to-let mortgages are those mortgages offered to customers purchasing residential property as a rental investment.
+Collateralised Debt Obligation A security issued by a third party which references ABSs or other assets purchased by the issuer.
+Lloyds CDO Banking Group has invested in instruments issued by other banking groups, including Collateralised Loan Obligations and Commercial Real Estate CDOs.
+Details of these investments are given in note 56.
+Collateralised Loan Obligation A security backed by the repayments from a pool of commercial loans.
+CLOs are usually structured products CLO with different tranches whereby senior classes of holder receive repayment before other tranches are repaid.
+Collectively assessed loan A provision established following an impairment assessment on a collective basis for homogeneous groups impairment provision of loans, such as credit card receivables and personal loans, that are not considered individually significant and for loan losses that have been incurred but not separately identified at the balance sheet date.
+Commercial Mortgage-Backed Commercial Mortgage-Backed Securities are securities that represent interests in a pool of commercial Securities mortgages.
+Investors in these securities have the right to cash received from mortgage repayments of interest and principal.
+Further information on the Groups investment in CMBS is given in note 56.
+Commercial Paper Commercial paper is an unsecured promissory note issued to finance short-term credit needs.
+It specifies the face amount paid to investors on the maturity date.
+Commercial Paper can be issued as an unsecured obligation of the Group or, for example when issued by the Groups conduits, as an asset-backed obligation.
+in such case it is referred to as asset-backed commercial paper.
+Commercial Paper is usually issued for periods from as little as a week up to nine months.
+Commercial Real Estate Commercial real estate includes office buildings, industrial property, medical centres, hotels, malls, retail stores, shopping centres, farm land, multifamily housing buildings, warehouses, garages, and industrial properties.
+Conduits A financial vehicle that holds asset-backed securities which are financed with short-term deposits generally commercial paper that use the asset-backed securities as collateral.
+The conduit will often have a liquidity line provided by a bank that it can draw down on in the event that it is unable to issue funding to the market.
+The Group sponsors three asset-backed conduits, Argento, Cancara and Grampian.
+Further details are provided in note 23.
+Contractual maturities Contractual maturity refers to the final payment date of a loan or other financial instrument, at which point all the remaining outstanding principal will be repaid and interest is due to be paid.
+Core tier 1 capital As defined by the FSA mainly comprising shareholders equity and equity non-controlling interests after deducting goodwill, other intangible assets and other regulatory deductions.
+Further details are given in the Capital Risk section on page 118.
+Overview r Business review r Governance r Financial statements r Other information Lloyds Banking Group 360 Annual Report and Accounts 2011 GLOSSARY Core tier 1 ratio Core tier 1 capital as a percentage of risk weighted assets.
+Cost:Income ratio Operating expenses compared to total income net of insurance claims.
+The Group calculates this ratio using the reported basis which is the basis on which financial information is reported internally to management.
+Coverage ratio Impairment provisions as a percentage of impaired loans.
+Covered mortgage bonds A bond backed by a pool of mortgage loans.
+The mortgages remain on the issuers balance sheet.
+The issuing bank can change the make-up of the loan pool or the terms of the loans to preserve credit quality.
+Covered bonds thus have a higher risk weighting than mortgage-backed securities because the holder is exposed to both the non-payment of the mortgages and the financial health of the issuer.
+The Group issues covered bonds as part of its funding activities.
+Further details are provided in note 22. Credit Default Swap A credit default swap is also referred to as a credit derivative.
+It is an arrangement whereby the credit risk of an asset the reference asset is transferred from the buyer to the seller of protection.
+A credit default swap is a contract where the protection seller receives premium or interest-related payments in return for contracting to make payments to the protection buyer upon a defined credit event.
+Credit events normally include bankruptcy, payment default on a reference asset or assets, or downgrades by a rating agency.
+Credit derivatives A credit derivative is a financial instrument that derives its value from the credit rating of an underlying instrument carrying the credit risk of the issuing entity.
+The principal type of credit derivatives are credit default swaps, which are used by the Group as part of its trading activity and to manage its own exposure to credit risk.
+Credit Risk The risk of reductions in earnings and or value, through financial loss, as a result of the failure of the party with whom the Group has contracted to meet its obligations both on and off balance sheet.
+Credit risk spread or credit The credit spread is the yield spread between securities with the same currency and maturity structure spread but with different associated credit risks, with the yield spread rising as the credit rating worsens.
+It is the premium over the benchmark or risk-free rate required by the market to take on a lower credit quality.
+Credit valuation adjustments These are adjustments to the fair values of derivative assets to reflect the creditworthiness of the counterparty.
+Further details are given in note 55.
+Customer deposits Money deposited by account holders.
+Such funds are recorded as liabilities of the Group.
+The Group includes certain repos within customer deposits.
+Debt restructuring This is when the terms and provisions of outstanding debt agreements are changed.
+This is often done in order to improve cash flow and the ability of the borrower to repay the debt.
+It can involve altering the repayment schedule as well as reducing the debt or interest charged on the loan.
+Debt securities Debt securities are assets held by the Group representing certificates of indebtedness of credit institutions, public bodies or other undertakings, excluding those issued by Central Banks.
+Debt securities in issue These are unsubordinated debt securities issued by the Group.
+They include commercial paper, certificates of deposit, bonds and medium-term notes.
+Embedded equity conversion An embedded equity conversion feature is a derivative contained within the terms and conditions of a feature debt instrument that enables or requires the instrument to be converted into equity under a particular set of circumstances.
+The Groups Enhanced Capital Notes ECNs contain such a feature whereby these notes convert to ordinary shares in the event that the consolidated core tier 1 ratio of the Group falls below 5 per cent.
+Enhanced Capital Notes ECNs The Groups ECNs are subordinated notes issued by the Group that contain an embedded equity conversion feature.
+Further details of these are given in note 46.
+Expected loss This is the amount of loss that can be expected by the Group calculated in accordance with FSA rules.
+In broad terms it is calculated by multiplying the Default Frequency by the Loss Given Default by the Exposure at Default.
+Exposure at Default An estimate of the amount expected to be owed by a customer at the time of the customers default.
+Fair value adjustment Fair value adjustments arise on acquisition when assets and liabilities are acquired at fair values that are different from the carrying values in the acquired company.
+In respect of the Groups acquisition of HBOS the principal adjustments were write-downs in respect of loans and advances to customers and debt issued.
+First Second Lien A first lien gives the holder usually the bank lending the funds the first right to collect compensation from the sale of the underlying collateral in the event of a default on the loan.
+A second lien may be issued against the same collateral but in the case of default, compensation for this debt will only be received after the first lien has been repaid.
+Shareholder information 356 Lloyds Banking Group Forward looking statements 358 Annual Report and Accounts 2011 361 Glossary 359 Abbreviations 364 Index to annual report 365 1 171 205 20 Forbearance A term generally applied to arrangements provided to support borrowers experiencing temporary financial difficulty.
+Such arrangements include reduced or nil payments, term extensions, transfers to interest only and the capitalisation of arrears.
+Full time equivalent A full time employee is one that works a standard five day week.
+The hours or days worked by part time employees are measured against this standard and accumulated along with the number of full time employees and counted as full time equivalents.
+This is a more consistent measure of the amount of time worked than employee numbers which will fluctuate as the mix of part-time and full-time employees changes.
+Funded unfunded exposures Exposures where the notional amount of the transaction is either funded or unfunded.
+Guaranteed mortgages Mortgages for which there is a guarantor to provide the lender a certain level of financial security in the event of default of the borrower.
+Home Loans A loan to purchase a residential property which is then used as collateral to guarantee repayment of the loan.
+The borrower gives the lender a lien against the property, and the lender can foreclose on the property if the borrower does not repay the loan per the agreed terms.
+Impaired loans Impaired loans are loans where the Group does not expect to collect all the contractual cash flows or to collect them when they are contractually due.
+Impairment allowances Impairment allowances are a provision held on the balance sheet as a result of the raising of a charge against profit for the incurred loss inherent in the lending book.
+An impairment allowance may either be individual or collective.
+Impairment losses An impairment loss is the reduction in value that arises following an impairment review of an asset that determines that the assets value is lower than its carrying value.
+For impaired financial assets measured at amortised cost, impairment losses are the difference between the carrying value and the present value of estimated future cash flows, discounted at the assets original effective interest rate.
+Impairment losses can be difficult to assess and the critical accounting estimates and judgements in note 3 detail the key assessments made when determining impairment losses.
+Individually Collectively Impairment is measured individually for assets that are individually significant, and collectively where a Assessed portfolio comprises homogenous assets and where appropriate statistical techniques are available.
+Individually assessed loan Impairment loss provisions for individually significant impaired loans are assessed on a case-by-case basis, impairment provisions taking into account the financial condition of the counterparty, any guarantor and the realisable value of any collateral held.
+Investment grade This refers to the highest range of credit ratings, from AAA to BBB as measured by external credit rating agencies.
+ISDA International swaps and A standardised contract developed by the ISDA which is used as an umbrella contract for bilateral derivative derivatives association master contracts.
+agreement Leverage finance Funding provided for entities with higher than average indebtedness, which typically arises from sub-investment grade acquisitions or event-driven financing.
+Liquidity and Credit Credit enhancement facilities are used to enhance the creditworthiness of financial obligations and cover enhancements losses due to asset default.
+Two general types of credit enhancement are third-party loan guarantees such as guaranteed mortgages and self-enhancement through  in the case of covered mortgage bonds.
+Liquidity enhancement makes funds available if required, for other reasons than asset default, eg to ensure timely repayment of maturing commercial paper.
+Loan to deposit ratio The ratio of loans and advances to customers net of allowance for impairment losses and excluding reverse repurchase agreements divided by customer deposits excluding repurchase agreements.
+Loan-to-value ratio LTV The loan-to-value ratio is a mathematical calculation which expresses the amount of a mortgage balance outstanding as a percentage of the total appraised value of the property.
+A high LTV indicates that there is less value to protect the lender against house price falls or increases in the loan if repayments are not made and interest is added to the outstanding balance of the loan.
+Loans past due Loans are past due when a counterparty has failed to make a payment when contractually due.
+Loss emergence period The loss emergence period is the estimated period between impairment occurring and the loss being specifically identified and evidenced by the establishment of an appropriate impairment allowance.
+Loss given default The estimated loss that will arise if a customer defaults.
+It is calculated after taking account of credit risk mitigation and includes the cost of recovery.
+Overview r Business review r Governance r Financial statements r Other information Lloyds Banking Group 362 Annual Report and Accounts 2011 GLOSSARY Medium Term Notes Medium term notes are a form of corporate borrowing covering maturity periods ranging from nine months to 30 years.
+Details of the notes issued under the Groups medium term notes programmes are given in note 37.
+Monolines A monoline insurer is defined as an entity which specialises in providing credit protection to the holders of debt instruments in the event of default by the debt security counterparty.
+This protection is typically provided in the form of derivatives such as credit default swaps referencing the underlying exposures held.
+Mortgage-backed securities See Residential and Commercial mortgage-backed securities.
+Mortgage related assets Assets which are referenced to underlying mortgages.
+Mortgage vintage The year the mortgage was issued.
+Negative basis bonds ABS held with a separately purchased matching credit default swaps to protect against the risk of default of the security.
+The Group refers to ABS without the benefit of CDS protection as Uncovered ABS.
+Details of the Groups exposure to negative basis bonds is given in note 56.
+Negative Equity Mortgages Negative equity occurs when the value of the property purchased using the mortgage is below the balance outstanding on the loan.
+Negative equity is the value of the asset less the outstanding balance on the loan.
+Net asset value per ordinary Shareholders' equity divided by the number of ordinary shares and limited voting ordinary shares in issue, share adjusted to exclude shares held under certain employee share ownership plans.
+Net Interest Income The difference between interest received on assets and interest paid on liabilities.
+Net interest margin Net interest margin is net interest income as a percentage of average interest-earning assets.
+Details of the Groups banking net interest margin are given on page 97.
+Operational risk The risk of reductions in earnings and or value, through financial or reputational loss, from inadequate or failed internal processes and systems, or from people-related or external events.
+Over the counter derivatives Over the counter derivatives are derivatives for which the terms and conditions can be freely negotiated by the counterparties involved, unlike exchange traded derivatives which have standardised terms.
+Prime Prime mortgages are those granted to the most creditworthy category of borrower.
+Private equity investments Private equity is equity securities in operating companies not quoted on a public exchange.
+Investment in private equity often involves the investment of capital in private companies or the acquisition of a public company that results in the delisting of public equity.
+Capital for private equity investment is raised by retail or institutional investors and used to fund investment strategies such as leveraged buyouts, venture capital, growth capital, distressed investments and mezzanine capital.
+Probability of default The likelihood that a customer will default on their obligation within the next year.
+Renegotiated loans Loans and advances are generally renegotiated either as part of an ongoing customer relationship or in response to an adverse change in the circumstances of the borrower.
+In the latter case renegotiation can result in an extension of the due date of payment or repayment plans under which the Group offers a concessionary rate of interest to genuinely distressed borrowers.
+This will result in the asset continuing to be overdue and will be impaired where the renegotiated payments of interest and principal will not recover the original carrying amount of the asset.
+In other cases, renegotiation will lead to a new agreement, which is treated as a new loan.
+Repurchase agreements Short-term funding agreements which allow a borrower to sell a financial asset, such as ABS or Government or repos bonds as collateral for cash.
+As part of the agreement the borrower agrees to repurchase the security at some later date, usually less than 30 days, repaying the proceeds of the loan.
+Retail loans Money loaned to individuals rather than institutions.
+These include both secured and unsecured loans such as mortgages and credit card balances.
+Residential Mortgaged-Backed Residential Mortgage-Backed Securities are a category of ABS.
+They are securities that represent interests Securities in a group of residential mortgages.
+Investors in these securities have the right to cash received from future mortgage payments interest and or principal.
+Risk-weighted assets A measure of a banks assets adjusted for their associated risks.
+Risk weightings are established in accordance with the Basel Capital Accord as implemented by the FSA.
+Shareholder information 356 Lloyds Banking Group Forward looking statements 358 Annual Report and Accounts 2011 363 Glossary 359 Abbreviations 364 Index to annual report 365 1 171 205 Securitisation Securitisation is a process by which a group of assets, usually loans, are aggregated into a pool, which is used to back the issuance of new securities.
+Securitisation is the process by which ABS are created.
+A company sells assets to a special purpose entity which then issues securities backed by the assets.
+This allows the credit quality of the assets to be separated from the credit rating of the original company and transfers risk to external investors.
+Assets used in securitisations include mortgages to create mortgage-backed securities or Residential Mortgage-Backed Securities as well as commercial mortgage-backed securities.
+The Group has established several securitisation structures as part of its funding and capital management activities.
+These generally use mortgages, corporate loans and credit cards as asset pools.
+A listing of these programmes with the amounts secured and associated funding raised is given in note 22.
+Special Purpose Entities SPEs SPEs are entities that are created to accomplish a narrow and well defined objective.
+There are often specific restrictions or limits around their ongoing activities.
+The Group uses a number of SPEs, including those setup under securitisation programmes, and as conduits.
+Where the Group has control of these entities or retains the risks and rewards relating to them they are consolidated within the Groups results.
+Specialist mortgages Specialist mortgages include those mortgage loans provided to customers who have self-certified their income normally as a consequence of being self-employed or who are otherwise regarded as a sub-prime credit risk.
+New mortgage lending of this type has not been offered by the Group since early 2009.
+Student loan related assets Assets which are referenced to underlying student loans see note 56.
+Sub-investment grade This refers to credit ratings issued by external credit rating agencies that are below BBB grade or its equivalent.
+Subordinated liabilities Liabilities which, in the event of insolvency or liquidation of the issuer, are subordinated to the claims of depositors and other creditors of the issuer.
+Details of the Groups subordinated liabilities are set out in note 46.
+Sub-Prime Sub-prime is defined as loans to borrowers typically having weakened credit histories that include payment delinquencies and potentially more severe problems such as court judgements and bankruptcies.
+They may also display reduced repayment capacity as measured by credit scores, high debt-to-income ratios, or other criteria indicating heightened risk of default.
+Synthetic CDO A security that is similar in structure to a CDO whereby the pool of referenced assets is created synthetically usually by credit default swaps.
+Tier 1 capital A measure of a banks financial strength defined by the FSA.
+It captures core tier 1 capital plus other tier 1 securities in issue, but is subject to a deduction in respect of material holdings in financial companies.
+Tier 1 capital ratio Tier 1 capital as a percentage of risk-weighted assets.
+Tier 2 capital A component of regulatory capital defined by the FSA, mainly comprising qualifying subordinated loan capital, certain non-controlling interests and eligible collective impairment allowances.
+Uncovered ABS ABS held without the benefit of separately purchased matching credit default swaps to protect against the risk of default of the security.
+Details of the Groups uncovered ABS are given in note 56.
+Value at Risk Value at Risk is an estimate of the potential loss in earnings which might arise from market movements under normal market conditions, if the current positions were to be held unchanged for one business day, measured to a confidence level of 95 per cent.
+Wrapped loans and bonds If a loan or bond usually an ABS security is originally issued with a credit default swap already attached, the package is called a wrapped bond or wrapped loan.
+The Groups exposure to wrapped loans and bonds is set out in note 56.
+Write Downs The depreciation or lowering of the value of an asset in the books to reflect a decline in their value, or expected cash flows.
+Overview r Governance r Financial statements r Other information

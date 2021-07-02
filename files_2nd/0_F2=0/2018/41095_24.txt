@@ -1,0 +1,53 @@
+qxp 03 07 2018 12:28 Page 72 Further Information Glossary Alternative Investment Fund Managers Directive AIFMD Agreed by the European Parliament and the Council of the European Union and transported into UK legislation, the AIFMD classifies certain investment vehicles, including investment companies, as Alternative Investment Funds AIFs and requires them to appoint an Alternative Investment Fund Manager AIFM and a depositary to manage and oversee the operations of the investment vehicle.
+The Board of the Company retains responsibility for strategy, operations and compliance and the Directors retain a fiduciary duty to shareholders.
+Discount or Premium A description of the difference between the share price and the net asset value per share.
+The size of the discount or premium is calculated by subtracting the share price from the net asset value per share and is usually expressed as a percentage % of the net asset value per share.
+If the share price is higher than the net asset value per share the result is a premium.
+If the share price is lower than the net asset value per share, the shares are trading at a discount.
+Equity Swaps An equity swap is an agreement where one party counterparty transfers the total return of an underlying equity position to the other party swap holder in exchange for a payment of the principal, and interest for financed swaps, at a set date.
+Total return includes dividend income and gains or losses from market movements.
+The exposure of the holder is the market value of the underlying equity position.
+The company uses two types of equity swap: funded, where payment is made on acquisition.
+They are equivalent to holding the underlying equity position with the exception of additional counterparty risk and not possessing voting rights in the underlying: and, financed, where payment is made on maturity.
+As there is no initial outlay, financed swaps increase exposure by the value of the underlying equity position with no initial increase in the investments value there is therefore embedded leverage within a financed swap due to the deferral of payment to maturity.
+The Company employs swaps for two purposes: To gain access to individual stocks in the Indian, Chinese and emerging markets, where the Company is not locally registered to trade: and, To gain exposure to thematic baskets of stocks a Basket Swap.
+Basket Swaps are used to build exposure to themes, or ideas, that the Portfolio Manager believes the Company will benefit from and where holding a Basket Swap is more cost effective and operationally efficient than holding the underlying stocks or individual swaps.
+Gearing Gearing is calculated as the overdraft drawn, less net current assets excluding dividends, divided by Net Assets, expressed as a percentage.
+For years prior to 2013, the calculation was based on borrowings as a percentage of Net Assets.
+Health Maintenance Organisation HMO In the United States an HMO is a medical insurance group that provides health services for a fixed fee.
+International Swaps and Derivatives Association ISDA ISDA has created a standardised contract the ISDA Master Agreement which sets out the basic trading terms between the counterparties to derivative contracts.
+Leverage Leverage is defined in the AIFMD as any method by which the AIFM increases the exposure of an AIF.
+In addition to the gearing limit the Company also has to comply with the AIFMD leverage requirements.
+For these purposes the Board has set a maximum leverage limit of 140% for both methods.
+This limit is expressed as a % with 100% representing no leverage or gearing in the Company.
+There are two methods of calculating leverage as follows: The Gross Method is calculated as total exposure divided by Shareholders Funds.
+Total exposure is calculated as net assets, less cash and cash equivalents, adding back cash borrowing plus derivatives converted into the equivalent position in their underlying assets.
+Worldwide Healthcare Trust PLC 72 Annual Report for the year ended 31 March 2018 249336 WWH pp71-end.
+qxp 03 07 2018 12:28 Page 73 Further Information Glossary The Commitment Method is calculated as total exposure divided by Shareholders Funds.
+In this instance total exposure is calculated as net assets, less cash and cash equivalents, adding back cash borrowing plus derivatives converted into the equivalent position in their underlying assets, adjusted for netting and hedging arrangements.
+See the definition of Options and Equity Swaps for more details on how exposure through derivatives is calculated.
+31 March 2018 31 March 2017 Fair Value Exposure Fair Value Exposure Investments 1,259,926 1,259,926 1,157,562 1,157,562 OTC equity swaps 34,105 126,125 34,410 116,926 Put Call options 511 13,098 909 13,151 1,293,520 1,399,149 1,192,881 1,287,339 Shareholders funds 1,202,188 1,100,903 Leverage % 16.4 16.9 Calculated in accordance with AIFMD requirements using the Commitment Method MSCI World Health Care Index the Companys Benchmark The MSCI World Health Care Index is designed to capture the large and mid capitalisation segments across 23 developed markets countries: All securities in the index are classified as healthcare as per the Global Industry Classification Standard GICS.
+Developed Markets countries include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, Switzerland the UK and the U. S. The net total return of the Index is used which assumes the reinvestment of any dividends paid by its constituents after the deduction of relevant withholding taxes.
+The performance of the Index is calculated in U. S. $ terms.
+Because the Companys reporting currency is the prevailing U. S. $ exchange rate is applied to obtain a based return.
+NAV per Share pence The value of the Companys assets, principally investments made in other companies and cash being held, minus any liabilities.
+The NAV is also described as shareholders funds per share.
+The NAV is often expressed in pence per share after being divided by the number of shares which have been issued.
+The NAV per share is unlikely to be the same as the share price which is the price at which the Companys shares can be bought or sold by an investor.
+The share price is determined by the relationship between the demand and supply of the shares.
+NAV Total Return The theoretical total return on shareholders funds per share, reflecting the change in NAV assuming that dividends paid to shareholders were reinvested at NAV at the time the shares were quoted ex-dividend.
+A way of measuring investment management performance of investment trusts which is not affected by movements in discounts premiums.
+31 March 31 March 2018 2017 NAV Total Return p p Opening NAV 2,367.2 1,850.9 Increase in NAV 43.9 516.3 Closing NAV 2,411.1 2,367.2 % increase in NAV 1.9% 27.9% Impact of reinvested dividends 0.9% 1.0% NAV Total Return 2.8% 28.9% Worldwide Healthcare Trust PLC Annual Report for the year ended 31 March 2018 73 249336 WWH pp71-end.
+qxp 03 07 2018 12:28 Page 74 Further Information Glossary Ongoing Charges Ongoing charges are calculated by taking the Companys annualised ongoing charges, excluding finance costs, taxation, performance fees and exceptional items, and expressing them as a percentage of the average daily net asset value of the Company over the year.
+31 March 31 March 2018 2017 000 000 AIFM & Portfolio Management fees Note 3 9,862 8,456 Other Expenses Note 4 908 718 Total Ongoing Charges 10,770 9,174 Performance fees paid crystallised 3,387 1,331 Total 14,157 10,505 Average net assets 1,183,992 1,006,812 Ongoing Charges 0.9% 0.9% Ongoing Charges including performance fees paid or crystallised during the year 1.2% 1.0% Options An option is an agreement that gives the buyer, who pays a fee premium, the right but not the obligation to buy or sell a specified amount of an underlying asset at an agreed price strike or exercise price on or until the expiration of the contract expiry.
+A call option is an option to buy, and a put option an option to sell.
+The potential loss of the buyer is limited to the higher of the premium paid or the market value of the bought option.
+On the other side for the seller of a covered call option your company does not sell uncovered options any loss would be offset by gains in the covering position, and for sold puts the potential loss is the strike price times the number of option contracts held.
+For the purposes of calculating exposure to risk in note 16 beginning on page 64, the potential loss is used.
+The exposure, used in calculating the AIFMD leverage limits, between these two b ounds is determined as the delta an options delta measures the sensitivity of an options price solely to a change in the price of the underlying asset adjusted equivalent of the underlying position.
+Rehypothecation Rehypothecation is the practice by banks and brokers of using, for their own purposes, assets that have been posted as collateral by clients.
+Ribonucleic Acid Ribonucleic Acid, or RNA is one of the three major macromolecules that are essential for all known life along with DNA and proteins.
+Share Price Total Return Return to the investor on mid-market prices assuming that all dividends paid were reinvested.
+31 March 31 March 2018 2017 Share price Total Return p p Opening share price 2,304.0 1,715.0 Increase in share price 101.0 589.0 Closing share price 2,405.0 2,304.0 % increase in share price 4.4% 34.3% Impact of reinvested dividends 0.9% 1.2% Share price Total Return 5.3% 35.5% Treasury Shares Shares previously issued by a company that have been bought back from shareholders to be held by the company for potential sale or cancellation at a later date.
+Such shares are not capable of being voted and carry no rights to dividends.
+Worldwide Healthcare Trust PLC 74 Annual Report for the year ended 31 March 2018

@@ -1,0 +1,482 @@
+ACCOUNTS Notes to the accounts 1.
+Accounting policies, judgements and estimates Statement of compliance easyJet plc the Company and its subsidiaries easyJet or the Group as applicable are a low-cost airline carrier operating principally in Europe.
+The Company is a public limited company whose shares are listed on the London Stock Exchange under the ticker symbol EZJ and is incorporated and domiciled in the United Kingdom.
+The address of its registered office is Hangar 89, London Luton Airport, Luton, Bedfordshire, LU2 9PF.
+The accounts are prepared in accordance with International Financial Reporting Standards IFRS as adopted by the European Union, taking into account IFRS Interpretations Committee IFRSIC interpretations and those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+Basis of preparation The accounts are prepared based on the historical cost convention except for certain financial assets and liabilities including derivative financial instruments that are measured at fair value.
+The accounting policies set out below have been applied consistently to all years presented in these accounts.
+easyJets business activities, together with factors likely to affect its future development and performance, are described in the Strategic report on pages 2 to 46.
+Principal risks and uncertainties are described on pages 34 to 40.
+Note 23 to the accounts sets out the Groups objectives, policies and procedures for managing its capital and gives details of the risks related to financial instruments held by the Group.
+The accounts have been prepared on a going concern basis.
+Details on going concern are provided on page 31.
+The use of critical accounting estimates and management judgement is required in applying the accounting policies.
+Areas involving a higher degree of judgement or complexity, or where assumptions and estimates are significant to the financial statements, are highlighted on pages 105 to 106.
+Changes in accounting policies During the year, a change was made to the accounting policy in respect of the presentation of headline and non-headline items see Critical accounting judgements and estimates section.
+This provides a relevant and reliable measure for assessing the underlying trading performance of the business by identifying material non-recurring items or items which are not considered to be reflective of the trading performance of the business.
+This presentational change has been made for the first time in the current year, and the comparative financial statements have been restated.
+Where an aircraft is sold and leased back, other than when first delivered to easyJet, a liability to undertake future maintenance activities, resulting from past flying activity, arises at the point the lease agreement is signed.
+Historically this liability has been treated as part of the surplus or shortfall arising on the sale and leaseback and recognised in either deferred income or non-current or current assets as appropriate and amortised in the income statement on a straight-line basis over the expected lease term.
+During the year, the accounting policy was changed to recognise the initial maintenance provision on sale and leasebacks immediately in the income statement.
+The new accounting policy will result in an accounting treatment which better reflects the economics of the lease arrangements.
+This change requires a restatement of previous financial statements.
+The following table sets out the adjustments made to certain line items of the previously reported comparative amounts as a result of the change to the initial maintenance provision catch-up on sale and leasebacks accounting policy.
+com Note to the accounts continued Notes to the accounts continued 1.
+Accounting policies, judgements and estimates continued Year ended 30 September 2016 As reported As restated million million Impacted lines Statement of financial position Other non-current assets 121 112 Trade and other receivables 217 205 Trade and other payables 564 565 Current tax payable 21 16 Non-current deferred income 35 36 Net assets 2,712 2,694 Retained earnings 1,920 1,902 Income statement Aircraft dry leasing 103 91 Operating profit 498 510 Profit before tax 495 507 Tax charge 68 70 Profit for the period 427 437 Earnings per share pence Basic 108.4 110.9 Diluted 107.6 110.1 Statement of changes in equity Retained earnings at 1 October 2015 1,720 1,692 Result for the period 427 437 Retained earnings at 30 September 2016 1,920 1,902 Significant accounting policies The significant accounting policies applied are summarised below.
+They have been applied consistently to both years presented.
+The explanations of these policies focus on areas where judgement is applied or which are particularly significant in the financial statements.
+Basis of consolidation The consolidated accounts incorporate those of easyJet plc and its subsidiaries for the years ended 30 September 2016 and 2017.
+A full list of subsidiaries can be found in the Notes to the Company accounts on page 129.
+A subsidiary is an entity controlled by easyJet plc.
+Control is achieved when easyJet is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power, directly or indirectly, over the investee.
+Intragroup balances, transactions and any unrealised gains and losses arising from intragroup transactions are eliminated in preparing the consolidated accounts.
+Foreign currencies The primary economic environment in which a subsidiary operates determines its functional currency.
+The consolidated accounts of easyJet are presented in Sterling, rounded to the nearest million, which is the Companys functional currency and the Groups presentation currency.
+Certain subsidiaries have operations that are primarily influenced by a currency other than Sterling.
+Exchange differences arising on the translation of these foreign operations are taken to shareholders equity until all or part of the interest is sold, when the relevant portion of the accumulated exchange gains or losses is recognised in the income statement.
+Profits and losses of foreign operations are translated into Sterling at average rates of exchange during the year, since this approximates the rates on the dates of the transactions.
+Transactions arising in foreign currencies are recorded using the rate of exchange ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated into Sterling using the rate of exchange ruling at the end of a reporting period and except where the asset or liability is designated as a cash flow hedge the gains or losses on translation are included in the income statement.
+Non-monetary assets and liabilities denominated in foreign currencies are translated into Sterling at foreign exchange rates ruling at the dates the transactions were effected.
+Revenue recognition Revenue comprises seat revenue, being the value of airline services net of air passenger duty and similar charges, VAT and discounts, and non-seat revenue.
+100 easyJet plc Annual report and accounts 2017 100 easyJet plc Annual report and accounts 2017 ACCOUNTS Seat revenue arises from the sale of flight seats, including the provision of checked baggage, allocated seating, administration, credit card and change fees.
+Seat revenue is recognised when the service is provided.
+This is generally when the flight takes place but, in the following cases, this is at the time of booking: administration and credit card fees as they are contractually non-refundable: and change fees as the service provided is that of allowing customers to change bookings.
+Amounts paid by no-show customers are recognised as seat revenue when the booked service is provided as such customers are not generally entitled to change flights or seek refunds once a flight has departed.
+Unearned revenue represents flight seats, including the provision of checked baggage and allocated seating, sold but not yet flown and is held in the statement of financial position until it is realised in the income statement when the service is provided.
+Non-seat revenue arises from commissions earned from services sold on behalf of partners and is recognised when the service is provided.
+This is generally when the related flight takes place.
+In the case of commission earned from travel insurance, revenue is recognised at the time of booking as easyJet acts solely as appointed representative of the insurance company.
+Business combinations Business combinations in prior years were accounted for by applying the purchase method.
+The cost of the acquisition is measured at the aggregate of the fair values, at the date of exchange, of assets given and liabilities incurred or assumed plus any costs directly attributable to the business combination.
+The acquirees identifiable assets and liabilities are recognised at their fair values at the acquisition date.
+Goodwill arising on acquisition is recognised as an asset and initially measured at cost, being the excess of the cost of the business combination over easyJets interest in the net fair value of the identifiable assets acquired and the liabilities assumed.
+Goodwill and other intangible assets Goodwill is stated at cost less any accumulated impairment losses.
+It has an indefinite expected useful life and is tested for impairment at least annually or where there is any indication of impairment.
+Landing rights are stated at cost less any accumulated impairment losses.
+They are considered to have an indefinite useful life as they will remain available for use for the foreseeable future provided minimum utilisation requirements are observed, and are tested for impairment at least annually or where there is any indication of impairment.
+Other intangible assets are stated at cost less accumulated amortisation, which is calculated to write off their cost, less estimated residual value, on a straight-line basis over their expected useful lives.
+Expected useful lives and residual values are reviewed annually.
+Expected useful life Computer software 3-7 years Contractual rights Over the length of the related contracts Property, plant and equipment Property, plant and equipment is stated at cost less accumulated depreciation.
+Depreciation is calculated to write off the cost, less estimated residual value, of assets, on a straight-line basis over their expected useful lives.
+Expected useful life Aircraft 23 years Aircraft spares 14 years Aircraft prepaid maintenance 7-10 years Leasehold improvements 5-10 years or the length of lease if shorter Fixtures, fittings and equipment 3 years or length of lease of property where equipment is used if shorter Computer hardware 3-5 years Aircraft held under finance leases are depreciated over the shorter of the lease term and their expected useful lives, as shown above.
+Residual values, where applicable, are reviewed annually against prevailing market rates at the end of the reporting period for equivalently aged assets and depreciation rates are adjusted accordingly on a prospective basis.
+The carrying value is reviewed for impairment if events or changes in circumstances indicate that the carrying value may not be recoverable.
+For aircraft, easyJet is dependent on Airbus as its sole supplier.
+This gives rise to a valuation risk which crystallises when aircraft exit the fleet, where easyJet is reliant on the future demand for second-hand aircraft.
+An element of the cost of a new aircraft is attributed on acquisition to prepaid maintenance and is depreciated over a period ranging from seven to ten years from the date of manufacture.
+Subsequent costs incurred which lend enhancement to future periods, such as long-term scheduled maintenance and major overhaul of aircraft and engines, are capitalised and depreciated over the length of period benefitting from these enhancements.
+All other maintenance costs are charged to the income statement as incurred.
+Accounting policies, judgements and estimates continued Pre-delivery and option payments made in respect of aircraft are recorded in property, plant and equipment at cost.
+These amounts are not depreciated.
+Interest attributed to pre-delivery and option payments made in respect of aircraft and other qualifying assets under construction are capitalised and added to the cost of the asset concerned.
+Gains and losses on disposals other than aircraft sale and leaseback transactions are determined by comparing the net proceeds with the carrying amount and are recognised in the income statement.
+Other non-current assets Payments for aircraft and engine maintenance, as stipulated in the respective operating lease agreements, have historically been made to some lessors as security for the performance of future heavy maintenance works.
+The payments are recorded within current and non-current assets as applicable as receivables from the lessors until the respective maintenance event occurs and the reimbursement with the lessor is finalised.
+Any payment that is not expected to be reimbursed by the lessor is recognised immediately within operating expenses in the statement of comprehensive income.
+Impairment of non-current assets An impairment loss is recognised to the extent that the carrying value exceeds the higher of the assets or cash generating units fair value less cost to sell and its value in use.
+Impairment losses recognised on goodwill are not reversed.
+Impairment losses recognised on assets other than goodwill are only reversed where changes in the estimates used result in an increase in recoverable amount.
+Leases easyJet enters into sale and leaseback transactions whereby it sells either new or mid-life aircraft to a third party and immediately leases them back.
+Where sale proceeds received are judged to reflect the aircrafts fair value, any gain or loss arising on disposal is recognised immediately in the income statement.
+Where sale proceeds received do not represent the aircrafts fair value, any shortfall or surplus arising is deferred within non-current assets or liabilities respectively, and amortised in the income statement on a straight-line basis over the expected lease term.
+In some operating sale and leaseback arrangements, receipt of part of the proceeds is deferred until the end of the lease, the amount of which is recorded as deferred consideration within non-current or current assets as appropriate.
+Non-contingent operating lease rentals are charged to the income statement on a straight-line basis over the life of the lease.
+A number of operating leases require easyJet to make contingent rental payments based on variable interest rates: these are expensed as incurred.
+Finance leases, which transfer to easyJet substantially all the risks and benefits incidental to ownership of the leased item, are recognised at the inception of the lease at the fair value of the leased asset, or, if lower, at the present value of the minimum lease payments.
+Any directly attributable costs of entering into financing sale and leasebacks are included in the value of the asset recognised.
+Lease payments are apportioned between the finance charges and the reduction of the lease liability so as to achieve a constant rate of interest on the remaining balance of the liability.
+Finance charges are included in interest payable and other financing charges.
+Financial instruments Financial instruments are recognised when easyJet becomes a party to the contractual provisions of the relevant instrument and derecognised when it ceases to be a party to such provisions.
+Where market values are not available, the fair value of financial instruments is calculated by discounting cash flows at prevailing interest rates and by applying year end exchange rates.
+Non-derivative financial assets Non-derivative financial assets are recorded at amortised cost and include trade receivables, cash and money market deposits.
+Cash and cash equivalents comprise cash held in bank accounts with no access restrictions and bank deposits and tri-party repos repayable on demand or maturing within three months of inception.
+Interest income on cash and money market deposits is recognised using the effective interest method.
+Restricted cash comprises cash deposits which have restrictions governing their use and is classified as a current or non-current asset based on the estimated remaining length of the restriction.
+Impairment losses are recognised on financial assets carried at amortised cost where there is objective evidence that an impairment loss has been incurred.
+The amount of the loss is measured as the difference between the assets carrying amount and the present value of future cash flows, discounted at the original effective interest rate.
+If, subsequently, the amount of the impairment loss decreases, and the decrease can be related objectively to an event that occurred after the impairment was recognised, the appropriate portion of the loss is reversed.
+Both impairment losses and reversals are recognised in the income statement as components of net finance charges.
+Non-derivative financial liabilities Non-derivative financial liabilities are initially recorded at fair value less directly attributable transaction costs, and subsequently at amortised cost, and include trade and other payables, borrowings and provisions.
+Interest expense on borrowings is recognised using the effective interest method.
+Borrowings are classified as current liabilities unless there is an unconditional right to defer settlement of the liability for at least 12 months after the reporting period date.
+102 easyJet plc Annual report and accounts 2017 102 easyJet plc Annual report and accounts 2017 ACCOUNTS Derivative financial instruments and hedging activities easyJet uses foreign currency forward exchange contracts to hedge foreign currency risks on transactions denominated in US dollars, Euros, Swiss francs and South African rand.
+These transactions primarily affect revenue, fuel and aircraft dry leasing costs, and the carrying value of owned aircraft.
+easyJet also uses cross-currency interest rate swaps to hedge currency and interest rate risk on certain borrowings, and jet fuel forward contracts to hedge fuel price risks.
+Derivative financial instruments are measured at fair value.
+Hedge accounting is applied to those derivative financial instruments that are designated as cash flow hedges or fair value hedges.
+Fair value hedges Changes in the fair values of derivatives that are designated and qualify as fair value hedges are recorded in the income statement, together with any changes in the fair values of the hedged assets or liabilities that are attributable to the hedged risk.
+Cash flow hedges Gains and losses arising from changes in the fair value of forward contracts are recognised in other comprehensive income and deferred in the hedging reserve to the extent that the hedges are determined to be effective.
+All other changes in fair value are recognised immediately in the income statement.
+When the hedged forecast transaction relates to an item of property, plant and equipment, the relevant accumulated gains and losses are transferred from the hedging reserve and included in the initial carrying amount of that purchased asset.
+Otherwise they are recognised in the income statement in the same period in which the hedged transaction affects the income statement.
+In the event that a hedged forecast transaction is no longer considered highly probable, any related gains and losses are immediately transferred from the hedging reserve and recognised in the income statement.
+Hedge accounting is discontinued when a hedging instrument is derecognised e. g. through expiry or disposal, or no longer qualifies for hedge accounting.
+Where the hedged item remains a highly probable forecast transaction, the related gains and losses remain deferred in the hedging reserve until the transaction takes place.
+Financial guarantees If a claim on a financial guarantee given to a third party becomes probable, the obligation is recognised at fair value.
+For subsequent measurement, the carrying amount is the higher of initial measurement and best estimate of the expenditure required to settle the obligation at the reporting date.
+Tax Tax expense in the income statement consists of current and deferred tax.
+Tax is recognised in the income statement except when it relates to items credited or charged directly to other comprehensive income or shareholders equity, in which case it is recognised in other comprehensive income or shareholders equity.
+The charge for current tax is based on the results for the year as adjusted for income that is exempt and expenses that are not deductible using tax rates that are applicable to the taxable income.
+Deferred tax is provided in full on temporary differences relating to the carrying amount of assets and liabilities, where it is probable that the recovery or settlement will result in an obligation to pay more, or a right to pay less, tax in the future, with the following exceptions: where the temporary difference arises from goodwill or from the initial recognition other than in a business combination of other assets and liabilities in a transaction that affects neither taxable income nor accounting profit: and deferred tax arising on investments in subsidiaries is not recognised where easyJet is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred tax is calculated at the tax rates that are expected to apply in the periods in which recovery of assets and settlement of liabilities are expected to take place, based on tax rates or laws enacted or substantively enacted at the date of the statement of financial position.
+Deferred tax assets represent amounts recoverable in future periods in respect of deductible temporary differences, losses and tax credits carried forwards.
+Deferred tax assets are recognised to the extent that it is probable that there will be suitable taxable profits from which they can be deducted.
+Deferred tax liabilities represent the amount of income taxes payable in future periods in respect of taxable temporary differences.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and it is the intention to settle these on a net basis.
+Aircraft maintenance provisions The accounting for the cost of providing major airframe and certain engine maintenance checks for owned and finance-leased aircraft is described in the accounting policy for property, plant and equipment.
+easyJet has contractual obligations to maintain aircraft held under operating leases.
+Provisions are created over the term of the lease based on the estimated future costs of major airframe checks, engine shop visits and end of lease liabilities.
+These costs are discounted to present value.
+Accounting policies, judgements and estimates continued Where an aircraft is sold and leased back, other than when first delivered to easyJet, a maintenance catch-up liability resulting from past flying activity arises at the point the lease agreement is signed and a corresponding maintenance provision catch-up is recognised immediately in the income statement.
+A number of leases also require easyJet to pay recoverable supplemental rent to the lessor.
+The purpose of these payments is to provide the lessor with collateral should an aircraft be returned in a condition that does not meet the requirements of the lease.
+This recoverable supplemental rent is included in trade and other receivables within current assets and other non-current assets, as applicable, and is refunded when qualifying heavy maintenance is performed, or is offset against the costs incurred at the end of the lease.
+Other provisions Provisions are recognised when a present legal or constructive obligation arises as a result of a past event, it is probable that the Group will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+Amounts provided for represent the best estimate of the consideration required to settle the present obligation at the balance sheet date, taking into account all related risks and uncertainties.
+Provision is made for passenger compensation claims when the Group has an obligation to recompense customers under Flight Compensation Regulation 261 2004.
+Provisions are measured based on known eligible events, passengers impacted and historical claim rates.
+Employee benefits easyJet contributes to defined contribution pension schemes for the benefit of employees.
+easyJet has no further payment obligations once the contributions have been paid.
+The assets of the schemes are held separately from those of easyJet in independently administered funds.
+easyJets contributions are charged to the income statement in the year in which they are incurred.
+The expected cost of compensated holidays is recognised at the time that the related employees services are provided.
+Share capital and dividend distribution Ordinary shares are classified as equity.
+Incremental costs directly attributable to the issue of new ordinary shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Where any Group company or employee benefit trust purchases the Companys equity shares, the consideration paid and any directly attributable incremental costs are deducted from retained earnings until the shares are cancelled or reissued.
+Proceeds from re-issue are shown as a credit to retained earnings.
+easyJet settles share awards under the Long Term Incentive, the Save As You Earn scheme, Restricted Share Plan and Share Incentive Plans by purchasing its own shares on the market through employee benefit trusts.
+The cost of such purchases is deducted from retained earnings in the period that the transaction occurs.
+Dividend distributions to the Companys shareholders are recognised as a liability in the period in which the dividends are approved by the Companys shareholders.
+Share-based payments easyJet has a number of equity-settled share incentive schemes.
+The fair value of share options granted under the Save As You Earn scheme is measured at the date of grant using the Binomial Lattice option pricing model.
+The fair value of grants under the Long Term Incentive Plan is measured at the date of grant using the Black-Scholes model for awards based on ROCE performance targets, and the Stochastic model also known as the Monte Carlo model for awards based on TSR performance targets.
+The fair value of all other awards is the share price at the date of grant.
+The fair value of the estimated number of options and awards that are expected to vest is expensed to the income statement on a straight-line basis over the period that employees services are rendered, with a corresponding increase in shareholders equity.
+Where non-market performance criteria such as ROCE attached to the share options and awards are not met, any cumulative expense previously recognised is reversed.
+For awards with market-related performance criteria such as TSR, an expense is recognised irrespective of whether the market condition is satisfied.
+The social security obligations payable in connection with grant of the share options are an integral part of the grant itself and the charge is treated as a cash-settled transaction.
+Segmental disclosures easyJet has one operating segment, being its route network, based on management information provided to the Executive Management Team, which is easyJets chief operating decision maker.
+Resource allocation decisions are made for the benefit of the route network as a whole, rather than for individual routes within the network.
+Performance of the network is assessed based on the consolidated profit or loss before tax for the year.
+Revenue is allocated to geographic segments on the following bases: revenue earned from passengers is allocated according to the location of the first departure airport on each booking: and commission revenue earned from partners is allocated according to the domicile of each partner.
+104 easyJet plc Annual report and accounts 2017 104 easyJet plc Annual report and accounts 2017 ACCOUNTS Critical accounting judgements and estimates The preparation of accounts in conformity with generally accepted accounting principles requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the accounts and the reported amounts of income and expenses during the reporting period.
+Although these amounts are based on managements best estimates, events or actions may mean that actual results ultimately differ from those estimates, and these differences may be material.
+The estimates and the underlying assumptions are reviewed regularly.
+The following are the critical judgements, apart from those involving estimations which are dealt with separately below, that the Directors have made in the process of applying the Groups accounting policies and that have the most significant effect on the amounts recognised and presented in the financial statements.
+Classification of operating and financing leases Notes 10 and 24 Management exercises judgement in determining the classification of leases as either finance or operating leases in nature at inception of the lease.
+Management considers the likelihood of exercising break clauses or extension options in determining the lease term.
+Where the lease term constitutes substantially all of the economic life of the asset, or where the present value of minimum lease payments amount to substantially all of the fair value of the aircraft, the lease is classified as a finance lease.
+All other leases are classified as operating leases.
+Classification of income or expenses between headline and non-headline items Note 5 The Group seeks to present a measure of underlying performance which is not impacted by material non-recurring items or items which are not considered to be reflective of the trading performance of the business.
+This measure of profit is described as headline and is used by the Directors to measure and monitor performance.
+The excluded items are referred to as non-headline items.
+Non-headline items may include impairments, amounts relating to acquisitions and disposals, expenditure on major restructuring programmes, litigation and insurance settlements, balance sheet exchange gains or losses, the income or expense resulting from the initial recognition of sale and lease back transactions, fair value adjustments on financial instruments and other particularly significant or unusual non-recurring items.
+Items relating to the normal trading performance of the business will always be included within the headline performance.
+Judgement is required in determining the classification of items between headline and non-headline.
+Consolidation of easyJet Switzerland Judgement has been applied in consolidating easyJet Switzerland S. A. as a subsidiary on the basis that the Company exercises a dominant influence over the undertaking.
+A non-controlling interest has not been reflected in the consolidated accounts on the basis that holders of the remaining 51% of the shares have no entitlement to any dividends from that holding and the Company has an option to acquire those shares for a pre-determined minimal consideration.
+The following three critical accounting estimates involve a higher degree of judgement or complexity, or are areas where assumptions are significant to the financial statements: Aircraft maintenance provisions 284 million Note 17 easyJet incurs liabilities for maintenance costs in respect of aircraft leased under operating leases during the term of the lease.
+These arise from legal and constructive contractual obligations relating to the condition of the aircraft when it is returned to the lessor.
+To discharge these obligations, easyJet will also normally need to carry out one heavy maintenance check on each of the engines and the airframe during the lease term.
+A charge is made in the income statement, based on hours or cycles flown, to provide for the cost of these obligations.
+The most critical estimates required are considered to be the utilisation of the aircraft, the expected costs of the heavy maintenance checks at the time which they are expected to occur, the condition of the aircraft, the lifespan of life-limited parts and the rate used to discount the provision.
+The bases of all estimates are reviewed annually, and also when information becomes available that is capable of causing a material change to an estimate, such as renegotiation of end of lease return conditions, increased or decreased utilisation, or changes in the cost of heavy maintenance services.
+Other provisions 38 million Note 17 easyJet incurs liabilities for amounts payable to customers who make claims in respect of flight delays and cancellations, and refunds of air passenger duty or similar charges.
+Estimates include passenger claim rates, the value of claims made and the period of time over which claims will be made.
+The bases of all estimates are reviewed at least annually and also when information becomes available that is capable of causing a material change to the estimate.
+Goodwill and landing rights 459 million Note 9 Goodwill and landing rights are tested for impairment at least annually.
+easyJet has one cash-generating unit, being its route network.
+In making this assessment, easyJet has considered the manner in which the business is managed including the centralised nature of its operations and the ability to open or close routes and redeploy aircraft and crew across the whole route network.
+Accounting policies, judgements and estimates continued The value in use of the cash-generating unit is determined by discounting future cash flows to their present value.
+When applying this method, easyJet relies on a number of key estimates including its ability to meet its strategic plans, future fuel prices and exchange rates, long-term economic growth rates for the principal countries in which it operates, and its pre-tax weighted average cost of capital.
+Both fuel price and exchange rates are volatile in nature, and the assumptions used are sensitive to significant changes in these rates.
+New and revised standards and interpretations not applied The following new or revised standards and interpretations issued by the International Accounting Standards Board IASB have not been applied in preparing these accounts as their effective dates fall in periods beginning on or after 1 October 2017 and in some cases have not been endorsed by the EU.
+IFRS 15 Revenue from Contracts with Customers effective for the year ending 30 September 2019 easyJet will adopt IFRS 15 on 1 October 2018 and anticipates applying the cumulative catch-up modified transition method.
+The standard provides a single model for measuring and recognising revenue arising from contracts with customers.
+It supersedes all existing revenue requirements in IFRS.
+Under IFRS 15, revenue is recognised when customers obtain control of goods or services and so are able to direct the use, and obtain the benefits, of those goods or services.
+easyJet has reviewed all revenue streams as part of its IFRS 15 impact assessment.
+Whilst the majority of revenues are already recognised in line with the requirements of the new standard, revenue recognition from certain ancillary streams will be delayed from the date of booking to the date of flight.
+This change is expected to result in a higher proportion of annual revenues being recognised in the second half of the financial year.
+More specifically, under IAS 18, administration fees arising on bookings in the first half of the financial year for flights in the second half would be recognised in the first half of the year: under IFRS 15 these revenues will be recognised in the second half.
+The anticipated full year impact on adoption of the standard is expected to be immaterial.
+IFRS 9 Financial Instruments effective for the year ending 30 September 2019 easyJet will adopt IFRS 9 on 1 October 2018 and anticipates applying the standard prospectively with no retrospective adjustments required.
+The standard removes the multiple classification and measurement models for financial assets required by IAS 39 and instead introduces a model that has three classification categories: amortised cost: fair value through the Income Statement and fair value through Other Comprehensive Income.
+Classification of a debt asset instrument is driven by its cash flow characteristics and the business model in which the asset is held.
+Accounting for financial liabilities and for derecognising financial instruments under IFRS 9 is materially consistent with that required by IAS 39.
+IFRS 9 adds new requirements to address the impairment of financial assets and hedge accounting.
+easyJet does not anticipate any material change in the classification or measurement of its financial instruments or in its hedging activities on adoption of the standard.
+IFRS 16 Leases effective for the year ending 30 September 2020 easyJet is currently planning to early adopt IFRS 16 on 1 October 2018, bringing the timing of adoption in line with that of IFRS 9 and IFRS 15. easyJet anticipates applying the cumulative catch-up modified transition method.
+The standard provides a single lessee accounting model, specifying how leases are recognised, measured, presented and disclosed.
+Under IFRS 16, easyJet will capitalise all aircraft and properties currently held under operating leases.
+Operating lease expenses will be replaced by a depreciation expense on Right of Use assets recognised and an interest expense as the interest rate implicit in easyJets lease liabilities unwinds.
+At 30 September 2017 excluding the impact of the post balance sheet Air Berlin transaction see note 28 which has not yet been evaluated easyJet anticipates that on adoption of IFRS 16 on 1 October 2018, it will recognise approximately 0.3 billion of lease liabilities and approximately 0.3 billion of Right of Use Assets.
+Annual operating lease expenses of 0.1 billion, which would have been recognised under the existing leases standard, will be replaced by anticipated similar levels of depreciation and interest expense such that no material impact on profit before tax is expected in the year of transition.
+Retained earnings are expected to decrease slightly on adoption of IFRS 16, reflecting the difference in carrying value between Right of Use assets and Lease Liabilities initially recognised.
+106 easyJet plc Annual report and accounts 2017 106 easyJet plc Annual report and accounts 2017 ACCOUNTS Key assumptions used to calculate the impacts outlined above: easyJet anticipates the continuation of its aircraft sale and leaseback programme prior to the date of transition: a USD GBP foreign exchange rate of 1.27 1 at the date of initial application and throughout year of initial application: and based on current aircraft financing incremental borrowing rate estimates, calculations at the date of initial application use a discount rate of 2 per cent.
+Effective for the year ending 30 September 2018 not yet EU endorsed IAS 7 Statement of Cash flows Amendments relating to the IASBs Disclosure Initiative intended to provide information to help investors better understand changes in a companys debt.
+IAS 12 Income Taxes Amendments relating to the accounting for deferred tax assets for unrealised losses on debt instruments measured at fair value.
+Effective for the year ending 30 September 2019 not yet EU endorsed IFRS 2 Share-based Payment Amendments clarifying how to account for certain types of share-based payment transactions.
+Net finance charges 2017 2016 million million Interest receivable and other financing income Interest income 6 4 Dividend income 2 3 Net exchange gains on monetary assets and liabilities 2 3 10 10 Interest payable and other financing charges Interest payable on bank and other borrowings 20 8 Interest payable on finance lease obligations 4 4 Other interest payable 5 1 29 13 Net finance charges 19 3 3.
+Profit before tax The following have been included in arriving at profit before tax: 2016 2017 restated million million Depreciation of property, plant and equipment Owned assets 177 150 Assets held under finance leases 4 7 Loss on disposal of intangibles, property, plant and equipment 4 3 Loss on sale and leaseback 10 Operating lease rentals Aircraft 124 101 Other assets 7 6 Auditors remuneration During the year easyJet incurred fees payable for the audit of the Group and individual accounts from easyJets auditors and their associates totalling 0.4 million 2016: 0.4 million.
+In addition, easyJet incurred non-audit services fees of 32,000 2016: audit related fees of 38,000 from its auditors.
+com Note to the accounts continued Notes to the accounts continued 4.
+Employees The average monthly number of people employed by easyJet was: 2017 2016 Number Number Flight and ground operations 10,932 9,571 Sales, marketing and administration 723 702 11,655 10,273 Employee costs for easyJet were: 2017 2016 million million Wages and salaries 570 474 Social security costs 73 63 Pension costs 61 48 Share-based payments 13 19 717 604 Key management compensation was: 2017 2016 million million Short-term employee benefits 8 7 Share-based payments 4 8 11 Share-based payment charges arising during the year in respect of grants to key management personnel are offset by credits recognised on certain forfeitures arising from bad leavers and from downward revisions to some LTIP forecast vesting percentages.
+The Directors of easyJet plc and the other members of the Executive Management Team are easyJets key management as they have collective authority and responsibility for planning, directing and controlling the business.
+Emoluments paid or payable to the Directors of easyJet plc were: 2017 2016 million million Remuneration 3 3 Gains made on the exercise of Long Term Incentive Plan and Buy Out awards 3 6 3 Details of Directors remuneration are disclosed in the Directors remuneration report on pages 65 to 84.
+Non-headline items An analysis of the amounts presented as non-headline is given below: Year ended Year ended 30 September 30 September 2017 2016 million million Sale and leaseback charge 16 Organisational review 6 1 Air Operator Certificate AOC 2 1 Maintenance reserves discounting 8 Recognised in operating profit 24 6 Balance sheet foreign exchange gain 2 3 Fair value adjustment 1 4 Total non-headline charge credit before tax 23 13 Tax on non-headline items 3 3 Total non-headline charge credit after tax 20 10 108 easyJet plc Annual report and accounts 2017 108 easyJet plc Annual report and accounts 2017 ACCOUNTS Sale and leaseback charge The sale and leaseback of the Groups 10 oldest A319 aircraft resulted in a loss on disposal of the assets of 10 million, recognised within other costs in the income statement, and a 6 million maintenance provision catch-up, charged immediately to the income statement upon entering the lease, within maintenance costs.
+Organisational review The implementation of an organisational review has resulted in costs of 6 million, which have been recognised in other costs within the income statement.
+This programme, which involves redundancy costs and associated third party adviser fees, is considered a material non-recurring item by virtue of the estimated size of the whole programme.
+Air Operator Certificate AOC Following the UKs referendum vote to leave the European Union EU, easyJet is in the process of establishing a multi-AOC postBrexit structure, which included the set-up of an European AOC, based in Austria, in July 2017.
+The European AOC helps secure future flying rights for the 30% of easyJets network which remains wholly within and between EU member states.
+In the year ended 30 September 2017 the Group incurred 2 million, primarily comprising set up costs, which have been recognised in other costs within the income statement.
+Maintenance reserves discounting In the year ended 30 September 2016 the maintenance provision was discounted for the first time, reflecting the time value of money.
+The discount applied generated a cumulative one-off non-headline income statement credit of 8 million.
+In the year ended 30 September 2017 and for future periods the impact of discounting will be reflected as a headline item.
+Balance sheet foreign exchange gain Foreign exchange gains or losses arising from the retranslation of foreign currency monetary assets and liabilities held in the statement of financial position resulted in a gain of 2 million, recognised within interest in the income statement.
+Fair value adjustment A 1 million charge was recognised relating to fair value adjustments associated with the cross-currency interest rate swaps put in place to hedge the bond issued in February 2016, recognised within interest in the income statement.
+Tax charge Tax on profit on ordinary activities 2016 2017 restated million million Current tax United Kingdom corporation tax 67 79 Foreign tax 5 4 Prior year adjustments 2 Total current tax charge 72 81 Deferred tax Temporary differences relating to property, plant and equipment 6 23 Other temporary differences 1 Prior year adjustments 3 3 Change in tax rate from financial year 2017 to 19% 2016: 20% 14 Change in tax rate from financial year 2020 to 17% 22 Attributable to rates other than the standard UK rate 1 Total deferred tax charge credit 8 11 80 70 Effective tax rate 20.8% 13.8% www.
+com Note to the accounts continued Notes to the accounts continued 6.
+Tax charge continued Reconciliation of the total tax charge The tax for the year is higher than 2016: lower than the standard rate of corporation tax in the UK as set out below: 2017 2016 million million Profit before tax 385 507 Tax charge at 19.5% 2016: 20% 75 101 Attributable to rates other than standard UK rate 1 Expenses not deductible for tax purposes 2 Share-based payments 1 3 Adjustments in respect of prior years current tax 2 Adjustments in respect of prior years deferred tax 3 3 Change in tax rate from financial year 2017 to 19% 2016: 20% 14 Change in tax rate from financial year 2020 to 17% 22 Attributable to rates other than the standard UK rate 1 - 80 70 Current tax payable at 30 September 2017 amounted to 35 million 2016 restated : 16 million.
+This related to 38 million 2016 restated : 19 million of tax payable in the UK and 3 million 2016: 3 million to tax recoverable in other European countries.
+During the year ended 30 September 2017, net cash tax paid amounted to 51 million 2016: 99 million.
+Tax on items recognised directly in other comprehensive income or shareholders equity 2017 2016 million million Charge to other comprehensive income Deferred tax on change in fair value of cash flow hedges 4 66 Credit charge to shareholders equity Current tax credit on share-based payments 1 Deferred tax charge on share-based payments 6 5 Deferred tax The net deferred tax liability in the statement of financial position is as follows: Accelerated Short-term capital timing Fair value Share-based allowances differences gains losses payments Total million million million million million At 1 October 2016 191 33 19 6 237 Charged to income statement 8 8 Charged to other comprehensive income 4 4 Charged to shareholders equity At 30 September 2017 199 33 23 6 249 Accelerated Short-term capital timing Fair value Share-based allowances differences gains losses payments Total million million million million million At 1 October 2015 199 37 46 14 176 Credited Charged to income statement 8 4 1 2 11 Charged to other comprehensive income 66 66 Charged to shareholders equity 6 6 At 30 September 2016 191 33 19 6 237 It is estimated that deferred tax liabilities of approximately 15 million 2016: deferred tax assets of 1 million will reverse during the next financial year.
+Deferred tax assets and liabilities have been offset where they relate to taxes levied by the same taxation authority.
+As a result the net UK deferred tax liability is 249 million 2016: 237 million.
+The net overseas deferred tax asset is nil 2016: nil.
+110 easyJet plc Annual report and accounts 2017 110 easyJet plc Annual report and accounts 2017 ACCOUNTS No deferred tax liability has been recognised on the unremitted earnings of overseas subsidiaries as no tax is expected to be payable in the foreseeable future based on the current repatriation policy of the Group.
+Earnings per share Basic earnings per share has been calculated by dividing the total profit for the year by the weighted average number of shares in issue during the year after adjusting for shares held in employee benefit trusts.
+To calculate diluted earnings per share, the weighted average number of ordinary shares in issue is adjusted to assume conversion of all dilutive potential shares.
+Share options granted to employees where the exercise price is less than the average market price of the Companys ordinary shares during the year are considered to be dilutive potential shares.
+Where share options are exercisable based on performance criteria and those performance criteria have been met during the year, these options are included in the calculation of dilutive potential shares.
+Headline basic and diluted earnings per share are also presented, based on headline profit for the year.
+Earnings per share is based on: 2017 2016 restated million million Headline profit for the year 325 427 Total profit for the year 305 437 2017 2016 million million Weighted average number of ordinary shares used to calculate basic earnings per share 394 394 Weighted average number of dilutive potential shares 3 3 Weighted average number of ordinary shares used to calculate diluted earnings per share 397 397 2017 2016 restated Earnings per share pence pence Basic 77.4 110.9 Diluted 76.8 110.1 2017 2016 Headline earnings per share pence pence Basic 82.5 108.4 Diluted 81.9 107.6 8.
+Dividends An ordinary dividend in respect of the year ended 30 September 2017 of 40.9 pence per share, or 162 million, based on headline profit after tax, is to be proposed at the forthcoming Annual General Meeting.
+These accounts do not reflect this proposed dividend.
+An ordinary dividend of 53.8 pence per share, or 214 million, in respect of the year ended 30 September 2016 was paid in the year ending 30 September 2017.
+An ordinary dividend of 55.2 pence per share, or 219 million, in respect of the year ended 30 September 2015 was paid in the year ended 30 September 2016.
+Goodwill and other intangible assets Other intangible assets Landing Computer Goodwill rights software Total million million million million Cost At 1 October 2016 365 94 75 169 Additions 44 44 Disposals 4 4 At 30 September 2017 365 94 115 209 Amortisation At 1 October 2016 17 17 Charge for the year 14 14 Disposals 1 1 At 30 September 2017 30 30 Net book value At 30 September 2017 365 94 85 179 At 1 October 2016 365 94 58 152 www.
+com Note to the accounts continued Notes to the accounts continued 9.
+Goodwill and other intangible assets continued Other intangible assets Landing Computer Goodwill rights software Total million million million million Cost At 1 October 2015 365 94 60 154 Additions 37 37 Disposals 22 22 At 30 September 2016 365 94 75 169 Amortisation At 1 October 2015 27 27 Charge for the year 12 12 Disposals 22 22 At 30 September 2016 17 17 Net book value At 30 September 2016 365 94 58 152 At 1 October 2015 365 94 33 127 easyJet has one cash-generating unit, being its route network.
+The recoverable amount of goodwill and other assets with indefinite expected useful lives has been determined based on value in use calculations of the route network.
+Pre-tax cash flow projections have been derived from the forecast cash flows presented to the Board for the period up to 2022, using the following key assumptions: Pre-tax discount rate derived from weighted average cost of capital 10% Fuel price US dollars per metric tonne 550 600 Exchange rates: US dollar 1.27 Euro 1.10 Swiss franc 1.25 Both fuel price and exchange rates are volatile in nature, and the assumptions used represent managements view of reasonable average rates.
+Operating margins are sensitive to significant changes in these rates.
+Cash flow projections beyond the forecast period have been extrapolated using growth rate scenarios ranging from zero up to an estimated average of long-term economic growth rates for the principal countries in which easyJet operates.
+No impairment resulted from any of these scenarios.
+The impairment model is sensitive to a sustained significant adverse movement in foreign currency exchange rates.
+No reasonably possible combination of changes to the key assumptions above would result in the carrying value of the cashgenerating unit exceeding its recoverable amount.
+Property, plant and equipment Aircraft and spares Other Total million million million Cost At 1 October 2016 3,971 63 4,034 Additions 584 2 586 Aircraft sold and leased back under operating leases 186 186 Transfer to maintenance provision 6 6 Disposals 18 5 23 At 30 September 2017 4,345 60 4,405 Depreciation At 1 October 2016 763 19 782 Charge for the year 176 5 181 Aircraft sold and leased back under operating leases 61 61 Disposals 17 5 22 At 30 September 2017 861 19 880 Net book value At 30 September 2017 3,484 41 3,525 At 1 October 2016 3,208 44 3,252 112 easyJet plc Annual report and accounts 2017 112 easyJet plc Annual report and accounts 2017 ACCOUNTS Aircraft and spares Other Total million million million Cost At 1 October 2015 3,485 43 3,528 Additions 526 23 549 Transfer to maintenance provision 14 14 Disposals 26 3 29 At 30 September 2016 3,971 63 4,034 Depreciation At 1 October 2015 636 15 651 Charge for the year 152 5 157 Disposals 25 1 26 At 30 September 2016 763 19 782 Net book value At 30 September 2016 3,208 44 3,252 At 1 October 2015 2,849 28 2,877 The net book value of aircraft includes 300 million 2016: 280 million relating to advance and option payments for future deliveries.
+This amount is not depreciated.
+Aircraft with a net book value of nil million 2016: 381 million are mortgaged to lenders as loan security.
+Aircraft with a net book value of 77 million 2016: 76 million are held under finance leases.
+easyJet is contractually committed to the acquisition of 143 2016: 166 Airbus A320 family aircraft, with a total list price of US$14.0 billion 2016: US$14.8 billion before escalations and discounts for delivery in financial years 2018 36 aircraft, in 2019 21 aircraft, in 2020 23 aircraft, in 2021 35 aircraft and in 2022 28 aircraft.
+The Other category mainly comprises leasehold improvements, computer hardware, and fixtures, fittings and equipment.
+Other non-current assets 2016 2017 restated million million Deferred consideration and deposits held by aircraft lessors 66 95 Leased aircraft shortfall on sale and leaseback 6 Recoverable supplemental rent pledged as collateral 6 7 Other 2 4 74 112 12.
+Trade and other receivables 2016 2017 restated million million Trade receivables 95 62 Less provision for impairment 4 5 91 57 Prepayments and accrued income 118 97 Leased aircraft shortfall on sale and leaseback 5 8 Recoverable supplemental rent pledged as collateral 28 5 Other receivables 33 38 275 205 Trade and other receivables of 19 million 2016: 24 million are up to three months past due but not impaired.
+With respect to trade receivables that are neither impaired nor past due, there are no indications at the reporting date that the payment obligations will not be met.
+Amounts due from trade receivables are short-term in nature and largely comprise credit card receivables due from financial institutions with credit ratings of at least A and, accordingly, the possibility of significant default is considered to be unlikely.
+com Note to the accounts continued Notes to the accounts continued 13.
+Cash and money market deposits 2017 2016 million million Cash and cash equivalents original maturity less than three months 711 714 Money market deposits original maturity more than three months 617 255 Non-current restricted cash 7 7 1,335 976 Interest rates on money market deposits and restricted cash are repriced within 185 days based on prevailing market rates of interest.
+Carrying value is not significantly different from fair value.
+Restricted cash comprises: 2017 2016 million million Pledged as collateral to third parties: Aircraft operating lease deposits 7 7 14.
+Trade and other payables 2016 2017 restated million million Trade payables 201 126 Accruals 412 350 Leased aircraft surplus on sale and leaseback 9 12 Taxes and social security 20 13 Other payables 72 64 714 565 15.
+Borrowings Current Non-current Total million million million At 30 September 2017 Eurobond 870 870 Finance lease obligations 8 93 101 8 963 971 Current Non-current Total million million million At 30 September 2016 Eurobond 435 435 Bank loans 84 126 210 Finance lease obligations 8 103 111 92 664 756 Finance lease obligations relate to aircraft and bear interest partly at fixed rates and partly at variable rates linked to USD LIBOR.
+The maturity profile of borrowings is set out in note 23.
+On 7 January 2016, the UK Listing Authority approved a prospectus relating to the establishment of a 3,000 million Euro Medium Term Note Programme of easyJet plc.
+Under this programme, in February 2016 easyJet plc issued notes amounting to 500 million for a seven year term with a fixed annual coupon rate of 1.750% and in October 2016 easyJet plc issued notes amounting to 500 million for a seven year term with a fixed annual coupon rate of 1.125%.
+The 500 million Eurobond issued in February 2016 was designated as the hedged item in an effective fair value hedging relationship.
+The Group used cross-currency interest rate swaps to convert the fixed rate Eurobond to a Sterling floating rate exposure.
+The cross-currency interest rate swaps have the same maturity and common terms as the Eurobond that they are hedging.
+The carrying value of the fixed rate Eurobond net of cross-currency interest rate swaps at 30 September 2017 was 377 million.
+See note 22 for additional details.
+The 500 million Eurobond issued in October 2016 was designated as the hedged item in an effective cash flow value hedging relationship.
+The Group used cross-currency interest rate swaps to convert the fixed rate Eurobond to a Sterling fixed rate exposure.
+The carrying value of the fixed rate Eurobond net of cross-currency interest rate swaps at 30 September 2017 was 448 million.
+On 10 February 2015 easyJet signed a $500 million revolving credit facility with a minimum five-year term.
+The facility is currently due to mature in February 2022.
+114 easyJet plc Annual report and accounts 2017 114 easyJet plc Annual report and accounts 2017 ACCOUNTS 16.
+Non-current deferred income The balance principally comprises the non-current surplus of sale proceeds over the fair value of aircraft that have been sold and leased back under operating leases.
+This balance will be realised in the income statement within the next six years.
+Provisions for liabilities and charges Maintenance Other Total provisions provisions provisions million million million At 1 October 2016 259 29 288 Exchange adjustments 8 8 Charged to income statement 51 125 176 Related to aircraft sold and leased back 6 6 Transferred from property, plant and equipment 6 6 Utilised 18 116 134 At 30 September 2017 284 38 322 Amounts transferred from property, plant and equipment relate to aircraft life-limited parts used in engine restoration in the year.
+Other provisions comprise liabilities for amounts payable to customers who make claims in respect of flight delays and cancellations, refunds of air passenger duty or similar charges and other provisions.
+2017 2016 million million Current 104 53 Non-current 218 235 322 288 Maintenance provisions are expected to be utilised within six years.
+Other provisions are expected to be utilised within one year.
+Share capital Number Nominal value 2017 2016 2017 2016 million million million million Authorised At 30 September 2017 and 30 September 2016 Ordinary shares of 27 2 7 pence each 458 458 125 125 Allotted, called up and fully paid At 30 September 2017 and 30 September 2016 397 397 108 108 There was no new share capital issued in the year.
+easyJets employee benefit trusts hold the following shares.
+The cost of these has been deducted from retained earnings: 2017 2016 Number of shares million 1 2 Cost million 21 25 Market value at year end million 17 16 www.
+com Note to the accounts continued Notes to the accounts continued 19.
+Share incentive schemes easyJet operates the following share incentive schemes, all of which are equity settled.
+The change in the number of awards outstanding and weighted average exercise prices during the year, and the number exercisable at each year end were as follows: 30 September 1 October 2016 Granted Forfeited Exercised 2017 Grant date million million million million million Long Term Incentive Plan 18 December 2012 0.3 0.3 17 December 2013 0.5 0.3 0.1 0.1 19 December 2014 0.7 0.2 0.5 18 December 2015 0.7 0.2 0.5 19 December 2016 1.0 0.2 0.8 Restricted Share Plan 19 December 2016 0.1 0.1 Save As You Earn scheme 1 July 2013 0.3 0.2 0.1 1 July 2014 0.6 0.2 0.4 1 July 2015 0.9 0.5 0.4 1 July 2016 1.2 0.5 0.7 1 July 2017 2.4 2.4 Share Incentive Plans 4.3 0.4 0.3 0.8 3.6 9.5 3.9 2.6 1.3 9.5 Weighted average exercise prices are as follows: 1 October 30 September 2016 Granted Forfeited Exercised 2017 Save As You Earn scheme 12.39 9.69 12.29 9.69 10.83 The exercise price of all awards save those disclosed in the above table is nil.
+The number of awards exercisable at each year end and their weighted average exercise price are as follows: Price Number million 2017 2016 2017 2016 Long Term Incentive Plan 0.1 0.3 Restricted Share Plan Save As You Earn scheme 13.30 9.69 0.4 0.3 0.5 0.6 The weighted average remaining contractual life for each class of share award at 30 September 2017 is as follows: Years Long Term Incentive Plan 8.3 Restricted Share Plan 9.2 Save As You Earn scheme 2.6 Long Term Incentive Plan The plan is open, by invitation, to Executive Directors and senior management, and provides for annual awards of Performance Shares worth up to 250% 200% up to 31 December 2014 of salary each year.
+For awards granted from the 2015 financial year onwards, the vesting of these shares is dependent on return on capital employed ROCE targets and total shareholder return TSR targets compared to FTSE ranked companies at the start of the performance period.
+All awards have a three-year vesting period: 2017 awards are assessed on performance conditions measured over the three financial years ended 30 September 2019.
+Restricted Share Plan Granted for the first time in December 2016, the plan is open by invitation to certain senior managers, and provides for an annual award of Performance Shares.
+The vesting of these shares is dependent on remaining in employment for a period of two years.
+Save As You Earn scheme The scheme is open to all employees on the UK payroll.
+Participants may elect to save up to 500 per month under a three-year savings contract.
+An option is granted by the Company to buy shares at a discount of 20% from market price at the time of the grant.
+At the end of the savings period, the option becomes exercisable for a period of six months.
+Employees who are not paid through the UK payroll may participate in the scheme under similar terms and conditions, albeit without the same tax benefits.
+116 easyJet plc Annual report and accounts 2017 116 easyJet plc Annual report and accounts 2017 ACCOUNTS Share Incentive Plan The plan is open to all employees on the UK payroll.
+Participants may invest up to 1,800 of their pre-tax salary each year to purchase partnership shares in easyJet.
+For each partnership share acquired, easyJet purchases a matching share up to a maximum value of 1,500 per annum.
+Employees must remain with easyJet for three years from the date of purchase of each partnership share in order to qualify for the matching share, and for five years for the shares to be transferred to them tax free.
+The employee is entitled to dividends on shares purchased, and to vote at shareholder meetings.
+Subject to Company performance, easyJet also issues free shares to UK employees under an approved share incentive plan of up to 3,000 per annum in value.
+There is a similar unapproved free shares scheme for international employees.
+The fair value of grants under the Save As You Earn scheme are calculated by applying the Binomial Lattice option pricing model.
+The fair value of grants under the TSR based Long Term Incentive Plan is estimated under the Stochastic model also known as the Monte Carlo model.
+The fair value of grants under all other schemes is the share price on the date of grant.
+Exercise price for the Save As You Earn scheme is set at a 20% discount from the share price at grant date.
+Expected volatility is based on historical volatility over a period comparable to the expected life of each type of option.
+Levels of early exercises and forfeitures are estimated using historical averages.
+The weighted average fair value of matching shares granted under the Share Incentive Plan during the year was 11.23 2016: 15.04.
+For grants under the Save As You Earn scheme, the dividend yield assumption is calculated based on the actual yield at the date of grant.
+For the options granted in 2012 to 2014, the dividend yield assumption was 2% and this increased to 2.75% in 2015, to 3.5% in 2016 and to 4.2% in 2017. www.
+com Note to the accounts continued Notes to the accounts continued 20.
+Reconciliation of operating profit to cash generated from operations 2016 2017 restated million million Operating profit 404 510 Adjustments for non-cash items: Depreciation 181 157 Loss on disposal of property, plant and equipment 4 3 Loss on sale and leaseback 10 Amortisation of intangible assets 14 12 Share-based payments 13 19 Other 2 Changes in working capital and other items of an operating nature: Increase decrease in trade and other receivables 74 8 Increase in trade and other payables 147 44 Increase decrease in unearned revenue 159 51 Increase in provisions 44 44 Decrease increase in other non-current assets 38 3 Increase decrease in derivative financial instruments 22 7 Decrease in non-current deferred income 11 12 Cash generated from operations 949 724 21.
+Reconciliation of net cash flow to movement in net cash Loan issue Loan issue Fair value and 30 costs costs 1 October foreign Net September capitalised amortised cash flow 2016 exchange 2017 million million million million million million Cash and cash equivalents 714 2 1 711 Money market deposits 255 1 363 617 969 3 362 1,328 Eurobond 435 10 8 2 451 870 Bank loans 210 10 220 Finance lease obligations 111 3 7 101 756 3 8 2 224 971 Net cash 213 8 2 138 357 22.
+Financial instruments Carrying value and fair value of financial assets and liabilities The fair values of financial assets and liabilities, together with the carrying value at each reporting date, are as follows: Amortised cost Held at fair value Loans and Financial Fair value Cash flow Carrying Fair 1 2 3 receivables liabilities hedges hedges Other value value At 30 September 2017 million million million million million million million Other non-current assets 72 2 74 74 Trade and other receivables 177 98 275 275 Trade and other payables 613 101 714 714 Derivative financial instruments 61 31 92 92 Restricted cash 7 7 7 Money market deposits 617 617 617 Cash and cash equivalents 711 711 711 1 Eurobonds 870 870 909 Finance lease obligations 101 101 105 118 easyJet plc Annual report and accounts 2017 118 easyJet plc Annual report and accounts 2017 ACCOUNTS Amortised cost Held at fair value Other Loans and Financial Fair value Cash flow Carrying Fair 1 receivables liabilities hedges hedges restated value value At 30 September 2016 million million million million million million million Other non-current assets 102 10 112 112 Trade and other receivables 145 60 205 205 Trade and other payables 468 97 565 565 Derivative financial instruments 61 37 98 98 Restricted cash 7 7 7 Money market deposits 255 255 255 Cash and cash equivalents 714 714 714 1 Eurobond 435 435 453 Bank loans 210 210 210 Finance lease obligations 111 111 117 1 In February 2016, easyJet plc issued a 500 million bond under the 3,000 million Euro Medium Term Note Programme guaranteed by easyJet Airline Company Limited.
+The Eurobond pays an annual fixed coupon of 1.750%.
+At the same time the Group entered into three cross-currency interest rate swaps to convert the entire 500 million fixed rate Eurobond to a Sterling floating rate exposure.
+All three swaps pay floating interest 3 month LIBOR plus a margin quarterly, receive fixed interest annually, and have maturities matching the Eurobond.
+The Group designated all three cross-currency interest rate swaps as a fair value hedge of the interest rate and currency risks on the 500 million Eurobond.
+The swaps are measured at fair value through profit or loss with any gains or losses being taken immediately to the income statement.
+The carrying value of the Eurobond is adjusted for changes in fair value attributable to the risks being hedged.
+This net carrying value differs to the swaps fair value depending on movements in the Groups credit risk and crosscurrency basis.
+The fair value of the Eurobond represents the quoted market price of the Eurobond as at 30 September 2017.
+The carrying value of the fixed rate Eurobond net of the cross-currency interest rate swap at 30 September 2017 was 377 million.
+2 In October 2016 easyJet plc issued a 500 million bond under the 3,000 million Euro Medium Term Note Programme guaranteed by easyJet Airline Company Limited.
+The Eurobond pays an annual fixed coupon of 1.125%.
+Shortly after the issuance of the 500 million bond the Group entered into three cross-currency interest rate swaps to convert the entire 500 million fixed rate Eurobond to a Sterling fixed rate exposure.
+The cross-currency interest rate swaps were executed on 8 November 2016 with settlement and notional exchange occurring on 14 November 2016.
+All three swaps pay fixed interest semiannually, receive fixed interest annually, and have maturities matching the Eurobond.
+The Group designated all three cross-currency interest rate swaps as a cash flow hedge of the currency risk on the 500 million Eurobond.
+The cross-currency interest rate swaps are measured at fair value with the effective portion taken through the statement of comprehensive income.
+The element of the fair value generated by the change in the spot rate is recycled to the income statement from the statement of comprehensive income to offset the revaluation of the Eurobond.
+The carrying value of the fixed rate Eurobond net of the cross-currency interest rate swap at 30 September 2017 was 448 million.
+3 On 21 and 22 September 2017 foreign exchange forward contracts were fide-designated from cash flow hedge relationships when the fair value of these trades was a liability of 4.6 million.
+This amount is held in other comprehensive income to be recycled to the income statement once the hedged item impacts the profit and loss.
+Foreign exchange forward contracts designated at fair value through profit or loss offsetting these derivatives were entered into at the point of fide-designation and as such derivatives held at fair value through profit and loss on the balance sheet total a net liability of 4.6 million as at 30 September 2017, The fair value of the Eurobonds are classified as level 1 of the IFRS 13 Fair Value Measurement fair value hierarchy.
+The remaining financial instruments for which fair value is disclosed in the table above, and derivative financial instruments, are classified as level 2.
+The fair value measurement hierarchy levels have been defined as follows: Level 1, fair value of financial instruments based on quoted prices unadjusted in active markets for identical assets or liabilities.
+Level 2, fair value of financial instruments that are not traded in an active market for example, over the counter derivatives, which are determined using valuation techniques which maximise the use of observable market data and rely as little as possible on entity-specific estimates.
+Level 3, fair value of financial instruments that are not based on observable market data.
+Amounts disclosed in the Other column are items that do not meet the definition of a financial instrument.
+They are disclosed to facilitate reconciliation of the carrying values of financial instruments to line items presented in the statement of financial position.
+Fair value calculation methodology The fair values of derivatives and financial instruments have been determined by reference to observable market prices where the instruments are traded, where available.
+Where market prices are not available, the fair value has been estimated by discounting expected future cash flows at prevailing interest rates and by applying year end exchange rates.
+com Note to the accounts continued Notes to the accounts continued 22.
+Financial instruments continued Fair value of derivative financial instruments Non-current Current Current Non-current Quantity assets assets liabilities liabilities Total At 30 September 2017 million million million million million million Designated as cash flow hedges US dollar 2,537 50 25 29 4 Euro 2,185 2 22 49 5 30 Swiss franc 389 5 3 6 2 South African rand 335 3 1 4 Jet fuel 3 16 55 2 2 67 Cross-currency interest rate swaps 445 8 8 Designated as fair value hedges Cross-currency interest rate swaps 379 61 61 87 131 82 44 92 Non-current Current Current Non-current Quantity assets assets liabilities liabilities Total At 30 September 2016 million million million million million million Designated as cash flow hedges US dollar 2,311 56 152 208 Euro 1,70014107 67 29 25 Swiss franc 356 19 11 30 South African rand 428 3 1 4 Jet fuel 3 20 8 189 9 170 Designated as fair value hedges Cross-currency interest rate swaps 379 61 61 154 268 275 49 98 For foreign currency forward exchange contracts, quantity represents the nominal value of currency contracts held, disclosed in the contract currency.
+The cross-currency interest rate swap contracts are represented at the Sterling notional value.
+For jet fuel forward contracts, quantity represents contracted metric tonnes.
+The majority of hedged foreign exchange and jet fuel transactions are expected to occur on various dates within the next 24 months.
+The foreign exchange and jet fuel contracts are designated as cash flow hedges and the accumulated gains or losses deferred in the hedging reserve will be recognised in the income statement in the periods that the hedged transaction affects the income statement.
+Where the gain or loss is included in the initial amount recognised for the purchase of an aircraft, recognition in the income statement will be over a period of up to 23 years in the form of depreciation of the purchased asset.
+The Group maintains cross-currency interest rate swap contracts on fixed rate debt issuance as part of its approach to currency and interest rate risk management.
+The cross-currency interest rate swap contracts are designated and qualify as either fair value or cash flow hedges to minimise volatility in the income statement.
+The following derivative financial instruments are subject to offsetting, enforceable master netting agreements: Gross Amount Net amount not set off amount At 30 September 2017 million million million Derivative financial instruments Assets 218 99 119 Liabilities 126 99 27 92 92 Gross Amount Net amount not set off amount At 30 September 2016 million million million Derivative financial instruments Assets 422 264 158 Liabilities 324 264 60 98 98 All financial assets and liabilities are presented gross on the face of the statement of financial position as the conditions for netting specified in IAS 32 Financial Instruments Presentation are not met.
+120 easyJet plc Annual report and accounts 2017 120 easyJet plc Annual report and accounts 2017 ACCOUNTS 23.
+Financial risk and capital management easyJet is exposed to financial risks including fluctuations in exchange rates, jet fuel prices and interest rates.
+Financial risk management aims to limit these market risks with selected derivative hedging instruments being used for this purpose.
+easyJets policy is not to trade in derivatives but to use the instruments to hedge anticipated exposure.
+As such, easyJet is not exposed to market risk by using derivatives as any gains and losses arising are offset by the outcome of the underlying exposure being hedged.
+In addition to market risks, easyJet is exposed to credit and liquidity risk.
+The Board is responsible for setting financial risk and capital management policies and objectives which are implemented by the treasury function on a day-to-day basis.
+The policy outlines the approach to risk management and also states the instruments and time periods which the treasury function is authorised to use in managing financial risks.
+The policy is regularly reviewed to ensure best practice, however there have been no significant changes during the current year.
+Capital employed Capital employed comprises shareholders equity, borrowings, cash and money market deposits excluding restricted cash and an adjustment for the capital implicit in aircraft operating lease arrangements.
+The adjustment is calculated by multiplying the annual charge for aircraft dry leasing by a factor of seven, in line with accepted practice for the airline industry.
+Normalised operating profit is adjusted for the implied interest incorporated in the charge for aircraft dry leasing.
+Consequently, the capital employed at the end of the current and prior year and the return earned during those years were as follows: 2017 2016 restated million million Shareholders equity 2,802 2,694 Borrowings 971 756 Cash and money market deposits excluding restricted cash 1,328 969 Reported capital employed 2,445 2,481 Operating lease adjustment 770 637 Capital employed including operating lease adjustment 3,215 3,118 Headline operating profit reported 428 504 Implied interest in operating lease costs 37 30 Headline operating profit adjusted 465 534 Headline operating profit after tax adjusted 376 427 Headline return on capital employed 11.9% 15.0% Total return on capital employed 11.3% 15.2% Return on capital employed is calculated by dividing the adjusted operating profit after tax by the average of the opening and closing capital employed, including the operating lease adjustment.
+The percentage of operating leased aircraft at 30 September 2017 was 26% 2016: 25%.
+Capital management The objective of capital management is to ensure that easyJet is able to continue as a going concern whilst delivering shareholder expectations of a strong capital base as well as returning benefits for other stakeholders.
+easyJet manages its capital structure in response to changes in both economic conditions and strategic objectives.
+The cash and net debt position, together with the maturity profile of existing debt, is monitored to ensure the continuity of funding.
+On 30 September 2017, easyJet held long-term corporate credit ratings from both Standard & Poors BBB and Moodys Baa1.
+In February 2016, easyJet plc issued notes under the 3,000 million Euro Medium Term Programme guaranteed by easyJet Airline Company Limited, amounting to 500 million for a seven-year term with a fixed annual coupon rate of 1.750%.
+At the same time easyJet Airline Company Limited entered into three cross-currency interest rate swaps converting the 500 million notes issued at a fixed rate of 1.750% to 379 million at a floating rate of three month LIBOR plus a margin, with principal exchanges of 500 million and 379 million at inception and maturity of the bond.
+In October 2016, easyJet plc issued notes under the 3,000 million Euro Medium Term Programme guaranteed by easyJet Airline Company Limited, amounting to 500 million for a seven-year term with a fixed annual coupon rate of 1.125%.
+Subsequent to the issuance of the 500 million fixed rate notes, easyJet Airline Company Limited entered into three cross-currency interest rate swaps converting the 500 million notes issued at a fixed rate of 1.125% to 455 million at a fixed rate paid semi-annually, with principal exchanges of 500 million and 445 million on 14 November 2016 and maturity of the bond.
+com Note to the accounts continued Notes to the accounts continued 23.
+Financial risk and capital management continued Liquidity risk management The objective of easyJets liquidity risk management is to ensure sufficient cash is available to meet future liabilities as they fall due.
+easyJet continues to hold significant cash and liquid funds to mitigate the impact of potential business disruption events.
+easyJet also has a $500 million revolving credit facility supported by a group of 12 banks.
+The revolving credit facility was agreed on 10 February 2015 and was undrawn at 30 September 2017. easyJet has a target minimum liquidity requirement of a minimum of 2.6 million per 100 seats in the fleet and the revolving credit facility is taken into account when managing this metric.
+Total cash excluding restricted cash and money market deposits at 30 September 2017 was 1,328 million 2016: 969 million.
+Surplus funds are invested in high quality short-term liquid instruments, mainly money market funds, bank deposits and tri-party repos.
+The maturity profile of financial liabilities based on undiscounted cash flows and contractual maturities is as follows: Within 1 year 1-2 years 2-5 years Over 5 years At 30 September 2017 million million million million Borrowings 25 25 127 899 Trade and other payables 613 Foreign exchange and jet derivative contracts receipts 2,969 1,096 66 Foreign exchange and jet derivative contracts payments 2,973 1,105 62 Cross-currency swap contracts receipts 13 13 38 899 Cross-currency swap contracts payments 20 20 60 845 Within 1 year 1-2 years 2-5 years Over 5 years At 30 September 2016 million million million million Borrowings 106 88 186 443 Trade and other payables 468 Foreign exchange and jet derivative contracts receipts 2,384 1,123 61 Foreign exchange and jet derivative contracts payments 2,394 1,086 54 Cross-currency swap contracts receipts 8 8 23 443 Cross-currency swap contracts payments 10 10 31 394 The maturity profile has been calculated based on spot rates for the US dollar, Euro, Swiss franc, South African rand and jet fuel at close of business on 30 September each year.
+Credit risk management easyJet is exposed to credit risk arising from cash and money market deposits, derivative financial instruments and trade and other receivables.
+Credit risk management aims to reduce the risk of default by setting limits on credit exposure to counterparties based on their respective credit ratings.
+Credit ratings also determine the maximum period of investment when placing funds on deposit.
+Credit risk is limited to the carrying amount in the statement of financial position at each year end.
+Counterparties for cash investments, currency forward contracts, cross-currency interest rate swap contracts, foreign currency swap contracts and jet fuel forward contracts are required to have a long-term credit rating of Aor better at contract inception.
+Exposures to these counterparties are regularly reviewed and, if the long-term credit rating falls below Amanagement will take remedial action.
+Disclosure relating to the credit quality of trade and other receivables is given in note 12.
+Foreign currency risk management The majority of easyJets exposure to currency arises from fluctuations in the US dollar, Euro and Swiss franc exchange rates which can significantly impact easyJets financial results and cash flows.
+The aim of the foreign currency risk management is to reduce the impact of these exchange rate fluctuations.
+Significant currency exposures in the income statement are managed through the use of currency forward contracts, in line with the Board approved policy.
+The policy states that easyJet hedges between 65% and 85% of the next 12 months forecast surplus cash flows on a rolling basis, and between 45% and 65% of the following 12 months forecast surplus cash flows on a rolling basis.
+Significant currency exposures relating to the acquisition cost or sale proceeds of aircraft is also managed through the use of currency forward contracts where up to 90% of the next 24 months committed forecast requirement is hedged.
+In addition, easyJet has substantial borrowings and other liabilities denominated in US dollars and Euros, which are largely offset by holding US dollar and Euro cash and money market deposits.
+Significant currency exposures relating to foreign currency denominated debt issuances are managed through the use of cross-currency interest rate swap contracts, where deemed appropriate.
+These hedges are designated as either fair value hedges or cash flow hedges.
+Management may take action to hedge other currency exposures as deemed appropriate.
+Financing and interest rate risk management Interest rate cash flow risk arises on floating rate borrowings and cash investments.
+122 easyJet plc Annual report and accounts 2017 122 easyJet plc Annual report and accounts 2017 ACCOUNTS Interest rate risk management policy aims to provide certainty in a proportion of financing while retaining the opportunity to benefit from interest rate reductions.
+Borrowings are issued at either fixed or floating interest rates repricing every three to six months.
+A significant proportion of the US dollar debt liabilities are matched with US dollar cash assets by value.
+Operating leases are a mix of fixed and floating rates.
+Of the 72 operating leases in place at 30 September 2017 2016: 63, 79% were based on fixed interest rates and 21% were based on floating interest rates 2016: 73% fixed, 27% floating.
+On 7 January 2016 easyJet plc published a 3,000 million European Medium Term Note Programme.
+Under this programme, in February 2016 easyJet plc issued notes amounting to 500 million for a seven-year term with a fixed annual coupon rate of 1.750%.
+In October 2016 easyJet plc issued a second Eurobond under this program, amounting to 500 million for a seven-year term with a fixed annual coupon of 1.125%.
+The proceeds from these issuances were used for general corporate purposes.
+Fuel price risk management easyJet is exposed to fuel price risk.
+The objective of the fuel price risk management policy is to provide protection against sudden and significant increases in jet fuel prices, thus mitigating volatility in the income statement in the short-term.
+In order to manage the risk exposure, forward contracts are used in line with Board approved policy to hedge between 65% and 85% of estimated exposures up to 12 months in advance, which is hedged on a rolling basis, and to hedge between 45% and 65% of estimated exposures from 13 up to 24 months in advance, which is hedged on a rolling basis.
+Specific decisions may require consideration of a longer-term approach.
+Treasury strategies and actions are driven by the need to meet treasury, financial and corporate objectives.
+Market risk sensitivity analysis Financial assets and liabilities affected by market risk include borrowings, deposits, trade and other receivables, trade and other payables and derivative financial instruments.
+The following analysis illustrates the sensitivity of changes in relevant foreign exchange rates, interest rates and fuel prices.
+It should be noted that the analysis reflects the impact on profit or loss after tax for the year and other comprehensive income on financial instruments in a cash flow hedge relationship held at the reporting date.
+The sensitivities are calculated based on all other variables remaining constant.
+The analysis is considered representative of easyJets exposure over the next 12-month period.
+The sensitivity analysis is based on easyJets financial assets and liabilities and financial instruments held as at 30 September 2017.
+The currency exchange rate analysis assumes a -10% change in both US dollar and Euro exchange rates.
+The interest rate analysis assumes a 1% increase in interest rates over the next 12 months.
+The fuel price analysis assumes a 10% increase in fuel price over the next 12 months.
+Currency rates US dollar US dollar Euro Euro Interest rates Fuel price 10% 1 2 1 2 10% -10% 10% -10% 1% increase increase At 30 September 2017 million million million million million million Income statement impact: gain loss 25 21 3 3 7 Impact on other comprehensive income: increase decrease 128 105 40 32 98 Currency rates US dollar US dollar Euro Euro Interest rates Fuel price 10% 1 2 1 2 10% -10% 10% -10% 1% increase increase At 30 September 2016 million million million million million million Income statement impact: gain loss 25 21 5 4 3 Impact on other comprehensive income: increase decrease 139 113 83 1 GBP weakened.
+The market risk sensitivity analysis has been calculated based on spot rates for the US dollar, Euro and jet fuel at close of business on 30 September each year.
+com Note to the accounts continued Notes to the accounts continued 24.
+Leasing commitments Commitments under operating leases Aircraft Other 2017 2016 2017 2016 million million million million Total commitments under non-cancellable operating leases due: Not later than one year 109 110 3 2 Later than one year and not later than five years 229 223 8 6 Later than five years 1 11 2 2 339 344 13 10 easyJet holds 72 aircraft 2016: 63 aircraft under operating leases, with initial lease terms ranging from five to sixteen years.
+easyJet is contractually obliged to carry out maintenance on these aircraft, and the cost of this is provided based on the number of flying hours and cycles operated.
+Further details are given in the significant accounting policies section of note 1.
+Commitments under finance leases 2017 2016 million million Present value of minimum lease payments fall due as follows: Not later than one year 12 12 Later than one year and not later than five years 100 114 112 126 Future finance charges 11 15 101 111 easyJet holds five aircraft 2016: five aircraft under finance leases with ten year initial terms.
+Further details are given in notes 10 and 15.
+Contingent liabilities easyJet is involved in a number of disputes and litigation which arose in the normal course of business.
+The likely outcome of these disputes and litigation cannot be predicted, and in complex cases reliable estimates of any potential obligation may not be possible.
+Having reviewed the information currently available, management considers that the ultimate resolution of these disputes and litigation is unlikely to have a material adverse effect on easyJets results, cash flows or financial position.
+As at 30 September 2017 easyJet had agreements with third parties for which fees were contingent upon the completion of acquisition activities totalling 4 million 2016: nil.
+At 30 September 2017 easyJet had outstanding letters of credit and performance bonds totalling 44 million 2016: 49 million, of which 21 million 2016: 38 million expires within one year.
+The fair value of these instruments at each year end was negligible.
+No amount is recognised on the statement of financial position in respect of any of these financial instruments as it is not probable that there will be an outflow of resources.
+Geographical revenue analysis 2017 2016 million million United Kingdom 2,257 2,243 Southern Europe 1,568 1,376 Northern Europe 1,148 984 Other 74 66 5,047 4,669 Southern Europe comprises countries lying wholly or mainly south of the border between Italy and Switzerland, plus France.
+easyJets non-current assets principally comprise its fleet of 202 owned and five finance leased aircraft.
+A further 72 aircraft are held under operating leases, giving a total fleet of 279 at 30 September 2017.
+24 aircraft 2016: 23 are registered in Switzerland, one is registered in Austria and the remaining 254 are registered in the United Kingdom.
+124 easyJet plc Annual report and accounts 2017 124 easyJet plc Annual report and accounts 2017 ACCOUNTS 27.
+Related party transactions easyJet licenses the easyJet brand from easyGroup Limited easyGroup, a wholly owned subsidiary of easyGroup Holdings Limited, an entity in which easyJets founder, Sir Stelios Haji-Ioannou, holds a beneficial controlling interest.
+The Haji-Ioannou family concert party shareholding being easyGroup Holdings Limited and Polys Holding Limited holds, in total, approximately 33% of the issued share capital of easyJet plc as at 30 September 2017.
+Under the Amended Brand Licence signed in October 2010 and approved by the shareholders of easyJet plc in December 2010, an annual royalty of 0.25% of total revenue is payable by easyJet to easyGroup for a minimum term of 10 years.
+The full term of the agreement is 50 years.
+easyJet and easyGroup established a fund to meet the annual costs of protecting the easy and related marks and the easyJet brands.
+easyJet contributes up to 1 million per annum to this fund and easyGroup contributes 100,000 per annum.
+Beyond the first 1.1 million of costs, easyJet can commit up to an aggregate 5.5 million annually to meet brand protection costs, with easyGroup continuing to meet its share of costs on a 10:1 ratio.
+easyJet must meet 100% of any brand protection costs it wishes to incur above this limit.
+A side letter to the Brand Licence was entered with easyGroup, dated 29 September 2016, under which, in return for easyGroup consenting to easyJet acquiring a portion of the equity share capital in Founders Factory Limited, easyJet made a payment of 1.
+The amounts included in the income statement, within other costs, for these items were as follows: 2017 2016 million million Annual royalty 13 12 Brand protection legal fees paid through easyGroup to third parties 1 1 14 13 At 30 September 2017, 1 million 2016: nil million of the above aggregate amount was included in trade and other payables.
+Events after the reporting period On 27 October easyJet signed an agreement with Air Berlins administrators, as part of which it will enter into leases for up to 25 A320 aircraft at Berlin Tegel airport, offer employment to former Air Berlin flying crews and take over other assets including slots for a purchase consideration of 40 million.
+Completion of the transaction is subject to regulatory approvals and the transaction is expected to close in December 2017. easyJet completed the sale and leaseback of 10 A319 aircraft in November 2017.
+Cash proceeds were $137 million: due to the age of the selected aircraft at the time of this transaction and easyJets maintenance provision accounting policy, a one-off, non-cash charge of approximately 20 million of which 12 million relates to the loss on disposal and 8 million relates to the maintenance provision catch-up will be recognised in the first half of the 2018 financial year as a non-headline item.

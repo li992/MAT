@@ -1,0 +1,44 @@
+ARM holdings plc Annual Report & Accounts 2012 ARM We benefit fROM lOng-teRM gROWth MARkets fROM MObile phOnes tO cOMputeRs And sMARt sensORs tO eneRgy-efficient seRveRs.
+OuR technOlOgy is cOnnecting the WORld tOgetheR, WheRe eveRy electROnic device cAn cOMMunicAte With AnOtheR.
+In this section Where the market isnow Read more on page 9 Where the market isheading Read more on page 10 8 Overview Our marketplace Strategy and Our partnership Our commitment Financials and risk Governance Financial statements performance approach WheRe the MARket isnOW The semiconductor industry develops computer chips that control all of the worlds electronic devices.
+PCs, mobile phones and even modern washing machines have some form of computer chip providing their intelligence.
+eachgeneration ofchipis smarter than its predecessor, enabling more capable and more efficient consumer and embedded products.
+Overview of a semiconductor disaggregated industry Where ARM fits within the industry A semiconductor, or silicon chip is the The semiconductor industry has disaggregated ARM is the global leader in the design of electronic controller that manages many into specialist companies that focus on each semiconductor IP components that form some ofthedigital devices that we use every day.
+stage in the creation, design and manufacture of the critical elements within System-on-Chip Computers, mobile phones, televisions, of a silicon chip see diagram below.
+ARM is best known for its family of washing machines and cars all can contain allows each company to invest and innovate processor designs that are used in a range of many silicon chips.
+Also many enterprise inan area where they can add the most applications from mobile phones to car andindustrial applications are made smarter expertise in the value chain.
+and more efficient by silicon chips, from Some companies specialise in designing the There are a handful of other IP component sensors toservers.
+chip: other companies specialise in designing designers that mainly specialise in In 2012, about 650 billion silicon chips were critical IP components within the design: complementary areas.
+Their IP can often manufactured.
+Of these about 27 billion others in building the tools needed to befound alongside an ARM processor in contained a processor.
+The processor is the manufacture the chips: others in the chip thesame chip design.
+brain of the chip, and controls not just the fabrication: and others in developing ARM works closely with the semiconductor operation of the chip, but also the operation software, such as operating systems and apps.
+ecosystem to ensure that its technology works ofthe product that chip goes into.
+All of these companies work closely well with other companies products, and that togetherasasingle ecosystem of partners.
+ARM processor designs were in about asilicon chip designer can quickly build a Each collaborates with the others as if they 8.7billion chips, a 32% market share.
+low-power and high-performance chip, and were asingleorganisation.
+Theremaining market share mainly consists anOEM can create complex programs using ofour customers own processor designs.
+In 2012, there were over 1,000 companies acombination of third-party and in-house ARM gains share when our customers inARMs Connected Community.
+ARMshares knowledge, experience and As silicon chip designs become more complex innovations withthese companies, enabling it is expected that the semiconductor industry greater collaboration.
+will continue to license semiconductor IP.
+Asthe global leader, ARM is well-positioned tobenefit from this trend.
+Our disaggregated industry 1,000,000,000s 100s of chip 1,000s of consumers design companies of OEMs 10 1,000s of 10 IP 10 Tools 10 1,000s of Operating service specialists providers Fabricators application developers Systems providers 9 ARM Holdings plc Annual Report & Accounts 2012 Mobile computing in 2017 WheRe the MARket 3 billion isheAding Analysts forecast that the market for mobile computers, including smartphones and Trends within the semiconductor industry and its tablets, will nearly double over the next five  new opportunities and new years, to about 3 billion devices.
+Mobile computing connecting us internet of things connecting billions efficient networking moving more toeach other, and our data of smart sensors data, without using more energy Mobile phones have been getting smarter Advances in manufacturing technology are With mobile computing connecting us to each andmore capable.
+No longer just connecting enabling the creation of new low-cost smart other, and increased machine-to-machine us viatelephone calls and text messages, sensors.
+These devices usually combine three communications between smart sensors, it smartphones can now send email, browse main elements: isforecasted that internet traffic will increase theinternet and allow us to engage with 1 8fold between 2011 and 2016.
+AsIT and ourfriends on social networking sites.
+communications equipment is already using an one or more environmental sensors Meanwhile PCs have been getting smaller increasing proportion of the worlds energy, temperature, pressure, yaw, pitch etc.
+: andlighter, with a longer battery life, and suchan increase is not sustainable.
+a smart computer to process the data better connectivity.
+The mobile phone Network operators and data centre gathered by the sensor: and andPCmarkets are converging, enabling managersare now looking for lower power ustoconnect more easily to each other, a wireless radio to connect the smart sensor technology to better transport, distribute, andto our personal and workplace data.
+analyse and store data across the internet.
+Thisconvergence is bringing new Thisis leading to increased levels of opportunities and threats for theindustry.
+experimentation and innovation as companies Data gathered from these sensors can then In October 2012 Microsoft launched their try to cope with increased demand for data becollated anywhere in the world enabling Windows 8 operating system.
+Previous throughput, without having to increase the remote monitoring of the sensors such as: versions of this operating system were energy required.
+targeted at the PC market and only supported industrial automation where factory ARM technology-based System-on-Chip the x86 architecture.
+Microsoft Windows 8 equipment in a region can be monitored designs are well placed to provide lower extended the market for their Operating from a head office power options for enterprise applications Systemto include other consumer electronics suchas servers and networking equipment.
+such as tablets and digital TVs, and also home automation where appliances in included support for chips based on the the home can be monitored and controlled Read more on page 32 ARMarchitecture.
+by the home owner wherever they are This enables ARM-based chips to enter the Collectively these technologies are referred PCmarket, including laptops and desktop toas the Internet of Things.
+These smart PCs, but also enables companies making chips sensors need to be very low-cost the chips for PCs to more effectively compete in the within them often cost less than $1 but they mobile market.
+could be deployed in very high volume.
+Read more on page 24 Read more on page 28 Cisco Visual Networking Index Feb 2012.

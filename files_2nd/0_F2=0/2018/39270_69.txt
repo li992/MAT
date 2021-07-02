@@ -1,0 +1,38 @@
+142 Notes to the Financial Statements C4.
+Other investments Other investments held at year end mainly comprised term deposits maturing in more than three months from the date that the deposit was placed.
+The weighted average effective interest rate earned is 0.0% 2017: 0.0% and the weighted average rate was fixed for one year 2017: one year.
+Financial assets are denominated in the following currencies: 2018 2017 m m Pounds sterling 2.4 1 Other 0.3 0.7 2.7 0.7 Analysed as follows: Current portion 2.5 0.5 Non-current portion 0.2 0.2 2.7 0.7 1.
+Includes an investment of 0.1m 2017: 0.2m in development funds by an entity in South Africa.
+The investment is classified as available for sale.
+None of the financial assets are either past due or impaired in 2018.
+Derivative financial instruments Accounting for derivative financial instruments and hedging activities Derivatives are initially recognised at fair value on the date a derivative contract is entered into and are subsequently re-measured at their fair value at the balance sheet date.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument and, if so, the nature of the item being hedged.
+At the inception of the transaction the Group documents the relationship between hedging instruments and hedged items, as well as its risk management objective and strategy for undertaking various hedge transactions.
+The Group also documents its assessment, both at hedge inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are effective in offsetting changes in fair values of hedged items.
+Certain financial instruments are not designated or do not qualify for hedge accounting.
+Typically the Group will not designate financial instruments for hedge accounting where a perfect or near perfect offset is expected between the change in value of assets and liabilities.
+Changes in the fair value of any derivative instruments in this category are immediately recognised in the incomestatement.
+Where financial instruments are designated for hedge accounting they are designated as either fair value hedge, net investment hedge or cash flow hedge.
+When designating cross currency swaps, the cost of hedging has been excluded from the relationship and any movement in the fair value related to the cost of hedging is deferred in equity and amortised over the life of the hedged item.
+a Fair value hedge These instruments are used to hedge exposure to changes in the fair value of recognised assets or liabilities.
+Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recognised in the income statement, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+b Net investment hedge These instruments are used to hedge exposure on translation of net investments in foreign operations.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in other comprehensive income: the gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+In the event of disposal of a foreign operation, the gains and losses accumulated in other comprehensive income are recognised in the income statement.
+c Cash flow hedge These instruments are used to hedge a highly probable forecast transaction or a change in the cash flows of a recognised asset or liability.
+The portion of the gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in other comprehensive income.
+Any ineffective portion is immediately recognised in the income statement.
+The gains or losses that are recognised in comprehensive income are transferred to the income statement in the same period in which the hedged cash flows affect the income statement.
+In the event the hedged item occurs or is no longer expected to occur, accumulated gains or losses held in the cash flow hedge reserve are immediately recognised in the income statement.
+In the event the hedged item is expected to occur but no longer meets the requirements of hedge accounting, accumulated gains or losses remain in other comprehensive income and are only recognised in the income statement when the forecast transaction occurs or is no longer expected to occur.
+Cash flow hedge accounting has been applied to derivatives marked as cash flow hedge in the table on page 143 in accordance with IFRS 9.
+Where no hedge accounting has been applied, related derivatives have been marked as non-hedge.
+Any ineffectiveness on the cash flow hedge is taken directly to finance costs.
+There was no ineffectiveness to be recorded from net investment in foreign entity hedges or those derivatives in a cash flow hedge relationship.
+Cash flow hedge accounting has been applied to 54.4m of the 500m 2019 bond, hedging the changes in cash flow due to volatility in the GBP EUR exchange rate.
+Cash flow hedge has also been applied to the floating interest of the $50m term loan maturing in 2020 that has been swapped to a fixed rate.
+At the end of the year, the amount in comprehensive income related to cash flow hedge accounting was a gain of 9.5m 2017: 2.6m loss.
+Rentokil Initial plc Annual Report 2018 Strategic Report Corporate Governance Financial Statements Additional Information 143 Notes to the Financial Statements Fair value estimation All financial instruments held at fair value are classified by reference to the source of inputs used to derive the fair value.
+The following hierarchy is used: Level 1 unadjusted quoted prices in active markets for identical assets or liabilities: Level 2 inputs other than quoted prices that are observable for the asset or liability, either directly as prices or indirectly through modelling based on prices: Level 3 inputs for the asset or liability that are not based on observable market data.
+The Group uses the following methods to estimate fair value of its financial instruments: Hierarchy Financial instrument level Valuation method Financial assets traded in active markets 1 Current bid price Financial liabilities traded in active markets 1 Current ask price Long-term debt 1 Quoted market prices Liquidity fund 1 Quoted market prices or dealer quotes for similar instruments Interest rate currency swaps 2 Market swap rates at the balance sheet date Forward foreign exchange contracts 2 Forward exchange market rates at the balance sheet date Borrowings not traded in active markets 2 Cash flows discounted at current market rates Financial instruments not traded in active markets 2 or 3 Valuation assumptions based on market conditions at the balance sheet date Trade payables and receivables 3 Nominal value less estimated credit adjustments Other financial instruments 3 Variety of techniques including discounted cash flows Fair value Fair value Fair value Fair value assets liabilities assets liabilities 2018 2018 2017 2017 m m m m Interest rate swaps: non-hedge 4.5 16.9 4.6 cash flow hedge 4.9 4.9 12.2 net investment hedge 14.2 14.1 9.9 fair value hedge 5.0 Foreign exchange swaps: non-hedge 0.2 1.1 0.1 0.2 net investment hedge 0.6 Foreign exchange forwards: non-hedge 0.3 9.6 32.2 20.0 31.9 Analysed as follows: Current portion 4.2 15.8 6.3 5.3 Non-current portion 5.4 16.4 13.7 26.6 9.6 32.2 20.0 31.9 The effective nominal value of foreign exchange swaps is 30.0m 2017: 12.1m and foreign exchange forwards is 2.3m 2017: 48.2m.
+Rentokil Initial plc Annual Report 2018

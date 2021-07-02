@@ -1,0 +1,43 @@
+Financial statements Company significant accounting policies As at 31 March 2011 All the Groups derivatives are initially and in subsequent periods Basis of preparation recognised in the Balance Sheet at fair value.
+Changes in the fair value The Company accounts have been prepared under the historical of derivative financial instruments that do not qualify for cash flow cost convention, modified to include revaluation to fair value of or net investment hedge accounting are recognised in the Profit and certain financial instruments as described below and in accordance Loss Account as they arise.
+with UK Company Law and UK Generally Accepted Accounting Practice UK GAAP.
+Cash flow hedge accounting The Group accounts have been prepared in accordance with International Where a derivative financial instrument is designated as a hedge of Financial Reporting Standards as adopted by the European Union and the variability in cash flows of a recognised asset or liability, or a highly are presented on pages 54 to 89. probable forecast transaction, the effective part of any gain or loss on the derivative financial instrument is recognised directly in equity.
+Under section 408 of the Companies Act 2006 the Company is exempt The ineffective part of any gain or loss is recognised immediately from the requirement to present its own Profit and Loss Account.
+in the Profit and Loss Account.
+When the forecast transaction Under Financial Reporting Standard 29, the Company is exempt subsequently results in the recognition of a non-financial asset or from the disclosure requirements of FRS 29 Financial Instruments: liability the associated cumulative gain or loss is removed from equity Disclosures on the grounds that the parent undertaking, and included in the initial cost of the non-financial asset or liability.
+Electrocomponents plc, includes the Company in its own published When the forecast transaction subsequently results in the recognition consolidated accounts.
+Disclosures are provided in note 20 under of a financial asset or liability, the associated cumulative gain or loss IFRS 7 Financial Instruments: Disclosures which comply with that was recognised directly in equity is reclassified into the Profit the disclosure requirements of FRS 29. and Loss Account in the same period during which the asset acquired or liability assumed affects profit or loss.
+The following paragraphs describe the main accounting policies under UK GAAP, which have been applied consistently.
+When a hedging instrument expires or is sold, terminated or exercised, or the entity revokes designation of the hedge relationship but the Investments in subsidiary undertakings hedged forecast transaction is still expected to occur, the cumulative Investments in subsidiary undertakings including long-term loans are gain or loss at that point remains in equity and is recognised in included in the Balance Sheet of the Company at the lower of cost accordance with the above policy when the transaction occurs.
+If the and the expected recoverable amount.
+Any impairment is recognised hedged transaction is no longer expected to take place, the cumulative in the Profit and Loss Account.
+unrealised gain or loss recognised in equity is recognised immediately Translation of foreign currencies in the Profit and Loss Account.
+Transactions in foreign currencies are recorded using the rate of The fair value of forward foreign exchange contracts is the difference exchange ruling at the date of the transaction.
+Monetary assets and between their discounted contractual forward price and their current liabilities denominated in foreign currencies are translated using the forward price.
+rate of exchange ruling at the balance sheet date and the gains and losses on translation are included in the Profit and Loss Account.
+Fair value hedge accounting The Company uses derivative financial instruments to hedge exposure Financial instruments to interest rate risks arising from financing activities, holding interest Derivative financial instruments rate swaps which swap certain fixed rate loans into floating rate.
+The Company uses derivative financial instruments to hedge its exposure to foreign exchange and interest rate risks arising from The fair value of the interest rate swaps is the market value of the swap operational and financing activities.
+It principally employs forward at the balance sheet date, taking into account current interest rates.
+foreign exchange contracts to hedge against changes in exchange rates over the catalogue periods of the majority of its operating Pension costs companies.
+In addition, there are also interest rate swaps which The Company participates in Group operated defined contribution swap certain fixed rate loans into floating rate.
+and defined benefit pension schemes.
+The assets of the schemes are held separately from those of the Company in independently In accordance with its treasury policies, the Company does not hold administered funds.
+or issue derivative financial instruments for trading purposes.
+As allowed by FRS 17 Retirement Benefits, the Company is unable Certain derivative financial instruments are designated as hedges to identify its share of the defined benefit schemes underlying assets in line with the Companys risk management policies.
+Hedges are and liabilities and therefore accounts for it as though it was a defined classified as follows: contribution pension scheme.
+The deficit of the scheme is included Cash flow hedges when they hedge the exposure to variability in within the accounts of RS Components Limited.
+cash flows that is attributable to a particular risk associated with a forecast transaction.
+Fair value hedges when they hedge the exposure to changes in the fair value of a recognised asset or liability.
+Electrocomponents plc | Annual Report and Accounts 2011 91 Company significant accounting policies continued Share-based payments The Company operates several share-based payment schemes, the largest of which are the Savings Related Share Option Scheme SAYE, the Long Term Incentive Option Plan LTIOP, the Long Term Incentive Plan LTIP.
+The fair value of options granted is recognised as an employee expense with a corresponding increase in equity and spread over the period during which employees become unconditionally entitled to the options.
+The fair values are calculated using an appropriate option pricing model.
+The Profit and Loss Account charge is then adjusted to reflect expected and actual levels of vesting based on non-market performance related criteria.
+All Profit and Loss Account charges relating to options held by members of other Group companies are charged to the appropriate Group company.
+The Company has chosen to adopt the exemption whereby FRS 20, Share-Based Payments, is applied only to awards made after 7 November 2002.
+Depreciation No depreciation has been charged on freehold land.
+Other assets have been depreciated to residual value, on a straight-line basis at the following annual rates: Freehold buildings 2% Warehouse systems 10%-20% Plant and equipment 10%-20% Mainframe computer equipment 20% Network computer equipment 33% Portable computers 50% Other office equipment 20% Taxation The charge for taxation is based on the profit for the year and takes into account taxation deferred because of timing differences.
+Deferred tax is recognised, without discounting, in respect of all timing differences between the treatment of certain items for taxation and accounting purposes.
+Leases Operating lease rentals are charged to the Profit and Loss Account on a straight-line basis over the course of the lease period.
+The benefits of rent free periods and similar incentives are credited to the Profit and Loss Account on a straight-line basis over the period up to the date on which the lease rentals are adjusted to the prevailing market rate.
+Own shares held The Companys own shares held by the Electrocomponents Employee Trust are deducted from shareholders funds until they vest unconditionally with employees as required by UITF 38: Accounting for ESOP Trusts.
+92 Electrocomponents plc | Annual Report and Accounts 2011

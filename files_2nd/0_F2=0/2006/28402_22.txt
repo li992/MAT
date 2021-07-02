@@ -1,0 +1,150 @@
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 74 74 Provident Financial plc Annual Report & Financial Statements 2006 Accounting policies Basis of preparation The financial statements are prepared in accordance with International Financial Reporting Standards IFRS adopted for use in the European Union EU, IFRIC interpretations and the Companies Act 1985 applicable to companies reporting under IFRS.
+At the date of authorisation of these financial statements, the following Standards and Interpretations which have not been applied in these financial statements were in issue but not yet effective: IFRS 7 Financial Instruments: Disclosures and the related amendment to IAS 1 on capital disclosures IFRIC 7 Applying the Restatement Approach under IAS 29 Financial Reporting in Hyperinflationary Economies IFRIC 8 Scope of IFRS 2 IFRIC 9 Re-assessment of Embedded Derivatives IFRIC 10 Interim Financial Reporting and Impairment IFRIC 12 Service Concession Arrangements All of these standards and interpretations have been endorsed by the EU.
+The adoption of IFRS 7 is not anticipated to have a material effect on the financial statements of the group or company except for additional disclosures on capital and financial instruments when the standard comes into effect for periods commencing on or after 1 January 2007.
+All other standards and interpretations listed above are not expected to have a material impact on the financial statements of the group or company.
+The company has elected to early adopt IFRIC 11 IFRS 2 Group and Treasury Share Transactions in order to coincide with the adoption of FRS 20 Share-based Payment in the UK GAAP financial statements of its subsidiary undertakings.
+Further detail of the impact of adopting IFRIC 11 on the company is provided in note 12.
+There is no impact on the group financial statements of the adoption of IFRIC 11.
+The financial statements have been prepared on a going concern basis under the historical cost convention, as modified by the revaluation of derivative financial instruments to fair value.
+The group and companys principal accounting policies under IFRS are as follows: Basis of consolidation The consolidated income statement, balance sheet and cashflow statement include the financial statements of the company and its subsidiary undertakings drawn up from the date control passes to the group until the date control ceases.
+Control is assumed to exist where more than 50% of the voting share capital is owned or where the group controls another entity either through the power to: govern the operating and financial policies of that entity: appoint or remove the majority of the members of the board of that entity: or cast the majority of the votes at a board meeting of that entity.
+All intra-group transactions, balances and unrealised gains on transactions between group companies are eliminated on consolidation.
+Revenue Revenue, which excludes value added tax and intra-group transactions, comprises revenue earned for the home credit businesses: premiums written for the motor insurance underwriting business: interest and fee income earned by Vanquis Bank: and revenue earned by Yes Car Credit on the sale of motor vehicles and associated finance and insurance contracts.
+Revenue recognition In the home credit business, the service charge on a home credit loan is fixed.
+The charge does not increase if customers take longer than the contracted period to repay the loan and there are no penalty or default interest charges.
+In accordance with IAS 39, the service charge is accounted for as interest income.
+Revenue on customer receivables is recognised using an effective interest rate EIR.
+The EIR is calculated using estimated cash flows, being contractual payments adjusted for the impact of customers repaying early but excluding the anticipated impact of customers paying late or not paying at all.
+Directly attributable incremental issue costs are also taken into account in calculating the EIR.
+Interest income continues to be accrued on impaired receivables using the original EIR applied to the loans carrying value.
+In respect of the motor insurance underwriting business, credit is taken to the income statement for premium income, net of commissions paid to intermediaries, over the life of the policy on a straight line time apportioned method.
+In respect of the credit card business of Vanquis Bank, interest is calculated on credit card advances to customers using the EIR on the daily balance outstanding.
+Annual fees charged to customers credit card accounts are recognised as part of the EIR.
+Penalty charges and other fees are recognised at the time the charges are made to customers on the basis that performance is complete.
+In the car finance business of Yes Car Credit, revenue from the sale of the motor vehicle is recognised in the income statement when the vehicle is sold.
+Finance income and insurance commission, which are treated as part of the yield on the financing arrangement, are recognised using the EIR method.
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 75 Provident Financial plc 75 Annual Report & Financial Statements 2006 Accounting policies continued Finance income and finance costs Finance income comprises the return generated on cash and cash equivalents and is recognised on an EIR basis.
+Finance costs comprise the interest on external borrowings and are recognised on an EIR basis.
+Amounts receivable from customers All customer receivables are initially recognised at the amount loaned to the customer less directly attributable incremental issue costs.
+After initial recognition, customer receivables are subsequently measured at amortised cost.
+Amortised cost is the amount of the customer receivable at initial recognition less customer repayments, plus revenue earned calculated using the EIR, less any deduction for impairment.
+All customer receivables are assessed for impairment at each balance sheet date.
+Customer accounts that are in arrears are deemed to have demonstrated evidence of impairment and are subject to a detailed impairment review.
+Impairment is calculated by estimating the future cash flows from each portfolio of similar loans, discounting these to a present value using the original EIR and comparing this figure with the balance sheet value.
+All such impairments are charged to the income statement.
+The unwinding of the discounted value used to compute the impairment is reflected in the interest charged on the impaired loan.
+Impairment charges in respect of customer receivables are charged to the income statement as part of operating costs.
+Insurance premiums Credit is taken to the income statement for insurance premium income, net of commissions paid to intermediaries, over the life of the policy on a straight line time apportioned method.
+Provision for unpaid insurance claims Provision is made at the year end for the estimated gross cost of claims incurred but not settled at the balance sheet date, including the gross cost of claims expected to be incurred but not yet reported to the group.
+The estimated cost of claims comprises expenses to be incurred in settling claims and a deduction for the expected value of salvage and other recoveries.
+Provisions are calculated gross of any reinsurance recoveries.
+The group takes all reasonable steps to ensure that it has appropriate information regarding its claims exposures.
+However, given the uncertainty in establishing claims provisions, it is likely that the outcome will prove to be different from the original liability established.
+The group uses several statistical methods to incorporate the various assumptions made in order to estimate the ultimate cost of claims.
+The method most commonly used is the chain ladder method.
+This method is applied to paid claims and the basic technique involves the analysis of historical claims development factors and a selection of estimated development factors based on the historical pattern.
+The group considers chain-ladder techniques are appropriate for the classes of business underwritten, which have a relatively stable development pattern.
+There have been no material changes to claims provisioning assumptions.
+The estimated cost of claims is calculated by reference to the projected number of claims, based on statistics showing how the number of notified claims has developed over time, and the anticipated average cost per claim, based on historical levels adjusted to allow for changes in variables such as legislation, inflation rates, the mix of business and industry benchmarks.
+The provision for estimated insurance claims is reviewed annually by an external actuary.
+Amounts recoverable from reinsurers An asset is recognised in respect of amounts recoverable from reinsurers to reflect expected recoveries from reinsurers relating to insurance claims made and estimated claims incurred but not reported at the balance sheet date.
+Amounts recoverable from reinsurers are assessed for impairment annually and whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+Insurance deferred acquisition costs Acquisition costs in relation to insurance contracts represent commission and other related expenses.
+These costs are deferred as an intangible asset subject to recoverability and amortised over the period in which the related premiums are earned which is generally over a period of one year.
+Goodwill All acquisitions are accounted for using the purchase method of accounting.
+Goodwill is measured as the excess of the fair value of the consideration over the fair value of the acquired identifiable assets, liabilities and contingent liabilities.
+Goodwill is tested annually for impairment and carried at cost less accumulated impairment losses.
+Gains and losses on the disposal of a subsidiary include the carrying amount of goodwill relating to the subsidiary sold.
+Goodwill arising on acquisitions prior to 1 January 1998 was eliminated against shareholders funds under UK GAAP and was not reinstated on transition to IFRS.
+On disposal of a business, any such goodwill relating to the business will not be taken into account in determining the profit or loss on disposal.
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 76 76 Provident Financial plc Annual Report & Financial Statements 2006 Accounting policies continued Property, plant and equipment Property, plant and equipment is shown at cost less subsequent depreciation and impairment, except for land, which is shown at cost less impairment.
+Cost represents invoiced cost plus any other costs that are directly attributable to the acquisition of the items.
+Repairs and maintenance costs are expensed as incurred.
+Depreciation is calculated to write down assets to their estimated realisable value over their useful economic lives.
+The following are the principal bases used: % Method Land Nil 1 Freehold and long leasehold buildings 2 2 Straight line Short leasehold buildings Over the lease period Straight line Fixtures and fittings 10 Straight line 1 Equipment including computer hardware 20 to 33 3 Straight line Motor vehicles 25 Reducing balance The residual value and useful economic life of all assets are reviewed, and adjusted if appropriate, at each balance sheet date.
+All items of property, plant and equipment, other than land, are tested for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+Land is subject to an annual impairment test.
+An impairment loss is recognised for the amount by which the assets carrying value exceeds the higher of the assets value in use or its fair value less costs to sell.
+Other intangible assets Other intangible assets, which comprise computer software licences, are capitalised as intangible assets on the basis of the costs incurred to acquire or develop the specific software and bring it into use.
+Directly attributable costs associated with the development of software that will generate future economic benefits are capitalised as part of the software intangible asset.
+Direct costs include the cost of software development employees and an appropriate portion of relevant directly attributable overheads.
+Computer software is amortised on a straight line basis over its estimated useful economic life which is generally estimated to be five years.
+Investment in own shares Shares purchased through the Provident Financial Qualifying Employee Share Ownership Trust the QUEST and in respect of the Performance Share Plan are treated as treasury shares and are deducted at cost from other reserves within shareholders equity.
+Inventories Inventories comprise motor vehicles held for resale and are stated at the lower of cost and net realisable value.
+Cost includes all costs of purchase, preparation and costs incurred in bringing the vehicle to its present location and condition.
+Net realisable value is the estimated selling price less the estimated costs of completion and the estimated costs necessary to make the sale.
+Foreign currency translation Items included in the financial statements of each of the groups subsidiaries are measured using the currency of the primary economic environment in which the subsidiary operates the functional currency.
+The consolidated and company financial statements are presented in sterling, which is the companys functional and presentational currency.
+Transactions that are not denominated in a subsidiarys functional currency are recorded at the rate of exchange ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated into the relevant functional currency at the rates of exchange ruling at the balance sheet date.
+Differences arising on translation are charged or credited to the income statement, except when deferred in equity as qualifying cash flow hedges or qualifying net investment hedges.
+The income statements of group subsidiaries none of which has the currency of a hyperinflationary economy that have a functional currency different from sterling are translated into sterling at the average exchange rate and the balance sheets are translated at the exchange rates ruling at the balance sheet date.
+On consolidation, exchange differences arising from the translation of the net investment in foreign subsidiaries, and of borrowings and other currency instruments designated as hedges of such investments, are taken to shareholders equity.
+From 1 January 2004 these exchange differences have been recognised as a separate component of shareholders equity within other reserves.
+When a foreign operation is sold such exchange differences are recognised in the income statement as part of the gain or loss on sale.
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 77 Provident Financial plc 77 Annual Report & Financial Statements 2006 Accounting policies continued Segment reporting The groups primary reporting format is business segments and its secondary format is geographical segments.
+A business segment is a component of the group that is engaged in providing a group of related products and is subject to risks and returns that are different from those of other business segments.
+A geographical segment is a component of the group that operates within a particular economic environment and that is subject to risks and returns that are different from those of components operating in other economic environments.
+Leases The leases entered into by the group and company are solely operating leases.
+Costs in respect of operating leases are charged to the income statement on a straight line basis over the lease term.
+Taxation The tax expense represents the sum of current and deferred tax.
+Current tax is calculated based on taxable profit for the year using tax rates that have been enacted or substantially enacted by the balance sheet date.
+Taxable profit differs from profit before taxation as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+Deferred tax is determined using tax rates and laws that have been enacted or substantially enacted by the balance sheet date and are expected to apply when the related deferred tax asset is realised or the deferred tax liability is settled.
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit, and is accounted for using the balance sheet liability method.
+Deferred tax is provided on temporary differences arising on investments in subsidiaries except where the timing of the reversal of the temporary difference is controlled by the group company and it is probable that the temporary difference will not reverse in the future.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Employee benets Defined benefit pension plans The charge in the income statement in respect of defined benefit pension plans comprises the actuarially assessed current service cost of working employees together with the interest charge on pension liabilities offset by the expected return on pension scheme assets.
+All charges are allocated to administrative expenses.
+The asset liability recognised in the balance sheet in respect of defined benefit pension plans is the fair value of the plans assets less the present value of the defined benefit obligation at the balance sheet date.
+The defined benefit obligation is calculated annually by independent actuaries using the projected unit credit method.
+The present value of the defined benefit obligation is determined by discounting the estimated future cash outflows using interest rates of high-quality corporate bonds that have terms to maturity approximating to the terms of the related pension liability.
+Cumulative actuarial gains and losses arising from experience adjustments and changes in actuarial assumptions are recognised immediately in the statement of recognised income and expense.
+Past service costs are recognised immediately in the income statement, unless changes to the pension plan are conditional on the employees remaining in service for a specified period of time the vesting period.
+In this case, the past service costs are amortised on a straight line basis over the vesting period.
+Defined contribution plans Contributions to defined contribution pension schemes are charged to the income statement on an accruals basis.
+Dividends Dividend distributions to the companys shareholders are recognised in the group and company financial statements as follows: Final dividend: when approved by the companys shareholders at the annual general meeting.
+Interim dividend: when paid by the company.
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 78 78 Provident Financial plc Annual Report & Financial Statements 2006 Accounting policies continued Cash and cash equivalents Cash and cash equivalents comprise cash at bank and in hand and short-term deposits with original maturities of three months or less and are primarily held within the motor insurance business pending future claims payments and payments to insurance companies.
+Bank overdrafts are presented in current liabilities to the extent that there is no right of offset with cash balances.
+Derivative financial instruments The group and company use derivative financial instruments, principally interest rate swaps, currency swaps and forward currency contracts to manage the interest rate and currency risk arising from the groups underlying business operations.
+No transactions of a speculative nature are undertaken.
+All derivative financial instruments are assessed against the hedge accounting criteria set out in IAS 39.
+The majority of the groups derivatives meet the hedge accounting requirements of IAS 39 and are accordingly designated as either: hedges of the fair value of recognised assets or liabilities or a firm commitment fair value hedge or hedges of highly probable forecast transactions cash flow hedge.
+Derivatives are initially recognised at the fair value on the date a derivative contract is entered into and are subsequently remeasured at each reporting date at their fair value.
+Where derivatives do not qualify for hedge accounting, movements in their fair value are recognised immediately within the income statement.
+Where the hedge accounting criteria have been met, the resultant gain or loss on the derivative instrument is recognised as follows: Fair value hedges Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recorded in the income statement as part of finance costs, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+Cash flow hedges The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges are recognised in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in the income statement as part of finance costs.
+Amounts accumulated in equity are recognised in the income statement when the income or expense on the hedged item is recognised in the income statement.
+Share-based payments The company issues equity settled share-based payments to certain group and company employees through executive share options schemes, a performance share plan scheme, a long-term incentive scheme and savings-related share option schemes.
+The cost of providing share-based payments to group and company employees is charged to the income statement of the group company over the vesting period of the related share options or share allocations.
+The corresponding credit is made to a share-based payment reserve within other reserves.
+Within the company, the cost of providing share-based payments to subsidiary company employees is added to investments in subsidiaries with the corresponding credit made to the share-based payment reserve.
+The cost of share-based payments is based on the fair value of options granted determined using a binomial option pricing model.
+The value of the charge is adjusted at each balance sheet date to reflect expected and actual levels of vesting with a corresponding adjustment to the share-based payment reserve.
+In accordance with the transitional provisions of IFRS 2 Share-based Payment the group and company have elected to apply IFRS 2 to grants, options and other equity instruments granted after 7 November 2002 and not vested at 1 January 2005.
+Borrowings Borrowings are recognised initially at fair value, being their issue proceeds net of any transaction costs incurred.
+Borrowings are subsequently stated at amortised cost: any difference between proceeds net of transaction costs and the redemption value is recognised in the income statement over the expected life of the borrowings using the EIR.
+Where borrowings are the subject of a fair value hedge, changes in the fair value of the borrowing that are attributable to the hedged risk are recognised in the income statement and a corresponding adjustment made to the carrying value of borrowings.
+Investments in subsidiaries Investments in subsidiaries are stated at cost less, where appropriate, provisions for impairment.
+Provisions Provisions are recognised when the group or company has a present obligation as a result of a past event, and it is probable that the group or company will be required to settle that obligation.
+Provisions are measured at the directors best estimate of the expenditure required to settle the obligation at the balance sheet date, and are discounted to present value where the effect is material.
+58.31 PF Accounts JD P8:Layout 1 16 3 07 15:46 Page 79 Provident Financial plc 79 Annual Report & Financial Statements 2006 Accounting policies continued Key assumptions and estimates In applying the accounting policies set out above, the group and company make significant estimates and assumptions that affect the reported amounts of assets and liabilities as follows: Amounts receivable from customers 1,232.7m The group reviews its portfolio of customer loans and receivables for impairment at each balance sheet date.
+The group makes judgements to determine whether there is objective evidence which indicates there has been an adverse effect on expected future cash flows.
+For the purposes of assessing the impairment of customer loans and receivables, customers are categorised into arrears stages as this is considered to be the most reliable predictor of future payment performance.
+The level of impairment is calculated using actuarial models which use historical payment performance to generate the estimated amount and timing of future cash flows from each arrears stage.
+The impairment models are regularly reviewed to take account of the current economic environment, product mix and recent customer payment performance.
+However, on the basis that the payment performance of customers could be different from the assumptions used in estimating future cash flows, a material adjustment to the carrying value of amounts receivable from customers may be required.
+Insurance claims reserves 248.6m The group makes provision for the expected cost of claims in relation to motor insurance policies underwritten, including those claims incurred but not reported.
+The ultimate cost of those claims is in the future and is therefore uncertain and the group makes judgements and estimates to ascertain the expected future cost.
+The group determines the provision by analysing previous claims and applying historical development patterns to the more recent claims, taking into account known factors which may impact upon those development patterns.
+The group considers this method to be the most appropriate for the class of business written, which has a relatively stable development pattern, and it is widely used in the insurance market.
+There have been no significant changes to the claims provisioning assumptions compared to prior years and the estimate of the ultimate cost of claims is performed regularly both internally and by the groups external actuaries.
+However, on the basis that the future claims development could be different from past history, a material adjustment to the level of insurance claims reserves may be required.
+Tax deferred tax asset 30.8m, current tax asset 8.1m, current tax liability 37.3m The group is subject to tax in the UK as well as a number of other jurisdictions.
+In many cases, the tax treatment of certain items cannot be determined precisely until tax audits or enquiries have been completed by the tax authorities.
+In some instances, this can be some years after the item has first been reflected in the financial statements.
+The group recognises liabilities for anticipated tax audit and enquiry issues based on an assessment of whether such liabilities are likely to fall due.
+If the outcome of such audits is that the final liability is different to the amount originally estimated, such differences will be recognised in the period in which the audit or enquiry is determined.
+Any differences may necessitate a material adjustment to the level of tax balances held in the balance sheet.

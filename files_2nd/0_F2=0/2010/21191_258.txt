@@ -1,0 +1,54 @@
+Financial statements IFRS 295 Performance review Aviva plc Notes to the consolidated financial statements continued Annual Report and Accounts 2010 Corporate responsibility Governance Shareholder information Financial statements IFRS Financial statements MCEV Other information 57 Risk management continued ii Analysis of maturity of financial assets The following table provides an analysis, by maturity date of the principal, of the carrying value of financial assets which are available to fund the repayment of liabilities as they crystallise.
+On demand No fixed or within Over term Total 1 year 1-5 years 5 years perpetual At 31 December 2010 m m m m m Debt securities 167,482 20,996 46,182 100,133 171 Equity securities 49,076 49,076 Other investments 36,730 32,625 1,713 956 1,436 Loans 43,074 7,492 5,339 30,240 3 Cash and cash equivalents 25,455 25,455 321,817 86,568 53,234 131,329 50,686 On demand No fixed or within Over term Total 1 year 1-5 years 5 years perpetual At 31 December 2009 m m m m m Debt securities 161,757 17,309 45,298 98,792 358 Equity securities 45,428 45,428 Other investments 31,517 29,091 414 493 1,519 Loans 41,079 6,867 4,146 30,066 Cash and cash equivalents 25,176 25,176 304,957 78,443 49,858 129,351 47,305 As described in note 25, 1,247 million debt securities and 2,085 million equity securities held by consolidated French mutual funds, previously included within other investments, have been reclassified as debt and equity securities as at 31 December 2009.
+The maturity analysis at 31 December 2009 has been amended accordingly.
+The assets above are analysed in accordance with the earliest possible redemption date of the instrument at the initiation of the Group.
+Where an instrument is transferable back to the issuer on demand, such as most unit trusts or similar types of investment vehicle, it is included in the On demand or within 1 year column.
+Debt securities with no fixed contractual maturity date are generally callable at the option of the issuer at the date the coupon rate is reset under the contractual terms of the instrument.
+The terms for resetting the coupon are such that we expect the securities to be redeemed at this date, as it would be uneconomic for the issuer not to do so, and for liquidity management purposes we manage these securities on this basis.
+The first repricing and call date is normally ten years or more after the date of issuance.
+Most of the Groups investments in equity securities and fixed maturity securities are market traded and therefore, if required, can be liquidated for cash at short notice.
+e Insurance risk i Life insurance risk Types of risk Life insurance risk in the Group arises through its exposure to mortality and morbidity insurance and exposure to worse than anticipated operating experience on factors such as persistency levels and management and administration expenses.
+Risk management framework The Group has developed a life insurance risk policy and guidelines on the practical application of this policy.
+Individual life insurance risks are managed at a business unit level but are also monitored at Group level.
+The impact of life insurance risks is monitored by the business units as part of the control cycle of business management.
+Exposure is monitored through the assessment of liabilities, the asset liability management framework, profit reporting under both IFRS and MCEV, and the ICA process.
+Significant insurance risks will be reported through the risk management framework and overseen by the Life Insurance Committee.
+At Group level the overall exposure to life insurance risk is measured through the ICA and other management reporting.
+The Life Insurance Committee monitors the application of the risk policy in each business, and receives management information on life insurance risks.
+The committee considers all areas of life insurance risk, but in particular has a remit to monitor mortality, longevity, morbidity, persistency, product development and pricing, unit pricing and expenses.
+The committee also considers the reinsurance coverage across the life businesses.
+It confirms that guidance and procedures are in place for each of the major components of life insurance risk, and that the businesses mitigate against any life insurance risk outside local appetite, within the parameters for the overall Group risk appetite.
+The committee has also developed guidance for business units on management of a number of areas of life insurance risk to ensure best practice is shared throughout the Group and common standards are adopted.
+296 Aviva plc Notes to the consolidated financial statements continued Annual Report and Accounts 2010 57 Risk management continued Management of life insurance risks The individual life insurance risks are managed as follows: Mortality and morbidity risks are mitigated by use of reinsurance.
+The Group allows business units to select reinsurers, from those approved by the Group, based on local factors, but assesses the overall programme to manage Group-wide risk exposures and monitor the aggregation of risk ceded to individual reinsurers is within appetite for credit risk.
+Longevity risk is carefully monitored against the latest external industry data and emerging trends.
+Whilst individual businesses are responsible for reserving and pricing for annuity business, the Group monitors the exposure to this risk and the capital implications to manage the impact on the Group-wide exposure and the capital funding that businesses may require as a consequence.
+The Group has used reinsurance solutions to reduce the risks from longevity where possible and desirable and continually monitors and evaluates emerging market solutions to mitigate this risk further.
+Persistency risk is managed at a business unit level through frequent monitoring of company experience, benchmarked against local market information.
+Generally, persistency risk arises from customers lapsing their policies earlier than has been assumed.
+Where possible the financial impact of lapses is reduced through appropriate product design.
+Businesses also implement specific initiatives to improve retention of policies which may otherwise lapse.
+The Group Life Insurance Committee has developed guidelines on persistency management.
+Product design and pricing risk arises from poorly designed or inadequately priced products and can lead to both financial loss for and reputation damage to the Group.
+Guidelines have been developed to support the businesses through the complete cycle of the product development process, financial analysis and pricing.
+Expense risk is primarily managed by the business units through the assessment of business unit profitability and frequent monitoring of expense levels.
+Apart from the ICA, sensitivity testing is widely used to measure the capital required and volatility in earnings due to exposure to life insurance risks, typically through MCEV reporting examples of which are contained elsewhere in this report.
+This assessment is taken at both business unit level and at Group level where the impact of aggregation of similar risks can be measured.
+This enables the Group to determine whether action is required to reduce risk, or whether that risk is within the overall risk appetite.
+Concentration risk The Group writes a diverse mix of business in worldwide markets that are all subject to similar risks mortality, persistency, etc.
+The Group assesses the relative exposures to and concentrations of each type of risk through the ICA capital requirements and material issues are escalated to and addressed at the Life Insurance Committee.
+This analysis enables the Group to assess whether accumulations of risk exceed risk appetite.
+One key concentration of life insurance risk for the Group is improving longevity risk from pensions in payment and deferred annuities in the UK and the Netherlands where the Group has material portfolios.
+The Group continually monitors this risk and the opportunities for mitigating actions through reinsurance, improved asset liability matching, or innovative solutions that emerge in the market.
+When looking at concentrations of risk, for example market risk, the risk within Aviva staff pension schemes is also considered.
+ICA analysis and MCEV sensitivity testing help identify both concentrations of risk types and the benefits of diversification of risk.
+Embedded derivatives The Group has exposure to a variety of embedded derivatives in its long-term savings business due to product features offering varying degrees of guaranteed benefits at maturity or on early surrender, along with options to convert their benefits into different products on pre-agreed terms.
+The extent of the impact of these embedded derivatives differs considerably between business units.
+Examples of each type of embedded derivative affecting the Group are: Options: call, put, surrender and maturity options, guaranteed annuity options, options to cease premium payment, options for withdrawals free of market value adjustment, annuity options, and guaranteed insurability options.
+Guarantees: embedded floor guaranteed return, maturity guarantee, guaranteed death benefit, and guaranteed minimum rate of annuity payment.
+Other: indexed interest or principal payments, maturity value, loyalty bonus.
+The impact of these is reflected in ICA and MCEV reporting and managed as part of the asset liability framework.
+ii General insurance risk Types of risk General insurance risk in the Group arises from: Fluctuations in the timing, frequency and severity of claims and claim settlements relative to expectations: Unexpected claims arising from a single source: Inaccurate pricing of risks or inappropriate underwriting of risks when underwritten: Inadequate reinsurance protection or other risk transfer techniques: and Inadequate reserves.
+The majority of the general insurance business underwritten by the Group is of a short tail nature such as motor, household and commercial property insurances.
+The Groups underwriting strategy and appetite is agreed by the Executive Committee and communicated via specific policy statements and guidelines.
+Like life insurance risk, general insurance risk is managed primarily at business unit level with oversight at a Group level, through the General Insurance Committee.

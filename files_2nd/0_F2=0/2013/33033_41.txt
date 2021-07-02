@@ -1,0 +1,30 @@
+Section 7 Review of Access Markets Section 7.8 - TISBO above 45Mbit s up to and including 155Mbit s Definition RBS services are now included within the basket.
+TISBO services include: For the High and Very High TISBO markets, the unregulated area CELA has been extended to WECLA West, East and Central London area.
+Trunk has been split into two parts, with national trunk now fide-regulated.
+LLU backhaul which consists of LLU backhaul trunk and LLU backhaul link.
+LLU backhaul links are regarded as a symmetric broadband origination service and should These changes will be effective for the Current Costs Financial Statements 2014. therefore be included within the TISBO or AISBO markets, depending on the technology in use bandwidth considerations being taken into account in the case of Basket Value of X Sub Caps the SDH technology.
+TI Basket RPI-3.25% up RPI0% sub-cap on sub-basket Netstream 16 Long Line including the Core Conveyance element.
+Very high bandwidth to 30 Sept of TISBO terminating segments.
+Ofcom has concluded that BT has SMP in the very high bandwidth TISBO market outside connection and rental outside 2010 : RPI 5% sub-cap on each CELA.
+Consequently, it has imposed regulation on all relevant circuits and technical areas CELA.
+RPI-1.75% charge excluding POH that fall within these markets, including RBS backhaul circuits.
+2010 RPI0% sub-cap on each charge Key Regulatory Changes POH charges only.
+In December 2008 Ofcom published its Final Statement on the BCMR.
+Ofcom found BT to Point of Connection end and RPI-0% No charge can increase more continue to have SMP in the very high bandwidth TISBO market but only outside CELA.
+third party end equipment than 5% in nominal terms.
+Following a separate Consultation, Ofcom published its Statement on the Leased Lines charges.
+Charge Control on 2 July 2009, imposing a RPI-X charge control where X is 3.25% on very All relevant ancillary services RPI-0% None.
+high bandwidth TISBO services as a remedy to its finding of SMP for BT.
+Note that there is a used in the provision of TI single overall TI basket comprising connection and rental for low bandwidth, high services in scope of the TI bandwidth and very high bandwidth TISBO services as well as rental for Trunk services.
+In addition, Ofcom determined starting charges for terminating and trunk segments and required the introduction of separate Point of Handover rental charges to replace the These controls run from 1 October 2009 to 30 September 2012.
+The values of X in the current local end uplift factor included in the rental price of external local ends.
+To balance charge control apply to BTs prices after these adjustments have been made.
+the introduction of the new separate Point of Handover charges, Ofcom required a Summary Market Performance corresponding reduction to external local end prices.
+Total CCA On 2 September 2009, Cable & Wireless lodged an appeal with the CAT contesting certain Operating Return on parts of Ofcoms Leased Line Charge Control Statement.
+The Tribunal issued a direction on Revenue Costs Return MCE 20 September 2010 directing the controlling percentage for the TI basket to be amended to Year m m m % 2013 50 23 27 35.5% RPI-1.75% from 1 October 2010.
+2012 50 19 31 52.6% Ofcom reviewed the Business Connectivity Market during 2012 13 and issued their final statement on 28 March 2013.
+The key changes are: The Charge control moved to RPI 2.25% applied to a single basket.
+The remedy of Cost Orientation was removed from all services.
+Page 62 Section 7 Review of Access Markets Section 7.8 - TISBO above 45Mbit s up to and including 155Mbit s continued Key Market Changes Within the very high bandwidth market there continues to be a fall in demand for traditional TDM circuits as customers continue to migrate to 21CN services like Ethernet.
+Overall competition and customer demand for alternative technologies is resulting in falling volumes in this market.
+Price changes in the market took place in October 2012 to enable compliance with the charge control and regulatory obligations.

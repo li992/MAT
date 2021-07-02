@@ -1,0 +1,8 @@
+ii_FW The_DT Group_NNP adopted_VBD IFRS_NNP with_IN a_DT transition_NN date_NN of_IN 1_CD January_NNP 2004_CD ._.
+The_DT comparatives_NNS for_IN 2004_CD have_VBP been_VBN restated_VBN in_IN accordance_NN with_IN IFRS_NNS with_IN the_DT exception_NN of_IN IAS_NNP 32_CD and_CC 39_CD which_WDT are_VBP only_RB effective_JJ for_IN periods_NNS beginning_VBG after_IN 1_CD January_NNP 2005_CD ._.
+The_DT results_NNS for_IN earlier_JJR years_NNS were_VBD prepared_VBN in_IN accordance_NN with_IN UK_NNP GAAP_NNP ._.
+Figures_NNS have_VBP been_VBN restated_VBN to_TO include_VB the_DT results_NNS of_IN GCE_NNP and_CC the_DT US_NNP Defense_NNP businesses_NNS under_IN discontinued_VBN operations_NNS ._.
+iii_FW Net_JJ financing_NN charge_NN includes_VBZ retranslation_NN gains_NNS on_IN inter-company_JJ loans_NNS of_IN 3.5_CD million_CD in_IN 2005_CD and_CC losses_NNS of_IN 3.0_CD million_CD in_IN 2004_CD ._.
+Exceptional_JJ costs_NNS of_IN 6.5_CD million_CD and_CC exceptional_JJ gains_NNS of_IN 4.4_CD million_CD were_VBD included_VBN in_IN the_DT net_JJ financing_NN charge_NN in_IN 2003_CD and_CC 2001_CD respectively_RB ._.
+iv_NN The_DT earnings_NNS per_IN share_NN for_IN 2003_CD and_CC prior_JJ years_NNS have_VBP been_VBN restated_VBN for_IN the_DT rights_NNS issue_NN ._.
+v_NN Tax_NN on_IN profit_NN on_IN ordinary_JJ activities_NNS in_IN 2004_CD and_CC 2001_CD includes_VBZ an_DT exceptional_JJ credit_NN of_IN 6.6_CD million_CD and_CC an_DT exceptional_JJ charge_NN of_IN 6.1_CD million_CD respectively_RB ._.

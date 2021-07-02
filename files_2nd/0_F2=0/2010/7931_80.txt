@@ -1,0 +1,38 @@
+Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost is determined using the first-in, first-out FIFO method.
+The cost of finished goods and work in progress comprises raw materials, direct labour, other direct costs and related production overheads based on normal operating capacity but excludes borrowing costs.
+Net realisable value is the estimated selling price in the ordinary course of business, less the estimated costs of completion and selling expenses.
+Leaf tobacco inventory which has an operating cycle that exceeds twelve months is classified as a current asset, consistent with recognised industry practice.
+Provisions A provision is recognised in the balance sheet when the Group has a legal or constructive obligation as a result of a past event, it is more likely than not that an outflow of resources will be required to settle that obligation, and a reliable estimate of the amount can be made.
+A provision for restructuring is recognised when the Group has approved a detailed formal restructuring plan, and the restructuring has either commenced or has been publicly announced, and it is more likely than not that the plan will be implemented, and the amount required to settle any obligations arising can be reliably estimated.
+Future operating losses are not provided for.
+Where there are a number of similar obligations, the likelihood that an outflow will be required in settlement is determined by considering the class of obligations as a whole.
+A provision is recognised even if the likelihood of an outflow with respect to any one item included in the same class of obligations may be small.
+Retirement Benefit Schemes The Group operates a number of retirement benefit schemes for its employees, including both defined benefit and defined contribution schemes.
+Under a defined benefit scheme, the amount of retirement benefit that will be received by an employee is defined with respect to period of service and final salary.
+The amount recognised in the balance sheet is the difference between the present value of the defined benefit obligation at the balance sheet date and the fair value of the scheme assets.
+The defined benefit obligation is calculated annually by independent actuaries using the projected unit credit method.
+The present value of the defined benefit obligation is determined by discounting the estimated future cash outflows.
+The service cost of providing retirement benefits to employees during the year is charged to operating profit.
+Past service costs are recognised immediately in income, unless the changes to the pension plan are conditional on the employees remaining in service for a specified period of time the vesting period.
+In this case, the past service costs are amortised on a straight line basis over the average vesting period.
+All actuarial gains and losses, including differences between actual and expected returns on assets and differences that arise as a result of changes in actuarial assumptions, are recognised immediately in full in the statement of comprehensive income for the period in which they arise.
+A credit representing the expected return on plan assets of the retirement benefit schemes during the year is included within net finance costs.
+This is based on the market value of the assets of the schemes at the start of the financial year.
+A charge is also made within net finance costs for the expected increase in the present value of the liabilities of the retirement benefit schemes during the year arising from the schemes being one year closer to payment.
+For defined contribution schemes, the Group pays a defined contribution to the scheme.
+There are no further payment obligations once these contributions have been paid.
+Such contributions are recognised as an employee benefit expense when they are due.
+Any prepaid contributions are recognised as an asset to the extent that a cash refund or reduction in future payments is available.
+Share-Based Payments The Group applies the requirements of IFRS 2 Share-Based Payment Transactions to both equity-settled and cash-settled share-based employee compensation schemes.
+The majority of the Groups schemes are equity-settled.
+Equity-settled share-based payments are measured at fair value at the date of grant and are expensed over the vesting period, based on the number of instruments that are expected to vest.
+For plans where vesting conditions are based on total shareholder returns, the fair value at the date of grant reflects these conditions.
+Earnings per share vesting conditions are reflected in the estimate of awards that will eventually vest.
+For cash-settled share-based payments, a liability equal to the portion of the services received is recognised at its current fair value at each balance sheet date.
+Where applicable the Group recognises the impact of revisions to original estimates in the income statement, with a corresponding adjustment to equity for equity-settled schemes and current liabilities for cash-settled schemes.
+Fair values are measured using appropriate valuation models, taking into account the terms and conditions of the awards.
+The Group funds the purchase of shares to satisfy rights to shares arising under share-based employee compensation schemes.
+Shares acquired to satisfy those rights are held in Employee Share Ownership Trusts.
+On consolidation, these shares are accounted for as a deduction from equity attributable to owners of the parent.
+When the rights are exercised, equity is increased by the amount of any proceeds received by the Employee Share Ownership Trusts.

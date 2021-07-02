@@ -1,0 +1,91 @@
+NOTES TO THE PARENT COMPANY FINANCIAL STATEMENTS 1.
+Accounting policies 1.1 Basis of preparation Direct Line Insurance Group plc, registered in England and Wales company number 02280426, is the ultimate parent company of the Group.
+The principal activity of the Company is managing its investments in subsidiaries, providing loans to those subsidiaries, raising funds for the Group and the receipt and payment of dividends.
+In accordance with the exemption permitted under section 408 of the Companies Act 2006, the Companys income statement and related notes have not been presented in these separate financial statements.
+The Companys financial statements are prepared in accordance with Financial Reporting Standard FRS 101 Reduced Disclosure Framework.
+In preparing these financial statements, the Company applies the recognition, measurement and disclosure requirements of IFRSs issued by the IASB as adopted by the EU but makes amendments where necessary to comply with the Companies Act 2006.
+The Company has taken advantage of the following FRS 101 disclosure exemptions: FRS 101.8 d : the requirements of IFRS 7 Financial Instruments: Disclosures to make disclosures about financial instruments: FRS 101.8 e : the disclosure requirements of IFRS13 Fair Value Measurement: FRS 101.8 g : the requirements of paragraphs 10 d, 10 f, 16, 38A, 38B, 38C, 38D, 40A, 40B, 40C, 40D, 111 and 134 136 of IAS 1 Presentation of Financial Statements to produce a cash flow statement, a third balance sheet and to make an explicit and unreserved statement of compliance with IFRSs: FRS 101.8 h : the requirements of IAS 7 Statements of Cash Flows to produce a cash flow statement and related notes: FRS 101.8 i : the requirements of paragraphs 30 and 31 of IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors to include a list of new IFRSs that have been issued but that have yet to be applied: and FRS 101.8 k : the requirements of IAS 24 Related Party Disclosures to disclose related party transactions entered into between two or more members of a group, provided that any subsidiary which is party to a transaction is wholly owned by such a member.
+1.2 Adoption of new and revised standards The accounting policies used in the preparation of these separate financial statements are consistent with previous years, and the accounting policies applied in the consolidated financial statements of Direct Line Insurance Group plc, except for the adoption of IFRS 9 Financial Instruments and the additional accounting policies specific to the separate financial statements of the Company as set out below.
+The Company has adopted IFRS 9 which became mandatory for the first time in 2018.
+IFRS 9 replaces IAS 39 Financial Instruments: Recognition and Measurement, introducing new guidance on the classification and measurement of financial assets, an expected credit loss impairment model, and new hedge accounting requirements.
+The Company completed an impact assessment on transition to IFRS 9, including an assessment of its financial assets under the new impairment model, and concluded there was no impact on the Companys equity at 1 January 2018.
+The Company will continue applying the hedge accounting requirements of IAS 39 as permitted under IFRS 9.
+The Company assessed its business model for managing the financial assets held by the Company and classified its financial assets into the appropriate IFRS 9 categories.
+The impact of the reclassification was as follows: Measurement category Carrying amount Difference IAS 39 IFRS 9 Financial asset IAS 39 IFRS 9 m m m AFS debt securities AFS Fair value through other comprehensive income 5.1 5.1 Loan to subsidiary undertakings Amortised cost Amortised cost 531.8 531.8 Derivative financial instruments Fair value through profit or loss Fair value through profit or loss 1.4 1.4 Cash and cash equivalents Amortised cost Amortised cost 236.1 236.1 UK sovereign debt securities were reclassified from AFS to fair value through other comprehensive income as the AFS category has been removed under IFRS 9.
+This is appropriate as the Companys business model is achieved by collecting contractual cash flows and selling these investments, and contractual cash flows are solely payments of principal and interest.
+The treatment of changes in fair value remain consistent and as a result there is no impact on equity.
+There is no difference in the carrying amount of any financial assets under IAS 39 and IFRS 9.
+IFRS 9 accounting policies adopted in the period are presented in note 1.5.
+1.3 Investment in subsidiaries Investment in subsidiaries is stated at cost less any impairment.
+1.4 Dividend income Dividend income from investment in subsidiaries is recognised when the right to receive payment is established.
+184 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS 184 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS FINANCIALS V6.1 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 1.5 Financial assets Financial assets are classified at initial recognition and subsequently measured at amortised cost or fair value through other comprehensive income.
+The classification of financial assets at initial recognition depends on the financial assets contractual cash flow characteristics and the Companys business model for managing them.
+The Company initially measures a financial asset at its fair value plus, in the case of a financial asset not at fair value through profit or loss, transaction costs.
+Amortised cost Assets which are held to collect contractual cash flows, and with contractual terms which give rise to cash flows which are solely payments of principal and interest on the principal amount outstanding, are subsequently measured at amortised cost, unless designated as fair value through profit or loss.
+Financial assets at amortised cost are subsequently measured using the effective interest method and are subject to impairment.
+Gains and losses are recognised in the income statement when the asset is derecognised, modified or impaired.
+Fair value through other comprehensive income Assets which are held both to collect contractual cash flows and to sell the financial asset, where the contractual terms of the asset give rise to cash flows which are solely payments of principal and interest on the principal amount outstanding, are measured at fair value through other comprehensive income, unless designated as fair value through profit or loss.
+Movements in the carrying amount are taken through other comprehensive income, except for gains or losses recognised in the income statement when the asset is derecognised, modified or impaired.
+Impairment On recognition of a financial asset measured at amortised cost or fair value through other comprehensive income, an expected credit loss allowance is recognised by multiplying the financial assets gross carrying amount by the probability of default multiplied by the loss given default.
+At each balance sheet date, the Company assesses on a forward-looking basis, whether there is objective evidence that an impairment loss on a financial asset or group of financial assets classified as held at amortised cost or fair value through other comprehensive income, is expected.
+This assessment depends on whether there has been a deterioration in the instruments credit quality since initial recognition.
+The Company measures the expected loss as the difference between the carrying amount of the asset or group of assets including the allowance for expected losses, and the present value of estimated future cash flows from the asset or group of assets, discounted at the effective interest rate of the instrument.
+The expected loss allowance is based on assumptions about risk of default and expected loss rates.
+The Company uses judgement in making these assumptions and selecting the inputs to the impairment calculation based on the credit quality and history of the financial asset or group of financial assets, as well as existing market conditions and forward-looking expectations.
+Impairment losses, including the expected credit allowance, are recognised in the income statement and the carrying amount of the financial asset or group of financial assets is reduced by establishing an allowance for the impairment losses.
+If in a subsequent period the amount of the expected impairment allowance reduces, and this can be ascribed to an event after the impairment was recognised, the previously recognised loss is reversed by adjusting the allowance.
+A financial asset is written off when there is no reasonable expectation of recovery.
+Hedge accounting The Company has utilised the transition for hedge accounting option in IFRS 9 to continue applying the hedge accounting requirements of IAS 39.
+Investment in subsidiary undertakings 2018 2017 m m At 1 January 3,099.1 3,084.3 Additional investment in subsidiary undertakings 20.9 14.8 Impairment of investment in subsidiary undertakings 1.0 At 31 December 3,119.0 3,099.1 The subsidiary undertakings of the Company are set out on page 186.
+Their capital consists of Ordinary Shares which are unlisted.
+In all cases, the Company owns 100% of the Ordinary Shares, either directly or through its ownership of other subsidiaries, and exercises full control over their decision making.
+CO. UK 185 NOTES TO THE PARENT COMPANY FINANCIAL STATEMENTS CONTINUED 2.
+Investment in subsidiary undertakings continued Place of incorporation Name of subsidiary and operation Principal activity Directly held by the Company: 1 Direct Line Group Limited United Kingdom Intermediate holding company 1 DL Insurance Services Limited United Kingdom Management services 1 Finsure Premium Finance Limited United Kingdom Non-trading company 1 Inter Group Insurance Services Limited United Kingdom Non-trading company 1 UK Assistance Accident Repair Centres Limited United Kingdom Motor vehicle repair services 1 7 UK Assistance Limited United Kingdom Dormant 1 U K Insurance Business Solutions Limited United Kingdom Insurance intermediary services 2,3 U K Insurance Limited United Kingdom General insurance Indirectly held by the Company: 4 7 10-15 Livery Street, Birmingham UK Limited Jersey Dormant 1 Churchill Insurance Company Limited United Kingdom General insurance 1 7 Direct Line Insurance Limited United Kingdom Dormant 5 DL Support Services India Private Limited India Support and operational services 6 DLG Legal Services Limited United Kingdom Legal services 1 7 DLG Pension Trustee Limited United Kingdom Dormant 1 Farmweb Limited United Kingdom Non-trading company 2 Green Flag Group Limited United Kingdom Intermediate holding company 1 Green Flag Holdings Limited United Kingdom Intermediate holding company 2 Green Flag Limited United Kingdom Breakdown recovery services 1 Intergroup Assistance Services Limited United Kingdom Non-trading company 1 7 National Breakdown Recovery Club Limited United Kingdom Dormant 1 7 Nationwide Breakdown Recovery Services Limited United Kingdom Dormant 1 7 The National Insurance and Guarantee Corporation Limited United Kingdom Dormant 1 7 UKI Life Assurance Services Limited United Kingdom Dormant Notes: 1.
+Registered office at: Churchill Court, Westmoreland Road, Bromley, BR1 1DP.
+Registered office at: The Wharf, Neville Street, Leeds, LS1 4AZ.
+U K Insurance Limited has a branch in the Republic of South Africa.
+Registered office at: 22 Grenville Street, St Helier, JE4 8PX, Jersey.
+Registered office at: 4 Aradhana Enclave, Sector 13, Rama Krishna Puram, New Delhi, South West Delhi, Delhi, 110066, India.
+Registered office at: 42 The Headrow, Leeds, LS1 8HZ.
+In accordance with the requirements under sections 394A and 448A of the Companies Act 2006, there is no requirement to audit a dormant company.
+Other receivables 2018 2017 m m 1 Loans to subsidiary undertakings 531.9 612.2 Trade receivables due from subsidiary undertakings 15.1 Other debtors 1.3 1.3 Total 548.3 613.5 Current 48.3 113.5 Non-current 500.0 500.0 Total 548.3 613.5 Note: 1.
+Included in loans to subsidiary undertakings is a 500 million unsecured subordinated loan to U K Insurance Limited.
+The loan was advanced on 27 April 2012 at a fixed rate of 9.5% with a repayment date of 27 April 2042.
+There is an option to repay the loan on specific dates from 27 April 2022.
+If the loan is not repaid on 27 April 2022, the rate of interest will be reset at 6-month LIBOR plus 8.16%.
+All loans are neither past due nor impaired.
+Current and deferred tax 2018 2017 m m Per balance sheet: Current tax assets 16.1 Current tax liabilities 0.2 Deferred tax liabilities 0.6 0.6 186 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS 186 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS FINANCIALS V6.1 STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS The table below analyses the major deferred tax liabilities recognised by the Company and movements thereon.
+Fair value through other comprehensive Provisions and income other temporary revaluation differences reserve Total m m m At 1 January 2017 0.3 0.1 0.4 Credit to the income statement 0.4 0.4 Credit to other comprehensive income 0.1 0.1 Other movements 0.7 0.7 At 31 December 2017 and 2018 0.6 0.6 5.
+Derivative financial instruments Notional amount Fair value Notional amount Fair value 2018 2018 2017 2017 m m m m Derivative assets Designated as hedging instruments: 2 Foreign exchange contracts 18.5 1.4 17.3 1.0 Total 18.5 1.4 17.3 1.0 Derivative liabilities Designated as hedging instruments: 2 Foreign exchange contracts 18.5 1.4 17.3 1.0 Total 18.5 1.4 17.3 1.0 Notes: 1.
+The derivative assets and liabilities are both classified as level 2 within the Groups fair value hierarchy set out in note 40 of the consolidated financial statements.
+The foreign exchange cash flow hedges have been entered into on behalf of the Groups subsidiary companies.
+Financial investments 2018 2017 m m 1 Fair value through other comprehensive income debt securities 5.1 5.2 Note: 1.
+The fair value through other comprehensive income debt securities are fixed interest UK sovereign debt classified as level 1 within the Groups fair value hierarchy which is set out in note 40 of the consolidated financial statements.
+Cash and cash equivalents 2018 2017 m m Cash at bank and in hand 0.1 3.8 1 Short-term deposits with credit institutions 236.0 205.5 Total 236.1 209.3 Note: 1.
+This represents money market funds with no notice period for withdrawal.
+Share capital and capital reserves Full details of the share capital and capital reserves of the Company are set out in notes 29 and 30 to the consolidated financial statements.
+Tier 1 notes Full details of the Tier 1 notes of the Company are set out in note 31 to the consolidated financial statements.
+CO. UK 187 NOTES TO THE PARENT COMPANY FINANCIAL STATEMENTS CONTINUED 10.
+Subordinated liabilities 2018 2017 m m Subordinated guaranteed dated notes 253.0 252.7 The subordinated guaranteed dated notes with a nominal value of 500 million were issued on 27 April 2012 at a fixed rate of 9.25% and have a redemption date of 27 April 2042.
+The Company has the option to repay the notes on specific dates from 27 April 2022.
+If the notes are not repaid on 27 April 2022, the rate of interest will be reset at a rate of 6-month LIBOR plus 7.91%.
+On 8 December 2017, the Company repurchased 250 million nominal value of subordinated guaranteed dated notes for a purchase price of 330.1 million including accrued interest of 2.7 million and associated transaction costs of 0.6 million.
+The Company has the option, in certain circumstances, to defer interest payments on the notes but to date has not exercised this right.
+The notes are unsecured, subordinated obligations of the Company, and rank pari passu without any preference among themselves.
+In the event of a winding up or insolvency, they are to be repaid only after the claims of all other senior creditors have been met.
+The notes are guaranteed by U K Insurance Limited, a principal subsidiary of the Company.
+The aggregate fair value of subordinated guaranteed dated notes at 31 December 2018 was 297.8 million 2017: 328.7 million.
+Borrowings 2018 2017 m m Loans from fellow subsidiaries within the Group 100.7 84.5 Note: 1.
+Included in the above is a loan of 73.0 million 2017: 61.5 million from UK Assistance Accident Repair Centres Limited.
+Other loans of 23.7 million from fellow Group subsidiaries are repayable on demand and are subject to interest on outstanding balances based on the average 3-month LIBOR rate.
+Trade and other payables 2018 2017 m m Payables to subsidiary undertakings 0.1 Payables to third parties 1.7 1.3 Total 1.7 1.4 13.
+Dividends Full details of the dividends paid and proposed by the Company are set out in note 14 to the consolidated financial statements.
+Share-based payments Full details of share-based compensation plans are provided in note 35 to the consolidated financial statements.
+Risk management The risks faced by the Company, arising from its investment in subsidiaries, are considered to be the same as those in the operations of the Group.
+Details of the key risks and the steps taken to manage them are disclosed in note 3 to the consolidated financial statements.
+The Company also holds, on behalf of its subsidiaries, designated hedging instruments which relate to foreign currency supplier payments.
+Directors and key management remuneration The Directors and key management of the Group and the Company are the same.
+The aggregate emoluments of the Directors are set out in note 10 to the consolidated financial statements, the compensation for key management is set out in note 41 to the consolidated financial statements and the remuneration and pension benefits payable in respect of the highest paid Director are included in the Directors remuneration report in the Governance section of the Annual Report & Accounts.
+Post balance sheet event On 28 February 2019, the Board of U K Insurance Limited, a subsidiary undertaking of the Company, agreed to repay 250 million of its 500 million subordinated loan to the Company.
+This transaction is expected to occur in March 2019.
+188 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS 188 DIRECT LINE GROUP 2018 ANNUAL REPORT & ACCOUNTS FINANCIALS V6.1

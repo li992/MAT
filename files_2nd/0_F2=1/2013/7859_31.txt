@@ -1,0 +1,13 @@
+PowerVR video The other major PowerVR family is our video processing unit VPU.
+Our video technology is an exceptional balance of hard-coded and programmable elements, which combine to deliver the most efficient multi-standard and multi-stream video decoders and encoders.
+The ubiquity of digital cameras for still and video photography, together with the growth in social networking sites like YouTube and Facebook, the emergence of downloadable media, and the popularity of personal video recorders, has made video content as popular as audio.
+The PowerVR decode and encode IP core families provide a range of solutions, handling all major standards including HEVC, H. 264, H. 263, MPEG-4, MPEG- 2, WMV9 VC-1, WebM, VP8 9 and Real RMVB, with more standards being added all the time.
+PowerVR video IP solutions deliver up to 4K Ultra HD resolutions with exceptionally low power consumption and CPU overhead.
+The PowerVR video decoder and encoder families are multi-pipe video IPs which deliver features including 10-bit colour and 4:4:4 4:4:2 chroma subsampling support designed to enhance modern applications such as wireless display and video capture with previously unseen levels of colour fidelity and resolution.
+The multi-stream decode capabilities in PowerVR VPUs make these cores ideal for enabling applications such as browsing a video collection, or previewing video while also watching a broadcast.
+Capable of handling multiple streams simultaneously, each of a different standard if needed, our decoder IP has built a reputation as the industry leader.
+The PowerVR encoder offers highly efficient high profile compression at beyond 4K resolutions, allowing the user to record and transmit the highest quality video, whilst minimizing bandwidth and storage requirements.
+The high frame rate capability also allows users creative flexibility for slow motion capture.
+We offer a range of complementary PowerVR display IP to enhance the visual quality of the video output.
+A further complementary PowerVR vision IP family is in development.
+We provide extensive support for integrating our PowerVR graphics, video and vision technologies to enable unrivalled total visual processing solutions for TV and mobile devices.

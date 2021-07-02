@@ -1,0 +1,29 @@
+302 Aviva plc Notes to the consolidated financial statements continued Annual Report and Accounts 2010 58 Derivative financial instruments This note gives details of the various derivative instruments we use to mitigate risk.
+The Group uses a variety of derivative financial instruments, including both exchange traded and over-the-counter instruments, in line with our overall risk management strategy.
+The objectives include managing exposure to price, foreign currency and or interest rate risk on existing assets or liabilities, as well as planned or anticipated investment purchases.
+In the narrative and tables below, figures are given for both the notional amounts and fair values of these instruments.
+The notional amounts reflect the aggregate of individual derivative positions on a gross basis and so give an indication of the overall scale of the derivative transaction.
+They do not reflect current market values of the open positions.
+The fair values represent the gross carrying values at the year end for each class of derivative contract held or issued by the Group.
+The fair values do not provide an indication of credit risk, as many over-the-counter transactions are contracted and documented under ISDA International Swaps and Derivatives Association, Inc. master agreements or their equivalent.
+Such agreements are designed to provide a legally enforceable set-off in the event of default, which reduces credit exposure.
+In addition, the Group has collateral agreements in place between the individual Group entities and relevant counterparties.
+a Hedged derivatives The Group has formally assessed and documented the effectiveness of its hedged derivatives in accordance with IAS 39, Financial Instruments: Recognition and Measurement.
+To aid discussion and analysis, these derivatives are analysed into cash flow, fair value and net investment hedges, as detailed below.
+i Cash flow hedges The Group has used forward starting interest rate swap agreements in the United States to hedge the variability in future cash flows associated with the forecasted purchase of fixed-income assets.
+During 2010, the cash flow hedges were discontinued, resulting in a fair value gain of nil.
+The notional value of these interest rate swaps was 3 million at 31 December 2009 and their fair value was nil.
+ii Fair value hedges The Group has entered into a number of interest rate swaps in order to hedge fluctuations in the fair value part of its portfolio of mortgage loans and debt securities in the Netherlands and the United States.
+The notional value of these interest rate swaps was 2,170 million at 31 December 2010 2009: 3,060 million and their fair value was 74 million liability 2009: 184 million liability.
+These hedges were fully effective during the year.
+iii Net investment hedges To reduce its exposure to foreign currency risk, the Group has entered into the following net investment hedges: The Group has designated a portion of its euro and US dollar denominated debt as a hedge of the net investment in its European and American subsidiaries.
+The carrying value of the debt at 31 December 2010 was 2,791 million 2009: 2,806 million and its fair value at that date was 2,811 million 2009: 2,709 million.
+The foreign exchange gain of 53 million 2009: gain of 255 million on translation of the debt to sterling at the statement of financial position date has been recognised in the hedging instruments reserve in shareholders equity.
+This hedge was fully effective throughout the current and prior years.
+The Groups sterling euro cross currency swap derivative, which was designated as a hedge of the net investment in its European subsidiaries, matured in November 2010.
+Therefore, the notional value of the derivative at 31 December 2010 was nil 2009: 500 million and its fair value at that date was nil 2009: 120 million liability.
+The fair value gain on maturity was 22 million.
+This hedge was fully effective up to its maturity.
+Financial statements IFRS 303 Performance review Aviva plc Notes to the consolidated financial statements continued Annual Report and Accounts 2010 Corporate responsibility Governance Shareholder information Financial statements IFRS Financial statements MCEV Other information 58 Derivative financial instruments continued b Non-hedge derivatives Non-hedge derivatives either do not qualify for hedge accounting under IAS 39 or the option to hedge account has not been taken.
+The Groups derivative risk management policies are outlined in note 57 b. ii The contractual undiscounted cash flows in relation to non-hedge derivative liabilities have the following maturities: 2010 2009 m m Within one year 1,037 1,238 Between one and two years 320 155 Between two and three years 320 66 Between three and four years 274 74 Between four and five years 263 51 After five years 2,923 657 5,137 2,241 c Collateral Certain derivative contracts, primarily interest rate and currency swaps, involve the receipt or pledging of collateral.
+The amounts of collateral receivable or repayable are included in notes 26 and 50 respectively.

@@ -1,0 +1,118 @@
+Financial_NN
+Calendar_NN
+This_DEMO
+years_NN
+Annual_JJ
+General_NN
+Meeting_VBG [WZPRES]
+will_PRMD
+be_VB [PASS]
+held_VBN [PRIV]
+on_PIN
+Wednesday_NN
+12_CD
+May_POMD
+2004_CD
+at_PIN
+11.00_CD
+am_VPRT
+._.
+Announcements_NOMZ
+,_,
+ordinary_JJ
+share_NN
+dividend_NN
+payments_NOMZ
+and_CC
+the_DT
+issue_NN
+of_PIN
+the_DT
+annual_JJ
+and_PHC
+interim_JJ
+reports_NN
+may_POMD [SPAU]
+normally_RB
+be_VB [PASS]
+expected_VBN [PRIV]
+in_PIN
+the_DT
+following_JJ
+months_NN
+:_:
+March_NN
+Preliminary_JJ
+figures_NN
+and_CC
+recommended_VBD [SUAV]
+final_JJ
+dividend_NN
+for_PIN
+year_NN
+announced_VBD [PUBV]
+._.
+Annual_JJ
+report_NN
+and_PHC
+accounts_NN
+published_VBN
+May_POMD
+Annual_JJ
+General_NN
+Meeting_VBG [WZPRES]
+and_CC
+final_JJ
+dividend_NN
+paid_VBN
+September_NN
+Interim_NN
+results_NN
+announced_VBD [PUBV]
+October_NN
+Interim_NN
+report_NN
+for_PIN
+half-year_NN
+to_PIN
+31_CD
+July_NN
+published_VBN
+and_CC
+interim_JJ
+dividend_NN
+paid_VBN
+Capital_NN
+Gains_NN
+Tax_NN
+Information_NOMZ
+The_DT
+market_NN
+value_NN
+on_PIN
+31_CD
+March_NN
+1982_CD
+of_PIN
+the_DT
+companys_NN
+ordinary_JJ
+shares_NN
+was_VBD [BEMA]
+62.5_CD
+p_NN
+per_PIN
+share_NN
+._.
+PAGE_NN
+30_CD
+Edinburgh_NN
+US_FPP1
+Tracker_NN
+Trust_NN
+plc_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2004_CD

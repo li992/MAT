@@ -1,0 +1,46 @@
+This resulted in the decrease in gross fair values and a commensurate decrease in the offset amount.
+499 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report HSBC HOLDINGS PLC Notes on the Financial Statements continued 18 Derivatives Fair values of derivatives by product contract type held by HSBC Holdings with subsidiaries Assets Liabilities Trading Hedging Total Trading Hedging Total US$m US$m US$m US$m US$m US$m At 31 December 2013 Foreign exchange................................................ 1,774 45 1,819 471 471 Interest rate......................................................... 955 15 970 233 233 2,729 60 2,789 704 704 At 31 December 2012 Foreign exchange................................................ 1,636 1,636 760 760 Interest rate......................................................... 2,132 2,132 3,768 3,768 760 760 Derivatives are financial instruments that derive their value from the price of underlying items such as equities, bonds, interest rates, foreign exchange, credit spreads, commodities and equity or other indices.
+Derivatives enable users to increase, reduce or alter exposure to credit or market risks.
+Derivatives are carried at fair value and shown in the balance sheet as separate totals of assets and liabilities.
+A description of how the fair value of derivatives is derived is set out on page 488.
+Derivative assets and liabilities are only offset and reported net in the balance sheet when there is a legally enforceable right to offset and the cash flows are intended to be settled on a net basis.
+Use of derivatives HSBC transacts derivatives for three primary purposes: to create risk management solutions for clients, to manage the portfolio risks arising from client business and to manage and hedge HSBCs own risks.
+Derivatives except for derivatives which are designated as effective hedging instruments as defined in IAS 39 are held for trading.
+Within the held-for-trading classification are two types of derivatives: those used in sales and trading activities, and those used for risk management purposes but which for various reasons do not meet the qualifying criteria for hedge accounting.
+The second category includes derivatives managed in conjunction with financial instruments designated at fair value.
+These activities are described more fully below.
+HSBCs derivative activities give rise to significant open positions in portfolios of derivatives.
+These positions are managed constantly to ensure that they remain within acceptable risk levels.
+When entering into derivative transactions, HSBC employs the same credit risk management framework to assess and approve potential credit exposures that it uses for traditional lending.
+Trading derivatives Most of HSBCs derivative transactions relate to sales and trading activities.
+Sales activities include the structuring and marketing of derivative products to customers to enable them to take, transfer, modify or reduce current or expected risks.
+Trading activities include market-making and risk management.
+Market-making entails quoting bid and offer prices to other market participants for the purpose of generating revenues based on spread and volume.
+Risk management activity is undertaken to manage the risk arising from client transactions, with the principal purpose of retaining client margin.
+Other derivatives classified as held for trading include non-qualifying hedging derivatives, ineffective hedging derivatives and the components of hedging derivatives that are excluded from assessing hedge effectiveness.
+Nonqualifying hedging derivatives are entered into for risk management purposes but do not meet the criteria for hedge accounting.
+Trading derivatives also include derivatives managed in conjunction with financial instruments designated at fair value.
+Gains and losses from changes in the fair value of derivatives, including the contractual interest, that do not qualify for hedge accounting are reported in Net trading income except for derivatives managed in conjunction with financial instruments designated at fair value, where gains and losses are reported in Net income from financial instruments designated at fair value together with the gains and losses on the economically hedged items.
+Where the derivatives are managed with debt securities in issue, the contractual interest is shown in Interest expense together with the interest payable on the issued debt.
+Substantially all of HSBC Holdings derivatives entered into with HSBC undertakings are managed in conjunction with financial liabilities designated at fair value.
+500 The notional contract amounts of derivatives held for trading purposes indicate the nominal value of transactions outstanding at the balance sheet date: they do not represent amounts at risk.
+The 23% increase in the notional contract amounts of HSBCs derivatives during 2013 was primarily driven by an increase in the trading volumes of interest rate contracts.
+Risk is typically controlled through entering into offsetting credit derivative contracts with other counterparties.
+HSBC manages the credit risk arising on buying and selling credit derivative protection by including the related credit exposures within its overall credit limit structure for the relevant counterparty.
+Trading of credit derivatives is restricted to a small number of offices within the major centres which have the control infrastructure and market skills to manage effectively the credit risk inherent in the products.
+Credit derivatives are also deployed to a limited extent for the risk management of the Groups loan portfolios.
+The notional contract amount of credit derivatives of US$678bn 2012: US$902bn consisted of protection bought of US$339bn 2012: US$446bn and protection sold of US$339bn 2012: US$455bn.
+The credit derivative business operates within the market risk management framework described on page 281.
+501 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report HSBC HOLDINGS PLC Notes on the Financial Statements continued 18 Derivatives Hedge accounting derivatives HSBC uses derivatives principally interest rate swaps for hedging purposes in the management of its own asset and liability portfolios and structural positions.
+This enables HSBC to optimise the overall cost to the Group of accessing debt capital markets, and to mitigate the market risk which would otherwise arise from structural imbalances in the maturity and other profiles of its assets and liabilities.
+The accounting treatment of hedge transactions varies according to the nature of the instrument hedged and the type of hedge transactions.
+Derivatives may qualify as hedges for accounting purposes if they are fair value hedges, cash flow hedges, or hedges of net investment in foreign operations.
+These are described under the relevant headings below.
+The notional contract amounts of derivatives held for hedge accounting purposes indicate the nominal value of transactions outstanding at the balance sheet date: they do not represent amounts at risk.
+For fair value hedges, all changes in the fair value of the derivative and in the fair value of the item in relation to the risk being hedged are recognised in the income statement.
+If the hedge relationship is terminated, the fair value adjustment to the hedged item continues to be reported as part of the basis of the item and is amortised to the income statement as a yield adjustment over the remainder of the hedging period.
+Cash flow hedges HSBCs cash flow hedges consist principally of interest rate swaps, futures and cross-currency swaps that are used to protect against exposures to variability in future interest cash flows on non-trading assets and liabilities which bear interest at variable rates or which are expected to be re-funded or reinvested in the future.
+The amounts and timing of future cash flows, representing both principal and interest flows, are projected for each portfolio of financial assets and liabilities on the basis of their contractual terms and other relevant factors, including estimates of prepayments and defaults.
+The aggregate principal balances and interest cash flows across all portfolios over time form the basis for identifying gains and losses on the effective portions of derivatives designated as cash flow hedges of forecast transactions.
+Gains and losses are initially recognised in other comprehensive income, and accumulated in the cash flow hedging reserve, and are transferred to the income statement when the forecast cash flows affect the income statement.
+503 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report

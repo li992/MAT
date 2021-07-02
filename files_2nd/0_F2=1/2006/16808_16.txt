@@ -1,0 +1,41 @@
+Definition of Terms The definition of terms used throughout the performance section is detailed below.
+These terms are not uniformly defined by all companies in the Groups industry.
+Accordingly, such measures may not be comparable with similarly titled measures and disclosures by other companies.
+3G broadband A technology which enables data transmission at speeds of up to two megabits per second.
+3G device A handset or device capable of accessing 3G data services.
+Acquired intangibles Amortisation relating to intangible assets identified and recognised separately in respect of a business combination in excess of the intangible amortisation assets recognised by the acquiree prior to acquisition.
+Active customer A customer who either pays a monthly fee or has made or received a chargeable event in the last three months.
+The active customers are expressed as a percentage of the closing customer base.
+Contract and prepaid activity is reported separately.
+ARPU Total revenue excluding handset revenue and connection fees divided by the weighted average number of customers during the period.
+Capitalised fixed asset This measure includes the aggregate of capitalised property, plant and equipment additions and capitalised software costs.
+additions Churn Total gross customer disconnections in the period divided by the average total customers in the period.
+Controlled and jointly The networks include the Groups mobile operating subsidiaries and joint ventures.
+Measures for controlled and jointly controlled networks controlled networks include 100% for subsidiaries and the Groups proportionate share for joint ventures.
+Customer A customer is defined as a Subscriber Identity Module SIM, or in territories where SIMs do not exist, a unique mobile telephone number, which has access to the network for any purpose including data only usage except telemetric applications.
+Telemetric applications include, but are not limited to, asset and equipment tracking, mobile payment and billing functionality for example, vending machines and meter readings and include voice enabled customers whose usage is limited to a central service operation for example, emergency response applications in vehicles.
+SIM information is derived from local operating company billing systems.
+Data revenue Data revenue includes all non-voice service revenue excluding messaging.
+Depreciation and other This measure includes the profit or loss on disposal of property, plant and equipment.
+amortisation EBITDA Adjusted operating profit before depreciation and amortisation.
+Interconnect costs A charge paid by Vodafone to other fixed line or mobile operators when a Vodafone customer calls a customer connected to a different network.
+Messaging revenue Messaging revenue comprises revenue from providing SMS and MMS services including wholesale messaging revenue, revenue from the use of messaging services by Vodafone customers roaming away from their home network and customers visiting the local network.
+Net acquisition costs The total of connection fees, trade commissions and equipment costs, net of related revenue, relating to new customer connections.
+This performance indicator is commonly used in the mobile telecommunications industry and by Vodafone management to compare net subsidies provided to acquire customers to prior periods and internal forecasts.
+Management believes that this measure provides useful information for investors regarding trends in net subsidies to acquire customers for mobile telecommunications services from period to period.
+Net retention costs The total of trade commissions, loyalty scheme and equipment costs, net of related revenue, relating to customer retention and upgrade.
+This performance indicator is commonly used in the mobile telecommunications industry and by Vodafone management to compare net subsidies provided to retain customers to prior periods and internal forecasts.
+Management believes that this measure provides useful information for investors regarding trends in net subsidies to retain customers for mobile telecommunications services from period to period.
+Organic growth The percentage movements in organic growth are presented to reflect operating performance on a comparable basis.
+Where an entity, being a subsidiary, joint venture or associated undertaking, was newly acquired or disposed of in the current or prior period, the Group adjusts, under organic growth calculations, the results for the current and prior period to remove the amount the Group earned in both periods as a result of the acquisition or disposal of subsidiary or associated undertakings.
+Where the Group increases, or decreases, its ownership interest in a joint venture or associated undertaking in the current or prior period, the Groups results for the prior period are restated at the current periods ownership level.
+Further adjustments in organic calculations exclude the effect of exchange rate movements by restating the prior periods results as if they had been generated at the current periods exchange rates and excludes the amortisation of acquired intangible assets.
+Proportionate customers The proportionate customer number represents the number of mobile customers in ventures which the Group either controls or invests, based on the Groups ownership in such ventures.
+Purchased licence Amortisation relating to capitalised licence and spectrum fees purchased directly by the Group, and such fees recognised by an acquiree prior to amortisation acquisition.
+Service revenue Service revenue comprises all revenue related to the provision of ongoing services including, but not limited to, monthly access charges, airtime usage, roaming, incoming and outgoing network usage by non-Vodafone customers and interconnect charges for incoming calls.
+Termination rate A per minute charge paid by a telecommunications network operator when a customer makes a call to another mobile or fixed line network operator.
+active device A handset or device equipped with the Vodafone live!
+portal which has made or received a chargeable event in the last month.
+VOIP Voice over internal protocol is the routing of voice calls over the internet or through another IP based network.
+WiFi WiFi refers to underlying technology of wireless local area networks which enable a user, with WiFi devices, to connect to the internet in range of a WiFi access point.
+Vodafone Group Plc Annual Report 2006 49 Performance

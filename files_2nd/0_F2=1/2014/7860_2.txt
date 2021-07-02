@@ -1,0 +1,118 @@
+Explaining Imagination Imagination is one of the worlds top three silicon IP companies.
+We package our IP in ever more creative ways, from IP cores, through subsystem IP platforms, to complete solution IP reference Weve achieved that position because we have a passion for platforms.
+This makes us unique in the IP business.
+We are the IP innovation and the drive to develop technologies that enrich our company with a true focus on the solutions our customers require customers products, and their customers lives.
+as a springboard to differentiation, best time to market and We create and license market-leading processor solutions for graphics, compelling ROI return on investment.
+video and vision processing, CPU processors, multi-standard Our silicon and software intellectual property solutions for connectivity, and cross-platform voice video communication.
+systems-on-chip are complemented by an extensive portfolio The Companys broad range of silicon IP intellectual property of software drivers, developer tools and extensive market and includes the key processing blocks needed to create the Systems technology-focused ecosystems.
+on Chips SoC that power all mobile, consumer and embedded Our technology has unique advantages that make it highly electronics.
+desirable, even to market leading technology companies.
+Our unique software IP, infrastructure technologies and system Our focus on low power consumption, the smallest silicon solutions enable our customers to get to market quickly with area, and the highest efficiency are three leading reasons our complete and highly differentiated SoC platforms.
+technology is in demand from leading chip companies.
+These Imaginations licensees include many of the worlds leading design imperatives permeate everything we do.
+semiconductor manufacturers, network operators and OEMs Through our market leading and innovative customers we are in ODMs who are creating some of the worlds most iconic products.
+iconic, ubiquitous and life enhancing products.
+They are attracted to us because we build win-win partnerships With over seven billion units shipped there is an Imagination that enable our customers to differentiate their products using our enabled product for everyone on earth.
+IP, and together deliver unique products and businesses.
+Our broad portfolio of IP and our future technology vision is designed to inspire innovation and disruptive designs from the best engineers in the world.
+It is a mark of the quality of what we do that our technology is accepted and innovated further upon by the very best chip, product and software companies.
+Hossein Yassaie, CEO, Imagination Technologies Ensigma Communications PowerVR Processors Graphics and FlowCloud GPU Compute Processors Cloud Technologies Unified Memory MIPS General PowerVR Processors Video and Vision Processors Strategic report Directors report Financial report 5 Business model Vision At the heart Imagination is a semiconductor IP company.
+Our We enable world-class companies to deliver truly life enhancing focus is on a growing portfolio of software and infrastructure products, developers to create engaging user experiences, and technologies required for enabling system-level cloud-connected students and makers to create exciting new applications for designs.
+We complement this with an increasing number of education and entertainment.
+Our vision is to constantly be at the leading edge, driving We license fundamental multimedia, communications and innovation and improving the lifestyle or work of everyone who processor technologies and receive a royalty when products touches our technologies.
+using those technologies ship into the market.
+Over time, we have enabled mobile graphics to revolutionize Our royalties are usually based on our customers ASP average user interfaces and gaming, delivered one of the first true RISC selling price.
+processor architectures, and continue to drive mobile video quality and efficiency.
+The balance between licensee fees, support and royalty means that our profit comes from our participation in our customers Now we are pushing multi-standard on chip communications success.
+into the consumer market, bringing photorealistic graphics into the mainstream and providing comprehensive device to cloud technologies.
+We refuse to rest on our laurels.
+At Imagination the drive to innovate through smart R&D is behind everything we do.
+We try to understand trends and look five to ten years into the future, because the IP development cycle takes many years.
+We get the vision right but then we have to execute with high quality too.
+That combination of vision and delivery is what makes Imagination a valued partner to technology leaders.
+John Metcalfe, COO, Imagination Whilst we built Imagination on the success of our mobile graphics IP and our digital broadcast and audio technologies, all that we have learnt in creating those technologies flows into the other technologies weve created.
+The values we built into these technologies are becoming the core ingredients of success in other markets too.
+Innovation and efficiency are in our DNA.
+Unlike some IP companies, we think from the chip to the system.
+Our close interaction with leading consumer electronics companies, and our own consumer brands such as Pure, Visualizer, Flow and Caskeid, give us an insight into consumer thinking and market demand that helps us create the right technologies for the future.
+6 Innovation Innovation is essential to our business.
+driving and smart cameras where there are new opportunities for innovative fabless companies with specialist knowledge and focus It is our ability to innovate with new technologies that keeps us in to succeed.
+the top three IP companies worldwide source: Gartner.
+For example, Imagination understands that a smart health care And it is the success and respect for those technologies that has technology company needs to understand how their medical won us loyal support from a wide community of movers and sensors work and what algorithms are needed to extract that shakers in the technology world.
+data and usefully apply it.
+But theres no point in that company spending time worrying about the processor or connectivity Our collaboration with Imagination is helping to optimize technologies used when they could be focused on the areas future generations of our most advanced process technologies where their specialist domain knowledge is most valuable.
+Suk Lee, TSMC Senior Director, Design Infrastructure Marketing Division Imagination is there to supply the processor, connectivity and cloud technologies on which that company can build its innovative health application.
+Not only are the architectures we license innovative, but increasingly so are the ways in which we deliver them.
+Our IP For companies seeking to produce SoCs for extremely broad and platforms, scalable from subsystem IP to full SoCs, are one way demanding markets, such as mobile or computing, the range of in which we help customers produce more advanced functions domain knowledge and applications required will be larger but the quickly, enabling them to focus on the significant value they add fundamental principle is the same.
+Such companies deliver value in creating complete solutions, as well as their strengths in design best by focusing on the platform they deliver rather than on the implementation, manufacturing, and sales and marketing.
+SoC building blocks on which that platform rests.
+Devices of the future will be delivered by both the large While we innovate in new processor architectures and their semiconductor companies and specialists in their markets.
+delivery, our customers are free to innovate new user experiences, Imagination works with both.
+develop new markets and build strong content and ecosystem propositions.
+The complex SoCs needed for mobile are often successfully delivered by large, well funded and international companies.
+We are about enabling platforms.
+Our job isnt to actually do The move to SoCs has meant fewer players can be successful platforms.
+Customers can mix and match and ultimately its our in mobile markets.
+However, there are emerging application customers that decide which pieces they want.
+areas, such as the Internet of Things, home automation, assisted Hossein Yassaie, CEO, Imagination Design Optimization Kits By making back-end design and physical implementation Our close collaboration with Imagination over the years easier, Imagination is making it easier for our partners to focus has encompassed both CPUs and GPUs and is achieving on innovation.
+The new DOK for Imaginations PowerVR Series6 GPU demonstrates how both companies leveraged We are making high performance designs easier to achieve our individual expertise to create an optimized, validated through our Design Optimization Kits DOKs.
+solution for our mutual customers.
+John Koeter, Vice President These kits are complete solutions comprised of IP, libraries from of Marketing for IP and Systems, Synopsys partners, optimized reference floorplans and flows developed by Imagination.
+Each DOK addresses these challenges by providing a In todays SoC designs, complexity and frequencies have comprehensive design optimization solution for Imaginations steadily increased, while power budgets remain unchanged.
+IP licensees that allows them to significantly accelerate time Companies need validated solutions that provide the flexibility to market.
+to optimize for power, performance and area PPA in their GPU, CPU, and other heterogeneous processor implementations.
+Strategic report Directors report Financial report 7 Efficiency Global reach Everything Imagination designs starts from the principle Imagination was established in 1985 in Britain and has a long that it must be ultra low power and efficient.
+This is why our history as an IP provider, with partners amongst the worlds technologies are the best for all the markets we serve.
+We are a British company with a world outlook.
+Low power design smallest area low memory bandwidth highly efficient architectures.
+Imagination has over 1,600 employees May 2014, and growing, across more than a dozen countries.
+The unrivalled breadth of our range of technologies which stretches across multimedia, CPU, connectivity and cloud Our headquarters and primary R&D base is in Kings Langley, near means we have the ultimate toolkit for designing comprehensive London, UK, with major R&D centres across the UK, USA and solutions, and makes us the go to company for companies to India, as well as other centres in Australia, China, Israel, New whom innovation and differentiation are important.
+We keep close to our technology customers and partners With each successive generation of our EyeQ products, worldwide, with sales and support offices across the USA, we have achieved more than 6x increase in performance, and Europe, China, Japan, Korea and Taiwan.
+Imaginations multi-threaded MIPS cores have played a key role in that achievement.
+Elchanan Rushinek, Mobileye SVP Engineering.
+Our growing support and sales teams are located in all our key regional markets to ensure that customers always have access to experts who speak their language in their time zone.
+Our R&D We aim to deliver highly efficient, low power processing to tackle centres are in strong technology regions, which offer highlyall forms of multimedia and embedded applications, enabling the developed skills and academic excellence.
+widest range of price performance points to be addressed across dynamic markets.
+We hold The Queens Award for Enterprise in the International Trade category, the fifth Queens Award we have won.
+Each year we run successful events with our partners around the world, including China, India, Japan, Korea, the USA, Poland, Russia, Taiwan and of course the UK.
+300x PowerVR Series6 6XT All with low power consumption 250x 200x 150x PowerVR 100x Series5XT PowerVR 50x PowerVR Series5 Series4 0x 2009 2010 2011 2012 2013 2014 Mobile GPUs are now 300x faster than the first smartphones 8 Relative Graphics Performance Markets We focus on key market segments where technology is a driver.
+This translates into a wide array of markets including mobile phones, mobile computing and multimedia, home electronics, automotive, networking, IoT, and many other emerging markets such as health, smart energy and wearables.
+Increasingly, consumers expect to be able to access the broad range of media and features they use every day no matter what device they are using.
+This convergence means that markets increasingly share common requirements.
+Our common IP across all markets enables us to drive and ride the convergence trend.
+Because Imagination is focused on systems and solutions, and takes the initiative to get inside how consumers think about and experience new technology, we understand market trends and use this knowledge to help our partners navigate the challenges brought about by the increasing convergence between traditionally separate markets.
+Healthcare Computer Security Home Phone automation TV radio Toys We need connected solutions for everything!
+and more to come Industrial Car Everything The Internet of Things will reach everywhere Strategic report Directors report Financial report 9 Strategy Partnership Imagination has delivered on a strategy of innovation and We work closely with many of the biggest semiconductor diversification that has created a globally recognized technology companies in the world.
+Licensees Thanks to the long and deep relationships we have with our licensees, and our many strategic and ecosystem partners, we believe the lives of billions of consumers around the world are being enriched by Imagination.
+We are proud to contribute technologies that satisfy the creativity and aspirations of some of the brightest stars of software and hardware engineering, and solutions architects, complemented by innovative business models.
+As we increase our ability to deliver a full range of technologies we P M C - S I E R R A are also increasing the value we can achieve per SoC with our IP inside.
+We are also creating complementary technologies to help our partners create complete solutions, faster.
+SUNPLUS Through creating B2C businesses we are making sure that our customers can get to market, in timely and compelling products.
+Strategic partners And we are continuing to reinvest and grow R&D, which is the engine of the companys growth, as well as worldwide support functions, to ensure we are in step with our customers.
+The underlying business model of IP is to maximize reuse across different markets.
+This is good for our customers who want to get the best value out of their licensing investment.
+And it is good for Imagination because it reduces the risks of exposure to a single market and leads to higher volume shipments.
+Our business model puts partnership first, focused on our mutual goal of successful and timely volume shipments and long-term strategic innovation.
+Putting Imagination into the cloud Our partners include many of the leading companies in the The next evolution of cloud computing will see the demand semiconductor and consumer electronics spheres.
+They have for hierarchical communications that sit between devices and created some of the most iconic and culturally important products the cloud, with multiple levels of intelligence.
+Routers and other networking infrastructure equipment will Our customers include seven of the top 10 semiconductor get smarter, deciding when and how to either hold onto companies source: IC Insights, 1Q14 Semiconductor Sales the data they gather, or send that data to cloud systems for Leaders and five of the top 10 consumer electronics companies processing.
+on the basis of market value, 2013.
+Smartness will be pervasive even at the sensor level.
+The We are intensely relationship focused, working closely with our future cloud will be comprised of billions of small and partners to help them get successfully to market, ultimately increasingly smart sensors which will help avoid the data shipping high volumes of advanced semiconductors containing and signaling overload threatened by the explosion of IoT by our technologies.
+making decisions at the sensor level about what to do with the data gathered.
+As a royalty-based business, our partners success is our success.
+Imagination is a leader in the embedded smart processors, Our current key strategic partnerships include numerous API, the connectivity technologies, and the cloud infrastructures operating system, standards and tools organizations as well as needed to make this happen.
+numerous tier-one technology companies, game engine providers and foundries.
+10 Communities Our ecosystem communities formalize the ways we work with some partners, providing them with benefits and resources such Java as education, tools, support, introductions to key partners and We have engaged in a broad collaboration with Oracle Corp. access to our best technologies.
+intended to enhance Java for embedded and Internet of These communities comprise companies large and small that Things IoT applications and optimize Java for the MIPS CPU create software or other products using chips containing our IP.
+We work with thousands of developers who support ImaginationOracle and Imagination are working together to bring based platforms with the most innovative and exciting content as the Oracle JDK Java Development Kit, Oracle Java SE well as with comprehensive tools, middleware and support.
+Embedded, and other product support to MIPS32 and MIPS64 systems.
+Increasingly Imaginations partners are working together in Java is the foundation for a broad range of networked communities that target distinct areas in which we excel, including applications and is a global standard for developing and GPU, processor, IoT, augmented reality, design services, apps delivering embedded, web-based and enterprise content, and more.
+We have continued to expand our ecosystem programmes, to help Imaginations licensees and key partners meet and engage The MIPS architecture is widely used in networking, with a broad community of developers, middleware providers, embedded and other key markets.
+Through this new foundries, EDA and tool vendors, and third party support relationship with Imagination, we are strengthening the teams and provide extensive co-marketing opportunities for presence of Java in a range of high-volume markets.
+product manufacturers, content developers and semiconductor Nandini Ramani, Vice President, Java and Internet of Things, Oracle companies.
+With broad Java support for MIPS32 and MIPS64 instruction Under Imagination, we are seeing growing demand for set architectures ISAs, MIPS licensees can make use of MIPS.
+With Imaginations and Green Hills Softwares combined expertise in security, multi-threaded and multicore CPUs, and this highly portable language and platform for a broad range heterogeneous computing, [our] collaboration will provide of applications including routers, wireless access points, tremendous value to joint customers.
+Mike Haden, residential gateways, next-generation consumer premises General Manager, Advanced Products, Green Hills Software equipment CPE, other networking equipment, mobile devices, IoT, embedded and more.
+In addition, Imagination and Oracle will be working to improve Java on systems using Imaginations PowerVR graphics.
+Strategic report Directors report Financial report 11

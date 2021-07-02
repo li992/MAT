@@ -1,0 +1,4 @@
+Note_VB 2_CD :_: Operating_NN margin_NN has_VBZ been_VBN calculated_VBN as_IN operating_NN profit_NN over_IN turnover_NN ._.
+Note_VB 3_CD :_: Return_NN on_IN shareholders_NNS funds_NNS has_VBZ been_VBN calculated_VBN as_IN profit_NN after_IN interest_NN and_CC tax_NN over_IN closing_VBG shareholders_NNS funds_NNS ._.
+Note_VB 4_CD :_: Return_NN on_IN capital_NN employed_VBN has_VBZ been_VBN calculated_VBN as_IN profit_NN before_IN interest_NN and_CC tax_NN over_IN the_DT average_NN of_IN opening_NN and_CC closing_VBG shareholders_NNS funds_NNS plus_CC debt_NN ._.
+Bovis_NNP Homes_NNP Group_NNP PLC_NNP Page_NNP 89_CD

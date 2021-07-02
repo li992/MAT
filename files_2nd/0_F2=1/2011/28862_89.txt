@@ -1,0 +1,123 @@
+Market risk risks associated with its activities.
+The Global Market Risk Committee All the disclosures in this section pages 229 to 235 are audited, unless reviews and makes recommendations concerning the market risk profile indicated otherwise with an asterisk.
+across the Group, including risk appetite, risk policy, models, methodology and market risk development issues.
+The committee meets Market risk arises from changes in interest rates, foreign currency, credit monthly and is chaired by the Global Head of Market & Insurance Risk.
+spreads, equity prices and risk related factors such as market volatilities.
+Attendees include respective business market risk managers and Group The Group manages market risk centrally within its trading and nonMarket Risk.
+trading portfolios through a comprehensive market risk management framework.
+This control framework includes qualitative guidance in the Risk management form of comprehensive policy statements, dealing authorities, limits Key principles based on, but not limited to, value-at-risk VaR, stress testing, positions The Groups qualitative market risk appetite is set out in policy and sensitivity analyses.
+statements, which outline the governance, responsibilities and requirements surrounding the identification, measurement, analysis, Governance management and communication of market risk arising from the trading Business structure and non-trading investment activities of the Group.
+All teams involved in The primary focus of the Groups trading activities is to provide an the management and control of market risk are required to fully comply extensive range of debt and equity financing, risk management and with the policy statements to ensure the Group is not exposed to market investment services to its customers, including major corporations and risk beyond the qualitative and quantitative risk appetite.
+The control financial institutions around the world.
+The Group undertakes these framework covers the following principles: activities organised within the principal business lines: money markets, Clearly defined responsibilities and authorities for the primary rates flow trading, currencies and commodities, equities, credit markets groups involved in market risk management in the Group: and portfolio management and origination.
+An independent market risk management process: Financial instruments held in the Groups trading portfolios include, but are not limited to: debt securities, loans, deposits, equities, securities sale A market risk measurement methodology that captures correlation and repurchase agreements and derivative financial instruments.
+effects and allows aggregation of market risk across risk types, markets and business lines: The Group undertakes transactions in financial instruments that are traded or cleared on an exchange, including interest rate swaps, futures Daily monitoring, analysis and reporting of market risk exposures and options.
+Holders of exchange traded instruments provide margin on a against market risk limits: daily basis with cash or other security at the exchange.
+Clearly defined limit structure and escalation process in the event of The Group also undertakes transactions in financial instruments that are a market risk limit excess: traded over-the-counter OTC rather than on a recognised exchange.
+These instruments range from commoditised transactions in derivative Use of VaR as a measure of the one-day market risk exposure of all markets, to trades where the specific terms are tailored to meet customer trading positions: requirements.
+Assets and liabilities in the trading book are measured at their fair value.
+Use of non-VaR based limits and other controls: Fair value is the amount at which the instrument could be exchanged in a current transaction.
+The fair values are determined following IAS 39 Use of stress testing and scenario analysis to support the market guidance, which requires banks to use quoted market prices or, where risk measurement and risk management process by assessing how this is not possible, valuation techniques models that make appropriate portfolios and global business lines perform under extreme market use of available observable inputs.
+When marking to market using a conditions: model, the valuation methodologies are approved by all stakeholders trading, finance, market risk, model development and model review Use of back-testing as a diagnostic tool to assess the accuracy of prior to use for profit and loss and risk management purposes.
+Any profits the VaR model and other risk management techniques: or losses on the revaluation of positions are recognised in the daily profit and loss.
+Adherence to the risks not in VaR RNIV framework to identify and quantify risks not captured within the VaR model: and Organisation structure Independent oversight and support is provided to the business by the A new product approval process that requires market risk teams to Global Head of Market & Insurance Risk, assisted by the Group and assess and quantify market risk associated with proposed new business Market Risk teams.
+The head of each business, assisted by a products.
+business market risk management team, is accountable for all market RBS Group 2011 229 Business review Risk and balance sheet management continued Risk management: Market risk continued Quantitative risk appetite The FSA categorises a VaR model as green, amber or red.
+A green The Executive Risk Forum ERF approves the quantitative market risk model status is consistent with a good working model and is achieved for appetite for trading and non-trading activities.
+The Global Head of Market models that have four or fewer back-testing exceptions in a 12-month & Insurance Risk, under delegated authority from the ERF, sets and period.
+For the Groups trading book, a green model status was populates a limit framework, which is cascaded down through legal entity, maintained throughout 2011. division, business and desk level market risk limits.
+The Groups VaR should be interpreted in light of the limitations of the At the Group level, the risk appetite is expressed in the form of a methodology used, as follows: combination of VaR, sensitivity and stress testing limits.
+Historical simulation VaR may not provide the best estimate of future A daily report summarises the Groups market risk exposures against the market movements.
+It can only provide a prediction of the future agreed limits.
+This daily report is sent to the Head of Restructuring & based on events that occurred in the two-year time series.
+Therefore, Risk, Global Head of Market & Insurance Risk, business Chief Risk events that are more severe than those in the historical data series Officers and appropriate business market risk managers.
+Legal entities, divisions and lower levels in the business also have an The use of a 99% confidence level does not reflect the extent of appropriate market risk framework of controls and limits in place to cover potential losses beyond that percentile.
+all material market risk exposures.
+The use of a one-day time horizon will not fully capture the profit and The specific market risk metrics that are appropriate for controlling the loss implications of positions that cannot be liquidated or hedged positions of a desk will be more granular than the Group level limits and within one day.
+tailored to the particular business.
+The Group computes the VaR of trading portfolios at the close of In line with the overall business strategy to reduce risk exposures, the business.
+Positions may change substantially during the course of Groups market risk limits were adjusted down during 2011. the trading day and, if so, intra-day profit and losses will be incurred.
+The majority of the Groups market risk exposure is in the GBM and NonThese limitations mean that the Group cannot guarantee that losses will Core divisions and Group Treasury.
+The Group is also exposed to market not exceed the VaR.
+risk through interest rate risk on its non-trading activities.
+There are additional non-trading market risks in the retail and commercial The RNIV framework has been developed to quantify those market risks businesses of the Group, principally interest rate risk and foreign not adequately captured by the market standard VaR methodology.
+These aspects are discussed in more detail in Balance Where risks are not included in the model, various non-VaR controls for sheet management - Interest rate risk on pages 131 and 132 and example, portfolio size limits, sensitivity limits, triggers or stress limits are structural foreign currency exposures on page 133. in place.
+Risk models Risk models are developed both within business units and by Group VaR is a technique that produces estimates of the potential change in the functions.
+Risk models are also subject to independent review and signmarket value of a portfolio over a specified time horizon at a given off to the same standard as pricing models.
+Meetings are held with the confidence level.
+For internal risk management purposes, the Groups FSA every quarter to discuss the traded market risk, including changes in VaR assumes a time horizon of one trading day and a confidence level of models, management, back-testing results, risks not included in the VaR 99%.
+The Group's VaR model is based on a historical simulation model, framework and other model performance statistics.
+utilising data from the previous two years.
+A number of VaR model and methodology enhancements were The VaR model has been approved by the FSA to calculate regulatory introduced during 2011.
+The quality of the market data time series used capital for the trading book.
+The approval covers general market risk in in the ABS mortgage trading business was improved, moving from interest rate, foreign exchange, equity and specified commodity products interpolated weekly data to daily observed time series.
+This change has and specific risk in interest rate and equity products.
+improved the accuracy of the correlation between the different time series in the daily data.
+Additionally, the basis modelling between cash and The VaR model is an important market risk measurement and control derivatives has been refined by introducing additional time series for the tool.
+It is used for determining a significant component of the market risk sub-prime and subordinated residential bonds, reducing the over-reliance capital and, as such, it is regularly assessed.
+The main approach on the commercial mortgage basis which was used as a conservative employed is the technique known as back-testing, which counts the proxy.
+number of days when a loss as defined by the FSA exceeds the corresponding daily VaR estimate, measured at a 99% confidence level.
+unaudited RBS Group 2011 230 A more appropriate time series for the Dutch RMBS portfolio was In 2011, updated Group Standards for the development, testing and adopted to better reflect the risk in the portfolio as more granular data validation of derivative pricing models were agreed and implemented.
+In addition, collateralised based discounting has been Revisions to the model validation framework ensure that all new models implemented for the vast majority of the collateralised positions in place and model changes are reviewed by Market Risk and Finance and, of the previous LIBOR-based discounting approach.
+subject to materiality, independently validated by GRA.
+Model governance is through the ALMPRCs, which are newly established subFollowing the implementation of CRD III, three new models - for stressed committees of the overall GBM Modelled Product Review Committee VaR, incremental risk charge and all price risk see more below - have previously called the Group Model Product Review Committee.
+been fully approved by the UK regulator and form part of the capital and risk management framework from 31 December 2011 onwards.
+Stress testing The Group undertakes daily stress testing to identify the potential losses Basel 2.5 CRD III in excess of VaR.
+Stress testing is used to calculate a range of trading The aim of CRD III is to improve the financial strength of institutions by book exposures which result from extreme market events.
+Stress testing increasing the financial resources required against certain risks in the measures the impact of exceptional changes in market rates and prices trading book.
+on the fair value of the Groups trading portfolios.
+The Group calculates sensitivity analysis, historical stress tests and bottom-up stress testing.
+The Group is required to calculate: i an additional capital charge based on a stressed calibration of the VaR model - stressed VaR: ii an Sensitivity analysis measures the sensitivity of the current portfolio of incremental risk charge to capture the default and migration risk for credit positions to defined market risk factor movements.
+These stresses are of risk positions in the trading book: and iii an all price risk measure for a smaller magnitude compared to historical or bottom-up stress testing correlation trading positions, subject to a capital floor that is based on and are subject to the Group Market Risk limit framework.
+Historical stress tests calculate the changes in the portfolio valuations The capital charges associated with these new models at 31 December that would be generated if the market movements that occurred during 2011 are shown in the table below: historical market events were repeated.
+Total Bottom-up stress testing is based on analysing the market risk exposures m by risk factors and stressing each risk factor based on consultation with Stressed VaR 1,682 risk managers, economists and front office.
+The tests may be based on Incremental risk 469 an economic scenario that is translated into risk factor shocks by an All price risk 297 economist or by risk managers and front office as a means of assessing the vulnerabilities of their book.
+All other aspects of the CRD III rule changes have also been implemented.
+The Global Market Risk Stress Testing Committee reviews and discusses all matters relating to market risk stress testing.
+Stress test exposures are Pricing models discussed with senior management and relevant information is reported Pricing models are developed and owned by the front office.
+Where to the Group Risk Committee, the ERF and the Board.
+Breaches in the pricing models are used as the basis of books and records valuations, Groups market risk stress testing limits are monitored and reported.
+they are subject to oversight and approval by asset level modelled product review committees ALMPRCs.
+These committees prioritise In 2011, the market risk stress testing framework was further developed models for independent validation by Group Risk Analytics GRA taking and enhanced.
+Reverse stress testing has been implemented, which is into consideration both the materiality of risk booked against the model designed to assess the plausibility of stressing market risk factors until and an assessment of the degree of model risk i. e. valuation uncertainty the loss reaches a given threshold.
+arising from choice of modelling assumptions.
+The GRA review aims to quantify model risk by comparing model outputs against those of In addition to VaR and stress testing, the Group calculates a wide range alternative independently developed models, the results of which are of sensitivity and position risk measures, for example interest rate ladders used by Market Risk to inform risk limits and by Finance to inform model or option revaluation matrices.
+These measures provide valuable reserves.
+additional controls, often at individual desk or strategy level.
+RBS Group 2011 231 Business review Risk and balance sheet management continued Risk management: Market risk continued GBM traded revenues 2010 2011 40 35 30 25 20 15 10 5 0 GBP m Note: 1 The effect of any month end adjustments, not attributable to a specific daily market move, is spread evenly over the days of the relevant month.
+Key points GBM trading revenue was adversely affected by ongoing concerns The number of days with negative revenue increased from 22 days around the European sovereign crisis and an overall uncertain in 2010 to 42 days in 2011, primarily due to the market and macroeconomic environment.
+High volatility in the markets and economic conditions referred to above.
+increasingly risk-averse sentiment reduced levels of trading activity.
+The most frequent result is daily revenue of between 25 million and The average daily revenue earned by GBMs trading activities in 30 million with 30 occurrences in 2011, compared with 37 2011 was 19 million, compared with 25 million in 2010.
+The occurrences in 2010. standard deviation of the daily revenues for 2011 was 21 million, down from 22 million in 2010.
+The standard deviation measures the variation of daily revenues about the mean value of those revenues.
+Daily VaR graph 200 180 160 140 120 100 80 60 40 20 0 January February March April May June July August September October November December Total Interest Rate Credit Spread Currency Equity Commodity unaudited RBS Group 2011 232 40 35 35 30 30 25 25 20 20 15 15 10 10 5 5 0 0 5 5 10 10 15 15 20 20 25 25 30 30 35 35 40 40 45 45 50 50 55 55 60 60 65 65 70 70 75 75 80 80 85 85 90 90 95 95 100 m Number of trading days Trading VaR The Group has disclosed separately the Counterparty Exposure Management CEM trading book exposure and the exposure of Core excluding CEM.
+The CEM desk manages the counterparty risk associated with over-the-counter derivatives on behalf of GBM.
+This risk is centrally controlled and actively managed to reduce excessive concentrations and unwanted counterparty exposures.
+The hedge positions are reported in the trading books and, thus, included in market risk VaR calculations for the Group, whereas the market value of the counterparty credit risk does not contribute to VaR for regulatory capital.
+The CEM VaR is disclosed separately, to allow a clear representation of the risk exposure of the trading book including and excluding these hedge activities.
+The table below analyses the VaR for the Groups trading portfolios segregated by type of market risk exposure.
+The extent of diversification benefit depends on the correlation between the assets and risk factors in the portfolio at a particular time.
+Diversification has an inverse relationship with correlation.
+The diversification factor is the sum of the VaR on individual risk types less the total portfolio VaR.
+Key points The Groups market risk profile in 2010 was equally split across Overall the average interest rate trading VaR was relatively Non-Core and Core divisions, with a concentrated exposure to credit unchanged between 2011 and 2010. spread risk factors.
+The credit spread risk exposure significantly decreased in 2011, primarily due to the reduction in ABS trading At the end of 2010, the commodity VaR was materially lower than inventory in Core and the restructuring of some monoline hedges for the average for that year as a result of the completion of the sale of banking book exposures in Non-Core, in line with the overall the Groups interest in the RBS Sempra Commodities joint venture.
+business strategy to reduce risk exposures.
+The commodity VaR increased slightly from mid-September 2011, due to improvements in capturing risk for commodity futures and The credit spread VaR also decreased due to the adoption of a indices.
+more appropriate daily time series for sub-prime subordinated RMBS and as the period of high volatility relating to the 2008 2009 financial crisis dropped out of the VaR calculation.
+RBS Group 2011 233 Business review Risk and balance sheet management continued Risk management: Market risk continued Non-trading portfolios The table below analyses the risk for the Groups non-trading portfolios.
+Non-Core structured credit portfolio SCP.
+These assets are shown separately on a drawn notional and fair value basis by maturity profile VaR is not always the most appropriate measure of risk for assets in the and asset class.
+The risk in this portfolio is managed on both a third party banking book and particularly for those in Non-Core, which will diminish asset and RWA basis.
+over time as the asset inventory is sold down.
+Also excluded from the non-traded VaR are the loans and receivable In order to better represent the risk of the non-traded portfolios, the table products that are managed within the credit risk management framework.
+Key points The Groups total non-trading VaR at 31 December 2011 was The maximum credit spread VaR was considerably lower in 2011 significantly lower than at 31 December 2010, due to the exceptional than in 2010.
+This was due to the implementation in early 2011 of volatility of the 2008 2009 financial crisis dropping out of the twothe relative price-based mapping scheme for the Dutch RMBS year time series data used in the VaR calculation.
+The availability of more granular data provided a better reflection of the risk in the portfolio.
+The structured credit portfolio is within Non-Core.
+The risk on this portfolio is not measured or disclosed using VaR, as the Group believes this is not an appropriate tool for the banking book portfolio, which comprises illiquid debt securities.
+These assets are reported on a drawn notional and fair value basis, and managed on a third party asset and RWA basis.
+Key Points The increase in total and collateralised debt obligation CDO drawn The overall reduction in collateralised loan obligation CLO, MBS notional year-on-year is due to the inclusion of banking book and other ABS drawn notional is due to the amortisations and payexposures that were previously hedged by monoline protection.
+As a downs over the year in line with expected amortisation profiles.
+In result of the restructuring of some monoline protection, those addition to this, fair value has declined due to falling market prices.
+previously protected assets are now reported on a drawn notional and fair value basis.

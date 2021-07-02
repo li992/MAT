@@ -1,0 +1,165 @@
+43 Notes to the Consolidated Accounts for the year ended 30 April 2006 1.
+ACCOUNTING POLICIES Northgate Information Solutions plc the Company is a company incorporated in the United Kingdom.
+The consolidated accounts of the Company for the year ended 30th April 2006 comprise the Company and its subsidiaries together referred to as the Group and the Groups interest in its associate.
+The financial statements were authorised for issue by the Directors on 5 July 2006.
+Statement of compliance The Group accounts have been prepared and approved by the Directors in accordance with International Financial Reporting Standards IFRSs as adopted by the EU adopted IFRSs.
+The Company has elected to prepare its parent company accounts in accordance with UK GAAP, these are presented on pages 78 to 86.
+These are the Groups first consolidated accounts under IFRS and IFRS 1 First-time Adoption of International Financial Reporting Standards has been applied.
+An explanation of how the transition to IFRSs has affected the reported financial position, financial performance and cash flows of the Group is provided in note 29 to the accounts.
+This includes reconciliations of both equity and profit for the year ended 30 April 2005, from amounts previously reported under UK GAAP to those now reported under IFRS.
+Basis of preparation The accounts are presented in pounds sterling, rounded to the nearest thousand and have been prepared under the historic cost convention except for the following assets and liabilities that are stated at fair value: derivative financial instruments.
+Accounting policies have been applied consistently to all periods presented except for those relating to the recognition, measurement, disclosure and presentation of financial instruments: all matters dealt with in IAS 32 and 39.
+The Group has taken an exemption to apply IAS 32 and 39 from 1 May 2005.
+Prior to this date, financial instruments have been accounted for under UK GAAP.
+A reconciliation of equity on adoption of IAS 32 and 39 at 1 May 2005 is provided in note 22.
+From 1 May 2005, the Group has adopted IAS 32 and 39 which is a change of accounting policy.
+This only impacts our policy in respect of derivative financial instruments and hedge accounting.
+The revised policy is set out below.
+In addition, the Group has taken the following optional exemptions from the full retrospective application of IFRS accounting policies: Business combinations - the provisions of IFRS 3 'Business combinations' have been applied prospectively from 1 May 2004.
+The Group has chosen not to restate business combinations that took place before the date of transition.
+Exchange differences the Group has applied the IFRS 1 exemption from the requirement for retrospective application of IAS 21 The Effects of Changes in Foreign Exchange Rates in respect of cumulative translation differences.
+This means that the Group has elected not to classify any retained earnings arising prior to 1 May 2004 within its cumulative translation differences, which are therefore, deemed to be zero at the transition date.
+Share-based payments the Group has applied the option not to apply IFRS 2 to equity instruments granted on or before 7 November 2002.
+Basis of consolidation The consolidated accounts incorporate the accounts of the Company and entities controlled by the Company its subsidiaries or where the Company has significant influence its associate made up to 30 April each year.
+There are no joint ventures.
+Control is achieved where the Group has the power directly or indirectly to govern the financial and operating policies of an investee entity so as to obtain benefits from its activities.
+Significant influence is where the Company is able to influence the financial and operating policies, but is not able to govern them.
+Subsidiaries On acquisition, the assets and liabilities and contingent liabilities of a subsidiary are measured at their fair values at the date of acquisition.
+Any excess of the cost of acquisition over the fair values of the identifiable net assets acquired is recognised as goodwill.
+The results of subsidiary undertakings acquired or disposed of during a financial year are included from, or up to, the effective date of acquisition or disposal.
+Where necessary, adjustments are made to the accounts of subsidiaries to bring the accounting policies in line with those used by the Group.
+NORTHGATE INFORMATION SOLUTIONS PLC 44 Notes to the Consolidated Accounts continued for the year ended 30 April 2006 1.
+ACCOUNTING POLICIES continued Basis of preparation continued Associate The consolidated accounts include the Groups share of the total recognised income and expense of its associate on an equity accounted basis, from the date that significant influence commences until the date that significant control ceases.
+When the Groups share of losses exceeds its interest in an associate, the Groups carrying amount is reduced to nil.
+Transactions eliminated on consolidation Inter-company transactions and balances are eliminated on consolidation.
+Intangible assets Goodwill Goodwill arising on consolidation represents the excess of the cost of acquisition over the Companys interest in the fair value of the identifiable assets and liabilities of a subsidiary at the date of acquisition.
+Goodwill is recognised as an asset and reviewed for impairment at least annually.
+Any impairment is recognised immediately in the income statement and is not subsequently reversed.
+Goodwill arising on acquisitions before the date of transition to IFRS has been retained at the previous UK GAAP amounts subject to being tested for impairment at that date and at least annually thereafter.
+On disposal of a subsidiary, the attributable net book value of goodwill is included in the determination of the profit or loss on disposal.
+Other intangible assets excluding goodwill Capitalised customer relationships and purchased software are stated at the cost less accumulative amortisation and impairment losses.
+New intangibles recognised under IFRS 3 relating to customer relationships are amortised straight-line over a useful economic life of 10 years.
+Amounts capitalised under purchased software are amortised straight-line over periods between 2-5 years.
+Research and development expenditure Expenditure on research activities is recognised as an expense in the period in which it is incurred.
+An internally-generated intangible asset arising from the Groups software development is recognised only if all of the following conditions are met: an asset is created that can be identified: it is probable that the asset created will be technically and commercially feasible and the Group has sufficient resources to complete development: the asset will generate future economic benefits: and the development cost of the asset can be measured reliably.
+The expenditure capitalised includes the cost of materials, direct labour and an appropriate proportion of overheads.
+Other development expenditure is recognised in the income statement as an expense as incurred.
+Capitalised development costs are stated at cost less accumulated amortisation and impairment losses.
+Amortisation is charged to the income statement on a straight-line basis over a useful economic life of 3 years, commencing from the date of first income recognition.
+Impairment If the recoverable amount of an asset cash-generating unit is estimated to be less than its carrying amount, the carrying amount of the asset cashgenerating unit is reduced to its recoverable amount.
+An impairment loss is recognised as an expense immediately.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+Where an impairment loss subsequently reverses, the carrying amount of the asset cash-generating unit is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset cash-generating unit in prior years.
+A reversal of an impairment loss is recognised as income immediately.
+ACCOUNTING POLICIES continued Financial guarantees The Company has not adopted amendments to IAS 39 and IFRS 4 in relation to financial guarantee contracts which will apply for periods commencing on or after 1 May 2006.
+Where the Company enters into financial guarantee contracts to guarantee the indebtedness of other companies within its group, the Company considers these to be insurance arrangements and accounts for them as such.
+In this respect, the Company treats the guarantee contracts as a contingent liability until such time as it becomes probable that the Company will be required to make a payment under the guarantee.
+The Company does not expect the amendments to have any impact on the accounts for the period commencing 1 May 2006.
+Revenue Revenue on the outright sale of equipment and standard software, where no significant vendor obligations exist, is recognised on despatch.
+Revenue on non-standard software or where significant vendor obligations exist is recognised on customer acceptance.
+All revenue is reported exclusive of value added tax and other sales tax.
+The Group's approach to revenue recognition is that revenue is only recognised when: 1. persuasive evidence of an arrangement exists: 2. the price to the customer is fixed or determinable: 3. any services deliverable under the supply arrangement are clearly separable from the software supply: 4. physical delivery has occurred or services have been rendered: 5. contract milestones have been achieved: and 6. collectibility is reasonably assured and there are no material outstanding conditions or contingencies attaching to the receipt of monies due.
+Revenue from the sale of software product licences is recognised at the time the software licence is granted in accordance with agreed contractual triggers, typically the supply of the software product to the customer.
+Revenues from the attendant installation, maintenance and support services are recognised proportionately over the period that the services are provided with due regard for future anticipated costs.
+Payments received in advance of services are recorded in the balance sheet as deferred income.
+Revenue from professional services project management, implementation and training is recognised as the services are performed.
+Revenue from software support and hardware maintenance agreements is recognised rateably over the term of the agreement.
+On contracts involving a combination of products and services, revenue is recognised separately on each deliverable in accordance with the above policy, unless all deliverables are considered to be interdependent when revenue is recognised on final acceptance.
+On major contracts extending over more than one accounting period, revenue is taken based on the stage of completion when the outcome of the contract can be foreseen with reasonable certainty and after allowing for costs to completion.
+When equipment and software licences are sold on deferred payment terms that include a financing element, the present value of the amounts receivable, after calculating a deduction for maintenance, is recognised in revenue.
+Interest income arising, which represents the turnover from this financing operation, is included in revenue and recognised over the term of the lease.
+When equipment is an equipment lease or interest in a software licence, revenue is taken on the sales value after deferral of income for future maintenance, where applicable.
+Revenue for maintenance on equipment or software licences as described above is released to revenue over the period of the contract.
+The related interest is credited to profit over the same period and represents a constant proportion of the balance outstanding.
+Foreign exchange Transactions denominated in foreign currencies are translated into sterling at the rates ruling at the dates of transactions.
+Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are translated at the rates ruling at that date.
+Translation differences are taken to the income statement.
+Non-monetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated using the exchange rate at the date of the transaction.
+On consolidation, results of overseas subsidiaries are translated using the average exchange rate for the period, unless exchange rates fluctuate significantly.
+The balance sheets of overseas subsidiaries are translated using the closing year end rate.
+Exchange differences arising, if any, are taken to a translation reserve.
+Such translation differences are recognised as income or as expenses in the period in which the operation is disposed of.
+NORTHGATE INFORMATION SOLUTIONS PLC 46 Notes to the Consolidated Accounts continued for the year ended 30 April 2006 1.
+ACCOUNTING POLICIES continued Financial instruments Trade receivables Trade receivables other than lease-book receivables do not carry any interest and are stated at their nominal value as reduced by appropriate allowances for estimated irrecoverable amounts.
+Lease-book receivables are stated net of unearned interest receivable, at their present value.
+Insurance receivables Receivables in respect of insurance contracts have two elements: Receivables in respect of compensation for impairment of plant, property and equipment are recognised to the extent that the receivable can be reliably estimated, in accordance with IAS 16.
+Receivables in respect of compensation for incremental costs incurred and for third party loss of profits claims are recognised when it is virtually certain that the compensation will be received, in accordance with IAS 37.
+This receivable is shown net of any insurance proceeds received on account.
+Financial liabilities and equity Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into.
+An equity instrument is any contract that evidences a residual interest in the Groups assets after deducting all of its liabilities.
+Equity instruments issued by the Group are recorded at the proceeds received, net of direct issue costs.
+Bank borrowings Interest-bearing bank loans and overdrafts are initially recorded at fair value which is the proceeds received, net of direct issue costs.
+Subsequent to initial recognition, interest-bearing bank loans and overdrafts are stated at amortised cost with issue costs amortised over three years.
+Finance charges are accounted for on an accruals basis to the income statement using the effective interest method and are added to the carrying amount of the instrument to the extent that they are not settled in the period in which they arise.
+Trade payables Trade payables are not interest bearing and are stated at their nominal value.
+Derivative financial instruments and hedge accounting Derivative instruments utilised by the Group are interest rate collars.
+The Group does not enter into speculative derivative contracts.
+All such instruments are used for hedging purposes to alter the risk profile of an existing underlying exposure of the Group in line with the Groups risk management policies.
+The use of financial derivatives is governed by the Groups policies approved by the Board of Directors, which provide written principles on the use of financial derivatives.
+Derivative financial instruments are recognised on the Groups balance sheet at fair value.
+Other than the fair value of financial instruments on transition to IAS 39, the Group has not applied hedge accounting and changes in the fair value of derivative financial instruments are recognised in the income statement as they arise.
+Interest Rate Collars The fair value of interest collars is determined by valuations provided by the issuing financial institution of those instruments.
+Effective first time adoption of IAS 32 and IAS 39 on 1 May 2005 The Group has taken advantage of the transitional arrangements of IFRS 1 not to restate corresponding amounts in accordance with IAS 32 and IAS 39.
+Instead the following policies were applied in respect of financial instruments issued by the Group, investments in debt and equity securities, derivative financial instruments and hedging: In the comparative period all financial assets and financial liabilities were carried at cost amortised as appropriate less, in the case of financial assets, provision for any permanent diminution in value.
+The fair value of financial assets and liabilities on transition is taken to a cash flow hedging reserve.
+Corresponding amounts for the comparative year are presented and disclosed in accordance with the requirements of the Companies Act 1985 and FRS 4.
+ACCOUNTING POLICIES continued Property, plant and equipment Property, plant and equipment are stated at cost less any applicable discounts less accumulated depreciation and impairment losses.
+Depreciation is provided at rates calculated to write down the cost of property, plant and equipment over their estimated useful life on a straight-line basis.
+The annual rates of depreciation, by category of fixed asset, are as follows: Freehold land None Freehold property 50 years Short leasehold improvements Life of the lease Fixtures and fittings 2 10 years Plant and office equipment 2 10 years Motor vehicles 4 years Equipment held for leasing 4 years At each balance sheet date, the Group reviews the carrying amounts of its tangible assets to determine whether there is any indication that those assets have suffered an impairment.
+Inventories Inventories, which comprise goods held for resale and consumption are stated at the lower of cost and net realisable value.
+Cost includes all costs in acquiring the inventories and bringing each product to its present location and condition.
+Net realisable value represents the estimated selling price less all estimated costs of completion and costs to be incurred in marketing, selling and distribution.
+Cash and cash equivalents Cash and cash equivalents comprise cash balances and call deposits.
+Bank overdrafts that are repayable on demand and form an integral part of the Groups cash management are included as a component of cash and cash equivalents for the purpose of the statement of cash flows.
+Share-based payments The Group has applied the requirements of IFRS 2 Share-based Payments.
+In accordance with the transitional provisions, IFRS 2 has been applied to all grants of equity instruments after 7 November 2002 that were unvested as of 1 January 2005.
+The Group issues equity-settled share-based payments to certain employees.
+Equity-settled share-based payments are measured at fair value at the date of grant.
+The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Group's estimate of shares that will eventually vest, with a corresponding increase in equity.
+Fair value is measured by use of the Black-Scholes method, as most appropriate for the terms of the instrument.
+The expected life used in the model has been adjusted, based on management's best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Own-shares held by ESOP Trust Transactions of the Group-sponsored ESOP Trust are treated as being those of the Company and are therefore reflected in the Group accounts.
+In particular, the trusts purchases of shares in the Company are debited directly to equity.
+NORTHGATE INFORMATION SOLUTIONS PLC 48 Notes to the Consolidated Accounts continued for the year ended 30 April 2006 1.
+ACCOUNTING POLICIES continued Leased assets Leases are classified as finance leases whenever the terms of the lease transfers substantially all the risks and rewards of ownership to the lessee.
+All other leases are classified as operating leases.
+Assets held under finance leases are included in the balance sheet at fair value, or, if lower, at the present value of the minimum lease payments, each determined at inception of the lease less depreciation and impairment losses.
+These assets are depreciated in accordance with the Group's normal accounting policy for the class of asset concerned or over period of lease if shorter.
+The present value of future rentals is shown as a liability.
+The interest element of rental obligations is charged to the income statement over the period of the lease in proportion to the balance of capital repayments outstanding.
+Finance charges are charged directly against income.
+Rentals payable under operating leases are charged to the income statement on a straight-line basis over the period of the lease.
+Lease incentives received are recognised in the income statement as an integral part of the total lease expense.
+Net financing costs Net financing costs comprise interest payable, interest on the defined benefit pension plan obligations and expected return on pension scheme assets, amortisation of issue costs on borrowings, interest receivable on funds invested, foreign exchange gains and losses, and gains and losses on hedging instruments that are recognised in the income statement.
+Interest income and interest payable is recognised in the income statement as it accrues, using the effective interest method.
+Taxation The tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year using rates enacted or substantially enacted at the balance sheet date and any adjustment to tax payable in respect of previous years.
+Taxable profit differs from net profit as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+Deferred tax is the tax expected to be payable or recoverable on temporary differences between the carrying amounts of assets and liabilities in the accounts and the corresponding tax bases used in the computation of taxable profit, and is accounted for using the balance sheet liability method.
+Deferred tax liabilities are recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+The following temporary differences are not provided for: goodwill not deductible for tax purposes, the initial recognition of assets or liabilities that affect neither accounting nor taxable profit, and differences relating to investments in subsidiaries to the extent that they will probably not reverse in the foreseeable future.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates enacted or substantially enacted at the balance sheet date.
+Deferred tax is charged or credited in the income statement, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also included within equity.
+Retirement benefit costs The Group operates various defined contribution pension schemes.
+The assets of the schemes are held separately from those of the Group in independently administered funds.
+The amounts charged to the income statement represent the contributions payable to the schemes in respect of the accounting period.
+The Group also operates two defined benefit pension schemes.
+The liability recognised in the balance sheet in respect of defined benefit pension schemes is the present value of the defined benefit obligation at the balance sheet date less the fair value of the plan assets.
+The defined benefit obligation is calculated annually by independent actuaries.
+The charge to the income statement comprises the current service cost, interest cost on scheme liabilities, expected return on scheme assets and any impact of any settlements or curtailments.
+Actuarial gains and losses are recognised in the Consolidated Statement of Recognised Income and Expense.
+ACCOUNTING POLICIES continued Segment reporting A segment is a distinguishable component of the Group that is engaged either in providing products or services business segments, or in providing products or services within a particular economic environment geographical segment based on location of assets, which is subject to risks and rewards that are different from those of other segments.
+The Groups primary segment is by business.
+Provisions Provisions arise from legal or constructive obligations resulting from a past event where expected costs can be assessed with reasonable certainty and it is probable that an outflow of economic benefit will be required to settle the obligation.
+If the effect is material the provision is determined by discounting the expected future cash flows.
+Property provisions A property provision is recognised when the expected benefits to be derived from the property are lower than the unavoidable cost of meeting the contractual obligations on that property.
+Restructuring provisions A provision for restructuring is recognised when the Group has approved a detailed and formal restructuring plan, and the restructuring has either commenced or has been announced publicly.
+Future operating costs are not provided for.
+Provision for national insurance on share schemes A provision for the expected National Insurance liability due on those share schemes where the liability falls on the Group is recognised at the time of the grant of the share option, with the liability accruing over the options vesting period.
+Significant judgements and estimates Judgements made by management in the application of adopted IFRSs that have significant effect on the accounts and estimates with a significant risk of material adjustment in the next year are disclosed in note 28.
+Adopted IFRS and interpretations not yet applied During the year, the IASB and the International Financial Reporting Committee IFRIC have issued the following standards and interpretations with an effective date after the date of these accounts: International Financial Reporting Standards IAS IFRSs IFRS 7 Financial Instruments: Disclosures IAS 1 Amendment Presentation of Financial Statements: Capital Disclosures IAS 39 Fair Value Option IAS 39 Amendment to IAS 39 and IFRS 4 Financial Guarantee Contracts IAS 21 Amendment to IAS 21 The effects of changes in foreign exchange rates IFRIC interpretations IFRIC 4 Determining whether an Arrangement contains a Lease IFRIC 5 Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds IFRIC 6 Liabilities arising from participating in a Specific Market Waste Electrical and Electronic Equipment IFRIC 7 Applying IAS 29 for the First Time The Directors are in the process of determining the impact of the adoption of these standards and interpretations on the consolidated accounts in the period of initial application.
+The application of IFRS 7 will have no effect on reported income or net assets of the Group as it only addresses disclosure.
+Dividends Dividends unpaid at the balance sheet date are only recognised as a liability at that date to the extent that they are appropriately authorised and are no longer at the discretion of the Company.
+Unpaid dividends that do not meet these criteria are disclosed in the notes to the accounts.

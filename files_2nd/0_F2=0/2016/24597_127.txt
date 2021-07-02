@@ -1,0 +1,173 @@
+Financial statements continued Notes to the consolidated financial statements continued 1.
+Basis of preparation continued Basis of consolidation The Consolidated Financial Statements incorporate the financial statements of the Company and all of its subsidiary undertakings for the years ended 31 December 2016 and 31 December 2015.
+Accounting policies have been consistently applied throughout the Group.
+Subsidiaries are investees controlled by the Group.
+The Group controls an investee if it is exposed to, or has rights to, variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee.
+The Group reassesses whether it has control if there are changes to one or more of the elements of control.
+Subsidiaries are consolidated from the date on which control commences until the date when control ceases.
+Intercompany balances and transactions are eliminated in the Consolidated Financial Statements.
+Accounting policies Revenue recognition Insurance premiums, reinsurance and profit commission Premiums related to insurance contracts are recognised as revenue proportionally over the period of cover provided.
+Premiumswith an inception date after the period end are held in the Consolidated Balance Sheet in deferred income.
+Outstanding premiums from customers at the year end are recognised within insurance receivables.
+Premiums ceded to reinsurers are recognised in profit or loss in the same period as the related direct insurance business.
+Under certain reinsurance contracts, profit commission may become receivable or payable in respect of a particular underwriting year dependent on the difference between the ultimate loss ratio and the loss ratio threshold set out in the contract.
+Profit commission receivable or payable at each reporting date is recognised based on the estimated ultimate loss ratio for that underwriting year at the reporting date.
+Any movement on the profit commission receivable or payable in the period is recognised in profit or loss within reinsurance commissions.
+Other reinsurance commissions are recognised in profit or loss within reinsurance commissions in the period to which they relate.
+Revenue from insurance broking activities Revenue from insurance broking activities consists principally of fees and commissions relating to the arrangement of insurance contracts, ancillary product income and other income.
+Revenue is measured at the fair value of the income receivable with an allowance for expected future refunds to customers in the event of cancellation before the expiry of the policy.
+Revenue from commissions is recognised when the insurance policy is placed and incepted.
+Revenue from fees and ancillary products is recognised at the point of sale to the customer on an agency basis as the Group has no further obligations in respect of the services provided.
+Premium finance interest Premium finance interest, earned on sales where customers choose to pay in monthly instalments instead of one single, upfront payment, is recognised in profit or loss over the term of the related agreement using the effective interest method.
+Investment and interest income Investment and interest income from financial assets comprises interest income and net gains and losses on certain financial assets held at fair value.
+Interest income for all interest bearing financial assets, including available for sale financial assets, is recognised in profit or loss within investment and interest income using the effective interest rate method.
+Discounts Premium discounts on policies underwritten by parties external to the Group are deducted from fees and commission within other revenue.
+Premium discounts for policies underwritten by the Group are deducted from gross written premiums and are recognised proportionally over the period of cover provided.
+Other discounts on revenue are deducted from the revenue streams to which they relate.
+Accounting policies continued Insurance contracts and reinsurance assets Claims liabilities Gross outstanding claims liabilities are recognised at the value of expected future payments relating to claims incurred at the reporting date.
+The expected future payments include those in relation to claims reported but not yet paid or not yet paid in full and claims incurred but not reported IBNR.
+The liabilities are not discounted to present value, except periodic payment orders PPOs, as described below.
+While the Directors consider that the gross outstanding claims liabilities and the related reinsurance assets are fairly stated on the basis of the information currently available to them, the amount that claims liabilities ultimately settle at will vary as a result of subsequent information and events and may result in significant adjustments to the amounts recognised.
+Adjustments to the amounts of outstanding claims liabilities established in prior years are reflected in profit or loss for the period in which the adjustments are made.
+The methods used, and the estimates made, are reviewed regularly.
+From time to time, PPOs are awarded as a result of claims made under insurance contracts.
+Suchawards are generally for a fixed instalment over an indeterminate time period.
+Claims settled, or expected to be settled, by means of a PPO are recognised at the present value of expected future cash flows of the award granted over the expected term of the PPO, and are recognised immediately when the award is considered probable.
+Discounting is implicit within these reserving calculations at each period end for each expected PPO.
+Reinsurance contracts Contracts entered into under which the Group is compensated for losses on insurance contracts are classified as reinsurance contracts held.
+The benefits to which the Group is entitled under its reinsurance contracts consist of short term balances due from reinsurers, recognised as reinsurance receivables, as well as longer term receivables that are dependent on the expected claims and benefits arising under the related reinsured insurance contracts, recognised as reinsurance assets.
+Reinsurance assets are measured consistently with the amounts recognised for the associated reinsured insurance contracts and in accordance with the terms of each reinsurance contract.
+Reinsurance assets are not discounted to present value, except those relating to PPOs, in line with the underlying liabilities.
+Reinsurance liabilities are primarily premiums payable to reinsurers under reinsurance contracts held and are recognised when due.
+Amounts recoverable from or payable to reinsurers are measured in a manner that is consistent with the amounts recognised for the associated provision for insurance contract liabilities and in accordance with the terms of each reinsurance contract held.
+The Group assesses its reinsurance assets for impairment on an annual basis.
+If there is objective evidence that the reinsurance asset is impaired, the Group reduces the carrying amount of the reinsurance asset to its recoverable amount and recognises that impairment loss in profit or loss.
+Where obligations with reinsurers are commuted, the related reinsurance assets and liabilities are settled in the period in which the agreement is signed, on the basis that the reinsurer is discharged from all obligations relating to the contract.
+Any gain or loss is recognised in profit or loss in the same period.
+Co-insurance contracts Contracts entered into under which the Group shares the risk with a co-insurance partner at inception of the policy are classified as co-insurance contracts held.
+Where the Group is the secondary co-insurer, the Group only recognises its share of the premium as an insurance receivable and related claims liability.
+Where the Group acts as the lead co-insurer, the gross premium is recognised as an insurance receivable, with a related co-insurance payable to the co-insurer.
+The Group recognises co-insurance premiums and claims liabilities in the profit or loss in the period to which they relate.
+99 Financial statements continued Notes to the consolidated financial statements continued 2.
+Accounting policies continued Unearned premiums reserve Premiums on policies with an inception date before the period end but with unexpired risks after the period end are held in the Consolidated Balance Sheet in the unearned premiums reserve within insurance contract liabilities.
+The gross unearned premiums reserve and the reserve for unearned premiums ceded to reinsurers are presented separately.
+A review of the carrying amount of the unearned premiums reserve is conducted at each reporting date.
+If current estimates of the present value of the expected future cash flows relating to future claims arising from the rights and obligations under current insurance contracts exceed the unearned premiums reserve less related costs including deferred acquisition costs, then the unearned premiums reserve is deemed to be deficient.
+The test is performed at the level of a portfolio of contracts that are subject to broadly similar risks and that are managed together as a single portfolio.
+If any deficiency arises from the test, first an impairment of deferred acquisition costs is recognised in profit or loss, and then if necessary an unexpired risks reserve is recognised in the Consolidated Balance Sheet, through profit or loss.
+Any movement on that reserve is recognised in profit or loss.
+Salvage and subrogation recoveries Certain insurance contracts permit the Group to salvage recoveries through the sale of property acquired in settling a claim.
+The Group may also have the right to subrogation recoveries, where third parties are pursued for the payment of costs.
+Salvage and subrogation recoveries, gross of any amounts which fall under reinsurance contracts held, are included in insurance and other receivables and the corresponding reinsurance amounts arising from reinsurance contracts are included in insurance and other payables.
+Salvage recoveries are recognised at the amount that can be reasonably recovered from the disposal of the property.
+Subrogation reimbursements are recognised at the amount that can be reasonably expected to be recovered from action against the liable third party.
+Deferred acquisition costs Costs that are directly related to the acquisition of new insurance contracts are recognised in the Consolidated Balance Sheet as deferred acquisition costs.
+They are subsequently charged to the profit or loss evenly over the 12 month coverage period of the related insurance contract, in line with recognition of the corresponding premiums.
+Employee benefits Pension contributions The Group operates a defined contribution pension scheme.
+The amount charged to profit or loss in respect of pension costs is the amount of contributions payable in the year.
+Differences between contributions payable in the year and contributions actually paid are shown as either accruals or prepayments in the Consolidated Balance Sheet.
+The Group has no obligation to make any further payments to the plans other than the contributions due.
+Scheme assets are held separately from the Group inan independently administered fund.
+Share based payments The Group operates share based payment schemes under which participants may receive free share awards or nil cost options, depending on the scheme.
+Awards may have service and performance conditions attached.
+The fair value of a share based payment award is determined at grant date and expensed on a straight line basis over the vesting period.
+Expected vesting in respect of both service conditions and non-market performance conditions are reviewed annually and adjustments are made retrospectively to the cumulative expense recognised.
+Accounting policies continued Non-trading items and material items Non-trading items are expenses or earnings and the related tax impacts thereof, which the Directors believe are not representative of the underlying activities of the Group and have therefore been presented separately on the Consolidated Statement of Profit or Loss.
+These include expenses incurred in the course of the Group reorganisation and IPO in 2015, aswellas the impact of the Goldman Sachs investment on 8 January 2014.
+Material items are expenses or earnings that arise due to one off, external events that, in the judgment of the Directors, warrant separate disclosure due to the significance of the impact or nature of the event.
+The impact of such items is included within the classification line to which they relate, and separate analysis of the impact is provided with full disclosure of the event and impact within the notes to the Consolidated Financial Statements.
+Finance costs The Groups finance costs comprise interest payable on financial liabilities held by the Group.
+Interest payable on financial liabilities is recognised using the effective interest method and includes amortisation of directly attributable transaction costs.
+Taxation Income tax on the result for the year comprises current and deferred tax.
+Income tax is recognised in profit or loss except to the extent that it relates to a business combination, items recognised in other comprehensive income or items recognised directly in equity.
+Current taxation expense is the expected income tax payable on the taxable profit for the period, using tax rates applicable and any adjustment to income tax payable in respect of previous financial periods.
+Deferred taxation expense is the change indeferred income tax assets and liabilities between the reporting periods.
+Deferred income tax assets and liabilities are recognised using the balance sheet method for temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+A deferred income tax liability is recognised for all taxable temporary differences except when they arise from the initial recognition of goodwill.
+Deferred income tax is also not accounted for if it arises from initial recognition of an asset or liability in a transaction other than a business combination that, at the time of the transaction, affects neither accounting nor taxable profit or loss.
+Deferred income tax is determined using tax rates and tax laws that have been enacted or substantively enacted by the reporting date and are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences and unused tax losses can be utilised.
+Goodwill Goodwill represents the difference between the fair value of the consideration transferred in a business combination and the fair value of the identifiable assets and liabilities of the acquired entity at the date of the business combination.
+Any acquisition costs are expensed as incurred.
+Goodwill acquired in a business combination is allocated to cash generating units CGUs.
+Goodwill is considered to have an indefinite useful economic life and is tested for impairment annually.
+101 Financial statements continued Notes to the consolidated financial statements continued 2.
+Accounting policies continued Intangible assets Software Computer software is stated at cost less accumulated amortisation and accumulated impairment losses.
+Purchased computer software is initially recognised at cost, being the fair value of consideration transferred plus directly attributable costs incurred in order to prepare the asset for its intended use.
+Internally developed computer software is only recognised as an asset when the costs can be measured reliably, completion is technically and financially feasible, future economic benefits are probable and there is intention to use or sell the asset.
+Other research and development expenditure is recognised in profit or loss as incurred.
+Amortisation is provided on all computer software, at rates calculated to write off the cost of the assets less their estimated residual value over their expected useful lives.
+Amortisation is calculated using the straight line method and is recognised in profit or loss.
+Expected useful economic lives and residual values are reviewed at each period end and, where necessary, changes are accounted for prospectively.
+The expected useful economic lives are up to seven years for all of the Groups software.
+Software is derecognised on disposal or when no future economic benefits are expected to arise from the continued use of the asset.
+On derecognition, any gain or loss arising is calculated as the difference between the net disposal proceeds and thecarrying amount of the item.
+This is recognised in profit or loss in the period of derecognition.
+Brands and customer relationships Brands and customer relationships are recognised on acquisition at fair value and are subsequently measured using the historical cost method their fair value on acquisition less accumulated amortisation and impairment losses.
+Amortisation is provided on all brands and customer relationships at rates calculated to write off their cost less estimated residual value over their expected useful lives.
+The expected useful economic life and residual value are reviewed at each period end and, where necessary, changes are accounted for prospectively.
+The expected useful economic lives are as follows: Brands 8 years Customer relationships 5 years Work in progress Work in progress includes intangible assets in the course of development which are considered to be eligible for capitalisation but which have not yet reached the state where they are ready for their intended use.
+As such no amortisation has yet been charged on these assets.
+Property and equipment The Group has chosen to value property using the revaluation model.
+Properties are initially recognised at cost and subsequent to initial recognition, properties are carried at their revalued amount, which is the fair value at the date of revaluation less subsequent depreciation and impairment losses.
+Revaluation surpluses are recognised in other comprehensive income.
+Upon disposal of a property, any revaluation surplus isrecognised directly in retained earnings and is not reclassified to profit or loss.
+Revaluations resulting in a reduction to fair value are initially offset against the revaluation surplus and any excess is immediately recognised in profit or loss as animpairment loss.
+Equipment, consisting of fixtures, fittings, office equipment, computer equipment and leasehold improvements, is stated at historical cost less accumulated depreciation and impairment losses.
+Cost is the fair value of consideration provided plus incremental costs incurred to bring an asset to the condition and location necessary for its intended use.
+Accounting policies continued Property and equipment continued Costs incurred subsequent to the initial production of the asset are capitalised where they are deemed to have improved the original.
+Depreciation is provided on all property and equipment, at rates calculated to write off the cost, or fair value in the case of property, of the assets less their estimated residual value over their expected useful lives.
+Depreciation is calculated using thestraight line method and is recognised in profit or loss.
+The expected useful economic lives of property and equipment are as follows: Property 50 years Property and leasehold improvements 4-10 years Computer equipment 2-5 years Fixtures, fittings and equipment 3-5 years Expected useful economic lives and residual values are reviewed at each reporting date and, where necessary, changes are accounted for prospectively.
+Property and equipment is derecognised on disposal or when no future economic benefits are expected to arise from the continued use of the asset.
+On derecognition, any gain or loss arising is calculated as the difference between the net disposal proceeds and the carrying amount of the item.
+Impairment Carrying amounts of intangible assets and property and equipment are reviewed at each reporting date to determine if there are indicators of impairment.
+Where these exist, the assets recoverable amount is estimated and compared to the carrying amount.
+The recoverable amount is the higher of the fair value less costs to sell and the assets value in use.
+Goodwill has an indefinite life and is tested annually for impairment.
+Impairment exists where the recoverable amount of the CGU is lower than the combined carrying amount of net assets and goodwill allocated to the CGU.
+The recoverable amount of the CGU is the higher of the fair value of the CGU less costs to sell and the CGUs value in use.
+Fair value is the price that would be received in an arms length transaction between knowledgeable market participants.
+Valuein use is the present value of expected future pre-tax cashflows attributable to the asset or group of assets.
+Where an assets or a group of assets recoverable amount is exceeded by its carrying amount, the difference is recognised as an impairment loss in profit or loss.
+Leased assets Payments made under operating leases are charged in profit or loss on a straight line basis over the lease term.
+Any incentives provided by the lessor are recognised in profit or loss on a straight line basis over the full lease term.
+Financial assets The Groups financial assets comprise financial assets held at fair value and insurance and other receivables.
+For measurement purposes the Group classifies its financial assets into the following categories: financial assets at fair value through profit or loss: financial assets classified as available for sale: and loans and receivables.
+Financial assets at fair value through profit or loss Financial assets are classified as fair value through profit or loss if they are classified as held for trading or are designated as such on initial recognition.
+Financial assets may be designated as fair value through profit or loss if the Group manages such investments and makes purchase and sale decisions based on their fair value in accordance with the Groups documented risk management or investment strategy.
+Financial assets held at fair value through profit or loss are initially measured at fair value being the cost of acquisition excluding transaction costs and are subsequently re-measured to fair value at each reporting date.
+Gains or losses arising from changes in the fair value of these financial assets are recognised in profit or loss in the period in which they arise.
+103 Financial statements continued Notes to the consolidated financial statements continued 2.
+Accounting policies continued Financial assets at fair value through profit or loss continued Purchases and sales of financial assets at fair value through profit or loss are recognised on a trade date basis, being the date on which a commitment is made to purchase or sell the asset.
+Transaction costs for purchases and sales are expensed as incurred in profit or loss.
+Available for sale financial assets Financial assets are classified as available for sale when they are not classified as loans and receivables, are acquired with neither the intention to sell in the near term, nor with the intention to hold until maturity, and the Group does not make purchase and sale decisions based on fair value.
+Available for sale financial assets are initially measured at fair value plus any directly attributable transaction costs and are subsequently re-measured to fair value at each reporting date with unrealised gains or losses recognised in other comprehensive income and accumulated in other reserves until the point of disposal, when accumulated gains and losses are recognised in profit or loss.
+Loans and receivables Loans and receivables are financial assets with fixed or determinable payments that are not quoted in an active market.
+Suchassets are initially recognised at fair value plus any directly attributable transaction costs and are subsequently measuredat amortised cost using the effective interest method, less accumulated impairment losses.
+Insurance and other receivables are classed as loans and receivables.
+Insurance receivables include amounts not yet due in respect of insurance premiums where the policyholder has elected to pay in instalments over the term of the policy.
+Derecognition of financial assets Financial assets are derecognised when the rights to receive future cash flows from the assets have expired, or have been transferred, and substantially all the risks and rewards of ownership have been transferred.
+Any residual gains or losses resulting from the derecognition of the asset are recognised in profit or loss in the period of derecognition.
+Any unrealised gains or losses on available for sale financial assets previously accumulated in other reserves are reclassified toprofit or loss in the period of derecognition.
+Impairment of financial assets At each reporting date, the Group assesses whether there is objective evidence that a financial asset is impaired.
+A financial asset is impaired if there is objective evidence of impairment as a result of one or more events that have occurred after the initial recognition of the asset a loss event and that loss event or events has had an impact on the estimated future cash flows of the financial asset.
+Objective evidence that a financial asset is impaired includes observable data that comes to the attention of the Group about events such as: significant financial difficulty of the issuer or debtor: a breach of contract, such as a default or delinquency in payments: or it is probable that the issuer or debtor will enter bankruptcy or other financial reorganisation.
+If there is objective evidence that an impairment loss has occurred, the amount of the loss is measured as the difference between the assets carrying amount and the recoverable amount, which is the higher of its fair value less costs to sell and the present value of estimated future cash flows discounted at the financial assets effective interest rate.
+The carrying amount of the asset is reduced to its recoverable amount and an impairment loss is recognised in profit or loss for the period.
+When reductions in fair value of available for sale financial assets are considered to be impairment losses, losses accumulated in other reserves are reclassified to profit or loss.
+The amount reclassified is the difference between the value on initial recognition, net of any principal repayment and amortisation, and the current fair value of the asset, less any impairment loss previously recognised in profit or loss.
+Accounting policies continued Impairment of financial assets continued If in a subsequent period, the amount of the impairment loss on financial assets, other than available for sale financial assets, reverses and the reverse can be related objectively to an event occurring after the impairment was recognised such as improved profitability of the debtor, the previously recognised impairment loss is reversed through profit or loss in the period.
+If the fair value of an impaired available for sale financial asset subsequently increases, the loss is reversed through profit or loss to the extent that it offsets impairment losses previously recognised: otherwise, it is recognised in other comprehensive income.
+Financial liabilities The Groups financial liabilities include loans and borrowings and insurance and other payables.
+Financial liabilities are initially measured at fair value less any directly attributable transaction costs.
+Subsequently, financial liabilities are measured at amortised cost using the effective interest method with interest accrued in the Consolidated Balance Sheet in Insurance and Other Payables.
+Offsetting financial assets and liabilities Financial assets and liabilities are offset and the net amount reported in the Consolidated Balance Sheet only when there is a current unconditional and legally enforceable right to offset the recognised amounts in all circumstances including the default by, insolvency or bankruptcy of the Group and all counterparties, and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Cash and cash equivalents The Groups cash and cash equivalents consist of cash in hand and in bank, investments in highly liquid money market funds and other short term deposits that are redeemable within 90 days.
+Insurance intermediary assets and liabilities Receivables and payables arising from insurance broking transactions are shown as assets and liabilities in recognition of the fact that the insurance broker has contractual rights to economic inflows from customers and obligations to third party insurers upon placement of insurance products with customers.
+Receivables are recognised when the Group provides financing to customers for instalment premiums payable to third party insurers.
+Payables arise where the Group has an obligation to remit premiums received to third party insurers.
+Share capital Shares are classified as equity when there is no obligation to transfer cash or other financial assets, or to exchange financial assets or liabilities under potentially unfavourable conditions.
+Where such an obligation exists, the share capital is recognised asa liability notwithstanding the legal form.
+Incremental costs directly attributable to the issue of equity instruments are recognised, net of tax effect, as a deduction from share premium to the extent that there is sufficient share premium to do so.
+Dividends Dividends are recognised directly in equity when approved and payable.

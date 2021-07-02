@@ -1,0 +1,217 @@
+4.3_CD
+Notes_NN
+to_PIN
+the_DT
+financial_JJ
+statements_NOMZ
+continued_VBD
+for_PIN
+the_DT
+year_NN
+ended_VBD
+31_CD
+March_NN
+2005_CD
+Included_VBD
+within_PIN
+the_DT
+property_NN
+outsourcing_VBG [WZPRES]
+operating_GER
+and_PHC
+investment_NOMZ
+properties_NN
+are_VPRT
+investment_NOMZ
+properties_NN
+with_PIN
+a_DT
+market_NN
+value_NN
+of_PIN
+24.4_CD
+m_NN [BEMA]
+2004_CD
+:_:
+nil_NN
+._.
+Fixed_JJ
+asset_NN
+properties_NN
+include_VPRT
+capitalized_JJ
+interest_NN
+of_PIN
+120.9_CD
+m_NN [BEMA]
+2004_CD
+:_:
+111.0_CD
+m._FW
+The_DT
+historical_JJ
+cost_NN
+of_PIN
+investment_NOMZ
+properties_NN
+is_VPRT [BEMA]
+4,884.7_CD
+m_NN [BEMA]
+2004_CD
+:_:
+4,589.5_CD
+m._FW
+Proposed_VBN [SUAV] [THATD]
+developments_NOMZ
+are_VPRT [PASS]
+excluded_VBN
+from_PIN
+the_DT
+development_NOMZ
+program_NN
+as_IN
+experience_NN
+has_VPRT [PEAS]
+shown_VBN [PRIV]
+that_THVC
+these_DEMO
+schemes_NN
+can_POMD
+be_VB [BEMA]
+subject_PRED
+to_PIN
+substantial_JJ
+revision_NN
+._.
+In_CONJ
+addition_NULL
+to_PIN
+the_DT
+development_NOMZ
+program_NN
+,_,
+investment_NOMZ
+properties_NN
+include_VPRT
+properties_NN
+to_PIN
+the_DT
+value_NN
+of_PIN
+220.1_CD
+m_NN [BEMA]
+2004_CD
+:_:
+179.3_CD
+m_NN [BEMA]
+in_PIN
+respect_NN
+of_PIN
+proposed_VBN [SUAV]
+developments_NOMZ
+._.
+Developments_NOMZ
+are_VPRT [PASS]
+transferred_VBN
+out_PIN
+of_PIN
+the_DT
+development_NOMZ
+program_NN
+when_RB
+physically_RB
+complete_JJ
+and_CC
+95_CD
+%_NN
+let_VB
+._.
+Schemes_NN
+completed_VBN [WZPAST]
+during_PIN
+the_DT
+year_NN
+include_VPRT
+30_CD
+Gresham_NN
+Street_NN
+,_,
+EC2_NN
+:_:
+Empress_NN
+State_NN
+,_,
+SW6_NN
+:_:
+and_ANDC
+The_DT
+Gate_NN
+,_,
+Newcastle_NN
+upon_PIN
+Tyne_NN
+._.
+The_DT
+total_JJ
+development_NOMZ
+profit_NN
+earned_VBN [WZPAST]
+on_PIN
+schemes_NN
+completed_VBN [WZPAST]
+in_PIN
+the_DT
+year_NN
+was_VBD [BEMA]
+26.5_CD
+m_NN [BEMA]
+2004_CD
+:_:
+82.7_CD
+m._FW
+Investment_NOMZ
+in_PIN
+Group_NN
+undertakings_GER
+m_VPRT [BEMA]
+At_PIN
+1_CD
+April_NN
+2004_CD
+4,092.7_CD
+Additions_NOMZ
+944.4_CD
+At_PIN
+31_CD
+March_NN
+2005_CD
+5,037.1_CD
+The_DT
+investment_NOMZ
+represents_VPRT
+100_CD
+%_NN
+of_PIN
+the_DT
+issued_VBN
+share_NN
+capital_NN
+of_PIN
+LS_NN
+Intermediate_NN
+Limited_NN
+and_PHC
+LS_NN
+Property_NN
+Holdings_GER
+Limited_NN
+,_,
+companies_NN
+incorporated_VBN
+and_PHC
+operating_VBG
+in_PIN
+the_DT
+United_NN
+Kingdom_NN
+._.

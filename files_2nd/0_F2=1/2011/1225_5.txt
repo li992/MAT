@@ -1,0 +1,3 @@
+7 Reduced emissions Scion-Sprays ScionSprays has developed a lowcost engine management system that enables a 2stroke scooter engine to pass upcoming emission standards and significantly improves the fuel economy.
+ScionSprays uses an ARM7 processor to run a precise anddeterministic control algorithm to ensure the fuel and oil are combined in the correct quantities and atthe right time.
+For more information about ARMin embedded devices read p30

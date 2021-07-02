@@ -1,0 +1,78 @@
+Our Vision Our Performance Our commitment Our Financial Report riSK management anD principal riSKS iDentiFying anD managing riSKS ARM has a robust risk management process in place to identifykey risks: assign ownership for each risk at a senior management level, identify both existing and planned management activities against each risk: assess the residual likelihood and impact of each risk: and to ensure ongoing monitoring and reporting of each key risk.
+At a strategic level, our risk management Strategic risks are managed through a number The CRR is monitored by the Risk Review objectives are to: of regular forums where key risks are Committee, chaired by Mike Muller, Chief discussed and existing management activities Technology Officer.
+The Risk Review identify ARMs most significant strategic challenged.
+These include regular sessions Committee meets on a quarterly basis to and operational risks: with both the Holdings Board and the review the CRR.
+Each risk owner is required senior management.
+to review and demonstrate that risks are develop plans to manage the risks being appropriately managed.
+A more detailed identified, with a clear owner assigned to Operational risks are managed in accordance explanation of the Risk Review Committees each risk: with the ARM Management System AMS, activities is included in the Governance and which defines key policies and processes Financial Report on pages 19 to 20.
+The Audit ensure that business growth plans are across the organisation.
+ARM has a number Committee is responsible for overseeing the properly supported by an effective of sources in place to provide assurance over risk management framework and ensuring risk infrastructure: compliance with the AMS.
+that the risk management process is operating help executives improve the control and effectively.
+The Executive Committee and the risk review process co-ordination of risk taking across the Board review the CRR on a regular basis.
+Strategic and operational risks are identified, business: and prioritised and reported on within the internal audit assurance ensure ARMs assurance activities are Corporate Risk Register CRR.
+The CRR ARMs internal audit function develops an focused on the organisations key risks.
+includes a description of the overall risk, the annual internal audit plan designed to provide risk factors, the risk owner, the operational assurance that the management activities response and management activities including for the key risks identified are designed and sources of assurance and the residual operating effectively.
+Risks are identified through senior management discussion top-down and regular reporting from every part of the business bottom-up.
+Relevant risks are entered onto the CRR and given an owner at senior management level.
+ARMs ongoing operations and internal controls may mitigate the likelihood and or the impact of the risk.
+The residual likelihood and impact of the risk is assessed to identify any further mitigating activities that may be required.
+47 ARM Holdings plc Strategic Report 2013 riSK management anD principal riSKS CONTINUED viSiOn FOr tHe Future ARMs principal risks and uncertainties are 2. a competitors product or 3. arm may face challenges managing outlined below technology may lead to loss of its business in new geographic markets marketshare Chinese semiconductor companies have 1. a change in the industry business ARM faces competition both from large become responsible for an increasingly dynamic may lead to loss of market semiconductor companies and from smaller significant proportion of ARMs revenues, share and or reduction in value of ip IP companies.
+Intel is developing x86-based and we expect that proportion to continue to We work in the highly competitive and fast processors for use in PCs and servers, and is grow.
+India has had a strong semiconductor moving semiconductor industry.
+Many of the looking to deploy these chips in markets such presence for many years, although revenues other companies within this industry are well as tablets, mobile phones and embedded from that region are smaller.
+ARM has little resourced and may consider processor and markets, including the Internet of Things.
+knowledge and experience of the markets in physical IP as attractive markets for them to There are many small semiconductor IP Russia, South America and Africa, which have enter with competitive products.
+Start-up companies competing with ARM, especially different political cultures to the markets we and open source technology initiatives could in emerging markets where there are are established in.
+In all these regions local develop competing or alternative ways for lower barriers to entry.
+Any success by our governments are supporting and funding local companies to design their chips.
+The cost competition would result in a reduction in technology companies, which could give rise of developing software in many end market royalty revenue to ARM.
+to new competitors and new markets.
+applications is increasing, which may also result in new technologies that might not Mitigation Mitigation suit ARMs current product portfolio or skill ARM works closely with leading ARM has had offices in both China and India set.
+We may not be able to adapt to these semiconductor companies who together have for many years, and 19% of our workforce is changes, resulting in a loss of market share.
+a long history of developing cost-efficient, split between these two countries.
+Together we have created regional development offices to support the Mitigation a highly competitive market and OEMs have other regions, and combined with regular At the end of 2013 ARM had approximately enjoyed a wide choice of chips at different visits by management, we track opportunities 350 Partners, and over 1,000 companies capabilities and pricing.
+and meet local decision makers.
+in the ARM Connected Community.
+These companies depend on ARM ARMs established ecosystem includes many See page 18 for a global overview of technology for part of their business, and software and chip design engineers who ARMs business.
+we meet with thought leaders within our understand how to build ARM-based chips 4.
+We could suffer significant damage industry and related sectors to discuss their and write software optimised for ARM to our brand and reputation business context and strategy.
+ARM has enabled thousands ARMs technology is used in billions of positioned to detect any change within the of companies to offer products that are consumer and enterprise products, many of semiconductor industry, and react accordingly.
+compatible with and support other ARMwhich are depended on by individuals and ARMs management team reviews our based technologies, reducing the complexity businesses, and are used to store, manage strategy and our long-term product and cost of developing an SOC or product or transmit huge amounts of personal, development plans to test that we are around an ARM processor.
+ARM invests in confidential or proprietary information.
+developing the technology to meet the future this ecosystem to help further reduce the total Afault or bug associated with one of ARMs needs of the industry.
+cost of developing and maintaining a portfolio products could damage ARMs corporate of ARM-based chips.
+See pages 1417 for an overview of reputation and lead to a loss of brand value.
+the industry and ARMs market position.
+Mitigation ARM has rigorous quality assurance, and verification and validation processes to reduce the risk of faults or bugs.
+ARM regularly gathers feedback from its customers and Partners to determine whether the perception of ARM is changing, and that corrective action can be taken early if customers are becoming less satisfied with our products or behaviour.
+48 Our Vision Our Performance Our commitment Our Financial Report 5. arms technology may not meet 7. arm may have to defend itself 8.
+Significant concentration in our customer requirements in the future against third-parties who claim that we customer base may increase the risk have infringed their proprietary rights to arms growth ambitions The technology industry is characterised by rapid change, as new innovation Whilst we take great care to establish and Changes in technology trends and or economic continually improves the way that chipsets maintain the integrity of our products, we conditions may cause companies within the are designed and manufactured, and how may have to protect our intellectual property semiconductor industry to consolidate further, they are deployed by OEMs and used by or defend our technology against claims that thereby reducing the number of customers consumers.
+A change in the end market we have infringed others proprietary rights.
+that ARM may sell its technology to and potentially making ARM more dependent on that does not favour ARM or our business From time to time, third-parties, including a smaller number of customers.
+Any change model could occur, requiring ARM to either our competitors, may assert patent, to the product plans of a major customer may change its investment approach or risk losing copyright and other intellectual property have an impact on the technology that ARM share.
+Either way, ARM could become less rights to technologies that are important was developing, and so result in both additional profitable in the future as a result of such a to our business.
+Any infringement claim costs, and a delay in revenues.
+brought against us or our Partners, could Mitigation Mitigation result in substantial costs and divert managements attention.
+We have licensed our processor technology ARM has well-established product to approximately 350 Partners, about half specification and development processes, Any assertion of intellectual property rights of which are now paying royalty revenues.
+and we work with thought leaders within by a third-party against our technology could Much of our royalty and licence revenues various industries to ensure our technology result in our licensees becoming the target of are generated by the top 20 semiconductor issuitable for next generation digital products.
+litigation and we may be bound to indemnify companies.
+ARM typically develops 23 new We spend some of our R&D budget on such licensees under the terms of our processors each year, reducing the impact of a longer term programmes to investigate licence agreements.
+customer asking us to change the specification how new scientific developments might of a product.
+impact the industry, and how technologies Mitigation in adjacent markets might impact ARM and We focus on designing and implementing 9. assumptions that fundamentally our ecosystem.
+our products without the use of intellectual underpin arms valuation may be property belonging to third-parties, except undermined, leading to a sudden 6. arms current people, processes under strictly maintained procedures and with depreciation of share price and or infrastructure may not be the benefit of appropriate licence rights.
+In the adequately scalable to meet our ARMs valuation is based on the financial event that a third-party successfully proves growth ambitions markets view of our growth opportunity that it has intellectual property rights covering and the value of ARMs assets.
+Revisions to We have grown our headcount rapidly over a product that we have licensed to customers, assessments of our future markets could the last few years, as we have hired more we will take steps to either purchase a licence impact estimated cash flows.
+Changes to engineers to develop the next generation of to use the relevant technology or work assumptions about the value of ARMs assets, processors and the supporting technology our around the technology by developing our including goodwill, could lead to the customers need.
+If this growth rate continues own solution so as to avoid infringement of impairment of certain of ARMs assets.
+we may find our existing organisational that third-partys intellectual property rights.
+structure, culture and infrastructure cannot be Mitigation adapted to meet the greater number of staff.
+From time to time ARM enters into At least once every year, we present to the cross-licensing agreements and non-assert financial markets the latest forecasts on the Mitigation agreements with leading technology growth of the semiconductor industry and Our multi-year planning process includes companies.
+In 2013, ARM was part of a ARMs view of our opportunity to win share product development reviews alongside consortium of companies that acquired rights within that market.
+long-term investment plans for recruitment, to the patent portfolio of MIPS Technologies training, facilities and IT.
+We also hold regular Inc. which removes the potential risk surveys of employees to measure job of future litigation from those patents.
+satisfaction and engagement levels across the In early 2014, ARM acquired the patent organisation, and in sufficient detail to identify portfolio outright.
+early problems with specific teams, locations See page 55 on the financial impact or departments.
+of ARM acquiring the patent portfolio See pages 32 to 37 for an overview of MIPS.
+49 ARM Holdings plc Strategic Report 2013 50 Our Vision Our Performance Our Commitment Our Financial review maDe tO meaSure 3D printers, and other advanced manufacturing techniques, are enabling the creation of bespoke, solid and usable 3D objects.
+This reinvention of manufacturing is enabling new types of products and prototypes to be efficiently created.
+3D printers need smart electronics to control them, and ARM-based chips are an ideal choice.

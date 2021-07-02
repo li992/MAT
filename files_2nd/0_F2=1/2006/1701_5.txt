@@ -1,0 +1,256 @@
+Operating and Financial Review 08 Anglian Water provides water and wastewater services to domestic and commercial customers in the east of England and Hartlepool.
+Key performance indicators Introduction Anglian Water provides water and wastewater services to domestic and commercial customers in the east of 1 Accident Frequency Rate England and Hartlepool.
+2005 6 0.39 The Anglian Water region, the largest of any water 2004 5 0.42 company in England and Wales, stretches from the Humber to the Thames estuary and from Northamptonshire 2 Operating expenditure UK GAAP to the east coast.
+3 2005 6 326m determination The group aims to provide a high-quality, cost-effective 2005 6 314m actual service to all customers while complying with, or exceeding, all relevant public health and environmental standards.
+2 Capital expenditure UK GAAP Company structure and financing 4 2005 6 305m determination Anglian Water is the principal subsidiary of AWG Plc, 2005 6 292m actual its parent company.
+Overall Performance Assessment OPA results The Anglian Water group was first listed on the London Stock Exchange in 1989 when the water industry in 2005 6 Results yet to be published England and Wales was privatised.
+2004 5 408 2003 4 421 AWG carried out a financial restructuring in 2002 in order to reduce Anglian Waters weighted average Leakage 3 cost of capital.
+The group issued new debt in the form UK industry average: 11m per km day of bonds and redeemed some of its existing debt.
+As part of the process, a common set of covenants Anglian Water was established to enhance the protection for lenders.
+3 2006 6m per km day 3 2005 6m per km day The refinancing in 2002, increased the proportion of the groups finance provided by debt, rather than equity, 5 Drinking water overall zonal compliance from 52 per cent to 84 per cent at that time.
+However, as a result of the strong cash flows from Anglian Water, 2005 99.96% the companys gearing has since fallen to 79 per cent.
+2004 99.95% See chart on page 9 for key ratios.
+1 3 Inflated by Retail Price Index RPI Number of accidents per 100,000 hours worked 4 2 Anglian Waters regulatory performance is monitored on a UK GAAP basis Inflated by Construction Outputs Price Index COPI 5 Drinking water results published in 2006 for calendar year 2005 AWG Plc www.
+co. uk 09 Key ratios UK GAAP Anglian Waters infrastructure 2001 2 2002 3 2003 4 2004 5 2005 6 18 reservoirs 1 RCV 3,777 3,911 4,251 4,387 4,501 138 water treatment works Anglian Water gross debt 1,803 3,466 3,923 4,339 4,039 199 boreholes Anglian Water net debt 1,971 3,289 3,451 3,499 3,539 261 service reservoirs Anglian Water 1,075 wastewater treatment works 2 1 Net debt RCV 52% 84% 81% 80% 79% 35,881 km of sewers 36,762 km of water mains Net debt for Anglian Water defined as debt and overdrafts less total cash.
+1 Regulatory Capital Value the value of Anglian Waters assets, as measured by the Regulator, Ofwat.
+2 Net debt as measured under Common Terms Agreement definitions.
+160 water towers AWG used the funds that were raised to repay debt, carry The Anglian Water region out a share consolidation and returned the remaining Anglian Water serves an area of 27,500 square kilometres, capital to shareholders.
+the largest region served by any water company in England and Wales.
+Employing approximately 3,300 staff at Market operations 31 March 2006, Anglian Water is one of the regions Drinking water biggest employers.
+Every day Anglian Water supplies more than one billion litres of high-quality drinking water to 4.2 million water As well as being the largest region, it is also one of the customers via 138 water treatment works and 36,762 countrys fastest growing regions in terms of population.
+More than 200,000 new homes are due to be built in the region in the next 10 years, partly accelerated by The water in the west of the region is primarily sourced the Office of the Deputy Prime Ministers plans aimed at from water reservoirs, the largest of which is Rutland addressing housing shortages in the Southeast.
+The east of the region relies principally on this growing demand is a key priority for Anglian Water.
+groundwater reserves, known as aquifers.
+Management Two-thirds of the annual supply is used by households, Structure of which 57 per cent are metered.
+The remaining third Anglian Water has its own board of Directors, which of the supply is used by non-household customers, consists of two AWG Plc Directors, three independent 87 per cent of whom are metered.
+The total metered Non-Executive Directors, including one vacancy since usage for household and non-household is 62 per cent.
+27 April 2006, and four Executive Directors.
+Wastewater The board is responsible for the strategy and overall Anglian Water collects and treats the water it puts into management of the regulated business.
+The executive supply, returning it to the environment via rivers and members of the board include the Group Chief Executive, coastal outlets.
+The water is regularly sampled and tested Group Finance Director, Chief Operating Officer, Director against strict Environment Agency standards.
+of Asset Management, Director of Regulation and Finance Director.
+Day-to-day operations are led by the operating Approximately 950 million litres of wastewater are board of Anglian Water.
+collected each day from 5.4 million customers, including 1.2 million customers who receive their water from other People companies.
+Anglian Waters sewerage network includes Anglian Water appreciates the importance of ensuring more than 35,881 kilometres of pipes connected to its employees have the necessary skills, experience and 1,075 wastewater treatment works.
+training to be able to deliver the companys strategic aims.
+In April 2005, Anglian Water launched a new skills and behaviour framework for all employees.
+The framework, which is part of the personal development process, is designed to recognise the importance of behaviours as well as delivering against set objectives.
+Annual Report and Accounts 2006 Operating and Financial Review 10 Anglian Water continued Creating operational efficiencies The Operational Management Centre OMC represents one of Anglian Waters most important changes to the way it operates, both now and in the future.
+Main photo shows employees Inset: an operational at the Operational Management team accessing job Centre in Lincoln.
+co. uk 11 By centralising key aspects of its operations, Anglian Water aims to improve significantly the efficiency of planned and reactive maintenance.
+The OMC will play a vital role in making decisions relating to infrastructure maintenance and investment.
+These operational changes are being made with one overriding priority in mind: to improve the service Anglian Water provides to its customers.
+Job filtering SAP Scheduling OMC workflow diagram 1 2 3 tool to remove unnecessary job and creates 4 visits schedule asset data 5 4 Real time data 1.
+Job raised Hand-held unit SAP, scheduling 3.
+Job data job visit details tool and hand-held 4.
+Details of scheduled job units.
+Job closure data The OMC was established to improve the co-ordination of all planned, routine and emergency work for both water and wastewater-related operations.
+It also manages emergency procedures, contingency plans and business continuity.
+The OMC represents a new way of working for the majority of Anglian Waters operational staff and has been a significant challenge, both technically and culturally.
+The first phase of the programme has been to implement a new, centralised scheduling system across both water and wastewater operations.
+Working within the parameters set by the business, the scheduling system helps improve the efficiency of its operational work.
+Field-based teams receive tasks and acknowledge their completion remotely via hand-held units.
+The scheduling team and local managers can see details of current and planned work, including location, estimated completion time and relative priority.
+The system can be over-ridden when urgent, reactive work must take priority over planned work.
+The OMC will ultimately provide valuable operational data for improving understanding, and therefore investment decisions, relating to the companys water and wastewater networks.
+This will have a direct impact on Anglian Waters efficiency and customer service.
+Above: a member of the Alliance listening for leaks: the first stage in detection and repair.
+Annual Report and Accounts 2006 Operating and Financial Review 12 Key organisational milestones in AMP4 Anglian Water continued 1.
+Anglian Water has implemented a new way of organising and prioritising its work in order to improve its operating efficiency.
+The new centralised Operational Management Centre OMC has implemented radical changes to processes, systems and culture.
+A Capital Alliance has been created between Anglian Water and its six Alliance partners to deliver approximately half of the 1.5 billion AMP4 capital investment programme.
+Major contracts have been re-tendered for network and developer services partners, local capital partners and information services.
+Comprehensive organisational restructuring to increase productivity and efficiency.
+A new staff performance measurement and development framework has been established, which takes into consideration behaviours as well as job-related tasks.
+Anglian Water operates a number of specialised training In December 2005, Ofwat announced a new water supply schemes including a graduate scheme and apprentice licensing regime in England and Wales, whereby licensees schemes within both operational and non-operational will be able to supply water to business customers who roles.
+It also provides general training and development use at least 50 megalitres of water a year.
+identified through the performance and development review PDR process.
+To date, five companies have applied for a licence, four of which have been granted.
+AWG is in the process of Attracting and retaining skilled people is key to ensuring applying for a licence in order to take advantage of an effective workforce.
+Anglian Water has a wide range opportunities as the competitive market develops.
+of policies to meet both its statutory obligations and those that arise from its commitment to provide a high-quality Regulatory environment working environment.
+Examples include flexible working, Anglian Water supplies water under licence from the discretionary leave and the recognition of the importance Governments economic regulator, Ofwat.
+On 1 April 2006 the role of the Director General of Ofwat Anglian Waters voluntary turnover rate of employees was replaced by a board structure, which will now take was 4.8 per cent for 2005 6.
+This is significantly below responsibility for the economic regulation of the water and the national average.
+The absence rate of employees sewerage industry in England and Wales.
+Although it will has also been consistently below the national average.
+continue to be known as Ofwat, the statutory name was During 2005 6 the absence rate for Anglian Water changed to the Water Services Regulation Authority employees was 2.7 per cent compared to the national WSRA.
+The industry operates on five-year Asset Management During 2005 Anglian Water commenced a remuneration Periods.
+The current Asset Management Period, known benchmarking review process in order to ensure both as AMP4, began in April 2005 and ends in March 2010. attractiveness in the market place and cost-effectiveness of the company.
+This was in addition to a four-year pay Between 2005 and 2010, Ofwat assumed investment for and pensions deal which was agreed in December 2005.
+Anglian Water of a further 1.5 billion at 2002 3 prices For more information, see page 34. in its services, in addition to the 4.6 billion that it has invested since privatisation in 1989.
+Approximately half Competitive environment of the 1.5 billion investment will be on capital Domestic customers cannot currently choose which maintenance expenditure.
+company supplies their water or wastewater services.
+Efficiency challenge Since privatisation, water companies have been able to Ofwats final determination, the last stage in the price offer water to large industrial or commercial customers review process, established the lowest price increases for outside their regional boundaries through the creation Anglian Water of any water and wastewater company of what is known as inset appointments.
+It also set a number of challenging efficiency targets.
+co. uk 13 Key achievement The Capital Alliance Another way in which Anglian Water has changed the way in which it works is the adoption of a Capital Alliance model for delivering its capital investment programme.
+The Capital Alliance is made up of Anglian Water and six partners in a collaborative and integrated team with common objectives and incentives.
+Its purpose is to deliver programmes of work, for example, refurbishment and upgrading of water and wastewater treatment works, as quickly and efficiently as possible.
+The Alliance will deliver approximately half of Anglian Waters 1.5 billion AMP4 investment programme.
+2005 6 saw the first projects delivered by the new Alliance, these included two first-time sewerage schemes and a nitrate removal scheme.
+In response to the efficiency targets and known additional Operating expenditure for the year excluding cost pressures from increases in energy costs, infrastructure depreciation increased by 4.7 per cent to 327.2 million renewals and pensions, the management team has put in 2005: 312.6 million.
+This was due to upward pressures place the framework and detailed plans to address these from employment costs, power, rates and the incremental challenges.
+running costs of new capital projects.
+These costs were mitigated by savings generated from the manpower As a first step, the company carried out a restructuring reduction programme at the start of the year, as well as programme in the 2004 5 financial year, that resulted other efficiency initiatives.
+Overall, operating expenditure in savings of approximately 10 million per annum in as a percentage of turnover decreased slightly from 39.2 operating costs, beginning in the financial year 2005 6. per cent to 37.8 per cent.
+Further efficiency savings will come from a range of projects, including the centralisation of operations, the The reduction in manpower costs and other identified management of energy purchasing and usage, a four-year initiatives will generate a significant proportion of the agreement on pay and pension costs, re-tendering of IT total operating efficiency savings required in AMP4 by and telecommunications contracts, and programmes to the regulatory settlement.
+The K factor set through the price determination included Financial performance an element to fund increased corporation tax.
+The corporation tax charge for Anglian Water has increased 2006 2005 by 22.3 million in 2005 6. m m Turnover 865.7 796.8 Gross capital expenditure for the year was 292 million, 76.5 million of which was delivered by an alliance of six Total operating profit 372.8 318.6 partner companies working in close co-operation with Anglian Water.
+During the year, Anglian Water successfully Anglian Waters financial performance showed a continuing delivered the regulatory obligations for the first year of improvement in 2005 6 compared to the previous year.
+the new five-year Asset Management Period.
+Turnover increased by 8.6 per cent as a result of the 1 Achievements in AMP4 regulatory pricing formula including a K factor of The priority for Anglian Water in the first year of AMP4 3.8 per cent, higher than normal revenues due to the has been to meet the efficiency challenge and deliver on effect of the dry weather in the early part of the summer the regulatory targets set for the first year of the period.
+in 2005 and growth in customer numbers.
+This net increase in revenue of 68.9 million, together with the This has involved delivering planned cost reductions, as realisation of cost efficiencies, contributed to an increase well as implementing changes to structures and systems in operating profit of 17.0 per cent 54.2 million.
+identified before the start of the period see panel on page 12.
+1 Ofwat defines K as the amount by which a company can increase, or must decrease, its average charge above or below inflation each year to finance its services and meet its legal obligations.
+When inflation is included, this is commonly referred to as the price limit.
+Annual Report and Accounts 2006 Operating and Financial Review 14 3 Anglian Water leakage performance - m km per day Anglian Water continued compared to other water and wastewater companies Anglian 6 South West 6 Anglian Water leakage since 1989 Ml d Wessex 6 Southern 7 300 Dwr Cymru 8 Northumbrian South 8 Northumbrian North 9 Yorkshire 9 200 1 WaSC average 11 Severn Trent 11 United Utilities 12 Thames 29 100 Source: Ofwat Security of supply, leakage and efficient use of water report, 1989 90 2004 5 2004-2005.
+2005-2006 data to be published by Ofwat in October 2006.
+Source: Anglian Water data, 2006 1 Water and sewerage company Operational performance The company carries out continuous monitoring at Anglian Water started AMP4 with a large number of treatment works and other key sites to complement new consent standards, which represented a significant the extensive laboratory sampling and analysis.
+Issues at two wastewater treatment plants led to consent breaches that are expected to have All water companies have a duty to inform the Drinking a negative impact in this years Overall Performance Water Regulator of any events that have affected, or are Assessment.
+Remedial action has been implemented likely to affect, drinking water quality.
+The Regulator then to improve performance in future years.
+assesses the information provided to determine whether the event is significant or not.
+If it is deemed significant The overall score for the previous year 2004 5 was 408, then it is classified as an incident and enforcement action ranking it joint third.
+The 2005 6 overall performance against the company concerned may also be considered.
+assessment will be published in September 2006.
+Of the events notified by Anglian Water to the Regulator in 2005, only a small number were classified as incidents.
+Anglian Water maintained its excellent record of success in water quality compliance and leakage control as Water resources and leakage detailed below.
+The Anglian Water region receives two-thirds of the national long-term average rainfall.
+Minimising leakage Drinking water quality is therefore a priority for the company.
+Anglian Water is committed to providing its customers with a high level of service and a consistent supply of Anglian Waters target, set by Ofwat, is set at the wholesome drinking water.
+This is demonstrated by economic level of leakage.
+This is the point at which excellent compliance with the water quality standards it would cost more to make further reductions than of the Drinking Water Regulations in 2005.
+Drinking to produce the water from another source.
+water quality remained high throughout the year, with an overall mean zonal compliance of 99.96 per cent Anglian Waters leakage performance is one of the best for 2005 2004: 99.95 per cent.
+Overall microbiological in the industry.
+In 2004 5, its leakage rate was six cubic compliance remained high with 99.93 per cent of samples metres per kilometre of main per day.
+The industry average in 2005 complying with mandatory standards 2004: is 11 cubic metres per kilometre.
+More than 100 people are employed in proactive leakage The company has translated all of the regulatory detection.
+In excess of 19,000 leakage repair jobs were requirements, as well as internal standards, into a set of completed in 2005 6 at a cost of more than 10 million.
+detailed policies, standards and procedures for maintaining water supply hygiene.
+These documents provide a robust Investing in the environment risk framework, within which Anglian Water operates, to Significant investment since privatisation has resulted in ensure drinking water quality is protected.
+A web-based dramatic improvements in both bathing and river water tool has been developed to provide a central access point quality across the region.
+to this valuable information, ensuring it is available throughout Anglian Water via its intranet.
+co. uk 15 Water quality Customer surveys 2005 6 Bathing water quality Mandatory standard Customer satisfaction Very Fairly satisfied source: Millward Brown 2005 6 100% 2004 5 100% Jul 2005 81% Sep 2005 82% River water quality Biological quality Very Good to Fair Nov 2005 86% Mar 2006 91% 2004 5 98.1% 2003 4 98.0% River water quality Chemical quality Very Good to Fair 2004 5 90.4% 2003 4 89.8% River quality results published in August 2005 for 2004 calendar year.
+Bathing water quality Customer service In 2005 6, Anglian Water delivered its best bathing waters Anglian Water carries out regular surveys in order to results to date, achieving 100 per cent compliance with measure customer satisfaction, the results of which are mandatory standards for the seventh time in the past nine used to help improve customer service.
+Compliance with the stricter guideline standard also research company surveys 200 customers each quarter.
+significantly improved to 83 per cent 2004: 65 per cent.
+Guideline standard is one of the requirements for a beach The latest results for March 2006 showed 91 per cent to be awarded a Blue Flag.
+of customers were very or fairly satisfied with Anglian Waters overall service.
+The average overall satisfaction In May 2006, the environmental organisation Encams level for the year was 85 per cent 2005: 85 per cent.
+announced that there are 19 Blue Flag bathing water The survey results for overall customer satisfaction beaches in the Anglian Water region, one more than improved in the second half of the year.
+These results in 2004 5. are shared annually with the regulator.
+River water quality A customer experience survey was introduced in 2005 6 The Environment Agency published its latest assessment to focus on customers who have contacted Anglian Water of river water quality in the region in August 2005, in the previous two months.
+The survey is run by an relating to the 2004 calendar year.
+The assessment showed independent research company and reviews six major that 98.1 per cent of rivers biological quality was classed areas of customer-facing activity each quarter.
+In 90.4 per customers have been interviewed to date.
+In the last cent of the regions rivers, chemical quality was in the quarters results, customers overall satisfaction rating Very Good to Fair range 2003: 89.8 per cent.
+was 77 per cent very or fairly satisfied.
+Biodiversity Action Plan In addition, the company has introduced a Customer Since 1999 Anglian Water has been committed to making Service Index to help it keep track of improvements to a positive contribution to the east of Englands biodiversity service.
+This measure looks at the time taken to complete by delivering a 10-year Biodiversity Action Plan BAP.
+customer work and the quality of the work carried out.
+The plan has seen the successful reintroduction Health and safety of two species to England, the osprey and the pool frog.
+The health and safety of staff, contractors and the public The development of many partnership projects such as is paramount.
+The companys adage is There is nothing Water for Wildlife, a project with the Environment Agency so important that employees cannot take the time to and the Wildlife Trusts, has focused on wetland habitat do it safely and the commitment to health and safety and work to protect species in their natural environment.
+is enshrined in the groups Safety First Second Nature A new 10-year BAP will be prepared for 2010. philosophy.
+Annual Report and Accounts 2006 Operating and Financial Review 16 Anglian Water continued Energy efficiencies Anglian Water uses a by-product of the wastewater treatment process to reduce its annual energy bill.
+A 2,000 cubic metre methane storage facility near Cambridge.
+Inset: A Works Technician Process Optimiser next to a Combined Heat and Power CHP unit.
+co. uk 17 Health and safety The health and safety of employees, contractors and the public is The wastewater treatment process of paramount importance.
+A safety first, second nature culture is creates methane, a renewable fuel, part of daily life for everyone in the group.
+which is stored in large tanks.
+The methane is used to drive Combined Heat and Power CHP engines to Accident Frequency Rate Sickness - days lost per person create electricity and heat.
+0.50 10 The electricity is fed into the national 0.47 9 grid, while any excess heat is recycled 0.44 8 to continue the process.
+0.41 7 0.38 6 2003 4 2004 5 2005 6 2003 4 2004 5 2005 6 Anglian Water has an Occupational Health and Safety OH&S management system in place, which continues to drive improvements in this area.
+In order to further strengthen this, and to provide external validation, it is actively seeking Occupational Health and Safety Assessment Series OHSAS -18001 accreditation the internationally recognised quality award for OH&S.
+The company continued to show improvement in the two OH&S performance measures: Accident Frequency Rate number of accidents per 100,000 hours worked reduced from 0.42 to 0.39, and Sickness Absence number of days lost per person reduced from 8.26 days to 7.30 days.
+In recognition of the high standards that Anglian Water has demonstrated over the past three years, the company was awarded a Royal Society for the Prevention of Accidents RoSPA Silver Award in 2006.
+Seeking continuous improvement in its OH&S performance, Anglian Water has again set stringent targets for the year ahead and has a comprehensive action plan in place to meet them.
+Risks Pensions Anglian Water closed its defined benefit final salary pension scheme to new employees in 2002.
+Employees have subsequently been offered the opportunity to join a defined contribution scheme.
+The defined benefit scheme remains a financial risk, with continued exposure to investment and mortality risk.
+An in-depth review of pension arrangements was carried out during the year, focusing on controlling and reducing costs through the current regulatory period, while maintaining core pension provisions for employees.
+Annual Report and Accounts 2006 Operating and Financial Review 18 Energy costs for key processes % Anglian Water continued Wastewater treatment Water treatment 1 Wastewater collection 6 Water abstraction 8 Water distribution and storage Offices, labs and recreation 39 12 34 Following consultation with employees, proposals were to October 2007, is from entirely renewable sources and developed and agreed with pension trustees.
+The agreed represents 21 per cent of Anglian Waters energy demand.
+solution, which takes effect in 2006, leaves the final salary Reducing energy consumption is imperative for Anglian benefit intact and involves a four-year agreement on pay Water for both economic and environmental reasons.
+and changes to early retirement terms for future service.
+In 2005 6, Anglian Water strengthened its existing energy The changes helped to reduce Anglian Waters deficit on team, which is tasked with identifying and reducing all schemes from around 150 million at 31 March 2005 controllable energy usage and promoting the need for to 50 million at 31 March 2006 on an IAS 19 Employee energy efficiency throughout the company.
+The energy team is also investigating opportunities to The company is working closely with the Trustees, the increase the proportion of self-generated energy from in-house treasury team and its advisers to develop renewable sources, such as wind and combined heat solutions for managing investment risk.
+and power CHP on wastewater treatment works.
+For more information on pensions, please see page 34.
+In 2005 6 Anglian Water generated 11 GWhs of renewable energy from its CHP engines.
+Energy This saved 4,975 tonnes of carbon and delivered more than Energy costs represent a key risk to Anglian Waters 1.1 million of benefits through offsetting power bought from operating efficiency.
+Anglian Water is one of the largest the grid and from the sale of Renewable Obligation Certificates.
+energy users in the east of England due to the energy required to pump and treat water and wastewater.
+In 2005 6, energy expenditure represented 12 per cent of Supply and demand total operating costs 39.8 million.
+Anglian Waters region receives two-thirds of the national average rainfall, making it the driest region in the country.
+In total, Anglian Water used 736 Gigawatt hours GWh in It is also one of the fastest growing.
+This growth places 2005 6, or 0.2 per cent of total electricity usage in the UK.
+additional demand on water resources, often on a very localised basis.
+The chart above demonstrates energy consumption by the key processes.
+In addition to low average rainfall, the region received only two-thirds of its usual rainfall between November 2005 Electricity prices are on a rising trend and increased and February 2006, a period essential for re-charging water 24 per cent in 2005 6.
+Electricity costs for Anglian Water reserves, particularly underground aquifers.
+The potential are anticipated to continue to increase over the current deficit in the availability of water resources was managed regulatory period.
+through effective planning and investment in water storage and supply systems, for example, increased pumping of Anglian Waters energy costs are currently fixed until water from rivers into reservoirs, within abstraction limits October 2007.
+One contract, to procure energy through set by the Environment Agency.
+co. uk 19 Water supplied Pre-privatisation Post-privatisation 1600 1400 1200 1000 800 600 400 200 Unmanaged growth of demand Managed demand 0 Anglian Water manages the supply and demand of water A regional advertising campaign encouraging customers by a combination of leakage control and metering.
+Its to be Waterwise was launched in May 2006. leakage rate is close to half the industry average, and more than half of households 57 per cent are now Sewage sludge biosolids on metered water supplies, which is twice the industry Sewage sludge is a by-product of wastewater treatment.
+The safe and sustainable management of sludge, or biosolids as it is known when it is treated for use in The chart above demonstrates how this approach has agriculture, remains a key issue for Anglian Water and meant that Anglian Water supplies roughly the same the industry as a whole.
+amount of water to the region as it did around privatisation in 1989, despite a 20 per cent growth Anglian Water uses a number of methods for managing in households since that time.
+sludge, the most important of which is recycling it to land.
+Around 90 per cent of treated biosolids are used as a As a result of these measures, Anglian Waters resources high quality fertiliser on agricultural land.
+If legislation remained close to normal ranges throughout the year.
+or demand changed, removing agricultural land as an At the time of writing, reservoirs were at target levels 93 option, it would pose a substantial challenge to the per cent full on average as at 30 May 2006.
+The company, therefore, maintains the highest levels in some parts of the drier southern region were standards within the current operation and continuously below average, although within the normal operating range.
+researches alternative treatment and management methods.
+Long-term water resource planning As part of its long-term water resource planning, Anglian At present the company does not believe that there is Water has been preparing to extract more water from any reason to expect a significant detrimental change Rutland Water, its largest reservoir.
+Anglian Water has in legislation.
+The treatment of sludge, and the recycling typically used only three-quarters of the amount available of biosolids, are both highly regulated processes and are in the reservoir.
+As part of its plan to use a greater undertaken in accordance with strict quality guideline proportion of the water in the reservoir, Anglian Water procedures.
+Both the Government and the European has consulted with local residents and statutory Commission support this method of managing sludge.
+organisations regarding an extension of its existing water treatment works.
+An important part of the consultation Anglian Water continues to work, at a national and has been to explain how Anglian Water intends to extract European level, with the water industry, the Government more water from the reservoir while minimising the impact and regulators, to ensure the understanding and on the wildlife at this internationally important Special confidence of stakeholders in the safe and sustainable Protection Area SPA.
+practise of recycling is maintained and improved.
+Mindful of the potential consequences of climate change and Government plans for continued regional growth, the company is developing long-term plans to manage increased demand, one aspect of which is to raise customer awareness of the issues and the need to be waterwise.
+Annual Report and Accounts 2006 Quantity into supply MI d 1963 1966 1969 1972 1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 2005 Operating and Financial Review 20 Anglian Water continued Environmental incidents The company is keen to play an active role in tackling One of Anglian Waters key objectives is to minimise the issues of climate change and in preparing the business the impact of its operations on the environment.
+for the inevitable requirements of adaptation.
+See page 39 Unfortunately, given the scale of the companys for more information on Anglian Waters Climate Change operations, covering an area of 27,500 square kilometres, Action Plan.
+there can be instances of failure.
+Water Framework Directive During the financial year 2005 6, the Environment Agency The Water Framework Directive WFD is the most brought six court actions against Anglian Water for substantial piece of EC water legislation to date.
+Anglian Water was acquitted in 2000 60 EC came into force in December 2000 and one case, but pleaded guilty to the other five.
+Fines from the five convictions totalled 44,500 2004 5: The main objectives of the WFD are to: 61,500.
+Anglian Water works closely with the Environment Agency to learn the lessons from such Enhance the status and prevent further deterioration incidents and to strive to prevent further incidents.
+of aquatic ecosystems and associated wetlands there is a requirement for nearly all inland and coastal Climate change waters to achieve good status by 2015.
+Climate change will directly affect Anglian Water.
+The Promote the sustainable use of water.
+company is currently investigating the impacts that this Reduce pollution of water, especially by priority will have on the supply of drinking water and the hazardous substances.
+collection and treatment of wastewater in the region.
+Lessen the effects of floods and droughts.
+Rationalise and update existing water legislation The key implications for Anglian Water are: and introduce a co-ordinated approach to water management based on the concept of river basin Requirement for increased winter raw water storage.
+Supply infrastructure improvements peak demand resilience.
+The water industry has an important contribution to make Impact on infrastructure temporary or permanent in achieving the WFD objectives.
+Anglian Water is working asset loss due to flooding, sea level rise and coastal closely with Water UK, the Environment Agency and other realignment.
+key regulators on the implementation of the WFD to Resource competition environmental economic ensure that the benefits are achieved in a sustainable way, pressure to share water.
+with all sectors contributing appropriately and equitably.
+Requirement to adapt design standards, for example sewer capacity.
+Any new obligations on the water industry arising from contributions or measures towards meeting WFD Anglian Water recognises the serious nature of the objectives, will be funded by Ofwat through the periodic challenges that it faces and has developed a strategy review process, using appropriate change mechanisms identifying the implications and required actions, both where WFD timescales are not compatible with Anglian in terms of mitigation and adaptation.
+co. uk 21 Outlook by companies though cash donations, staff time, gifts In the year ahead Anglian Water will continue to focus on in kind and management time, shown as a percentage delivering its regulatory obligations while continuing to of pre-tax profits.
+seek further operating and capital expenditure efficiencies.
+At an operational level, it will be focusing on customer Education service, maintaining sufficient water resources and the One way in which Anglian Water engages with its other key aspects of its service that make up Ofwats customers is to open its water and wastewater treatment Overall Performance Assessment.
+A water bottle house has been erected at Grafham Water Corporate responsibility in Cambridgeshire, which provides a way to visually Working in communities convey to customers the amount of water used every Anglian Water has operated its give me five scheme for day by the average family of four.
+The house, which is a number of years whereby, providing it links to personal constructed from 1,000 half-litre water bottles, is popular development, employees who volunteer in community with children and adults alike.
+activities are given a matched number of work hours up to 30 hours per year.
+An extensive Education Programme is planned for 2006 onwards.
+The programme includes purpose-built As part of the Community Service Volunteers Make a classrooms on operational sites and an educational bus Difference Day in June 2005, some 75 Anglian Water that will visit schools, open days and other community employees and Capital Alliance partners worked at events.
+Professional teaching staff will conduct lessons Peterborough District Hospital to create a sensory garden, and activities about the water cycle, its use, treatment play zone and magic garden for young patients.
+The team and conservation that will be linked to the National was involved in all aspects of the work, from creating Curriculum.
+The overall aim is to educate young people designs to providing the materials and labour.
+about the real value of water and why it is so important to treat it as a precious resource.
+During 2005 6 nearly 120 employees have given time to their communities, and have been supported by Anglian WaterAid Water with the offer of matched time.
+Much of the 6,000 For many years, Anglian Water has supported WaterAid, hours donated by employees and the company have been an international charity dedicated to helping people in less visible, but equally important activities, such as escape poverty and disease caused by living without working with scouting organisations, as school governors, safe water and sanitation.
+sports coaches, fundraisers for local charities, reading in schools, and local conservation projects.
+Anglian Water Through a combination of Anglian Water donations and has set a target to increase, year on year, the number of employee contributions, more than 0.5 million has been hours donated by staff and Anglian Water.
+raised in the past five years.
+In 2005 6 Anglian Waters customers donated 75,000 to WaterAid, 40,000 was In addition, AWG is part of the Business in The donated corporately and employees raised a further Community BiTC Percent Club.
+The Percent Club is a 66,000. voluntary benchmark, measuring the contributions made Annual Report and Accounts 2006

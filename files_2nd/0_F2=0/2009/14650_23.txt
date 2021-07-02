@@ -1,0 +1,492 @@
+FINANCIAL STATEMENTS notes to the consolidated financial statements 1.
+Corporate information The Groups consolidated financial statements for the year ended 31 December 2009 were authorised for issue by the Board of directors on 4 March 2010.
+Spirent Communications plc is a public limited company incorporated and domiciled in England and Wales.
+The Companys Ordinary Shares are traded on the London Stock Exchange.
+As required by the European Unions EU IAS Regulation and the Companies Act 2006, the Group has prepared its consolidated financial statements in accordance with International Financial Reporting Standards IFRS as adopted by the EU and issued by the International Accounting Standards Board.
+The Company has elected to prepare the Company financial statements in accordance with UK Accounting Standards.
+These are presented on pages 84 to 101 and the accounting policies in respect of the Company are set out on pages 85 to 88.
+Summary of significant accounting policies Basis of preparation The consolidated financial statements have been prepared under the historical cost convention except unless otherwise indicated.
+The Group has prepared its financial statements under IFRS.
+The significant accounting policies applied in the preparation of these consolidated financial statements are set out below and the accounting policies adopted are consistent with those applied in the consolidated financial statements for the year ended 31 December 2008.
+The following new standards, amendments to standards and interpretations are mandatory for the first time in the current financial year and have been adopted by the Group with no significant impact on its consolidated results or financial position.
+IAS 1 revised Presentation of Financial Statements has introduced a number of terminology changes and changes to presentation and disclosure.
+IFRS 8 Operating Segments requires operating segments to be identified on the basis of internal reports about components of the Group that are regularly reviewed by the chief operating decision maker to allocate resources to the segments and assess their performance.
+The Standard has not required a change to the reported segments, however segment profit is measured before share-based payment and acquired intangible amortisation and this has required a change to the way the results have been presented.
+Comparative information has been restated on the same basis.
+International Accounting Standards IAS IFRS IAS 1 revised Presentation of Financial Statements IAS 23 Borrowing Costs IAS 32 and IAS 1 Amendments to IAS 32 and IAS 1 Puttable Financial Instruments and Obligations Arising on Liquidation IFRS 1 and IAS 27 Amendments to IFRS 1 and IAS 27 Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate IFRS 2 Amendments to IFRS 2 Vesting Conditions and Cancellations IFRS 7 Amendments to IFRS 7 Improving Disclosures about Financial Instruments IFRS 8 Operating Segments IFRIC 9 and IAS 39 Amendment to IFRIC 9 and IAS 39 Embedded Derivatives IFRIC 13 Customer Loyalty Programmes IFRIC 15 Agreements for the Construction of Real Estate IFRIC 16 Hedges of a Net Investment in a Foreign Operation IFRIC 18 Transfers of Assets from Customers Annual Improvements 2008 Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and its subsidiaries made up to 31 December each year.
+The financial statements of subsidiaries are prepared for the same reporting year as the parent Company, using consistent accounting policies.
+Results of subsidiaries are consolidated from the date on which control is transferred to the Group and cease to be consolidated from the date on which control is transferred out of the Group.
+All intra Group transactions, balances, income and expenses are eliminated on consolidation.
+Spirent Communications plc 47 Annual Report 2009 notes to the consolidated financial statements continued 2.
+Summary of significant accounting policies continued Goodwill Goodwill arising on the acquisition of subsidiaries, representing the excess of cost over the net fair value of the identifiable assets, liabilities and contingent liabilities acquired, is capitalised as an intangible asset.
+Goodwill is carried at cost less any accumulated impairment losses.
+Goodwill is subject to an annual review for impairment.
+For the purpose of impairment testing, goodwill is allocated to the related cash-generating units monitored by management.
+Where the recoverable amount of the cash-generating unit is less than its carrying amount, including goodwill, an impairment loss is recognised in the income statement.
+The carrying amount of goodwill allocated to a cash-generating unit, an operation within a cash-generating unit, an associate or jointly controlled entity is included in the profit or loss on its disposal.
+Intangible assets Intangible assets are carried at cost less accumulated amortisation and accumulated impairment losses.
+Separately identifiable intangible assets such as patent fees, licence fees, trademarks and customer lists and relationships are capitalised on the balance sheet only when the value can be measured reliably, or the intangible asset is purchased as part of the acquisition of a business.
+Such intangible assets are amortised over their useful economic lives on a straight line basis.
+The carrying value of intangible assets is reviewed for impairment if events or changes in circumstances indicate the carrying value may not be recoverable.
+Product development Research expenditure is recognised in the year in which it is incurred.
+Intangible assets arising on the Groups various product development projects are recognised only if the recognition criteria of IAS 38 Intangible Assets are met.
+Product development costs are expensed as incurred until the technological feasibility of the product under development has been established.
+Technological feasibility in Spirents circumstances occurs when a working model is completed.
+For software development technological feasibility is not established until the process of developing the software is complete.
+After technological feasibility is established, additional costs are capitalised and amortised on a straight line basis over the estimated useful life.
+At 31 December 2009 no amounts have met the recognition criteria.
+Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and accumulated impairment.
+Depreciation is not provided on freehold land.
+Depreciation is provided to write off the cost, less estimated residual value, of all other assets over their estimated useful lives on a straight line basis at rates which take into account commercial conditions at their location.
+Usual asset lives are as follows: Freehold buildings 50 years Plant and machinery 3 to 8 years Fixtures, fittings and equipment Building installations 20 years or lease period if less Fittings and equipment 3 to 8 years Motor vehicles 3 to 5 years Business systems software 4 years The carrying values of property, plant and equipment are reviewed for impairment if events or changes in circumstances indicate the carrying value may not be recoverable.
+Impairment of assets Intangible assets with finite useful lives and property, plant and equipment are tested for impairment at each reporting date where there is an indication that an asset may be impaired.
+Goodwill and intangible assets with an indefinite useful life are assessed at least annually.
+When an impairment test is performed, the recoverable amount is assessed by reference to the higher of the net present value of the expected cash flows value in use of the relevant cash-generating unit or asset and the fair value less cost to sell.
+In 48 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 2.
+Summary of significant accounting policies continued assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+Where the carrying amount of an asset exceeds its recoverable amount, the asset is considered impaired and is written down to its recoverable amount.
+Impairment losses are recognised in the income statement in those expense categories consistent with the function of the impaired asset.
+Where an impairment loss has been recognised against an asset, it may be reversed in future periods where there has been a change in the estimates used to determine the assets recoverable amount since the last impairment loss was recognised, but only to the extent that the assets carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, had no impairment loss been recognised in prior years.
+This does not apply for goodwill, for which an impairment loss must not be reversed in any circumstances.
+Such a reversal is recognised in the income statement.
+Leases Operating leases are leases where the lessor retains substantially all the risks and rewards of ownership of the asset and are not finance leases.
+Operating lease rentals are charged to the income statement on a straight line basis over the period of the lease.
+Inventories Inventories are stated at the lower of cost and estimated net realisable value, after provisions for obsolescence.
+Cost includes all costs in bringing each product to its present location and condition, being the full manufacturing cost on a first-in-first-out basis, including all attributable overheads based on a normal level of activity.
+Provisions Provisions are recorded when the Group has a present, legal or constructive obligation as a result of a past event, for which it is probable that the Group will be required to settle by an outflow of resources and for which a reliable estimate of the amount of the obligation can be made.
+Provisions are reviewed at each balance sheet date and adjusted to reflect the current best estimate.
+Where the effect of the time value of money is material, the amount of the provision shall be the present value of the expenditures expected to be required to settle the obligation.
+Foreign currencies The consolidated financial statements are presented in pounds sterling, which is the Companys functional and presentation currency.
+Transactions in foreign currencies are initially recorded at the rates ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are retranslated at the rates ruling at the balance sheet date.
+All exchange differences are taken to the consolidated income statement.
+Non-monetary assets and liabilities denominated in foreign currencies are measured in terms of historical costs using the exchange rate at the date of the initial transaction.
+The functional currencies of the Groups operations are principally US dollar, sterling or euro.
+On consolidation the assets and liabilities of the Groups foreign operations are translated into the Groups presentation currency at exchange rates ruling at the balance sheet date.
+The results of foreign operations are translated into sterling using average rates.
+The exchange differences arising on retranslation are classified as a separate component of equity, the translation reserve.
+Such translation differences are recognised as part of the profit or loss on disposal should an operation be disposed of.
+The Group has elected to apply the exemption in IFRS 1 First Time Adoption of International Financial Reporting Standards which allows the cumulative translation differences for all foreign operations to be deemed to be zero at the date of transition to IFRS, being 1 January 2003.
+Financial instruments Financial assets and liabilities are recognised on the Groups balance sheet when it becomes a party to the contractual provisions of the instrument.
+Trade receivables Trade receivables are non-interest bearing and are stated at original invoiced amount less an appropriate allowance for estimated irrecoverable amounts.
+Such allowances are based on an assessment of debtor ageing, past experience or known customer exposures.
+Spirent Communications plc 49 Annual Report 2009 notes to the consolidated financial statements continued 2.
+Summary of significant accounting policies continued Cash and cash equivalents Cash and cash equivalents in the balance sheet comprise cash at bank and in hand and short term deposits with an original maturity of three months or less.
+For the purposes of the consolidated cash flow statement, cash and cash equivalents consist of cash and cash equivalents as defined above.
+There are no bank overdrafts.
+Trade payables Trade payables are non-interest bearing and are stated at the original invoiced amount.
+Equity instruments Equity instruments are recorded at the proceeds received, net of direct issue costs.
+Spirent Communications plc Ordinary Shares held by the Group are classified in shareholders equity as treasury shares and are recognised at cost and shown as a deduction from retained earnings.
+Consideration received for the sale of such treasury shares is also recognised in equity, with any difference between the proceeds from sale and the original cost being taken to retained earnings.
+Derivative financial instruments and hedge accounting The Group uses forward foreign currency exchange contracts to manage exposures arising on forecast receipts and payments in foreign currencies relating to firm commitments or highly probable forecast transactions.
+Such derivative financial instruments are initially recognised at fair value on the date on which the contract is entered into, and are subsequently remeasured to fair value at each reported balance sheet date.
+The fair value of forward foreign currency exchange contracts is calculated by reference to current forward exchange rates for contracts with similar maturity profiles.
+The Group has designated its forward foreign currency exchange contracts as cash flow hedges.
+Changes in the fair value of contracts which are designated as effective are recognised directly in equity and the gain or loss on the ineffective portion of the hedge is recognised immediately in the income statement.
+For derivatives that do not qualify for hedge accounting, any gains or losses arising from changes in fair value are taken to the income statement.
+For effective hedges that are in relation to a financial asset or liability, amounts originally deferred are recognised in the income statement in the same period in which the hedged item affects profit or loss, for example when a highly probable forecast sale occurs.
+For non-financial assets or liabilities, the gains or losses that have been included in equity are included in the initial measurement of the non-financial asset or liability at the time the asset or liability is recognised on the balance sheet.
+The Group discontinues hedge accounting if the hedging instrument expires or is sold, terminated or exercised, the hedge no longer meets the criteria for hedge accounting or the Group revokes the designation.
+Gains or losses arising on hedging instruments, which are cancelled due to termination of the underlying exposure, are taken to the income statement immediately.
+Derivatives embedded in other financial instruments or other host contracts are treated as separate derivatives when their risks and characteristics are not closely related to those of the host contracts.
+Retirement benefits The Group operates two defined benefit pension plans which are in the United Kingdom, all other pension plans are defined contribution in nature.
+For the defined contribution plans the amount charged to the income statement is the contributions paid or payable during the year.
+For defined benefit pension plans full actuarial valuations are carried out every three years using the projected unit credit method, and updates are performed at each balance sheet date.
+The cost of providing benefits under these plans is determined separately for each plan, and attributes entitlement to benefits to the current period to determine current service cost, and to the current and prior periods to determine the present value of defined benefit obligations.
+Past service costs are recognised in the income statement on a straight line basis over the vesting period or immediately if the benefits have vested.
+When a settlement eliminating all obligations for benefits already accrued, or a curtailment reducing future obligations as a result of a material reduction in the plan membership or a reduction in future entitlement occurs, the obligation and related plan assets are remeasured using current actuarial assumptions and the resultant gain or loss recognised in the income statement during the period in which the settlement or curtailment occurs.
+50 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 2.
+Summary of significant accounting policies continued The interest element of the defined benefit pension plan cost represents the change in present value of plan obligations resulting from the passage of time and is determined by applying the discount rate to the opening present value of the benefit obligation, taking into account material changes in the obligation during the year.
+The expected return on plan assets is based on an assessment made at the beginning of the year of long term market returns on plan assets, adjusted for the effect on the fair value of plan assets of contributions received, and benefits paid during the year.
+The difference between the expected return on plan assets and the interest cost is recognised in the income statement as finance costs or finance income.
+Actuarial gains and losses arising from differences between actual and expected returns on plan assets, experience adjustments on liabilities and changes in actuarial assumptions, are recognised immediately in the statement of comprehensive income.
+The defined benefit pension plan asset or liability in the balance sheet comprises the total for each plan of the present value of the defined benefit obligation using a discount rate based on high quality corporate bonds denominated in the same currency and whose term is consistent with the estimated term of the obligation, less any past service cost not yet recognised and less the fair value of plan assets out of which the obligations are to be settled directly.
+Fair value is based on market price information and, in the case of quoted securities, is the published bid price.
+The value of a net pension benefit asset is restricted to the sum of any unrecognised past service costs and the present value of any amount the Group expects to recover, by way of refunds from the plan or reductions in the future contributions.
+Revenue recognition Revenue is recognised when it is probable that economic benefits will flow to the Group, the revenue can be reliably measured and when the Group has transferred to the buyer the significant risks and rewards of ownership.
+In addition, revenue is only recognised when collectability is probable.
+For the sale of services, revenue is recognised in accounting periods in which the service is rendered.
+Revenue from maintenance contracts is recognised over the period of performance on a straight line basis.
+Revenue from product sales of hardware and software is recognised at the time of delivery and acceptance and when there are no significant vendor obligations remaining.
+It is not until acceptance has occurred that the risks and rewards of ownership are transferred to the buyer.
+Terms of acceptance are dependent upon the specific contractual arrangement agreed with the customer.
+Contractual arrangements are accounted for as two or more separate transactions only where the commercial substance is that the individual components operate independently of each other, because they are capable of being provided separately from one another and it is possible to attribute reliable fair values to every component.
+To the extent that a separate component comprises a product sale of hardware or software, revenue is recognised as described above.
+Revenue is recognised on other components as the Group fulfils its contractual obligations and to the extent that it has earned the right to consideration.
+Employee benefits When an employee has rendered services to the Group during an accounting period, short term benefits expected to be paid in exchange for those services are recognised in the same accounting period.
+Share-based payment The Group operates various equity-settled share-based compensation plans and accounts for these awards in accordance with IFRS 2 Share-based Payment.
+In accordance with the transitional provisions available on first-time adoption of IFRS, the Standard has been applied to awards granted after 7 November 2002 which were unvested at 1 January 2005.
+The fair value of these awards is recognised in the income statement on a straight line basis over the vesting period together with a corresponding change in equity.
+The fair value is measured using a binomial model by reference to the fair value at the date the awards were granted and taking into account the best estimate of the number of awards expected to vest.
+The charge is reassessed at each balance sheet date to reflect the expected and actual levels of vesting, except where the failure to vest is a result of not meeting a market condition.
+Awards where vesting is conditional upon satisfying a market condition are treated as vesting irrespective of whether the market condition has been satisfied.
+The Group has an employee share trust for the granting of certain share incentives to employees.
+Shares in the Group held by the employee share trust are treated as treasury shares and presented in the balance sheet as a deduction from equity.
+Spirent Communications plc 51 Annual Report 2009 notes to the consolidated financial statements continued 2.
+Summary of significant accounting policies continued Tax Income tax on the profit or loss for the year comprises current and deferred tax.
+Income tax is recognised in the income statement except to the extent that it relates to items in equity.
+Current tax is the expected tax payable on the taxable income for the year, using tax rates enacted or substantively enacted at the balance sheet date, and any adjustments to tax payable for previous years.
+Deferred tax is recognised on all temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements, with the following exceptions: Where the temporary difference arises from the initial recognition of goodwill or of an asset or liability in a transaction that is not a business combination that at the time of the transaction affects neither accounting nor taxable profit or loss.
+In respect of taxable temporary differences associated with investments in subsidiaries, associates and joint ventures, where the timing of the reversal of the temporary differences can be controlled and it is probable that the temporary differences will not reverse in the foreseeable future.
+A deferred tax asset is recognised only to the extent that it is probable that taxable profit will be available against which the deductible temporary differences, carried forward tax credits or tax losses can be utilised.
+Deferred tax assets and liabilities are measured on an undiscounted basis at the tax rates that are expected to apply when the related asset is realised or the liability is settled, based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+Dividends paid The interim dividend is included in the financial statements in the period it is approved by the directors, and the final dividend in the period it is approved by the shareholders at an annual general meeting.
+Critical accounting assumptions and judgements The preparation of financial statements requires the Group to make estimates and assumptions that affect items reported.
+Such estimates and assumptions are based on managements best knowledge of current facts, circumstances and future events, actual results may differ, possibly significantly, from those estimates.
+The areas requiring a high degree of judgement or where assumptions and estimates are significant to the consolidated financial statements are discussed below.
+Goodwill impairment The Group tests annually by cash-generating unit whether goodwill has suffered impairment and more frequently when events or circumstances indicate that the current carrying value may not be recoverable.
+The recoverable amounts of cash-generating units have been determined based on value in use calculations which require the use of estimates and assumptions.
+These are described in note 14.
+Defined benefit pension plans The pension cost and the defined benefit obligation of the Groups defined benefit pension plans are based on a number of selected assumptions, these include the discount rate, inflation rate, salary growth, longevity and expected return on the plans assets.
+Differences arising from actual experience or future changes in assumptions will be reflected in future periods.
+The effect of changing these assumptions is described in note 10.
+Revenue recognition For revenue recognition purposes contractual arrangements are accounted for as two or more separate transactions only where the commercial substance is that the individual components operate independently of each other, because they are capable of being provided separately from one another and it is possible to attribute reliable fair values to every component.
+Management exercises a degree of judgement in setting the criteria used for determining when revenue which involves several elements should be recognised.
+52 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 2.
+Summary of significant accounting policies continued Income taxes The Group is subject to income taxes in a number of tax jurisdictions and judgement is applied in determining the worldwide provision for income taxes.
+There are many transactions for which the final tax determinability is uncertain.
+For example liabilities are recognised for anticipated tax audit issues based on whether additional taxes are likely to be due based on the facts and circumstances known at the time the financial statements are prepared.
+Where the final outcome differs from the amounts that were initially recorded the differences will be recorded in the future period in which the determination is made.
+Deferred taxes The extent to which deferred tax assets can be recognised is based on current forecasts and estimates prepared by management.
+A change to these forecasts and estimates could result in a different recognition outcome.
+Provisions The Group records a provision for vacant property based on future rentals and reduced by its expected ability to sublease the vacant space to a third party.
+Provisions are discounted where the effect is significant.
+Changes in the actual outcome compared with the expected outcome on subleasing or changes to other assumptions will be recorded in future periods.
+New standards and interpretations not applied The IASB and IFRIC have issued the following standards and interpretations with an effective date for the Group after the date of these financial statements: Effective for annual International Accounting Standards IAS IFRS periods beginning on or after IAS 24 revised Related Party Disclosures 1 January 2011 IAS 27 revised Consolidated and Separate Financial Statements 1 July 2010 IAS 32 Amendment to IAS 32 Classification of Rights Issues 1 February 2010 IAS 39 Amendment to IAS 39 Eligible Hedged Items 1 July 2009 IFRS 2 Amendments to IFRS 2 Group Cash-settled Share-based Payment Transactions 1 January 2010 IFRS 3 revised Business Combinations 1 July 2009 IFRS 9 Financial Instruments: Classification and Measurement 1 January 2013 IFRIC 14 Amendment to IFRIC 14 Prepayments of a Minimum Funding Requirement 1 January 2011 IFRIC 17 Distributions of Non-cash assets to Owners 1 July 2009 IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments 1 July 2010 Annual Improvements 2009 Various The directors do not anticipate that the adoption of these standards and interpretations will have a material impact on the Groups financial statements in the period of initial application.
+Revenue 2009 2008 million million Sale of goods 226.5 219.6 Maintenance and support services 45.6 38.3 Total revenue 272.1 257.9 4.
+Operating segments The Groups organisational structure is based on differences in the products and services offered by each segment and information regularly reviewed by the Groups Chief Executive Officer, its chief operating decision maker, is presented on this basis.
+The Groups operating segments follow this structure, however where operating segments exhibit similar economic characteristics and are similar in nature they are aggregated into a single reportable segment.
+The Groups reportable operating segments are Performance Analysis, Service Assurance and Systems.
+For presentational purposes the Group combines Performance Analysis and Service Assurance into the Communications operating group, its core activity.
+The Group evaluates segment operating profit before share-based payment, acquired intangible amortisation and exceptional items, Spirent Communications plc 53 Annual Report 2009 notes to the consolidated financial statements continued 4.
+Operating segments continued although there were no exceptional operating items in 2008 or 2009.
+Finance income and finance costs are not allocated to the reportable segments.
+Corporate is not an operating segment and costs are separately reported and not allocated to the reportable segments.
+Corporate assets comprise cash and cash equivalents held for central treasury purposes, acquired intangible assets and other corporate assets.
+Information on segment liabilities is not regularly provided to the Groups Chief Executive Officer and is therefore not disclosed below.
+The principal activities of each reportable operating segment are as follows: Performance Analysis division of the Communications group develops testing solutions for a broad range of communications technologies critical to the development of next-generation network equipment and devices.
+Service Assurance division of the Communications group provides solutions to allow service providers to diagnose, troubleshoot and determine how to resolve issues with networks and systems within the live network.
+Systems group comprises PG Drives Technology, which develops power control systems for electrical vehicles in the mobility and industrial markets.
+2009 million Performance Service Communications Analysis Assurance Total Systems Corporate Total Revenue External revenue 201.8 33.5 235.3 36.8 272.1 There were no inter-segment sales.
+Profit before tax Total reportable segment profit loss 49.9 4.8 54.7 5.0 3.1 56.6 Unallocated amounts Acquired intangible amortisation 0.9 Share-based payment note 30 0.4 Operating profit 55.3 Finance income 0.4 Finance costs 1.6 Profit before tax 54.1 Other information Product development 38.7 6.3 45.0 2.5 47.5 Expenditure on property, plant and equipment note 15 5.7 0.5 6.2 0.2 6.4 Depreciation note 15 7.5 0.7 8.2 0.4 8.6 Intangible amortisation other 0.3 0.3 0.3 Segment assets 155.7 2.8 158.5 13.3 119.7 291.5 Segment cash flows Operating activities 58.9 6.6 65.5 6.6 10.9 61.2 Investing activities 5.8 0.5 6.3 0.2 1.8 4.7 Financing activities 6.0 6.0 53.1 6.1 59.2 6.4 15.1 50.5 54 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 4.
+Operating segments continued 2008 million Performance Service Communications Analysis Assurance Total Systems Corporate Total Revenue External revenue 191.2 33.5 224.7 33.2 257.9 There were no intersegment sales.
+Profit before tax Total reportable segment profit loss 44.9 4.8 49.7 4.3 3.1 50.9 Unallocated amounts Acquired intangible amortisation 0.7 Sharebased payment note 30 1.5 Operating profit 48.7 Finance income 4.0 Finance costs 3.1 Profit before tax 49.6 Other information Product development 37.8 5.2 43.0 2.3 45.3 Expenditure on property, plant and equipment note 15 5.2 1.8 7.0 0.4 7.4 Depreciation note 15 7.6 0.7 8.3 0.4 0.1 8.8 Segment assets 167.9 9.6 177.5 14.6 70.2 262.3 Segment cash flows Operating activities 47.6 3.8 51.4 4.0 7.7 47.7 Investing activities 4.7 1.8 6.5 0.4 5.3 1.6 Financing activities 71.2 71.2 42.9 2.0 44.9 3.6 73.6 25.1 Geographical information 2009 2008 million million Revenue by market Europe 44.1 47.8 United States 135.3 129.1 Asia Pacific, Rest of Americas, Africa 92.7 81.0 272.1 257.9 Europe includes United Kingdom revenue of 8.9 million 2008 11.1 million.
+Revenues are attributed to countries based on customer location.
+Spirent Communications plc 55 Annual Report 2009 notes to the consolidated financial statements continued 4.
+Operating segments continued 2009 2008 million million Non-current assets Europe 3.4 8.4 United States 80.0 86.5 Asia Pacific, Rest of Americas, Africa 1.1 1.3 84.5 96.2 Europe includes United Kingdom non-current assets of 3.0 million 2008 7.9 million.
+No one customer accounts for 10 per cent or more of total Group revenue in either 2009 or 2008.
+Profit before tax The following items have been charged or credited in arriving at profit before tax: 2009 2008 million million Employee benefit costs note 9 102.0 96.9 Costs of inventories recognised as an expense 66.1 63.2 Write-down of inventories to net realisable value note 18 1.1 1.3 Amortisation of intangible assets note 14 1.2 0.7 Depreciation of property, plant and equipment Owned assets note 15 8.6 8.8 Loss on disposal of property, plant and equipment 0.1 0.3 Operating leases Minimum lease payments 6.8 6.8 Sublease income 0.5 0.5 Product development costs note 4 47.5 45.3 Net foreign exchange charge credit 3.5 0.1 Services provided to all of the operations of the Group by the auditor, Ernst & Young LLP, and its associates.
+2009 2008 million million Audit services Statutory audit 0.3 0.3 Other fees to auditors Local statutory audits for subsidiaries 0.2 0.2 Other audit related services 0.1 Other services relating to tax 0.1 0.4 0.2 0.7 0.5 A description of the work of the Audit Committee is set out in the Directors statement on corporate governance and includes an explanation of how auditor objectivity and independence is safeguarded when non-audit services are provided by the auditors.
+56 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 6.
+Exceptional items There were no exceptional items in 2009.
+Exceptional interest income and expense In 2008 there was exceptional interest income of 0.8 million and an exceptional interest expense of 2.6 million.
+Exceptional tax credit There was an exceptional tax credit of 25.6 million in 2008 which was in relation to the agreement of an overseas tax position.
+Finance income 2009 2008 million million Interest receivable 0.4 3.1 Defined benefit pension plans note 10 0.1 0.4 3.2 Exceptional interest income 0.8 0.4 4.0 Exceptional interest income in 2008 related to interest received on prior year tax refunds during the year.
+Finance costs 2009 2008 million million Bank fees 0.3 0.2 Leasehold provisions discount unwind note 24 0.2 0.3 Defined benefit pension plans note 10 1.1 1.6 0.5 Exceptional interest on tax settlement 2.6 1.6 3.1 An exceptional interest charge was incurred in 2008 on the agreement of prior year tax positions with the relevant tax authorities.
+Employees The average number of people employed by the Group during the year was: 2009 2008 Number Number Manufacturing 414 443 Product development 500 532 Selling and distribution 362 381 Administration 173 191 1,449 1,547 Spirent Communications plc 57 Annual Report 2009 notes to the consolidated financial statements continued 9.
+Employees continued Employee benefit costs were: 2009 2008 million million Remuneration 91.2 85.7 Social security costs 7.2 6.8 Pension and other related costs 3.2 2.9 Expense of share-based payment note 30 0.4 1.5 102.0 96.9 Please refer to the Report on directors remuneration on pages 33 to 40 for disclosures relating to the emoluments, share incentives and pensions of the directors.
+Pensions Defined benefit plans The defined benefit pension plans are in the United Kingdom and comprise the Spirent Communications plc Staff Pension & Life Assurance Plan Staff Plan and the Spirent Communications plc Retirement Cash & Life Assurance Plan Cash Plan.
+The Staff Plan is the Groups most significant plan.
+There is in addition a United Kingdom unfunded plan.
+The assets and liabilities on the balance sheet are as follows: 2009 2008 million million Assets UK defined benefit pension plan Staff Plan 2.1 UK defined benefit pension plan Cash Plan 0.6 0.5 0.6 2.6 Liabilities UK defined benefit pension plan Staff Plan 0.3 UK unfunded plan 0.4 0.6 0.7 0.6 The most recent actuarial valuations, at 1 April 2009, of the plans assets and the present value of the defined benefit plans obligations, using the projected unit credit method, have been used and updated by our independent actuaries.
+i The key financial assumptions The assumptions used for both plans were as follows: 2009 2008 % % Inflation 3.4 3.0 Rate of increase in pensionable salaries 3.9 3.5 Rate of increase for pensions in payment pre 2001 service 3.7 3.6 Rate of increase for pensions in payment post 2001 pre April 2005 service 3.2 2.9 Rate of increase for pensions post April 2005 service 2.2 2.1 Rate of increase in deferred pensions 3.4 3.0 Rate used to discount plan liabilities 5.7 6.0 Expected rate of return on plan assets weighted for both plans 5.6 5.2 Spirent Communications plc employs a building block approach in determining the long term rate of return on plans assets.
+Historical markets are studied and assets with higher volatility are assumed to generate higher returns consistent with widely accepted capital market principles.
+The assumed long term rate of return on each class of asset is set out within this note.
+58 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 10.
+Pensions continued The overall expected rate of return on assets is then derived by aggregating the expected return of each asset class over the actual asset allocation for the plans.
+The mortality assumptions are based on standard mortality tables which allow for future mortality improvements.
+The assumptions are such that a member currently aged 68 2008 aged 65 will live on average for a further 19.1 years 2008 21.7 years if they are male and for a further 20.9 years 2008 24.0 years if they are female.
+For a member who retires in 2019 2008 in 2028 at age 64 2008 age 65 the assumptions are that they will live on average for a further 23.6 years 2008 22.9 years after retirement if they are male and for a further 25.5 years 2008 25.0 years after retirement if they are female.
+The approximate impact to the past service liabilities of changing these main assumptions is as follows: Reducing the discount rate by 0.1 per cent per annum.
+This would increase past service liabilities by 2.0 million.
+Increasing the life expectancy of a member by one year by modifying the standard mortality tables using an appropriate scaling factor.
+This would increase past service liabilities by 4.3 million.
+There will also be an impact on the future service cost but given the small active population in these plans this is likely to be insignificant.
+ii The assets and the liabilities in the plans Long term Long term rate of return rate of return expected 2009 expected 2008 % million % million Staff Plan Equities 8.5 30.6 8.0 24.9 Government bonds 4.3 32.2 4.0 60.3 Corporate bonds 5.1 57.3 5.7 25.7 Insured annuities 5.7 2.9 5.7 3.8 Property 9.0 3.6 7.0 4.1 Cash and other 1.0 4.5 2.7 3.6 Fair value of plan assets 5.7 131.1 5.3 122.4 Present value of defined benefit pension plan obligations 131.4 120.1 Deficit surplus in the plan 0.3 2.3 Irrecoverable element of pension plan surplus 0.2 Deficit surplus in the plan on the balance sheet 0.3 2.1 Cash Plan Equities 8.5 1.8 8.0 1.6 Government bonds 4.4 2.7 4.0 2.1 Insured annuities 5.7 0.2 4.0 0.3 Cash and other 1.0 2.1 2.7 2.9 Fair value of plan assets 4.5 6.8 4.4 6.9 Present value of defined benefit pension plan obligations 6.0 6.4 Surplus in the plan 0.8 0.5 Irrecoverable element of pension plan surplus 0.2 Surplus in the plan on the balance sheet 0.6 0.5 The plans are prohibited from investing in Spirents own financial instruments.
+For the purposes of the following disclosures the two plans have been combined as the Cash Plan is immaterial to these financial statements.
+Spirent Communications plc 59 Annual Report 2009 notes to the consolidated financial statements continued 10.
+Pensions continued iii Analysis of the amounts charged credited to the income statement 2009 2008 million million Analysis of amount charged to operating costs Current service cost 0.1 0.2 Expected return on pension plans assets 6.4 7.6 Interest on pension plans liabilities 7.5 7.5 Finance cost income note 7 and 8 1.1 0.1 Net charge to the income statement 1.2 0.1 iv Analysis of amount recognised directly in the statement of comprehensive income 2009 2008 million million Actual return on pension plans assets 13.9 7.8 Less expected return on pension plans assets 6.4 7.6 Experience gains losses on plans assets 7.5 15.4 Experience losses arising on plans liabilities 2.5 0.4 Changes in assumptions underlying the present value of plans liabilities 6.4 10.7 Actuarial losses recognised directly in equity 1.4 5.1 The cumulative amount of actuarial gains and losses recognised since 1 January 2003 in the statement of comprehensive income is 13.1 million loss 2008 11.7 million loss.
+The directors are unable to determine how much of the pension plan deficit recognised on 1 January 2003 and taken directly to equity of 41.9 million in the Group is attributable to actuarial gains and losses since inception of those pension plans.
+Consequently, the directors are unable to determine the amount of actuarial gains and losses that would have been recognised in the statement of comprehensive income before 1 January 2003.
+2009 2008 million million Movement in the irrecoverable element of the pension plan surplus 1.4 v Movements in the present value of funded defined benefit obligations 2009 2008 million million At 1 January 126.5 135.1 Current service cost 0.1 0.2 Interest cost 7.5 7.5 Employee contributions 0.1 0.1 Benefit payments 5.7 6.1 Actuarial loss gain 8.9 10.3 Present value of funded defined benefit pension plans obligations 137.4 126.5 60 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 10.
+Pensions continued vi Movements in the fair value of plans assets 2009 2008 million million At 1 January 129.3 142.8 Expected return on plans assets 6.4 7.6 Employer contributions 0.3 0.3 Employee contributions 0.1 0.1 Benefit payments 5.7 6.1 Actuarial gain loss 7.5 15.4 Fair value of plans assets 137.9 129.3 vii History of experience gains and losses 2009 2008 2007 2006 2005 million million million million million Present value of defined benefit pension plans obligations 137.4 126.5 135.1 158.2 179.6 Fair value of plans assets 137.9 129.3 142.8 160.6 128.8 Net surplus deficit in plans 0.5 2.8 7.7 2.4 50.8 Experience gains and losses on plans liabilities Amount million 2.5 0.4 0.8 10.0 4.8 Percentage of plans liabilities % 1.8 0.3 0.6 6.3 2.7 Experience gains and losses on plans assets Amount million 7.5 15.4 2.6 0.5 14.6 Percentage of plans assets % 5.4 11.9 1.8 0.3 11.3 The above plans are funded and have full UK HM Revenue & Customs HMRC tax-exempt approval.
+Certain members, whose salaries were in excess of the HMRC statutory earnings cap, had their benefits increased through unapproved unfunded arrangements, to the level that would otherwise have applied in respect of basic salary only.
+The Group has contractually agreed to pay the additional retirement benefits itself and a provision is made in respect of this obligation in the balance sheet at 31 December 2009 of 0.4 million 2008 0.6 million.
+This represents the actuarial value as confirmed by the Groups pension advisers, of the unapproved benefit entitlements accrued at that date.
+The value is assessed and reviewed on a market value basis in line with the main plan valuation and adjusted each year.
+There are no experience gains or losses in the period from 2005 to 2009 on the unfunded plan.
+Expected contributions for these plans for 2010 are 0.3 million.
+Defined contribution plans United Kingdom The Group maintains defined contribution pension plans for employees in the United Kingdom.
+Employer contributions into these plans for 2009 were 0.8 million 2008 0.7 million.
+United States The Group maintains a defined contribution pension plan for employees of its United States subsidiaries.
+This plan, also known as a 401 k Plan, allows employees to defer a percentage of their salary for retirement.
+The investment choices offered by the plan are a selection of diversified mutual funds offering a broad mix of investment return potential with varying levels of risk.
+In aggregate, the Group contributions to the US plan totalled 2.0 million for 2009 2008 1.7 million.
+Total assets in the defined contribution plan at the end of 2009 were 76.8 million 2008 62.1 million.
+There were no defined benefit plans in the United States in 2009 or 2008.
+Spirent Communications plc 61 Annual Report 2009 notes to the consolidated financial statements continued 10.
+Pensions continued Other jurisdictions Outside the United Kingdom and the United States employees are provided with pension arrangements determined in accordance with approved local practice and regulations.
+These arrangements are defined contribution plans.
+Total contributions for 2009 in respect of these plans amounted to 0.3 million 2008 0.2 million.
+Total contributions to defined contribution plans were 3.1 million 2008 2.6 million.
+Directors pension arrangements The pension arrangements of the executive directors are described in detail in the Report on directors remuneration on pages 33 to 40.
+Tax 2009 2008 million million Tax credit charge in the income statement Current income tax Foreign tax 7.5 5.0 Amounts underprovided overprovided in previous years UK tax 3.4 Foreign tax 1.8 27.1 Prior year tax charge credit 1.8 30.5 Total current income tax 9.3 25.5 Deferred tax Recognition of deferred tax assets 19.8 2.5 Origination and reversal of temporary differences 6.5 2.8 Total deferred tax credit charge 13.3 0.3 Tax credit in the income statement 4.0 25.2 The tax credit in the income statement is disclosed as follows: Income tax charge 9.3 0.1 Deferred tax credit charge 13.3 0.3 Income tax credit exceptional 25.6 4.0 25.2 Tax relating to items charged or credited to equity: 2009 2008 million million Current tax credit on share incentives 0.3 Deferred tax credit on share incentives 1.1 Deferred tax credit on defined benefit pension plan 0.6 0.3 Reconciliation of the total tax charge The tax expense in the income statement for the year is lower than the standard rate of corporation tax in the UK of 28.0 per cent 2008 lower and 28.5 per cent.
+62 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 11.
+Tax continued The differences are reconciled below: 2009 2008 million million Accounting profit before tax 54.1 49.6 Accounting profit multiplied by the UK standard rate of corporation tax of 28.0 per cent 2008 28.5 per cent 15.1 14.1 Exceptional items not given credit 0.5 Intangible assets 0.1 0.2 Share-based payment 0.9 0.4 Differences in overseas rates and other adjustments 1.3 0.9 Tax underprovided overprovided in prior years 1.8 30.5 Recognition of UK deferred tax assets 9.1 Recognition of US deferred tax assets 10.7 2.5 Use of pension fund and other UK deductions 3.0 Use of overseas tax credits and unrecognised losses 1.6 3.5 Total tax credit reported in the income statement 4.0 25.2 Amount overprovided in prior year In 2008 the Group released provisions of 30.5 million following the agreement of tax positions with various tax authorities for prior years.
+Of this, 25.6 million was reported as an exceptional item.
+Recognition of deferred tax assets During the year the Group has recognised deferred tax assets in the United Kingdom of 9.1 million 2008 nil and in the United States of 10.7 million 2008 2.5 million.
+Of the deferred tax credit arising in 2009, 13.8 million is as a result of a change in estimate in respect of the recovery of tax losses and timing differences.
+Earnings per share Earnings per share is calculated by dividing the profit for the year attributable to ordinary equity holders of the parent Company by the weighted average number of Ordinary Shares outstanding during the year.
+Diluted earnings per share is calculated by dividing the profit for the year attributable to ordinary equity holders of the parent Company by the weighted average number of Ordinary Shares outstanding during the year plus the weighted average number of Ordinary Shares that would be issued on the conversion of all the dilutive potential Ordinary Shares into Ordinary Shares.
+2009 2008 million million Profit for the year attributable to equity shareholders of parent Company 58.1 74.8 2009 2008 Number Number million million Weighted average number of shares in issue basic 667.0 738.5 Dilutive potential of employee share incentives 3.4 5.3 Weighted average number of shares in issue diluted 670.4 743.8 2009 2008 pence pence Earnings per share Basic earnings per share 8.71 10.13 Diluted earnings per share 8.67 10.06 Spirent Communications plc 63 Annual Report 2009 notes to the consolidated financial statements continued 12.
+Earnings per share continued There were no Ordinary Share transactions that occurred after 31 December that would have significantly changed the number of Ordinary Shares or potential Ordinary Shares outstanding at the end of the period if those transactions had occurred before the end of the reporting period in either year.
+The Group discloses adjusted earnings per share attributable to equity shareholders in order to provide a measure to enable period-on-period comparisons to be made of its performance.
+2009 2008 million pence million pence Profit for the period attributable to equity shareholders of parent Company 58.1 8.71 74.8 10.13 Exceptional finance income note 7 0.8 Exceptional finance costs note 8 2.6 Exceptional tax credit note 11 25.6 Deferred tax assets change in estimate note 11 13.8 Prior year tax charge credit note 11 1.8 4.9 Adjusted basic 46.1 6.91 46.1 6.24 Adjusted diluted 6.88 6.20 13.
+Dividends paid and proposed 2009 2008 million million Declared and paid in the year Equity dividend on Ordinary Shares Final dividend paid for the year ended 31 December 2008 of 0.60 pence per Ordinary Share 31 December 2007 nil 4.0 Interim dividend 2009 0.55 pence per Ordinary Share 2008 0.50 pence 3.7 3.7 7.7 3.7 Proposed for approval at AGM not recognised as a liability at 31 December Equity dividend on Ordinary Shares Final dividend 2009 0.66 pence per Ordinary Share 2008 0.60 pence 4.4 4.0 The directors are proposing a final dividend in respect of the financial year ended 31 December 2009 of 0.66 pence per share 2008 0.60 pence, which will absorb an estimated 4.4 million of shareholders funds 2008 4.0 million.
+It will be paid on 6 May 2010 to shareholders who are on the Register of Members at close of business on 12 March 2010.
+Payment will be made to ADR holders on 13 May 2010.
+No liability is recorded in the financial statements in respect of this final dividend.
+64 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 14.
+Intangible assets million Intangible Goodwill assets Total Cost net of accumulated amortisation and impairment losses At 1 January 2008 55.4 3.2 58.6 Amortisation for the year 0.7 0.7 Exchange adjustment 18.9 0.8 19.7 At 1 January 2009 74.3 3.3 77.6 Amortisation for the year 1.2 1.2 Additions 0.2 0.2 Exchange adjustment 6.4 0.4 6.8 At 31 December 2009 67.9 1.9 69.8 At 31 December 2008 Cost gross carrying amount 1,884.9 8.3 1,893.2 Amortisation and accumulated impairment losses 1,810.6 5.0 1,815.6 Net carrying amount 74.3 3.3 77.6 At 31 December 2009 Cost gross carrying amount 1,815.2 7.6 1,822.8 Amortisation and accumulated impairment losses 1,747.3 5.7 1,753.0 Net carrying amount 67.9 1.9 69.8 The carrying amounts of intangible assets at 31 December by class are as follows: million Customer Current list technology Other Total At 31 December 2009 0.1 1.0 0.8 1.9 At 31 December 2008 0.4 1.9 1.0 3.3 Amortisation and impairment charges Goodwill at 31 December 2009 acquired through business combinations is all in the cash-generating unit Performance Analysis which is a reportable segment.
+There has been no goodwill impairment charged in 2009 or 2008.
+Intangible assets are amortised on a straight line basis over their estimated useful lives which are on average five years and the charge is included within administration expenses in the income statement.
+The remaining amortisation periods of the intangible asset balances arising in relation to customer list and current technology are 1.2 years and 1.4 years, respectively.
+Annual impairment test The recoverable amount of the Performance Analysis cash-generating unit at 30 November 2009, the annual impairment testing date, has been determined based on a value in use calculation using managements cash flow projections over a five year period.
+Cash flows in subsequent years have been extrapolated using a 2.75 per cent growth rate 2008 over a three year period and 2.50 per cent which management estimates to be the approximate average long term growth rate for the industries in which this unit operates.
+The cash flows have been discounted using a pre-tax discount rate of 17.6 per cent 2008 21.0 per cent.
+The recoverable amount of this unit, calculated on a value in use basis, was in excess of its carrying value and consequently no impairment has been recognised.
+Spirent Communications plc 65 Annual Report 2009 notes to the consolidated financial statements continued 14.
+Intangible assets continued Key assumptions for the annual impairment test The key assumptions used in the value in use calculation were: Revenue growth rates Gross margin Operating expenses Discount rate Growth rate used to extrapolate cash flows beyond the five year period covered by managements projections Projections are denominated in the same currency as the denomination of the goodwill balance to eliminate the effect of fluctuating exchange rates.
+Revenue growth rates used in managements projections are based on managements estimate of growth in the markets served.
+The cash flows used in the impairment review have been approved by the Board.
+Gross margins and operating expenses are based on historical values adjusted for the effect of revenue growth.
+The discount rate applied to the cash flows is based on the risk free rate for ten year government bonds adjusted for a risk premium to reflect both the increased risk associated with investing in equities and the systematic risk of the specific cash-generating unit.
+Long term growth rates are based upon managements estimate.
+Sensitivity to changes in key assumptions The directors believe that no reasonable possible change in any of the key assumptions used in isolation would cause the carrying value of Performance Analysis to exceed its recoverable amount.
+66 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 15.
+Property, plant and equipment million Fixtures, Land and Plant and fittings and buildings machinery equipment Total Cost, net of accumulated depreciation and accumulated impairment At 1 January 2008 2.6 7.9 5.7 16.2 Additions Owned assets 2.1 3.5 1.8 7.4 Disposals 0.4 0.4 0.8 Depreciation charge for the year 1.4 4.3 3.1 8.8 Exchange adjustment 1.4 2.4 0.8 4.6 At 1 January 2009 4.7 9.1 4.8 18.6 Additions Owned assets 0.2 4.5 1.7 6.4 Disposals 0.2 0.2 Depreciation charge for the year 1.3 4.8 2.5 8.6 Exchange adjustment 0.4 0.7 0.4 1.5 At 31 December 2009 3.2 7.9 3.6 14.7 At 31 December 2008 Cost 14.6 32.7 32.6 79.9 Accumulated depreciation and accumulated impairment 9.9 23.6 27.8 61.3 Net carrying amount 4.7 9.1 4.8 18.6 At 31 December 2009 Cost 13.8 31.3 32.7 77.8 Accumulated depreciation and accumulated impairment 10.6 23.4 29.1 63.1 Net carrying amount 3.2 7.9 3.6 14.7 None of the property, plant and equipment is held under finance lease arrangements.
+Capital commitments and contingent liabilities The Group had no capital commitments at 31 December 2009 31 December 2008 0.1 million.
+The Group has provided indemnities of 0.4 million 2008 0.5 million for certain ongoing business obligations under letters of credit for subsidiary companies.
+Subsidiaries A list of the significant investments in subsidiaries, including the name, country of incorporation and proportion of ownership interest is given on page 101 of these financial statements.
+Inventories 2009 2008 million million Raw materials 8.2 11.7 Work in progress 0.9 1.5 Finished goods 8.4 11.0 17.5 24.2 An expense of 1.1 million 2008 1.3 million has been recognised in the period for inventory write-downs.
+There are no reversals of prior period inventory write-downs 2008 nil.
+No inventories are carried at fair value less costs to sell 2008 nil.
+Spirent Communications plc 67 Annual Report 2009 notes to the consolidated financial statements continued 19.
+Trade and other receivables 2009 2008 million million Non-current assets Other receivables 1.8 2.2 Prepayments, accrued income and deferred costs 0.5 0.3 2.3 2.5 Current assets Trade receivables 41.9 52.2 Other receivables 2.0 2.4 Prepayments, accrued income and deferred costs 6.6 7.8 50.5 62.4 52.8 64.9 The trade receivables are stated net of provisions for doubtful debts.
+The movement in the provision was as follows: 2009 2008 million million At 1 January 1.9 1.8 Charge for the year 0.1 0.5 Released in the year 0.1 0.6 Amounts written off 0.5 Exchange adjustment 0.1 0.2 At 31 December 1.3 1.9 The directors consider that the carrying amount of trade and other receivables approximates to their fair value.
+The Group has no significant concentration of credit risk attributable to its trade receivables as the exposure is spread over a large number of customers.
+Cash and cash equivalents 2009 2008 million million Cash at bank and in hand 41.3 27.4 Short term bank deposits 66.7 32.3 108.0 59.7 Cash at bank and in hand earns interest at floating interest rates.
+Of this balance 16.6 million 2008 nil is callable at notice of between 7 and 35 days.
+Short term bank deposits are made for varying periods of between one day and three months 2008 one day and one week depending on the cash requirements of the Group and earn interest at the short term deposit rates appropriate for the term of the deposit and currency.
+For the purposes of the cash flow statement, cash and cash equivalents comprise the above amounts.
+2009 2008 million million Non-current Cash on deposit 1.1 2.5 At 31 December 2009 1.1 million 2008 2.5 million is held in a blocked trust account and is available for use by the Company as creditors, who were outstanding at the date of the cancellation of the share premium and capital redemption reserve, being 24 November 2004, are settled.
+68 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 21.
+Trade and other payables current 2009 2008 million million Trade payables 11.7 13.7 Payments received on account 0.8 2.3 Other taxes and social security costs 1.8 1.7 Accruals and deferred income 39.5 45.8 53.8 63.5 Trade payables are non-interest bearing and are normally settled on 60 day terms.
+Other payables are non-interest bearing.
+The directors consider that the carrying amount of trade payables approximates to their fair value.
+Deferred tax The movements in the deferred tax assets liabilities are as follows: million Temporary UK pension differences Tax losses plans Total At 1 January 2008 10.5 0.8 0.8 10.5 Recognised in the year note 11 0.8 3.3 2.5 Charged in the year note 11 2.3 0.5 2.8 Deferred tax on UK pension plan note 11 0.3 0.3 Exchange adjustment 1.5 0.2 1.7 At 1 January 2009 8.9 3.8 0.5 12.2 Recognised in the year note 11 11.0 8.8 19.8 Charged in the year note 11 6.0 0.5 6.5 Deferred tax on defined benefit pension plan note 11 0.6 0.6 Deferred tax on share incentives recognised in equity note 11 1.1 1.1 Exchange adjustment 0.8 0.8 At 31 December 2009 14.2 12.1 0.1 26.4 A deferred tax asset of 26.4 million has been recognised at 31 December 2009 2008 12.2 million.
+12.7 million is in the United Kingdom 2008 6.1 million and 13.7 million is in the United States 2008 6.1 million.
+The deferred tax asset includes 3.3 million in respect of the tax deduction which may be available on the future exercise of share incentives 2008 nil of which 1.1 million has been recognised in equity.
+The deferred tax liability arising on the United Kingdom pension plan surplus in 2008 has been offset as permitted by IAS 12 Income Taxes.
+Movements in deferred tax in relation to the pension plan have been charged to the statement of comprehensive income in 2009 and 2008.
+All deferred tax assets on temporary differences, arising principally in the United Kingdom and United States, have been recognised at 31 December 2009 apart from 1.6 million in Canada.
+In 2008 29.1 million of temporary differences were not recognised as there was insufficient evidence under IAS 12 to recognise a deferred tax asset in respect of these temporary differences.
+The Group has tax losses arising in the United Kingdom of 62.2 million 2008 91.8 million that are available for offset against suitable future taxable profits.
+A deferred tax asset has not been recognised in respect of these losses as their future recovery is uncertain.
+United Kingdom tax losses can be carried forward indefinitely.
+In total deferred tax assets amounting to 19.1 million 2008 37.2 million have not been recognised.
+Spirent Communications plc 69 Annual Report 2009 notes to the consolidated financial statements continued 23.
+Trade and other payables non-current 2009 2008 million million Other payables 1.0 1.3 Accruals and deferred income 3.9 3.8 4.9 5.1 24.
+Provisions and other liabilities million Restructuring and other Lease provisions provisions Total At 1 January 2009 0.9 11.0 11.9 Discount unwind note 8 0.2 0.2 Utilised in the year 4.3 4.3 Exchange adjustment 0.1 0.6 0.7 At 31 December 2009 0.8 6.3 7.1 Provisions have been analysed as follows: 2009 2008 million million Current 3.8 3.7 Non-current 3.3 8.2 7.1 11.9 The lease provisions are for the continuing obligations under leases in respect of properties which have been vacated by the Group.
+Where material, lease obligations are discounted.
+The Group expects these provisions to be utilised over the next seven years.
+Restructuring and other provisions at 31 December 2009 and 2008 are mainly in relation to environmental provisions on property disposed of.
+Derivative financial instruments The derivative financial instruments are forward foreign currency exchange contracts.
+The Group uses forward foreign currency exchange contracts in the management of transactional exchange rate exposures.
+These contracts are designated where possible as hedging instruments.
+At 31 December 2009 and 2008 the Group held various forward foreign currency exchange contracts in respect of the forward sale of US dollars against sterling and at 31 December 2009 for the purchase of euro against sterling on trading transactions.
+2009 2008 million million Sale of US dollars against sterling at an average rate of 1.57 2008 1.76 17.3 26.5 Purchase of euro against sterling at an average rate of 1.11 1.4 These contracts have been designated as cash flow hedges at 31 December 2009 and 31 December 2008.
+70 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 25.
+Derivative financial instruments continued The fair value of the derivative financial instruments at 31 December is as follows: 2009 2008 million million Assets Liabilities Assets Liabilities Currency derivatives expected to be realised in less than one year Designated as a cash flow hedge 0.6 0.1 5.6 The movements included within other comprehensive income in respect of cash flow hedges are as follows: 2009 2008 million million Gains losses arising during the year 0.5 5.6 Less: Reclassification adjustments for losses included in profit or loss 4.6 1.4 Fair value movements on cash flow hedges 5.1 4.2 Gains and losses on cash flow hedges recycled into the income statement from equity are charged or credited to administration costs.
+Financial instruments and financial risk management The main purpose of the Groups financial instruments, other than trade receivables, trade payables and provisions is to fund the Groups liquidity requirements.
+All the Groups financial assets and liabilities are categorised as loans and receivables with the exception of the derivative financial instruments which are measured at fair value.
+These are shown in the following table: 2009 2008 million million Derivative Derivative Loans and financial Loans and financial receivables at instruments receivables at instruments amortised cost at fair value amortised cost at fair value Non-current cash on deposit note 20 1.1 2.5 Non-current other receivables note 19 1.8 2.2 Cash and cash equivalents note 20 108.0 59.7 Current trade and other receivables note 19 43.9 54.6 Currency derivatives that qualify for hedge accounting note 25 0.6 Financial assets 154.8 0.6 119.0 Non-current other payables note 23 1.0 1.3 Current trade and other payables note 21 13.5 15.4 Provisions note 24 7.1 11.9 Currency derivatives that qualify for hedge accounting note 25 0.1 5.6 Financial liabilities 21.6 0.1 28.6 5.6 The Group enters into derivative transactions, forward foreign currency exchange contracts, for the management of the Groups foreign currency exposures when deemed appropriate.
+The key objective of the Group treasury department is to manage the financial risks of the business and to ensure that sufficient liquidity is available to the Group.
+All treasury activity operates within a formal control framework.
+The Board has approved treasury policies and guidelines and periodically reviews treasury activities.
+Additionally, it is the Groups policy that speculative treasury transactions are expressly forbidden.
+Spirent Communications plc 71 Annual Report 2009 notes to the consolidated financial statements continued 26.
+Financial instruments and financial risk management continued a Market risk The main types of market risk that affect the Group are interest rate risk and exchange rate risk.
+Interest rate risk The Group has no external debt and has limited exposure to interest rate risk.
+The Groups excess funds are principally held in the United Kingdom and the United States and invested in short term bank deposits.
+It therefore has some exposure to interest rate risk arising on changes in sterling and US dollar interest rates.
+Cash and cash equivalents, long term cash on deposit and forward foreign currency exchange contracts are the Groups financial instruments which are exposed to interest rate risk.
+Short term bank deposits all mature within three months.
+Forward foreign currency exchange contracts all mature within one year.
+The financial instruments bear the following interest rates: Effective Effective interest interest rate 2009 rate 2008 % million % million Fixed rate Fixed deposits 0.42 66.7 1.26 32.3 Forward foreign currency exchange contracts net 0.5 5.6 67.2 26.7 Floating rate Cash at bank and in hand 41.3 27.4 Interest rates on financial instruments classified as fixed rate are fixed until the maturity of the instrument.
+All fixed rate deposits mature within three months 2008 one week after which date they will be exposed to floating rates of interest.
+In addition, 1.1 million 2008 2.5 million was held in a blocked trust account and was earning interest of 0.61 per cent at 31 December 2009 2008 1.75 per cent.
+The maturity of the deposit is three months 2008 less than one month, at maturity the interest rate will be reset.
+This cash must be retained in the blocked trust account in accordance with the terms of the undertakings made at the time of the cancellation of the share premium account and capital redemption reserve the Cancellation in 2004.
+The funds must remain in this account until creditors which existed at the date of the Cancellation have been repaid and therefore the maturity of this account is uncertain.
+Interest receivable for the year was 0.4 million note 7 2008 3.1 million and is under the effective interest method.
+The other financial instruments of the Group that are not included in the above table are non-interest bearing and are therefore not subject to interest rate risk.
+A movement of 50 basis points in interest rates based on levels of investment at 31 December 2009 would increase or reduce interest income and equity by 0.5 million.
+Exchange rate risk Currency exposures arise from trading transactions undertaken by the Group in foreign currencies and on the translation of the operating results and net assets of overseas subsidiaries.
+The Group presents its consolidated financial statements in sterling but has significant operations in the United States, and its results can therefore be substantially affected on translation by movements in the US dollar to sterling exchange rate.
+The Group does not enter into instruments to hedge the translation exposure of the operating results or net assets of its overseas subsidiaries since these are accounting and not cash exposures.
+During the year, sterling has strengthened against the US dollar.
+The Group does not have any net investment hedges in place.
+72 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 26.
+Financial instruments and financial risk management continued The Group is not exposed to significant transactional foreign currency risk at 31 December 2009, nor at 31 December 2008, because the majority of its businesses do not enter into non-functional currency transactions.
+Where such transactions do occur the Group enters into forward foreign currency exchange contracts as appropriate.
+Group treasury, by means of forward foreign currency exchange contracts, carries out the transaction hedging activity in relation to normal trading activity.
+At 31 December 2009 the Group has hedged some of its 2010 US dollar forecast trading exposures at an average exchange rate of 1.57 US dollars to sterling 31 December 2008 at an average exchange rate of 1.76.
+At 31 December 2009 the Group has also hedged some of its euro purchases at an average rate of 1.11. b Credit risk Investment counterparties are subject to pre-approval by the Board and as such short term deposits are limited to banks with a rating of Standard & Poors A or Moodys A.
+There are pre-approved limits set for each bank to avoid any concentrations of credit risk.
+The maximum credit exposure at the balance sheet date under financial instruments in relation to cash and bank deposits is equal to the carrying value of 109.1 million 2008 62.2 million.
+Trade receivables, which generally have 30 to 90 day terms, are carried at original invoice amount less an allowance for uncollectable amounts where appropriate.
+Trade receivable exposures are managed in the business units where they arise.
+Allowance is made for bad and doubtful debts based on managements assessment of the risk taking into account ageing profile, experience and circumstance.
+The Group has no significant concentration of credit risk attributable to its trade receivables as the exposure is spread over a large number of customers with no one customer accounting for more than 10 per cent of total Group revenue.
+The maximum credit exposure at the balance sheet date in relation to trade receivables is equal to the carrying value of 41.9 million 2008 52.2 million.
+The composition of trade receivables at 31 December is as follows: 2009 2008 million million Neither impaired nor past due 27.3 29.5 Past due but not impaired: Less than 30 days overdue 9.7 14.7 30 to 60 days 2.0 3.8 Over 60 days 2.9 4.2 Trade receivables 41.9 52.2 The Group closely monitors amounts due from customers and performs activities such as credit checks and review of payment history and has put in place appropriate credit approval limits.
+Based on these procedures management assessed the quality of those receivables that are past due but not impaired as low risk.
+The movement on the receivables provision during the year is given in note 19.
+The value of impaired trade receivables is 1.3 million 2008 1.9 million.
+Spirent Communications plc 73 Annual Report 2009 notes to the consolidated financial statements continued 26.
+Financial instruments and financial risk management continued c Liquidity risk The Groups objective is to ensure that there are sufficient sources of funding to meet projected requirements.
+Its operations are financed through cash and cash equivalents held centrally and cash generated from operations.
+At 31 December 2009 the Group had cash and cash equivalents of 108.0 million 2008 59.7 million all of which matures within three months 2008 one week.
+During 2009 the Group generated 61.2 million of cash from operating activities 2008 47.7 million and considers that with current cash resources, no debt and positive cash flow from its operating activities it has adequate resources available to it to remain in operational existence for the forseeable future.
+The Group has entered into forward foreign currency exchange contracts all of which mature within one year.
+The gross settlement amounts of these contracts are as follows: 2009 2008 million million Sale of US dollars against sterling 17.3 26.5 Purchase of euro against sterling 1.4 Gross settlement amounts 18.7 26.5 The Group is debt free and does not have loans payable.
+Financial liabilities, other than derivative financial liabilities, are trade and other payables, the majority of which are all due to be settled within one year, and provisions note 24.
+The Group does not have any other material financial contractual commitments.
+d Fair value of financial instruments The carrying value of all financial assets and liabilities is a reasonable approximation of fair value.
+Derivative financial instruments are stated at fair value.
+The fair value of currency derivatives is determined by reference to current forward exchange rates for contracts with similar maturity profiles, and is therefore determined to be a level 2 financial instrument as its value is based on observable market inputs.
+e Capital management The primary objective of the Groups capital management is to support its business and maximise shareholder value.
+The Groups capital is its total shareholders funds.
+The Group manages its capital structure and makes adjustments to it in the light of changes in economic conditions.
+During 2008 and 2009 the Company has been operating an on-market share repurchase programme.
+In 2009 the Company repurchased 0.6 million of its Ordinary Shares at a cost of 0.6 million.
+In 2008 the Company repurchased 72.9 million of its Ordinary Shares at a cost of 42.2 million.
+In 2008 the Company also undertook a tender offer for the purchase of Ordinary Shares in the Company which resulted in a further 52.9 million Ordinary Shares being repurchased at a cost of 24.8 million.
+74 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 27.
+Operating lease commitments At 31 December, the Group had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows: 2009 2008 million million Within one year 6.8 8.1 In the second to fifth years 13.4 17.8 Over five years 0.6 1.6 20.8 27.5 The Group leases certain land and buildings under non-cancellable operating lease agreements with a variety of terms.
+The Group also leases certain plant and equipment under non-cancellable operating lease agreements.
+Total future sublease payments receivable relating to the above leases amounts to 1.3 million 2008 1.2 million of which 0.6 million 2008 0.5 million will be recognised within one year and the balance in the second to fifth year.
+Equity a Authorised and issued share capital Authorised 2009 2008 million million 1 1,250 million 2008 1,250 million Ordinary Shares of 3 3 pence each 41.7 41.7 Issued and fully paid Number of Ordinary Shares million million At 1 January 2008 840.8 28.0 Allotted pursuant to share incentives exercised 5.2 0.2 Cancelled during the year 174.2 5.8 At 1 January 2009 671.8 22.4 Allotted pursuant to share incentives exercised 6.9 0.2 Cancelled during the year 0.6 1 At 31 December 2009 678.1 22.6 Note 1 During 2009, under the programme of returning capital to shareholders, the Company repurchased 0.6 million 2008 72.9 million Ordinary Shares on-market.
+In 2008 the Company also repurchased 52.9 million Ordinary Shares by way of a tender offer.
+All Ordinary Shares repurchased during the year were cancelled.
+In accordance with the rules of the following share plans, share incentives were exercised during the year which resulted in new Ordinary Shares being allotted by the Company or existing Ordinary Shares being transferred from either the Spirent Employee Share Ownership Trust ESOT or Spirent Sharesave Trust SST as follows: Number of Consideration Ordinary Shares received million million 2005 Employee Incentive Plan 0.5 Spirent Stock Incentive Plan 7.8 2.2 1995 Executive Share Option Scheme 0.3 0.1 1 All employee share plans 0.3 0.1 8.9 2.4 Note 1 The all employee share plans are the UK Savings Related Share Option Scheme, the 2005 Sharesave Scheme, the US Employee Stock Purchase Plan, the Global All Employee Share Purchase Plan and the UK Employee Share Purchase Plan see note 29.
+Spirent Communications plc 75 Annual Report 2009 notes to the consolidated financial statements continued 28.
+Equity continued During the year 0.3 million Ordinary Shares were transferred from the SST to satisfy options exercised under the UK all employee share schemes 2008 0.3 million and 1.7 million Ordinary Shares were transferred from the ESOT to satisfy options exercised under the Spirent Stock Incentive Plan 2008 0.7 million.
+There has been no material increase in the issued Ordinary Share capital, whether by exercise of share incentives or otherwise, between 31 December 2009 and 4 March 2010, the date on which these financial statements have been signed.
+b Equity and reserves The nature and purpose of each reserve within equity is as follows: i Share premium account: this reserve records the consideration premium for shares issued at a value that exceeds their nominal value: ii Capital redemption reserve: this reserve arises in relation to share capital cancellation: iii Capital reserve: this reserve arises in relation to share option plans in acquired companies: iv Translation reserve: this reserve is used to record exchange differences arising from the translation of the financial statements of foreign subsidiaries: and v Cash flow hedges: this reserve records movements in the fair value of effective forward foreign currency exchange contracts designated as hedging instruments.
+Investment in own Ordinary Shares At 31 December 2009, an amount of 175.5 million 2008 176.0 million has cumulatively been deducted from retained earnings in relation to the cost of investment in own Ordinary Shares.
+At 31 December 2009, the ESOT held 5.4 million Ordinary Shares 2008 7.1 million Ordinary Shares to satisfy awards under various share incentive plans.
+Of this number, 0.1 million Ordinary Shares were unconditionally vested at 31 December 2009 2008 0.2 million Ordinary Shares.
+At 31 December 2009, the SST held 0.6 million Ordinary Shares 2008 0.9 million Ordinary Shares to satisfy awards made to UK based employees under an all employee share scheme.
+The market value of own Ordinary Shares held in trust, being in total 6.0 million Ordinary Shares 2008 8.0 million Ordinary Shares at 31 December 2009 was 6.1 million 2008 2.9 million.
+Cancellation of share premium and capital redemption reserves On 24 November 2004, Spirent Communications plc was granted an order of the High Court for the approval of the cancellation of the share premium account and capital redemption reserve the Cancellation which stood at that date at 702.7 million and 0.7 million, respectively.
+The Cancellation created a reserve in the financial statements of the Company which was applied to eliminate the deficit in distributable reserves.
+The balance of this reserve, created after the deficit in distributable reserves had been eliminated, was transferred to a special non-distributable reserve.
+During 2006 the Company transferred funds equal to the aggregate amount due to any creditors of Spirent Communications plc, who were creditors on 24 November 2004, and who still remained creditors, to a blocked trust account.
+Placing these funds in a blocked trust account in accordance with the undertakings made at the time of the Cancellation allowed the special reserve to be released to distributable reserves.
+Capital redemption reserve During 2009 the Company cancelled 0.6 million Ordinary Shares 2008 174.2 million Ordinary Shares that had been the subject of the on-market share repurchase programme and, in 2008 the tender offer, and transferred 20,333 2008 5.8 million to the capital redemption reserve.
+Capital reserve In 2009 the reserve has been reduced by 0.4 million 2008 2.2 million in relation to share incentives which have been cancelled or have lapsed.
+Share repurchase During 2009 the Company repurchased 0.6 million Ordinary Shares on-market at a cost of 0.6 million 2008 72.9 million at a cost of 42.2 million.
+In addition, in 2008 the Company undertook a tender offer whereby it repurchased 52.9 million Ordinary Shares at a cost of 24.8 million.
+All Ordinary Shares repurchased have been subsequently cancelled.
+76 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 29.
+Employee share plans Movements in share incentives over a two year period ending on 31 December 2009 are shown below: 2005 Spirent 1995 Employee Stock Executive UK Incentive Incentive Share Option Acquisition sharesave 1 2 3 4 Plan Plan Scheme plans schemes Weighted Weighted Weighted Weighted Weighted Number average Number average Number average Number average Number average of share exercise of share exercise of share exercise of share exercise of share exercise incentives price incentives price incentives price incentives price incentives price million pence million pence million pence million pence million pence Incentives outstanding at 31 December 2007 2.9 36 56.1 72 5.2 121 2.1 115 0.8 39 Granted 0.8 25 0.5 65 Exercised 0.6 23 8.6 56 0.6 42 0.3 39 Forfeited 0.1 1.4 53 Expired 4.9 151 1.0 173 0.7 100 0.1 44 Incentives outstanding at 31 December 2008 3.0 37 41.7 66 3.6 119 1.4 122 0.4 39 Granted 1.7 0.1 72 Exercised 0.7 19 13.9 52 0.3 49 0.3 38 Forfeited 0.3 50 Expired 6.6 123 0.3 425 1.2 116 Incentives outstanding at 31 December 2009 4.0 24 21.0 57 3.0 123 0.2 157 0.1 39 Incentives exercisable At 31 December 2008 0.8 53 34.6 69 3.6 119 1.4 122 0.4 39 At 31 December 2009 1.5 50 19.3 58 3.0 123 0.2 157 0.1 39 Notes 1 Figures for the 2005 Employee Incentive Plan include share options, stock appreciation rights and Performance shares in aggregate.
+As at 31 December 2009 0.8 million Ordinary Shares held in the ESOT had been allocated to hedge awards made under the 2005 Employee Incentive Plan 2008 0.8 million.
+2 Figures for the Spirent Stock Incentive Plan show both share options and stock appreciation rights in aggregate.
+As at 31 December 2009, 2.2 million Ordinary Shares held in the ESOT had been allocated to hedge awards made under the Spirent Stock Incentive Plan 2008 3.9 million.
+3 The acquisition plans are share plans which originally granted options over other companies equity which, on acquisition by Spirent Communications plc, have been rolled over into Spirent Ordinary Shares.
+Further details of the acquisition plans can be found below.
+4 0.3 million Ordinary Shares were transferred from the SST to settle the exercise of UK sharesave options in 2009 2008 0.3 million.
+As at 31 December 2009, 0.6 million Ordinary Shares remained in the SST hedging share option grants made under the UK sharesave schemes.
+The weighted average share price at exercise date was 82.4 pence 2008 73.9 pence.
+Spirent Communications plc 77 Annual Report 2009 notes to the consolidated financial statements continued 29.
+Under the EIP, the Company is able to grant share options, including HMRC approved options, share-settled stock appreciation rights SARs and Performance shares.
+No price is payable on the grant of an award.
+In normal circumstances, EIP awards vest three years following the date of grant provided the relevant performance conditions have been met.
+For share options and SARs, the performance conditions relate to the Companys earnings per share EPS and for Performance shares, relate to total shareholder return TSR.
+Further information on the performance conditions for EIP share incentives is set out in the Report on directors remuneration on pages 34 and 35.
+Options and SARs granted under the EIP expire on the tenth anniversary of their grant unless they have previously lapsed or been exercised.
+Spirent Stock Incentive Plan SSIP The SSIP was introduced in 2000.
+This discretionary plan is primarily targeted at US employees with grants normally determined by reference to the seniority and contribution of the individual, together with the performance of the relevant business and prevailing local market practice.
+Grants are also permitted to selected newly hired and promoted employees on a monthly basis.
+Under the SSIP, the Company is able to grant share options and share-settled SARs.
+At the Annual General Meeting held in May 2009, shareholders approved the extension of the SSIP until the Companys 2010 Annual General Meeting after which the plan will expire.
+The current shareholder approved mandate regarding the annual dilution rate is 0.5 per cent of the issued Ordinary Share capital for both the SSIP and EIP in aggregate.
+78 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 29.
+Employee share plans continued Most awards made pursuant to the SSIP vest over four years, provided that the participant remains in employment.
+Vesting is not normally subject to a performance condition and awards become 25 per cent exercisable on the first anniversary of the date of grant and thereafter in equal tranches on a monthly basis over a further 36 months.
+Any award not exercised by the seventh anniversary of the date of grant will lapse.
+The vesting of the SSIP awards made to Bill Burns, prior to his appointment as Chief Executive Officer, and to certain other key senior managers within the Communications group, are subject to the Company meeting EPS growth targets over the vesting periods.
+Further details of these performance conditions are set out in the Report on directors remuneration on page 35.
+SARs granted under the EIP and SSIP will deliver the appreciation value ie the increase in market value of an Ordinary Share over the base price of the SAR in the form of Ordinary Shares.
+This SARs approach helps the Company manage its dilution headroom more efficiently as only the SAR gain needs to be funded.
+Using a SARs approach, it is not possible to determine the precise level of dilution until the SARs are exercised.
+At 31 December 2009, 1.9 million EIP SARs and 17.6 million SSIP SARs with an average base price of 50 pence and 56 pence respectively were outstanding 2008 2.2 million EIP SARs and 27.5 million SSIP SARs with an average base price of 50 pence and 56 pence respectively.
+During 2009, 9.4 million EIP and SSIP SARs were exercised resulting in the issue of 3.1 million Ordinary Shares 2008 1.6 million Ordinary Shares were issued on the exercise of 5.4 million EIP and SSIP SARs.
+1995 Executive Share Option Scheme ESOS The ESOS is now closed for new grants and has been replaced by the EIP referred to above.
+Under the ESOS awards of share options, including HMRC approved options, were on a discretionary basis.
+No price was payable on the grant of an option and no options were granted at a discount to the market price.
+The normal exercise period for options granted under the ESOS is between the third and tenth anniversary of the date of grant.
+Options awarded under the ESOS were subject to the achievement of an EPS performance condition before they could be exercised.
+All outstanding options have now passed their EPS performance conditions and remain exercisable until they expire on the tenth anniversary of their respective grant dates.
+Acquisition plans Netcom Amended and Restated Stock Option Plan NARSOP Spirent completed the acquisition of Netcom Systems, Inc. Netcom in 1999.
+$44.5 million of the total consideration was satisfied through the roll-over of outstanding options over Netcom shares into options over approximately 23.8 million Ordinary Shares as adjusted on substantially similar terms as previously existed.
+At 31 December 2009 there were no remaining exercisable options under this plan and it will be formally closed during 2010.
+Zarak Amended and Restated Stock Option Plan ZARSOP Out of a total consideration of approximately 44.9 million Ordinary Shares issued for the acquisition of Zarak Systems Corporation Zarak in 2000, approximately 3.8 million Ordinary Shares arose in connection with the roll-over of outstanding options over Zarak shares into options over Spirent Ordinary Shares on substantially similar terms as previously existed.
+Any remaining outstanding ZARSOP options have a ten year life from the original date of grant and will therefore expire if not exercised during 2010 and the plan will be formally closed.
+Caw Amended and Restated Stock Plan CARSP Out of a total initial consideration for the acquisition of Caw Networks, Inc. Caw in 2002 of $49 million, approximately $4 million was in respect of Spirent Ordinary Shares and options which arose on the roll-over of outstanding options and shares under the previous Caw employee stock plan.
+The options and shares vested over a period ending in 2006 on substantially similar terms as previously existed.
+The options have a ten year life from the original date of grant.
+Pursuant to the terms of the Merger Agreement for Caw, an additional cash payment of 78.8 US cents was payable as each share vested or upon the exercise of a vested option.
+No further award can be made under this plan.
+The Ordinary Shares subject to rolled-over options from the acquisition of Netcom, Zarak and Caw, or granted under the SSIP, do not count towards ABI scheme limits.
+Spirent Communications plc 79 Annual Report 2009 notes to the consolidated financial statements continued 29.
+Employee share plans continued UK Savings Related Share Option Scheme SRSOS and the 2005 Sharesave Scheme The SRSOS closed in 2005 and was replaced by the 2005 Sharesave Scheme.
+SRSOS options which remain outstanding may still be exercised prior to expiry, however no further grants can be made.
+Both schemes operate as HMRC approved Save-As-You-Earn schemes and are open to all UK employees, subject to a qualifying service period.
+Any future sharesave invitations will be made under the 2005 Sharesave Scheme, which is broadly similar to the SRSOS.
+No price is payable on the grant of an option.
+The option exercise price is calculated by reference to the middle market closing price of an Ordinary Share on the business day prior to the beginning of the invitation period, discounted by up to 20 per cent at the Boards discretion.
+Options are normally exercisable within six months of the third, fifth or seventh anniversary of the contract commencement date as elected by the option holder at the start of the contract.
+The Company operates the SST to honour the commitment to deliver Ordinary Shares against the exercise of outstanding options under the SRSOS.
+Spirent Sharesave Trust Limited, a wholly-owned subsidiary of Spirent Communications plc, acts as sole trustee of the SST.
+During the year, 0.3 million Ordinary Shares were transferred to participants 2008 0.3 million Ordinary Shares.
+No invitations have been made under either of these schemes since 2003.
+US Employee Stock Purchase Plan ESPP The ESPP enables the Company to grant eligible US employees the right to acquire Spirent American Depositary Shares using the proceeds of a savings contract.
+When joining the ESPP, participants enter into a 12 month contract to save up to 15 per cent of basic salary subject to an individual limit of $1,000 per month.
+No offer has been made under this plan since 2003.
+Global All Employee Share Purchase Plan GAESPP The GAESPP was approved by shareholders in 2001 and offers employees in countries other than the UK or US an opportunity to share in the Companys performance through share ownership.
+The GAESPP was implemented in Canada in January 2002 and operates on similar terms to the ESPP above, with participants entering into a 12 month contract to save up to 15 per cent of basic salary subject to an individual maximum of Cdn $1,000 per month.
+UK Employee Share Purchase Plan UK ESPP The UK ESPP, which is based on an HMRC approved share incentive plan, was approved by shareholders in 2005 and is available to all UK employees, subject to a qualifying service period.
+The UK ESPP offers three ways to provide Ordinary Shares to employees: free shares, partnership shares and matching shares.
+The UK ESPP will operate in conjunction with a trust, which will hold the shares on behalf of participants.
+To date, no awards have been made under this plan.
+Stock Appreciation Rights Plan SARP The SARP was introduced in September 1999 as an interim incentive arrangement for the employees of Netcom following the closure of the NARSOP described above and subsequently for certain other employees in the Communications group.
+Rights under the SARP vested over four years, 25 per cent vesting one year after the date of grant and the remainder vesting on a monthly basis over a further 36 months.
+Rights granted were not subject to the fulfilment of any performance conditions.
+The SARP will deliver the appreciation value ie the aggregated increase in the market value of an Ordinary Share over the rights price in the form of existing Ordinary Shares which have been purchased in the market by the Companys ESOT.
+The SARP is closed and no further grants can be made under it.
+At 31 December 2009, 1.0 million 2008 1.5 million rights were outstanding at rights prices of 335p to 416p.
+80 Spirent Communications plc Annual Report 2009 FINANCIAL STATEMENTS 30.
+Share-based payment The total charge for the year relating to employee share-based payment plans is as follows: 2009 2008 million million 1995 Executive Share Option Scheme 0.2 2005 Employee Incentive Plan 0.1 0.2 Spirent Stock Incentive Plan 0.3 1.0 All employee share plans 0.1 0.4 1.5 All schemes are equity-settled.
+The fair value of share incentives is estimated as at the date of grant using a binomial model.
+The following table gives the assumptions made in arriving at the share-based payment charge and the fair value: 2009 2008 Weighted average share price pence 96.3 55.9 Weighted average exercise price pence 3.9 40.5 Weighted average fair value pence 29.4 19.3 Expected volatility % 5355 4045 Expected life years 4.5 4.5 Risk free rate % 2.42.5 3.74.9 Dividend yield % 2.0 2.0 The expected volatility was determined by calculating the historical volatility of the Companys share price over the previous two years which management considers to be the period which is likely to be most representative of future volatility.
+The expected life used in the model has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions and behavioural considerations.
+For Performance shares granted under the 2005 Employee Incentive Plan, which have a market based performance condition, it has been assumed that there will be 30 per cent vesting for valuation purposes.
+Reconciliation of profit before tax to cash generated from operations 2009 2008 million million Profit before tax 54.1 49.6 Adjustments for: Finance income 0.4 4.0 Finance costs 1.6 3.1 Intangible asset amortisation 1.2 0.7 Depreciation of property, plant and equipment 8.6 8.8 Loss on the disposal of property, plant and equipment 0.1 0.3 Share-based payment 0.4 1.5 Changes in working capital Deferred income received released 4.1 1.3 Decrease in receivables 4.6 2.4 Decrease increase in inventories 5.1 1.6 Decrease in payables 7.0 2.1 Decrease in provisions 4.3 3.9 Defined benefit pension plan 0.4 0.1 Cash flows from operations 67.7 53.4 Spirent Communications plc 81 Annual Report 2009 notes to the consolidated financial statements continued 32.
+Related party transactions Transactions between the Company and its subsidiaries, which are related parties, have been eliminated on consolidation and are not disclosed in this note.
+Remuneration of key management personnel The remuneration of the directors, who are the key management personnel of the Group, is set out below in aggregate for each of the categories specified in IAS 24 Related Party Disclosures.
+2009 2008 000 000 Short term employee benefits 1,829 1,051 Share-based payment 66 156 Post-retirement benefits 6 7 1,901 1,214 In 2009 Eric Hutchinson made gains on the exercise of share incentives of 87,257 2008 149,760.
+In 2009 Bill Burns made gains on the exercise of share incentives of 54,666 2008 nil.
+82 Spirent Communications plc Annual Report 2009

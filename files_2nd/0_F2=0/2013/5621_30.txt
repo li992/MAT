@@ -1,0 +1,25 @@
+Essar Energy plc 138 Financial statements Annual Report and accounts 2013 Appendix 1 Definition and comparability of CP GRM GRM is calculated as actual sales net of crude costs derived from the accounts.
+Inventory gains and losses, hedging gains and losses and sales tax benefit for the period also form part of the GRM.
+Based on this method of calculation, Essar Energys reported GRMs are not directly comparable to the performance of other refiners, other refining benchmarks and industry reports due to following reasons: `` In India, domestic products are sold between oil companies on an agreed formula which is market driven known as Refinery Transfer Price, RTP except for solids like Petcoke and Sulphur which are sold directly to customers at company determined rates.
+RTP for Liquefied Petroleum Gas LPG, Aviation Turbine Fuel ATF and Kerosene are based on the average market price of the previous month, while for other products including Gasoil and Gasoline it is based on the average market price of the previous fortnight.
+As a result, the actual revenues may not match the prevailing product prices for the period.
+`` The Company adopts first in, first out FIFO methodology for crude inventory valuation.
+As a consequence the cost of crude consumed can be crude purchased in earlier periods which may not reflect current prevailing crude prices.
+For crudes with a long voyage time these differences can be more significant.
+This effect is low at Stanlow Refinery where crude oil is bought just in time.
+`` Sales quantity does not directly match actual production during the period as there may be inventory movement compared to a previous period.
+`` Commodity derivative instruments are used to act as an economic hedge against the price risk of forecast crude oil purchases, future refined product sales and future product crack margins.
+The Company has adopted hedge accounting during the year because of which the fair value gains or losses on the commodity derivative instruments are recorded in other comprehensive income.
+Fair value gain or loss on other derivative instruments not covered under hedge accounting are recorded in the income statement.
+`` The following adjustments are made to the GRM to provide a CP GRM that reflects underlying operational performance and better communicates industry comparable performance of the refinery.
+These adjustments are as follows: ` Actual production quantities are taken as the sales quantities during the period.
+This eliminates the effect of inventory gains and losses in the CP GRM.
+For Vadinar these sales quantities as determined above are bifurcated into export and domestic sales based on the quality of the products being sold in domestic and export market.
+The domestic quantity is further bifurcated into different segments in the ratio of actual sales for the period.
+` The cost of crude is taken at the current prices of crude grades actually consumed, The cost of crude also includes other expenses directly attributable to crude procurement.
+` In India, to calculate the revenue from the sales quantity the domestic sales price is valued based on the applicable RTP of the same period rather than any other period.
+Export prices are based on actual realised export prices, as they do not have timing differences.
+Revenue is adjusted for premiums or discounts achieved by the Company.
+For domestic sales custom duty recovery is built up in RTP itself whilst Duty Benefit for exports is added separately.
+` In the UK, as there is no equivalent RTP, both domestic and export revenues are based on average prices for the month inclusive of applicable premiums and discounts.
+` The impact of hedging gains or losses is excluded.

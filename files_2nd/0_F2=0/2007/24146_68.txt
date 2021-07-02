@@ -1,0 +1,59 @@
+FP AnnRep 074-200. qxd:30349 Backend 27 3 08 03:23 Page 141 PARENT COMPANY ACCOUNTS ABBREVIATIONS AND DEFINITIONS Notes to the consolidated accounts continued 28.
+Insurance contracts continued ii The With-Profits Fund of FPLA is closed to new business.
+The Funds policyholders are entitled to all the surplus of that fund.
+In addition, FPLA has a closed unitised with-profits fund.
+Shareholders are entitled to all profits from the unitised with-profit fund other than investment profits, which are wholly owned by with-profits policyholders.
+The investment element of the contract is wholly reinsured to the FPLP With-Profits Fund.
+The effect of this fund structure is that investment risk, in respect of assets backing with-profits policies, is largely borne by policyholders: shareholders bear 10% of the investment risk from conventional with-profits policies.
+Expense risk is borne by the shareholders, other than in the FPLA closed fund.
+Until 2009, the FPLP With-Profits Fund is charged a fixed amount for managing policies, adjusted by an inflation index, irrespective of actual costs.
+The charges will be reviewed with effect from the end of 2009 to reflect market rates at the time.
+Other forms of risk are shared between shareholders and policyholders as described above.
+FPLPs With-Profits Balance Sheet FPLPs with-profits business can be summarised as follows: 2007 2006 m m Total net assets 14,739 16,087 Less non-profit liabilities including long-term insurance capital requirements 2,561 2,670 Total regulatory assets 12,178 13,417 Additional assets arising on realistic basis 219 265 Total assets 12,397 13,682 Policyholder liabilities: Asset shares 10,323 11,365 Financial guarantees net of charges 210 101 Options guaranteed annuities 628 747 Other liabilities 990 1,249 Total liabilities 12,151 13,462 Excess of assets over liabilities 246 220 At 31 December 2007, the surplus of assets over liabilities initially amounted to 274m 2006: 254m with a Risk Capital Margin RCM of 246m 2006: 220m, the surplus assets have subsequently been reduced by 28m 2006: 34m via a reduction in future guarantee charges leaving the working capital at 246m 2006: 220m fully covering the RCM.
+Adding back the shareholders share of future bonuses totalling 94m 2006: 95m and deducting adjustments to eliminate double counting of other assets of 2m 2006: 19m, the excess in accordance with FRS 27 amounted to 338m 2006: 296m.
+The main element of the liabilities is the asset shares of with-profits business.
+This represents the premiums received to date together with the investment return earned less expenses and charges.
+This is mainly calculated on an individual policy basis using historic information and in line with the companys PPFM.
+Asset shares are closely matched since they move with the value of the underlying assets.
+Policyholder liabilities including options and guarantees are then valued using a market consistent stochastic model.
+Included in other liabilities are provisions for specific items such as mortgage endowment reviews and other liabilities of the fund.
+Realistic valuations also allow for future profits of non-profit business written in the With-Profits Fund to be included.
+In accordance with FRS 27, the value of future profits of non-profit business has been deducted from policyholder liabilities in the IFRS balance sheet.
+Friends Provident Annual Report & Accounts 2007 141 FP AnnRep 074-200. qxd:30349 Backend 27 3 08 03:23 Page 142 FINANCIAL ST FINANCIAL STA ATEMENTS TEMENTS IFRS FINANCIAL STATEMENTS EEV SUPPLEMENTARY INFORMATION Notes to the consolidated accounts continued The guarantee cost in respect of guaranteed annuity options is 29.
+FPLPs With-Profits Balance Sheet continued assessed using a market-consistent stochastic model and values both the current level of the guaranteed annuity rate benefit Options and guarantees are features of life assurance and pensions allowing for future improvements in annuitant mortality and the contracts that confer potentially valuable benefits to policyholders.
+time value due to uncertainty in future interest rates.
+The guarantee They are not unique to with-profits funds and can arise in noncost in each scenario is the value of the excess annuity benefit participating funds.
+They can expose an insurance company to two provided by the options, relative to an annuity purchased in the open types of risk: insurance such as mortality morbidity and financial market.
+In estimating the future open market annuity rate, the such as market prices interest rates.
+The value of an option or model allows for stochastic variation in interest rates and for future guarantee comprises two elements: the intrinsic value and the time mortality improvements.
+The stochastic interest rate assumption value.
+The intrinsic value is the amount that would be payable if the reflects that implied by current market interest rate derivative prices.
+option or guarantee was exercised immediately.
+The time value is Future annuitant mortality has been derived from the premium basis the additional value that reflects the possibility of the intrinsic value at which annuities can be purchased from Friends Provident increasing in future, before the expiry of the option or guarantee.
+Pensions Limited, which allows for future mortality improvements.
+Under FSA rules all options and guarantees must be valued and included in policyholder liabilities.
+For funds within the FSAs realistic The guaranteed annuity options cost also depends upon other capital methodology, options and guarantees are valued on a marketfactors such as policy discontinuance and tax-free cash take-up.
+consistent stochastic basis that takes into account both the time The factors are based on recent experience adjusted to reflect value and the intrinsic value of the options and guarantees.
+industry benchmarks and to anticipate trends in policyholder behaviour.
+A summary of the key assumptions is as follows: The majority of the Groups life and pensions options and guarantees are within FPLPs With-Profits Fund.
+These are valued stochastically Policy discontinuances: lapse, early retirement and paid-up rates vary and included in the liabilities.
+There are two main types of by policy type and period and have been based on recent experience.
+guarantees and options in the FPLP With-Profits Fund: maturity guarantees and guaranteed annuity options.
+Maturity guarantees are Policy lapses for pensions are generally in the range of 1% to 4% pa in respect of conventional with-profits business and unitised with- 2006: 1% to 3% pa with policy lapses for life business in the range profits business and represent the sum assured and reversionary of 3% to 10% pa 13% pa for mortgage endowment and 20% pa for bonuses declared to date.
+The cost of these guarantees, net of with-profit bond policies 2006: 3% to 9% pa 13% pa for mortgage charges, has been calculated at 210m 2006: 101m.
+Paid-up rates for pensions are generally in the with-profits pension policies issued, there are options guaranteeing range of 5% to 12% pa 2006: 7% to 11% pa with life policies the rates at which annuities can be purchased.
+The cost of these generally in the region of 0.5% to 2% pa 2006: 0.5% to 2% pa. guarantees has been calculated at 628m 2006: 747m.
+Early retirement rates vary by age band and policy type and have been reviewed and amended in 2007 based on recent experience.
+The cost of the with-profits guarantees is assessed using a market-consistent stochastic model using The Smith Model TSM Tax-free cash option: where a guaranteed annuity option is more Plus as the scenario generator and is calculated using 6,300 valuable than the cash equivalent it is assumed that 18% to 27% of simulations.
+The model has been calibrated using the gilt risk-free the benefit is taken as tax-free, depending on type of business curve assuming interest rates of between 4.1% and 4.6% pa 2006: 18% to 27%.
+This is based on recent experience.
+2006: between 3.9% and 5.3% pa and implied volatilities in the market.
+The capital return has been calibrated and compared to the There are also guarantees and options in respect of some of the actual asset portfolio.
+For equities, the capital return volatility varies other life assurance business within the Group, but these are not by year with 26% pa 2006: 20% pa assumed in year 7, increasing considered to be material to the Groups future cash flows.
+In to 26% pa 2006: 23% pa by year 14 and 27% pa 2006: 25% pa addition, they have largely been matched with suitable assets and by year 21.
+Volatility for property total returns varies by year with there is no material exposure to market or interest rate changes.
+15% pa assumed in year 7 2006: 15% pa, increasing to 17% pa Provisions have been established using deterministic scenarios 2006: 15% pa by year 14 and 17% pa 2006: 15% pa by year 21. based on prudent assumptions.
+The cost of guarantees also depends on management actions that would be taken under various scenarios.
+The regular bonus rate is set each year such that, by maturity, guaranteed benefits are targeted as a prescribed fraction of the total asset share, leaving the remaining portion of the asset share to be paid as final bonus.
+This management action is in line with the companys PPFM and is programmed into the model.
+142 Friends Provident Annual Report & Accounts 2007

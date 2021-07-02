@@ -1,0 +1,64 @@
+In_PIN
+2001_CD
+long_JJ
+term_NN
+liabilities_NOMZ
+and_PHC
+reserves_NN
+were_VBD [PASS]
+restated_VBN
+to_TO
+reflect_VB [PRIV]
+the_DT
+impact_NN
+of_PIN
+adopting_VBG
+FRS_NN
+19_CD
+Deferred_NN
+Tax_NN
+in_PIN
+2002_CD
+._.
+In_PIN
+2002_CD
+current_JJ
+assets_NN
+,_,
+long_JJ
+term_NN
+liabilities_NOMZ
+,_,
+pension_NN
+liabilities_NOMZ
+and_PHC
+profit_NN
+loss_NN
+retained_VBN [WZPAST]
+were_VBD [PASS]
+restated_VBN
+to_TO
+reflect_VB [PRIV]
+the_DT
+adoption_NOMZ
+of_PIN
+FRS_NN
+17_CD
+Retirement_NOMZ
+Benefits_NN
+._.
+Years_NN
+prior_RB
+to_PIN
+2002_CD
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+restated_VBN
+for_PIN
+this_DEMO
+adoption_NOMZ
+of_PIN
+FRS_NN
+17_CD
+._.

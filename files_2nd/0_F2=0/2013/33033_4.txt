@@ -1,0 +1,63 @@
+Section 1 Introduction to the Current Cost Financial Statements Section 1.1 - Introduction: Regulation in the UK The UK telecoms industry is regulated through various European directives, the Where Ofcom finds that a provider has SMP, it must impose appropriate remedies that may Communications Act 2003 the Communications Act and Ofcom the UKs independent include price controls.
+At 31 March 2013, as a result of previous market reviews, we were regulator as well as other regulations and recommendations.
+deemed to have SMP in a number of markets.
+These markets are listed in Section 1.2 - Regulatory Financial Reporting Obligations.
+The Communications Act Where a provider has SMP, the Communications Act enables Ofcom to impose one or more The Communications Act gives Ofcom legal powers and sets out the legal requirements for obligations in relation to each market, including: how electronic communications services should be regulated in the UK.
+It includes the conditions imposed by the European directives.
+The Government is currently reviewing our Accounting separation - Which requires the operator to maintain accounting sectors regulatory regime, with a new framework planned for 2015.
+The review is looking systems such that the financial results of each SMP market can be separately into how to encourage growth and innovation and how to remove unnecessary regulation.
+presented and that costs relating to products and markets are allocated in a transparent and appropriate way.
+Accounting separation is also used to ensure Ofcom that there is no undue discrimination.
+Cost accounting - Wholesale cost accounting obligations apply where there is an Ofcom is the independent regulator and competition authority for the whole UK obligation in relation to price controls, cost orientation or cost recovery.
+Its main duties are: Wholesale activities include products and services sold to other CPs such as the to further the interests of citizens in relation to communications matters.
+provision of network access, the use of the network and the availability of various to further the interests of consumers in relevant markets, where appropriate by facilities.
+Obligations may include price controls for specified SMP products, cost promoting competition.
+orientation of prices for SMP products and the recovery of costs for the purpose of demonstrating transparency.
+Under the powers of the Communications Act, Ofcom sets conditions that Communications Publication - The annual Current Cost Financial Statements satisfy the obligation Providers CPs must comply with and can issue directions under these conditions.
+Some relating to publication of financial information for SMP markets.
+The publication conditions, known as General Conditions, apply to all CPs.
+Others apply to certain individual of information relating to SMP markets is intended to provide public assurance companies that Ofcom has decided are universal service providers or have Significant that we have complied with our cost accounting and accounting separation Market Power SMP in a particular market.
+Anyone can appeal against Ofcoms decisions obligations.
+Ofcom also imposes certain audit requirements in respect of the through a number of routes, including to the Competition Appeal Tribunal CAT or to the published Current Cost Financial Statements.
+Impact of Ofcom regulation The General Conditions that apply to all CPs are mainly about protecting consumers general access and interconnection, planning for emergencies, providing information to Ofcom, and There are a number of regulatory decisions and outcomes of appeals that affected us during allocating and transferring phone numbers.
+the year and will impact us in the future.
+We are the designated universal service provider for the UK except for the Hull area where Ofcom finished its review of the business connectivity markets, which cover it is KCOM Group and so we have certain universal service obligations.
+This is an important products such as Ethernet and private circuits.
+It renewed price controls for responsibility and we take it seriously.
+Our main obligation is to make sure that basic fixedanother three years.
+The main changes were an increase in the size of the line services are available at an affordable price to all consumers in the UK.
+We are also deregulated area to Western, Eastern and Central London Area including Slough obliged to provide public payphones.
+WECLA and deregulation of long distance wholesale private circuits and some retail leased lines.
+We also now have SMP in high bandwidth Ethernet services SMP designations outside the deregulated London area which will be subject to a charge control.
+The European directives require Ofcom to review relevant communications markets These changes will be implemented in the Current Costs Financial Statements from regularly, usually every three years, and to decide whether any CP has SMP in those markets.
+If Ofcom decides that a CP has SMP, it could put controls in place, typically on the prices In December 2012 Ofcom issued its final determinations on disputes over historic which the CP can charge.
+Ofcom will generally try to set charges that are reasonably based Ethernet pricing.
+Ofcom concluded that between April 2006 and March 2011 the on costs and an appropriate return on the capital invested.
+Page 4 Section 1 Introduction to the Current Cost Financial Statements prices we set for certain Ethernet services were too high resulting in an overcharge BTs Undertakings over this period.
+We disagree with the determinations and have submitted an In response to Ofcoms 2005 strategic review of telecommunications, we put forward some appeal to the CAT.
+This ruling had no impact on the Current Cost Financial legally binding undertakings under the Enterprise Act 2002.
+These Undertakings which Statements of any SMP markets for the years ended 31 March 2013 and 31 March include the creation of Openreach began in September 2005.
+In July 2012 the Court of Appeal overturned the CATs August 2011 decision in They aim to give clarity and certainty to the UK telecoms industry about the way we provide relation to wholesale ladder pricing.
+Ladder pricing links the amounts that BT upstream regulated products.
+This in turn supports effective and fair competition in related charges mobile operators for mobile calls to 0800, 0845 and 0870 numbers downstream markets.
+terminating on our network to the retail price charged by mobile operators to Most of the commitments in the Undertakings have been delivered, but we were unable to their customers.
+We have been granted permission to appeal this decision to the move a small percentage of certain customer records to separated computer systems by the Supreme Court and the hearing is expected in early 2014.
+This ruling had no target date of 31 December 2012.
+Ofcom has issued a Direction, which we have accepted, impact on the Current Cost Financial Statements of any SMP markets for the years that gives us until 30 November 2013 to meet this commitment.
+In March 2011 we lost an appeal to the CAT relating to Ofcoms decision in a Next Generation Access Regulation dispute over our charges to other CPs for trunk components of wholesale partial In March 2009, following consultation, Ofcom published a policy statement setting out a private circuits.
+In July 2012 the Court of Appeal issued its judgment on our regulatory framework for Next Generation Access NGA.
+This gave sufficient regulatory appeal against the CATs decision.
+The appeal failed to set aside Ofcoms certainty for BT to commit to an investment of 2.5bn on a commercial basis to make fibre determination or the CAT judgment, but provided helpful clarification of Ofcoms broadband available to around two-thirds of UK premises.
+Ofcom maintained its supportive powers.
+This ruling had no impact on the Current Cost Financial Statements of any approach to fibre regulation in the 2010 Wholesale Local Access Market Review and has SMP markets for the years ended 31 March 2013 and 31 March 2012. recently commenced another review, the Fixed Access Market Review in July 2013.
+The charge controls for Wholesale Line Rental WLR, Local Loop Unbundling LLU and Currently Ofcom does not price regulate Openreachs GEA prices or mandate prescriptive ISDN30 products became effective in April 2012 and impacted the prices we can charge for product specifications allowing flexibility for the market to develop going forward.
+beyond this, we believe that with funds from Broadband Delivery UK BDUK, local government and other sources, as well as further private investment, around 90% of UK During 2013 14, Ofcom is expected to complete its reviews of: premises could have access to fibre broadband by approximately 2016.
+BT is already rolling the Fixed Access market including WLR, LLU, Generic Ethernet Access GEA, out NGA infrastructure in areas such as Cornwall, Northern Ireland and the Isles of Scilly ISDN2 and ISDN30 products.
+which are funded by public private partnerships, as well as winning a significant number of the Wholesale Broadband Access market including IPstream, Datastream and BDUK bids and continuing to compete strongly for the remaining contracts.
+the Wholesale narrowband market comprising calls and interconnection services.
+Where we are found to have SMP, Ofcom will carry out consultations on setting controls.
+These could change the prices we charge for these products.
+See the Ofcom website at www.
+uk for further details on regulation.
+SMP Charge Controls As a result of SMP designations, the charges we can make for a number of wholesale services are subject to charge controls.
+Details of charge controls are provided in the Market Financial Reviews at Section 7 and Section 8.

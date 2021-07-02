@@ -1,0 +1,63 @@
+The_DT
+performance_NN
+conditions_NOMZ
+applicable_JJ
+to_PIN
+options_NOMZ
+granted_VBN [SUAV]
+under_IN
+discretionary_JJ
+schemes_NN
+are_VPRT [PASS]
+shown_VBN [PRIV]
+in_PIN
+the_DT
+Share_NN
+option_NOMZ
+terms_NN
+table_NN
+in_PIN
+section_NOMZ
+iii_NN
+of_PIN
+the_DT
+Remuneration_NOMZ
+Report_NN
+._.
+Options_NOMZ
+lapse_NN
+if_COND
+the_DT
+performance_NN
+criterion_NN
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+met_VBN
+at_PIN
+the_DT
+end_NN
+of_PIN
+the_DT
+performance_NN
+period_NN
+._.
+Options_NOMZ
+may_POMD
+be_VB [PASS]
+exercised_VBN
+earlier_TIME
+in_PIN
+certain_JJ
+circumstances_NN
+._.
+Dixons_NN
+Group_NN
+plc_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2004_CD
+05_CD
+81_CD

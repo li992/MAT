@@ -1,0 +1,124 @@
+112 Notes to the Financial Statements General accounting policies Basis of preparation These consolidated financial statements have been prepared in compliance with International Financial Reporting Standards IFRS and IFRS Interpretations Committee interpretations as adopted by the European Union as at 31 December 2018.
+The consolidated financial statements have been prepared under the historical cost convention, as modified by the revaluation of certain financial assets and liabilities including derivative instruments.
+The Group adopted IFRS 15 Revenue from Contracts with Customers and IFRS 9 Financial Instruments with effect from 1 January 2018 and this is the first set of the Groups annual financial statements in which those standards are reflected.
+Changes to significant accounting policies are described on pages 114 to 116.
+The Group uses a number of non-GAAP measures to present the financial performance of the business that are not defined under IFRS.
+An explanation of these Alternative Performance Measures APMs, along with reconciliation to the nearest equivalent IFRS measure, can be found in Section E of these notes on pages 149 to 153.
+After reviewing Group and Company cash balances, borrowing facilities and projected cash flows, the Directors believe that the Group and Company have adequate resources to continue operations over a period of at least 12 months from the date of approval of the financial statements.
+For this reason they continue to adopt the going concern basis in preparing the consolidated financial statements see the Directors Report on page 169.
+Consolidation a Subsidiaries Subsidiaries are entities controlled by the Group.
+The Group controls an entity when i it has power over the entity: ii is exposed or has rights to variable returns from its involvement with the entity: and iii has the ability to affect those returns through its power over the entity.
+The Group reassesses whether or not it controls a subsidiary if facts and circumstances indicate that there are changes to one or more of these three elements of control.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+Inter-company transactions, balances, and gains and losses on transactions between Group companies are eliminated on consolidation.
+Where the Group loses control of a subsidiary, the assets and liabilities are derecognised along with any related non-controlling interest and other components of equity.
+Any resulting gain or loss is recognised in the income statement.
+Any interest retained in the former subsidiary is measured at fair value when control is lost.
+Changes in the Groups interest in a subsidiary that do not result in a loss of control are accounted for as equity transactions.
+Losses applicable to the non-controlling interests in a subsidiary are allocated to the non-controlling interests which may cause the non-controlling interests to have a deficit balance.
+Consideration in excess of net identifiable assets acquired in respect of non-controlling interests in existing subsidiary undertakings is taken directly to reserves.
+b Associates Associates are those entities in which the Group has significant influence over the financial and operating policies, but not control.
+Significant influence is usually presumed to exist when the Group holds between 20% and 50% of the voting power of another entity.
+Associates are accounted for using the equity method and are initially recognised at cost.
+The Groups investment includes goodwill identified on acquisition, net of any accumulated impairment losses.
+The consolidated financial statements include the Groups share of the total comprehensive income and equity movements of equity accounted investees, from the date that significant influence commences until the date that significant influence ceases.
+When the Groups share of losses exceeds its interest in an equity accounted investee, the carrying amount is reduced to nil and recognition of further losses is discontinued except to the extent that the Group has incurred legal or constructive obligations or made payments on behalf of an investee.
+Gains and losses on transactions between the Group and its associates are eliminated to the extent of the Groups interest in the associates.
+Foreign currency translation a Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements are presented in sterling, which is the Groups functional and presentation currency.
+b Group companies The results and financial position of all the Group entities that have a functional currency different from the presentation currency are translated into the presentation currency as follows: i assets and liabilities for each balance sheet presented are translated at the closing rate at the date of the balance sheet: ii inc ome and expenses for each income statement are translated at average exchange rates: and iii al l resulting exchange differences are recognised as a separate component of equity.
+On consolidation, exchange differences arising from the translation of the net investment in foreign entities, and of borrowings and other currency instruments designated as hedges of such investments or deemed to be quasi-equity, are taken to other comprehensive income.
+When a foreign operation is sold, such exchange differences are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at period-end exchange rates.
+Rentokil Initial plc Annual Report 2018 Strategic Report Corporate Governance Financial Statements Additional Information 113 Notes to the Financial Statements c Transactions and balances Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions, or from the translation of monetary assets and liabilities denominated in foreign currencies at reporting period-end exchange rates, are recognised under the appropriate heading in the income statement: except when deferred in equity as qualifying net investment hedges or where certain intra-group loans are determined to be quasi-equity normally not expected to be repaid.
+Financial instruments Financial assets and financial liabilities are recognised when the Group becomes a party to the contractual provisions of the relevant instrument, and derecognised when it ceases to be a party to such provisions.
+Section C of these notes discusses accounting for financial instruments.
+Financial assets The Group classifies its financial assets depending on the purpose for which the financial assets were acquired.
+At initial recognition the Group carries out a solely payment of principal and interest SPPI and a business model test to establish the classification and measurement of its financial assets.
+Financial assets are classified in the following categories: a Amortised cost Financial assets under this classification are non-derivative financial assets held to collect the contractual cash flows until maturity and the cash flows are solely payment of principal and interest.
+Assets measured at amortised cost include trade and other receivables, and cash and cash equivalents.
+b Fair value through other comprehensive income FVTOCI These are non-derivative financial assets which can be for sale with cash flows that are solely payment of principal and interest.
+These assets are measured at fair value and changes to market values are recognised in other comprehensive income.
+The Group has no asset classified under this category.
+c Fair value through profit and loss FVTPL Financial assets under this classification are assets that cannot be classified in any of the other categories.
+These assets are measured at fair value and changes to market values are recognised in profit and loss.
+Financial liabilities All financial liabilities are stated at amortised cost using the effective interest rate method except for derivatives, which are classified as held for trading except where they qualify for hedge accounting and are held at fair value.
+Financial liabilities held at amortised cost include trade payables, vacant property provisions, deferred consideration and borrowings.
+Critical accounting estimates and judgements Assumptions and estimation uncertainties The Group makes estimates and assumptions concerning the future.
+Estimates and assumptions are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results may differ from these estimates and revisions to estimates are recognised prospectively.
+Sensitivities to the estimates and assumptions are provided, where relevant, in the relevant Notes to the Financial Statements.
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are listed below please refer to the notes for further detail.
+Impairment of goodwill: growth rate and discount rate assumptions and forecast cash flow estimates Note B2 Valuation of acquired intangible assets: customer termination, profit margin and discount rate assumptions Note B1 Income taxes and deferred tax asset: key assumptions about the likelihood and magnitude of out flows in relation to tax provisions, and availability of future taxable profit against which deductible temporary differences and tax losses carried forward can be utilised Notes A13 and A15 Retirement benefits: key actuarial assumptions and estimates over future costs of winding up a scheme Note A10 Incremental cost of obtaining contracts: estimated contract duration and associated amortisation period when calculating the asset recognised on adoption of IFRS 15 Note A1 Contract costs Judgements Information about judgements made in applying accounting policies that have the most significant effects on the amounts recognised in the financial statements is included in the following notes: Revenue recognition: whether revenue is recognised over time or at a point in time Note A1 Control over an investee: whether to recognise a non-controlling interest in an investee Note A5 Retirement benefits: whether the bulk annuity contract entered into with PIC is a settlement event Note A10 Equity-accounted investees: whether the Group has significant influence over an investee Note B5 Rentokil Initial plc Annual Report 2018 114 Notes to the Financial Statements Standards, amendments and interpretations to published standards that are mandatorily effective for the current year Except as described below, the accounting policies applied in these financial statements are the same as those applied in the Groups consolidated financial statements as at and for the year ended 31 December 2017.
+The Group has adopted IFRS 15 Revenue from Contracts with Customers and IFRS9 Financial Instruments from 1 January 2018.
+The main effect of initially applying IFRS 15 Revenue from Contracts with Customers is the capitalisation and amortisation of commission fees that were previously expensed as incurred see A below.
+There was no material effect of initially applying IFRS 9 Financial Instruments see B below.
+A. IFRS 15 Revenue from Contracts with Customers IFRS 15 establishes a comprehensive framework for determining whether, how much and when revenue is recognised.
+It replaces IAS 18 Revenue, IAS 11 Construction Contracts and related interpretations.
+The Group has applied IFRS 15 using the cumulative effect method adopting all practical expedients : therefore, comparative information has not been restated and continues to be reported under IAS 18 and IAS 11.
+The accounting policy that applies to comparative information can be found in the 2017 financial statements Note A1.
+Substantially all of the Groups revenue is within the scope of IFRS 15.
+No material changes to the timing of revenue recognition were required, although there were some small alignment adjustments in some countries.
+Under IFRS 15 revenue is recognised when a customer obtains control of goods or services in line with identifiable performance obligations.
+In the majority of cases the Group considers that the contracts it enters into are contracts for bundled services which should be accounted for as a single performance obligation.
+Therefore, as under IAS 18 previously, the majority of revenue across the Group will continue to be recognised evenly over the course of the contract because this reflects the timing of the provision of the service.
+The Group previously recognised commission expenses related to contracts as selling expenses when they were incurred.
+Under IFRS 15, the Group capitalises incremental commission fees as costs of obtaining contracts, if they are expected to be recovered, and amortises them consistently over the lives of the contracts to which they relate.
+The value of the initial adjustment was 38.1m net of 15.7m tax.
+The related amortisation for the reporting period was 21.9m.
+Where the expected amortisation period is one year or less, the Group adopts the practical expedient to expense these commission fees as incurred.
+The following table summarises the impacts of adopting IFRS 15 on the Groups balance sheet as at 31 December 2018.
+There was no material impact on the Groups statement of profit or loss and other comprehensive income or statement of cash flows for the year ended 31 December 2018.
+Impact on the consolidated balance sheet: Amounts without adoption of As reported Adjustments IFRS 15 31 December 2018 m m m Assets Contract costs 60.9 60.9 Non-current assets 60.9 60.9 Trade and other receivables 485.7 5.0 490.7 Current assets 485.7 5.0 490.7 Liabilities Contract liabilities On transition: 114.8m 133.5 8.9 124.6 Current liabilities 133.5 8.9 124.6 Deferred tax liabilities 92.5 13.8 78.7 Non-current liabilities 92.5 13.8 78.7 Equity Retained profits 2,631.2 33.2 2,598.0 Total equity 2,631.2 33.2 2,598.0 Rentokil Initial plc Annual Report 2018 Strategic Report Corporate Governance Financial Statements Additional Information 115 Notes to the Financial Statements B. IFRS 9 Financial Instruments IFRS 9 Financial Instruments sets out requirements for recognising and measuring financial assets, financial liabilities and certain contracts to buy or sell non-financial items.
+This standard replaces IAS 39 Financial Instruments: Recognition and Measurement.
+IFRS 9 largely retains the existing requirements in IAS 39 for the classification and measurement of financial liabilities, and the adoption of IFRS 9 has not had a significant effect on the Groups accounting policies related to financial liabilities and derivative financial instruments for derivatives that are used as hedging instruments, see ii below.
+The impact of IFRS 9 on the classification and measurement of financial assets is set out below.
+IFRS 9 changes the previous IAS 39 categories for financial assets of held to maturity, loans and receivables and available for sale.
+Under IFRS 9, on initial recognition, a financial asset is classified as: amortised cost: fair value through other comprehensive income FVTOCI debt investment: FVTOCI equity investment: or fair value through profit or loss FVTPL.
+The classification of financial assets under IFRS 9 is generally based on the business model in which a financial asset is managed and its contractual cash flow characteristics.
+Derivatives embedded in contracts where the host is a financial asset in the scope of the standard are never separated.
+Instead, the hybrid financial instrument as a whole is assessed for classification.
+Financial assets are subject to new rules regarding provisions for impairment, however as the Group has minimal financial assets other than trade debtors, and a history of minimal impairments against these assets, the impact on transition is not material.
+The Group has elected to measure loss allowances for trade receivables and contract assets at an amount equal to lifetime expected credit losses.
+Classification and measurement of financial assets The following table and the accompanying notes below explain the original measurement categories under IAS 39 and the new measurement categories under IFRS 9 for each class of the Groups financial assets as at 1 January 2018.
+Original carrying New carrying amount under amount under IAS 39 IFRS 9 Original classification under IAS 39 New classification under IFRS 9 m m Financial assets Interest rate swaps used for hedging Fair value hedging instrument Fair value hedging instrument 19.0 19.0 Forward exchange contracts used for hedging Fair value hedging instrument Fair value hedging instrument 1.0 1.0 Trade and other receivables Loans and receivables Amortised cost 449.8 449.8 Cash and cash equivalents Cash and short-term deposits Loans and receivables Amortised cost 225.2 225.2 Cash and cash equivalents Liquidity funds Loans and receivables FVTPL 84.9 84.9 Derivatives FVTPL FVTPL Total financial assets 779.9 779.9 ii.
+Hedge accounting The Group has elected to adopt the new general hedge accounting model in IFRS 9.
+This requires the Group to ensure that hedge accounting relationships are aligned with its risk management objectives and strategy, and to apply a qualitative and forward-looking approach to assessing hedge effectiveness.
+The Group uses forward foreign exchange contracts to hedge the variability in cash flows arising from changes in foreign exchange rates relating to foreign currency borrowings, receivables, sales and inventory purchases.
+The Group designates only the change in fair value of the spot element of the forward exchange contract as the hedging instrument in cash flow hedging relationships.
+The effective portion of changes in fair value of hedging instruments is accumulated in a cash flow hedge reserve as a separate component of equity.
+The Group has not changed the accounting for forward contracts under IFRS 9.
+The Group generally uses cross-currency interest rate swaps to achieve appropriate net debt currency mix.
+Cross-currency swaps are generally either a cash flow hedge or a net investment hedge accounting relationship, except where there is a natural translation risk offset in the profit and loss account.
+A cross-currency swap in a net investment hedge will be accounted on the forward basis where all changes in fair value will be recognised in other comprehensive income except basis risk which is amortised over the remaining term of the swap contract.
+Under IAS 39, for all cash flow hedges, the amounts accumulated in the cash flow hedge reserve were reclassified to profit or loss as a reclassification adjustment in the same period as the hedged expected cash flows affected profit or loss.
+The same approach also applies under IFRS 9 except the amounts related to basis risk which excluded from the hedge relationship.
+The changes in the swap valuation related to basis risk is reported in a separate component of equity cost of hedging reserve and amortised over the life of the swap.
+Transition Changes in accounting policies resulting from the adoption of IFRS 9 have been applied retrospectively, except as described below.
+Changes to hedge accounting policies have been applied prospectively.
+All hedging relationships designated under IAS 39 at 31 December 2017 met the criteria for hedge accounting under IFRS 9 at 1 January 2018 and are therefore regarded as continuing hedging relationships.
+Rentokil Initial plc Annual Report 2018 116 Notes to the Financial Statements Other changes in accounting policies The Group has adopted the following new standards and amendments to standards, including any consequential amendments to other standards, with effect from 1 January 2018: Amendments to IFRS 2 Share Based Payments Annual Improvements in IFRSs 2014-2016 Cycle IAS 28 Investments in Associates and Joint Ventures IFRCC 22 Foreign Currency Transactions and Advance Consideration The application of these amendments has had no material impact on the disclosures of the amounts recognised in the Groups consolidated financial statements.
+Consequently, no adjustment has been made to the comparative financial information at 31 December 2017.
+The Group has not early adopted any standard, interpretation or amendment that was issued but is not yet effective.
+The Group will adopt IFRS 16 Leases from 1 January 2019.
+IFRS 16 introduces a single, on-balance sheet lease accounting model for lessees.
+A lessee recognises a right-of-use ROU asset representing its right to use the underlying asset and a lease liability representing its obligation to make lease payments.
+The lease liability will increase net debt.
+The Group does not act as a lessor in any material arrangements.
+The Group will recognise new assets and liabilities for its operating leases, mainly property and motor vehicles.
+The nature of expenses related to those leases will now change because the Group will recognise a straight-line depreciation charge for ROU assets and interest expense on lease liabilities.
+Previously, the Group recognised operating lease expenses on a straight-line basis over the term of the lease, and recognised assets and liabilities only to the extent that there was a timing difference between actual lease payments and the expense recognised.
+The new standard is not expected to have a material impact on either profit before tax or the underlying net cash flows of the business, but it will but it will change the presentation of the profit and loss account, the cash flow statement and the balance sheet.
+Under IFRS 16 it is anticipated that operating expenses will decrease by c. 5-10m and financing costs will increase by a similar amount.
+In addition, the Group will no longer include rental payments in its calculation of vacant property provisions as described in Note A6, although other costs related to these properties will continue to be provided for.
+Instead, the Group will include the rental payments due under the lease in its lease liability.
+No significant impact is expected for the Groups existing finance leases.
+Commitments under the Groups current operating leases are set out in Note A12.
+The Group plans to apply the standard using the modified retrospective approach, therefore, any cumulative effect of adopting IFRS 16 will be recognised as an adjustment to the opening balance of retained earnings at 1 January 2019, with no restatement of comparative information.
+The Group plans to apply the practical expedient to grandfather the definition of a lease on transition.
+This means that it will apply IFRS 16 to all contracts entered into before 1 January 2019 and identified as leases in accordance with IAS 17 and IFRIC 4.
+Based on the information currently available, the Group estimates that it will recognise ROU assets and corresponding lease liabilities with a value of c. 200m.
+The Group does not expect the adoption of IFRS 16 to impact its ability to comply with any of its banking covenants.
+The assessment of the impact of IFRS 16 is preliminary as not all transition work requirements have been finalised and therefore may be subject to adjustment.
+Rentokil Initial plc Annual Report 2018

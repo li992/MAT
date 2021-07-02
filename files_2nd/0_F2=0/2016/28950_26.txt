@@ -1,0 +1,95 @@
+Net debt and capital structure continued 13 Cash flow and net debt continued 13.4 Borrowings Accounting policy Assets held under finance leases are initially recognised as assets of the Group at their fair value or, if lower, at the present value of the minimum lease payments, each determined at the inception of the lease.
+The corresponding liability to the lessor is included in the balance sheet as a finance lease obligation.
+Interest-bearing borrowings are recognised initially at fair value less attributable transaction costs.
+Subsequent to initial recognition, interest-bearing borrowings are stated at amortised cost with any difference between cost and redemption value being recognised in the income statement over the period of borrowing on an effective interest basis.
+2016 2015 Current m m Bank overdrafts 4.3 Finance lease obligations 0.4 0.6 US senior loan notes unsecured 38.6 33.0 43.3 33.6 2016 2015 Non-current m m Finance lease obligations 0.2 0.4 Bank loans unsecured 80.0 US senior loan notes unsecured 534.2 491.0 534.4 571.4 Included in loans above is 572.8m 2015: 604.0m of unsecured loans after unamortised issue costs.
+These borrowings were utilised for acquisitions and managing the Groups minimum leverage target of 1x net debt to EBITDA.
+In the table above, bank loans and loan notes are stated net of unamortised issue costs of 1.9m 2015: 3.0m.
+The Group has in the year incurred total issue costs amounting to nil 2015: 0.8m in respect of the note issue into the US private placement market.
+These issue costs were paid during the year ended 30 September 2015 and are allocated to the income statement over the term of the facility using the effective interest method.
+150 The Sage Group plc | Annual Report & Accounts 2016 14 Financial instruments This note shows details of the fair value and carrying value of short and long term borrowings, trade and other payables, trade and other receivables, short-term bank deposits, cash at bank and in hand and other financial liabilities.
+These items are all classified as financial instruments under accounting standards.
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+In order to assist users of these financial statements in making an assessment of any risks relating to financial instruments, this note also shows the ageing of these items and analyses their sensitivity to changes in key inputs, such as interest rates and foreign exchange rates.
+Further explanation of the Groups exposure to and management of capital, liquidity, credit, interest rate and foreign currency risk is set out in the financial risk management section of the Directors Report.
+Accounting policy Financial assets and financial liabilities are recognised in the Groups balance sheet when the Group becomes a party to the contractual provisions of the instrument.
+Financial assets are derecognised i. e. removed from the Groups balance sheet when the rights to receive cash flows from the asset have expired: or when the Group has transferred those rights and either has also transferred substantially all the risks and rewards of the asset or has neither transferred nor retained substantially all the risks and rewards of the asset but no longer has control of the asset.
+Financial liabilities are derecognised when the obligation specified in the contract is discharged, cancelled or expires.
+14.1 Fair values of financial instruments The carrying amounts of the following financial assets and liabilities approximate to their fair values: trade and other payables excluding tax and social security, trade and other receivables excluding prepayments and accrued income, short-term bank deposits, cash at bank and in hand and other financial liabilities.
+The fair value of borrowings differs from their carrying amounts due to their bearing interest at fixed rates which are currently higher than floating rates.
+The fair value of borrowings is determined by reference to interest rate movements on the US $ private placement market and therefore can be considered as a level 2 fair value as defined within IFRS 13.
+2016 2015 Book value Fair value Book value Fair value Note m m m m Long term-borrowing 13.4 534.4 559.0 571.4 572.8 Short term borrowing 13.4 43.3 43.9 33.6 34.1 The carrying amounts of trade receivables note 9.2 and cash and cash equivalents note 13.3 represents the Groups maximum exposure to credit risk.
+14.2 Maturity of financial liabilities The maturity profile of the undiscounted contractual amount of the Groups financial liabilities at 30 September was as follows: 2016 Trade and other payables excluding other tax and social Borrowings security Total m m m In less than one year 63.3 307.3 370.6 In more than one year but not more than two years 57.5 4.2 61.7 In more than two years but not more than five years 161.2 2.5 163.7 In more than five years 414.6 0.8 415.4 696.6 314.8 1,011.4 The Sage Group plc | Annual Report & Accounts 2016 151 Net debt and capital structure continued 14 Financial instruments continued 14.2 Maturity of financial liabilities continued 2015 Trade and other payables excluding other tax and social Borrowings security Total m m m In less than one year 53.0 269.4 322.4 In more than one year but not more than two years 51.3 51.3 In more than two years but not more than five years 259.2 259.2 In more than five years 366.2 366.2 729.7 269.4 999.1 The maturity profile of provisions is disclosed in Note 10.
+14 Financial instruments continued 14.3 Borrowing facilities The Group has the following undrawn committed borrowing facilities available at 30 September in respect of which all conditions precedent had been met at that date: 2016 2015 m m Expiring in more than two years but not more than five years 613.5 443.6 The facilities have been arranged to help finance the expansion of the Groups activities.
+All these facilities incur commitment fees at market rates.
+In addition, the Group maintains overdraft and uncommitted facilities to provide short-term flexibility and has also utilised the US private placement market.
+14.4 Market risk sensitivity analysis Financial instruments affected by market risks include borrowings and deposits.
+The following analysis, required by IFRS 7, Financial Instruments: Disclosures, is intended to illustrate the sensitivity to changes in market variables, being sterling, US Dollar and Euro interest rates, and sterling US Dollar and sterling Euro exchange rates.
+The sensitivity analysis assumes reasonable movements in foreign exchange and interest rates before the effect of tax.
+The Group considers a reasonable interest rate movement in LIBOR to be 1%, based on interest rate history.
+Similarly, sensitivity to movements in sterling US Dollar and sterling Euro exchange rates of 10% are shown, reflecting changes of reasonable proportion in the context of movement in those currency pairs over the last year.
+Using the above assumptions, the following table shows the illustrative effect on the consolidated income statement and equity.
+2016 2015 Income Equity Income Equity losses gains losses gains losses gains losses gains m m m m 1% increase in market interest rates 0.5 0.5 1.4 1.4 1% decrease in market interest rates 0.4 0.4 1.2 1.2 10% strengthening of sterling versus the US Dollar 6.5 38.2 6.1 30.1 10% strengthening of sterling versus the Euro 6.3 31.2 7.1 20.9 10% weakening of sterling versus the US Dollar 7.1 42.1 6.7 33.2 10% weakening of sterling versus the Euro 6.9 34.3 7.9 23.0 14.5 The minimum lease payments under finance leases fall due as follows: 2016 2015 m m In less than one year 0.4 0.6 In more than one year but not more than five years 0.2 0.4 0.6 1.0 Future finance charges on finance leases Present value of finance lease liabilities 0.6 1.0 152 The Sage Group plc | Annual Report & Accounts 2016 14.6 Hedge accounting Accounting policy The Groups external US Dollar and Euro denominated borrowings are designated as a hedge of the net investment in its subsidiaries in the US and Eurozone.
+The portion of the gain or loss on an instrument used to hedge a net investment in a foreign operation which is determined to be an effective hedge is recognised in other comprehensive income.
+The ineffective portion is recognised immediately in profit or loss.
+On disposal of the net investment, the foreign exchange gains and losses on the hedging instrument are recycled to the income statement from equity.
+The fair values of the Groups external US Dollar and Euro denominated borrowings at 30 September 2016 were USD 650.0m and EUR 85.0m 2015: USD 772.5m and EUR 126.5m.
+These borrowings were used to hedge the Groups exposure to the USD and EUR foreign exchange risk on its investments in subsidiaries in the US and Eurozone.
+15 Equity This note analyses the movements recorded through shareholders equity that are not explained elsewhere in the financial statements, being changes in the amount which shareholders have invested in the Group.
+The Group utilises share award schemes as part of its employee remuneration package.
+Share option schemes for our employees include The Sage Group Performance Share Plan for directors and senior executives and The Sage Group Savings-related Share Option Plan the SAYE Plan for all qualifying employees.
+We incur a cost in respect of these schemes in our income statement, which is set out below along with a detailed description of each scheme and the number of options outstanding.
+This note also shows the dividends paid in the year and any dividends that are to be proposed and paid post year-end.
+Dividends are paid as an amount per ordinary share held.
+15.1 Ordinary shares Accounting policy Ordinary shares are classified as equity.
+Incremental costs directly attributable to the issue of new ordinary shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Where any Group company purchases the Companys equity share capital treasury shares, the consideration paid, including any directly attributable incremental costs net of income taxes, is deducted from equity attributable to the owners of the Company until the shares are cancelled or reissued.
+2016 2016 2015 2015 4 Issued and fully paid ordinary shares of 1 77 pence each shares m shares m At 1 October 1,118,298,748 11.8 1,115,892,047 11.7 Proceeds from shares issued 1,181,615 2,406,701 0.1 At 30 September 1,119,480,363 11.8 1,118,298,748 11.8 Issues of ordinary shares 4 Under Executive Share Option Scheme, 500,489 1 77 p ordinary shares were issued during the year for aggregate proceeds of 0.9m.
+4 Under the Savings-related Share Option Scheme, 675,608 1 77 p ordinary shares were issued during the year for aggregate proceeds of 2.3m.
+The Sage Group plc | Annual Report & Accounts 2016 153 Net debt and capital structure continued 15 Equity continued 15.2 Share-based payments Accounting policy Equity-settled share-based payments are measured at fair value excluding the effect of non-market-based vesting conditions at the date of grant.
+The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Groups estimate of the shares that will eventually vest allowing for the effect of non-market-based vesting conditions.
+Fair value is measured using the Black-Scholes or the Monte Carlo pricing models, based on observable market prices.
+The expected life used in the model has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions and behavioural considerations.
+All outstanding Sage Performance Share Plans PSPs and certain Restricted Share Plans RSPs are subject to some non-market performance conditions.
+These are organic revenue and EPS growth.
+The element of the income statement charge relating to market performance conditions is fixed at the grant date.
+At the end of the reporting period, the Group revises its estimates for the number of options expected to vest.
+It recognises the impact of the revision to original estimates, if any, in the income statement, with a corresponding adjustment to equity.
+The total charge for the year relating to employee share-based payment plan was 7.9m 2015: 9.1m, all of which related to equity-settled share-based payment transactions.
+2016 2015 Scheme m m Performance Share Plan 6.9 6.8 Restricted Share Plan 0.6 1.8 Savings-related Share Option Scheme 0.4 0.5 Total 7.9 9.1 The Sage Group Performance Share Plan Annual grants of performance shares will normally be made to executive directors and senior executives across the Group after the preliminary declaration of the annual results.
+Under the Performance Share Plan 3,410,056 2015: 5,411,495 awards were made during the year.
+Awards prior to 2013 Annual awards under the Plan were limited to shares worth up to 300% of base salary.
+In practice, annual grants to executive directors were limited to shares with a maximum value on award of 210% of base salary except in exceptional circumstances, such as a promotion or recruitment or to reflect local market practice.
+The performance shares were subject to a service condition and performance conditions on a sliding scale based on EPS.
+25% of the award vested at the end of the period if the increase in EPS exceeded RPI by 9% an average of 3% per year : 100% of the award vested at that time only where RPI was exceeded in that period by 27% an average of 9% per year.
+Between those targets, awards vested on a straight-line basis, and if those targets were not met there was no opportunity for re-testing.
+Awards were then subject to a total shareholder return TSR multiplier whereby the level of vesting based on EPS achievement was adjusted according to TSR performance over the same three-year period compared with a group of international software and computer services companies.
+The comparator group for awards made in 2012 comprised the following companies: Adobe Systems Cegid Logica Salesforce.
+com ARM Holdings Dassault Systmes Micro Focus International SAP Blackbaud Exact Microsoft Software AG Cap Gemini Intuit Oracle If Sages TSR was ranked at lower quartile in the group, the multiplier was 0.75.
+If Sages TSR was ranked at median in the group, the multiplier was 1.
+If Sages TSR was ranked at upper quartile in the group, then the multiplier was 1.5.
+Straight-line pro-rating applied between 0.75 and 1, and between 1 and 1.5, but the multiplier could not be higher or lower than these figures.
+Awards from 2013-2015 These performance shares are subject to a service condition and three performance conditions.
+Performance conditions are weighted one third on the achievement of an EPS target, and one third on the achievement of an organic revenue growth target.
+The remaining one third is based on a TSR target.
+154 The Sage Group plc | Annual Report & Accounts 2016 The EPS vesting percentage is based on compound EPS growth.
+Where compound EPS growth is between 6% and 12%, the EPS vesting percentage will be calculated on a straight-line pro-rata basis between 6.7% and 26.7%, and where compound EPS growth is between 12% and 15%, the EPS vesting percentage will be calculated on a straight-line pro-rata basis between 26.7% and 33.3%.
+The organic revenue growth target is based on the Companys compound annual organic revenue growth.
+Where growth is between 4% and 8% the organic revenue growth vesting percentage will be calculated on a straight-line pro-rata basis between 6.7% and 26.7%, and where the Companys compound organic revenue growth is between 8% and 10%, the organic revenue growth vesting percentage will be calculated on a straight-line pro-rata basis between 26.7% and 33.3%.
+In order for the organic revenue growth target proportion to vest, the underlying operating profit margin in the financial year of vesting must not be less than that of the underlying operating profit margin for the financial year in which the award is granted.
+The final third of the award is the performance target relating to TSR which measures share price performance against a designated comparator group.
+Where the Companys TSR is between median and upper quartile, the TSR vesting percentage will be calculated on a straight-line pro-rata basis between 6.7% and 26.7% and where the Companys TSR is between upper quartile and upper decile, the TSR vesting percentage will be calculated on a straight-line pro-rata basis between 26.7% and 33.3%.
+The TSR vesting percentage may only exceed 26.7% Stretch level if performance against either the EPS target or the organic revenue growth target is also at Stretch level.
+The comparator group for awards granted from 2013-2015 is the companies comprised in the FTSE 100 Index at the start of the performance period, excluding financial services and extraction companies.
+Awards were valued using the Monte Carlo option-pricing model.
+The market based performance condition were included in the fair value calculations, which were based on observable market prices at grant date.
+All options granted under performance share awards have an exercise price of nil.
+Performance conditions are weighted one half on the achievement of a revenue growth target and one half on the achievement of a TSR target.
+The revenue growth target is subject to two underpin performance conditions relating to EPS growth and organic revenue growth.
+The revenue growth target is based on the Companys compound annual organic revenue growth.
+Where the Companys annual Revenue growth is between 8% and 10% or 10% and 12%, the extent to which the Revenue Performance Condition is satisfied will be calculated on a straight-line pro rata basis between 10% and 40% or between 40% and 50% respectively.
+Notwithstanding the extent to which the Revenue Performance Condition has been satisfied, the Revenue Tranche will not be released and will lapse on the Boards determination that 1 the compound growth of the Companys underlying EPS over the Performance Period is less than 8% per annum: or 2 the compound growth of the Companys organic revenue over the Performance Period is less than 6% per annum.
+The performance target relating to TSR measures share price performance against a designated comparator group.
+Where the Companys TSR is between median and upper quartile, the TSR vesting percentage will be calculated on a straight-line pro-rata basis between 10% and 40% and where the Companys TSR is between upper quartile and upper decile, the TSR vesting percentage will be calculated on a straightline pro-rata basis between 40% and 50%.
+The comparator group for awards granted from 2016 onwards is the companies comprised in the FTSE 100 Index at the start of the performance period, excluding financial services and extraction companies.
+The Sage Group plc | Annual Report & Accounts 2016 155

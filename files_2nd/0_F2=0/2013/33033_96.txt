@@ -1,0 +1,67 @@
+Glossary and Footnotes List Glossary and Footnotes List Page 154 Glossary and Footnotes List Glossary st 21CN 21 Century Network depreciation of the appropriate allocation of current cost asset values between markets, Technical Areas and Wholesale services.
+Accounting The Primary Accounting Documents, DAM, DVM, LRIC: R&P and Documents Wholesale Catalogue.
+Accounting Accounting separation requirements arise where there is an obligation DAM The Detailed Attribution Methods.
+This sets out the detailed processes Separation to not unduly discriminate and or there is a reasonable concern that a by which revenues and costs are attributed to the markets, Technical Dominant Provider may make cross-subsidies, e. g. the means by Areas and Wholesale services.
+which a margin squeeze may be funded.
+DLRIC LRIC plus a share of common costs.
+ADSL Asymmetric Digital Subscriber Line.
+DSAC Stand alone cost SAC excluding a share of core common costs.
+AISBO Alternative Interface Symmetric Broadband Origination.
+Annual Report BT Group plc's Consolidated Group Financial Statements for the year DSL Digital Subscriber Line.
+These are available on the BT website at: DSLAM Digital Subscriber Line Access Multiplexer.
+com Sharesandperformance Annualreportandrevie DVM The Detailed Valuation Methodology.
+This sets out the methodology w index.
+cfm by which current cost valuations are obtained.
+Baskets Baskets are collections of services not considered to be competitive EBITDA Earning before interest, tax, depreciation and amortisation.
+and for which prices are subject to specific charge controls.
+FRIACO Flat Rate Internet Access Call Origination.
+CELA Central and East London Area.
+Components Within these Statements, the term component includes both network ISI In-Span Interconnect.
+conn Connections ITT Inter-Tandem Transit.
+Cost accounting Cost accounting obligations are to meet the requirements where there km Kilometres.
+is an obligation in relation to: le Local ends.
+LLCS Local Lines Costing Study.
+LLMR Leased Lines Market Review.
+Current Cost The change to historical costs arising from the revaluation of assets on Accounting a current cost basis.
+"In the statements for individual markets the ""CCA"" adjustments comprise the holding gains or losses arising from changes adjustments in asset values, together with the effect on asset values and Page 155 Glossary and Footnotes List Glossary Continued."
+Long Run Defined as the cost caused by the provision of a defined increment of LRIC.
+The R&P also contains appendices which detail the relationships Incremental output given that costs can, if necessary, be varied and that some level and parameters used within the model.
+Cost of output is already produced.
+See Section 2 - Basis of Preparation.
+"""LRIC"" SDH Synchronous Digital Hierarchy."
+SDSL Symmetric Digital Subscriber Line.
+Stand alone cost The stand alone cost of an activity or subset of activities is the cost m Metres.
+"""SAC"" incurred in providing that activity or activities of services by itself."
+Mean capital Mean capital employed is defined as total assets less current liabilities, Stand alone cost will include all direct variable, activity specific fixed employed excluding corporate taxes and dividends payable, and provisions other costs, common fixed costs and joint costs associated with the activity MCE than those for deferred taxation.
+The mean is computed from the start or subset of activities in question.
+and end values for the period.
+SMPF Shared Metallic Path Facilities.
+TISBO Traditional Interface Symmetric Broadband Origination.
+Network Charge The basis on which interconnect charges have been set with effect VoIP Voice over IP Voice over IP.
+"Usage Factors Usage Factors refer to the usage of any network component, including ""NCC"" conveyance components."
+WECLA Western, Eastern and Central London Area NTS Number Translation Services.
+Wholesale cost Cost accounting in Wholesale markets deals with products and services Other Other telecommunication companies operating in the UK, which accounting sold to Communications Providers.
+Communications purchase telecommunication services from BT.
+Providers - A numerical value of zero.
+PADS Primary Accounting Documents which set out the framework within Zero A numerical value of 0.5m and 0.5 m. which the Current Cost Financial Statements are prepared.
+PECN Public Electronic Communications Network.
+PPP Product management, policy and planning.
+RBS Radio Base Station Backhaul.
+"Relationships The BT publication ""Long Run Incremental Cost Model: Relationships and Parameters and Parameters"" describes in detail how BT has applied the principles ""R&P"" contained within the LRIC Methodology section of the Accounting Documents to construct cost volume relationships and to calculate Page 156 Glossary and Footnotes List Footnotes a This component is attributed on a % basis so no volume or unit cost is derivable."
+b See glossary for volume unit descriptors.
+c Unit of length is 10 kilometres.
+d ppm pence per minute: 2Mbit cct per 2 Mbit s circuit: km per kilometre: 100m per 100 metres: trans per transaction: circuit per circuit: hostel rental per hostel rental: % % utilisation: line per line: room per room: cable per cable: link per link: eq per equipment units: le per local end: conn per connection: channel per channel: fibre km per fibre km.
+h See Section 2 - Basis of Preparation for explanation of restatement.
+n Accounting Separation components require no costs to be disclosed.
+q This is the total cost not unit cost for this component.
+t Revenue for this service is 1m and hence shown within roundings as agreed with Ofcom.
+Where revenue is immaterial, no volumes or prices are shown.
+u Costs associated with these services are immaterial and included within the above reported AISBO services and hence not disclosed separately.
+v Revenues shown are prior to the 'revenue share' between BT and Other Communications Providers OCPs.
+y Unit costs calculated as a weighted average of the 64kbit PC link connection cct provision & 64kbit PC link connection cct rearrangements.
+sx This service comprises a number of individual prices as indicated by the value of x. ux This service comprises a number of individual volumetrics as indicated by the value of x. ad Does not include the service Wholesale Call originating local exchange segment ISDN excl.
+Operator Assistance due to immaterial volumes.
+ao The price for 64kbit s enhanced maintenance is weighted to include different 64kbit s equivalent services.
+ap Reduction in FAC due to notional creditor generated by the EOI charge from Openreach to WBA markets.
+un This service comprises a large number of volumetrics and prices.
+This component is attributed on a % basis so no volume or unit cost is derivable.

@@ -1,0 +1,169 @@
+Statement_NOMZ
+of_PIN
+directors_NN
+responsibilities_NOMZ
+The_DT
+directors_NN
+are_VPRT [BYPA]
+required_VBN [SUAV]
+by_PIN
+the_DT
+Companies_NN
+Act_NN
+1985_CD
+to_TO
+prepare_VB
+financial_JJ
+statements_NOMZ
+for_PIN
+each_QUAN
+financial_JJ
+year_NN
+which_WDT [WHSUB]
+give_VPRT
+a_DT
+true_JJ
+and_PHC
+fair_JJ
+view_NN
+of_PIN
+the_DT
+state_NN
+of_PIN
+affairs_NN
+of_PIN
+the_DT
+Company_NN
+and_CC
+of_PIN
+the_DT
+Group_NN
+and_CC
+of_PIN
+the_DT
+profit_NN
+or_CC
+loss_NN
+of_PIN
+the_DT
+Group_NN
+for_PIN
+the_DT
+financial_JJ
+year_NN
+._.
+The_DT
+directors_NN
+consider_VPRT [PRIV]
+that_THVC
+the_DT
+financial_JJ
+statements_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+using_VBG
+appropriate_JJ
+accounting_GER
+policies_NN
+that_TSUB
+have_VPRT [PEAS]
+been_VBN [PASS]
+applied_VBN
+consistently_RB
+,_,
+that_DEMO
+reasonable_JJ
+and_PHC
+prudent_JJ
+judgements_NOMZ
+and_PHC
+estimates_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+and_CC
+that_DEMO
+applicable_JJ
+accounting_GER
+standards_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+followed_VBN
+._.
+The_DT
+directors_NN
+are_VPRT [BEMA]
+responsible_PRED
+for_PIN
+ensuring_VBG [SUAV] [PRIV]
+that_THVC
+the_DT
+Company_NN
+keeps_VPRT
+accounting_GER
+records_NN
+which_WDT [WHSUB]
+disclose_VPRT [PUBV]
+with_PIN
+reasonable_JJ
+accuracy_NN
+the_DT
+financial_JJ
+position_NOMZ
+of_PIN
+the_DT
+Company_NN
+and_ANDC
+which_WDT
+enable_VPRT
+them_TPP3
+to_TO
+ensure_VB [SUAV] [PRIV]
+that_THVC
+the_DT
+financial_JJ
+statements_NOMZ
+comply_VPRT
+with_PIN
+the_DT
+Companies_NN
+Act_NN
+1985_CD
+._.
+The_DT
+directors_NN
+have_VPRT
+a_DT
+general_JJ
+responsibility_NOMZ
+for_PIN
+taking_VBG
+such_JJ
+steps_NN
+as_IN
+are_VPRT [BEMA]
+reasonably_RB
+open_PRED
+to_PIN
+them_TPP3
+to_TO
+safeguard_VB
+the_DT
+assets_NN
+of_PIN
+the_DT
+Company_NN
+and_CC
+the_DT
+Group_NN
+and_CC
+to_TO
+prevent_VB
+and_PHC
+detect_VB
+fraud_NN
+and_CC
+other_JJ
+irregularities_NOMZ
+._.

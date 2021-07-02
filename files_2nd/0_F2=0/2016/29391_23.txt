@@ -1,0 +1,288 @@
+Financial statements NOTES TO THE FINANCIAL STATEMENTS For the year ended 31 July 2016 1 Accounting policies  The financial statements of Softcat plc for the year ended 31 July 2016 were authorised for issue in accordance with a resolution of the Directors on 19October 2016.
+Softcat plc is a public limited company incorporated and domiciled in the United Kingdom and whose shares are publicly traded.
+The registered office isSolarHouse, Fieldhouse Lane, Marlow, Buckinghamshire in the United Kingdom.
+The principal activity of the Company continued to be that of a value-added IT reseller and IT infrastructure solutions provider to the corporate and public sector markets.
+ These financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as issued by the International Accounting Standards Board IASB and as adopted by the EU Adopted IFRS and the International Financial Reporting Interpretations Committee IFRIC interpretations and in accordance with those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+These financial statements have been prepared under the historical cost convention and are presented in the Companys presentational and functional currency of Pounds Sterling and all values are rounded to the nearest thousand 000, except when otherwise stated.
+The Company applied all standards and interpretations issued by the IASB that were effective as of 31 July 2016.
+The accounting policies set out below have, unless otherwise stated, been applied consistently to all periods presented in these financial statements.
+Going concern For reasons noted on page 66, the financial information has been prepared on the going concern basis, which assumes that the Company will continue to be able to meet its liabilities as they fall due for the foreseeable future, being a period of at least twelve months from the date of signing these financial statements.
+At the date of approving the financial statements, the Directors are not aware of any circumstances that could lead to the Company being unable to settle commitments as they fall due during the twelve months from the date of signing these financial statements.
+ When applying the Companys accounting policies, management must make a number of key judgements involving estimates and assumptions concerning the future.
+These estimates and judgements are based on factors considered to be relevant, including historical experience that may differ significantly from the actual outcome.
+The key assumptions concerning the future and other key sources of estimation uncertainty at the balance sheet date that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year include: Revenue cut off The Companys management information systems are configured to recognise revenue upon notification of dispatch from the supplier or distributor which ininstances, especially regarding physical shipments, may not be aligned to when the risks and rewards of ownership have been transferred.
+Under IFRS the point of recognition on physical shipments should be aligned to the date of delivery, not dispatch.
+Management therefore performs an exercise to capture items that may have been dispatched from distributor but not delivered in the financial year, and subsequently defers the recognition of revenue into the following year.
+The exercise applied includes several assumptions, which management believes are reasonable, in order to identify items that fit the criteria for deferral.
+Separately management reviews individual large deals on a case by case basis which reduces the opportunity for error.
+ At the date of authorisation of these financial statements, the following standards and interpretations which have not been applied in these financial statements were in issue but not yet effective and in some cases had not yet been adopted by the EU : IFRS 15 Revenue from Contracts with Customers, see below IFRS 9 Financial Instruments IFRS 2 Amendments Share-based Payments IAS 12 Amendments Recognition of Deferred Tax Assets for Unrealised Losses IAS 7 Amendments Statement of Cash Flows IFRS 16 Leases Annual Improvements 20122014 Cycle IAS 16 and IAS 38 Amendment Clarification of Acceptable Methods of Depreciation and Amortisation Softcat plc Annual Report and Accounts 2016 77 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 1 Accounting policies continued  continued  The Directors anticipate that the adoption of these standards and interpretations in future periods will have no material impact on the financial statements ofthe Company, except for: IFRS 15 was issued in May 2014 and establishes a five-step model to account for revenue arising from contracts with customers.
+Under IFRS 15, revenue is recognised at an amount that reflects the consideration to which an entity expects to be entitled in exchange for transferring goods or services to a customer.
+The new revenue standard will supersede all current revenue recognition requirements under IFRS.
+Either a full retrospective application or a modified retrospective application is required for annual periods beginning on or after 1 January 2018.
+IFRS 15 may have an impact on the Companys revenue recognition policies and disclosures: however, until managements detailed review has been completed it is not practicable to provide details of the impact that its adoption will have on the Companys financial statements.
+IFRS16Leases Replacing IAS 17, IFRS 16 was issued in January 2016 and applies to annual reporting periods beginning on or after 1 January 2019.
+IFRS 16 specifies how to recognise, measure, present and disclose leases.
+The standard provides a single lessee accounting model, requiring lessees to recognise assets and liabilities for all leases with the exception of those with a lease term of less than twelve months or the underlying asset has a low value.
+Softcat is a lessee on lease arrangements for all its offices, with the exception of its head office in Marlow, for which it owns the freehold.
+These leases typically have a five-year lease term and therefore it is expected that following adoption of IFRS 16, Softcat would recognise both an asset and a liability onitsStatement of Financial Position relating to these leases.
+ Revenue from the sale of goods is recognised to the extent that it is probable that the economic benefits will flow to the Company and the revenue can be reliably measured.
+Revenue is measured at the fair value of the consideration received or receivable, taking into account contractually defined terms of payment and excluding taxes and duty.
+The Company assesses its revenue arrangements against specific criteria in order to determine if it is acting as principal or agent.
+The following specific recognition criteria must also be met before revenue is recognised: Sale of goods The Company sells hardware and software that is sourced from and delivered by a number of suppliers.
+Revenue from the sale of these goods is recognised when the significant risks and rewards of ownership of the goods have passed to the buyer, usually on delivery of the goods.
+The Company has primary responsibility for the acceptability of goods sold, is exposed to inventory risk during the delivery period, establishes the selling price itself and bears the customers credit risk.
+It is therefore considered to be acting as principal in these sales and revenue is measured using the price charged to the customer, excluding sales tax.
+Provision of services The Company also provides datacentre, cloud and software services.
+Revenue in respect of these services is recognised when the service has been satisfactorily completed or in line with the stage of completed work.
+It is measured at either the sales prices, excluding sales taxes, or by reference tothe costs incurred as a proportion of the total estimated costs of the contract.
+In addition, the Company sells services provided by third parties.
+Revenue for services provided by third parties is recognised at the point of sale to the customer, as the Company has no ongoing obligations.
+The Company establishes the selling price and is exposed to customer credit risk on this revenue andtherefore considers itself to be acting as principal, measuring revenue as the price charged to the customer, excluding sales tax.
+Interest income Interest income is accrued on a time basis by reference to the principal outstanding and at the effective interest rate EIR applicable.
+EIR is the rate that exactly discounts the estimated future cash payments or receipts through the expected life of the financial instrument or a shorter period, where appropriate, to the net carrying amount of the financial asset or liability.
+Interest income is included in finance income in the income statement.
+78 Softcat plc Annual Report and Accounts 2016 Financial statements 1 Accounting policies continued 1.6Costofsales The Company recognises cost of sales at the point in which it recognises revenue as explained above.
+Cost of sales predominantly relates to the cost of goods and services purchased from suppliers and then sold to customers.
+In addition to these costs, the following elements are also included within cost of sales: Rebates Included within cost of sales are rebates received from commercial partners.
+Further details are provided on rebates in 1.7, below.
+Managed service infrastructure costs The Company operates its own network operating centre which facilitates the selling of Softcat hosted managed services.
+The costs of maintaining this ability include, but are not limited to, the rental of space in data warehouses, energy and licensing costs.
+These costs represent the cost of sale of selling hosted managed service solutions and are included within cost of sales.
+Marketing costs and related credits The Company carries out numerous training programmes, activities and schemes that aim to educate its sale force and internally promote the products the business resells.
+These activities are often funded by the Companys partners.
+Both the cost of the programmes borne by the Company and the credits received, where applicable, are included within cost of sales.
+Settlement discounts Through the normal course of business, the Company receives credits from distributors and suppliers for the prompt settlement of invoices.
+Softcat recognises these discounts in cost of sales as they are recognised as a reduction in the cost of goods sold.
+1.7Rebates Rebates from suppliers are accounted for in the period in which they are earned and are based on commercial agreements with suppliers.
+Rebates earned are mainly sales volume related and are generally short term in nature, with rebate earned but not yet received typically relating to the preceding quarters trading.
+Rebate income is recognised in cost of sales in the Statement of Profit or Loss and Other Comprehensive Income and rebate earned but not yet received is included within accrued income in the Statement of Financial Position.
+1.8Property, plantandequipment Property, plant and equipment other than freehold land is stated at cost, net of accumulated depreciation and or impairment losses, if any.
+If the costs ofcertain components of an item of property, plant and equipment are significant in relation to the total cost of the item, they are accounted for and depreciated separately.
+Depreciation is provided at rates calculated to write off the cost of each asset over its expected useful life, as follows: Freehold buildings 50 years straight line Building improvements remaining period of lease ten years straight line Computer equipment threefive years straight line Fixtures, fittings and equipment six years straight line Motor vehicles three years straight line Land is not depreciated.
+An item of property, plant and equipment and any significant part initially recognised is derecognised upon disposal or when no future economic benefits are expected to arise from the continued use of the asset.
+Any gain or loss arising on the disposal or retirement of an item of property, plant and equipment is determined as the difference between the net disposal proceeds and the carrying amount of the asset and is recognised in the income statement when the asset is derecognised.
+Building improvements relate to expenditure on improving both leasehold property and the freehold property of Solar House in Marlow.
+Improvements to Solar House are depreciated over a ten-year period, which represents their useful life.
+Leasehold improvements are depreciated over their useful life which isthe lesser of the remaining length of the lease or ten years.
+The residual values, useful lives and methods of depreciation are reviewed for reasonableness at each financial year end and adjusted for prospectively if appropriate.
+Softcat plc Annual Report and Accounts 2016 79 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 1 Accounting policies continued 1.9Intangibleassets Intangible assets are measured on initial recognition at cost.
+Following initial recognition, intangible assets are carried at cost less accumulated amortisation and accumulated impairment losses, if any.
+Intangible assets with a finite useful life are assessed for impairment whenever there is an indication that the intangible asset may be impaired.
+Amortisation is provided for at rates calculated to write off the cost of each asset over its expected useful life, as follows: Computer software threefive years straight line The amortisation expense on intangible assets with finite lives is recognised in the income statement in the expense category consistent with the function of the intangible assets.
+The amortisation period and the amortisation method are reviewed at least at the end of each reporting period.
+Gains or losses arising from derecognition of an intangible asset are measured as the difference between the net disposal proceeds and the carrying amount of the asset and are recognised in the income statement when the asset is derecognised.
+1.10Leases Rentals payable under operating leases are charged against income on a straight-line basis over the lease term, even if payments are not made on such abasis.
+Onerous property leases are provided for in the Statement of Financial Position and represent the present value of the onerous element of an operating lease.
+This arises when the Company ceases to use premises and they are left vacant to the end of the lease.
+At inception of an arrangement, the Company determines whether such an arrangement is or contains a lease.
+At inception or on reassessment of the arrangement that contains a lease, the Company separates payments and other consideration required by such an arrangement into those for the lease and those for other elements on the basis of their relative fair values.
+1.11Inventories Inventories are valued at the lower of cost and net realisable value.
+Net realisable value is the estimated selling price in the ordinary course of business, lessestimated costs of completion and the estimated costs to sell.
+Inventories are predominantly goods in transit and items for which a customer purchase order has been received but the goods have yet to be delivered tothe customer.
+ Financialassets The Companys financial assets include cash and cash equivalents and trade other receivables.
+All financial assets are recognised when the Company becomes party to the contractual provisions of the instrument.
+i Trade receivables Trade receivables are recognised and carried at original invoice amount less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Company will not be able to collect all amounts due according to the original terms of receivables.
+The amount of the provision is determined as the difference between the assets carrying amount and the present value of estimated future cash flows, and is recognised in the income statement in administrative expenses.
+ii Cash and cash equivalents Cash and cash equivalents comprise cash at bank and in hand, call deposits and bank overdrafts.
+Financialliabilities Financial liabilities are classified according to the substance of the contractual arrangements entered into.
+The Companys financial liabilities comprise trade and other payables.
+All financial liabilities are recognised initially at their fair value and subsequently measured at amortised cost using the effective interest method.
+i Trade payables Trade payables are initially measured at fair value, and are subsequently measured at amortised cost, using the effective interest rate method.
+ Cash and cash equivalents comprise cash at bank and in hand, call deposits and bank overdrafts.
+80 Softcat plc Annual Report and Accounts 2016 Financial statements 1 Accounting policies continued 1.14Pensions The pension costs charged in the financial statements represent the contributions payable by the Company during the year on the defined contribution pension scheme.
+The assets of the scheme are held separately from those of the Company in an independently administered fund.
+The amounts charged to the income statement represent the contributions payable to the scheme in respect of the accounting period and represents the full extent of the Companys liability.
+1.15Deferredtaxation Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit, and is accounted for using the balance sheet liability method.
+Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+Such assets and liabilities are not recognised if the temporary difference arises from goodwill or from the initial recognition other than in a business combination of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised.
+Deferred tax is charged or credited in the income statement, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with inequity.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same taxation authority and the Company intends to settle its current tax assets and liabilities.
+1.16Currenttaxation Current income tax assets and liabilities are measured at the amount expected to be recovered from or paid to the taxation authorities.
+The tax rates and tax laws used to compute the amount are those that are enacted or substantively enacted at the reporting date in the countries where the Company operates and generates taxable income.
+Current income tax relating to items recognised directly in equity is recognised in equity and not in the Statement of Profit or Loss and Other Comprehensive Income.
+Management periodically evaluates positions taken in the tax returns with respect to situations in which applicable tax regulations are subject to interpretation and establishes provisions where appropriate.
+ Monetary assets and liabilities denominated in foreign currencies are translated into Pounds Sterling at the rates of exchange ruling at the balance sheet date.
+Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction.
+All differences are taken to the income statement.
+ During the year the Company operated the following equity-settled share option schemes: Company Share Option Plan CSOP The Company Share Option Plan provides share options for nominated employees.
+The purchase price is set at a mid-market price on the date of grant.
+TheCSOP operates both approved and unapproved schemes with vesting dependent on continued employment with the Company.
+Options typically vest between one and three years and lapse after ten years from the date of grant.
+The fair value of the CSOP options is estimated at the date of grant using the Black-Scholes model and is charged as an expense in the income statement over the vesting period with a corresponding increase in equity.
+Share Incentive Plan SIP The Company operates a Share Incentive Plan for employees who were awarded free shares following the initial public offering in November 2015.
+Shares were allocated to employees on the basis of length of service.
+Free shares awarded to an employee under the SIP are subject to a holding period ending not earlier than the third anniversary and not later than the fifth anniversary of the date on which beneficial interest in the relevant ordinary shares is conferred by the SIP Trustee to the employee.
+The fair value of the SIP shares is determined by the share price at date of grant, on 9 December 2015, and the number of shares expected to be transferred following the three-year vesting period.
+The assumption used for expected leavers within three years from the date of award has been calculated with reference to historical employee retention rates.
+The resulting fair value charge is charged as an expense in the income statement over the vesting period with a corresponding increase in equity.
+Softcat plc Annual Report and Accounts 2016 81 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 1 Accounting policies continued  continued Long Term Incentive Plan LTIP Details in relation to the Softcat Long Term Incentive Plan 2015 awards to Executive Directors are included in the Directors Remuneration Report on page 45.
+The awards will only vest and become exercisable upon achievement of performance targets, linked to earnings per share and total shareholder return, as well as being conditional upon continued employment with the Company.
+The fair value is measured using a suitable valuation model where appropriate.
+Non-market vesting conditions are taken into account by adjusting the number of LTIP shares expected to vest at each reporting date so that, ultimately, the cumulative amount recognised over the vesting period is based on the number of LTIP shares that will eventually vest.
+Market vesting conditions are factored into the fair value of the LTIP shares granted.
+The cumulative expense is not adjusted for failure to meet a market vesting condition.
+ The Company operates an Employee Benefit Trust and a SIP trust for the benefit of eligible employees.
+The Company recognises the assets and liabilities of these trusts asits own until such assets held vest unconditionally with identified beneficiaries.
+The Company meets all costs incurred by the trusts.
+1.19Companyaccounts Softcat plc is a single entity with no subsidiary undertakings.
+The Employee Benefit and SIP trusts, which hold shares on behalf of employees, are not consolidated within the results of Softcat plc and instead are treated as extensions of the Company.
+1.20Exceptionalitems Items that are material in size and unusual in nature are included within operating profit and disclosed separately in the income statement.
+The separate reporting of these items helps to provide a more accurate indication of the underlying business performance.
+2 Segmental information The information reported to the Companys Chief Executive Officer, who is considered to be the chief operating decision maker for the purposes of resource allocation and assessment of performance, is based wholly on the overall activities of the Company.
+The Company has therefore determined that it has only one reportable segment under IFRS 8, which is that of value-added IT reseller and IT infrastructure solutions provider.
+The Companys revenue and results and assets for this one reportable segment can be determined by reference to the Statement of Profit or Loss and Other Comprehensive Income and Statement of Financial Position.
+An analysis of revenues by product, which form one reportable segment, is set out below: 2016 2015 Revenue by type: 000 000 Software 319,978 287,469 Hardware 250,692 223,845 Services 101,681 84,770 672,351 596,084 The total revenue for the Company for the year has been derived from its principal activity as an IT reseller.
+Substantially all of this revenue relates to trading undertaken in the United Kingdom.
+82 Softcat plc Annual Report and Accounts 2016 Financial statements 3 Operating profit 2016 2015 Operating profit is stated after charging: 000 000 Depreciation of tangible assets 1,796 1,794 Amortisation of intangible assets 327 353 Operating lease rentals 520 501 Foreign exchange loss 262 234 Exceptional items 3,673 999 Inventories expensed in the year 228,215 204,941 Auditors remuneration Fees payable for the audit of the Companys annual accounts 150 45 Total for statutory audit services 150 45 Taxation advisory services 18 5 Other non-audit services 394 242 Total for non-audit services 412 247 Other non-audit services primarily represent professional fees related to the initial public offering.
+4 Exceptional items 2016 2015 000 000 IPO costs 3,673 999 All IPO costs incurred directly relate to the Companys listing on the London Stock Exchange in November 2015.
+5 Finance income 2016 2015 000 000 Bank interest 213 195 Interest income is accrued on a time basis by reference to the principal outstanding and at the effective interest rate applicable.
+Softcat plc Annual Report and Accounts 2016 83 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 6 Income tax The major components of the income tax expense for the years ended 31 July 2016 and 31 July 2015 are: 2016 2015 000 000 : Current income tax charge in the year 9,179 8,970 Adjustment in respect of current income tax in previous years 7 6 Total current income tax charge 9,172 8,964 Deferredtax Current year 153 274 Adjustment in respect of previous periods 97 34 Effect of changes in tax rates 17 4 Deferredtaxcharge 73 304 Total tax charge 9,245 8,660 Reconciliation of total tax charge Reconciliation of tax expense and accounting profit multiplied by the Companys domestic tax rate for 2016 and 2015: Profit on ordinary activities before taxation 42,403 39,777 Profit on ordinary activities before taxation multiplied by standard rate of UK corporation tax of 20.00% 2015: 20.67% 8,481 8,220 Effects of: Non-deductible expenses 851 313 Adjustment to previous periods 104 6 Stock option differences 158 Deferred tax prior year adjustment 34 Deferred tax rate changes 17 9 764 440 Income tax charge reported in the profit or loss 9,245 8,660 In the year ended 31 July 2016, 475,000 of current tax was credited to equity.
+Non-deductible expenses in the year predominantly relate to the legal and accountancy costs associated with the initial public offering.
+Changes affecting the future tax charge In the FY15 Summer Budget the Chancellor announced a further reduction to the corporation tax rate to 19% from 1 April 2017 and to 18% from 1 April 2020.
+These rates were substantively enacted at the balance sheet date.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period when the asset is realised or the liability settled, based on tax rates that have been enacted or substantively enacted at the balance sheet date and therefore these have been measured at 19%.
+84 Softcat plc Annual Report and Accounts 2016 Financial statements 7 Dividends 2016 2015 000 000 , : Ordinary dividend on ordinary shares 36,765 6,622 Ordinary dividend on MR shares 864 240 Ordinary dividend on A ordinary shares 2,469 449 40,098 7,311 , : Ordinary dividend on ordinary shares 3,355 43,453 7,311 Adjustment in respect of prior period 13 43,453 7,298 The dividends paid in the six months ended 31 January 2016 were paid prior to the reorganisation of share capital, see note 16, and therefore are shown as dividends split between the pre-reorganisation share classes.
+An interim dividend of 1.70p per share, amounting to a total dividend of 3.36m was paid on 29 April 2016 to those on the share register on 1 April 2016.
+The Board recommends a final dividend of 3.6p per ordinary share and a special dividend of 14.2p per ordinary share to be paid on 16 December 2016 to all ordinary shareholders who were on the register of members at the close of business on 18 November 2016.
+Shareholders will be asked to approve the final and special dividends at the AGM on 8 December 2016.
+Softcat plc Annual Report and Accounts 2016 85 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 9 Intangible assets Computer software 000 Cost At 1 August 2014 888 Additions 288 At 31 July 2015 1,176 Additions 536 At 31 July 2016 1,712 Amortisation At 1 August 2014 365 Charge for the year 353 At 31 July 2015 718 Charge for the year 327 At 31 July 2016 1,045 Net book value At 31 July 2016 667 At 31 July 2015 458 The amortisation of intangible assets is included in administrative expenses within the income statement.
+Intangible assets, consisting entirely of non-integral computer software assets, are amortised over their estimated useful lives of three to five years.
+10 Inventories 2016 2015 000 000 Finished goods and goods for resale 4,611 2,652 The amount of any write down of inventory recognised as an expense in the year was nil 2015: nil.
+11 Trade and other receivables 2016 2015 000 000 Trade and other receivables 123,833 112,943 Provision against receivables 1,265 1,008 Net trade receivables 122,568 111,935 Called up share capital not paid 1,783 Other debtors 59 49 Prepayments 4,764 3,785 Accrued income 5,396 4,400 132,787 121,952 Trade receivables do not carry interest.
+The average credit period on sale of goods is 44 days 2015: 46 days.
+86 Softcat plc Annual Report and Accounts 2016 Financial statements 11 Trade and other receivables continued The Directors consider that the carrying amount of trade and other receivables approximates to their fair value.
+The ageing profile of trade receivables was as follows: Related Related 2016 provision Net 2015 provision Net 000 000 000 000 000 000 Current 88,326 434 87,892 74,892 187 74,705 130 days 27,831 142 27,689 30,236 76 30,160 3160 days 5,175 68 5,107 4,046 38 4,008 6190 days 1,521 45 1,476 2,057 9 2,048 Over 90 days 980 576 404 1,712 698 1,014 Total due 123,833 1,265 122,568 112,943 1,008 111,935 The Company provides against its trade receivables where there are serious doubts and objective evidence as to future recoverability based on prior experience, on assessment ofthe current economic climate and on the length of time that the receivable has been overdue.
+Further details on how the Company manages its credit riskcan be found in note 20.
+Movement in the provision for trade receivables was as follows: 2016 2015 000 000 Balance at beginning of year 1,008 1,674 Increase for trade receivables regarded as potentially uncollectable 1,223 472 Decrease in provision for trade receivables recovered, or written off, during the year 966 1,138 Balance at end of year 1,265 1,008 See note 20 for details on how the Company approaches its exposure to credit risk.
+The Company does not hold collateral as security.
+12 Trade and other payables 2016 2015 000 000 Trade payables 67,759 71,213 Other taxes and social security 11,778 9,209 Accruals 24,000 23,361 Deferred income 11,990 4,270 115,527 108,053 The Directors consider that the carrying amount of trade and other payables approximates to their fair value.
+The average credit period taken for trade purchases is 30 days 2015: 35 days.
+Softcat plc Annual Report and Accounts 2016 87 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 13 Cash at bank and in hand 2016 2015 000 000 Cash at bank and in hand 62,361 74,642 Cash and cash equivalents comprise cash at bank and cash in hand.
+Cash at bank earns interest at floating rates based on daily bank deposit rates.
+All cash held is accessible and is not restricted for any period of time.
+14 Deferred tax The deferred tax asset is made up as follows: 2016 2015 000 000 Accelerated capital allowances 44 90 Share-based payments 214 625 Other timing differences 256 143 Net deferred tax assets 426 678 2016 2015 000 000 Reconciliation of deferred tax asset Balance at 31 July 2015 PY: 31 July 2014 678 535 Adjustment in respect of previous years 97 33 Profit and loss account 169 271 Charge to equity 180 161 Balance at 31 July 2016 PY: 31 July 2015 426 678 The Company recognises all deferred tax movements in the year within the income statement, except for 180,000 2015: 161,000 charged to equity in relation to deferred tax movements on share-based payments.
+The Company offsets tax assets and liabilities if and only if it has a legally enforceable right to set off current tax assets and current tax liabilities and the deferred tax assets and deferred tax liabilities relate to income taxes levied by the same tax authority.
+15 Pension and other post-retirement benefit commitments  The Company operates a defined contribution pension scheme.
+The pension cost charge represents contributions payable by the Company to the fund.
+At the year end pension contributions of 124,759 2015: 183,604 were outstanding.
+2016 2015 000 000 Contributions payable by the Company for the year 657 554 88 Softcat plc Annual Report and Accounts 2016 Financial statements 16 Share capital 2015 000 Authorised Pre-reorganisation Ordinary shares of 1p each 112 MR shares of 1p each 2 A ordinary shares of 1p each 6 120 Limits on authorised share capital were removed on re-registration as a public limited company.
+2016 2015 000 000 Allotted and called up Pre-reorganisation Ordinary shares of 1p each 90 MR shares of 1p each 2 A ordinary shares of 1p each 6 98 Post-reorganisation Ordinary shares of 0.05p each 99 1 Deferred shares of 0.01p each 99 Note 1.
+At 31 July 2016 deferred shares had an aggregate nominal value of 189.33.
+Share reorganisation On 12 November 2015, pursuant to special resolutions of the Company and conditional upon admission to the official list of the FCA which took place on 18November 2015, it was resolved that: 188,500 MR shares of 0.01 each be redesignated as ordinary shares of 0.01 each and their rights varied accordingly: 588,322 A ordinary shares of 0.01 each be redesignated as ordinary shares of 0.01 each and their rights varied accordingly: 18,933 A ordinary shares of 0.01 each be redesignated as deferred shares of 0.01 each: and each ordinary share of 0.01 be sub-divided into 20 ordinary shares of 0.0005 each.
+EmployeeBenefitTrust In the period from 1 August 2015 to 12 November 2015, 4,237,740 share options were exercised with 2,538,520 shares satisfied from existing shares held in the EBT.
+The value of shares exercised, and satisfied by the EBT, was 463,280.
+Share Incentive Plan Trust Following both the above reorganisation and initial public offering 629,883 free shares were issued to employees in a share issue for nil consideration.
+These shares are held in the SIP Trust until the performance conditions are met, which require the employee to remain an employee for a period of three years from issue.
+The SIP Trust also holds shares on behalf of employees who have chosen to participate in the voluntary partnership share purchase programme as part of the SIP.
+5,000 shares issued on 8 December 2014 under the Deferred Purchase Scheme and subsequently forfeited on 31 August 2015 were cancelled during the year.
+No issued ordinary shares of 0.0005p each were unpaid at 31 July 2016 2015: 5,060,000 unpaid.
+All ordinary shares rank pari passu in all respects.
+Softcat plc Annual Report and Accounts 2016 89 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 17 Earnings per share 2016 2015 Pence Pence Earnings per share Basic 16.9 16.3 Diluted 16.9 16.0 Adjusted earnings per share Basic 19.2 16.7 Diluted 19.1 16.5 The calculation of the basic and adjusted earnings per share and diluted earnings per share is based on the following data: 2016 2015 000 000 Earnings Earnings for the purposes of earnings per share being profit for the year 33,158 31,117 Adjusted earnings Profit for the year 33,158 31,117 Exceptional costs 3,673 999 Share-based payment charge 888 5 Tax effect of adjusting items 97 57 Earnings for the purposes of adjusted earnings per share 37,622 32,064 The weighted average number of shares is given below: 2016 2015 000 000 Number of shares used for basic earnings per share 196,040 191,540 Number of shares deemed to be issued at nil consideration following exercise of share options 696 3,228 Number of shares used for diluted earnings per share 196,736 194,768 Adjusted earnings per share represents basic earnings per share adjusted for the impact of non-recurring items and share-based payment expense.
+The Board uses this measure as it believes it is more representative of underlying performance.
+18 Notes to the Statement of Cash Flows  2016 2015 000 000 Operating profit 42,190 39,582 Depreciation of property, plant and equipment 1,796 1,794 Amortisation of intangibles 327 353 Gain loss on disposal of fixed assets 9 28 Cost of equity-settled employee share schemes 572 5  44,876 41,762 Increase decrease in inventory 1,961 1,830 Increase in debtors 12,608 22,425 Increase in creditors 7,474 33,563 Cash generated from operations 37,781 54,730 Income taxes paid 7,856 7,319 Net cash from operating activities 29,925 47,411 90 Softcat plc Annual Report and Accounts 2016 Financial statements 19 Financial commitments Operating leases At 31 July 2016, operating leases represent short-term leases for office space in Marlow, London, Manchester, Bristol, Leeds and Glasgow.
+Future minimum rentals payable under non-cancellable operating leases for office buildings are as follows: Office buildings 2016 2015 000 000 Operating lease payments due: Within one year 585 597 Between two and five years 868 1,282 In over five years 1,453 1,879 20 Financial instruments and financial risk management The Companys principal financial liabilities comprise trade and other payables.
+The primary purpose of these financial liabilities is to finance the Companys operations.
+The Company has trade and other receivables and cash that derive directly from its operations.
+Financialassets The financial assets of the Company were as follows: 2016 2015 000 000 Cash at bank and in hand 62,361 74,642 Trade and other receivables 132,787 121,952 195,148 196,594 The Directors consider that the carrying amount for all financial assets approximates to their fair value.
+Financialliabilities The financial liabilities of the Company were as follows: 2016 2015 000 000 Trade payables 67,759 71,213 Accruals 24,000 23,361 91,759 94,574 The Directors consider that the carrying amount for all financial liabilities approximates to their fair value.
+ The Company is exposed to interest rate risk, foreign currency risk, credit risk and liquidity risk.
+The Companys senior management oversees the management of these risks and ensures that the Companys financial risk taking is governed by appropriate policies and procedures and that financial risks are identified, measured and managed in accordance with Company policies and Company risk appetite.
+The Board of Directors reviews and agrees the policies for managing each of these risks, which are summarised below: Interest rate risk Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates.
+At the year end the Company has no borrowings and therefore the exposure to interest rate risk is limited to the rates received as interest income on cash deposits.
+The Company accepts the risk of losing interest on deposits due to interest rate reductions.
+Due to the limited exposure to interest rate risk no sensitivity analysis has been prepared.
+Foreigncurrencyrisk The Company is exposed to foreign currency risk when dealing with customers and suppliers who wish to be billed in a currency other than Pounds Sterling.
+As the vast majority of transactions are with UK customers and are denominated in Pounds Sterling, the Directors consider this foreign currency risk to be small and do not hedge this risk due to the limited exposure.
+The level of foreign currency transactions is monitored closely to ensure that the level of exposure is manageable.
+Due to the limited exposure to currency risk no sensitivity analysis has been prepared.
+Softcat plc Annual Report and Accounts 2016 91 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 20 Financial instruments and financial risk management continued  continued Credit risk Credit risk is the risk that a counterparty will not meet its obligations under a financial instrument or customer contract, leading to a financial loss.
+The Company isexposed to credit risk from its operating activities primarily for trade receivables and from its financing activities, including deposits with banks and financial institutions.
+Trade receivables Credit risk from trade receivables is managed in accordance with the Companys established policy, procedures and control relating to customer credit risk management.
+A customers credit quality is assessed based on an extensive credit rating scorecard and individual credit limits are defined in accordance with this assessment.
+Outstanding customer receivables are regularly monitored.
+At 31 July 2016, the Company had 871 accounts 2015: 853 that owed the Company more than 25,000 each.
+These accounts accounted for approximately 14% 2015: 14% of total customers and 82% 2015: 81% of the total value of amounts receivable.
+There were 250 customers 2015: 218 customers with balances greater than 100,000 accounting for just over 4% 2015: 4% of the total number of receivable accounts and 58% 2015: 54% of the total value of amounts receivable.
+The requirement for impairment is analysed at each reporting date.
+The calculation is based on actual incurred historical data.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of financial assets.
+The Company evaluates theconcentration of risk with respect to trade receivables as low as there is limited reliance on single, or a few, customers: instead, sales are typically small insize but large in volume as are the number of customers.
+This is illustrated by the fact that no more than 3% of receivables are due from any one customer at the year end.
+ Credit risk from cash balances with banks and financial institutions is managed in accordance with Company policy.
+The Company has significant cash reserves which are accessible immediately and without restriction.
+Credit risk with respect to cash deposits is managed by carefully selecting the institutions with which cash is deposited and spreading its deposits across more than one such institution to ease concentration risk.
+Liquidity risk The Company generates positive cash flows from operating activities and these fund short-term working capital requirements.
+The Company aims to maintain significant cash reserves and none of its cash reserves are subject to restrictions.
+Access to cash is not restricted and could all be drawn upon immediately ifso required.
+The Board carefully monitors the levels of cash deposits and is comfortable that for normal operating requirements, no external borrowings are currently required.
+The following table details the Companys remaining contractual maturity for its financial liabilities based on undiscounted contractual payments: Within 1 year 1 to 2 years 2 to 5 years Over 5 years Total 000 000 000 000 000 2016 Trade payables 67,759 67,759 Accruals 24,000 24,000 91,759 91,759 2015 Trade payables 71,213 71,213 Accruals 23,361 23,361 94,574 94,574 In both the current year and the prior year, materially all of the financial liabilities above have a contractual settlement date of between zero and three months.
+Capital risk management The Company manages its capital to ensure that it will be able to continue as a going concern while also maximising the operating potential of the business.
+The capital structure of the Company consists of equity attributable to equity holders of the Company, comprising issued capital, reserves and retained earnings as disclosed in the Company Statement of Changes in Equity.
+The Company is not subject to externally imposed capital requirements.
+21 Capital commitments At 31 July 2016 the Company had nil capital commitments 2015: nil.
+92 Softcat plc Annual Report and Accounts 2016 Financial statements 22 Directors remuneration 2016 2015 000 000 Remuneration for qualifying services 1,277 1,179 Company pension contributions to defined contribution schemes 6 42 1,283 1,221 During the year ended 31 July 2016 the Directors of the Company were awarded a total of 350,000 LTIP shares 2015: nil at an average exercise price of nil 2015: nil and 1,505 free shares 2015: nil at a market price of 3.00 2015: nil.
+No further share options were issued to Directors 2015: 200,000.
+Inthe year ended 31 July 2016 the Directors of the Company exercised 200,000 2015: 300,000 share options with an exercise price of 1.06 2015: 0.30 andforfeited 944,280 options 2015: nil with an exercise price of 1.06 2015: nil.
+The number of Directors for whom retirement benefits are accruing under defined contribution schemes amounted to one 2015: two.
+The number of Directors who are entitled to receive shares under long-term incentive schemes during the year was two 2015: three.
+Gains on share options exercised in the year were 268,200 2015: 44,250.
+Share based payment charges include 218,280 2015: 3,104 in respect of Directors.
+Remuneration disclosed above includes the following amounts paid to the highest paid Director: 2016 2015 000 000 Remuneration for qualifying services 559 324 Company pension contributions to defined contribution schemes 38 559 362 23 Employees Number of employees In the current year management has refined how employees are categorised, as shown below, to align to internal reporting.
+Prior year numbers have been restated accordingly.
+The average monthly number of employees including Directors during the year was: 2015 2016 Number Number as restated Sales 616 500 Services 114 97 Administration 143 125 873 722 Employment costs 2016 2015 000 000 Wages and salaries 26,906 21,289 Social security costs 6,467 5,200 Other pension costs 692 554 Share option charge 888 5 34,953 27,048 Softcat plc Annual Report and Accounts 2016 93 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 24 Share option schemes The Company operates a CSOP for nominated employees, and an LTIP for Executive Directors.
+The Company also operates a SIP for employees who received free shares in the year and for those that have decided to participate in the partnership shares programme.
+The Company recognised the following expenses related to equity-settled share-based payment transactions: 2016 2015 000 000 CSOP 79 5 LTIP 199 SIP free shares scheme 294 572 5 Employers National Insurance contributions payable on all schemes 316 888 5 All options vest at the end of the vesting period relating to that option or on the occurrence of a contingent event.
+This includes substantial sale or substantial business asset sale.
+If the options remain unexercised after a period of ten years from the date of grant, the options expire.
+Furthermore, the vesting of theseshare options is dependent on continued employment.
+Following the public listing of shares in the Company, share options become readily convertible assets for which the Company is liable for employers National Insurance contributions.
+The Company accrues for National Insurance contributions on a straight-line basis from the date of award to the vesting date.
+Company Share Option Plan CSOP The CSOP provides share options for nominated employees.
+Thisisan approved scheme and vesting is unconditional.
+Optionsare forfeited if the employee leaves the Company before the options vest.
+At 31 July 2016, share options outstanding under the CSOP were as follows: No.
+The fair value of the CSOP options granted was calculated using the Black-Scholes model, incorporating relevant assumptions for weighted average share price, weighted average exercise price, expected volatility, expected dividend yield, risk-free interest rate and share option term.
+The resultant fair value was then spread over the relevant performance period for each tranche of share options.
+The fair value of CSOP options granted in the year is measured by use of the Black-Scholes option pricing model using the following assumptions: 2016 CSOP Share price 1.06 Weighted average exercise price at grant date 1.05 Expected dividend yield 4.71% Risk-free interest rate 0.50% Expected volatility 40.00% Term 10 years During the year 500,000 2015: 200,000 CSOP options were granted.
+These shares had an exercise price of 1.05 at the date of grant, 25 August 2015, and a performance period of between one and two years.
+94 Softcat plc Annual Report and Accounts 2016 Financial statements 24 Share option schemes continued Company Share Option Plan CSOP continued The expected life used in the model has been adjusted, based on managements best estimate, for the effects of non-transferability, restrictions and behavioural considerations at the date of granting the options.
+Expected volatility was determined by calculating the historical volatility of the Companys share price over the term commensurate with the expected term immediately prior to the date of grant.
+Long Term Incentive Plan LTIP Details in relation to the Softcat Long Term Incentive Plan 2015 awards to Executive Directors are included in the Directors Remuneration report on page 45.
+The awards will vest in 2018 upon achievement of certain performance targets and are conditional upon continued employment.
+During the year 350,000 2015: nil share options related to LTIP schemes were issued to two Executive Directors at nil exercise price with a performance period of three years.
+The performance conditions on these awards include the Executive Directors continued employment at the date of vesting: and satisfaction of the performance conditions which are linked to earnings per share and total shareholder return over the vesting period.
+These shares have been valued atthe market price at date of grant and management is comfortable that the value established is not materially different from a more complex approach.
+Management assumes these LTIPs will vest in full with the charge to the income statement spread over the vesting period with a corresponding entry in equity.
+Share Incentive Plan SIP The Company operates a SIP for employees who were awarded free shares following the initial public offering in November 2015.
+Historical employee attrition rates have been used to calculate the expected number of shares expected to vest.
+The resulting income statement charge isspread over the three-year vesting period with a corresponding entry in equity.
+On 11 December 2015 629,883 2015: nil free shares were granted to employees.
+In addition, all employees are eligible to participate in a voluntary partnership share purchase programme as part of the SIP.
+All share-based payment arrangements The number and weighted average exercise price of share options for all share-based payment arrangements are as follows: No.
+of shares Weighted under options Weighted under options average as at average as at exercise price 31 July 2016 exercise price 31 July 2015 Outstanding at 1 August 5,094,340 10,486,400 Granted during the year 0.34 1,567,562 1.05 200,000 Forfeited during the year 1.01 994,979 0.11 87,680 Exercised during the year 0.23 4,237,740 0.19 5,504,380 Outstanding at 31 July 1,429,183 5,094,340 Exercisable at 31 July 3,750,060 The fair value of share options granted in the year was 2,441,725 2015: 18,600.
+This is split between CSOP options granted of 89,750 2015: 18,600, LTIPoptions of 980,000 2015: nil and free shares granted of 1,371,975 2015: nil.
+The weighted average remaining contractual life of share options at the year end was 6.43 years.
+Softcat plc Annual Report and Accounts 2016 95 Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED For the year ended 31 July 2016 25 Post balance sheet events Dividend The Board recommends a final dividend of 3.6p per ordinary share and a special dividend of 14.2p per ordinary share to be paid on 16 December 2016 to all ordinary shareholders who were on the register of members at the close of business on 18 November 2016.
+26 Related party relationships and transactions Transactions with key management personnel The remuneration of key management personnel, which consists of persons who have been deemed to be discharging managerial responsibilities, is set out below in aggregate for each of the categories specified in IAS 24 Related Party Disclosures.
+The definition of key management personnel has been refined inthe current year, following the IPO, and the prior year figures have been restated accordingly.
+2015 2016 as restated 000 000 Short-term employee benefits 1,656 1,179 Post-employment benefits 40 42 1,696 1,221 During the year ended 31 July 2016, key management personnel received a total of nil 2015: 5,000 deferred purchase shares and were awarded a total of350,000 share options 2015: 200,000 at a weighted average exercise price of nil 2015: 21.18.
+All share options issued to key management personnel inthe year were in the form of LTIP awards.
+No LTIP awards were awarded in previous years.
+The amounts disclosed in the table are the amounts recognised as an expense during the reporting period related to key management personnel.
+Share-based payment charges include 220,989 2015: 3,104 in respect of key management personnel.
+DividendstoDirectors 2016 2015 000 000 P D J Kelly 22,170 3,899 M J Hellawell 5,119 886 C Brown 426 74 B Wallace 190 11 27,905 4,870 96 Softcat plc Annual Report and Accounts 2016 COMPANY INFORMATION AND CONTACT DETAILS Company number Corporate Advisers 02174990 Auditor Ernst and Young LLP Registeredoffice 1 More London Softcat plc, Solar House, Fieldhouse Lane, Marlow, London , UnitedKingdom SE1 2AF Tel: 01628 403 403 Joint corporate broker Jefferies International Website 68 Upper Thames Street www.
+com London EC4V 3BJ Directors Credit Suisse International Brian Wallace Chairman 17 Columbus Courtyard Martin Hellawell CEO London Graham Charlton CFO E14 4DA Lee Ginsberg SID Legal advisers Peter Ventress Independent NED Vin Murria Independent NED Ashurst LLP Broadwalk House Company secretary 5 Appold Street London Capita Company Secretarial Services Limited EC2A 2HA 40 Dukes Place London EC3A 7NH Investor relations contact investors@softcat.
+com Registrar Capita Asset Services The Registry, 34 Beckenham Road, Beckenham, Kent BR3 4TU, United Kingdom shareholderenquiries@capita.
+co. uk Tel: 0371 664 0300 Calls cost 12p per minute plus your phone companys access charge.
+Calls outside the United Kingdom will be charged at the applicable international rate.
+Lines are open between 09:00 17:30, Monday to Friday excluding public holidays in England and Wales.
+Printed by Park Communications on FSC certified paper.
+Park is an EMAS certified company and its Environmental Management System is certified to ISO 14001.
+100% of the inks used are vegetable oil based, 95% of press chemicals are recycled for further use and, on average 99% of any waste associated with this production will be recycled.
+Design Port olio is committed to planting This document is printed on Cocoon Silk 100: process chlorine free PCF paper trees or every corporate communications containing 100% recycled fibre approved by the FSC.
+project, in association with Trees or Cities.
+Softcat plc Annual Report and Accounts 2016 Softcat plc Fieldhouse Lane Marlow Buckinghamshire SL7 1LW Tel: 01628 403 403 www.
+com Softcat plc Annual Report and Accounts 2016

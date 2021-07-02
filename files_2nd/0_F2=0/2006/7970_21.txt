@@ -1,0 +1,126 @@
+46 Inchcape plc Annual report and accounts 2006 Accounting policies The Financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as endorsed by the European Union and with those parts of the Companies Act 1985, applicable to companies reporting under IFRS.
+Accounting convention The Financial statements have been prepared on the historical cost basis, except for the retention of some freehold properties and leasehold buildings at previously revalued amounts which were treated as deemed cost on transition to IFRS and the measurement of certain balances at fair value as disclosed in the accounting policies below.
+Changes in accounting standards The International Accounting Standards Board will not require the application of new IFRSs under development or major amendments to existing standards before 1 January 2009, although the Group may elect to early adopt particular standards before this date.
+A number of new standards, amendments and interpretations including IAS 21 Amendment The Effects of Changes in Foreign Exchange Rates, IAS 39 Amendment Cash Flow Hedge Accounting of Forecast Intra-group Transactions and IFRIC 4 Determining whether an Arrangement Contains a Lease were effective from 1 January 2006, but have had no material impact on the results or the financial position of the Group.
+At the balance sheet date a number of IFRSs and IFRIC interpretations were in issue but not yet effective.
+These include IFRS 7 Financial Instruments: Disclosures, IFRS 8 Operating Segments and the Amendment to IAS 1 Presentation of Financial Statements Capital Disclosures, which are anticipated to have some impact on the presentation of information, but not on the results or financial position of the Group.
+These standards will be fully considered in due course.
+Basis of consolidation The consolidated Financial statements comprise the Financial statements of the parent Company Inchcape plc and all of its subsidiary undertakings defined as where the Group has control, together with the Groups share of the results of its joint ventures defined as where the Group has joint control and associates defined as where the Group has significant influence but not control.
+The results of subsidiaries, joint ventures and associates are consolidated as of the same reporting date as the parent Company, using consistent accounting policies.
+The results of subsidiaries are consolidated using the purchase method of accounting from the date on which control of the net assets and operations of the acquired company are effectively transferred to the Group.
+Similarly, the results of subsidiaries disposed of cease to be consolidated from the date on which control of the net assets and operations are transferred out of the Group.
+Investments in joint ventures and associates are accounted for using the equity method, whereby the Groups share of the post-acquisition profits or losses are recognised in the income statement, and its share of post-acquisition movements in shareholders equity are recognised in shareholders equity.
+If the Groups share of losses in a joint venture or associate equals or exceeds its investment in the joint venture or associate, the Group does not recognise further losses, unless it has incurred obligations or made payments on behalf of the joint venture or associate.
+Foreign currency translation Items included in the results of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated Financial statements are presented in sterling, which is Inchcape plcs functional and presentational currency.
+In the individual entities, transactions in foreign currencies are translated into the functional currency at the rates of exchange prevailing at the dates of the individual transactions.
+Monetary assets and liabilities denominated in foreign currencies are subsequently retranslated at the rate of exchange ruling at the balance sheet date.
+All differences are taken to the income statement, except those arising on long term foreign currency borrowings used to finance or hedge foreign currency investments which on consolidation are taken directly to shareholders equity.
+The assets and liabilities of foreign operations are translated into sterling at the rate of exchange ruling at the balance sheet date.
+The income statements of foreign operations are translated into sterling at the average for the period of the month end rates of exchange.
+Exchange differences arising from 1 January 2004 are recognised as a separate component of shareholders equity.
+On disposal of a foreign operation any cumulative exchange differences held in shareholders equity are transferred to the consolidated income statement.
+47 Inchcape plc Annual report and accounts 2006 Derivative financial instruments An outline of the objectives, policies and strategies pursued by the Group in relation to its financial instruments is set out in the Risk factors section of the Operating and financial review.
+The Group uses derivative financial instruments such as foreign currency contracts to hedge its risks associated with foreign currency fluctuations.
+Such derivative financial instruments are measured at fair value.
+The gains or losses on remeasurement are taken to the income statement except where the derivative is designated as a cash flow hedge.
+The fair value of a derivative financial instrument represents the difference between the value of the outstanding contracts at their contracted rates and a valuation calculated using the forward rates of exchange prevailing at the balance sheet date.
+For cash flow hedges that meet the conditions for hedge accounting, the portion of the gains or losses on the hedging instrument that are determined to be an effective hedge are recognised directly in shareholders equity and the ineffective portion is recognised in the income statement.
+When the hedged firm commitment results in the recognition of a non-financial asset or liability then, at the time the asset or liability is recognised, the associated gains or losses that had previously been recognised in shareholders equity are included in the initial measurement of the acquisition cost or other carrying amount of the asset or liability.
+For all other cash flow hedges, the gains or losses that are recognised in shareholders equity are transferred to the income statement in the same period in which the hedged firm commitment affects the income statement.
+Hedge accounting is discontinued when the hedging instrument expires, is sold, terminated, exercised or no longer qualifies for hedge accounting.
+At that point in time any cumulative gains or losses on the hedging instrument which have been recognised in shareholders equity are kept in shareholders equity until the forecast transaction occurs.
+If a hedged transaction is no longer expected to occur, the cumulative gains or losses that have been recognised in shareholders equity are transferred to the income statement for the period.
+For derivatives that do not qualify for hedge accounting, any gains or losses arising from changes in fair value are taken directly to the income statement.
+Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and impairment losses.
+Cost comprises the purchase price and directly attributable costs of the asset.
+Depreciation is based on cost less estimated residual value and is provided, except for freehold land which is not depreciated, on a straight line basis over the estimated useful life of the asset.
+For the following categories, the annual rates used are: Freehold buildings and long leasehold buildings 2.0% Short leasehold buildings shorter of lease term or useful life Plant, machinery and equipment 5.0% 33.3% Vehicles subject to residual value commitments over the lease term The assets residual values and useful lives are reviewed at least at each balance sheet date.
+Goodwill Goodwill represents the excess of the cost of acquisition of a business combination over the Groups share of the fair value of identifiable net assets of the business acquired at the date of acquisition.
+After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
+At the date of acquisition the goodwill is allocated to cash generating units for the purpose of impairment testing and is tested at least annually for impairment.
+Gains and losses on disposal of a business include the carrying amount of goodwill relating to the business sold in determining the gain or loss on disposal, except for goodwill arising on business combinations on or before 31 December 1997 which has been deducted from shareholders equity and remains indefinitely in shareholders equity.
+Other intangible assets Intangible assets, when acquired separately from a business including computer software, are carried at cost less accumulated amortisation and impairment losses.
+Amortisation is provided on a straight line basis to allocate the cost of the asset over its estimated useful life, which in the case of computer software is three to five years.
+Intangible assets acquired as part of a business combination including back orders and customer contracts are capitalised separately from goodwill if the fair value can be measured reliably on initial recognition.
+These intangible assets are amortised over their estimated useful life, which is generally less than a year.
+48 Inchcape plc Annual report and accounts 2006 Accounting policies continued Impairment Assets that are subject to amortisation or depreciation are reviewed for impairment whenever events or circumstances indicate that the carrying amount may not be recoverable.
+In addition, goodwill is tested at least annually for impairment.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount, the latter being the higher of the assets fair value less costs to sell and value in use.
+Value in use calculations are performed using cash flow projections, discounted at a pre-tax rate which reflects the asset specific risks and the time value of money.
+Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost comprises expenditure incurred in bringing inventories to their present location and condition.
+Net realisable value represents the estimated selling price less all estimated costs of completion and costs to be incurred in marketing, selling and distribution.
+Used vehicles are carried at the lower of cost or fair value less costs to sell, generally based on external market data available for used vehicles.
+Vehicles held on consignment which are deemed in substance to be assets of the Group are included within inventories with the corresponding liability included within trade and other payables.
+Stock holding costs are charged to finance costs.
+Investments The Groups investments are classified as available for sale or held to maturity where management has a positive intention and ability to hold the asset to maturity.
+Gains and losses on available for sale financial assets are recognised in shareholders equity, until the investment is sold or is considered to be impaired, at which time the cumulative gain or loss previously reported in shareholders equity is included in the income statement as part of net operating expenses.
+Held to maturity financial assets are carried at amortised cost.
+Pensions and other post-retirement benefits The Group operates a number of retirement benefit schemes.
+The major schemes are defined benefit pension funds with assets held separately from the Group.
+The cost of providing benefits under the plans is determined separately for each plan using the projected unit credit actuarial valuation method.
+The current service cost and gains and losses on settlements and curtailments are included in cost of sales or operating expenses in the consolidated income statement.
+Past service costs are similarly included where the benefits have vested otherwise they are amortised on a straight line basis over the vesting period.
+The expected return on assets of funded defined benefit pension plans and the imputed interest on pension plan liabilities comprise the post-retirement benefit element of finance costs and finance income in the income statement.
+Differences between the actual and expected return on assets, changes in the retirement benefit obligation due to experience and changes in actuarial assumptions are included in the statement of recognised income and expense in full in the period in which they arise.
+The Groups contributions to defined contribution plans are charged to the income statement in the period to which the contributions relate.
+The Group also has a liability in respect of past employees under post-retirement healthcare schemes which have been closed to new entrants.
+These schemes are accounted for on a similar basis to that for defined benefit pension plans in accordance with the advice of independent qualified actuaries.
+Share-based payments The Group operates various share-based award schemes.
+The fair value at the date at which the share-based awards are granted is recognised in the income statement together with a corresponding increase in shareholders equity on a straight line basis over the vesting period, based on an estimate of the number of shares that will eventually vest.
+For equity settled share-based awards, the services received from employees are measured by reference to the fair value of the awards granted.
+No expense is recognised for awards that do not ultimately vest, except for awards where vesting is conditional upon a market condition.
+49 Inchcape plc Annual report and accounts 2006 Leases Finance leases, which transfer to the Group substantially all the risks and rewards of ownership of the leased item, are capitalised at the inception of the lease at the fair value of the leased asset or, if lower, at the present value of the minimum lease payments.
+Lease payments are apportioned between the finance charges and reduction of the lease liability so as to achieve a constant rate of interest on the remaining balance of the liability.
+Finance charges are charged to the income statement.
+Capitalised leased assets are depreciated over the shorter of the estimated useful life of the asset or the lease term.
+Leases where the Group retains substantially all the risks and rewards of ownership of the asset are classified as operating leases.
+Operating lease rental payments are recognised as an expense in the income statement on a straight line basis over the lease term.
+Revenue and cost of sales Revenue from the sale of goods and services sold is measured at the fair value of consideration receivable, net of rebates and any discounts.
+It excludes sales related taxes and intra-Group transactions.
+Revenue is recognised to the extent that it is probable that economic benefits will flow to the Group and the revenue can be reliably measured.
+In practice this means that revenue is recognised when vehicles or parts are invoiced and physically dispatched or when the service has been undertaken.
+Profits arising on the sale of vehicles to a leasing company, sourced from within the Group, for which a Group company retains a residual value commitment to the leasing company, are recognised over the period of the lease.
+These vehicles are retained on the balance sheet within property, plant and equipment on the basis that the significant risks and rewards of ownership have not been transferred to the purchaser.
+The vehicles are written down to their residual value over the term of the lease with the corresponding deferred income included in trade and other payables and released to the income statement over the same period.
+Dividend income is recognised when the right to receive payment is established.
+Cost of sales includes the expense relating to the estimated cost of self-insured warranties offered to customers.
+These warranties form part of the package of goods and services provided to the customer when purchasing a vehicle and are not a separable product.
+Income tax The charge for current income tax is based on the results for the period as adjusted for items which are not taxed or disallowed.
+It is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred income tax is accounted for using the liability method in respect of temporary differences arising from differences between the tax bases of assets and liabilities and their carrying amounts in the Financial statements.
+In principle, deferred tax liabilities are recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+Such assets and liabilities are not recognised if the temporary difference is due to goodwill arising on a business combination, or to an asset or liability, the initial recognition of which does not affect either taxable or accounting income.
+Deferred tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries, joint ventures and associates, except where the Group is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred tax is calculated at the tax rates that are expected to apply to the period when the asset is realised or the liability is settled.
+Deferred tax is charged or credited in the income statement, except when it relates to items credited or charged directly to shareholders equity, in which case the deferred tax is also dealt with in shareholders equity.
+Deferred tax assets and liabilities are only offset where there is a legally enforceable right of offset and there is an intention to settle balances net.
+50 Inchcape plc Annual report and accounts 2006 Accounting policies continued Cash and cash equivalents Cash and cash equivalents in the balance sheet comprises cash at bank and in hand and short term bank deposits.
+In the consolidated cash flow statement, cash and cash equivalents comprises cash and cash equivalents, as defined above, net of bank overdrafts.
+Offsetting Balance sheet netting only occurs to the extent that there is the legal ability and intention to settle net.
+As such, bank overdrafts are presented in current liabilities to the extent that there is no intention to offset with the cash balance.
+Assets held for sale Non-current assets are classified as assets held for sale and stated at the lower of their carrying amount and fair value less costs to sell if their carrying amount is to be recovered principally through a sale transaction rather than through continuing use.
+Provisions Provisions are recognised when the Group has a present obligation in respect of a past event, it is more likely than not that an outflow of resources will be required to settle the obligation and where the amount can be reliably estimated.
+Provisions are discounted when the time value of money is considered to be material.
+Exceptional items Items which are both material and non-recurring are presented as exceptional items within their relevant consolidated income statement category.
+The separate reporting of exceptional items helps provide a better indication of the Groups underlying business performance.
+Examples of events which may give rise to the classification of items as exceptional include gains or losses on the disposal of businesses, restructuring of businesses, litigation, asset impairments and exceptional tax related matters.
+Share capital Ordinary shares are classified as equity.
+Where the Group purchases the Groups equity share capital treasury shares, the consideration paid is deducted from shareholders equity until the shares are cancelled, reissued or disposed of.
+Where such shares are subsequently sold or reissued, any consideration received is included in shareholders equity.
+Dividends Final dividends proposed by the Board of Directors and unpaid at the year end are not recognised in the Financial statements until they have been approved by the shareholders at the Annual General Meeting.
+Interim dividends are recognised when they are paid.
+Significant accounting judgements and estimates Judgements In the process of applying the Groups accounting policies, the Directors have made the following judgements, apart from those involving estimations, which have the most significant effect on the amounts recognised in the Financial statements.
+i Revenue recognition on vehicles subject to residual value commitments Where the Group sells vehicles, sourced from within the Group, and retains a residual value commitment, the sale is not recognised on the basis that the Group has determined that it retains the significant risks and rewards of ownership of these vehicles.
+ii Consignment stock Vehicles held on consignment have been included in finished goods inventories on the basis that the Group has determined that it holds the significant risks and rewards attached to these vehicles.
+51 Inchcape plc Annual report and accounts 2006 Significant accounting judgements and estimates continued Estimates The key assumptions concerning the future and other sources of estimation uncertainty at the balance sheet date, that have a significant risk of causing material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below: i Product warranty provision The product warranty provision requires an estimation of the number of expected warranty claims, and the expected cost of labour and parts necessary to satisfy these warranty claims.
+ii Pensions and other post-retirement benefits The net retirement benefit liability is calculated based on a number of actuarial assumptions as detailed in note 5.
+A number of these assumptions involve a considerable degree of estimation, including the rate of inflation and expected mortality rates.
+iii Tax The Group is subject to income taxes in a number of jurisdictions.
+Some degree of estimation is required in determining the worldwide provision for income taxes.
+There are a number of transactions and calculations for which the ultimate tax determination is uncertain during the ordinary course of business.
+The Group recognises liabilities for anticipated tax audit issues based on estimates of whether additional taxes will be due.
+Where the final tax outcome of these matters is different from the amounts that were initially recorded, such differences will impact the current tax and deferred tax provisions in the period in which such determination is made.
+In addition, the recognition of deferred tax assets is dependent upon an estimation of future taxable profits that will be available against which deductible temporary differences can be utilised.
+In the event that actual taxable profits are different, such differences may impact the carrying value of such deferred tax assets in future periods.

@@ -1,0 +1,36 @@
+OUR GROUP OUR PERFORMANCE OUR APPROACH GOVERNANCE FINANCIAL STATEMENTS OTHER INFORMATION GROUP FINANCIAL STATEMENTS ANNUAL REPORT AND ACCOUNTS 2011 151 NOTES TO THE FINANCIAL STATEMENTS CONTINUED Expenses The Group monitors its expense experience and carries out detailed investigations regularly to determine the expenses incurred in writing and administering the different products and classes of business.
+Adjustments may be made for known future changes in the administration processes, in line with the Groups business plan.
+An allowance for expense ination in the future is also made, taking account of both salary and price information.
+Participating business For its participating business, the Group seeks to establish its liabilities at their realistic value in line with the requirements set out in FRS 27.
+Non-economic assumptions are set to represent the Groups best estimates of future experience.
+Economic assumptions The FSAs realistic reporting regime requires a market consistent economic model.
+The model is calibrated using market data from a variety of market sources.
+This enables assumptions to be determined for the term structure of risk free interest rates, property and equity volatility.
+Risk free interest rates are determined with reference to the gilt yield curve on the valuation date increased by ten basis points.
+Property volatility is set with reference to historic variations in property prices.
+Equity volatility is set so that the model reproduces observed market prices of traded equity derivatives.
+Correlations between asset classes are based on historic data.
+Each investment scenario contains a consistent set of assumptions for investment returns and ination.
+Future bonuses Future reversionary and terminal bonuses are consistent with the bonus policies set out in Societys Principles and Practices of Financial Management PPFM.
+Value of in-force non-participating contracts The Group makes a deduction from the liabilities for the expected value of future profits arising on non-participating contracts written in the with-profits part of the Society LTF.
+The economic assumptions used to calculate the value of these profits are consistent with those used to calculate liabilities for with-profits business, with the addition of a liquidity premium in respect of assets backing non-participating annuity business.
+Non-economic assumptions represent best estimates of expected future experience on this business.
+An explicit allowance is made for non-market risk.
+Guaranteed annuity options The guarantees are valued on a market consistent basis.
+The valuation methodology allows for the correlation between interest rates and the proportion of the policyholders who take up the option.
+Guaranteed cash options The liability is determined assuming that policyholders choose the most valuable alternative between the annuity and cash available at retirement.
+152 ANNUAL REPORT AND ACCOUNTS 2011 GROUP FINANCIAL STATEMENTS NOTES TO THE FINANCIAL STATEMENTS CONTINUED 34 LONG TERM INSURANCE VALUATION ASSUMPTIONS CONTINUED The table below sets out the current valuation assumptions used to establish the long term liabilities for Society, Legal & General Pensions Limited LGPL and Legal & General Assurance Pensions Management Limited.
+2011 2010 Rate of interest discount rates Non-participating business 1 1 Life assurances 2.25% pa and 6.60% pa 2.25% pa and 7.60% pa 1 1 Pension assurances 2.25% pa and 6.60% pa 2.50% 3.50% pa and 7.60% pa Annuities in deferment 4.601% pa 4.975% pa Annuities in deferment RPI-linked: net rate after allowance for ination 0.86% pa 1.040% pa Vested annuities 1.75% 4.601% pa 2% 4.975% pa Vested annuities RPI-linked: net rate after allowance for ination -0.40% 0.86% pa 0.40% 1.040% pa Participating business Risk free rate 10 years 2.23% pa 3.78% pa Future bonuses Determined stochastically in line with Determined stochastically in line with bonus policy as stated in PPFM bonus policy as stated in PPFM UK equity volatility 10 year option term 27.2% 26.2% Property volatility 15.0% 15.0% Mortality tables Non-participating business Non-linked individual term assurances: Smokers 78% TMS00 TFS00 Sel 5 116% TMS00 TFS00 Sel 5 Non-smokers 90% TMN00 TFN00 Sel 5 136% TMN00 TFN00 Sel 5 Smoker status unknown 83% TM00 TF00 Sel 5 103% TM00 TF00 Sel 5 Non-linked individual term assurances with terminal illness 2 2 Smokers 90% 112% TMS00 TFS00 Sel 5 96% TMS00 TFS00 Sel 5 2 2 Non-smokers 85% 115% TMN00 TFN00 Sel 5 93% TMN00 TFN00 Sel 5 Non-linked individual term assurances with critical illness 3 3 Smokers 91% 101% CIBT93M F Ult Comb 99% CIBT93M F Ult Comb 3 3 Non-smokers 57% 67% CIBT93M F Ult Comb 68% CIBT93M F Ult Comb Other non-linked non profit life assurances 100% of A67 70 ultimate tables 100% of A67 70 ultimate tables 4 4 Annuities in deferment 82.5% 89.4% PNMA00 PNFA00 88% 92% PNMA00 PNFA00 5 Vested annuities Bulk purchase annuities 84.3% 90.4% PCMA00 PCFA00 89% 93% PCMA00 PCFA00 Other annuities 62.2% 115.4% PCMA00 PCFA00 55% 86% PCMA00 PCFA00 1.
+For product groups where liabilities are positive, the lower interest rate of 2.25% is used.
+However, for product groups where liabilities are negative, the higher rate of 6.60% isused.
+For 2011, the percentage of the table varies with the duration that the policy has been in-force for the first five years.
+In 2010, a xed percentage of the table was used for all years.
+For 2011 the percentage of the table varies with the duration that the policy has been in-force for the first two years.
+In 2010 a xed percentage of the table was used for all years.
+For term assurance with critical illness, morbidity rates are assumed to deteriorate at a rate of 0.5% p. a. for males and 0.75% p. a. for females 2010: 0.50% p. a. for males and 0.75% p. a. for females.
+There is an additive loading of 1% 2010: 1% for guaranteed term contracts post policy duration 5.
+Table created by blending PCXA00 with PNXA00 tables.
+The base table to be used for BPA policies in deferment is PNMA00 up to and including age 55 and PCMA00 for age 65 and above for males.
+The identical method is applied to females using PNFA00 and PCFA00.
+For vested annuities, mortality rates are assumed to reduce according to CMIBs mortality improvement model: CMI 2009 with the following parameters: Males: Long Term Rate of 2% p. a.
+For certain annuities, a further allowance is made for the effect of initial selection.

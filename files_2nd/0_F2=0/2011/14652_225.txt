@@ -1,0 +1,63 @@
+spirent communications plc annual report 2011 Glossary 2G Second Generation Second generation remains the most common type of wireless cellular communication in use globally.
+Although its primary focus has been voice service and short message service SMS, it has also been enhanced to allow low rate data communication.
+3G Third Generation Third generation of mobile communications that promises data rates of hundreds of kilobits per second to tens of megabits per second.
+4G Fourth Generation Fourth generation of mobile communications that promises data rates of tens to hundreds of megabits per second.
+Future 4G technologies promise data rates in excess of one gigabit per second.
+Backhaul The portion of a network that comprises the intermediate links between the core network, or backbone, and the sub-networks at the edge of the entire hierarchical network.
+Broadband Generic term for bit rates greater than approximately 1.5 to 2 megabits per second.
+CDMA Code Division Multiple Access A digital cellular technology standard which allows numerous signals to occupy a single transmission channel, thus increasing network capacity: used in 2G and 3G radio communications.
+Cloud Computing The delivery of computing as a service rather than a product, whereby shared resources, software, and information are provided to computers and other devices as a metered service over a network typically the internet.
+Compass also known as BeiDou 2 Chinas second generation global satellite navigation system, which is under construction but eventually planned to consist of 35 satellites.
+Service was launched in China during 2011, with plans to extend it to the Asia Pacific region by 2012 and to provide service globally by 2020.
+Content Delivery The delivery of media content such as audio, video, software and video games over online delivery mediums, such as broadcasting or the internet.
+Core Router A router that is part of the backbone, forwarding packets to computer hosts within a network but not between networks.
+Customer Edge A router at the customers premises that provides an Ethernet interface between the customers local area network and one or more provider edge routers in the providers core network.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+DOCSIS 3.0 Data Over Cable Service The most recent release of a communications standard that adds high speed data transfer to an Interface Specification 3.0 existing cable TV system, employed by cable operators to provide internet access over existing hybrid fibre-coaxial infrastructure.
+A European variant has also been released, named EuroDOCSIS.
+DSL Digital Subscriber Line Technology that uses existing telephone copper lines to transport higher bandwidth data such as multimedia and video to service subscribers.
+Ethernet A family of networking technologies originally developed for local area networks, which migrated to metro area networks and eventually became the dominant standard in wireline networks worldwide.
+Galileo A global navigation satellite system being built by the European Union and European Space Agency that will offer users anywhere in the world metre-class geographic positioning when it becomes operational between 2014 and 2019.
+128 spirent communications plc annual report 2011 Gateway An internetworking system capable of joining together two networks that use different base protocols.
+GbE Gigabit Ethernet A transmission technology based on the Ethernet frame format and protocol used in local area networks that provides a data rate of 1 billion bits per second one gigabit and which is used as the backbone in many enterprise networks.
+GLONASS Global Navigation Satellite A global navigation satellite system operated by the Russian Federation.
+Deployment began in 1976 System and, although the system fell into disrepair in the 1990s, full global service was restored in 2011.
+GNSS Global Navigation Satellite The standard generic term for satellite navigation systems that provide autonomous geo-spatial Systems positioning with global coverage.
+GNSS allows users receivers to determine their location to within a few metres by employing a triangulation technique that uses information from multiple satellites.
+GPS Global Positioning System A global navigation satellite system operated by the United States government for determining a users location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+IaaS Infrastructure as a Service Cloud infrastructure services that deliver computer infrastructure typically a platform virtualization environment as a service, along with raw storage and networking.
+Clients buy servers, software, data center space or network equipment as a fully outsourced service rather than purchasing them outright.
+IP Internet Protocol A network protocol used on the internet and other network devices to facilitate and control the flow of data.
+Each computer known as a host has at least one IP address that uniquely identifies it from all other computers.
+IPSec Internet Protocol Security A collection of protocols designed to secure IP communications.
+IPSec supports encryption and authentication and is most commonly used in so-called tunnel mode with a Virtual Private Network VPN.
+However, IPSec also supports a transport mode for direct connection between two computers.
+IRNSS Indian Regional Navigational An autonomous regional satellite navigation system being developed by the Indian government to Satellite System reduce dependence on GPS.
+The full constellation of seven satellites three geo-stationary and four geo-synchronous is planned to be operational by 2015.
+ITO Infrastructure Test Optimization The practices required to ensure that infrastructures meet a defined quality of service and quality of experience necessary to meet strategic business objectives.
+Primary practice areas are: emulation and analysis, automation, quality management, development testing and lifecycle virtualization.
+LAN Local Area Network A short distance data communications network used to link computers and peripheral devices, such as printers or modems.
+Ethernet is by far the most commonly used LAN technology.
+LBS Location Based Services The delivery of location specific information, mapping, business and public data over a wireless network.
+These services require the ability to locate a users mobile device by means of direct satellite or cellular assisted satellite signals.
+LTE Long Term Evolution An advanced wireless data communications technology standard sometimes called 4G which is an evolution of 3G UMTS standards.
+In addition to a new wireless interface specification, LTE uses a simplified flat IP-based network architecture.
+129 spirent communications plc annual report 2011 Glossary continued M2M Machine-to-Machine Technologies that allow automatic communications between wireless and wired devices without human intervention.
+M2M typically uses a device to capture an event, which is relayed through a network to an application that translates the captured event into meaningful information.
+MIMO Multiple-Input Multiple-Output A wireless technology that employs multiple radio antennas on both the transmitter and receiver to improve the data transmission speeds and capacity of wireless networks.
+MSO Multiple System Operator A company that owns more than one cable system, often in different locations.
+Most commonly used to refer only to companies that own a large number of cable systems.
+Observed Time Difference of Arrival A method used to determine the position of a mobile device by performing timing measurements on the signals received at the device from two or more cellular base stations.
+OTA Over-the-Air Any kind of event, transfer, or transaction that takes place wirelessly using the cellular network, as opposed to using a cable or other local connection.
+Testing of mobile device performance is commonly carried out using OTA techniques that take into account antenna design and implementation.
+RF Radio Frequency A technology used for wireless broadcasting and or communications that uses radio waves within the range over which they may be transmitted, from about 3 kilohertz to about 300,000 megahertz.
+SaaS Software as a Service Cloud application services that deliver software as a service over the internet, eliminating the need to install and run the application on the customers own computers and simplifying maintenance and support.
+Simultaneous Voice and LTE A technique for providing voice service over a CDMA network and data service over an LTE network simultaneously, using two radios in a mobile device.
+Triple Play Voice, video and data transmitted over a single transport medium.
+UMTS Universal Mobile The most common 3G wireless technology globally, which uses WCDMA on its underlying air Telecommunications System interface and offers support for data transfer rates from hundreds of kilobits per second to tens of megabits per second.
+Virtualization Technologies designed to provide a layer of abstraction from the physical characteristics of computing resources to simplify the way in which other systems, applications, or end users interact with those resources.
+WCDMA Wideband CDMA An International Telecommunication Union standard derived from CDMA which is used globally in 3G mobile communications.
+Wi-Fi A mechanism that enables devices such as personal computers, video game consoles, smartphones or digital audio players to exchange data wirelessly over a computer network and connect to network resources, such as the internet.
+Coverage ranges from a few rooms to several square miles, depending on the number of access points used.
+130 spirent communications plc annual report 2011 Notes 131 spirent communications plc annual report 2011 Notes 132

@@ -1,0 +1,56 @@
+CSR in review Strategic report Governance Financial statements Other information our platform positions Our aim is to develop higher margin platforms in markets that we expect will outgrow the overall semiconductor market.
+We expect our total serviceable addressable market SAM to grow from approximately $3.1 billion in 2013 to $5.9 billion in 2018 excluding revenue from the yet to be commercially introduced market of Indoor Location, representing a compound annual growth rate of 13.5%.
+TM The adoption of integrated information and entertainment SiRFstarlV GSD4e WLCSP is a complete navigation systems in vehicles continues to grow, whether it is GPS to processor built on a low-power RF CMOS single-die, guide the journey, video and music systems for passengers incorporating the baseband, integrated navigation entertainment, or diagnostic systems which are used to solution, software, ARM7 processor, and RF functions.
+TM maintain and repair the vehicles we drive.
+SiRFprimall is the latest member of the CSR family Automotive of location SoCs with integrated GNSS, designed to We work with many of the worlds leading automotive Infotainment bring the rich location, connectivity and multimedia manufacturers, providing integrated solutions that combine experience of a tablet computer to mainstream our existing strengths in audio and location.
+Enterprise workforces are becoming increasingly mobile and The Quatro 5300 system processor is a powerful, highly reliant on smartphones and tablets.
+Mobile workers want integrated single-chip controller solution that manufacturers to take attachments and other documents that are too can use to develop a wide range of cost effective, complex to read on a small screen and conveniently print differentiated printer products.
+Our DirectOffice software them on a nearby printer.
+We call this walk-up printing.
+CSR enables printers to produce high-fidelity output from Word, enables this with a complete printer controller platform that PowerPoint, Excel and PDF documents when printed from a Imaging includes the system processor, wireless connectivity and mobile device, so there is no need to go back to your PC to document imaging software.
+get the high-fidelity output you expect.
+TM TM This market has experienced significant growth, driven We recently launched our VibeHub and VibePlayer by the demand from consumers to carry their music in networked solutions.
+VibeHub delivers powerful versatility digital form on their smartphone, tablet, or other mobile for sourcing audio from home networked PCs, Bluetooth digital music players and stream their music to stereo enabled devices, and even cloud-based sources, routing headsets, soundbars or speaker docks.
+audio throughout the home to one or many speakers.
+Voice & Music VibePlayer complements this as a simple playout device.
+We expect further growth in this area such as home entertainment systems enabled by our high-quality Our platform solutions for soundbars, home theatre audio connectivity solutions.
+systems and other devices incorporate our family of TM MAPX multimedia applications processors, in addition to our CSR86xx series of Bluetooth streaming products.
+Bluetooth Smart is an evolution of the Bluetooth CSRs Bluetooth Smart platforms combine software standard which uses significantly lower power levels and hardware elements for a wide range of applications.
+It enables wireless We are engaged with a number of customers in various connectivity between a broad range of devices industries who are considering the use of this including the latest smartphones, TVs and tablets.
+technology from health and fitness, to remote Bluetooth controls for voice and gesture operations, to the We have seen increased interest in the area of Bluetooth Smart automotive industry.
+Smart, with a growing pipeline of design wins.
+This has been driven, in part, by the use of a Bluetooth Smart Ready smartphone, or tablet, as a gateway to the cloud, also known as Internet of Things.
+TM TM Building on the success of GPS for location and SiRFstarV and SiRFusion platforms represent a new navigation, there is a growing interest among consumers approach to location and navigation, supplementing and business for similar capabilities within heavily built traditional GPS location signals with other information up areas, in places like shopping malls and even in such as other satellite systems, multiple radio systems, subways and train stations.
+and various sensors, like accelerometers, gyros Indoor and compasses.
+Location The system enables touchless deployment and is not dependent on any new infrastructure installation.
+We are currently engaged in multiple customer trials in handset and asset tracking markets.
+indb 11 11 03 2014 21:17 Chief Executives review continued underlying operating profit increased to $104.3 million from surface.
+Combining CSRs low-power wireless technology with $74.0 million in 2012, reflecting the increase in both underlying the latest in printable, flexible electronics and touch screen gross margin, and our focus on reducing our cost base.
+The sensing from our partners, the device can be used to extend the IFRS operating loss for the year was $48.4 million, compared touch interface of tablets and smartphones.
+with a profit of $107.9 million in 2012, reflecting the exceptional The paper-thin surface is wirelessly connected using the gain from the Samsung transaction and the negative impact due TM CSR1010 chip, part of the CSR Energy range, which is to the costs of the Cameras-based impairment.
+optimised solely for Bluetooth Smart.
+This reference design Our underlying operating costs for the year were in line with our has attracted the attention of consumers and leading forecast at $399.1 million and were lower than our 2012 costs of keyboard manufacturers.
+This reflected a full twelve month impact of the In December 2013, we announced the listing of our first lower headcount following the transfer in October 2012 of Bluetooth 4.1 qualified solutions for our Bluetooth dual mode 311 people to Samsung, in addition to our ongoing focus on cost and Bluetooth single mode devices.
+Following the decision to discontinue investment in our introduced in December 2013 by the Bluetooth Special Interest COACH platform, we currently expect our underlying operating Group SIG is set to greatly improve the flexibility of classic costs to be between $345 million to $365 million for 2014.
+Bluetooth and Bluetooth Smart communications.
+It will allow Diluted underlying earnings per share increased to $0.46 from developers to design ever more secure and functional wearables $0.27 in 2012.
+Our IFRS diluted loss per share was $0.28, versus and wireless sensors, which can communicate with one another a diluted underlying profit per share of $0.25 in 2012.
+Our 2012 as well as with multiple Bluetooth hubs at the same time.
+IFRS earnings to a large extent benefited from the exceptional Looking ahead 2014 and beyond gain arising from the Samsung transaction, while our 2013 IFRS Our products are used in a wide variety of consumer devices earnings per share were negatively impacted by the costs of the and, as a result, we are heavily exposed to consumer sentiment.
+Camera-related impairment and other restructuring costs.
+The macro-economic environment has a significant impact on We expect Core gross margins for 2014 to be within our consumer sentiment, and 2013 was a year where we saw previously stated range of 55% 60%.
+We continue to focus on continued caution as a result of economic uncertainty and a shift reaching our target of mid-teens underlying operating margin in consumer tastes for electronic devices, such as the drop in during 2014. demand for point-and-shoot cameras.
+In 2013 we saw growth in some of the worlds economies and challenges in others.
+Capital allocation The global outlook for 2014 remains uncertain.
+We take a disciplined approach to capital allocation, investing in higher margin platforms and markets where we see the best For 2014 and beyond, we believe that we have a good prospects for profitable revenue growth.
+opportunity to continue to grow our Core business.
+In Auto, we are experiencing strong design win momentum for automotive We continue to retain a strong and healthy cash balance with factory-fit infotainment platforms SoC.
+We continue to see good cash, cash equivalents, treasury deposits and investments of underlying growth in Voice & Music, after taking account of the $306.2 million, at the end of the year.
+This gives us the necessary non-recurring growth in China in the first half of 2013.
+We expect flexibility when assessing whether we can acquire additional the declining revenue from our Legacy business to more than technological capabilities.
+Our two most recent transactions, both offset growth in Core, which leads us to moderate our revenue of which were completed in 2012, were the purchase of DDFA, an expectations for 2014 when compared to revenue in 2013. end-to-end digital audio processing amplifier technology, and the Map-X audio product line from Trident, which delivers HD audio Given the depth of our platform portfolio and the expertise of our decoding and internet streaming for next-generation home audio.
+people, I am confident that we can exploit the growth which we Both have enhanced our capabilities within our Voice & Music believe is available in our chosen markets.
+products that we are supplying to our customers.
+Technical innovation We continue to develop and deepen our range of technical capabilities.
+During 2013, we and our partners Atmel and Conductive Inkjet Technology developed a reference design for Joep van Beurden the worlds thinnest wireless touch interface.
+The flexible device, Chief Executive Officer which is less than 0.5mm thick, turns any area into a touch 12 CSR plc Annual Report and Financial Statements 2013 z 655547 CSR BOOK.

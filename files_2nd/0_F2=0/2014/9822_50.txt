@@ -1,0 +1,78 @@
+Notes continued For the 52 weeks ended 4 October 2014 20 Financial instruments Financial instruments by category The accounting policies for financial instruments have been applied to the line items below: Assets at fair value through profit or Loans and loss receivables Total At 4 October 2014 m m m Assets as per the balance sheet Derivative financial instruments Trade receivables before provision 33.4 33.4 Other receivables before provision 19.3 19.3 Trade loans before provision 13.2 13.2 Cash and cash equivalents 173.3 173.3 239.2 239.2 Liabilities at fair value Derivatives through Other used for profit or financial hedging loss liabilities Total At 4 October 2014 m m m m Liabilities as per the balance sheet Derivative financial instruments 120.7 19.5 140.2 Borrowings 1,371.5 1,371.5 Trade payables 67.4 67.4 Other payables 15.7 15.7 120.7 19.5 1,454.6 1,594.8 Assets at fair value through profit or Loans and loss receivables Total At 5 October 2013 m m m Assets as per the balance sheet Derivative financial instruments 6.8 6.8 Trade receivables before provision 29.3 29.3 Other receivables before provision 19.0 19.0 Trade loans before provision 14.3 14.3 Cash and cash equivalents 94.1 94.1 6.8 156.7 163.5 Liabilities at fair value Derivatives through Other used for profit or financial hedging loss liabilities Total At 5 October 2013 m m m m Liabilities as per the balance sheet Derivative financial instruments 134.6 6.8 141.4 Borrowings 1,285.1 1,285.1 Trade payables 71.0 71.0 Other payables 25.0 25.0 134.6 6.8 1,381.1 1,522.5 76 Marston's PLC Annual Report and Accounts 2014 20 Financial instruments continued Fair values of financial instruments The only financial instruments which the Group holds at fair value are derivative financial instruments, which are classified as at fair value through profit or loss or derivatives used for hedging.
+IFRS 13 requires fair value measurements to be recognised using a fair value hierarchy that reflects the significance of the inputs used in the measurements, according to the following levels: Level 1 unadjusted quoted prices in active markets for identical assets or liabilities.
+Level 2 inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+Level 3 inputs for the asset or liability that are not based on observable market data.
+The table below shows the level in the fair value hierarchy into which fair value measurements have been categorised: 2014 2013 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total Assets as per the balance sheet m m m m m m m m Derivative financial instruments 6.8 6.8 2014 2013 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total Liabilities as per the balance sheet m m m m m m m m Derivative financial instruments 140.2 140.2 141.4 141.4 There were no transfers between Levels 1, 2 and 3 fair value measurements during the current or prior period.
+The Level 2 fair values of derivative financial instruments have been obtained using a market approach and reflect the estimated amount the Group would expect to pay or receive on termination of the instruments.
+The Group obtains such valuations from counterparties who use a variety of assumptions based on market conditions existing at each balance sheet date.
+The fair values of all non-derivative financial instruments are equal to their book values, with the exception of borrowings note 17.
+The carrying value less impairment provision of trade receivables, other receivables and trade loans, and the carrying value of trade payables and other payables, are assumed to approximate their fair values.
+Offsetting financial assets and financial liabilities The following financial assets are subject to offsetting: Gross Net amount of amount of Gross recognised financial amount of financial assets recognised liabilities set presented in financial off in the the balance asset balance sheet sheet At 4 October 2014 m m m Cash and cash equivalents 180.9 7.6 173.3 Gross Net amount of amount of Gross recognised financial amount of financial assets recognised liabilities set presented in financial off in the the balance asset balance sheet sheet At 5 October 2013 m m m Cash and cash equivalents 109.7 15.6 94.1 The Group has a netting arrangement in respect of certain of its bank accounts held with the same counterparty.
+This arrangement allows for the net settlement of the balances on these bank accounts.
+Marston's PLC Annual Report and Accounts 2014 77 Notes continued For the 52 weeks ended 4 October 2014 20 Financial instruments continued Financial risk factors The Groups activities expose it to a variety of financial risks: market risk including interest rate risk and foreign currency risk, counterparty risk, credit risk and liquidity risk.
+The Groups overall risk management programme focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the Groups financial performance.
+The Group uses derivative financial instruments to hedge certain risk exposures.
+Risk management is carried out by a central treasury department Group Treasury under policies approved by the Board.
+Group Treasury identifies, evaluates and hedges financial risks.
+The Board provides principles for overall risk management, as well as policies covering specific areas, such as interest rate risk, credit risk, investment of excess liquidity and use of derivative and non-derivative financial instruments.
+Interest rate risk: The Groups income and operating cash flows are substantially independent of changes in market interest rates, and as such the Groups interest rate risk arises from its long-term borrowings.
+Borrowings issued at variable rates expose the Group to cash flow interest rate risk.
+Borrowings issued at fixed rates expose the Group to fair value interest rate risk.
+The Group analyses its interest rate exposure on a dynamic basis.
+Various scenarios are simulated taking into consideration refinancing, renewal of existing positions, alternative financing and hedging.
+Based on these scenarios, the Group calculates the impact on the income statement of a defined interest rate shift.
+The scenarios are run only for liabilities that represent the major interest-bearing positions.
+The Group manages its cash flow interest rate risk by using floating-to-fixed interest rate swaps.
+Such interest rate swaps have the economic effect of converting borrowings from floating rates to fixed rates.
+Generally, the Group raises long-term borrowings at floating rates and swaps them into fixed rates that are lower than those available if the Group borrowed at fixed rates directly.
+Under the interest rate swaps, the Group agrees with other parties to exchange, at specified intervals, the difference between fixed contract rates and floating rate interest amounts calculated by reference to the agreed notional amounts.
+If interest rates had been 0.5% higher lower during the period ended 4 October 2014, with all other variables held constant, post-tax loss profit for the period would have been 0.4 million 2013: 0.3 million lower higher as a result of higher lower interest expense.
+Interest rate swaps designated as part of a hedging arrangement The Group uses interest rate swaps to fix the interest rate payable on the floating rate tranches of its securitised debt note 19.
+The notional principal amounts of these interest rate swap contracts at 4 October 2014 totalled 322.6 million 2013: 426.6 million.
+These interest rate swaps, including borrowing margins, fix interest at 6.2% and 6.8%.
+The movement in fair value recognised in other comprehensive income in the period was a loss of 22.1 million 2013: gain of 44.0 million.
+The movement in fair value recognised in the income statement in the period was a loss of 4.5 million 2013: nil.
+During the current period the Group repurchased all of its securitised AB1 notes at par.
+The notes were immediately cancelled and the associated floating-tofixed interest rate swap held in respect of this tranche of securitised debt was terminated.
+At the prior period end this swap was designated as a cash flow hedge of the forecast floating rate interest payments arising in respect of the AB1 notes.
+As these forecast transactions are no longer expected to occur the cumulative hedging loss of 24.7 million that had been reported in equity has been transferred to the income statement.
+Interest rate swaps not designated as part of a hedging arrangement On 1 October 2007 the Group entered into two interest rate swaps of 70.0 million each to fix the interest rate payable on the Groups unsecured bank borrowings.
+These interest rate swaps fixed interest at 5.5% and 5.6% and terminated on 1 October 2014.
+The movement in fair value recognised in the income statement in the period was a gain of 6.8 million 2013: 6.9 million.
+On 22 March 2012 the Group entered into four new fixed-to-floating interest rate swaps of 35.0 million each.
+In total, these swaps were equal and opposite to the above two floating-to-fixed interest rate swaps of 70.0 million each.
+The total fair value of the four new swaps at inception was 15.1 million.
+The movement in fair value recognised in the income statement in the period was a loss of 6.8 million 2013: 6.9 million.
+On the same date the Group entered into two forward starting interest rate swaps of 60.0 million each to fix the interest rate payable on the Groups unsecured bank borrowings.
+These interest rate swaps originally fixed interest at 4.1% and were due to terminate on 30 April 2020.
+In the current period the termination date of the swaps was extended to 28 April 2023 and the terms were amended to fix interest at 3.0% until 28 April 2016 and 4.5% thereafter.
+In total, the fair value of the two swaps at inception was 18.9 million.
+At 5 October 2013 these swaps were designated as part of a hedging relationship: however this designation was revoked at the start of the current period.
+The movement in fair value recognised in other comprehensive income in the period was a gain of nil 2013: 5.6 million.
+The movement in fair value recognised in the income statement in the period was a loss of 3.7 million 2013: gain of 3.1 million.
+On 20 May 2009 the Group entered into a forward starting interest rate swap of 20.0 million.
+This interest rate swap commenced on 9 August 2010, fixed interest at 3.3% and terminated on 8 August 2013.
+The movement in fair value recognised in the income statement in the period was a gain of nil 2013: 0.4 million.
+78 Marston's PLC Annual Report and Accounts 2014 20 Financial instruments continued The interest rate risk profile, after taking account of derivative financial instruments, is as follows: 2014 2013 Floating Fixed Floating Fixed rate rate rate rate financial financial financial financial liabilities liabilities Total liabilities liabilities Total m m m m m m Borrowings 260.9 1,131.7 1,392.6 186.5 1,115.7 1,302.2 The weighted average interest rate of the fixed rate financial borrowings was 5.4% 2013: 5.8% and the weighted average period for which the rate is fixed was 15 years 2013: 16 years.
+Foreign currency risk: The Group buys and sells goods denominated in non-sterling currencies, principally US dollars and euros.
+As a result, movements in exchange rates can affect the value of the Groups income and expenditure.
+The Groups exposure in this area is not considered to be significant.
+Counterparty risk: The Groups counterparty risk in respect of its cash and cash equivalents is mitigated by the use of various banking institutions for its deposits.
+There is no significant concentration of counterparty risk in respect of the Groups pension assets, as these are held with a range of institutions.
+Credit risk: Credit risk is managed on a Group basis.
+Credit risk arises from credit exposure to customers, including outstanding receivables and committed transactions.
+If customers are independently rated, these ratings are used.
+Otherwise, if there is no independent rating, an assessment is made of the credit quality of the customer, taking into account its financial position, past experience and other factors.
+Individual credit limits are set based on internal or external ratings in accordance with limits set by the Board.
+The utilisation of and adherence to credit limits is regularly monitored.
+A provision for impairment of trade receivables, other receivables and trade loans has been estimated by management and is based on prior experience and known factors at the balance sheet date after taking into account collateral held in the form of cash deposits and fixtures and fittings.
+Receivables are written off against the provision for impairment when management considers that the debt is no longer recoverable.
+The Group has no significant concentration of credit risk in respect of its customers.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivable.
+Liquidity risk: The Group applies a prudent liquidity risk management policy, which involves maintaining sufficient cash, ensuring the availability of funding through an adequate amount of committed credit facilities and having the ability to close out market positions.
+Due to the dynamic nature of the underlying business, Group Treasury maintains the availability of committed credit lines to ensure that the Group has flexibility in funding.
+Management monitors rolling forecasts of the Groups liquidity reserve comprising undrawn borrowing facilities and cash and cash equivalents on the basis of expected cash flow.
+In addition, the Groups liquidity management policy involves maintaining debt financing plans, projecting cash flows and considering the level of liquid assets necessary to meet these, and monitoring balance sheet liquidity ratios against internal and external regulatory requirements.
+The Groups borrowing covenants are subject to regular review.
+The table below analyses the Groups financial liabilities and non-settled derivative financial instruments into relevant maturity groupings based on the remaining period at the balance sheet date to the contractual maturity date.
+The amounts disclosed in the table are the contractual undiscounted cash flows.

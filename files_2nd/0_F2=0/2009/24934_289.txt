@@ -1,0 +1,25 @@
+HSBC HOLDINGS PLC Notes on the Financial Statements continued Note 2 ii Held-to-maturity investments are non-derivative financial assets with fixed or determinable payments and fixed maturities that HSBC positively intends, and is able, to hold to maturity.
+Held-to-maturity investments are initially recorded at fair value plus any directly attributable transaction costs, and are subsequently measured at amortised cost using the effective interest rate method, less any impairment losses.
+k Sale and repurchase agreements including stock lending and borrowing When securities are sold subject to a commitment to repurchase them at a predetermined price repos, they remain on the balance sheet and a liability is recorded in respect of the consideration received.
+Securities purchased under commitments to sell reverse repos are not recognised on the balance sheet and the consideration paid is recorded in Loans and advances to banks or Loans and advances to customers as appropriate.
+The difference between the sale and repurchase price is treated as interest and recognised over the life of the agreement.
+Securities lending and borrowing transactions are generally secured, with collateral taking the form of securities or cash advanced or received.
+The transfer of securities to counterparties under these agreements is not normally reflected on the balance sheet.
+Cash collateral advanced or received is recorded as an asset or a liability respectively.
+Securities borrowed are not recognised on the balance sheet.
+If they are sold on to third parties, an obligation to return the securities is recorded as a trading liability and measured at fair value, and any gains or losses are included in Net trading income.
+l Derivatives and hedge accounting Derivatives are recognised initially, and are subsequently remeasured, at fair value.
+Fair values of exchangetraded derivatives are obtained from quoted market prices.
+Fair values of over-the-counter derivatives are obtained using valuation techniques, including discounted cash flow models and option pricing models.
+Derivatives may be embedded in other financial instruments, for example, a convertible bond with an embedded conversion option.
+Embedded derivatives are treated as separate derivatives when their economic characteristics and risks are not clearly and closely related to those of the host contract: the terms of the embedded derivative would meet the definition of a stand-alone derivative if they were contained in a separate contract: and the combined contract is not held for trading or designated at fair value.
+These embedded derivatives are measured at fair value with changes therein recognised in the income statement.
+Derivatives are classified as assets when their fair value is positive, or as liabilities when their fair value is negative.
+Derivative assets and liabilities arising from different transactions are only offset if the transactions are with the same counterparty, a legal right of offset exists, and the parties intend to settle the cash flows on a net basis.
+The method of recognising fair value gains and losses depends on whether derivatives are held for trading or are designated as hedging instruments, and if the latter, the nature of the risks being hedged.
+All gains and losses from changes in the fair value of derivatives held for trading are recognised in the income statement.
+When derivatives are designated as hedges, HSBC classifies them as either: i hedges of the change in fair value of recognised assets or liabilities or firm commitments fair value hedges : ii hedges of the variability in highly probable future cash flows attributable to a recognised asset or liability, or a forecast transaction cash flow hedges : or iii a hedge of a net investment in a foreign operation net investment hedges.
+Hedge accounting is applied to derivatives designated as hedging instruments in a fair value, cash flow or net investment hedge provided certain criteria are met.
+Hedge accounting At the inception of a hedging relationship, HSBC documents the relationship between the hedging instruments and the hedged items, its risk management objective and its strategy for undertaking the hedge.
+HSBC also requires a documented assessment, both at hedge inception and on an ongoing basis, of whether or not the hedging instruments, primarily derivatives, that are used in hedging transactions are highly effective in offsetting the changes attributable to the hedged risks in the fair values or cash flows of the hedged items.
+Interest on designated qualifying hedges is included in Net interest income.

@@ -1,0 +1,37 @@
+16 Telecity Group plc Annual report and accounts 2014 Our market Defining the carrier-neutral The data centre data centre industry In addition to providing space and facilities for customer IT infrastructure, carrier-neutral data centres provide organisations with direct connections to the widest choice of networks, mobile operators, Internet Service Providers ISPs, The core fundamentals of the data centre industry Internet Exchanges, Content Distribution Networks CDNs, Data centres provide secure operational environments for other network service providers and Cloud Service Providers organisations IT and telecoms equipment.
+CSPs, enabling them to build their own communication networks to deliver the optimum end user experiences.
+The data centre industry is diverse.
+At their simplest level, data centres are buildings that have within them electrical and The richness of connectivity in our data centres creates the mechanical infrastructure that creates an environment in ideal environment in which our network-hungry customer which computing and telecommunications equipment can ecosystems can flourish.
+As such, they provide resilient power Network service providers effectively form internet or supplies and cooling to this equipment.
+connectivity hubs in our data centres.
+Such hubs are ideal Different groups of operators run data centres.
+Telecoms locations for organisations that need access to a variety of companies often operate data centres to support their networks connectivity services.
+The connectivity providers install their and service offerings: property-focused companies operate network routers in the data centre, enabling customers to data centres to service the wholesale IT outsourcing needs connect to their services quickly and easily without the need of large organisations: and IT services companies operate them for costly private networks outside of the data centre.
+to supply services to their customers.
+Increasingly, cloud service Depending on business needs, customers choose to use multiple providers use highly connected data centres to locate the carriers to build in redundancy and ensure resilience, or simply IT infrastructure which enables businesses to access their services.
+to secure the appropriate network performance required for their These are often called edge nodes.
+applications at the best price.
+As our customers business needs TelecityGroup runs carrier-neutral data centres.
+grow they are able to switch from one provider to another, or add additional networks within the data centre with minimal disruption.
+Our customers demand flexibility and control when choosing their IT service providers.
+At TelecityGroup our carrier-neutrality means we do not have predetermined affiliations with any specific network operators, vendors or service providers.
+In fact these companies are our customers.
+The wide range of network services available in TelecityGroup data centres can meet the most extensive and diverse of connectivity needs, whether its specific requirements such as geographical coverage, segment-specific or fixed and mobile services.
+Data centre floor Network operations centre Overview Strategy and performance Governance review Financial statements Investor information Telecity Group plc Annual report and accounts 2014 17 TelecityGroups role The importance of connectivity, in the industry internet exchanges and peering TelecityGroup operates data centre facilities in strategic An internet exchange point IXP is a physical combination internet hub cities across Europe.
+The presence of multiple of network switches and routers: a public junction point for national and international communications services operators carriers telecoms networks service providers and ISPs to in our data centres provides a wide range of connectivity exchange internet traffic.
+Networks and other organisations options for customers.
+connect to the IXP infrastructure directly from their own hardware within the data centre.
+Our data centres are places in which separate networks that make up the internet meet and where bandwidth-intensive At these exchange points, IXP customers or members applications, content and information and cloud services are mostly communication service providers accept traffic from hosted.
+As such, they are important network hubs, or enabling each other and agree to carry one anothers data across their environments, of the digital economy.
+There are typically just one or two major IXPs in each city market, with the largest of those in Carrier-neutral data centres in Europe continue to experience Europe being the Amsterdam Internet Exchange AMS-IX, strong growth in demand.
+This growth is driven by organisations, the London Internet Exchange LINX, the German Internet such as providers of internet content and cloud services, Exchange fide-CIX and the Swedish Internet Exchange which look for data centre capacity to support the services Netnod.
+TelecityGroup hosts these and other major IXPs they offer to their end users.
+Our acquisition of PLIX in 2013 brought with it one of the fastest growing internet exchanges in Europe.
+We continue to operate PLIX IXP as a standalone independent entity, while the expertise that came with that acquisition is utilised across the Group.
+Network service providers also have private peering agreements Data centre ecosystems between each other which enable direct network-to-network voice and data traffic exchange.
+Connecting into an IXP or using a physical data centre cross-connect and peering TelecityGroups internet hubs enable the formation of various directly with another operator enables organisations to reduce ecosystems within our data centres, often formed around their overall communications costs, while improving network groups of sector-specific companies.
+Ecosystems evolve due performance and therefore quality of customer experience.
+to organisations seeking to be colocated within the same facility in order to connect and transact with other community In summary, the networks that make up the internet can be members and customers.
+Over time, physical links or seen as a combination of the public networks exchanging cross-connects multiply creating interconnected hubs of information at the IXPs, and private peering between network commercial, digital relationships between TelecityGroup providers, most of which happens within data centres.
+customers and across the TelecityGroup estate.
+A patching panel where customers interconnect their networks Providing customer support

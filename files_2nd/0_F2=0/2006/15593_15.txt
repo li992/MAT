@@ -1,0 +1,799 @@
+Tesco PLC Parent company Balance sheet 25 February 2006 2006 2005 restated notes m m Fixed assets Investments in subsidiaries and Joint ventures 5 7,382 9,805 Current assets Derivative financial instruments 10 70 Debtors 6 4,857 2,702 Current asset investments 7 90 150 5,017 2,852 Creditors amounts falling due within one year Borrowings 9 1,008 329 Derivative financial instruments 10 239 Other creditors 8 1,397 2,391 2,644 2,720 Net current assets 2,373 132 Total assets less current liabilities 9,755 9,937 Creditors amounts falling due after more than one year Borrowings 9 3,560 4,037 Derivative financial instruments 10 48 3,608 4,037 Net assets 6,147 5,900 Capital and reserves Called up share capital 13 395 389 Share premium account 14 3,988 3,704 Profit and loss reserve 14 1,764 1,807 Total equity 6,147 5,900 Accounting policies and notes forming part of these financial statements are on pages 105 to 112.
+Terry Leahy Andrew Higginson Directors The parent Company financial statements were approved by the Board on 24 April 2006 104 Tesco plc Notes to the Parent company financial statements Note 1 Accounting policies Basis of preparation of financial statements The fair value of employee share option plans is calculated at These financial statements have been prepared under UK the grant date using the Black-Scholes model.
+In accordance GAAP using the historical cost convention modified for the with FRS 20 the resulting cost is charged to the Profit and loss revaluation of certain financial instruments and in accordance account over the vesting period.
+The value of the charge is with applicable accounting standards and the Companies adjusted to reflect expected and actual levels of vesting.
+Where a subsidiary awards options over the shares of the A summary of the Companys significant accounting policies Company, this is treated as a capital contribution.
+Financial instruments Exemptions Financial assets and financial liabilities are recognised on the The Directors have taken advantage of the exemption Companys Balance Sheet when the Company becomes a party available under section 230 of the Companies Act 1985 and to the contractual provisions of the instrument.
+not presented a Profit and loss account for the Company alone.
+Debtors The Company has also taken advantage of the exemption from Debtors are not interest-bearing and are stated at their preparing a Cash flow statement under the terms of FRS 1 nominal value, reduced by appropriate allowances for Cash flow statements.
+The cash flows of the Company are estimated irrecoverable amounts.
+included in the Tesco PLC Group financial statements.
+Current asset investments The Company is also exempt under the terms of FRS 8 Investments are classified as either held-for-trading or availableRelated Parties from disclosing related party transactions with for-sale, and are measured at subsequent reporting dates at fair entities that are part of the Tesco PLC Group.
+Gains and losses arising from changes in fair value for available-for-sale investments are recognised directly in equity, Changes in accounting policies until the security is disposed of or is determined to be The Company has adopted the following standards in these impaired: at which time the cumulative gain or loss previously financial statements: recognised in equity is included in the net profit or loss for FRS 17 Retirement Benefits full requirements the period.
+FRS 20 Share-based payment Financial liabilities and equity FRS 21 Events after the balance sheet date Financial liabilities and equity instruments are classified FRS 25 Financial Instruments: Disclosure and presentation according to the substance of the contractual arrangements entered into.
+An equity instrument is any contract that gives a FRS 26 Financial Instruments: Measurement residual interest in the assets of the Company after deducting FRS 28 Corresponding amounts all of its liabilities.
+The adoption of each of these standards represents a change Interest-bearing borrowings in accounting policy and the comparative figures have been Interest-bearing bank loans and overdrafts are initially recorded restated accordingly, except where the exemption to restate at the value of the amount received, net of attributable comparatives has been taken for FRS 25 and FRS 26, which transaction costs.
+Subsequent to initial recognition, interesthave been adopted from 27 February 2005.
+Details of the bearing borrowings are stated at amortised cost with any effect of the prior year adjustments are given in note 15. difference between cost and redemption value being recognised Money market deposits in the Profit and loss account over the period of the borrowings Money market deposits are stated at cost.
+All income from on an effective interest basis.
+these investments is included in the Profit and loss account Equity instruments as interest receivable and similar income.
+Equity instruments issued by the Company are recorded at the Investments in subsidiaries and joint ventures value of the amount received, net of direct issue costs.
+Investments in subsidiaries and joint ventures are stated at cost Derivative financial instruments and hedge accounting less, where appropriate, provisions for impairment.
+Accounting policy for year ended 25 February 2006 Foreign currencies The Company uses derivative financial instruments to hedge Assets and liabilities in foreign currencies are translated into its exposure to foreign exchange and interest rate risks arising Pounds Sterling at the financial year end exchange rates.
+from operating, financing and investment activities.
+The Share-based payments Company does not hold or issue derivative financial Employees of the Company receive part of their remuneration instruments for trading purposes, however if derivatives do not in the form of share-based payment transactions, whereby qualify for hedge accounting they are accounted for as such.
+employees render services in exchange for shares or rights over shares equity-settled transactions.
+Tesco plc 105 Notes to the Parent company financial statements continued Note 1 Accounting policies continued Derivative financial instruments are recognised initially at Derivative instruments qualifying for cash flow hedging cost.
+Subsequent to initial recognition, derivative financial are principally forward foreign exchange transactions and instruments are stated at fair value.
+The fair value of derivative currency options.
+financial instruments is determined by reference to market Hedge accounting is discontinued when the hedging instrument values for similar financial instruments, or by discounted expires or is sold, terminated or exercised, or no longer qualifies cash flows or by the use of option valuation models.
+At that point in time, any cumulative derivatives do not qualify for hedge accounting, any gains or gain or loss on the hedging instrument recognised in equity losses on remeasurement are immediately recognised in the is retained in equity until the forecasted transaction occurs.
+If Profit and loss account.
+Where derivatives qualify for hedge a hedged transaction is no longer expected to occur, the net accounting, recognition of any resultant gain or loss depends cumulative gain or loss recognised in equity is transferred to on the nature of the hedge relationship and the item being the Profit and loss account.
+To qualify for hedge accounting, the hedge relationship Net investment hedging must be documented and tested for effectiveness.
+Derivative financial instruments are classified as net investment In order to qualify for hedge accounting, the Company is hedges when they hedge the Companys net investment in an required to document from inception the relationship between overseas operation.
+The effective element of any gain or loss the item being hedged and the hedging instrument.
+The from remeasuring the derivative instrument is recognised Company is also required to document and demonstrate an directly in equity.
+Any ineffective element is recognised assessment of the relationship between the hedged item and immediately in the Profit and loss account.
+Gains and losses the hedging instrument, which shows that the hedge will be accumulated in equity are included in the Profit and loss highly effective on an ongoing basis.
+This effectiveness testing account when the foreign operation is disposed of.
+is performed at each period-end to ensure that the hedge Derivative instruments qualifying for net investment hedging remains highly effective.
+are principally forward foreign exchange transactions.
+Fair value hedging Derivative financial instruments Accounting policy for year Derivative financial instruments are classified as fair value ended 26 February 2005 hedges when they hedge the Companys exposure to changes Derivative instruments utilised by the Company are interest in the fair value of a recognised asset or liability.
+Any gain or rate swaps, floors and caps, forward start interest rate swaps, loss from remeasuring the hedging instrument is recognised cross currency swaps, forward rate agreements and forward immediately in the Profit and loss account.
+Any change in the exchange contracts and options.
+Termination payments made fair value of the hedged item, attributable to the hedged risk, or received in respect of derivatives are spread over the life is adjusted against the carrying value of the hedged item and of the underlying exposure in cases where the underlying recognised immediately in the Profit and loss account.
+Where the underlying exposure Derivative financial instruments qualifying for fair value hedge ceases to exist, any termination payments are taken to the accounting are principally interest rate swaps.
+Cash flow hedging Interest differentials on derivative instruments are recognised Derivative financial instruments are classified as cash flow by adjusting net interest payable.
+Premia or discount on hedges when they hedge the Companys exposure to variability derivative instruments are amortised over the shorter of the in cash flows that are either attributable to a particular risk life of the instrument or the underlying exposure.
+associated with a recognised asset or liability or a highly Currency swap agreements are valued at closing rates of probable forecasted transaction.
+Forward exchange contracts are valued at The effective element of any gain or loss from remeasuring the discounted closing forward rates of exchange.
+Resulting gains derivative instrument is recognised directly in equity.
+or losses are offset against foreign exchange gains or losses The associated cumulative gain or loss is removed from equity on the related borrowings or, where the instrument is used to and recognised in the Profit and loss account in the same hedge a committed future transaction, are deferred until the period or periods during which the hedged transaction affects transaction occurs or is extinguished.
+the Profit and loss account.
+Any element of the remeasurement of the derivative instrument which does not meet the criteria for an effective hedge is recognised immediately in the Profit and loss account.
+106 Tesco plc Note 2 Profit on ordinary activities before taxation 2006 2005 mm Profit on ordinary activities before taxation is stated after charging the following: Auditors remuneration Audit services statutory audit 0.5 0.5 audit-related 0.3 0.8 0.5 Includes fees for the audit of the Group financial statements.
+Note 3 Employment costs 2006 2005 m m Wages and salaries 16 13 Social security costs 81 Pension costs 21 Share-based payment expense equity settled 22 28 17 The average number of employees during the year was: 15 2005 15.
+Note 4 Dividends For details of equity dividends see note 8 in the consolidated Group financial statements.
+Note 5 Fixed asset investments Shares in Group Loans to Group Shares in undertakings undertakings Joint ventures Total m m m m As at 26 February 2005 5,897 3,524 145 9,566 Restatement for FRS 20 Share-based payment 239 239 As at 27 February 2005 restated 6,136 3,524 145 9,805 Additions 1,314 33 1,347 Disposals 230 3,524 16 3,770 As at 25 February 2006 7,220 162 7,382 For a list of the Companys principal operating subsidiary undertakings and joint ventures see note 13 in the Group financial statements.
+Note 6 Debtors 2006 2005 m m Amounts owed by Group undertakings 4,710 2,436 Amounts owed by Joint ventures and Associates 97 103 Other debtors 50 163 Total 4,857 2,702 Included within amounts due from joint ventures and associates is 97m 2005 103m due after more than one year.
+b The MTNs denominated in currencies other than Pounds Sterling have been swapped into Pounds Sterling liabilities.
+c The 4% RPI MTN is redeemable at par, indexed for increases in the RPI over the life of the bond.
+d The 3.322% LPI MTN is redeemable at par, indexed for increases in the RPI over the life of the bond.
+The maximum indexation of the principal in any one year is 5%, with a minimum of 0%.
+e The other MTNs are of various maturities and include Pounds Sterling and foreign currency denominated notes.
+2006 2005 m m Repayment analysis: Amounts falling due within one year 1,008 329 Amounts falling due between one and two years 477 655 Amounts falling due between two and five years 1,795 1,452 Amounts falling due after more than five years 1,288 1,930 4,568 4,366 108 Tesco plc Note 10 Derivative financial instruments An explanation of the objectives and policies for holding and issuing financial instruments is set out in the Operating and financial review on page 16.
+Carrying values of derivative financial instruments in the Balance Sheet: 2006 Assets Liabilities mm Current Interest rate swaps and similar instruments 11 69 Forward foreign currency contracts 59 170 70 239 Non-current Interest rate swaps and similar instruments 46 Forward foreign exchange contracts 2 48 Fair values Fair value of financial assets and financial liabilities are disclosed below: 2006 Carrying Fair value value m m Primary financial instruments held or issued to finance the Companys operations: Short-term borrowings 1,008 1,003 Long-term borrowings 3,560 3,665 Derivative financial instruments held to manage the interest rate and currency profile: Interest rate swaps and similar instruments 104 104 Forward foreign currency contracts 113 113 4,785 4,885 The fair value of financial instruments and derivatives has been determined by reference to prices available from the markets on which the instruments are traded.
+The fair value of all other items has been calculated by discounting expected future cash flows at prevailing interest rates.
+Analysis of interest rate exposure of financial assets and liabilities The interest rate exposure of financial assets and liabilities of the Company as at 25 February 2006, after taking into account the effect of interest rate swaps, was: More than Within 1 year 1-2 years 2-3 years 3-4 years 4-5 years 5 years Total m m m m m m m Fixed rate Bank and other loans 122 133 98 153 861 1,367 Floating rate Bank and other loans 886 344 634 355 555 427 3,201 Tesco plc 109 Notes to the Parent company financial statements continued Note 10 Derivative financial instruments continued Hedging activities Fair value hedges The Company uses interest rate swaps and cross-currency swaps to hedge the fair value of fixed rate bonds.
+The fixed rate bonds are hedged against changes to their fair value resulting from changes in interest rates and foreign exchange rates.
+The fair value of swaps used for fair value hedging at the Balance Sheet date was a liability of 99m.
+Cash flow hedges The Company uses forward foreign exchange contracts and currency options to hedge the cost of future purchases of goods for resale, where those purchases are denominated in a currency other than that of the Company.
+The hedging instruments are primarily used to hedge purchases in Euros and US Dollars.
+The cash flows hedged will occur within one year of the Balance Sheet date.
+At the Balance Sheet date, the total notional amount of outstanding forward foreign exchange contracts to which the Company has committed was 548m.
+The fair value of currency derivatives that are designated as effective cash flow hedges was an asset of 4m.
+This amount has been deferred as a component of equity.
+Net investment hedges The Company uses forward foreign exchange contracts, currency denominated borrowings and currency options to hedge the exposure of a proportion of its non-Sterling denominated assets against changes in value due to changes in foreign exchange rates.
+The fair value of these instruments at the Balance Sheet date was a liability of 117m.
+Financial instruments not qualifying for hedge accounting The Company has a number of financial instruments which do not meet the criteria for hedge accounting.
+These instruments include forward foreign exchange contracts, currency options, caps, collars and interest rate swaps.
+The fair value of these instruments at the Balance Sheet date was a liability of 5m.
+Note 11 Share-based payments Tesco PLCs equity settled share-based payment schemes comprise various share option schemes designed to reward Executive Directors.
+For further information on these schemes, including the valuation models and assumptions used, see note 22 to the Group financial statements.
+The number of options and weighted average exercise price WAEP of share option schemes relating to Tesco PLCs employees are: For the year ended 25 February 2006 Approved Unapproved Savings-related share option share option Nil cost share option scheme scheme scheme share options Options WAEP Options WAEP Options WAEP Options WAEP Outstanding at 26 February 2005 43,206 194.83 278,079 114.42 10,667,969 230.95 1,126,257 0.00 Granted  Exercised 8,520 198.00 262,890 109.62 1,005,058 248.02 Outstanding at 25 February 2006 42,474 203.95 43,965 272.93 12,068,027 245.83 3,459,458 0.00 Exercisable as at 25 February 2006 4,185,280 Exercise price range pence 164.00 to 259.00 Nil Weighted average remaining contractual life years 5.36 110 Tesco plc Note 11 Share-based payments continued For the year ended 26 February 2005 Approved Unapproved Savings-related share option share option Nil cost share option scheme scheme scheme share options Options WAEP Options WAEP Options WAEP Options WAEP Outstanding at 28 February 2004 60,545 178.19 321,981 126.77 11,838,482 212.40 0.00 Granted  Forfeited 6,443 185.98 Exercised 19,440 162.26 43,902 205.00 3,673,966 186.38 Outstanding at 26 February 2005 43,206 194.83 278,079 114.42 10,667,969 230.95 1,126,257 0.00 Exercisable as at 26 February 2005 74,634 3,174,895 Exercise price range pence 205.00 164.00 to 247.00 Nil Weighted average remaining contractual life years 3.30 3.80 Note 12 Pensions The Company has adopted the full requirements of FRS 17 for the first time in the current year.
+This has had no financial impact and therefore no prior year adjustment has been presented.
+The Company participates in the Tesco PLC Pension Scheme which is a multi-employer scheme within the Tesco Group and cannot identify its share of the underlying assets and liabilities of the scheme.
+Accordingly, as permitted by FRS 17, the Company has accounted for the scheme as a defined contribution scheme, and the charge for the period is based upon the cash contributions payable.
+The total cost of the scheme to the Group was 292m 2005 258m.
+Further disclosure relating to the Tesco PLC Pension Scheme can be found in note 23 of the Group financial statements.
+Note 13 Share capital Ordinary shares of 5p each Number m Authorised: At 26 February 2005 10,600,000,000 530 Authorised during the year 100,000,000 5 At 25 February 2006 10,700,000,000 535 Allotted, called up and fully paid: At 26 February 2005 7,783,169,542 389 Scrip dividend election 53,639,219 3 Share options 57,668,156 3 At 25 February 2006 7,894,476,917 395 During the financial year, 111 million shares were issued for an aggregate consideration of 290m, which comprised 167m for scrip dividend and 123m for share options.
+Between 25 February 2006 and 24 April 2006, options over 3,425,477 ordinary shares have been exercised under the terms of the savings-related share option scheme 1981 and the Irish savings-related share option scheme 2000.
+Between 25 February 2006 and 24 April 2006, options over 5,945,937 ordinary shares have been exercised under the terms of the executive share option schemes 1994 and 1996 and the discretionary share option plan 2004.
+As at 25 February 2006, the Directors were authorised to purchase up to a maximum in aggregate of 778.7 million ordinary shares.
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are entitled to one vote per share at the meetings of the Company.
+Tesco plc 111 Notes to the Parent company financial statements continued Note 14 Reserves 2006 2005 m m Share premium account At the start of the year 3,704 3,470 Premium on issue of shares less costs 120 143 Scrip dividend election 164 91 At the end of the year 3,988 3,704 Profit and loss reserve As previously reported 1,136 683 Prior year adjustments: Note 15 FRS 20 Share-based payment 261 94 FRS 21 Events after the balance sheet date 410 365 FRS 26 Financial instruments: Measurement 60 Deferred tax on changes in accounting policies 24 Profit and loss reserve restated 1,771 1,142 Gain loss on foreign currency net investments 17 72 Tax effect of exchange adjustment offset in reserves 16 FRS 20 Share-based payment 186 169 Dividend 609 542 Profit after tax for the financial year 399 1,094 At the end of the year 1,764 1,807 Note 15 Prior year adjustments The prior year adjustments relate to the implementation of FRS 17, FRS 20 and FRS 21, while FRS 25 and FRS 26 do not affect comparatives and are only applied to the current period.
+FRS 20 Share-based payment: The Company operates a range of share-based incentive schemes both awards of options and awards of shares and has applied the requirements of FRS 20 for the first time in these financial statements.
+Under FRS 20, an expense is recognised in the Profit and loss account for all share-based payments calculated based on the fair value at the date of grant using the Black-Scholes pricing model.
+Compliance with FRS 20 increased reserves by 94m at 29 February 2004.
+FRS 21 Events after the balance sheet date: This standard sets out amended requirements for accounting for events after the Balance Sheet date.
+Following the introduction of this standard, dividends are only recognised at the Balance Sheet date if they are declared before that date.
+The final dividend for 2003 04 was declared in April 2004, therefore the dividend charge recognised in the Profit and loss account and the dividend creditor recognised in the Balance Sheet have been reversed.
+This resulted in an increase in reserves of 365m at 29 February 2004.
+Due to similar treatment of the 2004 05 dividend, reserves at 26 February 2005 have increased by 410m.
+FRS 25 Financial instruments: Disclosure and presentation: FRS 25 supersedes FRS 13 and substantially amends FRS 4 Capital instruments.
+This standard is effective for the Company from 27 February 2005.
+However, as the consolidated financial statements have been prepared under the IFRS equivalent standard IAS 32, the parent Company is exempt from the disclosure requirements.
+FRS 26 Financial instruments: Measurement: FRS 26 applies to all listed entities for periods beginning on or after 1 January 2005 and prescribes new accounting rules relating to financial instruments and hedge accounting.
+This standard has been adopted in full in these financial statements and the requirement applied prospectively from 27 February 2006.
+The deferred tax adjustments on the implementation of the above named standards results in a 24m adjustment to reserves at 27 February 2005 2004 nil.
+112 Tesco plc Independent auditors report to the members of Tesco PLC 1 Operating and financial review 18 Directors report 20 Corporate governance 25 Directors remuneration report 40 Statement of directors responsibilities 41 Independent auditors report 42 Group income statement We have audited the parent company financial statements of Basis of audit opinion 43 Group statement of recognised income and expense 44 Group balance sheet 45 Group cash flow statement Tesco PLC for the year ended 25 February 2006 which comprise We conducted our audit in accordance with International 46 Notes to the financial statements 102 Five year record 104 Parent company financial statements the Balance Sheet and the related notes.
+These parent Standards on Auditing UK and Ireland issued by the Auditing company financial statements have been prepared under the Practices Board.
+An audit includes examination, on a test basis, accounting policies set out therein.
+We have also audited the of evidence relevant to the amounts and disclosures in the information in the Directors Remuneration Report that is parent company financial statements and the part of the described as having been audited.
+Directors remuneration report to be audited.
+It also includes We have reported separately on the Group financial an assessment of the significant estimates and judgments FINANCIAL HIGHLIGHTS GROWTH ON 2005 statements of Tesco PLC for the year ended 25 February 2006. made by the Directors in the preparation of the parent company financial statements, and of whether the accounting Respective responsibilities of directors and auditors policies are appropriate to the companys circumstances, consistently applied and adequately disclosed.
+The Directors responsibilities for preparing the Annual Report, the Directors remuneration report and the parent company We planned and performed our audit so as to obtain all the financial statements in accordance with applicable law and information and explanations which we considered necessary United Kingdom Accounting Standards United Kingdom in order to provide us with sufficient evidence to give % Generally Accepted Accounting Practice are set out in the reasonable assurance that the parent company financial Statement of Directors responsibilities.
+statements and the part of the Directors remuneration report Group sales to be audited are free from material misstatement, whether Our responsibility is to audit the parent company financial caused by fraud or other irregularity or error.
+In forming our statements and the part of the Directors remuneration report 13.2 opinion we also evaluated the overall adequacy of the to be audited in accordance with relevant legal and regulatory presentation of information in the parent company financial requirements and International Standards on Auditing UK and statements and the part of the Directors remuneration report Ireland.
+This report, including the opinion, has been prepared % % % % % to be audited.
+for and only for the companys members as a body in 16.9 16.7 14.1 13.9 14.2 accordance with Section 235 of the Companies Act 1985 and New underlying New underlying Group profit Diluted earnings Dividend Opinion for no other purpose.
+We do not, in giving this opinion, accept Group profit before tax diluted earnings per share per share In our opinion: per share or assume responsibility for any other purpose or to any other before tax person to whom this report is shown or into whose hands it the parent company financial statements give a true and may come save where expressly agreed by our prior consent fair view, in accordance with United Kingdom Generally in writing.
+Accepted Accounting Practice, of the state of the companys 2006 2006 2005 affairs as at 25 February 2006: and Continuing operations 60 weeks 52 weeks 52 weeks We report to you our opinion as to whether the parent company financial statements give a true and fair view and the parent company financial statements and the part Group sales m ompany financial statements and the part whether the parent c including value added tax 43,137 41,819 36,957 of the Directors remuneration report to be audited have of the Directors remuneration report to be audited have been been properly prepared in accordance with the Companies Group revenue m 39,454 38,259 33,866 properly prepared in accordance with the Companies Act 1985.
+New underlying Group profit before tax m 2,277 2,251 1,925 We also report to you if, in our opinion, the Directors report is not consistent with the parent company financial statements, Group profit before tax m 2,235 2,210 1,894  LLP if the company has not kept proper accounting records, if we Chartered Accountants and Registered Auditors New underlying diluted earnings per share p 20.30 20.06 17.58 have not received all the information and explanations we London 24 April 2006 Diluted earnings per share p 19.92 19.70 17.30 require for our audit, or if information specified by law regarding Directors remuneration and other transactions is not disclosed.
+Dividend per share p 8.63 7.56 We read other information contained in the Annual Report Group enterprise value m and consider whether it is consistent with the audited parent market capitalisation plus net debt 30,841 27,910 company financial statements.
+The other information Return on capital employed ROCE 12.7% 12.6% 11.8% comprises only the Operating and financial review, the Non-GAAP measure: new underlying profit m m Directors report, the Corporate governance statement and the unaudited information in the Directors remuneration report.
+Profit before tax excluding discontinuing operation 2,235 1,894 We consider the implications for our report if we become aware Adjustments for: of any apparent misstatements or material inconsistencies with IAS 32 and IAS 39 9 the parent company financial statements.
+Our responsibilities do not extend to any other information.
+Total IAS 19 Income Statement charge 303 268 Normal cash contribution for pensions 270 237 New underlying Group profit before tax 2,277 1,925 52-week comparison basis and excludes discontinuing operation.
+Adjusted for IAS 32, IAS 39 and the net difference between the IAS 19 pension charge and normal cash contributions for pensions.
+Results for the year ended 25 February 2006 includes 52 weeks for the UK and Republic of Ireland and 14 months for the majority of the remaining International businesses, and excludes discontinuing operation.
+Tesco plc 113 TESCO ANNUAL REPORT AND FINANCIAL STATEMENTS 2006 Printed by CTD, an ISO 14001 registered company, on Revive 50:50 Silk - supplied by Robert Horne Paper Co. An FSC certified product which contains 50% Recycled Fibre.
+The FSC logo identifies products which contain ANNUAL REPORT AND FINANCIAL STATEMENTS 2006 wood from well managed forests certified in accordance with the rules of the Forest Stewardship Council.
+Cover: Shah Alam hypermarket, Kuala Lumpur, Malaysia Tesco PLC, Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL Registrar and Shareholding Enquiries To register, log on to www.
+co. uk and click on register If you have administrative enquires about your holding now.
+Your rights as a shareholder will not be affected in any of Tesco PLC shares other than ADRs please contact: way.
+If you have any questions about the service, please call 0870 600 3970.
+Lloyds TSB Registrars Printed by CTD, an ISO 14001 registered company, The Causeway, Worthing, Shareview Dealing on Revive 50:50 Silk - supplied by Robert Horne West Sussex BN99 6DA The Company has arranged a share dealing service through Paper Co. An FSC certified product which contains 50% Recycled Fibre.
+You can buy or sell shares on the internet by logging on www.
+co. uk dealing or by calling 0870 Introduction of Consolidated Tax Vouchers The FSC logo identifies products which contain ANNUAL REVIEW AND SUMMARY FINANCIAL STATEMENT 2006 850 0852 between 8.30am and 4.30pm Monday to Friday.
+wood from well managed forests certified The new consolidated tax voucher will be sent to each in accordance with the rules of the Forest shareholder in December each year at the time that the interim Security reminder Stewardship Council.
+dividend is paid and will cover both the dividend payments for Under the Companies Act we are obliged to hold all shareholders the tax year.
+This will help when completing your tax return.
+names and addresses on a register of members and give a copy This does not affect your dividends or the tax that you pay in of this list to the Registrar of Companies every year.
+any way and will help us to protect the environment and save The Registrar of Companies makes this list available to anyone money by using less paper.
+who requests it and many companies use this information If your dividend is not currently paid directly to your bank or sometimes matching it to telephone records to market their building society account and you would like to benefit from this services.
+Tesco PLC has no relationship with and does not service please contact Lloyds TSB Registrars on 0870 600 3970 endorse any of the services offered by these companies.
+and they will be pleased to arrange this for you.
+By choosing If you are concerned about any direct mailing or telephone to receive your dividends in this way you can avoid the risk of calls purporting to be from Tesco, please contact us by writing cheques getting lost in the post and ensure you receive your to the Company Secretary, New Tesco House, Delamare Road, dividends on the payment day.
+Cheshunt, Herts EN8 9SL or by calling us on 01992 632222.
+Note: Consolidated Tax Vouchers are not available to Customer Services institutional shareholders.
+Tesco Customer Services This new service will start for the 2006 07 tax year.
+If you would Freepost SCO2298, Dundee DD1 9NF prefer to receive a tax voucher with each dividend payment Telephone 0800 505555 rather than one consolidated tax voucher each tax year, please Investor Relations call our shareholder helpline on 0870 600 3970.
+Investor Relations Department If your dividend is paid directly into your bank or building society Tesco PLC, Tesco House, Delamare Road, account you will receive one tax voucher each year rather than two.
+Cheshunt, Herts EN8 9SL Telephone 01992 646484 Tesco Website The Directors are responsible for the maintenance and integrity Secretary and Registered Office of the financial information on our website.
+This information has Miss Lucy Neville-Rolfe been prepared under relevant accounting standards and legislation.
+Tesco PLC, Tesco House, Delamare Road, Cheshunt, Herts EN8 9SL Tesco information, including the Annual Report and Financial Telephone 01992 632222 Statements 2006 and our Corporate Responsibility Review 2006, is available on our website: www.
+com corporate Shareholder Information On-line Financial Calendar You have the option of viewing and downloading the Annual 2006 Report and other documents via the internet.
+The information Financial year end 25 February is identical to the printed version, however using the internet Results announced 25 April has clear advantages such as reducing environmental waste Final dividend: ex-dividend date 3 May and lowering our costs.
+Final dividend: record date 5 May Electronic communications Annual Report posted 26 May You can register for Shareview, a free on-line share information Trading statement mid June and dealing service operated by Lloyds TSB Registrars.
+AGM 7 July Once you have registered you can: Final dividend pay date 14 July Half year end 26 August check your shareholding Interim results announced 3 October access shareholder information Interim dividend: ex-dividend date 11 October elect to receive information electronically, get quick access Interim dividend: record date 13 October to these important documents and help to save the Trading statement early December environment by reducing the amount of paper used and Interim dividend: pay date 22 December Cover: Soongin Express, Seoul, South Korea vote on the resolutions at the Annual General Meeting.
+Tesco PLC, Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL Designed and produced by Corporate Edge 020 7855 5888 Poland China South Korea Number of stores 105 Number of stores 39 Number of stores 62 Sales area 4.8m sq ft Sales area 3.5m sq ft Sales area 4.1m sq ft Year of entry 1995 Year of entry 2004 Year of entry 1999 contents inside Tesco New stores opened New stores opened 9 New stores opened inc. acquisitions in 05 06 27 inc. acquisitions in 05 06 27 Planned openings 06 07 12 Planned openings 06 07 39 Planned openings 06 07 47 Number of staff 16,400 2 Chairmans statement 4 Chief Executives review Number of staff 20,357 Number of staff 10,787 and Financial highlights United Kingdom 16 Core UK Number of stores 1,898 Sales area 25.9m sq ft Year of entry 1924 New stores opened 139 Planned openings 06 07 153 Number of staff 261,142 28 Retailing services Republic of Ireland Japan 40 Board of Directors 42 Summary Directors Report Number of stores 91 Number of stores 111 Sales area 2.7m sq ft Sales area 0.3m sq ft Year of entry 1997 Year of entry 2003 Glnur Avc and Glhan Isk TescoKipa, Cigili, Turkey New stores opened 6 New stores opened inc. acquisitions in 05 06 11 Planned openings 06 07 8 Planned openings 06 07 10 Number of staff 10,456 Number of staff 3,285 Tesco works hard to create value for customers to earn their lifetime loyalty.
+We do this in each of the four parts of our Czech Republic Slovakia Hungary Turkey Malaysia Thailand Number of stores 35 Number of stores 37 Number of stores 87 Number of stores 8 Number of stores 13 Number of stores 219 strategy: Core UK, International, Sales area 2.0m sq ft Sales area 2.3m sq ft Sales area 4.3m sq ft Sales area 0.6m sq ft Sales area 0.9m sq ft Sales area 6.8m sq ft Year of entry 1996 Year of entry 1996 Year of entry 1994 Year of entry 2003 Year of entry 2001 Year of entry 1998 New stores opened 10 New stores opened 7 New stores opened 18 New stores opened 3 New stores opened 7 New stores opened 112 Non-food and Retailing services.
+Planned openings 06 07 44 Planned openings 06 07 10 Planned openings 06 07 30 Planned openings 06 07 12 Planned openings 06 07 4 Planned openings 06 07 207 Number of staff 8,785 Number of staff 7,838 Number of staff 15,754 Number of staff 2,560 Number of staff 4,365 Number of staff 27,529 Tesco plc 49 8 Every Little Helps 10 International 22 Non-food 34 Corporate responsibility 44 Summary Financial Statement 47 Investor information 49 Inside Tesco and Operating and Financial Review Every Little Helps is the way we do things at Tesco.
+It means doing the little things that really matter for customers and staff, in every store, every day.
+Its summed up in our Values no-one tries harder for customers, and treat people how we like to be treated.
+Three little words that help us to try and make Tesco a little bit better.
+Tesco plc 1 chairmans statement We have continued to make strong progress with all four parts of our strategy by keeping our focus on trying to improve what we do for customers.
+I am delighted to be able to report that the business has Our largest ever new store development programme made good progress in a more challenging year.
+I believe delivered 5.4 million sq ft of sales area, with a further this reflects the strength of the Tesco strategy and the 6.6 million sq ft planned in the current year.
+excellent progress the team has made to improve our Non-food has again made strong progress, with UK offer for customers, which in turn drives our financial sales up by over 13%, against the background of performance for shareholders.
+Our established areas For the full year on a 52-week basis, Group sales have such as health and beauty up 10% have done well increased by 13.2% to 41.8 billion and Group profit before and newer departments such as consumer electronics tax has grown by 16.7% to 2.2 billion.
+New underlying 34% growth and clothing 16% growth have profit is up 16.9% and ROCE has increased to 12.8% performed particularly strongly.
+UK GAAP-52 weeks, beating our target.
+The full year Retailing services have also had a good year with dividend is up 14.2% broadly in line with earnings per share.
+com delivering record results, Tesco Personal Finance UK Our sales performance in the UK core business TPF performing well in a challenging personal finance has been strong, as we have invested in all parts of the sector and good growth in telecoms.
+com sales are up customer offer.
+31.9% to almost 1 billion and TPF delivered 139 million Our operating profit was up 14.9% to 1,788 million.
+profit, of which Tescos share was 70 million.
+International has delivered good growth in like-for-like Delivering for shareholders The Directors propose sales, profits and returns.
+On a 52-week basis, sales a final dividend of 6.10 pence per share.
+This represents are up 23.0% at actual rates to 9.2 billion, up 15.5% an increase of 15.7% and brings the full year dividend at constant exchange rates, with our operating profit per share to 8.63 pence, up 14.2%, broadly in line with up 17.4% to 465 million.
+the growth in earnings per share.
+2 Tesco plc % % % % % 16.9 16.7 14.1 13.9 14.2 New underlying Group profit New underlying Diluted Dividend Group profit before tax diluted earnings earnings per share before tax per share per share FINANCIAL HIGHLIGHTS GROWTH ON 2005 2006 2006 2005 60 weeks 52 weeks 52 weeks Group sales m including value added tax 43,137 41,819 36,957 Group revenue m 39,454 38,259 33,866 New underlying Group profit before tax m 2,277 2,251 1,925 Group profit before tax m 2,235 2,210 1,894 New underlying diluted earnings per share p 20.30 20.06 17.58 Diluted earnings per share p 19.92 19.70 17.30 Dividend per share p 8.63 7.56 Group enterprise value m market capitalisation plus net debt 30,841 27,910 Return on capital employed 12.7% 12.6% 11.8% Adjusted for IAS 32, IAS 39 and the net difference between IAS 19 pension charge and normal cash contributions for pensions.
+13 2 increase in Group sales We are comfortable with the level of dividend cover that We know that Tesco cannot be a success unless our people we have built over the last few years.
+We intend future are doing everything they can for customers.
+This is what dividend growth to be broadly in line with earnings Every Little Helps is all about: it is fundamental to how per share.
+we run our business both in the UK and internationally.
+Concentrating on giving customers what they want is We have great strength in our property portfolio in terms how every decision in Tesco is made, as we know that our of its freehold base.
+We can still retain this strength whilst success comes from customers choosing to shop with us.
+releasing funds through our property funding partnership.
+Some of the funds will be used to buy shares to offset the I would like to thank all of our staff for their hard work and earnings per share dilution from issuance of share options commitment in doing their very best day-in, day-out.
+The rest will mainly be used to fund delighted that our people are benefiting from 181 million the growth of the business.
+from Shares in Success and Save As You Earn schemes.
+Not only are we working hard for customers in our stores and on-line, but we are also working hard in the communities in which we operate and the environment at large.
+You will see in the ensuing months the continuing steps we are taking to deliver more for all.
+Tesco continues to be a dynamic and innovative company: our entry into the USA with an exciting new format will add significant growth to our international business when we David Reid Chairman launch in 2007.
+Tesco plc 3 chief executives review We have invested more than 1 billion in price cuts over the last five years.
+Tesco has again delivered strong results by improving the shopping trip for customers around the world, and every bit of the Group has played its part.
+4 Tesco plc In our core Tesco range in the Czech Republic we have 1,405 lines.
+Customers tell us they like the Finest range as they know it represents great quality and value.
+Internationally we have substantial, successful, local businesses, such as our Hymall joint venture in China.
+13 million active Clubcard holders People know that Tesco is a growth company with a clear strategy, and that wont change, but what is not always recognised is our commitment to disciplined growth in other words, investing to improve the shopping experience for customers and at the same time delivering an economic return and tangible benefits for shareholders.
+The two go hand in hand at Tesco.
+I believe the prospects for the long-term development of the business have never been better.
+We have come through a period of heavy investment in our four-part strategy.
+We have now laid the foundations for a truly international business and followed the customer successfully into big new markets in non-food and services.
+Tesco plc 5 Our Value and Finest ranges enable customers chief executives review to shop within their budgets.
+focused on what matters It has been a successful year for Tesco.
+Weve again So we are going to do more of these joint ventures made good progress by staying focussed on and up to 5 billion more over the next five years and I investing in the things that really matter to our believe it will also become more apparent as we do this customers around the world.
+Our growth has been programme just how valuable these appreciating assets broadly-based, with the four parts of our strategy have become.
+international, the core UK business, non-food and We will keep a strong freehold asset base of over 70% services all playing their part.
+Tesco is about making going forward, but we can be more flexible now given the shopping experience better for customers and weve the scope these deals allow us to operate our stores built our success and our growth by listening to them.
+The scale of this programme means that Through this, we have created many new opportunities we can fund the business comfortably from internal for long-term growth and we are pursuing them with resources and also use some of the proceeds to benefit increasing confidence.
+This growth is and will be shareholders directly: first, from the conservation of our disciplined growth and we are also improving the equity going forward and secondly, from higher income.
+way shareholders benefit from it.
+At least 1.5 billion, or more than twice our annual Over the last two years, through our joint ventures with dividend payment of approaching 700 million, will Topland, Consensus and Morley, Tesco has developed be used to eliminate future earnings per share dilution an updated version of our property joint ventures.
+by buying Tesco shares in the market to match scrip, Our experience with them has been good.
+They have option and staff share scheme issuance.
+We have enabled us to fund our growth efficiently by releasing employee share and option schemes, which are an cash from our property base, develop a stream of important way of motivating our staff.
+Shareholders material property profits and also enhance our returns.
+will also see an increase in income as we have moved They allow us to run and improve our stores without to raising dividends almost in line with earnings, always needing freehold ownership.
+instead of building cover as we have been over the last couple of years.
+Our growth has been broadly-based, with all four parts of our strategy playing their part.
+disciplined growth around the world In the early years of diversification, heavy investment expenditure will rise to be around 3 billion this year, held back returns as we built a platform to raise our partly due to our move into the United States.
+Just sustainable growth rate to industry leading levels.
+Two as our appetite for growth is still strong, so is our years ago we said we had moved into a new phase commitment to see returns rise.
+That is why weve where strong growth would be accompanied by rising set a new return on capital target.
+We set ourselves a demanding return on capital We aim to raise our Group return on capital by another target then, and I am pleased to say we have hit it early.
+In a competitive, capital-intensive We are renewing our commitment to stay focused business like ours, this will be a challenge.
+Further on profitable growth and at the same time, were operational improvement across the business, and also improving the way shareholders benefit from it.
+the changes to how we manage our capital invested Were investing hard in our strategy and capital in property, will both contribute.
+6 Tesco plc We aim to offer our customers the convenience of either large or small stores.
+% 19increase in international space non-food is still growing The UK business made good progress in the year, to our Central Europe business.
+In total, net of the attracting more than a million new customers.
+divestment of Taiwan, that will deliver 25% growth in International also delivered a strong performance.
+space for International in 2006 and we plan to have Sales, profits and returns rose again.
+At a time when a similar UK development programme as 2005. the number of retailers in our sector with international In February, we announced that Tesco would enter the ambitions is shrinking, Tesco has defined a strategy United States in 2007.
+We are developing a completely for international growth which works well.
+new format, modelled on Express, for the American In non-food weve sustained good momentum in a consumer.
+It will be a local format and were excited subdued UK retail market, where consumers have been about it.
+Weve put a good team together, led by Tim cautious.
+Our sales have grown by 13% and our market Mason who has now moved to the West Coast, and share has increased.
+Our 118 Extra hypermarkets are we are looking forward to getting our offer in front easily accessible to barely a quarter of UK households of customers next year.
+and so we are developing plans to enable more of We are also leading the way on the wider issues that our customers to buy our non-food through new are important to customers and communities.
+We channels including improving our on-line service have made significant new commitments in areas like and trialling further non-food only stores.
+Our services nutritional labelling and the environment.
+For example, businesses have continued to grow well.
+com sales Tesco has created a new 100 million capital fund to reached almost 1 billion as weekly orders rose above be used for innovation in sustainable environmental 200,000 a week, and we saw strong profit growth.
+technology and this will enable us to transform our Telecoms now has over 1.5 million customers and investment in renewable energy, CO emission 2 introduced more innovative new services.
+Tesco Personal reduction and recycling.
+Finance made progress in tough market conditions.
+In 2005, we opened two million sq ft of new space in the UK and over 5.4 million sq ft of space outside the UK, across our 11 markets our biggest ever programme.
+Well open more in the current year and the Carrefour asset swap deal, which we announced Terry Leahy Chief Executive in September, should add more than a million sq ft Tesco plc 7 EARN LIFETIME LOYALTY F I N S T THE AISLES ARE CLEAR A R R N E E C A Y I CAN GET WHAT I WANT M E T T O P I T E WE ALWAYS SAVE TIME AND MONEY THE PRICES ARE GOOD N S O U U P I DONT QUEUE L WE KNOW HOW VITAL OUR JOBS ARE M C E M R H THE STAFF ARE GREAT O WE MAKE OUR JOBS EASIER TO DO O O F C W P R E GROW SALES W WE DELIVER CONSISTENTLY EVERY DAY E O UNITED KINGDOM REPUBLIC OF IRELAND POLAND CZECH REPUBLIC SLOVAKIA HUNGARY TURKEY The Steering Wheel Throughout all our businesses across the world we measure our performance through the Steering Wheel, whether we work in distribution, the office or in stores.
+This helps maintain focus and balance in what counts to run each of our businesses successfully, be it wage costs or whether customers can get everything they want.
+I can get what I want A key priority for our managers and staff is that customers can always get what they want, on every shopping trip.
+We are continually working on improving our availability.
+We talk about Every Little Helps a lot, but its not just In the UK, we have introduced a new method for counting a catchphrase or marketing slogan, it represents everygrocery products which has significantly reduced gaps in stores.
+For our people and our customers, In Central Europe, a project called Simple Ordering is under its how we run our businesses from China to Chorley.
+way which will deliver improved availability and this was As Tesco has grown, so has the importance of Every Little trialled in Hungary last year.
+Over time, weve gone from simply selling groceries The prices are good In China, we have now launched a to providing anything from loans to mobile phones.
+By price guarantee on key commodity products including rice, setting out in all these new directions we ran the risk of losing eggs and bread.
+This means that if our customers can buy our way.
+So, we have relied on Every Little Helps more and these products for less from any of our local competitors, more over the years, to act as a common philosophy to we will refund double the difference.
+The feedback from bind us all together.
+Every operational decision we make in customers has been very positive.
+Tesco is judged against the principles of the shopping lists.
+Deceptively simple, but the key to understanding Tesco is An opportunity to get on As a world-class business we to see that our obsession with delivering these promises recognise that for us to constantly move forward, we need is what were all about.
+Unless it improves the basics of to have world-class leaders and world-class staff, building shopping, were not interested.
+loyalty and encouraging ordinary people to achieve extra- 8 Tesco plc E D P L R WE TRY TO GET IT RIGHT FIRST TIME L I A E K R H E MAXIMISE PROFIT E T S M O E I O BE A GOOD NEIGHBOUR B R E T T S MANAGE OUR INVESTMENT T E R U O N E C P O A E T AN OPPORTUNITY TO GET ON - R E O A BE RESPONSIBLE, FAIR AND HONEST D N T I AN INTERESTING JOB O N S A MANAGER WHO HELPS ME TO BE TREATED WITH RESPECT Our Shopping Lists determine what we strive to achieve every day: that no-one tries harder for customers we treat people how we like to be treated we are better for customers, simpler for staff and cheaper for Tesco.
+JAPAN SOUTH KOREA CHINA TAIWAN Vanida S. Greenstore Bangkok, Thailand.
+THAILAND MALAYSIA, 2 900 managers have been appointed this year ordinary things.
+Throughout our business we run several I dont queue We constantly strive to improve our checkout development programmes for our staff and our managers, service so that fewer customers have to queue.
+In the UK from graduate programmes to Options, to enable all our last year, many more customers enjoyed our one in front people to develop the skills they need to get on in their service.
+In our international businesses, we are continuing careers.
+It is a priority for us to develop leadership at every to implement what we have learnt from the UK to improve level in every part of our business.
+This year alone over 2,900 how we manage our scheduling of staff for checkouts and managers have been appointed in the UK, and thousands we have already seen queues reduce.
+of members of staff promoted in Asia and Europe.
+We try The staff are great All of our staff throughout the world actively to share our managers knowledge as a company, and regularly receive refresher training on how to deliver great our people move not only roles but also countries to help customer service.
+In the UK, all store staff are being trained broaden their depth of knowledge, and add value to their in new skills to deliver even better service through a culturenew role.
+Ryszard Tomaszewski is a great example of this.
+change programme called Living Service.
+So far, we have Previously Ryszard was the Operations Director in Poland.
+covered 650 stores in total, with all of our people in these He has just completed a 12 month placement as Operations stores receiving training in the Living Service attitudes: Director for Superstores North and is now part of our supply know your stuff: chain team.
+Likewise, Dennis Bryne who was a store manager show you care: in Manchester and then Gatwick Extra has moved to Korea share a smile.
+as an international coach, working with the Korean team to develop a process which improves how stores manage their waste reduction policy.
+Tesco plc 9 We have an excellent track-record in developing the international best managers and growing local talent.
+We have introduced Would I buy it?
+training to staff in Poland to ensure all of our products are of the best quality.
+Zhu Fengxia Sanmen, Shanghai, China.
+We now have Express stores in six countries outside the UK.
+Selayang, Malaysia Over half of Tescos selling space is now outside the UK and the population of markets we operate in adds up to more than two billion people, representing more than half of the worlds wealth.
+10 Tesco plc This year we launched our Cherokee clothing brand in Poland, the Czech Republic and Slovakia.
+165 international Express stores With over a decade of international experience, we have developed a strategy which has given us the confidence to grow our existing businesses and invest in new markets.
+In those countries which formed the first part of Tescos international expansion in the late 1990s, such as Thailand and Hungary, we now have substantial, successful, local businesses, which help us to develop the blueprint for new markets, such as our Hymall joint venture in China.
+We are flexible, adopting a slightly different approach, as every market is unique We have a local offer, in response to local cultures, local customers, local supply chains and local regulations International expansion requires focus its a long-term effort, not about planting flags No single format can reach the whole market, so we are multi-format Its not about scale, its about skill so we make sure we have capability through people, processes and systems We develop brands to enable us to build lasting relationships with customers Tesco plc 11 In South Korea, we launched the MeliMelo international: asia childrens clothing brand.
+BEING LOCAL IN THAILAND Many of our customers in Thailand are more used to shopping at local wet markets than hypermarkets, so while we are bringing many of the benefits of modern retailing, such as improved hygiene, quality and availability, we have tried to make sure we understand local customers needs.
+This means we sell the majority of fresh produce loose or in small quantities so customers can buy exactly the amount they want, even if its just one clove of garlic.
+We have taken many items out of plastic packaging, so customers can touch, smell and feel the quality of their produce.
+We have also increased the number of staff on counters, so customers can enjoy the same interaction they are used to when doing their daily shopping.
+39stores 111stores 13stores China Japan Malaysia China In 2005, we introduced 500 Japan Our new management team Malaysia We are making good progress economy products into our ranges for have had a challenging year, and we are in Malaysia with an increase in sales, customers across China.
+In addition, continuing to learn about the Japanese a stronger opening programme and for the first time, two waves of price cuts market.
+In Japan, we operate discount improving profitability.
+We have a good were launched where we cut the price on convenience supermarkets, typically pipeline of new space and we have been 33 everyday staple foods for customers, 3,000 sq ft in size.
+In the year, we able to move to multi-format at an earlier such as loose eggs, oil, rice etc and also complemented our organic growth stage than we have before, by building the price on the top 650 branded grocery programme, which added three stores, on our experience in other countries.
+Hymall opened nine hypermarkets with a small acquisition in June of the We are trialling our Express format in this year and plans a further 12 next Tanekin business.
+This comprised eight Malaysia with three stores, situated mainly year.
+We have begun to accelerate our stores around Tokyo which are already in the area around Kuala Lumpur.
+We also expansion programme beyond the trading under the Tsurukame format.
+opened our first Value store, a 3,000 sq m Yangtse delta and have teams working to We opened our first trial Express store store in Banting.
+By offering a tailored develop our network in Beijing, Shenzhen in April 2006. hypermarket range in a smaller store which and Guangzhou.
+We have also invested is cheaper to build, we have been able to in capability, bringing Tesco systems and bring a modern retail offer to a community know-how into the business, focusing which would not have been able to sustain particularly on improving store design, a larger hypermarket.
+the supply chain and store replenishment.
+12 Tesco plc This year we opened six new Culture Centres in our stores in South Korea.
+FIRST TESCO-DESIGNED STORE IN CHINA In September, Hymall, our joint venture with Ting Hsing in China, opened a store in Sanmen, Shanghai.
+This is the first store which has been designed from scratch using a Tesco blueprint.
+While the design keeps the very best aspects of the existing Hymall stores, such as a strong local feel and an exciting and captivating fresh food market, it also brings key Tesco benefits to the store, including making it easier for customers to get around, making it simpler for staff to replenish the shelves and more standard merchandising of products.
+In its first month, almost 400,000 customers experienced an improved shopping trip thanks to the joint venture team working together.
+Parimala Ganisanan Shah Alam, Malaysia.
+62stores 6stores 219 stores South Korea Taiwan Thailand South Korea We opened eight new Taiwan It has been a challenging few Thailand Customers in Thailand benefited hypermarkets in South Korea this year, months for our team in Taiwan, following from an exciting development this year including three compact hypers, which the announcement of the asset swap deal the launch of our Talad format.
+Talad are around 60,000 sq ft instead of the with Carrefour in September 2005.
+Ahead means market in Thai, and represents more typical 100,000 sq ft. We also of the transfer to Carrefour, they have held the fact that we have tailored our offer finished the conversion programme of the the performance of the business together to customers who are used to shopping 12 stores we purchased from Aram-Mart.
+remarkably well in difficult circumstances.
+We now have ten of Nine of these stores were converted to We have been able to continue growing these stores, which carry between Express, complementing our organic growth sales in Taiwan, despite tough 4,500 and 7,500 product lines in around programme.
+We have further adapted our competition, thanks to the efforts 10,000 sq ft of selling space.
+Our Express Express model in South Korea, enabling of the team in ensuring that our customers format has proved extremely successful in us to focus on the key products which received the best possible service and a Thailand and we now have over 139 stores customers want to be able to buy, close great all-round offer.
+This hard work will with more to come next year, plus 14 to where they live and work.
+During the enable us to exit from Taiwan with Value stores and ten new supermarkets.
+year, we appointed In sook Kim as store minimal financial impact, allowing us We are opening a dedicated Express manager of our Gajwa hypermarket.
+In to focus on investment in Central Europe distribution centre in Bangkok next year, sook is the first female store manager for and our other Asian businesses.
+which will supply both fresh and ambient our Homeplus business and is one of the products.
+first to benefit from our store manager development programme.
+Tesco plc 13 international: europe Our Value range is proving very popular with customers right across our international network.
+CARREFOUR DEAL In September 2005, we announced an assetswap with Carrefour.
+As part of the deal which is subject to the usual regulatory approval, we will gain up to 11 Carrefour hypermarkets in the Czech Republic and four stores in Slovakia, strengthening our Central European business.
+Our business in Taiwan, which has been unable to grow sufficient scale will be passed to Carrefour.
+The swap is an innovative way of gaining the opportunity to grow our business substantially in the highly competitive Czech and Slovak markets.
+35stores 87 stores 105stores Czech Republic Hungary Poland Czech Republic Overall, our business in Hungary Customers are facing a more Poland Customers are showing signs the Czech Republic has delivered strong challenging economic and retail environof renewed confidence in Poland.
+The sales and profit growth despite very ment in Hungary, which has held back economic outlook is better and the competitive market conditions.
+We have our growth but we have still made solid response to an improving offer in our also accelerated our new store developprogress.
+Our customers have benefited stores is encouraging.
+Customers love the ment programme, adding 20% to our from lower prices in store and from the convenience of our small format stores sales area during the year, with eight new roll-out of petrol stations, making it which bring many of the advantages of compact hypermarkets.
+We opened the significantly cheaper to fill-up.
+We also our larger hypermarkets closer to where Groups first 1,000 sq m, or 1K store, in opened 18 new stores in the year.
+Our first purpose-built Mikulov in the Czech Republic, close to the 2004 05, we opened our first 3,000 sq m fresh food distribution centre, which we border with Slovakia.
+Over 8,000 customers, or 3K store and following its success we have built next door to our existing representing approximately the towns opened a further three this year.
+Combined, ambient distribution centre in Teresin, entire population, chose to visit the store these stores added 22% to our total space opened in March and will help us to on its opening day in June 2005.
+This in the year, with a further 30 new stores, further improve the availability and format enables us to bring the Tesco offer representing an additional 880,000 sq ft quality of our meat and produce ranges.
+to smaller towns, carrying a locally-tailored of new space, planned this year.
+We opened our first Czech customer kitchen in Letnany store during the year, enabling us to gain crucial customer feedback into the quality and design of our products.
+14 Tesco plc This year we opened Antalya, Turkey a 161,000 sq ft We have introduced state-of-the-art Every Day Low fresh food depot Prices into our in Teresin, Poland.
+TESCO IN A BOX Growth in our international businesses is made possible by improving the capability In Turkey, the launch of our people, processes and systems.
+Tesco of Kipa Value brand in a Box is a suite of bespoke systems that has helped to grow was developed in our Turkish business, our business.
+working with members of our Korean, Indian and UK teams.
+Now it has been developed, it can be rolled out to our other businesses, providing them with all the necessary systems required to operate key Tesco processes, such as supply chain and replenishment.
+Tesco in a Box went live in the first store in Turkey in March 2005 and the team is in the process of rolling it out to our Japanese and Chinese businesses.
+91stores 37 stores 8stores Republic of Ireland Slovakia Turkey Republic of Ireland We continue to Slovakia In line with our other Central Turkey In Turkey, Kipa delivered a very invest in bringing prices down for our European businesses, Tesco Slovakia has strong performance.
+Sales rose strongly Irish customers, with price cuts of over introduced a price promise on 50 everyand profit doubled.
+We now have eight 55 million this year alone.
+We are also day items, guaranteeing that we wont stores, serving over 250,000 customers focusing on extending our product ranges.
+be beaten by any local competitor if every week.
+New stores in Canakkale, With Finest growing in popularity, we have customers find a cheaper price elsewhere, Bodrum and Antalya have all performed increased the number of lines in areas well give them twice the difference.
+The Bodrum store was the first such as cheese, ready meals and wine.
+The business has delivered another very designed by Tesco and the pipeline for The Cherokee clothing range now includes strong performance, with sales and profits the future looks strong, with eight stores mens and childrens items.
+The business in significantly up on last year.
+Our new in the coming year which, will nearly Ireland has achieved strong growth in sales store programme is now supported by double our space in Turkey.
+Sales growth has benefited the growth of our compact hypermarket launched the Kipa Value brand in Turkey, from a good like-for-like performance format.
+We now have 18 such stores, with over 400 products so far and we plan and an acceleration in the growth of our with five more planned this year.
+Our to extend this in the coming year.
+We opened six new stores with new fresh foods central distribution centre over 100,000 sq ft of sales area during at Beckov, measuring 500,000 sq ft, the year, with a further eight new stores is fully operational and delivering planned in 2006. significant benefits in lower costs and better product quality.
+Tesco plc 15 Huge on quality and We are committed low on price, our new to developing the Naturally Good Food capability of our core uk range marks the new people and helping age of the ready meal.
+to make Tesco a great place to work.
+Finest is the premium Tesco brand with over 1,500 products, including non-food lines.
+We work hard to create value for customers, to earn their lifetime loyalty.
+We try to deliver what customers want and we treat people customers and our team as we like to be treated.
+16 Tesco plc Mikey Balfour We have invested and Kim Moussi over 10 million Bar Hill Extra, in reducing prices in United Kingdom.
+30% increase in organic fruit and vegetable sales Our success depends on people the people who shop with us and the people who work with us.
+We never forget that our customers have a choice and they come back to shop with us only because they like what we offer.
+We pride ourselves on our dedication to customers, seeking all the time to adapt and improve what we sell and how we sell it to reflect their needs.
+We dont always get it right but we try to make their shopping trip as easy as possible, reduce prices where we can to help them spend less and give them the convenience of shopping when and where they want in small stores, large stores or on-line.
+For example, over the last year we have worked to give customers even better value.
+We saw deflation of 1.8% in our stores as we invested in lowering prices for customers.
+We check our prices on 10,000 items every week and put them on our website so that our customers can make sure they are getting the best deal.
+com pricecheck Tesco plc 17 Our first two Finest potato lines, Exquisa and Smile, were core uk specifically selected 25 34 85 95 to offer customers 2003 2004 2005 2006 an enhanced taste.
+NUMBER OF FRESH FRUIT AND VEGETABLE VALUE LINES HEALTHY LABELLING We know that health and fitness is a concern for many of our customers, so were providing more ways to help people live a healthier life.
+We put a big effort into improving our chilled ready meal recipes, which now only use ingredients that customers can find in a Tesco store.
+Weve also reduced sugar, salt and fat levels in hundreds of our products.
+Following extensive research to understand how best to help customers choose a balanced diet, weve also introduced our new signpost labelling to our own-brand lines, providing simple, clear, front-of-pack information to 2,500 products so far, and by the end of this year the entire range will have been completed.
+com clubcard healthyliving, 1 898stores United Kingdom giving customers what they want 24 7 Ranges Because everyone is welcome at Tesco, we appreciate Our great tasting Healthy Living brand has been so popular that our customers have different tastes and requirements.
+with customers that weve added over 80 new products to We work hard to give our customers a broad assortment the range and weve also launched a Kids Healthy range of of leading brands, a really good range of Tesco products over 40 lines, which has been taste-tested and approved by from Finest to Value lines and lots of new ideas for feeding children themselves.
+Our new Wholefoods range of 80 natural the family.
+snack and cupboard lines, including nuts, dried fruits, seeds, pulses and grains are already being bought by over a million Finest is the premium Tesco brand with over 1,500 products customers every month.
+across food and non-food and the majority of our customers regularly buy Finest.
+In 2005, we introduced over 200 new For many customers, organics are now everyday products Finest products and saw sales grow rapidly, particularly at and Tesco leads the market.
+Weve invested over 10 million Christmas.
+We continue to lead the way in product in reducing prices in these lines and continue to expand our development for example, we launched the first two range.
+Total organic sales grew by 26% in the year, including Finest potato lines Exquisa and Smile last year.
+These over 30% growth in meat, fish and poultry.
+varieties were specifically selected to offer customers an Instead of offering a standard product range everywhere, enhanced taste.
+we have put a lot of effort into tailoring our offer for local customers.
+For example, our new Extra store in Slough, 18 Tesco plc A total of 1.5 million customers a week now choose to use our self-service checkouts.
+Tesco own-label is our equivalent of the well-known brands at a fantastic price.
+Our new Wholefoods range was introduced into our stores in October 2005.
+Berkshire features over 900 speciality Asian products, from We have made further good progress with the development new vegetarian and Halal ready meals to extensive ranges of of new space and store formats.
+A total of two million sq ft bulk-pack rice, and even Bollywood DVDs.
+This is currently one of new sales area was opened during the year in all formats, of our highest turnover Extras and the range has now been of which over 660,000 sq ft was in extensions to existing introduced in many more stores.
+It isnt just in our big stores stores, mainly for non-food.
+where were adapting our offer for local customers in Express With Extra and Express being our least mature formats and stores, weve also begun to adapt our ranges to suit different with both now delivering above-average investment returns, types of location.
+these are important drivers of our growth.
+Formats Our store formats are a way of meeting the different During the year, we opened another 18 Extra hypermarkets, needs of our customers wherever they live and however they most of them through extensions to existing stores, bringing want to shop in large stores, in small stores or on-line.
+Extra now represents 31% of our total sales Express brings great food and low prices into the heart of area.
+The trading performance of the large Extra stores we neighbourhoods and over seven million customers every week opened in 2005 in Bar Hill Cambridge, Talbot Green, visit one of these stores.
+Metro offers the convenience of Mid Glamorgan and Slough in Berkshire, all of which have Tesco in town and city centres where people live and work.
+At more than 100,000 sq ft of sales area, have been significantly Tesco Superstores, customers can find everything they need ahead of expectations.
+for their weekly shopping and at our Extra stores customers can not only find our full range of food and convenience lines, but also a comprehensive range of non-foods, including health and beauty, clothing, electricals, toys and homewares.
+Tesco plc 19 Express stores We regularly bring better quality ask customers and lower prices to for ideas on core uk local neighbourhoods.
+IMPROVING OUR STORES We continue to build new stores and improve existing stores to better serve our customers.
+Last year we completed the conversion of three Big W acquisitions to Tesco Extra Stores at Grimsby, Redruth and Coventry Crosspoint.
+Our Bar Hill store in Cambridge is receiving excellent customer feedback following a remodel and the introduction of a new mezzanine floor.
+12 000customers attend our Customer Question Time each year UK Distribution We have 30 depots throughout the UK, Better, Simpler, Cheaper We can invest in lower prices and six of which are dedicated to non-food and clothing.
+improving customer service because we try to ensure that We have invested more in getting the right product to the the way we work is better for customers, simpler for staff and right store at the right time this means new depots, new cheaper for Tesco.
+We call the wide range of initiatives, which systems and new ways of running our distribution network.
+together created over 330 million of savings last year, our Step Change Programme.
+We opened a new 370,000 sq ft fresh food depot at Peterborough last October, which boasts the latest For example, at most of our stores, customers can now buy technology, including paperless picking systems, which are their lottery tickets at the checkouts.
+This was the first service now being introduced across the business.
+At Doncaster we of its kind anywhere in the world and our customers can now took over the management of the depot from a third party pay for their lottery tickets and groceries together without provider and extended it by 110,000 sq ft. We also opened having to queue in two different places.
+More savings have two purpose built non-food depots this year.
+The first, at come from the way we handle products.
+Over 15,000 of Daventry, is our largest at over 780,000 sq ft and supports our product lines are now delivered to stores in shelf-ready the growth of our clothing business.
+It will handle two million packaging, which makes stock replenishment easier, quicker cases a week.
+The other, at Chesterfield, supports the growth and cheaper.
+We have now introduced self-service checkouts of other non-food products such as household electrical to over 200 stores, offering customers a choice when they get items.
+The depot is performing well above target and over to the tills, and freeing up staff to deal with customer service.
+400 people were recruited upon opening to keep ahead More than 1.5 million customers per week now choose to use of increasing demand.
+20 Tesco plc TWIST Tesco Week In Store Together ensures our managers, at every level, keep in touch with customers and staff.
+the Tesco team One of our core values is to treat people how we like to be treated.
+It is important to us that Tesco is a great place to work and that our staff are given the training and opportunity to get on.
+We have training schemes for every career stage and more than 80% of our management roles are filled internally.
+Over 7,000 members of staff are on a development programme designed to give them the skills and experience to move to a bigger job.
+We invested in over 2,000 new management and 4,500 Team Leader roles at the checkouts last year to continue to deliver Every Little Helps for customers.
+We try to ensure that peoples jobs are interesting and fulfilling.
+We know each member of the team has different demands on their time.
+We support our peoples needs through flexible working, part-time roles, job-sharing opportunities and shift swapping.
+This year we have achieved a 4% reduction in absence, resulting in over half a million extra staffing hours in the business to serve our customers better.
+Vernon Knight Slough Extra, United Kingdom.
+Clubcard Tesco Clubcard celebrated its 10th We Share Our Success We share the success of the birthday in 2005 with one million more company with the whole Tesco team.
+As well as attractive customers than last year, bringing the total salaries we offer our people a wide range of benefits and of active cardholders to over 13 million.
+ways to make more of their money, safeguard their future Clubcard is a world-leading loyalty programme and look after their health.
+For example, we offer Childcare which enables us to thank our customers for Vouchers and two share schemes, Save As You Earn SAYE shopping with us and to better understand what our and Buy As You Earn BAYE.
+SAYE is a great way for our staff customers want.
+Its an important part of how we listen to to save for the future and benefit from the success of the customers and try to respond to their changing needs.
+Employees are invited to save an amount every year, we gave away over 320 million in Clubcard vouchers.
+four weeks and at the end of the scheme they have the For every pound spent in store, customers receive one opportunity to buy Tesco shares at up to a 20% discount from Clubcard point, but through our new Deals Scheme, points the share price when they joined.
+Through share ownership are quadrupled and converted into Deals tokens, offering four and share incentive schemes, over 165,000 of our people times the value.
+This means that 250 points provide 10 have a personal stake in Tesco.
+worth of tokens, which customers can easily redeem for a wide Our award-winning and well-funded defined benefit pension range of things, from subscriptions to magazines to days out scheme covers the majority of staff and allows members to at theme parks, travel deals and even driving lessons.
+build up a pension based on their earnings and service rather than final salary.
+This makes it an attractive scheme for parttime as well as full-time employees.
+Tesco pays in double the amount that staff contribute, making our scheme excellent value for money.
+Tesco plc 21 Home Living In April 2005, we refreshed our home non-food textiles range and sales have increased by 30%.
+Health and Beauty Kaniz Fatema Rupa One in ten women Slough Extra, in the UK buy Tesco United Kingdom.
+We have continued to grow our non-food business over the past year by expanding our offer to provide the value, choice and convenience our customers expect.
+22 Tesco plc In our larger Over 1.4 million stores, we now customers shopped have dedicated in our 20% off electrical advisers.
+Our customers buy one in three Fairtrade products sold in UK supermarkets.
+100 new Finest non-food products Continuing to invest in our non-food offer Our UK non-food business has continued to grow strongly by over 13% in a subdued retail market.
+The potential for growth is still big Tesco has a small market share of around 7% in non-food and just a quarter of UK households can easily get to one of our 118 Extra stores.
+To try and give customers more choice about how they buy our non-food items we are investigating ways of developing our on-line offer and we are extending our trial of non-food only stores.
+Because we now source many of our products globally we can go to the best suppliers around the world and buy for less so that we can give our customers the best deals around.
+com Tesco plc 23 450 523 578 2004 2005 2006 Cookshop In 2005, we sold five million Value non-food glasses.
+An average of one in four families bought one last year.
+NUMBER OF NON-FOOD VALUE LINES NON-FOOD RANGE IS ELECTRIC Customers have been telling us that they want the newest products and latest technology in home entertainment.
+To make it easier for customers to buy these products we linked up with top brands, including Samsung, Sony, Hitachi, Panasonic and JVC, to extend our range.
+We now stock a range of 17 different LCD and plasma TVs from the leading brands, across stores in the UK, offering our customers the very best in choice and value, whether they are shopping on a budget or want to buy the latest high-tech TV.
+700 new Finest lines offering great quality, range, price and service Customers really like the prices, the quality and the Our long-established product groups grew strongly, variety of our non-food.
+More and more people are with health and beauty sales increasing by 10% and choosing to buy not just their household essentials stationery, news and magazines by 17%.
+Clothing sales but also bigger ticket items at Tesco, from clothing to grew well in a difficult market, with our Cherokee brand TVs and fridges and from sports equipment to toys.
+of casual wear doing particularly well and we saw strong They appreciate the convenience of being able to do market share gains by volume and value.
+Some product all their shopping under one roof in our Extra stores.
+groups, for which we have been able to provide more Because of this, our non-food business has again made space in our larger Extra stores, did particularly well.
+Sales growth, in the UK alone, was example, consumer electronics sales were up 34% and over 13% during the year with total non-food sales sports goods were up 31%.
+Newer areas like jewellery increasing to 6.8 billion.
+We cut prices, so volume and MP3 players have been really popular with customers.
+growth was even higher again.
+24 Tesco plc Homeliving We offer 130 chart We sell three DVDs in-store with a million mugs full range of 32,000 a year.
+Tesco Finest paint is available in 138 stores with 11 colours to choose from.
+An audiovisual demonstration area in the store at Bar Hill in Cambridge allows customers to sit and experience the latest in the home theatre market, alongside CD DVD preview stations and interactive gaming demonstration pods.
+taking non-food further Even though we have 118 Extras across the country, Homeplus We are pleased with the performance of the only a quarter of UK households are currently able first of our Tesco Homeplus non-food only store trial, to get to an Extra store easily, so we are looking at in Denton, Manchester, which opened in October 2005. alternative ways for our customers to access our We are going to expand the trial, and more stores will non-food offer in ways that are convenient for them: open shortly in Bristol, Southampton and Telford.
+These stores, which will trade from more than 30,000 sq ft of Non-food on-line Building on both the success of sales area, will stock a wide range of non-foods, similar tesco.
+com and our in-store non-food offer, we are to the offer in Extra hypermarkets.
+investigating whether we can build a substantial on-line non-food business.
+Tesco plc 25 One in seven We sold 100,000 customers buy cashmere jumpers in from our clothing just two weeks.
+kettles to cashmere In non-food, electrical departments did really well, Consumer electronics grew by 34% including especially in our bigger stores where we can stock our new Value electricals range, which now has the full range.
+We sold approaching a million digital 28 products from toasters and vacuum cleaners cameras and MP3 players, a huge increase on last to kettles and microwaves.
+The latest product, year and we introduced SatNav products into 150 launched in March 2006 was a Value DVD player stores.
+We also opened our first Apple shop in our for just under 18.
+Milton Keynes Extra, stocking a comprehensive range Our Christmas seasonal non-food ranges of Apple products, including iPods and iMacs.
+Customers bought nearly 140 million cards, raising over 200,000 for charities, and we sold over 25 million Christmas crackers.
+Since 2003, Tesco has reduced the price of low energy light bulbs by an average of almost 30%, with the price of the lowest priced bulb coming down by almost 60%.
+We sold over 1.3 million units this year, helping customers to save 4.5 million on their electricity bills.
+High fashion at low prices Tesco clothing has This year, nearly 20% more of our something for everyone, with prices to suit every customers shopped in our clothing pocket.
+Our total clothing sales in the year were over departments on a weekly basis.
+Our 750 million, up 16% on last year.
+Our brands, led by cashmere sold even better this year, with Florence Fred and Cherokee, have been among the 100,000 jumpers and cardigans priced at an fastest growing in the whole UK market for several amazing 30 selling out in just two weeks.
+years, and especially so this year, when the overall clothing market hardly grew at all.
+CHEROKEE GOES INTERNATIONAL Sales volume growth in clothing was nearly 20%, well ahead of the market, making Tesco the UKs third We launched Cherokee in the Czech Republic, largest clothing retailer in terms of the number of Poland and Slovakia in February 2006 and garments sold.
+For example, we sold nearly six million we plan to launch in Hungary in the autumn.
+mens t-shirts and over three million items of swimwear.
+100% of our Cherokee products are sourced We are also now market leader in boys schoolwear.
+from China, India and Turkey.
+The Cherokee range is available for women, men, kids and babies and we are planning to extend the range to footwear, accessories and nightwear.
+26 Tesco plc Customers can buy everything under one roof in our Extra stores.
+Extra, Extra... During the year, we opened another 18 Extra hypermarkets, which stock our most comprehensive non-food ranges, most of them through extensions to existing stores, bringing the total to 118.
+Extra now represents 31% of our total sales area.
+Another 28 Extra stores are planned to open in the coming year, again mostly through the extension of existing superstores.
+The trading performance of the large Extra stores we opened in 2005 in Bar Hill, near Cambridge: Talbot Green, Mid Glamorgan and Slough in Berkshire, all of which have more than 100,000 sq ft of sales area, have been significantly ahead of expectations.
+The success of Slough, where we knocked down a 70,000 sq ft Extra and rebuilt a new 100,000 sq ft store on stilts, with parking underneath on the same site, has encouraged us to do more projects of this kind.
+Our experience of trading multi-level hypermarkets in our International business, particularly in Asia, has helped us design these projects.
+13%increase in UK non-food sales Sourcing Globally We currently source 35% of our As we have become better at international sourcing, hardline ranges for the UK through our International we have been able to reduce the amount of stock Sourcing Offices and 65% of our clothing.
+that we hold in our supply chain.
+Working together with distribution we have reduced stock from 13 to This year we will be sharing what we have learnt about six weeks holding.
+The need for storage facilities in international sourcing with our colleagues in Ireland the UK to handle stock from overseas suppliers has and Central Europe.
+We will be sourcing products that now disappeared.
+This in turn frees up capital for are common in all countries together as a group.
+Each investment in other areas as well as reducing country will retain the responsibility of identifying the handling costs in the supply chain.
+local needs of their customers and sourcing those products from the appropriate suppliers within their respected country.
+Joint sourcing will give us the opportunity to further lower our cost of goods and as a result invest in lowering our prices for customers.
+Tesco plc 27 We launched our Tesco On-line Photo Centre last year, available through tesco.
+com, retailing services which caters for all our customers photographic requirements.
+Our customers in South Korea can now take advantage of our financial services.
+By applying our approach to understanding customers and the way we work to retailing services, we have brought new levels of simplicity, value and choice to many markets.
+28 Tesco plc Divender Virdee Our Tescodiets Slough Extra, programme helps United Kingdom.
+customers to plan flexible healthy meals each week.
+97% of UK households have access to tesco.
+com Why customers choose us As our customers lifestyles change, we try to understand their changing needs and respond.
+That is why we began moving into new service markets, bringing the Tesco philosophy of simplicity, value and choice to sometimes complex products.
+Millions of customers now trust us to do the right thing for them in these new areas.
+For example, Tesco Personal Finance which offers a range of products from home insurance to credit cards has over five million customer accounts.
+com Tesco plc 29 Book sales on-line were over retailing services 4.5 million last year.
+COM We try to save customers time as well as money.
+com now has 750,000 active customers with more than 200,000 orders a week.
+During the Christmas period, Tesco.
+com delivered an amazing 750 tonnes of potatoes and 35,000 jars of cranberry sauce.
+com took 5,000 orders an hour, helping to reduce the time pressures for customers during this hectic period.
+com, 200 000orders placed online every week with tesco.
+com making on-line shopping simple Tesco.
+com is the most successful on-line grocery Retailing services in Ireland continued to expand shopping service in the world.
+Sales continued to grow during the year with on-line grocery sales www.
+ie strongly in the year up by 31.9%, to reach almost increasing by 15.8% to 18.8 million including VAT.
+Profit increased by 54.9% to 56.2 million.
+on-line service is now operated from 17 stores nationally and the service reaches over 65% of the population.
+What is remarkable about our on-line business is the There are now over 170,000 registered customers.
+diversity of customers using it, from busy urban families to people in rural communities.
+It has also allowed Financial services offered by Tesco Personal Finance many house-bound people to shop properly for the TPF in Ireland also expanded with growth in credit first time.
+cards issued to 26,000 and the successful introduction of car insurance, with 2,600 policies in force.
+TPF is In south east London where we have fewer stores and now understood to be the most active on-line provider some that are exceptionally busy, we have developed of car insurance in Ireland.
+Demand for personal loans a tesco.
+It opened in Croydon, south also grew strongly, following the introduction of new London in February 2006.
+This enables us to offer this low interest rates.
+service to more customers and builds on our existing capability as the warehouse is designed like a Tesco superstore inside.
+30 Tesco plc 60,000 customers now use our on-line DVD service, giving them access to over 30,000 titles.
+Homeplus, South Korea Our dot.
+com business in South Korea covers 31% of the country.
+DVDs to your door 60,000 customers have now signed This service is fully comprehensive, fully independent up to our DVDs to rent service, giving them access to and fully impartial.
+It is fast, friendly, secure and free the 30,000 titles that are available through our on-line within ten minutes customers can save over 150 DVD service.
+Customers simply go on-line and select a year on energy bills.
+which package there are three available they want: Getting healthy on-line As more and more of us the DVDs are then delivered to their door.
+When the are focused on what and how much we are eating, DVD has been watched, customers put the DVD into our e-diets service is proving to be increasingly popular the pre-paid envelope and post it back to us free of and is used by over 50,000 customers.
+There are no fines for returning DVDs late E-diets help customers to tailor their eating plans to and customers can now go on-line and reserve whats right for them, taking into account lifestyles, films before they are released.
+food preferences and health recommendations.
+Energy We have enabled tens of thousands of customers There are 15 different diets available to choose from.
+to save money on their gas and electricity bills.
+This year we have seen the Gi diet grow increasingly All customers have to do is click on the section called popular, with over half of all customers choosing this Energy in tesco.
+com and complete a simple form.
+Nutritional specialists are on hand to offer we have the customers details we compare over 6,000 ongoing support and advice to help customers different and constantly updated energy prices, from achieve their goals.
+all the main suppliers in England, Scotland and Wales.
+Tesco plc 31 Customers have a choice of 21 financial products retailing services and services.
+SIMPLE TRAVEL INSURANCE Our customers tell us that they love the simplicity of our financial services.
+We have over five million active customer accounts, including 1.8 million credit card holders.
+Take for example our travel insurance.
+If youre a Clubcard holder then all you need to do is pick up a pack in-store and take it to the checkout with the rest of your shopping.
+As soon as the insurance pack is scanned along with your Clubcard, you are insured for your trip.
+5million customer accounts in Tesco Personal Finance financial services that are simple Tesco Personal Finance now offers 21 financial products and services from loans and savings accounts to credit cards and insurance.
+We are Britains third largest online car insurer with over 1.4 million active car insurance policies.
+We are continually trying to improve our offer for customers and now offer the opportunity to purchase travel money in-store, by providing kiosks in seven stores.
+To date, over 70,000 customers have used this service.
+We have also made the purchase of premium bonds much more convenient for customers.
+The partnership with National Savings & Investments NS&I and Tesco Personal Finance enables customers to pick up brochures for NS&I tax-free premium bonds, and its range of inflation-beating index-linked savings certificates, alongside their weekly shop.
+In Thailand, the Tesco Lotus store card was introduced in May 2000: initially this card We have launched could only be used in Tesco Lotus Stores.
+In August 2004, we upgraded the card in a joint a new Tesco Bonus credit card and Tesco venture with Tesco Card Services and now this card is accepted by 24 million merchants Clubcard credit card.
+world-wide, as well as in Tesco Lotus stores.
+480,000 Thai customers now have a Tesco Visa card.
+We are also trialling Tesco Insurance in Thailand: our Thai customers can now purchase insurance for their home, health, travel and personal accident cover.
+We rolled this out to all stores in March 2006.
+32 Tesco plc Tesco telecoms offers great value for money TELECOMS In the run up to Christmas 2005, Tesco was the third largest pay-as-you-go mobile retailer.
+We offer our customers a comprehensive range of landline phones, telecoms accessories, pay-as-you-go mobile phones and airtime.
+In December 2005, we launched our first dedicated telecoms centre in our Slough store.
+The success of this independent non-pressured sales environment, which gives our customers choice and expert advice, encouraged us to open a second centre, in Newcastle Extra, during February 2006.
+Tesco internet phone services gives our customers free calls to other internet phone customers anywhere in the world, and low-cost phone calls over the internet to local, national or international landlines and mobiles.
+Tesco internet phone was the first ever all-in-one plug-and-play internet phone service to be launched and its ease of use and simple flat-rate tariff is proving hugely popular with customers.
+Tesco Mobile is a virtual network formed as a joint its Extra tariff which offers 10 pence a minute calls and venture with O.
+Having a joint venture partner means 5 pence texts for those customers who spend 15 or 2 that we do not need to invest directly into a network, more a month on top-ups.
+Tesco itself brings low marketing costs through stores, Mobile Club in Korea We launched Tesco Mobile Club Clubcard, tesco.
+in South Korea, where we now have 96,000 members Customer service is as key to Tesco Telecoms as it is and sales of over 1 million KRW.
+Customers can join by in our stores.
+In a market not normally associated with either completing a form on-line or visiting one of our customer satisfaction, we make it a priority to ensure stores.
+When our Korean customers sign up for this our customers receive excellent service.
+In June 2005, service they are awarded 5,000 points on their Family this effort into customer service was reflected in the Card.
+Customers can also receive text messages to their CFI research into mobile user satisfaction, where we mobile phone, telling them about promotions in-store.
+have come top for customer satisfaction for the sixth consecutive quarter.
+Tesco Mobile has just launched Tesco plc 33 corporate responsibility Weve increased our range of Value fruit and vegetables with 26 new lines.
+25,000 customers try Fairtrade products for the first time every week.
+We want to be a good neighbour, and run a business that is responsible, honest and fair.
+34 Tesco plc Organic sales have increased by 26%.
+In September 2005 we launched Sport for Schools and Clubs.
+41 768 741 in donations, staff time and gifts in kind.
+Our customers and other stakeholders want us to do our bit towards building a sustainable world and they want our stores to provide support for their community.
+We are responding to these concerns and changing the way we do business from tackling climate change to sourcing more local products, introducing nutritional labelling and looking at ways to be a better neighbour.
+To find out more about our approach to Corporate Responsibility, visit www.
+com Tesco plc 35 Over 2,500 products feature our new nutritional labelling corporate responsibility by the end of this year the entire range will have been completed.
+playing our part in local communities CULTURE CENTRES This year, we opened six new Culture Centres in our stores in South Korea, which offer 300 different sorts of educational and cultural programmes including dancing, karate and cookery lessons.
+We now have 37 of these centres with 350,000 members and 2,300 instructors.
+We raised 114 million KRW through various events, including a charity bazaar and staff fundraising, and we donated 50,000 products worth 350 million KRW to various charities.
+37 culture centres in our stores in South Korea reducing and recycling Recycling with our customers is an area that we have Recycling in our operations has enabled us to increase invested in to make recycling easier and more attractive.
+the amount of store waste that is recycled from 65% In 2005 we invested over 600,000 in new automated to 71% in 2005, saving a total of 26,694 tonnes of recycling machines for customers at our stores in waste from going to landfill.
+Over the last four years Winchester, Havant, Portsmouth, Southampton, we have improved the amount we recycle from 55% Andover and Royston and we plan to install these at to 71% saving 125,359 tonnes.
+We believe this will enable us to Reducing the amount of food waste going to landfill double the amount our customers bring for recycling is another important area of work.
+We are testing and this additional material would account for around aerobic digestion and gasification.
+We have reviewed 10% of the total additional tonnage needed to meet a number of potential sites to see whether they would the UKs EU packaging recycling targets by 2008. be suitable for housing a gasification unit, which turns food waste into energy and we aim to install our first unit in the coming year.
+36 Tesco plc Wind turbines We have energy on the roof of champions in each our Diss store store to raise power all 15 tills.
+awareness of the need to save energy.
+a good neighbour Our new store at Diss, which opened in November 2005 is to become a testbed for a whole series of environmental and cost-saving features.
+The store is one of the first in the country to showcase the latest energy-generating roof turbines, with five of them fitted above the store.
+The store also features a large area of translucent panels in the roof, which increase the natural light in the store therefore reducing the amount of artificial lighting needed.
+Staff areas have also been fitted with sunpipes to increase the amount of natural light and allow the fluorescent lighting to be dimmed accordingly.
+Various modifications have been made to the refrigeration cabinets, including improved cold air retention and cold air recycling.
+All the energy saving technologies employed have combined to cut the annual electricity consumption by over 20% compared to a standard store design.
+Energy Our aim is to be the best UK supermarket for energy use.
+We want to cut the average energy use in our buildings kwh sqft in half by 2010, delivering a huge reduction in carbon emissions.
+To achieve this target we are: setting up a 100 million fund which will be used for innovation in sustainable, environmental technology phasing out use of greenhouse gasses in refrigeration increasing the efficiency of our distribution fleets Feth Gnes Tesco Kipa, Cigili, Turkey.
+Responsible Internationally All of our international Wheel.
+Over 90% of suppliers have reported that we are businesses now report quarterly on energy, water and trustworthy, reliable, consistent, clear, helpful and fair, waste.
+Each business also has a further set of Corporate although there are always things we can do to improve.
+Responsibility KPIs which have been chosen in response All our buyers are trained to understand and comply with to local community and stakeholder feedback.
+For the Supermarket Code of Conduct and the recent Office example, in the Czech Republic, every Tesco store of Fair Trading audit of the code found no breaches at supports one local community project such as a Tesco.
+One of the key issues is that of supplier confidence childrens home or an institution for the disabled, and to help increase confidence when raising concerns, so our ten new stores this year have provided ten new we have appointed a Code Compliance Officer, community projects with total donations of 500,000 CZK.
+independent from our commercial teams, to advise and help resolve complaints, confidentially if necessary.
+Working Together The relationships that we have with our suppliers are vital to our success.
+We work in Community Plan Every year we produce an Annual partnership and help their businesses to grow as we grow.
+Business Plan outlining the specific projects which We treat our suppliers as we like to be treated, in a fair, the business will deliver over the following 12 months.
+honest and responsible way, sharing our knowledge This is based on the four segments of the Steering and helping them to develop new products that follow Wheel: Customer, People, Finance and Operations.
+In February 2006, we conducted our 2006, we have decided to launch, in addition, an annual second supplier viewpoint survey to give us anonymous, Community Plan.
+This ensures that we provide the right confidential feedback on what it is like to work with resources, energy, focus and vigour to delivering the Tesco.
+Our relationship with suppliers is so important expectations of customers, communities and stakeholders.
+that we have included a new supplier KPI in our Steering Tesco plc 37 Since 1992 Computers for Schools have given out over corporate responsibility 100million worth of computers and IT equipment.
+RACE FOR LIFE In 2005, over half a million women, including over 21,000 Tesco staff, took part in the fourth Cancer Research UK Race for Life.
+Together we raised over 33 million for research into cancer.
+Tesco staff raised 857,000 which was topped up with an extra 20% by the Tesco Charity Trust.
+We also launched a series of 10km runs with Cancer Research UK, which encourage both men and women to participate and fund-raise.
+For children, we sponsored the Junior and Mini Great Runs at eight venues across the country.
+In July we launched the Tesco Great School Run with 110,000 children across the UK taking part in a five-week health and fitness awareness programme, culminating in a 2km run.
+org, 857000 raised by Tesco staff for Race for Life the little things that make a difference Our Charity of the Year is a great way to bring staff Staff in stores across the country took part in various and customers together, uniting them in one common fund-raising events including a sponsored silence, goal to make a difference to peoples lives.
+a Stars in your Eyes evening and a sponsored walk in Dundee.
+Also in November 2005, Tesco Personal Since we started Charity of the Year in 1988, we have Finance donated 1p every time cash was withdrawn helped to raise over 23 million for some of the UKs from our ATMs raising 210,000 for Age Concern.
+Our Charity of the Year for 2006 is Whizz-Kidz.
+In 2005, we worked with Age Concern to raise over We are aiming to raise 1.5 million to enable Whizz- 2 million for projects including Fight the Freeze, Kidz to provide the 391 disabled children on their which involves buying blankets and heaters for the waiting list with their own customised mobility elderly: Someone to Talk to paying for volunteers equipment, including powered, manual and sports to regularly call the elderly to stop them from feeling wheelchairs, bicycles and tricycles.
+isolated and lonely, and Lunch Clubs raising money to pay for meals and company for the elderly.
+38 Tesco plc SPORT FOR SCHOOLS & CLUBS In September 2005, we launched Sport for Schools & Clubs to encourage children to get active and try new sports.
+The vouchers collected by customers can be exchanged for free sports equipment and professional coaching sessions.
+During the eight weeks of the scheme we gave out 320 million vouchers the equivalent of 50,000 coaching sessions or 60 million tennis balls.
+The Tesco Sport for Schools & Clubs is great because kids can benefit in so many ways.
+It encourages them to focus on something positive, is great for their health and its fun.
+Jason Robinson MBE former England Rugby Union Captain and World Cup Winner.
+Our new range of health information leaflets are available in-store.
+turning leeks into laptops Computers for Schools was launched in 1992 and In 2005, 3,000 new schools registered to take part, we have given schools over 100 million worth of taking the total number of schools that participated computer equipment, including over 57,000 state-ofto 30,000, 86% of all UK schools.
+Customers, staff and the-art computers and over 740,000 additional items schools collected an amazing 390 million vouchers.
+Tesco Computers for This meant that we were able to provide schools with Schools is the UKs longest running schools promotion over 9 million worth of equipment, including 2,500 and for six consecutive years has been awarded the computers and 108,000 additional items of computerMark of Excellence from Business in the Community.
+The scheme works on the Every Little Helps principle, For 2006, there are almost 600 items in the catalogue, bringing people together in a joint effort, which delivers including a new early years section, updated music benefits for the whole community.
+Our customers section, energy efficiency kit and a greater variety of receive one voucher for every 10 spent in a single PCs and monitors.
+This is then donated to a school of their choice, who then exchange their vouchers for free computer equipment.
+RICHARD BRASHER 44 Non-executive Chairman Deputy Chairman and Chief Executive Commercial and David Reid became NonSenior Non-executive Terry Leahy became Chief Trading Director executive Chairman on 2 April Rodney Chase was appointed Executive in 1997.
+Joining Richard Brasher was appointed 2004.
+Prior to his appointment a Non-executive Director on Tesco in 1979, he held a to the Board on 15 March he was Deputy Chairman of 1 July 2002.
+He is Non-executive number of marketing and 2004.
+Tesco Plc and has served on the Chairman of Petrofac Limited commercial positions prior to He has held a number of Tesco Board since 1985.
+David and a Non-executive Director of being appointed to the Board marketing, commercial and is a Non-executive Director of Computer Sciences Corporation of Tesco Plc on 5 October 1992. store operations positions, Reed Elsevier Group Plc, Kwik-fit in Los Angeles and Nalco most recently Non-food Group and President of the IGD.
+serves as Senior Advisor to Lehman Brothers both in 8.
+E MERVYN DAVIES CBE # the USA and Europe.
+Retail and Logistics Director Non-executive Director 53 Non-executive Director David was appointed to the Karen Cook was appointed Mervyn Davies was appointed Board on 16 November 1998. a Non-executive Director a Non-executive Director 9.
+CHARLES ALLEN CBE 49 He joined Tesco in 1973. on 1 October 2004.
+He is Group Non-executive Director From 1997 he directed the a Managing Director and Chief Executive of Standard Charles Allen was appointed integration of our business President of Goldman Chartered Plc.
+a Non-executive Director on in Northern Ireland and the Sachs, Europe.
+He is Chief Republic of Ireland before Executive of ITV Plc.
+returning to the UK in his current role in July 2000.
+40 Tesco plc # Member of the Audit Committee David is also responsible for Tesco Ireland.
+Richard is also responsible for UK Marketing.
+Member of the Nominations Committee Andrew is also responsible for our Services business, Member of the Remuneration Committee including Tesco Personal Finance, tesco.
+com, Tesco Telecoms and Tesco Direct.
+LUCY NEVILLE-ROLFE International and IT Director Finance and Strategy Director Group Marketing Director and CMG 53 Company Secretary Philip Clarke was appointed Andrew was appointed to the Chief Executive USA Lucy Neville-Rolfe was to the Board on 16 November Board on 17 November 1997.
+Tim Mason was appointed to appointed Company 1998.
+Prior to his appointment He is a member of the 100 the Board on 16 February 1995.
+Secretary to the Board on he held a number of roles in Group of Finance Directors He joined Tesco in 1982 and 15 March 2004 in addition store operations, commercial and a Non-executive Director was appointed Chief Executive to her role as Corporate and and marketing.
+She is executive Director of Deputy Chair of the British Whitbread Plc.
+Retail Consortium, and a member of the China Britain Business Council and of the Secretary of States Panel 12.
+CAROLYN McCALL 44 on Monitoring the Economy.
+Non-executive Director Non-executive Director 72 Non-executive Director Ken Hydon was appointed Carolyn McCall was appointed Dr Harald Einsmann was a Non-executive Director on a Non-executive Director on appointed a Non-executive 23 February 2004.
+She is Chief Director on 1 April 1999.
+He is Non-executive Director of Executive of Guardian on the Board of Calson Group Reckitt Benckiser Plc, the Newspapers Limited and is of companies, Checkpoint Royal Berkshire and Battle also a Director of the Guardian Systems Inc. and Stora Enso Oy, NHS Trust and Pearson Plc.
+She part of the Wallenberg Group.
+chairs Opportunity Now, the UKs leading membership organisation working towards gender equality and diversity in the workplace.
+Tesco plc 41 Summary Directors Report Independent auditors statement to the Principal activity and business review The principal activity of the Group is retailing members of Tesco Plc and associated activities in the UK, the Czech Republic, Hungary, Poland, the Republic of Ireland, Slovakia, Turkey, China, Japan, Malaysia, South Korea, Taiwan and Thailand.
+We have examined the summary financial statement of Tesco Plc.
+The summary financial statement and Operating and financial review is on pages 44 to 46.
+Respective responsibilities of Directors and auditors The Directors are responsible for Dividends The Directors recommend the payment of a final dividend of 6.10p per preparing the Annual Review and Summary ordinary share to be paid on 14 July 2006 to members on the Register at the close Financial Statement in accordance with of business on 5 May 2006.
+Together with the interim dividend of 2.53p per ordinary applicable law.
+Our responsibility is to report share paid in December 2005 the total dividend for the year comes to 8.63p, to you our opinion on the consistency of the Summary Financial Statement, the Directors compared with 7.56p for the previous year, an increase of 14.2%.
+emoluments and the summary of executive Directors Details of the current members of the Board are shown on pages 40 and 41. share options and disclosable shareholdings Mr C L Allen, Mr R Brasher, Mr P A Clarke and Mr A T Higginson retire from the Board within the Annual Review and Summary Financial Statement 2006 with the Annual by rotation and, being eligible offer themselves for re-election at the Annual General Report and Financial Statements 2006, the Meeting AGM.
+Directors report and the Report of the Directors Corporate governance Tesco Plc is committed to the highest standards of corporate on Remuneration and its compliance with the governance.
+The Board considers that Tesco Plc complied in all respects with the 2003 relevant requirements of Section 251 of the Companies Act 1985 and the regulations made Revised Combined Code on Corporate Governance for the year ended 25 February thereunder.
+We also read the other information 2006.
+A full corporate governance statement is contained in the Annual Report and contained in the Annual Review and Summary Financial Statements 2006.
+Financial Statement and consider the implications for our report if we become aware Summary report of the Directors on remuneration of any apparent misstatements or material inconsistencies with the summary financial Directors remuneration policy It is the role of the Remuneration Committee to statement.
+This statement, including the determine and recommend to the Board the remuneration policy for the Chairman opinion, has been prepared for and only for the and Executive Directors.
+Tesco has a policy of rewarding talent and experience companys members as a body in accordance with Section 251 of the Companies Act 1985 and seeks to provide incentives for delivering high growth and high returns for and for no other purpose.
+We do not, in giving shareholders.
+The current remuneration strategy is tailored to reward the delivery this opinion, accept or assume responsibility for of strong year-on-year earnings growth as well as sustained performance any other purpose or to any other person to in the longer term.
+whom this statement is shown or into whose hands it may come save where expressly agreed Compliance The Remuneration Committee has been constituted and operated by our prior consent in writing.
+throughout the year in accordance with the principles outlined in the Listing Rules of Basis of opinion We conducted our work in the Financial Services Authority derived from Schedule A and B of the 2003 Revised accordance with Bulletin 1999 6 The auditors Combined Code.
+In framing the remuneration policy full consideration is given to best statement on the summary financial statement practice.
+The Remuneration Report complies with the disclosures required by the issued by the Auditing Practices Board for use Director Remuneration Report Regulations 2002. in the United Kingdom.
+A summary of Directors emoluments and interests is set out on page 43.
+The full Opinion In our opinion the summary financial Remuneration Report is provided in the Annual Report and Financial Statements 2006. statement is consistent with the Annual Report and Financial Statements and the Directors report of Tesco Plc for the year ended 25 February 2006 and complies with the applicable requirements of Section 251 of the Companies Act 1985, and the regulations made thereunder.
+ LLP Chartered Accountants and Registered Auditors London 24 April 2006 42 Tesco plc Directors emoluments Fixed emoluments Performance-related emoluments Share Short-term Incentive Deferred Total Total Salary Benefits a Plan Short-term Shares Long-term b 2006 2005 000 000 000 000 000 000 000 000 Executive Directors Sir Terry Leahy 1,096 97 3 1,130 1,096 557 3,979 3,194 Mr R Brasher 499 36 3 550 534 1,622 1,268 Mr P A Clarke 628 83 3 645 626 234 2,219 1,791 Mr A T Higginson 628 86 3 645 626 312 2,300 1,812 Mr T J R Mason 628 42 3 645 626 312 2,256 1,824 Mr D T Potts 628 45 3 645 626 272 2,219 1,792 Non-Executive Directors Mr C L Allen 58 58 58 Mr R F Chase 100 100 100 Mrs K Cook 55 55 22 Mr E M Davies 60 60 57 Dr H Einsmann 55 55 55 Mr K J Hydon 58 58 58 Ms C McCall c 53 53 Mr G F Pimlott d 17 17 73 Mr D E Reid Chairman 500 86 586 539 Total 5,063 475 18 4,260 4,134 1,687 15,637 12,643 a Benefits are made up of car benefits, chauffeurs, disability and health insurance, staff discount and gym leisure club membership.
+b The long-term performance-related emoluments relate to the additional 12.5% enhancements allocated on long-term awards made in 2001 and short-term awards made in 2003 under the old bonus scheme.
+The long-term bonus awarded on 12 October 2005 under the Performance Share Plan was awarded in the form of nil cost options.
+c Ms C McCall was appointed on 1 March 2005.
+The figures are calculated from the date of Ms McCalls appointment.
+d Mr G Pimlott retired during the year.
+Tesco plc 43 Summary Financial Statement and Operating and Financial Review Income statement Group sales, including VAT, increased by Record efficiency savings of 330 million were delivered by 16.7% to 43.1 billion 2005 37.0 billion.
+At constant our Step-Change programmes, which bring together many exchange rates, sales grew by 15.0%.
+Group profit before tax initiatives to make what we do better for customers, simpler increased by 18% to 2,235 million 2005 1,894 million.
+for staff and cheaper for Tesco.
+Underlying profit before tax excluding IAS 32 and IAS 39 and Total international sales grew by 40.7% to 10.5 billion.
+the non-cash elements of IAS 19, which are replaced by the On a comparative 52-week basis, sales increased by 23.0%.
+normal cash contributions increased to 2,277 million, up by International operations contributed 492 million to 18.3%.
+Underlying diluted earnings per share grew by 15.1% operating profit, up 24.2% up 17.4% on a 52-week basis, to 20.30p and diluted earnings per share increased by 15.1% to 465 million.
+In the rest of Europe, sales rose by 33.8% to 5.8 billion A final dividend of 6.10p per ordinary share 2005 5.27p is 2005 4.3 billion.
+Together with the interim dividend of 2.53p 2005 sales rose 20.6%, to 5.2 billion.
+Operating profit increased to 2.29p already paid, this brings the full year dividend to 8.63p 263 million, up 8.2%, and on a 52-week basis to 265 million.
+In Asia, sales increased to 4.7 billion on a 52-week basis up UK sales increased by 10.7% to 32.7 billion with like-for-like 50.5%, 3.9 billion, up 26.4% on a 52-week basis.
+Operating growth of 7.5% including volume of 7.6% and 3.2% from net profit was up 49.7%, to 229 million, 200 million on a new stores.
+Deflation overall was 0.1%, despite the effect of 52-week basis.
+rising oil prices on our petrol business.
+Total profit net of tax and interest from joint ventures and Through good cost control and productivity we have absorbed associates for the year was 82 million compared to 74 million significant external cost increases during the year, particularly last year.
+Tesco Personal Finance profit was 139 million, of during the second half, arising mainly from higher oil-related which our share was 70 million.
+costs and increases in local business taxes.
+Consequently, Net finance costs for the year were 127 million 2005 UK operating profit was 14.9% higher at 1,788m last year 132 million.
+Tax has been charged at an effective rate 1,556 million.
+The UK pre-property operating profit rose of 29.0% 2005 28.6%.
+10.6% to 1,698 million, leaving the operating margin unchanged at 5.7%.
+Using our pre-IFRS underlying profit definition, operating profit increased by 9.7% to 1,858 million last year 1,694 million.
+44 Tesco plc The summary financial statement on pages 45 Summary Group Income Statement Year ended 25 February 2006 and 46 and the summary Directors report on pages 42 and 43 are a summary of information 2006 2005 m m in the Annual Report and Financial Statements Continuing operations 2006.
+This summary financial statement does not contain sufficient information to allow for a full Revenue Sales excluding VAT 39,454 33,866 understanding of the results of the Group and the Cost of sales 36,426 31,231 state of affairs of the company and the Group.
+Gross profit 3,028 2,635 The Directors report, the accounts and Auditors Administrative expenses 825 732 report on those accounts, which is unqualified, Profit arising on property related items 77 49 are contained in a separate publication entitled Operating profit 2,280 1,952 Annual Report and Financial Statements 2006.
+Share of post-tax profits of joint ventures and associates 82 74 Copies may be obtained free of charge by writing to: Finance income 114 103 Finance costs 241 235 The Company Secretary, Profit before tax 2,235 1,894 Tesco PLC, Tesco House, Taxation 649 541 Delamare Road, Profit for the period for continuing operations 1,586 1,353 Cheshunt, Discontinuing operation Hertfordshire EN8 9SL.
+Loss for the period from discontinuing operation 10 6 Telephone 01992 632222.
+Profit for the period 1,576 1,347 Shareholders wishing to receive the Annual Report Attributable to: and Financial Statements as well as the Annual Equity holders of the parent 1,570 1,344 Review and Summary Financial Statement in future years should write to this address.
+Minority interests 6 3 1,576 1,347 Earnings per share from continuing and discontinuing operations The summary financial statement was approved Basic 20.07p 17.44p by the Board on 24 April 2006.
+Diluted 19.79p 17.22p Terry Leahy Earnings per share from continuing operations Andrew Higginson Basic 20.20p 17.52p Directors Diluted 19.92p 17.30p New underlying profit m m Profit before tax excluding discontinued operation 2,235 1,894 Adjustments for: IAS 32 and IAS 39 9 Total IAS 19 Income Statement charge 303 268 Normal cash contributions for pensions 270 237 2,277 1,925 Underlying diluted EPS 20.30p 17.58p Results for the year ended 25 February 2006 includes 52 weeks for the UK and Republic of Ireland and 14 months for the majority of the remaining international businesses.
+Tesco plc 45 Summary Financial Statement and Operating and Financial Review continued Summary Group balance sheet Balance sheet Net assets have increased by 790 million to 25 February 2006 9,444 million.
+Non-current assets increased by 1,713 million, 25 Feb 26 Feb after charging depreciation and amortisation of 838 million.
+2006 2005 m m Group capital expenditure was 2.8 billion.
+UK capital Non-current assets 18,644 16,931 expenditure was 1.8 billion, including 760 million on Current assets including assets held for sale 3,919 3,224 new stores and 404 million on extensions and refits.
+Total Current liabilities 7,518 5,680 international capital expenditure rose to 1.0 billion, 0.4 billion Net current liabilities 3,599 2,456 in Asia and 0.6 billion in Europe.
+In the year ahead we forecast Total assets less current liabilities 15,045 14,475 Group capital expenditure to be around 3.0 billion.
+Non-current liabilities 5,601 5,821 Net assets 9,444 8,654 Equity attributable to equity holders of the parent 9,380 8,603 Minority interests 64 51 Total equity 9,444 8,654 Summary Group cash flow statement Cash flow statement The Group generated net cash of Year ended 25 February 2006 165 million during the year, benefiting from strong cash flow 2006 2005 from operating activities of 3.4 billion and the net proceeds m m of 346 million from our property joint venture with Consensus.
+Cash generated from operations 3,412 3,009 Interest paid 364 350 Net debt, at 4.5 billion at the year end, was higher than last Corporation tax paid 429 483 year, primarily due to IAS 32 and IAS 39.
+Excluding the impact Net cash from operating activities 2,619 2,176 of IAS 32 and IAS 39, net debt was broadly unchanged at 3.9 billion.
+Net cash used in investing activities 1,962 1,501 Cash flows from financing activities Dividends paid 441 448 Other net cash flows on financing activities 51 203 Net cash used in financing activities 492 651 Net increase in cash and cash equivalents 165 24 Cash outflow from decrease in debt and lease financing 115 206 Loans and finance leases acquired with subsidiaries 17 Net debt included within disposal group 55 Other non-cash changes 357 11 Decrease in net debt in the period before the impact of IAS 32 and IAS 39 22 224 IAS 32 and IAS 39 adjustments to net debt 588 Increase decrease in net debt 610 224 Results for the year ended 25 February 2006 includes 52 weeks for the Opening net debt at beginning of period 3,899 4,123 UK and Republic of Ireland and 14 months for the majority of the remaining Closing net debt at end of period 4,509 3,899 international businesses.
+Performance graph The Groups total shareholder return Tesco performance ie.
+share price movements plus dividends 140 reinvested over the last five financial years relative to the FTSE 100 index of companies is shown here.
+This index has 120 FTSE been selected to provide an established and broad-based 100 comparator group of retail and non-retail companies of similar scale to Tesco, against which the Groups TSR performance 80 can be measured.
+There has also been a very strong performance in TSR over 60 the last three and five years against a comparator group of Feb 01 Feb 02 Feb 03 Feb 04 Feb 05 Feb 06 our major retail competitors in the UK, Europe and the US.
+2 Results for the year ended 25 February 2006 include 52 weeks for the UK and ROI and 14 months for International.
+3 Operating profit includes integration costs and profit loss arising on sale of property related items.
+4 UK GAAP underlying profit excluded net profit loss on disposal of fixed assets, integration costs and goodwill amortisation.
+5 IFRS underlying profit excludes IAS 32 and IAS 39 and the IAS 19 charge for defined benefit pension schemes, which is replaced by the normal cash contributions.
+6 Diluted and basic earnings per share are on a continuing operations basis.
+7 Dividend per share relating to the interim and proposed final dividend.
+8 The numerator is profit before interest, less tax.
+The denominator is the calculated average of net assets plus net debt plus dividend creditor less net assets held for sale.
+9 In addition there are 39 stores operated by our Hymall joint venture in China, which have 3,505,000 sq ft of sales area.
+10 Store sizes exclude lobby and restaurant areas.
+11 Based on average number of full-time equivalent employees in the UK, and revenue exclusive of VAT.
+12 Based on weighted average sales area and sales excluding property development.
+Employees excludes shares held in nominee accounts on behalf of employees for Shares In Success.
+48 Tesco plc Poland China South Korea Number of stores 105 Number of stores 39 Number of stores 62 Sales area 4.8m sq ft Sales area 3.5m sq ft Sales area 4.1m sq ft Year of entry 1995 Year of entry 2004 Year of entry 1999 contents inside Tesco New stores opened New stores opened 9 New stores opened inc. acquisitions in 05 06 27 inc. acquisitions in 05 06 27 Planned openings 06 07 12 Planned openings 06 07 39 Planned openings 06 07 47 Number of staff 16,400 2 Chairmans statement 4 Chief Executives review Number of staff 20,357 Number of staff 10,787 and Financial highlights United Kingdom 16 Core UK Number of stores 1,898 Sales area 25.9m sq ft Year of entry 1924 New stores opened 139 Planned openings 06 07 153 Number of staff 261,142 28 Retailing services Republic of Ireland Japan 40 Board of Directors 42 Summary Directors Report Number of stores 91 Number of stores 111 Sales area 2.7m sq ft Sales area 0.3m sq ft Year of entry 1997 Year of entry 2003 Glnur Avc and Glhan Isk TescoKipa, Cigili, Turkey New stores opened 6 New stores opened inc. acquisitions in 05 06 11 Planned openings 06 07 8 Planned openings 06 07 10 Number of staff 10,456 Number of staff 3,285 Tesco works hard to create value for customers to earn their lifetime loyalty.
+Planned openings 06 07 44 Planned openings 06 07 10 Planned openings 06 07 30 Planned openings 06 07 12 Planned openings 06 07 4 Planned openings 06 07 207 Number of staff 8,785 Number of staff 7,838 Number of staff 15,754 Number of staff 2,560 Number of staff 4,365 Number of staff 27,529 Tesco plc 49 Poland China South Korea Number of stores 105 Number of stores 39 Number of stores 62 Sales area 4.8m sq ft Sales area 3.5m sq ft Sales area 4.1m sq ft Year of entry 1995 Year of entry 2004 Year of entry 1999 contents inside Tesco New stores opened New stores opened 9 New stores opened inc. acquisitions in 05 06 27 inc. acquisitions in 05 06 27 Planned openings 06 07 12 Planned openings 06 07 39 Planned openings 06 07 47 Number of staff 16,400 2 Chairmans statement 4 Chief Executives review Number of staff 20,357 Number of staff 10,787 and Financial highlights United Kingdom 16 Core UK Number of stores 1,898 Sales area 25.9m sq ft Year of entry 1924 New stores opened 139 Planned openings 06 07 153 Number of staff 261,142 28 Retailing services Republic of Ireland Japan 40 Board of Directors 42 Summary Directors Report Number of stores 91 Number of stores 111 Sales area 2.7m sq ft Sales area 0.3m sq ft Year of entry 1997 Year of entry 2003 Glnur Avc and Glhan Isk TescoKipa, Cigili, Turkey New stores opened 6 New stores opened inc. acquisitions in 05 06 11 Planned openings 06 07 8 Planned openings 06 07 10 Number of staff 10,456 Number of staff 3,285 Tesco works hard to create value for customers to earn their lifetime loyalty.
+Planned openings 06 07 44 Planned openings 06 07 10 Planned openings 06 07 30 Planned openings 06 07 12 Planned openings 06 07 4 Planned openings 06 07 207 Number of staff 8,785 Number of staff 7,838 Number of staff 15,754 Number of staff 2,560 Number of staff 4,365 Number of staff 27,529 Tesco plc 49 Registrar and Shareholding Enquiries To register, log on to www.
+Tesco PLC, Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL Designed and produced by Corporate Edge 020 7855 5888 Registrar and Shareholding Enquiries To register, log on to www.
+Tesco PLC, Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL Designed and produced by Corporate Edge 020 7855 5888

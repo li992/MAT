@@ -1,0 +1,111 @@
+138 Drax Group plc Annual report and accounts 2017 SECTION 3 Operating assets and working capital This section gives further information on the operating assets we use to generate revenue and the short-term liquid assets and liabilities, managed during day-to-day operations, that comprise our working capital balances.
+3.1 PROPERTY, PLANT AND EQUIPMENT This note shows the cost, depreciation and net book value of the physical assets controlled by us that we use in our businesses to generate revenue.
+The cost of an asset is what we paid to purchase or construct the asset.
+Depreciation reflects the usage of the asset over time and is calculated by taking the cost of the asset, net of any residual value, to the income statement evenly over the useful economic life of the asset.
+An assets net book value is its cost less any depreciation including impairment, if required charged to date.
+On 13 April 2017, the Group acquired the wood pellet manufacturing plant owned by Louisiana Pellets Inc, for consideration of $35 million 27.4 million.
+The assets of the plant were acquired at auction through a bankruptcy court and did not constitute a business in their own right.
+At the point of acquisition, the plant was not operational, there was no workforce in place and no raw material contracts for it to operate as a business.
+In accordance with the requirements of IFRS 3 Business combinations, the acquisition has been accounted for as an asset purchase.
+Since the date of acquisition, further costs totalling 20.4 million have been capitalised and the plant is expected to begin commercial operations in 2018.
+Accounting policy Property, plant and equipment are initially measured at cost.
+Cost comprises the purchase price after deducting trade discounts and rebates, any directly attributable costs of bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management, and the estimate of the present value of the costs of dismantling and removing the item and restoring the site.
+Property, plant and equipment are stated at cost less accumulated depreciation and any provision for impairment in value.
+We construct many of our assets as part of long-term development projects.
+Assets that are in the course of construction are not depreciated until they are ready for us to use in the way intended.
+Depreciation is provided on a straight-line basis to write down assets to their residual value evenly over the estimated useful lives UEL of the assets from the date of acquisition where relevant, limited to the expected decommissioning date of the power station currently expected to be 2039.
+The table below shows the range of useful lives at the date of acquisition and the average remaining useful life at the balance sheet date of the main categories of asset we own in years: Average UEL Range of remaining UELs Freehold buildings 20 833 Plant and equipment Electricity generation plant 14 333 Biomass-specic assets 20 426 Coal-specic assets 6 319 Pellet production plant 19 520 Other plant, machinery and equipment 13 333 Decommissioning asset 22 35 Plant spare parts 22 Up to 35 Freehold land held at cost is considered to have an unlimited useful life and is not depreciated.
+Electricity generation plant refers to core electricity generation assets at Drax Power Station which are fuel agnostic.
+Biomass-specic and coal-specic assets are those assets that are only necessary to support electricity generation from the specified fuel and include fuel storage and distribution systems.
+Within the plant and equipment categories shorter lives are attributed to components that are overhauled and upgraded as part of rolling outage cycles.
+The majority of assets within these categories have a remaining useful life in excess of 15 years.
+Plant spare parts are depreciated over the remaining useful life of the power station.
+Costs relating to major inspections, overhauls and upgrades to the power station are included in the assets carrying amount or recognised as a separate asset, as appropriate, if the recognition criteria are met: namely, when it is probable that future economic benets associated with the item will flow to the Group and the cost of the item can be measured reliably.
+All other repairs and maintenance costs are expensed as incurred.
+Estimated useful lives and residual values are reviewed annually, taking into account regulatory change and commercial and technological obsolescence as well as normal wear and tear.
+Residual values are based on prices prevailing at each balance sheet date.
+Any changes are applied prospectively.
+Strategic report Governance Financial statements Shareholder information Drax Group plc Annual report and accounts 2017 139 3.1 PROPERTY, PLANT AND EQUIPMENT CONTINUED significant estimation uncertainty Asset lives are reviewed annually at each balance sheet date.
+The estimated useful lives of coal-specic assets at Drax Power Station have been revised with effect from 1 January 2017 as a result of the Governments announcement that all coal generation will be closed during 2025.
+Having considered this event, the Group concluded that coal generation will cease during 2025, but that the three existing coal units will be retained for conversion to alternative fuels in the period to 2039.
+This results in the useful lives of the coal-specic assets which will not be required to support generation after this date being shortened to no later than 2025.
+This change has been applied prospectively, from 1 January 2017, and has resulted in an increase of approximately 15 million per annum in depreciation charges in 2017 compared to 2016, which will recur in each year until 2025.
+The useful lives of electricity generation plant currently fuelled by biomass are unaffected by this change.
+No further changes to the useful economic lives of assets have been made as a result of the most recent review.
+At each balance sheet date, the Group reviews its property, plant and equipment to determine whether there is any indication that these assets may be impaired.
+The Group's accounting policy in respect of impairment, along with details of the impairment review conducted during 2017, are set out in note 2.4.
+Additions to assets in the course ofconstruction were 139.4 million in 2017 and include LaSalle pellet plant and the new ofce space for Opus Energy.
+Plant and equipment includes assets held under finance lease agreements with a carrying value at 31 December 2017 of 1.1 million 2016:1.6 million.
+140 Drax Group plc Annual report and accounts 2017 SECTION 3: OPERATING ASSETS AND WORKING CAPITAL 3.1 PROPERTY, PLANT AND EQUIPMENT CONTINUED Reflecting continued investment in the Group's IT software systems and the increasing signicance of the value of such assets as a result, IT software assets have been presented as a component of intangible assets from 2017 see note 5.3.
+As a result of this change in presentation, assets with a net book value of 14.4 million previously presented in property, plant and equipment have been transferred in this period.
+Issues and transfers reflect changes in the categorisation of assets during the period, or the issue of spare parts for use in repair and maintenance projects.
+When spares are utilised in such projects, the cost of the part is transferred from the property, plant and equipment balance and recognised as an expense in the income statement within operating costs.
+Losses on disposal in the income statement of 15.4 million include 3.6 million relating to the disposal of Billington Bioenergy on 31 October 2017.
+3.2 OTHER FIXED ASSET INVESTMENTS During 2017, the Group acquired 1.6 million shares in Aggregated Micro Power Holdings plc AMPH as part-consideration for the disposal of Billington Bioenergy.
+AMPH is an AIM-listed energy company specialising in the sale of wood fuels and the development of distributed energy assets, including biomass boilers and battery storage.
+Through its shareholding in AMPH, the Group retains an interest in the UK heating market, whilst gaining exposure to the development of small-scale distributed energy assets.
+Accounting policy Other investments are recognised at fair value, based on quoted market prices, at the date of transfer.
+The assets are classied at fair value through profit and loss in accordance with IAS 39.
+Subsequent movements in the fair value are recognised in the income statement.
+Years ended 31 December 2017 2016 m m At 1 January Additions 1.6 Fair value losses 0.3 At 31 December 1.3 3.3 ROC ASSETS We earn Renewable Obligation Certicate ROC assets, which are accredited by the Ofce for Gas and Electricity Markets Ofgem, as a result of burning sustainable compressed wood pellets to generate electricity.
+This note sets out the value of these assets that we have earned but not yet sold.
+Total ROC generation has reduced in 2017, compared to previous periods, following the approval of the CfD contract for one of our biomassfuelled units in December 2016, which was previously supported by the ROC regime.
+Haven Power and Opus Energy provide us with a credit-efficient and timely route to market for these ROCs.
+Accounting policy ROCs are recognised as current assets in the period they are generated and are initially measured at fair value based on anticipated sales prices.
+The value of ROCs earned is recognised in the income statement as a reduction in fuel costs in that period.
+Where our B2B Energy Supply electricity sales incur an obligation to deliver ROCs to Ofgem, that obligation is provided for in the period incurred.
+At each reporting date the Group reviews the fair value of ROC assets generated but not sold against updated anticipated sales prices including, where relevant, agreed forward sale contracts and taking into account likely utilisation of ROCs generated to settle our own ROCobligations.
+Any impairments required are recognised in the income statement in the period incurred.
+Strategic report Governance Financial statements Shareholder information Drax Group plc Annual report and accounts 2017 141 3.3 ROC ASSETS CONTINUED significant estimation uncertainty The fair values and net realisable values of ROCs referred to above are calculated with reference to assumptions regarding future sales prices in the market, taking into account agreed forward sale contracts where appropriate.
+Historic experience indicates that the assumptions used in the valuation are reasonable: however, actual sales prices may differ from those assumed.
+ROC valuations also include an estimate of the future benefit that may be obtained from the ROC recycle fund at the end of the compliance period.
+The recycle fund provides a benefit where supplier buy-out charges incurred by suppliers who do not procure sufficient ROCs to satisfy their obligations are returned to renewable generators on a pro-rata basis.
+The estimate is based on assumptions about likely levels of renewable generation and supply over the compliance period and is thus subject to some uncertainty.
+The Group utilises external sources of information in addition to its own forecasts in making these estimates.
+Past experience indicates that the values arrived at are reasonable but they remain subject to possible variation.
+ROCs Total m m Fair value and carrying amount: At 1 January 2016 265.7 270.1 Earned from generation 535.8 535.8 Utilised by our B2B Energy Supply business sold to third parties 543.9 548.3 At 1 January 2017 257.6 257.6 Earned from generation 480.9 480.9 Purchased from third parties 33.7 33.7 Utilised by our B2B Energy Supply business sold to third parties 626.7 626.7 At 31 December 2017 145.5 145.5 Recognition of revenue from sales of ROCs is described in further detail on page 129.
+3.4 INVENTORIES We hold stocks of fuels and other consumable items that we use in the process of generating electricity, and raw materials used in the production of compressed wood pellets.
+This note shows the cost of coal, biomass, other fuels and plant consumables that we held at the end of the year, including items at Drax Power Station, our facilities in the US and those owned by us but stored in off-site locations.
+Accounting policy Our raw materials and fuel stocks are valued at the lower of the weighted average cost to purchase and net realisable value.
+The cost of fuel stocks includes all direct costs and overheads incurred in bringing the fuel to its present location and condition, including the purchase price, import duties and other taxes including amounts levied on coal under the UK carbon price support mechanism and transport handling costs.
+Both coal and biomass stocks are weighed when entering, moving within or exiting our sites using technology regularly calibrated to industry standards.
+Fuel burn in the electricity generation process is calculated using a combination of weights and thermal efficiency calculations to provide closing stock volumes.
+Both calibrated weighers and efficiency calculations are subject to a range of tolerable error.
+All fuel inventories are subject to regular surveys to ensure accuracy of these measurements.
+Coal stocks are veried by an independent stock survey carried out by a suitably trained specialist, and a provision is made where the survey indicates a lower level of stock than indicated by the methods described above.
+Despite being an independent process, the survey depends on estimates and assumptions and as a result actual values may differ.
+The characteristics of biomass require specialist handling and storage.
+On-site biomass at Drax Power Station is stored in sealed domes with a carefully controlled atmosphere for re prevention purposes and thus cannot be surveyed using traditional methods.
+Biomass stock is surveyed using regularly calibrated state-of-the-art RADAR scanning technology.
+142 Drax Group plc Annual report and accounts 2017 SECTION 3: OPERATING ASSETS AND WORKING CAPITAL 3.4 INVENTORIES CONTINUED As at 31 December 2017 2016 m m Coal 44.5 66.4 Biomass 205.2 197.5 Other fuels and consumables 22.4 23.6 272.1 287.5 Inventories of biomass include 1.5 million of bre and other raw materials utilised in the production of compressed wood pellets 2016: 2.3 million and 0.1 million of work in progress 2016: 2.0 million in our Pellet Production business.
+The cost of inventories recognised as an expense in the year ended 31 December 2017 was 1,285.8 million 2016: 1,173.5 million.
+3.5 TRADE AND OTHER RECEIVABLES Trade receivables represent amounts owed to us by our customers for goods or services we have provided but not yet been paid for.
+Other receivables include accrued income, which is income earned in the period but not yet invoiced, largely in respect of power delivered that will be invoiced the following month, and prepayments, which are amounts paid by the Group for which we are yet to receive the relevant goods or services in return e. g. insurance premiums relating to periods after the balance sheet date.
+Accounting policy Trade and other receivables, given their short tenor, are measured at cost.
+A provision for impairment of trade receivables is established where there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivable.
+Years ended 31 December 2017 2016 m m Amounts falling due within one year: Trade receivables 125.7 87.0 Accrued income 209.0 100.0 Prepayments and other receivables 82.8 105.9 417.5 292.9 Trade receivables and accrued income principally represent sales of energy to counterparties within both our Power Generation and B2B Energy Supply businesses.
+At 31 December 2017, the Group had amounts receivable from five 2016: four significant counterparties representing 20% 2016: 46% of total trade receivables and accrued income.
+The increase in trade receivables and accrued income is principally the result of Opus Energy joining the Group in 2017.
+Of total trade and other receivables at 31 December 2017, 123.9 million 2016: 33.4 million relates to B2B Energy Supply sales.
+The risk prole of B2B Energy Supply debt is different from that of the Power Generation business due to a larger volume of smaller counterparties, and therefore a lower concentration of credit risk, with different payment terms.
+The Group does not consider there to be any requirement for further provisions in excess of the provision for doubtful debts of 28.2 million 2016: 4.0 million.
+This provision, which largely relates to B2B Energy Supply receivables, has been determined with reference to past default experiences in line with our policies.
+Credit and counterparty risk are both discussed in further detail in note 7.1.
+All past-due receivables are assessed against the Groups credit risk policies for indicators of impairment and provisions made where appropriate.
+The movement in the allowance for doubtful debts is laid out in the following table: Years ended 31 December 2017 2016 m m At 1 January 4.0 4.9 Receivables written off 3.8 3.3 Acquisition of Opus Energy 19.7 Provision for receivables impairment 8.3 2.4 At 31 December 28.2 4.0 Strategic report Governance Financial statements Shareholder information Drax Group plc Annual report and accounts 2017 143 3.5 TRADE AND OTHER RECEIVABLES CONTINUED The customer base of Opus Energy is comprised of a large number of smaller enterprises.
+Accordingly, Opus Energy carries lower concentrations but higher levels of credit risk compared to the rest of the Group.
+This is reflected in the increase of the allowance for doubtful debts acquired when the Group obtained control of Opus Energy.
+The value of trade receivables that are past due and not provided against, in accordance with the assessment described above, is 32.2million 2016: 3.6 million.
+An ageing analysis of this amount is provided in the table below: As at 31 December 2017 2016 m m 030 days past due 14.2 3.6 3160 days past due 3.9 6190 days past due 3.5 91 days past due 10.6 Total past due not provided 32.2 3.6 3.6 TRADE AND OTHER PAYABLES Trade and other payables represent amounts we owe to our suppliers for goods and services provided, tax authorities and other creditors that are due to be paid in the ordinary course of business.
+We make accruals for amounts that will fall due for payment in the future as a result of our activities in the current year e. g. fuel we have received but for which we have not yet been invoiced.
+Accounting policy Trade and other payables, given their short tenor, are measured at cost.
+As at 31 December 2017 2016 m m Amounts falling due within one year: Trade payables 79.5 87.4 Fuel accruals 95.3 77.6 Energy supply accruals 291.9 216.3 Other accruals 164.2 125.4 Other payables 101.5 62.1 Amounts payable in respect of acquisitions 4.1 23.1 736.5 591.9 Energy supply accruals includes 225.0 million 2016: 166.0 million in relation to the Groups obligation to deliver ROCs arising from B2B Energy Supply activities.
+The remaining balance principally comprises third party grid charge accruals of 36.8 million 2016: 26.5 million and FiT accruals of 25.9 million 2016: 21.2 million.
+The Group recognises a liability in respect of its unsettled obligations to deliver emissions allowances under the EU Emission Trading Scheme ETS.
+Accruals at 31 December 2017 include 30.6 million 2016: 2.8 million with respect to the Groups estimated net liability to deliver CO 2 emissions allowances.
+Allowances are purchased in the market and are recorded at cost.
+At 31 December 2017, the amounts payable in respect of acquisitions reflect the contingent consideration payable in relation to the acquisition of four Open-Cycle Gas Turbine OCGT projects in 2016.
+Initial consideration of 18.6 million was settled in cash on 3 January 2017, with the amount held as a liability in the balance sheet at 31 December 2016.
+The final purchase price depends upon future clearing prices in T-4 capacity market auctions from 2016 to 2020.
+The range of possible outcomes being zero further consideration if the capacity market clearing price does not exceed 28 KW in these auctions, with a maximum contingent consideration payable of 72 million, based ona clearing price of 75 KW.
+The fair value of the contingent consideration at 31 December 2017 was assessed at 4.1 million 2016: 3.8million based on a projection of likely future capacity market clearing prices, discounted to present value at a risk-free rate of 2%.

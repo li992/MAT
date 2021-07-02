@@ -1,0 +1,135 @@
+Accounting Policies BASIS OF PREPARATION The consolidated financial statements of Halfords Group plc the Company and its subsidiary undertakings the Group are prepared under the historical cost convention, except where IFRS requires an alternative treatment.
+The principal variations relate to financial instruments IAS 39 Financial instruments: recognition and measurement and share-based payments IFRS 2 Share-based payment.
+The financial statements are prepared in accordance with International Financial Reporting Standards IFRS and International Finance Reporting Interpretation Committee IFRIC interpretations as adopted by the European Union and with those parts of the Companies Act 1985 applicable to those companies reporting under IFRS.
+The preparation of consolidated financial statements in conformity with generally accepted accounting principles requires the use of accounting estimates and management to exercise its judgement in the process of applying the Groups accounting policies.
+These judgements and estimates are based on historical experience and managements best knowledge of the amounts, events or actions under review and the actual results may ultimately differ from these estimates.
+Areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the consolidated financial statements, are, where necessary, disclosed separately.
+NEW ACCOUNTING STANDARDS Changes to accounting standards and interpretations and their likely impact on the Groups future accounting policies are set out below: IFRS 7 Financial instruments: disclosures is effective for accounting periods beginning on or after 1 January 2007, and will therefore be applicable for the year ending March 2008, and IFRS 8 Operating segments, effective for accounting periods beginning on or after 1 January 2010, will be applicable in the year ended March 2011.
+These amendments to disclosure requirements will have no effect on the Groups reported results.
+The Group does not consider that any other standards or interpretations issued by the IASB, but not yet applicable, will have a significant impact on the consolidated financial statements.
+BASIS OF CONSOLIDATION SUBSIDIARIES Subsidiaries are fully consolidated from the date on which control is transferred to the Group.
+They cease to be consolidated from the date that the Group no longer has control.
+All subsidiaries have been consolidated.
+Inter-company transactions, balances and unrealised gains on transactions between Group companies are eliminated on consolidation.
+Unrealised losses are also eliminated unless the transaction provides evidence of an impairment of the asset transferred.
+The financial statements of all subsidiaries are prepared to the same reporting date as the Company.
+The principal subsidiary undertakings of the Company at 30 March 2007 are as follows: Principal activity % Ownership Halfords Holdings 2006 Limited Intermediate holding company 100 Halfords Holdings Limited Intermediate holding company 100 Halfords Finance Limited Intermediate holding company 100 Halfords Limited Retailing of auto parts, accessories, cycles and cycle accessories 100 SEGMENTAL REPORTING The Group has one main business segment, which is retail, and one main geographical segment, which is the United Kingdom.
+The business segmental reporting format reflects the Groups management and internal reporting structure.
+REVENUE RECOGNITION Revenue comprises the fair value of the sale of goods and services to external customers, net of value added tax, rebates, promotions and returns.
+Revenue is recognised on the sale of goods when the significant risks and rewards of ownership of the goods have passed to the buyer and the amount of revenue can be measured reliably.
+Revenue on goods delivered is recognised when the customer accepts delivery.
+The Group operates a variety of sales promotion schemes that give rise to goods being sold at a discount to standard retail price.
+Revenue is adjusted to show sales net of all related discounts.
+A provision for estimated returns is made, representing the profit on goods sold during the year, which will be returned and refunded after the year end based on past experience.
+Revenue is reduced by the value of sales returns provided for during the year.
+EXCEPTIONAL ITEMS Income or costs that are both material and non-recurring, whose significance is sufficient to warrant separate disclosure in the financial statements, are referred to as exceptional items.
+These items are included and separately identified within their relevant income statement category.
+44 45 Halfords Group plc Annual Report and Accounts 2007 Accounting Policies continued FOREIGN CURRENCY TRANSLATION FUNCTIONAL AND PRESENTATION CURRENCY The consolidated financial statements are presented in sterling, which is the Groups functional and presentation currency.
+Items included in the financial statements of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+TRANSACTIONS AND BALANCES Transactions in foreign currencies are recorded at the exchange rate prevailing on the date of the transaction.
+At each balance sheet date, monetary assets and liabilities denominated in foreign currencies are retranslated at the exchange rate prevailing at the balance sheet date.
+Translation differences on monetary items are taken to the income statement with the exception of differences on transactions that are subject to effective cash flow hedges.
+Translation differences on non-monetary items are reported as part of the fair value gain or loss and are included in either equity or the income statement as appropriate.
+SHARE-BASED PAYMENTS The Group operates a number of equity-settled, share-based compensation plans.
+The fair value of the employee services received under such schemes is recognised as an expense in the income statement.
+Fair value is determined by use of the Black Scholes Option Pricing Model.
+The amount to be expensed over the vesting period is determined by reference to the fair value of share incentives, excluding the impact of any non-market vesting conditions.
+Non-market vesting conditions are included in assumptions about the number of share incentives that are expected to vest.
+At each balance sheet date, the Group revises its estimates of the number of share incentives that are expected to vest.
+The impact of the revision of original estimates, if any, is recognised in the income statement, with a corresponding adjustment to equity, over the remaining vesting period.
+EQUITY DIVIDENDS Final dividends are recognised in the Groups financial statements in the period in which the dividends are approved by shareholders.
+Interim equity dividends are recognised in the period they are paid.
+PROPERTY, PLANT AND EQUIPMENT Property, plant and equipment are held at cost less accumulated depreciation and any impairment in value.
+Depreciation of property, plant and equipment is provided to write off the cost, less residual value, on a straight-line basis over their useful economic lives as follows: Leasehold premises with lease terms of 50 years or less are depreciated over the remaining period of the lease Motor vehicles are depreciated over 3 years Store fixtures are depreciated over the period of the lease to a maximum of 25 years Fixtures, fittings and equipment are depreciated over 4 to 10 years according to the estimated life of the asset Computer equipment is depreciated over 3 years Land is not depreciated Assets in the course of construction are not depreciated until commissioned Residual values, remaining useful economic lives and depreciation periods and methods are reviewed annually and adjusted if appropriate.
+GOODWILL AND INTANGIBLE ASSETS Goodwill is the excess of the fair value of the consideration payable for an acquisition over the fair value of the Groups share of identifiable net assets of a subsidiary acquired at the date of acquisition.
+Fair value is attributed to the identifiable assets, liabilities and contingent liabilities that existed at the date of acquisition, reflecting their condition at that date.
+Adjustments are made where necessary to bring the accounting policies of acquired businesses into alignment with those of the Group.
+Goodwill on acquisition of subsidiaries is included in intangible assets.
+Goodwill is stated at cost less any impairment.
+Goodwill is not amortised but is tested annually for impairment.
+An impairment charge is recognised for any amount by which the carrying value of goodwill exceeds its fair value.
+Costs that are directly associated with the production of identifiable and unique software products controlled by the Group and that will generate economic benefits beyond one year are recognised as intangible assets.
+These intangible assets are stated at cost less accumulated amortisation and impairment losses.
+Software is amortised over 3 to 5 years depending on the estimated useful economic life.
+FINANCIAL INSTRUMENTS The Group holds financial instruments that have been classified as financial assets and liabilities and loans and receivables.
+LOANS AND RECEIVABLES Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They arise when the Group provides money, goods or services directly to a debtor with no intention of trading the receivable.
+They are included in current assets, except for those with maturities greater than 12 months after the balance sheet date, which are classified as non-current assets.
+Loans and receivables are included in trade and other receivables in the balance sheet.
+ACCOUNTING FOR DERIVATIVE FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES Derivatives are recognised at fair value on the date a contract is entered into and are subsequently re-measured at their fair value.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument and, if so, the nature of the item being hedged.
+The Group designates certain derivatives as: Fair value hedges hedges of the fair value of recognised assets or liabilities or a firm commitment: or Cash flow hedges hedges of highly probable forecast transactions The Group documents the relationship between hedging instruments and hedged items at the hedge inception stage, as well as its risk management objective and strategy for undertaking various hedge transactions.
+The Group also documents its assessment, both at hedge inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are highly effective in offsetting changes in fair value or cash flow hedged items.
+Movements on the hedging reserve in equity are shown in the consolidated statement of changes in shareholders equity.
+FAIR VALUE HEDGES Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recorded in the income statement, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+CASH FLOW HEDGES The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges are recognised in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+Amounts accumulated in equity are recycled in the income statement in the periods when the hedged item will affect profit or loss for instance when the forecast purchase that is hedged takes place.
+However, when the forecast transaction that is hedged results in the recognition of a non-financial asset or liability, the gains and losses previously deferred in equity are transferred from equity and included in the initial measurement of the cost of the asset or liability.
+When a hedging instrument expires or is sold, or when a hedge no longer meets the criteria for hedge accounting, any cumulative gain or loss existing in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in the income statement.
+When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was reported in equity is immediately transferred to the income statement.
+NON-HEDGING DERIVATIVES Changes in the fair value of any derivative instrument that does not qualify for hedge accounting are recognised immediately in the income statement.
+FAIR VALUE ESTIMATION The fair value of interest rate swaps is calculated as the present value of the estimated future cash flows.
+The fair value of forward foreign exchange contracts is determined using forward exchange rates at the balance sheet date.
+The nominal value less estimated credit adjustments of trade receivables and payables are assumed to approximate to their fair values.
+TRADE RECEIVABLES Trade receivables are recognised and carried at original invoice amount less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of receivables.
+The amount of the provision is recognised in the income statement.
+INVENTORIES Inventories are valued at the lower of cost and net realisable value.
+Cost comprises the purchase cost of goods, adjusted for rebates and costs related to distribution.
+IMPAIRMENT OF ASSETS Intangible assets that are attributed an indefinite useful life are not subject to amortisation but are tested annually for impairment.
+Other tangible and intangible assets that are subject to amortisation and depreciation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable cash flows cash-generating units.
+Each store is deemed to be a cash-generating unit.
+46 47 Halfords Group plc Annual Report and Accounts 2007 Accounting Policies continued CASH AND CASH EQUIVALENTS Cash and cash equivalents includes cash in hand, deposits held at call with banks, other short-term highly liquid investments with original maturities of three months or less and bank overdrafts.
+Bank overdrafts are shown within borrowings in current liabilities on the balance sheet.
+For the purpose of the consolidated cash flow statement, cash and cash equivalents are as defined above, net of outstanding bank overdrafts.
+BORROWINGS AND BORROWING COSTS All loans and borrowings are initially recognised at the fair value of the consideration received net of issue costs associated with the borrowing.
+Borrowings are subsequently stated at amortised cost: any difference between the proceeds net of transaction costs and the redemption value is recognised in the income statement over the period of the borrowings using the effective interest method.
+Borrowing costs are expensed in the period in which they are incurred, except for issue costs, which are amortised over the period of the borrowing.
+BASIS OF CHARGE FOR TAXATION The tax base of an asset is the amount that will be deductible for tax purposes against any taxable economic benefits that will flow to an entity when it recovers the carrying amount of the asset.
+If those economic benefits will not be taxable, the tax base of the asset is equal to its carrying amount.
+The tax base of a liability is its carrying amount, less any amount that will be deductible for tax purposes in respect of that liability in future periods.
+In the case of revenue which is received in advance, the tax base of the resulting liability is its carrying amount, less any amount of the revenue that will not be taxable in future periods.
+DEFERRED TAXATION Deferred taxation is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+However, if the deferred taxation arises from initial recognition of an asset or liability in a transaction other than a business combination, that at the time of the transaction affects neither accounting nor taxable profit or loss, it is not accounted for.
+Deferred taxation is calculated using rates that are expected to apply when the related deferred asset is realised or the deferred taxation liability is settled.
+Deferred taxation assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+PROVISIONS Provisions are recognised when: The Group has a present legal or constructive obligation as a result of past events: It is more likely than not that an outflow of resources will be required to settle the obligation: and The amount can be reliably estimated.
+Provisions are not recognised for future operating losses.
+Where there are a number of similar obligations, the likelihood that an outflow will be required in settlement is determined by considering the class of obligations as a whole.
+A provision is recognised even if the likelihood of an outflow with respect to any one item included in the same class of obligations may be small.
+Where the Group expects a provision to be reimbursed, the reimbursement is recognised as a separate asset when the reimbursement is certain.
+If the effect of the time value of money is material, provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects current market assessments of the time value of money and, where appropriate, the risks specific to the liability.
+Where discounting is used, the increase in the provision due to the passage of time is recognised as a finance cost.
+LEASES FINANCE LEASES Leases of property, plant and equipment where the Group has substantially all the risks and rewards of ownership are classified as a finance lease.
+Finance leases are capitalised at the leases inception at the lower of the fair value of the leased property and the present value of the minimum lease payments.
+Each lease payment is allocated between the liability and finance charges so as to achieve a constant rate on the finance balance outstanding.
+The corresponding rental obligations, net of finance charges, are included in other long-term payables.
+The interest element of the finance cost is charged to the income statement over the lease period so as to produce a constant periodic rate of interest on the remaining balance of the liability for each period.
+Property, plant and equipment acquired under finance leases are depreciated over the shorter of the useful life of the asset and its lease term.
+In determining whether a lease is a finance lease, the building and land elements of the lease are reviewed separately.
+OPERATING LEASES Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases are charged to the income statement on a straight-line basis over the period of the lease.
+Incentives from lessors are recognised as a systematic reduction in the charge over the lease term.
+LANDLORD CONTRIBUTIONS Contributions received from landlords that do not represent an incentive for future rental commitments are recognised in the income statement on the exchange of contracts.
+This income is netted off against selling and distribution costs.
+SUBLEASE INCOME The Group leases properties from which it no longer trades.
+These properties are often sublet to third parties.
+Rents receivable are recognised by offsetting the income against rental costs accounted for within selling and distribution costs in the income statement.
+PENSIONS Colleagues are offered membership of Halfords Pension Plan, a defined contribution pension arrangement.
+The costs of contributions to the scheme are charged to the income statement in the period that they arise.
+ESTIMATES AND JUDGEMENTS The preparation of the consolidated financial statements requires management to make judgements, estimates and assumptions that affect the application of policies and reported amounts of assets and liabilities, income and expenses.
+The estimates and associated assumptions are based on historical experience and various other factors that are believed to be reasonable under the circumstances, the results of which form the basis of making judgements about the carrying value of assets and liabilities that are not readily apparent from other sources.
+Actual results may differ from the estimates.
+The judgements and key sources of estimation uncertainty that have a significant effect on the amounts recognised in the financial statements are detailed below: IMPAIRMENT OF ASSETS Goodwill and other assets are subject to impairment reviews if current or future events and circumstances suggest that their recoverable value may be less than their carrying value or if they are attributed an indefinite useful life.
+The recoverable amount is based on a calculation of expected future cash flows, which includes management assumptions and estimates of future performance.
+Details of the assumptions used in the valuation of goodwill are explained in note 9.
+ALLOWANCES AGAINST THE CARRYING VALUE OF INVENTORIES The Group reviews the market value of and demand for its inventories on a periodic basis to ensure that recorded inventory is stated at the lower of cost and net realisable value.
+In assessing the ultimate realisation of inventories, the Group is required to make judgements as to future demand requirements and to compare these with the current or committed inventory levels.
+Factors that could impact estimated demand and selling prices are the timing and success of product ranges.
+PROVISIONS Provisions have been estimated for onerous leases and estimated sales returns.
+These provisions are estimates of the actual costs of future cash flows and are dependent on future events.
+Any difference between expectations and the actual future liability will be accounted for in the period when such determination is made.

@@ -1,0 +1,42 @@
+Trends, risks and opportunities Trends Risks About half of ARMs revenue comes from direct Licensing: consolidation sales to semiconductor companies.
+If there are fewer of customers semiconductor companies, then ARM may have fewer customers to sell to.
+Two-thirds of ARMs unit shipments The semiconductor industry goes through cycles which come from wireless devices, and some of ARMs future include periods of increased consolidation, especially growth comes from the microcontroller market, so when revenue growth declines.
+In 2009, there were consolidation in these parts of the industry could represent several examples of ARMs customer base consolidating a loss to ARMs future licensing business.
+In addition, due either through acquisition of entire companies or one to reductions in venture capital funding, there may be company acquiring the division of another.
+This trend fewer technology start-ups to license ARM technology.
+appears to be particularly marked in the wireless baseband business, where ARM has a large market share and in microcontrollers where ARM is looking to grow its share.
+The main processor in a laptop is typically based on the Mobile: convergence of x86 architecture.
+It has been announced that smaller and smartphones and laptops lower-power x86-based chips are being developed that will be suitable for the main processor in a smartphone.
+Smartphones are getting smarter and laptops are getting There is therefore competition from large, well-funded smaller and more portable, and we are seeing new companies that have demonstrated advanced technology mobile computing products introduced.
+This is creating and aggressive marketing strategies.
+They are capable of an opportunity for smartphone technology to cross-over reducing ARMs market share in smartphone application into laptops and laptop technology to cross-over into processors and hindering any market share gains that smartphones.
+Consumers want portable products might be made by ARM licensees in mobile computing.
+that keep them connected to their social and business networks, have an all-day battery life and are simple to use.
+It could be difficult for ARM to be successful in the Non-mobile: competing microcontroller market.
+ARM will need to displace many in microcontrollers established in-house processor designs.
+ARM may invest a lot of effort and cost to achieve modest penetration.
+As Although growing strongly, in 2009 ARM had only about the microcontroller chips are low-cost, the royalty revenue 6% market share of the nine billion unit microcontroller per device will also be lower.
+This market is characterised by a large number of proprietary processor architectures, being developed by many semiconductor companies, who sell very low-cost chips into a highly fragmented end-market.
+Currently, most major chip companies develop their Beyond processors: outsourcing physical IP using their in-house teams.
+Even for companies by semiconductor companies that have outsourced manufacturing, the rate at which they want to license in physical IP is unclear.
+The foundries As semiconductor manufacturing has become may choose to develop the physical IP.
+This could add increasingly expensive, most chip companies are more value to their customers and help create lock-in considering whether to outsource their manufacturing by making it harder for the customer to change foundry.
+This creates a new There are also other independent physical IP suppliers who opportunity for chip companies to license in their physical compete in this market.
+As all chips require physical IP technology, this could be a larger market than processors.
+24 Overview Business review Governance Financial statements Opportunities Saving cost is often a major driver when two In addition, as about two-thirds of ARMs licences are semiconductor companies come together.
+ARM works signed for non-mobile applications, much of ARMs with the merged company to demonstrate how increased licensing opportunity is beyond wireless.
+With the cost savings may be realised through the adoption of introduction of Cortex-M class processors ARM has ARM as a common technology across more divisions increased its market opportunity in microcontrollers in the merged company.
+None of the consolidation we and we have more companies to sell to than ever have seen to date has had a meaningful impact on before, and in 2009 we had 20 companies license their ARMs licensing opportunity as much of the consolidation first ever ARM processor.
+consisted of companies selling divisions, where both companies remained ARM licensees after completion of the transaction.
+ARM-based chips for mobile computing are significantly In addition to the main microprocessor, mobile computers lower-cost and lower-power than current products contain many chips that can incorporate ARM-based available based on x86.
+ARMs licensees have already technology.
+We expect that most mobile computers could announced chips that are suitable for mobile computers, contain 35 chips that would increase additional ARM and they regard this market as a growth opportunity.
+ARM community is working with software companies and OEMs to ensure that a complete ecosystem of PC-class software is available, and that our shared experience in developing portable consumer products enables a new market of low-cost mobile computers.
+ARM believes that it can capture a significant proportion The Cortex-M processor family was specifically developed of the microcontroller MCU market as demonstrated by for the MCU market and, by the end of 2009, had been the strong unit growth rate over the last few years.
+In addition, the ARM community processors are already 30% of the 32-bit MCU market is working to ensure that as well as a broad range of and our strategy is to develop technology that enables ARM-based chips, all the software and software tools companies currently using 8- and 16-bit MCUs to migrate are available for end customers using established to ARM-based chips.
+As most semiconductor customers microcontroller distributors.
+already have access to ARM technology, many have already produced MCUs based on the ARM7 or ARM9 processor families.
+ARM is a proven supplier of processor technology to most of the major chip companies in the world.
+We have developed the most advanced physical IP technology and we were market leaders in the physical IP market in 2009.
+Currently this is a small market that we believe will grow over the medium-term as more major semiconductor companies outsource their manufacturing.
+ARM can demonstrate significant cost savings for our customers if they license physical IP from ARM: and with the combination of advanced physical IP and processor technology we have an unmatched offering.

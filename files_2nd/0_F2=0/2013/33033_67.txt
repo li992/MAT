@@ -1,0 +1,17 @@
+Section 8 Review of Other Wholesale Markets Section 8.8 - Technical Areas Point of Handover Definition Summary Market Performance Total CCA Point of Handover PoH is a Technical Area associated with the Traditional Interface Operating Return on Symmetric Broadband Origination TISBO market, rather than a market in itself.
+It is a Revenue Costs Return MCE necessary technical function to enable network interconnection, in order to allow the Year m m m % provision of wholesale products in the TISBO market.
+2013 3 7 4 25.2 % 2012 6 11 5 26.3 % In all TISBO markets where BT has SMP, we are required to provide PoH services in two Key Market Changes varieties: Customer Sited Handover CSH and In-Span Handover, including ISH Extension.
+When providing CSH, BT delivers TISBO services to the premises of its wholesale customers.
+PoH has been impacted by customers rationalising their networks, i. e. reducing the number When providing ISH, BT and the wholesale customer connect their networks at a notional of sites and consequently points of handover, and instead increasing the bandwidth to mid-point.
+Key Regulatory Changes Price changes in the market took place in October 2012 to enable compliance with the charge control and regulatory obligations.
+As part of the Leased Lines Charge Control on 2 July 2009, Ofcom required the introduction of separate Point of Handover rental charges to replace the current local end uplift factor included in the rental price of external local ends.
+To balance the introduction of the new separate Point of Handover charges, Ofcom required a corresponding reduction to external local end prices.
+Basket Value of X Sub Caps TI Basket 3.25% up to RPI - 0% sub-cap on sub-basket TI - Low bandwidth 30th Sept of TISBO terminating segments.
+connection 2010 : RPI 5% sub-cap on each charge and rental.
+from 1st Oct RPI - 0% sub-cap on each charge 2010 : POH charges only.
+RPI 0% from 1 Oct 2012 POC end and third party end RPI-0% No charge can increase more equipment charges.
+All relevant ancillary services RPI-0% None.
+used in the provision of TI services in scope of the TI Basket.
+These controls run from 1 October 2009 to 30 September 2012.
+Ofcoms market review statement published 28 March 2013 did not come into effect until 1 April 2013.
+From 1 October 2012 BT was allowed to increase its TI basket prices by RPI 0% which applied to the end of the financial year on 31 March 2013.

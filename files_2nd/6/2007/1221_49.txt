@@ -1,0 +1,213 @@
+Operating and financial review and prospects US GAAP The following discussion should be read in conjunction with the consolidated financial statements and notes thereto.
+The matters addressed in this operating and financial review and prospects, with the exception of the historical information presented, contain forward-looking statements involving risks and uncertainties.
+Overview ARM designs the technology that lies at the heart of advanced digital products, from wireless, networking and consumer entertainment solutions to imaging, automotive, security and storage devices.
+ARMs comprehensive product offering includes 16 32-bit RISC microprocessors, data engines, graphics processors, digital libraries, embedded memories, peripherals, software and development tools, as well as analog functions and high-speed connectivity products.
+The Company licenses this technology to semiconductor companies which, in turn, manufacture, market and sell microprocessors and related products.
+ARM has developed an innovative, intellectual property-centred and market-driven business model in which it neither manufactures nor sells the products incorporating ARM technology, but concentrates on the research and development, design and support of the ARM architecture and supporting development tools and software.
+Combined with the companys broad Partner community, they provide a total system solution that offers a fast, reliable path to market for leading electronics companies.
+Operating results The Company has remained both profitable and cash generative before investing activities.
+On operating profits of 42.8 million, cash inows from operating activities were 62.7 million, resulting in cash being returned to shareholders through dividends and share buybacks of 147.1 million and a year-end cash, cash equivalents, short-term investments and marketable securities balance of 51.3 million.
+The table below sets forth, for the periods indicated, the percentage of total revenues represented by certain items reected in the Companys consolidated statements of income.
+Year ended 31 December 2005 2006 2007 %% % Revenues Product revenues 93.7 93.9 93.7 Service revenues 6.3 6.1 6.3 Total revenues 100.0 100.0 100.0 Cost of revenues Product costs 9.4 9.1 8.3 Service costs 2.6 2.6 2.5 Total cost of revenues 12.0 11.7 10.8 Gross profit 88.0 88.3 89.2 Operating expenses Research and development 26.5 28.7 28.1 Sales and marketing 15.6 16.8 17.9 General and administrative 17.7 18.5 19.3 Restructuring costs 0.4 In-process research and development 0.1 0.2 Amortization of intangibles purchased through business combination 7.5 7.0 7.0 Total operating expenses 67.4 71.2 72.7 Income from operations 20.6 17.1 16.5 Interest, net 2.3 2.6 2.1 profit on disposal of available-for-sale security 2.0 Income before income tax and cumulative effect of change in accounting policy 22.9 21.7 18.6 Provision for income taxes 4.9 3.6 4.4 Net income before cumulative effect of change in accounting policy 18.0 18.1 14.2 Cumulative effect of change in accounting policy, net of tax 0.9 Net income 18.0 17.2 14.2 ARM Holdings plc 97 Operating and financial review and prospects US GAAP continued Total revenues Total revenues were 259.2 million, a decrease of 1.6% from 263.3 million in 2006, which was an increase of 13% from 232.4 million in 2005.
+Dollar revenues were $514.3 million in 2007, an increase of 6% from $483.6 million in 2006, which was an increase of 16% from $418.7 million in 2005.
+The actual average dollar exchange rate in 2006 was $1.98 compared with $1.84 in 2006.
+This had the effect of reducing total reported revenues by approximately 20.7 million.
+Product revenues Product revenues consist of license fees, sales of development systems and royalties.
+Product revenues for 2005, 2006 and 2007 were 217.7 million, 247.2 million and 242.7 million, representing 94% of total revenues in each year.
+Product revenues in US dollars, being the primary currency of revenues generated, grew from $392.2 million in 2005 to $454.5 million in 2006 and $482.3 million in 2007.
+License revenues increased from 104.2 million in 2005 to 110.6 million in 2006, and were 110.7 million in 2007 representing approximately 45%, 42% and 42% of total revenues in 2005, 2006 and 2007 respectively.
+License revenues in US dollars grew from $187.0 million in 2005 to $202.5 million in 2006 and $217.9 million in 2007.
+Processor Division PD dollar license revenues have grown by 12% and 18% in 2006 and 2007 respectively.
+The portfolio of licensable products comprises a rich mix of proven ARM technology, such as the ARM7, ARM9 and ARM11 families of products and newer technology such as the Cortex family of products and the Mali graphics processors.
+62 new licenses were signed in 2007 compared to 65 in 2006 and 71 in 2005.
+Revenues from Cortex family products accounted for 31% of PD license revenues in 2007, compared to 26% in 2006.
+Cortex products started generating revenue in 2005.
+ARM11 family products accounted for 23% of PD license revenues in 2007, compared to 22% in 2006 and 21% in 2005.
+23 companies became new ARM Partners in 2007, bringing the total number of semiconductor Partners to 210 at the end of 2007.
+This total number of semiconductor Partners was net of those companies that have signed licenses with ARM in the past but have since been acquired by other companies or who no longer have access to ARM technology for other reasons.
+During 2007, 14 Cortex family licenses were signed, including three lead Partners for the next-generation Cortex-A9 processor, bringing the accumulated total of Cortex family licenses to 37, signed by 28 semiconductor companies.
+Three licenses for ARMs Mali graphics processors were signed in 2007, bringing the accumulated total of Mali licenses to five.
+Nine semiconductor companies are now licensed to design products using ARMs graphics technology.
+In addition, 2007 saw four large semiconductor companies underline their long term commitment to ARM technology by signing subscription licenses, which allow them access to a broad range of ARM processor technology.
+The term of these licenses is xed and ranges between three and five years.
+License revenues from non-core products, covering items such as platforms, peripherals, embedded trace modules, embedded software, data engines, models and sub-systems were 10.8 million in 2007, compared to 10.9 million in 2006 and 11.1 million in 2005 representing approximately 13% of processor license revenues in 2007, 14% in 2006 and 16% in 2005.
+In 2007 ARM maintained progress in achieving the long-term strategic goal of providing ARMs physical IP to leading Integrated Device Manufacturers IDM and Fabless semiconductor companies and continued to sign synergistic licenses that have been enabled by the combination of ARM and Artisan.
+Synergistic deals include, in managements determination, both instances of physical IP being licensed to ARM Partners and instances of contracts being won against the competition due to both processor and physical IP being available from ARM.
+Licensing momentum for ARMs 65nm physical IP products continued to grow, with ten new licenses signed in 2007.
+By the end of 2007, ARM had signed a total of 32 65nm licenses with 15 companies and had signed eight licenses for physical IP with four Foundries at the most advanced process of 45nm.
+ARMs Physical IP Division PIPD reported license revenues of 27.3 million in 2007, representing approximately 25% of total license revenues.
+During 2007 the combination of ARM and Artisan has continued to provide benets other than synergistic license revenues.
+In addition to the benets to the Cortex family of processors, including the development of the new 12-track Advantage libraries in 65nm enabling higher performance, and the high-performance ARM1176JZF-S implementation, the combination has enabled the development of lower power processors with lower leakage, a new compact ARM11 MPCore dual processor delivering greater performance at lower power and development work on 45nm physical IP which will inuence and optimize the design of future processors.
+Revenues from the sale of development systems increased from 25.6 million in 2005 to 28.8 million in 2006 and fell to 27.9 million in 2007 representing approximately 11% of total revenues in each year.
+Development systems revenues in US dollars grew from $46.5 million in 2005 to $53.0 million in 2006 and $55.6 million in 2007.
+This growth has been generated by working with customers on longer term relationships for the supply of RealView Developer Tools for software development, continued momentum behind the RealView tools for ESL customers and a healthy market place for tools to support the ever-broadening portfolio of ARM microprocessors.
+The Systems Design Division SDD has continued to enter into more multi-year contracts for larger product volumes which improves the visibility of business going forward and builds a good customer base from which to drive new innovation.
+98 ARM Holdings plc Product revenues continued Royalties are either set as a percentage of the licensees average selling price ASP per chip or, less frequently, as a xed amount and are recognized when the Company receives notication from the customer of product sales.
+In effect, this means that it is normally in the quarter following the shipments that data is received and so royalty data for a year reects actual shipments made from the beginning of October of the previous year to the end of September of the current year.
+As the penetration of ARM technology-based chips grows across a wide range of end-market applications, the range of ASPs gets wider.
+The average royalty rate ARR earned by ARM in any one reporting period is dependent on the mix of the ASPs of the chips shipped in that period.
+In 2007, significant unit volume growth was driven by products which incorporate chips with lower ASPs including ultra low cost handsets, smartcards, microcontrollers and Bluetooth chips.
+As a result, the ARR in 2007 was 6.1 cents compared to 6.7 cents in 2006 and 7.9 cents in 2005.
+Unit volume growth more than compensated for this reduction in ARR and dollar royalty revenues grew by 8% year-on-year.
+Royalties increased from 87.8 million in 2005 to 107.8 million in 2006 and fell to 104.1 million in 2007, representing 38%, 41% and 40% of total revenues in 2005, 2006 and 2007 respectively.
+US dollar royalty revenues grew from $158.7 million in 2005 to $199.0 million in 2006 and $208.8 million in 2007.
+Royalty revenues in 2007 comprised 88.0 million from PD and 16.1 million from PIPD.
+PD volume shipments increased from 1.7 billion units in 2005 to 2.5 billion in 2006, with the increase in volumes coming from all market segments.
+Total unit shipments in 2007 of 2.9 billion represented an increase of 18% compared to 2006.
+Unit shipments in the mobile segment grew by 19% year-on-year and in the non-mobile segments by 15%.
+Growth in the non-mobile segments was achieved across a broad range of product applications including smartcards, microcontrollers, automotive, connectivity devices, hard disk drives and many others.
+The Company expects royalty revenues to grow year-on-year although they may be subject to significant uctuations from quarter to quarter.
+The total number of Partners shipping ARM technology-based products at the end of 2007 was 89 after taking into account corporate activity within the ARM partnership.
+15 companies are paying meaningful royalties for physical IP products at the end of the year.
+Service revenues Service revenues consist of revenues from support, maintenance and training and design consulting services.
+Service revenues increased from 14.7 million in 2005 to 16.1 million in 2006 and further to 16.4 million in 2007, representing 6% of total revenues in each year.
+Service revenues in US dollars, being the primary currency of revenues generated grew from $26.5 million in 2005 to $29.1 million in 2006 and $32.0 million in 2007.
+Geographic analysis Operating in a global environment, the geographic destinations of the Companys revenues uctuate from period to period depending upon the country in which its customers are located.
+The pattern of revenues in 2007 was 42% from North America, 16% from Japan, 25% from Asia Pacic, excluding Japan, and 17% from Europe.
+In 2006, 42% of revenues came from North America, 26% from Japan, 16% from Asia Pacic, excluding Japan, and 16% from Europe.
+In 2005, revenues from North America represented 43%, Japan 18%, Asia Pacic, excluding Japan, 25%, and Europe 14%.
+Product costs Product costs are limited to variable costs of production such as the costs of manufacture of development systems, amortization of third-party technology licenses, cross-license payments to collaborative Partners and time of engineers on PIPD projects.
+Product costs were 21.8 million in 2005, 24.2 million in 2006 and 21.5 million in 2007, representing 9%, 9% and 8% of total revenues in 2005, 2006 and 2007 respectively.
+In 2005 and 2006, the proportion of development systems costs was approximately a quarter, PIPD direct costs of approximately two-thirds and the balance third-party licenses and cross-license payments.
+In 2007, development systems costs made up approximately 20% of total product costs, PIPD direct costs approximately 70% and the balance on third-party licenses and cross license payments.
+Product gross margin in 2007 was 91%, compared to 90% in both 2006 and 2005.
+Included within product costs in 2005 are 2.5 million of deferred stock-based compensation relating to options assumed on the Artisan acquisition.
+Service costs Service costs include the costs of support and maintenance services to licensees of ARM technology as well as the costs directly attributable to consulting work performed for third parties.
+Service costs increased from 6.1 million in 2005 to 6.7 million in 2006, and were 6.5 million in 2007.
+The gross margins earned on service revenues were approximately 59% in 2005, 58% in 2006 and 61% in 2007.
+Costs increased in 2006 as the business invested more in the engineering departments, a proportion of which is allocated to services costs.
+This has continued into 2007 with a slight reduction in costs due to reduced stock-based compensation costs being allocated to service costs: included within service costs in 2006 and 2007 are FAS 123R stock-based compensation costs of 1.1 million and 1.0 million respectively.
+Research and development costs Research and development costs increased from 61.6 million in 2005 to 75.5 million in 2006 and were 72.7 million in 2007, representing 27%, 29% and 28% of total revenues in 2005, 2006 and 2007 respectively.
+Costs in 2006 and 2007 included 10.6 million and 9.3 million of share-based compensation charges in accordance with FAS 123R and in 2005 included 1.6 million of deferred share-based compensation respectively in accordance with previously applicable standards.
+Excluding these charges, R&D costs were 26%, 25% and 24% of total revenues in 2005, 2006 and 2007 respectively reecting the operating leverage in the business.
+Continued investment in research and development remains an essential part of the Companys strategy since the development of new products to license is key to its ongoing success.
+ARM Holdings plc 99 Operating and financial review and prospects US GAAP continued Research and development costs continued Average engineering headcount increased from 783 in 2005 to 961 in 2006, with the increase coming from organic growth, predominantly in India, but also from the Falanx and Soisic acquisitions.
+Average engineering headcount increased further to 1,163 in 2007, mainly from the large number of hires towards the end of 2006 as well as measured growth in 2007.
+Again, this growth was predominantly in India, demonstrating ARMs gradual shift of engineering resource to lower cost regions.
+Staff costs increased in line with these headcount gures and mix of geographic locations, but bonuses payable on the achievement of financial performance targets in 2006 were higher than those in 2005 and 2007.
+Sales and marketing Sales and marketing expenditure increased from 36.2 million in 2005 to 44.2 million in 2006 and 46.4 million in 2007, representing 16% of total revenues in 2005, 17% in 2006 and 18% in 2007.
+Costs in 2006 and 2007 included 3.7 million and 3.2 million of FAS 123R compensation charges respectively and in 2005 included 2.1 million of deferred stock-based compensation.
+The proportion of sales and marketing costs to revenue in 2005, 2006 and 2007 excluding these charges were 15%, 15% and 17% respectively.
+Average headcount in this area increased from 286 in 2005 to 302 in 2006 to 312 in 2007.
+Overall sales and marketing costs have increased in 2007 as further investment is made in customer support as well as due to increased staff bonuses based on a record bookings year.
+General and administrative General and administrative costs were 41.1 million in 2005, 48.6 million in 2006 and 50.0 million in 2007, representing 18%, 18% and 19% of total revenues respectively.
+Excluding 3.5 million of deferred stock-based compensation in 2005 and 2.9 million and 2.6 million of FAS 123R compensation costs in 2006 and 2007, general and administrative costs were 16%, 17% and 18% of total revenues in 2005, 2006 and 2007 respectively.
+General and administrative average headcount in 2007 was 226, up from 165 in 2005 and 209 in 2006.
+The increases year-on-year have partly come from the acquisitions but also organic growth to strengthen the infrastructure of the Company as it continually expands.
+Unrealized future foreign exchange gains on certain committed but not yet invoiced future revenue streams of 1.4 million 2006: losses of 0.9 million: 2005: gains of 2.1 million were recorded in 2007 in accordance with FAS 133, with other foreign exchange charges of 2.3 million in 2005 and gains of 3.6 million and 0.2 million in 2006 and 2007 respectively.
+The gain in 2006 was mainly as a result of the revaluation of an intra-group dollar loan.
+See Foreign Currency Fluctuations below.
+Furthermore, in 2007 there was a write-down in the carrying value of the Companys investment in Superscape Group plc of 1.2 million.
+Other increases in the last few years include additional recruitment and training costs for the growth in number of employees in the Company, increased IT costs to continually develop the ARM internal network as the number of ofces and people grow and increased administrative costs relating to Sarbanes-Oxley compliance work.
+Restructuring costs During 2007, the Company closed one of its design centres in the US resulting in restructuring costs of 1.0 million, primarily related to accrued rents, write-off of leasehold improvements and staff severance costs.
+In-process research and development During 2004, the Company purchased Artisan Components Inc. now ARM Inc.. Those intangible assets that were still in development known as in-process research and development were charged directly to the income statement, amounting to 3.2 million.
+A further 0.3 million of Artisan in-process research and development was charged to the income statement in 2005 as the final valuation of intangibles was completed.
+In 2006, the Company acquired the trade and certain assets of PowerEscape, resulting in 0.6 million of in-process research and development being charged to the income statement.
+All acquired in-process research and development from the Artisan and PowerEscape acquisitions are progressing as expected.
+Amortization of intangible assets Various licenses to use third-party technology have been signed over the past several years, with their values being capitalized and amortized over the useful economic period that the Company is expected to gain benefit from them generally between three and ten years.
+Licenses totalling 5.9 million were purchased during 2001 to 2005, with a further license for 2.5 million being purchased in 2007.
+Amortization of these licenses amounted to 0.4 million in 2007 2006: 0.4 million: 2005: 0.5 million.
+At 31 December 2007, the net book value of these assets was 2.7 million which will be amortized over the next ten years.
+Following the out-of-court settlement of the Companys litigation against picoTurbo, Inc. in December 2001, picoTurbo assigned its intellectual property rights to the Company for a payment of 7.5 million.
+This has been amortized over four years and 1.5 million was charged to the income statement in 2002 and 2.0 million in 2003, 2004 and 2005.
+The asset was fully written-down in 2005 and thus there was no further amortization charge in 2006 or 2007.
+The Company also purchased a patent for 0.7 million in 2002 which is being amortized over five years.
+The amortization charge was 0.1 million in 2005, 2006 and 2007 and was fully written-down by the end of 2007.
+During 2003, the Company purchased Adelante Technologies NV now ARM Belgium NV.
+Included with the assets purchased were 0.3 million of intangible assets comprising developed technology and customer relationships which are being amortized over five years and two years respectively.
+The amortization charge for the assets during 2005 and 2004 was 0.1 million in each year, but was less than 0.1 million in 2006 and 2007.
+This will become fully writtendown during 2008.
+100 ARM Holdings plc Amortization of intangible assets continued During 2004, the Company purchased Axys Design Automation Inc and Artisan Components Inc. now ARM Inc. Intangibles acquired and capitalized as part of these business combinations including developed and core technology, customer relationships and trademarks totalled 1.9 million and 70.9 million respectively and are being amortized over five years and between one and six years respectively see note 6 for further details.
+The total charge during 2005 was 0.4 million and 16.5 million for Axys and Artisan respectively, during 2006 was 0.4 million and 14.6 million and during 2007 was 0.3 million and 13.3 million respectively.
+During 2005, the Company purchased Keil Elektronik GmbH and Keil Software Inc. Intangibles acquired and capitalized consisted of developed technology, customer relationships and tradenames and totalled 8.7 million.
+These are being amortized between two and five years and the amortization was 0.4 million in 2005, 2.5 million in 2006 and 2.4 million in 2007.
+During 2006, the Company purchased Falanx Microsystems AS, a graphics IP company in Norway.
+Intangibles acquired and capitalized consisted of developed technology and customer relationships and totalled 5.3 million.
+These are being amortized over three to five years and the charge in 2006 was 0.7 million and in 2007 was 1.2 million.
+The Company also purchased Soisic SA, an IP company based in France and the US.
+Intangibles acquired and capitalized were all developed technology and totalled 4.3 million.
+This is being amortized over five years with 0.1 million being charged in 2006 and 0.9 million in 2007.
+Interest Interest receivable increased from 5.3 million in 2005 to 6.8 million in 2006, but decreased in 2007 to 5.4 million.
+The growth in interest in 2006 was due to higher average cash balances and increasing interest rates.
+The fall in 2007 was a result of the increased cash outow during the year on share buybacks and dividends, resulting in lower average cash balances.
+The Company invested cash balances over periods of up to one year during 2007, although typically were for periods of less than six months.
+profit on disposal of available-for-sale security In 2006, the Company disposed of its investment in CSR plc for cash proceeds of 5.6 million and realised a profit of 5.3 million.
+The Company made no profit or loss on its disposal of a minority investment in Zeevo Inc. in 2005.
+Income before income tax and cumulative effect of change in accounting policy Income before income tax was 53.2 million in 2005, 57.0 million in 2006 and 48.2 million in 2007, representing 23%, 22% and 19% of total revenues respectively.
+The margin fell in 2006 due to increased intangible amortization relating to business combinations following the acquisitions of the two Keil businesses, increased investment throughout the business in additional headcount as well as the negative impact of foreign exchange with the weakening of the US dollar in the year.
+This weakening of the dollar continued further in 2007 and was the primary reason for the drop in margin in 2007.
+Tax charge The Companys effective tax rates were 21.3% in 2005, 16.5% in 2006 and 23.6% in 2007.
+The effective tax rate in 2005 was lower than the blended tax rates from the relevant tax jurisdictions due to additional costs being allowable for research and development tax credits, benets arising from the structuring of the Artisan acquisition and additional deferred tax credits arising from employee share options.
+It fell further in 2006 due to a non-recurring tax credit arising from a tax-deductible foreign exchange loss and continued benets from the structuring of the Artisan acquisition.
+The rate returned to a higher level in 2007 without the non-recurring foreign exchange loss in 2006 but was still benefiting from the aforementioned items.
+Cumulative effect of change in accounting policy On 1 January 2006, the Company adopted FAS 123R as detailed in the Accounting for share-based payments in the significant accounting policies in note 1.
+The transitional rules detailed in FAS 123R required the Company to make a remeasurement adjustment for compensation cost for liability awards that has been recognized in 2006 as a cumulative effect of change in accounting policy in the income statement.
+Liquidity and capital resources The Companys operating activities provided net cash of 47.2 million, 66.1 million and 62.7 million in 2005, 2006 and 2007 respectively.
+Accounts receivable increased by 21.2 million in 2005 and a further 19.0 million in 2006, but decreased by 0.3 million in 2007.
+The increase in 2005 and 2006 was partly due to growth in revenues, but largely to do with timing of invoicing in the respective periods.
+In the final week of 2006, there was signicantly more invoicing to customers than in the final week of 2005 resulting in a large increase in receivables.
+Invoicing in the corresponding period in 2007 was at a similar level to 2006.
+Despite this, days sales outstanding improved from 54 at 31 December 2005 to 43 at 31 December 2006 and were 49 at 31 December 2007.
+Included within accounts receivable are amounts recoverable on contracts as discussed within deferred revenue below.
+Prepaid expenses fell by 1.4 million in 2005 and a further 0.5 million in 2006, but increased by 2.6 million in 2007.
+The fall in 2005 and 2006 reected the amortization of a technology license agreement representing prepaid royalties to be released over several years.
+The increase in 2007 was mainly due to a four-year agreement for EDA tools, where, for commercial reasons, monies were paid upfront.
+Inventory has increased to 2.3 million in 2007 reecting growth in the development systems business.
+There have been no other significant movements in other current assets.
+ARM Holdings plc 101 Operating and financial review and prospects US GAAP continued Liquidity and capital resources continued Accounts payable fell by 1.9 million in 2005 and a further 0.7 million in 2006, but increased by 0.4 million in 2007, reecting the timing of receipt of supplier invoices in the respective years.
+Accrued liabilities fell by 5.6 million in 2005, increased by 2.1 million in 2006 and fell again by 8.4 million in 2007.
+These fell in 2005 as payments on a technology license agreement were made and accrued employee compensation was lower in 2005 than in 2004.
+The main increase in 2006 was as a result of increased staff bonus and sales commission provisions following a then record bookings quarter in the final quarter of 2006.
+The fall in 2007 was due to lower staff and sales bonuses in 2007 compared to 2006, reduced FAS 133 provision for embedded derivatives on uninvoiced but committed future billings, reduced accrued payables on acquisition consideration, as well as the timing of invoicing on some large EDA lease contracts resulting in lower accruals.
+At 31 December 2007, the Company recorded approximately 27.5 million of deferred revenues which represented cash or receivables scheduled to be recognized as revenues in varying amounts after 31 December 2007.
+At 31 December 2006, the Company recorded approximately 31.5 million of deferred revenues.
+Deferred revenues are an element of customer backlog, and represent amounts invoiced to customers not yet recognized as revenues in the income statement.
+Similarly, the Company recorded 24.5 million of amounts recoverable on contracts AROC at 31 December 2007, compared to 23.8 million at 31 December 2006.
+AROC represents amounts that have been recognized as revenue in the income statement but are yet to be invoiced to customers.
+Both deferred revenue and AROC uctuate due to the maturity prole of ARMs products, and invoicing milestones within contracts.
+The Company believes that, given its current level of business, it has sufficient working capital for the foreseeable future.
+Cash ow from operations has been used to fund the working capital requirements of the Company as well as capital expenditure.
+Cash outow from capital expenditure in 2007 was 5.4 million, compared with 8.6 million in 2006 and 6.1 million in 2005.
+Capital expenditure increased in 2005 and 2006 with staff levels increasing and general operational assets being replaced.
+In 2007, the Company purchased a technology license for 2.5 million, as noted above, which will be amortized over ten years.
+In 2005, the Company made final payments relating to acquisition costs for Artisan of 14.4 million, as well as 1.7 million of contingent consideration in respect of the Axys acquisition as a result of performance conditions being achieved.
+A further 4.3 million net of cash acquired was paid for the acquisitions of Keil Elektronik GmbH and Keil Software Inc.
+In 2006, the Company acquired Falanx Microsystems AS and Soisic SA for cash consideration paid in the year of 13.4 million and 2.1 million respectively.
+Additionally in 2006, a further 1.1 million was paid for Keil acquired in 2005 and 0.6 million for the trade and certain assets of PowerEscape.
+In 2007, whilst no acquisitions were made, the Company did make additional payments for the Keil businesses of 1.8 million representing retentions and contingent consideration, as well as 1.5 million for Soisic relating to escrow payments and contingent consideration.
+Further payments on both Keil and Soisic are expected in 2008.
+The Company envisages making further strategic investments in the future, in situations where the Company can broaden its product portfolio, where it can obtain skilled engineering resources and where the potential for furthering ARM technology-based design wins is improved signicantly.
+In 2005, 0.3 million was invested via convertible loan notes in Luminary Micro Inc. an unlisted company.
+A further 0.2 million was invested in Luminary in 2006.
+In 2007, 2.5 million was invested via convertible loan notes in W&W Communications Inc. an unlisted US company.
+This loan note earns interest at 10% per annum and will convert to a maximum holding of 14.99% upon further fundraising by the Company.
+The Company sold its investment in CSR plc in 2006 for 5.6 million.
+During 2005, the Company initiated a share buyback program to supplement dividends in returning surplus funds to shareholders.
+During 2005, the Company bought back over 13.9 million shares at a total cost of 16.2 million and during 2006, the Company bought back 63.6 million shares at a total cost of 76.5 million.
+This was accelerated further in 2007 with 94.5 million shares being repurchased at a total cost of 128.6 million.
+Dividends totalling 18.5 million were also paid to shareholders during the year 2006: 12.4 million: 2005: 10.4 million.
+In aggregate, the Company has returned over 270 million since 2004 through buybacks and dividends.
+Share option exercises in 2007 gave rise to 18.9 million cash inow to the Company compared to 17.9 million in 2006 and 13.9 million in 2005.
+Cash, cash equivalents, shortand long-term investment and marketable securities balances at 31 December 2007 were 51.3 million compared to 128.5 million at 31 December 2006 and 160.9 million at 31 December 2005.
+102 ARM Holdings plc Foreign currency uctuations The Companys earnings and liquidity are affected by uctuations in foreign currency exchange rates, principally the US dollar rate, as most of the Companys revenues and cash receipts are denominated in US dollars while a high proportion of its costs are in sterling.
+The Company reduces this US dollar sterling risk where possible by currency hedging.
+Due to the high value and timing of receipts on individual licenses and the requirement to settle certain expenses in US dollars, the Company reviews its foreign exchange exposure on a  basis.
+It then hedges this exposure using forward contracts for the sale of US dollars, which are negotiated with major UK clearing banks.
+The average size of each forward contract was $4.3 million in 2005, $3.9 million in 2006 and $4.2million in 2007.
+The Company also uses currency options as a further translation instrument for limited proportions of its dollar exposure.
+The fair values of the financial instruments outstanding at 31 December 2005, 2006 and 2007 are disclosed in note 15 to the financial statements.
+The settlement period of the forward contracts outstanding at 31 December 2007 was between 8 January 2008 and 26 March 2008.
+The settlement period of the option contracts outstanding at 31 December 2007 was between 23 January 2008 and 5 January 2009.
+Quantitative and qualitative information on market risk During the preceding scal year, the Company was exposed to foreign currency exchange risk inherent in its sales commitments, anticipated sales, anticipated purchases and assets and liabilities denominated in currencies other than sterling.
+ARM transacts business in approximately eight foreign currencies worldwide, of which the most significant to the Companys operations were the US dollar, the Indian rupee, the euro and the Japanese yen for 2007.
+Generally, the Company is a net receiver of US dollars, and therefore benets from a weaker sterling and is adversely affected by a stronger sterling relative to the dollar.
+It is a net payer of other foreign currencies but at a signicantly lower level than the US dollar receivables.
+The Company has performed a sensitivity analysis at 31 December 2007, 2006 and 2005, using a modeling technique that measures the changes in the fair values arising from a hypothetical 10% adverse movement in the levels of foreign currency exchange rates relative to sterling with all other variables held constant.
+The analysis covers all of the Companys foreign currency contracts offset by the underlying exposures.
+The foreign currency exchange rates used were based on market rates in effect at 31 December 2007, 2006 and 2005.
+The sensitivity analysis indicated that a hypothetical 10% adverse movement in foreign currency exchange rates would result in a loss in the fair values of ARMs foreign exchange derivative financial instruments, net of exposures, of 11.5 million at 31 December 2007 2006: 8.9 million, 2005: 3.9 million.
+Risk factors The Company operates in the intensely competitive semiconductor industry which is characterized by price erosion, rapid technological change, short product life cycles, cyclical market patterns and heightened foreign and domestic competition.
+The Company believes that its future operating results will continue to be subject to quarterly variations based upon a wide variety of factors.
+These include the timing of entering into agreements with new licensees, the mixture of license fees, royalties and fees from services, the introduction of new technology by the Company, the timing of orders from, and shipments to, systems companies of ARM core-based microprocessors from the Companys semiconductor Partners and sudden technological change in the microprocessor industry.
+Other risks include the reliance on semiconductor Partners, dependence upon systems companies, patent protection, attraction and retention of employees, management of growth, competition and vulnerability to general economic conditions.
+Risk factors are more fully discussed in the Companys annual report on Form 20-F.

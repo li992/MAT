@@ -1,0 +1,25 @@
+Section 6 Attribution of Wholesale Current Costs and Mean Capital Employed Section 6.3.
+1 - Notes on Wholesale MCE sector costs The notes below are intended to provide a brief description of the non-current assets Transmission sectors and Working Capital reported in the Attribution of Wholesale Current Cost Mean This sector contains the asset values for transmission.
+Transmission includes core Capital Employed statement and the key drivers of the sector to aid the user of the Financial transmission Synchronous Digital Hierarchy SDH, Plesiochronous Digital Hierarchy PDH, Statements.
+Further details of these sectors can be found in the Detailed Attribution Asynchronous Transfer Mode ATM, cables and repeaters.
+The core transmission is used to Methods which outlines in detail the key bases, descriptions and drivers of the network link exchanges.
+The key drivers are engineering inventories and models that allocate CoW to components.
+network components and then onto the appropriate service based on usage factors and Land & Buildings actual service volumes.
+This sector contains the asset values that are booked to BT Classes of Work for land and Other buildings, including freehold, long leases and short leases.
+The sector includes corporate This sector contains the asset values for a range of assets used by BT businesses including office and network buildings owned by BT.
+Asset values are mainly apportioned based on categories such as Software, Motor Transport and 21CN.
+The key drivers are surveys, the use of floor space and utilities.
+engineering models and direct mapping of CoW to network components and then onto the Access - Copper appropriate service based on usage factors and actual service volumes.
+This sector contains the asset values for access copper all the copper cables in the access Working Capital network and all other necessary equipment required to carry signals between the user and The figures for debtors and creditors include an approximation of the internal notional the exchange.
+The key driver is direct mapping of Class of Work CoW to network receivables and payables that would be incurred if trades between BTs lines of business components and then onto the appropriate service based on usage factors and actual were undertaken to a third party and at arms length.
+They are based upon the average service volumes.
+trading terms of BT Groups external trades.
+External receivables reflect BTs external debts Access - Fibre being allocated to services and products.
+This sector contains the asset values for access fibre.
+The key driver is the mapping of CoW to network components and then onto the appropriate service based on usage factors and actual service volumes.
+Access - Duct This sector contains the asset values for duct.
+Duct is a pipe, tube or conduit through which underground cables are passed.
+The key driver is a duct occupancy model that allocates CoW to network cable components and then onto the appropriate service based on usage factors and actual service volumes.
+Switch This sector contains the asset values for switching equipment.
+This equipment is located in BT exchanges.
+The key drivers are engineering models that allocate CoW to network component and then onto the appropriate service based on usage factors and actual service volumes.

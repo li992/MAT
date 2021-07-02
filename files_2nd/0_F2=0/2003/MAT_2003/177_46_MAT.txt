@@ -1,0 +1,76 @@
+Summarised_NN
+Group_NN
+statements_NOMZ
+69_CD
+SELECTED_VBN
+FINANCIAL_NN
+INFORMATION_NOMZ
+IN_PIN
+THOUSANDS_NN
+,_,
+EXCEPT_PIN
+PER_PIN
+SHARE_VPRT
+DATA_NN
+The_NN
+following_VBG [WZPRES]
+selected_VBN
+financial_JJ
+information_NOMZ
+for_PIN
+each_QUAN
+of_PIN
+the_DT
+fiscal_JJ
+years_NN
+in_PIN
+the_DT
+five-year_JJ
+period_NN
+ended_VBD
+31_CD
+December_NN
+2003_CD
+has_VPRT [PEAS]
+been_VBN [PASS]
+derived_VBN
+from_PIN
+Acambis_NN
+audited_VBD
+Group_NN
+financial_JJ
+statements_NOMZ
+._.
+The_DT
+selected_VBN
+financial_JJ
+data_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+in_PIN
+accordance_NN
+with_PIN
+UK_NN
+GAAP_NN
+._.
+The_DT
+Group_NN
+financial_JJ
+statements_NOMZ
+for_PIN
+the_DT
+three-year_JJ
+period_NN
+ended_VBD
+31_CD
+December_NN
+2003_CD
+are_VPRT [PASS]
+included_VBN
+elsewhere_RB
+in_PIN
+this_DEMO
+Annual_JJ
+Report_NN
+._.

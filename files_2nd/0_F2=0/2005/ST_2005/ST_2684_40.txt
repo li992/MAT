@@ -1,0 +1,86 @@
+Glossary_NNP of_IN terms_NNS Terms_NNS used_VBN in_IN this_DT Brief_NN description_NN of_IN meaning_VBG Annual_JJ Report_NNP Access_NNP internet_NN access_NN Broadband_NNP or_CC dial-up_JJ connections_NNS which_WDT allow_VBP customers_NNS to_TO access_VB the_DT internet_NN from_IN their_PRP$ own_JJ premises_NNS ._.
+ADSL_NNP A_NNP Digital_NNP Subscriber_NNP Line_NNP technology_NN that_WDT supports_VBZ faster_RBR transfer_VB when_WRB receiving_VBG data_NNS the_DT downstream_JJ rate_NN and_CC slower_JJR transfer_NN when_WRB sending_VBG data_NNS the_DT upstream_JJ rate_NN ._.
+Alternative_NNP network_NN model_NN AltNet_NNP refers_VBZ to_TO a_DT model_NN used_VBN by_IN network_NN operators_NNS that_WDT relies_VBZ on_IN use_NN of_IN the_DT incumbents_NNS network_NN supported_VBN by_IN the_DT AltNets_NNPS own_JJ network_NN interconnecting_VBG with_IN it_PRP ._.
+A_DT legacy_NN data_NNS product_NN which_WDT allows_VBZ broadband_NN transmission_NN with_IN an_DT additional_JJ layer_NN of_IN intelligence_NN and_CC functionality_NN beyond_IN leased_VBN lines_NNS ._.
+Backbone_NN A_DT high-capacity_JJ network_NN linking_VBG networks_NNS of_IN lower_JJR capacity_NN ,_, such_JJ as_IN LANs_NNS ._.
+Bandwidth_NNP The_NNP information-carrying_JJ capacity_NN of_IN a_DT network_NN ._.
+Broadband_NNP Short_NNP for_IN Broad_NNP Bandwidth_NNP ,_, broadband_NN transmits_NNS data_NNS at_IN higher_JJR rates_NNS of_IN speed_NN bits_NNS per_IN second_JJ than_IN dial-up_NN and_CC is_VBZ often_RB associated_VBN with_IN high_JJ speed_NN services_NNS for_IN internet_NN access_NN ,_, such_JJ as_IN DSL_NNP ._.
+Bundling_VBG Offering_VBG multiple_JJ telecommunication_NN products_NNS ,_, services_NNS or_CC features_NNS together_RB as_IN a_DT bundled_VBN package_NN instead_RB of_IN as_IN separate_JJ items_NNS ._.
+For_IN example_NN voice_NN ,_, data_NNS transfer_NN and_CC internet_NN access_NN provided_VBN in_IN a_DT single_JJ contract_NN ._.
+Business_NNP segment_NN The_DT UK_NNP business_NN segment_NN which_WDT focuses_VBZ on_IN small_JJ to_TO medium_JJ sized_VBN enterprises_NNS ._.
+Called-up_JJ share_NN capital_NN Ordinary_NNP Shares_NNP ,_, issued_VBN and_CC fully_RB paid_VBN ._.
+Capacity_NN sales_NNS Sales_NNS of_IN transmission_NN capability_NN on_IN a_DT network_NN primarily_RB to_TO high-usage_JJ business_NN and_CC wholesale_JJ customers_NNS ._.
+Carrier_NN services_NNS A_DT business_NN segment_NN dealing_VBG with_IN other_JJ telecommunications_NNS companies_NNS around_IN the_DT world_NN ._.
+CDMA_NNP Code_NNP Division_NNP Multiple_NNP Access_NNP or_CC a_DT digital_JJ mobile_JJ technology_NN which_WDT uses_VBZ the_DT full_JJ available_JJ radio_NN spectrum_NN to_TO transmit_VB mobile_JJ voice_NN and_CC data_NNS ._.
+Chapter_NN 11_CD Restructuring_NN under_IN Chapter_NN 11_CD of_IN the_DT US_NNP Bankruptcy_NNP Code_NNP ._.
+Company_NN Cable_NNP and_CC Wireless_NNP plc._VBP ._.
+Connectivity_NNP Providing_NNP customers_NNS with_IN access_NN to_TO the_DT internet_NN ._.
+Constant_JJ currency_NN Constant_JJ currency_NN movement_NN is_VBZ calculated_VBN by_IN retranslating_VBG prior_JJ year_NN local_JJ currency_NN amounts_NNS at_IN current_JJ year_NN average_NN rates_NNS and_CC comparing_VBG against_IN current_JJ year_NN local_JJ currency_NN at_IN the_DT current_JJ year_NN average_JJ rate_NN ._.
+This_DT measure_NN eliminates_VBZ the_DT impact_NN of_IN foreign_JJ exchange_NN movements_NNS year_NN on_IN year_NN ._.
+Content_NN The_DT information_NN contained_VBD within_IN a_DT message_NN that_WDT is_VBZ transported_VBN by_IN a_DT telecommunication_NN service_NN provider_NN ._.
+Data_NNP services_NNS Services_NNPS to_TO transmit_VB data_NNS over_IN fixed-line_JJ ,_, IP_NNP or_CC mobile_JJ platforms_NNS using_VBG leased_VBN lines_NNS ,_, Frame_NNP Relay_NNP ,_, ATM_NNP or_CC IP-based_JJ products_NNS such_JJ as_IN IP-VPN_NNP ._.
+Data_NNP service_NN provider_NN Business_NN that_WDT provides_VBZ data_NNS or_CC data_NNS services_NNS to_TO customers_NNS ._.
+Typically_RB have_VBP high_JJ demand_NN for_IN large_JJ capacity_NN transport_NN services_NNS ._.
+Dial-up_JJ Access_NNP to_TO the_DT internet_NN using_VBG an_DT ordinary_JJ telephone_NN line_NN also_RB known_VBN as_IN Narrowband_NNP ._.
+Digital_NNP Sound_NNP ,_, text_NN or_CC video_NN coded_VBD into_IN binary_JJ form_NN ,_, a_DT series_NN of_IN 1s_NNS and_CC 0s_NNS ,_, to_TO enable_VB more_JJR effective_JJ transmission_NN ._.
+148 149 2005_CD Annual_JJ Report_NNP DSL_NNP Digital_NNP Subscriber_NNP Line_NNP or_CC technology_NN that_WDT allows_VBZ the_DT delivery_NN of_IN broadband_NN to_TO customers_NNS over_IN ordinary_JJ copper_NN telephone_NN lines_NNS by_IN digitising_VBG and_CC compressing_VBG the_DT transmissions_NNS ._.
+Encryption_NNP The_NNP translation_NN of_IN data_NNS into_IN a_DT secret_JJ code_NN to_TO provide_VB data_NNS security_NN ._.
+The_DT data_NNS can_MD not_RB be_VB read_VBN without_IN a_DT key_JJ or_CC passcode_NN to_TO decrypt_VB the_DT data_NNS ._.
+Enterprise_NN segment_NN A_DT business_NN segment_NN dealing_VBG with_IN large_JJ national_JJ and_CC multinational_JJ customers_NNS in_IN the_DT UK_NNP and_CC globally_RB ._.
+Exchange_NNP A_NNP building_NN ,_, usually_RB owned_VBN by_IN the_DT incumbent_JJ service_NN provider_NN ,_, where_WRB network_NN equipment_NN ,_, such_JJ as_IN switches_NNS or_CC DSL_NNP ,_, are_VBP housed_VBN ._.
+Fibre_NNP optic_JJ The_DT use_NN of_IN glass_NN fibers_NNS to_TO transmit_VB digital_JJ information_NN through_IN laser_NN light_JJ pulses_NNS ._.
+Fibre_NNP optic_JJ lines_NNS offer_VBP more_JJR flexibility_NN and_CC capacity_NN than_IN copper_NN telephone_NN lines_NNS offer_VBP ._.
+Frame_NN relay_NN A_DT legacy_NN data_NNS product_NN which_WDT allows_VBZ broadband_NN data_NNS transmission_NN with_IN an_DT additional_JJ layer_NN of_IN intelligence_NN and_CC functionality_NN beyond_IN leased_VBN lines_NNS ._.
+GAAP_NNP Generally_RB Accepted_JJ Accounting_NN Policies_NNS ._.
+Group_NNP Cable_NNP and_CC Wireless_NNP plc_NN and_CC its_PRP$ subsidiaries_NNS ._.
+GSM_NNP Global_NNP System_NNP for_IN Mobile_NNP communications_NNS or_CC a_DT digital_JJ mobile_JJ platform_NN which_WDT allows_VBZ the_DT transmission_NN of_IN voice_NN and_CC data_NNS and_CC global_JJ roaming_NN ._.
+Hosting_NNP Service_NNP that_WDT provides_VBZ a_DT facility_NN or_CC location_NN for_IN customers_NNS to_TO set_VB up_RP servers_NNS or_CC equipment_NN or_CC house_NN websites_NNS ._.
+Incumbent_JJ Sole_NNP telecommunication_NN provider_NN in_IN a_DT one_CD provider_NN market_NN ,_, or_CC the_DT original_JJ telecommunication_NN provider_NN in_IN a_DT competitive_JJ market_NN ._.
+Interconnect_VB Connection_NN arrangements_NNS between_IN carriers_NNS ._.
+Interests_NNS in_IN associates_NNS and_CC joint_JJ ventures_NNS Securities_NNS of_IN equity_NN investees_NNS ._.
+International_NNP direct_JJ dial_NN International_NNP calls_VBZ which_WDT are_VBP dialed_VBN and_CC connected_VBN directly_RB ,_, without_IN going_VBG through_IN an_DT operator_NN ._.
+Internet_NNP The_NNP system_NN comprising_VBG all_DT networks_NNS interconnected_VBD using_VBG IP_NNP ._.
+The_DT internet_NN supports_VBZ access_NN to_TO databases_NNS ,_, websites_NNS ,_, email_NN ,_, and_CC file_NN downloading_NN worldwide_NN ._.
+IP_NNP Internet_NNP Protocol_NNP or_CC set_VBN of_IN rules_NNS that_WDT govern_VBP how_WRB interconnected_VBN devices_NNS communicate_VBP ._.
+IP-VPN_NNP An_DT internet-based_JJ network_NN used_VBN to_TO provide_VB companies_NNS with_IN an_DT internal_JJ communications_NNS system_NN linking_VBG employees_NNS in_IN different_JJ offices_NNS worldwide_NN ._.
+IRU_NNP Indefeasible_NNP Rights_NNP of_IN Use_NNP or_CC the_DT right_NN to_TO use_VB a_DT cable_NN fiber_NN or_CC wavelength_NN exclusively_RB for_IN a_DT fixed_JJ period_NN of_IN time_NN ._.
+ISP_NNP Internet_NNP Service_NNP Provider_NNP or_CC a_DT business_NN that_WDT provides_VBZ internet_NN access_NN to_TO users_NNS ._.
+It_PRP may_MD also_RB provide_VB additional_JJ services_NNS such_JJ as_IN web-hosting_JJ ._.
+LAN_NNP Local_NNP Area_NNP Network_NNP or_CC a_DT network_NN that_WDT covers_VBZ only_RB short_JJ distances_NNS usually_RB less_RBR than_IN 1_CD km_NN and_CC is_VBZ normally_RB confined_VBN to_TO one_CD building_NN or_CC site_NN ._.
+Leased_JJ line_NN A_DT legacy_NN data_NNS service_NN that_WDT delivers_VBZ data_NNS from_IN point-to-point_NN on_IN a_DT dedicated_JJ line_NN ._.
+Legacy_NN platform_NN The_DT existing_VBG communications_NNS and_CC transmission_NN infrastructure_NN that_WDT underpins_VBZ the_DT majority_NN of_IN telecom_NN operator_NN networks_NNS usually_RB comprising_VBG of_IN copper_NN wire_NN or_CC fiber_NN networks_NNS ._.
+Liberalised_JJ markets_NNS liberalisation_NN Markets_NNS that_WDT were_VBD previously_RB restricted_VBN that_WDT are_VBP now_RB open_JJ to_TO competition_NN ._.
+Local_JJ loop_NN Telecommunications_NNP connection_NN from_IN the_DT local_JJ exchange_NN to_TO the_DT customer_NN premises_NNS ._.
+Reference_NNP Glossary_NNP of_IN terms_NNS LLU_NNP Local_NNP Loop_NNP Unbundling_NNP is_VBZ the_DT process_NN of_IN installing_VBG DSL_NNP equipment_NN in_IN rented_VBN space_NN within_IN an_DT incumbent_JJ operators_NNS local_JJ exchange_NN ._.
+Managed_VBN firewall_NNP Service_NNP where_WRB customer_NN firewalls_NNS are_VBP managed_VBN by_IN Cable_NNP &_CC Wireless_NNP ._.
+A_DT firewall_NN is_VBZ a_DT system_NN of_IN hardware_NN and_CC software_NN designed_VBN to_TO prevent_VB unauthorised_JJ access_NN to_TO a_DT private_JJ network_NN ._.
+MMS_NNP Mobile_NNP Messaging_NNP Services_NNPS or_CC method_NN of_IN transmitting_VBG data_NNS ,_, video_NN or_CC text_NN over_IN mobile_JJ networks_NNS and_CC between_IN mobile_JJ handsets_NNS ._.
+Mobile_NNP services_NNS Delivery_NN of_IN voice_NN and_CC data_NNS services_NNS to_TO mobile_JJ handsets_NNS through_IN wireless_JJ technologies_NNS ._.
+Mobile_NNP transit_NN traffic_NN Telecommunication_NN traffic_NN across_IN the_DT network_NN between_IN mobile_JJ operators_NNS who_WP do_VBP not_RB have_VB a_DT direct_JJ connection_NN with_IN each_DT other_JJ ._.
+MPLS_NNP Multi-Protocol_NNP Label_NNP Switching_VBG supports_VBZ the_DT separation_NN and_CC management_NN of_IN different_JJ types_NNS of_IN IP_NNP traffic_NN based_VBN on_IN priority_NN and_CC service_NN plan_NN ._.
+National_NNP Telcos_NNP Collectively_RB ,_, the_DT Caribbean_NNP ,_, Panama_NNP ,_, Macau_NNP ,_, Monaco_NNP and_CC the_DT Rest_VB of_IN the_DT World_NNP ._.
+Network_NNP costs_VBZ Network_NNP costs_NNS include_VBP the_DT purchase_NN of_IN bandwidth_NN ,_, operating_VBG and_CC maintenance_NN of_IN equipment_NN ,_, operation_NN of_IN software_NN and_CC cables_NNS ,_, wayleaves_NNS ,_, customer_NN acquisition_NN costs_NNS ,_, cost_NN of_IN goods_NNS sold_VBN ,_, licences_NNS and_CC associated_VBN royalties_NNS payable_JJ to_TO government_NN ._.
+Next_JJ Generation_NNP Network_NNP IP-based_JJ network_NN being_VBG developed_VBN by_IN Cable_NNP &_CC Wireless_NNP over_IN the_DT three_CD years_NNS to_TO fiscal_JJ year_NN ending_VBG 2008_CD ._.
+Network_NNP terminating_VBG equipment_NN Telecommunication_NN network_NN elements_NNS that_WDT originate_VBP and_CC or_CC terminate_VB line_NN signals_NNS ._.
+Nodes_NNP Connecting_NNP points_NNS on_IN a_DT network_NN ._.
+Ofcom_NNP The_NNP Office_NNP of_IN Communications_NNPS in_IN the_DT United_NNP Kingdom_NNP :_: the_DT independent_JJ regulatory_JJ body_NN set_VBN up_RP under_IN the_DT Communications_NNP Act_NNP 2003_CD which_WDT has_VBZ responsibility_NN for_IN the_DT enforcement_NN and_CC monitoring_NN ,_, and_CC where_WRB appropriate_JJ initiating_VBG modification_NN ,_, of_IN telecommunications_NNS licences_NNS in_IN the_DT United_NNP Kingdom_NNP ._.
+Ordinary_NNP Shares_NNP Ordinary_NNP Shares_NNP of_IN 25p_JJ each_DT in_IN the_DT capital_NN of_IN the_DT Company_NN Common_JJ stock_NN with_IN a_DT par_JJ value_NN of_IN 25p_JJ ._.
+Outpayments_NNP Payments_NNS to_TO other_JJ network_NN operators_NNS to_TO carry_VB traffic_NN on_IN behalf_NN of_IN Cable_NNP &_CC Wireless_NNP customers_NNS ._.
+Principal_NN operations_NNS The_DT United_NNP Kingdom_NNP ,_, the_DT Caribbean_NNP ,_, Panama_NNP ,_, Macau_NNP and_CC Monaco_NNP ._.
+Proposed_VBN dividend_NN Dividend_NN declared_VBN by_IN directors_NNS but_CC not_RB yet_RB approved_VBN by_IN shareholders_NNS ._.
+Resellers_NNS Businesses_NNS that_WDT provide_VBP communication_NN services_NNS to_TO consumers_NNS by_IN buying_VBG capacity_NN from_IN network_NN operators_NNS and_CC selling_VBG it_PRP on_IN ._.
+Reserves_NNS Shareholders_NNS equity_NN other_JJ than_IN paid-up_JJ capital_NN ._.
+Share_NN capital_NN Ordinary_NNP Shares_NNP or_CC capital_NN stock_NN issued_VBN and_CC fully_RB paid_VBN ._.
+SMS_NNP Short_NNP Messaging_NNP Service_NNP permits_VBZ the_DT transmission_NN of_IN text_NN messages_NNS to_TO and_CC from_IN mobile_JJ handsets_NNS ._.
+SoHo_NNP Small_NNP office_NN Home_NNP office_NN ._.
+Switched_VBN voice_NN Abbreviation_NNP for_IN telecommunication_NN services_NNS provided_VBN over_IN the_DT Public_NNP Switched_NNP Telephone_NNP Network_NNP ,_, which_WDT refers_VBZ to_TO the_DT international_JJ telephone_NN system_NN based_VBN on_IN copper_NN wires_NNS carrying_VBG analog_NN voice_NN data_NNS ._.
+TDMA_NNP Time_NNP Division_NNP Multiple_NNP Access_NNP or_CC digital_JJ mobile_JJ technology_NN which_WDT assigns_VBZ a_DT specific_JJ radio_NN frequency_NN to_TO each_DT user_NN to_TO deliver_VB mobile_JJ voice_NN and_CC data_NNS ._.
+Telebusiness_NNP Telebusiness_NNP is_VBZ any_DT type_NN of_IN telecommunication_NN service_NN provided_VBN to_TO businesses_NNS to_TO enable_VB them_PRP to_TO transact_VB with_IN their_PRP$ customers_NNS over_IN the_DT telephone_NN ._.
+150 151 2005_CD Annual_JJ Report_NNP Traditional_JJ services_NNS Voice_NNP and_CC data_NNS services_NNS delivered_VBN over_IN fixed-line_JJ or_CC switched_VBD networks_NNS ._.
+Transit_NNP A_NNP term_NN to_TO describe_VB moving_VBG data_NNS from_IN a_DT source_NN point_NN to_TO a_DT destination_NN point_NN using_VBG various_JJ network_NN elements_NNS ._.
+United_NNP Kingdom_NNP Geographic_NNP operations_NNS which_WDT include_VBP both_DT the_DT UK_NNP Group_NNP and_CC Bulldog_NNP Communications_NNPS ._.
+VoIP_NNP Voice_NNP over_IN Internet_NNP Protocol_NNP or_CC an_DT IP_NNP voice_NN service_NN that_WDT provides_VBZ enhanced_JJ functionality_NN ,_, such_JJ as_IN the_DT delivery_NN of_IN voice_NN ,_, video_NN and_CC data_NNS ,_, with_IN the_DT reliability_NN and_CC features_NNS associated_VBN with_IN switched_VBN voice_NN networks_NNS ._.
+VPN_NNP Virtual_NNP Private_NNP Network_NNP or_CC a_DT corporate_JJ network_NN provided_VBN to_TO a_DT customer_NN by_IN a_DT telecommunications_NN operator_NN using_VBG elements_NNS of_IN a_DT switched_VBN network_NN ._.
+To_TO the_DT customer_NN it_PRP offers_VBZ all_PDT the_DT features_NNS of_IN a_DT private_JJ network_NN ,_, such_JJ as_IN direct_JJ dialling_NN between_IN offices_NNS in_IN different_JJ countries_NNS ._.
+Wavelengths_NNS A_DT measurement_NN of_IN capacity_NN on_IN a_DT network_NN ._.
+Web_NN hosting_VBG Service_NNP providing_VBG facilities_NNS to_TO hold_VB customer_NN websites_NNS ._.

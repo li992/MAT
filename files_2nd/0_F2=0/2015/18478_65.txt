@@ -1,0 +1,149 @@
+Financial statements Notes to the Group financial statements 119 There are a number of other new standards and amendments to existing standards currently in issue but not yet effective, including two significant standards: IFRS 9 Financial instruments, issued in final form in July 2014 following the completion of its phased release: and IFRS 15 Revenue from contracts with customers.
+IFRS 9 is, and IFRS 15 is expected to be, effective for Experian for the year ending 31 March 2019 subject to EU endorsement.
+We are assessing their impact and, in the case of IFRS 15, this includes a systematic review of existing major contracts to ensure that the impact of the new standard is fully understood and changes to financial reporting systems are made in advance of the effective date.
+It is not currently practicable to quantify the effect of these two standards.
+There are no other new standards, amendments to existing standards or interpretations that are not yet effective that would be expected to have a material impact on the Group financial statements.
+Significant accounting policies The significant accounting policies applied are summarised below.
+They have been consistently applied to both years presented.
+The explanations of these policies focus on areas where judgment is applied or which are particularly important in the financial statements.
+Content from accounting standards, amendments and interpretations is excluded where there is simply no policy choice under EU-IFRS.
+For ease of reference, the content within this note is arranged as follows: sections a to d content that applies generally to the preparation of these financial statements: sections e to m balance sheet policies, to be read in conjunction with specific notes as indicated: sections n to u income statement policies, to be read in conjunction with specific notes as indicated: and section v the policy and presentation principles adopted for disclosing segment information, in accordance with IFRS 8 Operating segments.
+a Basis of consolidation Experian follows EU-IFRS including: IFRS 3 Business combinations: IFRS 5 Non-current assets held for sale and discontinued operations: and IFRS 10 Consolidated financial statements.
+The Group financial statements incorporate the financial statements of the Company and its subsidiary undertakings.
+The accounting policies of subsidiaries and segments used for consolidation purposes are consistent with Group policies.
+A list of the significant subsidiaries is given in note P to the Company financial statements.
+b Foreign currency translation Experian follows EU-IFRS, including IAS 21 The effects of changes in foreign exchange rates.
+c Fair value estimation Experian follows EU-IFRS, including IFRS 13 Fair value measurement.
+The fair values of derivative financial instruments and other financial assets and liabilities are determined by using market data and established estimation techniques such as discounted cash flow and option valuation models.
+The fair value of foreign exchange contracts is based on a comparison of the contractual and year-end exchange rates.
+The fair values of other derivative financial instruments are estimated by discounting the future cash flows to net present values, using appropriate market rates prevailing at the year-end.
+d Impairment of non-financial assets Experian follows EU-IFRS, including IAS 36 Impairment of assets.
+Assets that are not subject to amortisation or depreciation are tested annually for impairment.
+Assets that are subject to amortisation or depreciation are reviewed for impairment when there is an indication that the carrying amount may not be recoverable.
+An impairment charge is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell, and value-in-use.
+For the purposes of assessing impairment, assets are grouped into cash generating units CGUs, determined by the lowest levels for which there are separately identifiable cash flows.
+Notes to the Group financial statements 120 Financial statements Notes to the Group financial statements for the year ended 31 March 2015 continued 4.
+Significant accounting policies continued e Goodwill note 20 and Other intangible assets note 21 Experian follows EU-IFRS, including IAS 38 Intangible assets.
+Acquisition intangibles Intangible assets acquired as part of a business combination are capitalised on acquisition at fair value and separately from goodwill, if those assets are identifiable separable or arising from legal rights and their fair value can be measured reliably.
+Such assets are referred to as acquisition intangibles in these financial statements.
+Amortisation is charged on a straight-line basis as follows: Customer and other relationships over three to 18 years, based on managements estimates of the average lives of such relationships, and reflecting their long-term nature.
+Acquired software development over three to eight years, based on the assets expected life.
+Marketing-related assets trademarks and licences over their contractual lives, up to a maximum of 20 years.
+Marketing-related assets trade names over three to 14 years, based on managements expected retention of trade names within the business.
+Other intangibles Other intangibles are capitalised at cost, in accordance with IAS 38.
+Capitalisation and amortisation policies are: Databases capitalised databases, which comprise the data purchase and capture costs of internally developed databases, are amortised over three to seven years.
+Computer software internal use computer software licences purchased for internal use are capitalised on the basis of the costs incurred to purchase and bring into use the specific software.
+These costs are amortised over three to ten years.
+Computer software internally generated costs directly associated with producing identifiable and unique software products controlled by the Group, and that will generate economic benefits beyond one year, are recognised as intangible assets.
+f Property, plant and equipment note 22 Items of property, plant and equipment are held at cost less accumulated depreciation, in accordance with IAS 16 Property, plant and equipment.
+Depreciation is charged on a straight-line basis as follows: Freehold properties over 50 years.
+Short leasehold properties over the remaining period of the lease.
+Finance leases over the lower of the useful life of the equipment and period of the lease.
+Owned plant and equipment over three to ten years, according to the assets estimated life.
+Technology-based assets are typically depreciated over three to five years, with other infrastructure assets depreciated over five to ten years.
+g Trade receivables note 23 Trade receivables are initially recognised at fair value and subsequently measured at this value less any provision for impairment.
+Where the time value of money is material, receivables are then carried at amortised cost using the effective interest rate method, less any provision for impairment.
+A provision for impairment is established when there is objective evidence that the Group will not be able to collect all amounts due according to their original terms.
+Such evidence is based primarily on the pattern of cash received, compared to the terms upon which the receivable is contracted.
+The amount of the provision is the difference between the carrying amount and the value of estimated future cash flows.
+Any charges or credits in respect of such provisions and irrecoverable trade receivables are recognised in the Group income statement, within other operating charges.
+h Cash and cash equivalents note 24 Cash and cash equivalents include cash in hand, term and call deposits held with banks and other short-term, highly liquid investments with original maturities of three months or less.
+Bank overdrafts are shown within borrowings in current liabilities on the Group balance sheet.
+For the purposes of the Group cash flow statement, cash and cash equivalents are reported net of bank overdrafts.
+Financial statements Notes to the Group financial statements 121 i Financial assets and derivative financial instruments note 28 The Group classifies its financial assets into the four categories below: Loans and receivables comprising trade and other receivables and cash and cash equivalents.
+Derivatives used for hedging including interest rate swaps, cross currency swaps, foreign exchange contracts and equity swaps.
+Assets at fair value through profit and loss comprising non-hedging derivative financial instruments.
+Available-for-sale financial assets being non-derivative financial assets either designated to this category or not classified in the other financial asset categories.
+The Group uses derivative financial instruments to manage its exposures to fluctuations in foreign exchange rates, interest rates and certain obligations relating to share incentive plans, including social security obligations.
+Instruments used include interest rate swaps, cross currency swaps, foreign exchange contracts and equity swaps.
+These are recognised as assets or liabilities as appropriate and are classified as non-current, unless they mature within one year of the balance sheet date.
+Derivatives are initially recognised at their fair value on the date the contract is entered into, and are subsequently remeasured at their fair value.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument and, if so, the nature of the hedge relationship.
+Hedging derivatives The Group designates certain derivatives as fair value hedges, which are hedges of the fair value of a recognised asset or liability or a firm commitment.
+The Group does not currently enter into cash flow or net investment hedges.
+The Group documents the relationship between hedging instrument and hedged item at the hedge inception, and its risk management objective and strategy for undertaking hedge transactions.
+The Group also documents its assessment of whether the derivatives used in hedging transactions are highly effective in offsetting changes in fair values of hedged items.
+This effectiveness testing is performed at every reporting date throughout the life of the hedge to confirm that the hedge remains, and will continue to remain, highly effective.
+Hedge accounting is discontinued when the hedging instrument expires, is sold, terminated or exercised, or no longer qualifies for hedge accounting.
+Changes in the fair value of derivatives that are designated and qualify as fair value hedging instruments are recognised in the Group income statement, together with any changes in the fair value of the hedged asset or liability that are attributable to the hedged risk.
+The ineffective portion of a fair value hedge is recognised in net finance costs in the Group income statement.
+Non-hedging derivatives Changes in the fair value of such derivative instruments are recognised immediately in the Group income statement.
+Cost and income amounts in respect of derivatives entered into in connection with social security obligations on employee share incentive plans, other than amounts of a financing nature, are charged or credited within labour costs.
+Other costs and changes in the fair value of such derivatives are charged or credited within financing fair value remeasurements in the Group income statement.
+j Borrowings note 26 Borrowings are recognised initially at fair value, net of any transaction costs incurred.
+Borrowings are subsequently stated at amortised cost, except where they are hedged by an effective fair value hedge, in which case the carrying value is adjusted to reflect the fair value movements associated with the hedged risk.
+Borrowings are classified as non-current to the extent that the Group has an unconditional right to defer settlement of the liability for at least one year after the balance sheet date.
+k Trade payables note 25 Trade payables are recognised initially at fair value.
+Where the time value of money is material, payables are then carried at amortised cost using the effective interest rate method.
+Notes to the Group financial statements 122 Financial statements Notes to the Group financial statements for the year ended 31 March 2015 continued 4.
+Significant accounting policies continued l Post-employment benefit assets and obligations note 33 Defined benefit pension arrangements funded plans The post-employment benefit assets and obligations recognised in the Group balance sheet in respect of funded plans comprise the fair value of plan assets of funded plans less the present value of the related defined benefit obligation at that date.
+The defined benefit obligation is calculated annually by independent qualified actuaries, using the projected unit credit method.
+Under this method, and in view of the fact that the principal Experian funded plan is closed to new entrants, the current service cost increases as members approach retirement, due to the plans ageing active membership.
+The present value of the defined benefit obligation is determined by discounting the estimated future cash outflows, using market yields on high-quality corporate sterling bonds with maturity terms consistent with the estimated average term of the related pension liability.
+Defined benefit pension arrangements unfunded plans Unfunded pension obligations are determined and accounted for in accordance with the principles used in respect of the funded arrangements.
+Defined contribution pension arrangements The assets of defined contribution plans are held separately in independently administered funds.
+The pension cost recognised in the Group income statement represents the contributions payable by the Group to these funds, in respect of the year.
+Post-retirement healthcare obligations Obligations in respect of post-retirement healthcare plans are calculated annually by independent qualified actuaries, using an actuarial methodology similar to that for the funded defined benefit pension arrangements.
+The cost recognised in the Group income statement only comprises interest on the obligation.
+m Own shares note 37 The Group has a number of equity-settled, share-based employee incentive plans.
+In connection with these, shares in the Company are held by The Experian plc Employee Share Trust and the Experian UK Approved All-Employee Share Plan.
+The assets of these entities mainly comprise Experian shares, which are shown as a deduction from total equity at cost.
+Shares in the Company purchased and held as treasury shares, in connection with the above plans and any share buyback programme, are also shown as a deduction from total equity at cost.
+n Revenue recognition Revenue represents the fair value of consideration receivable on the provision of services, net of any sales taxes, rebates and discounts.
+Revenue includes the provision and processing of data, subscriptions to services, software and database customisation and development, and the sale of software licences, maintenance and related consulting services.
+Revenue in respect of the provision and processing of data is recognised in the year in which the service is provided.
+Subscription revenues, and revenues in respect of services to be provided by an indeterminate number of acts over a specified period of time, are recognised on a straight-line basis over those periods.
+Customisation, development and consulting revenues are recognised by reference to the stage of completion of the work, which is generally on the basis of costs incurred to date as a percentage of estimated total costs.
+Revenue from software licences is recognised upon delivery.
+Revenue from maintenance agreements is recognised on a straight-line basis over the term of the maintenance period.
+Where a single arrangement comprises a number of elements which are capable of operating independently of one another, the total revenues are allocated amongst the elements, based on an estimate of the fair value of each element.
+Where the elements are not capable of operating independently, or reasonable measures of fair value for each element are not available, total revenues are recognised on a straight-line basis over the contract period, to reflect the timing of services performed.
+Sales are generally invoiced in the geographic area in which the customer is located.
+As a result, the geographic location of the invoicing undertaking is used to attribute revenue to individual countries.
+Financial statements Notes to the Group financial statements 123 o Operating charges Operating charges are reported by nature in the Group income statement, reflecting the Groups cost-management control structure.
+Details of charges within labour costs in respect of share incentive plans are set out in note r below.
+Those for post-employment benefits are set out in note l above.
+Details of the Groups amortisation and depreciation policy are given in notes e and f above.
+The principles upon which impairment charges are recognised are set out in note d above.
+Payments made under operating leases are charged in the Group income statement on a straight-line basis over the lease period.
+Incentives from lessors are recognised as a systematic reduction of the charge over the lease period.
+p Net finance costs note 15 Incremental transaction costs which are directly attributable to the issue of debt are capitalised and amortised over the expected life of the borrowing, using the effective interest rate method.
+All other borrowing costs are charged in the Group income statement in the year in which they are incurred.
+Amounts payable or receivable in respect of interest rate swaps are taken to net finance costs over the periods of the contracts, together with the interest differentials reflected in foreign exchange contracts.
+Details of the nature of movements in the fair value of derivatives which are reported as financial fair value remeasurements are included in note i above.
+The change in the year in the present value of put call option agreements, in respect of shares held by non-controlling shareholders, is recognised as a financing fair value remeasurement within net finance costs.
+q Tax note 16 The tax charge or credit for the year is recognised in the Group income statement, except for tax on items recognised in other comprehensive income or directly in equity.
+Current tax is calculated on the basis of the tax laws enacted or substantively enacted at the balance sheet date, in the countries where the Group operates.
+Deferred tax is provided in full on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the Group financial statements.
+Deferred tax is not recognised on taxable temporary differences arising on the initial recognition of goodwill.
+Deferred tax is not accounted for when it arises from the initial recognition of an asset or liability in a transaction, other than a business combination, that at the time of the transaction affects neither accounting nor taxable profit or loss.
+Deferred tax assets and liabilities are calculated at the tax rates that are expected to apply when the asset is realised or the liability settled, based on the tax rates and laws that have been enacted or substantively enacted by the balance sheet date, in the countries where the Group operates.
+Deferred tax assets are recognised in respect of tax losses carried forward and other temporary differences, to the extent that it is probable that the related tax benefit will be realised through future taxable profits.
+Deferred tax is provided on temporary differences arising on investments in subsidiaries and associates, except where the Group controls the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+Deferred tax assets and liabilities are offset where there is a legally enforceable right to offset current tax assets and liabilities and where they relate to the same tax authority.
+r Share incentive plans note 31 The fair value of share incentives granted in connection with the Groups equity-settled, share-based employee incentive plans is recognised as an expense on a straight-line basis over the vesting period.
+Fair value is measured using whichever of the Black-Scholes model, Monte Carlo model or closing market price is most appropriate.
+The Group takes into account the best estimate of the number of awards and options expected to vest and revises such estimates at each balance sheet date.
+Non-market performance conditions are included in the vesting estimates.
+Market-based performance conditions are included in the fair value measurement but are not revised for actual performance.
+Notes to the Group financial statements 124 Financial statements Notes to the Group financial statements for the year ended 31 March 2015 continued 4.
+Significant accounting policies continued s Contingent consideration Contingent consideration is recognised in accordance with EU-IFRS, including IFRS 3. t Discontinued operations note 17 Discontinued operations are reported in accordance with EU-IFRS, including IFRS 5. u Earnings per share note 18 Earnings per share are reported in accordance with EU-IFRS, including IAS 33. v Segment information policy and presentation principles note 8 Experian is organised into, and managed on a worldwide basis through, the following five operating segments, which are based on geographic areas and supported by central functions: North America: Latin America: UK and Ireland: Europe, Middle East and Africa EMEA : and Asia Pacific.
+The chief operating decision maker assesses the performance of these operating segments on the basis of EBIT, as defined in note 6.
+The All other segments category required to be disclosed has been captioned as EMEA Asia Pacific in these financial statements.
+This combines information in respect of the EMEA and Asia Pacific segments, as neither of these operating segments is individually reportable, on the basis of their share of the Groups results and net assets.
+Experian separately presents information equivalent to segment disclosures in respect of the costs of its central functions, under the caption Central Activities, as management believes that this information is helpful to users of the financial statements.
+Costs reported for Central Activities include costs arising from finance, treasury and other global functions.
+Inter-segment transactions are entered into under the normal commercial terms and conditions that would be available to third parties.
+Such transactions do not have a material impact on the Groups results.
+Segment assets exclude tax assets, cash and cash equivalents, and derivatives designated as hedges of borrowings.
+Segment liabilities exclude tax liabilities, borrowings and related hedging derivatives.
+Net assets reported for Central Activities comprise corporate head office assets and liabilities, including certain post-employment benefit assets and obligations, and derivative assets and liabilities.
+Capital expenditure comprises additions to property, plant and equipment and intangible assets, other than additions through business combinations.
+Information required to be presented also includes analysis of the Groups revenues by groups of service lines.
+This is supplemented by voluntary disclosure of the profitability of those groups of service lines.
+For ease of reference, Experian continues to use the term business segments when discussing the results of groups of service lines.
+Experians four business segments, details of which are given in the Strategic report section of this Annual Report, are: Credit Services: Decision Analytics: Marketing Services: and Consumer Services.
+The North America and the UK and Ireland operating segments derive revenues from all of the Groups business segments.
+The EMEA and Asia Pacific segments currently do not derive revenue from the Consumer Services business segment and such revenue generated in the Latin America segment is not yet sufficiently material to be disclosed separately.
+Reportable segment information for the full year provided to the chief operating decision maker is set out in note 8 a.

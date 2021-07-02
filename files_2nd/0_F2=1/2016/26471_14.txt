@@ -1,0 +1,39 @@
+London Stock Exchange Group plc Annual Report December 2016 Technology Services Introduction Revenues Technology Services provides the Group and customers, including banks, specialist trading firms and other capital market venues with resilient, high-speed, m low latency trading platforms, post trade platforms, real time market data and 88.3 infrastructure products and services.
+2015: 80.6m Exchange Technology Our cash equity and retail bond markets run on the latest version of the Millennium Exchange trading platform.
+This technology has helped reduce our cost base and KEY SUMMARY increased the opportunities for customers to benefit from enhanced functionality Technology Services revenues increased by 10% to 88.3 million and further expansion of our co-location services.
+The flexible technology allows us 2015: 80.6 million and on an organic constant currency basis, increased by to meet the needs of our customers quickly and cost effectively.
+4% on increased sales LSEG Business Services Limited, our Shared Services Company, In January 2016, we launched LSEG Business Services Limited BSL, our Shared was launched in January 2016 Services Company, providing a range of technology services Group-wide and delivering improved service, resiliency, efficiency and effectiveness.
+BSL is part of Phase 2.0 of Group Ticker Plant was launched in February 2016 our ongoing process to provide uniformity across all LSEG companies as we grow MillenniumIT continued to expand, with Millennium PostTrade implemented and expand our activities.
+It supports best practice and allows for continuous in Singapore Exchanges Securities Market, and Millennium Exchange and improvement in our service provision.
+Millennium Surveillance in Casablanca Stock Exchange In 2016, we successfully completed the integration of FTSE Russell platforms, while at the same time separating the Russell Investment Management elements ahead of the disposal.
+A business driven transformation programme with MillenniumIT was launched with the objective of simplifying the IT architecture of LCH.
+The Group is also assessing opportunities that exist in Financial Technology FinTech including distributed ledger which our technology and customer network could benefit from.
+Support has been provided to Capital Markets and Post-Trade Services for their business initiatives and to deliver efficiencies and savings.
+Initiatives include MiFID II implementation, the expansion of ELITE and delivery of TARGET2- Securities T2S releases.
+In addition, CurveGlobal went live in September and Turquoise migrated to MillenniumIT Surveillance platform in December 2016.
+Through our Millennium Exchange technology, our UK cash equity continues to exhibit excellent technical performance.
+Cash equities round-trip latency on London Stock Exchange had an average of 84 microseconds in 2016 and was FURTHER INFORMATION available for 100% uptime during the year 2015: 100%.
+Our platforms were Market trends and our response for Technology Services can be found on put through extensive testing and planning for unprecedented market activity pages 12 15.
+Profitability of each segment can be found in the Financial Review ahead of the UK referendum in June: following the referendum the number of on pages 38 43.
+An overview of the regulatory landscape can be found on transactions orders and trades processed was over 128 million on 24 and 27 pages 172 173.
+A glossary of terms can be found on pages 169 171.
+In November we again received high order volumes following the US presidential elections: the number of transactions processed on 9 November was 128 million.
+The average daily volume of transactions for 2016 was 78 million.
+Trading system latency milliseconds 11.0 6.0 5.0 3.7 3.0 1.41 0.084 TradElect TradElect TradElect TradElect TradElect TradElect Millennium Jun 07 Release 2 Release 3 Release 4 Release 4.1 Mar 10 Exchange Oct 07 Sep 08 May 09 Jul 09 LSE equity 2016 34 London Stock Exchange Group plc Annual Report December 2016 Strategic Report Technology Services Phase 2.0 of our Group Ticker Plant GTP was delivered in February 2016.
+GATElab This delivers a high-speed technology platform that provides a single, GATElab, our Italy UK-based technology company, is a provider of trading and normalised real time market data protocol for broadcast of market data from post-trading solutions to the global financial community.
+Fully MiFID compliant, across the Group, regardless of asset class, trading platform or geography.
+the products and services GATElab offers to buy-side, sell-side and hedge fund partners include multi-asset class electronic and trading platforms, ultra-low Global Business Development has consolidated the business partnerships latency pre-trade risk market adapters, smart order routing for equities and between LSEG and our global market infrastructure clients to further expand bonds, and post-trade deal capture and cross-asset margining.
+revenue generating opportunities across the group business divisions.
+In 2016 GATElab launched an ultra low latency service risk gateway for clients to MillenniumIT access the National Stock Exchange of India, and a global real time analytics The Group acquired MillenniumIT in 2009.
+It provides advanced, market leading platform project for a major Investment Bank.
+capital market software solutions as well as enterprise sales and IT infrastructure services to over 40 organisations and exchanges around the world.
+Exactpro Exactpro Systems was acquired by LSEG in May 2015.
+The subsidiary specialises in A wide range of solutions is offered by MillenniumIT, such as Millennium functional and non-functional testing of systems that process wholesale financial Exchange, the flagship multi-asset trading platform.
+All of the Groups cash products across many asset classes, particularly market infrastructure such as equity and retail bond markets run on the latest version of Millennium Exchange.
+trading systems, risk management, market surveillance, securities data distribution and post trade infrastructures.
+These services are offered to exchanges, 2016 Highlights investment banks, brokers and other financial sector organisations worldwide.
+Amongst the 51 live systems, eight were new this year including Singapore, Morocco, India and Argentina, demonstrating MillenniumITs increasing Exactpro Systems increases the capabilities to further improve the efficiency global reach and effectiveness of clients software while providing industry-leading support for businesses across the Group.
+In 2016 we recruited additional Exactpro staff Millennium Exchange for equities and fixed income trading and Millennium specifically to support Group companies, most notably LCH.
+This has reduced Surveillance for monitoring trading and detecting unusual behaviour went our cost base for software testing and our reliance on third parties.
+live at Casablanca Stock Exchange in August Millennium PostTrade was implemented at Singapore Exchanges securities During the year contracts were signed with both Nodal Exchange and ASX for market quality assurance and test automation.
+An operational support services deal was awarded to the MillenniumIT platform from the National Commodities and Derivatives Exchange, India NCDEX Looking forward, MillenniumIT is preparing for MiFID II going live in 2018 and integrating and consolidating LCHs multiple post trade platforms.

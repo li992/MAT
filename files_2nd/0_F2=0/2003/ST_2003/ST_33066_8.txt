@@ -1,0 +1,48 @@
+GLOSSARYOF_NNP TERMS_NNP Unless_IN the_DT context_NN indicatesotherwise_NN ,_, the_DT followingterms_NNS have_VBP the_DT meaningsshownbelow_NN :_: Term_NNP Meaning_NNP 510kClearance_NNP FDA_NNP grants_NNS 510_CD k_NN clearance_NN for_IN a_DT device_NN once_IN it_PRP is_VBZ determined_VBN that_IN the_DT device_NN is_VBZ substantially_RB equivalent_JJ to_TO another_DT device_NN on_IN the_DT market_NN ._.
+To_TO be_VB substantially_RB equivalent_JJ ,_, the_DT device_NN must_MD have_VB the_DT same_JJ indicationsfor_NN use_NN and_CC be_VB mechanically_RB equivalent_JJ to_TO another_DT device_NN cleared_VBD for_IN sale_NN in_IN the_DT US_NNP ._.
+Once_RB the_DT device_NN has_VBZ 510_CD k_NN clearance_NN ,_, the_DT device_NN can_MD be_VB legally_RB placed_VBN onthe_NN US_NNP market_NN ._.
+ADR_NNP In_IN the_DT US_NNP ,_, The_DT Companys_NNP Ordinary_NNP Shares_NNP are_VBP traded_VBN in_IN the_DT term_NN of_IN ADSs_NNS evidenced_VBN by_IN ADRs_NNS ._.
+ADS_NNPS In_IN the_DT US_NNP ,_, the_DT Companys_NNP Ordinary_NNP Shares_NNP are_VBP traded_VBN in_IN the_DT term_NN of_IN ADSs_NNS ._.
+Access_NN A_DT product_NN group_NN within_IN endoscopy_JJ comprising_VBG fluid_JJ management_NN and_CC surgicalaccess_NN ._.
+Advanced_NNP woundmanagement_NN A_DT product_NN group_NN comprising_VBG products_NNS associated_VBN with_IN the_DT treatment_NN of_IN skin_NN products_NNS wounds_NNS ,_, ranging_VBG from_IN products_NNS that_WDT provide_VBP moist_JJ wound_NN healing_VBG using_VBG breathable_JJ films_NNS and_CC polymers_NNS to_TO products_NNS providing_VBG active_JJ wound_NN healing_NN ._.
+AGM_NNP Annualgeneral_NNP meetingof_VBD the_DT Group_NNP ._.
+Arthroscopy_NNP Endoscopy_NNP of_IN the_DT joints_NNS is_VBZ termed_VBN arthroscopy_JJ ,_, with_IN the_DT principal_JJ applicationsbeingthe_NN kneeand_NN shoulder_NN ._.
+Casting_VBG A_DT product_NN group_NN comprising_VBG products_NNS that_WDT are_VBP used_VBN externally_RB to_TO immobilise_VB a_DT bone_NN fracture_NN or_CC damaged_VBN joint_JJ ,_, usually_RB made_VBN of_IN plaster_NN of_IN paris_NNS orsyntheticmaterials_NNS ._.
+Chronic_JJ wounds_NNS are_VBP those_DT with_IN long_JJ or_CC unknown_JJ healing_NN times_NNS including_VBG leg_NN ulcers_NNS ,_, pressure_NN sores_NNS and_CC diabetic_JJ foot_NN ulcers_NNS ._.
+Acute_JJ wounds_NNS are_VBP those_DT for_IN which_WDT healing_NN times_NNS can_MD be_VB reasonably_RB predicted_VBD such_JJ as_IN surgicaland_JJ post-operative_JJ wounds_NNS ._.
+Company_NN Smith_NNP &_CC Nephew_NNP plc_NN or_CC ,_, where_WRB appropriate_JJ ,_, the_DT Companys_NNP Board_NNP of_IN Directors_NNS ,_, unless_IN the_DT context_NN otherwiserequires_NNS ._.
+Class_NN III_NNP medicaldevice_NN A_DT medical_JJ device_NN that_WDT requires_VBZ pre-market_JJ approval_NN by_IN the_DT relevant_JJ regulatorybodyinthe_NN US_NNP orEurope_NNP ._.
+CompaniesAct_NNP CompaniesAct_NNP 1985_CD ,_, as_IN amended_VBN ,_, of_IN Great_NNP Britain_NNP ._.
+Debridement_NNP A_NNP medical_JJ treatment_NN or_CC surgical_JJ procedure_NN to_TO remove_VB necrotic_JJ tissue_NN and_CC froma_NN woundto_NN aid_NN healing_NN ._.
+Endoscopy_NNP Endoscopy_NNP allows_VBZ surgeons_NNS to_TO operate_VB through_IN coin-sized_JJ openings_NNS in_IN the_DT body_NN ,_, rather_RB thanlarge_NN incisions_NNS ._.
+Endoscopyproducts_NNS A_DT product_NN group_NN comprising_VBG specialised_JJ viewing_NN and_CC access_NN devices_NNS ,_, surgical_JJ instruments_NNS and_CC powered_VBD equipment_NN used_VBN in_IN minimally_RB invasive_JJ surgical_JJ procedures_NNS ._.
+Through_IN a_DT small_JJ incision_NN surgeons_NNS are_VBP able_JJ to_TO see_VB insidethe_JJ bodyusinga_NN monitorand_NN identifyand_NN repairdefects_NNS ._.
+Euroor_NNP References_NNPS to_TO the_DT common_JJ currency_NN used_VBN in_IN the_DT market_NN states_NNS of_IN the_DT EuropeanUnion_NNP ._.
+External_NNP fixation_NN The_DT use_NN of_IN wires_NNS or_CC pins_NNS transfixed_VBN through_IN bone_NN to_TO hold_VB the_DT position_NN of_IN a_DT fracture_NN ._.
+142_CD Term_NNP Meaning_NNP FRS_NNP A_NNP whichispart_NN ofUK_NNP GAAP_NNP ._.
+GrouporSmith_NNP &_CC Nephew_NNP Used_VBD for_IN convenience_NN to_TO refer_VB to_TO the_DT Company_NN and_CC its_PRP$ consolidated_JJ subsidiaries_NNS ,_, unless_IN the_DT context_NN otherwiserequires_NNS ._.
+HA_NNP Hydroxyapatite_NNP ,_, HA_NNP is_VBZ a_DT ceramic_JJ material_NN that_WDT is_VBZ similar_JJ in_IN composition_NN to_TO bone_NN ._.
+DeviceswithHAare_NNP implanted_VBD withoutthe_NN use_NN ofbonecement_NN ._.
+IDETprocedure_NNP Intradiscal_NNP Electrothermal_NNP Therapy_NNP IDET_NNP is_VBZ a_DT thermal_JJ procedure_NN intended_VBN for_IN the_DT shrinkage_NN and_CC decompression_NN of_IN the_DT spinal_JJ disc_NN to_TO treat_VB patients_NNS ._.
+IFRS_NNP International_NNP Financial_NNP Reporting_NNP Standards_NNPS issued_VBN by_IN the_DT International_NNP AccountingStandards_NNP Board_NNP ._.
+Image_NN guidedsurgery_NN The_DT use_NN of_IN computer-tracking_NN in_IN orthopaedics_NNS surgery_NN to_TO give_VB surgeons_NNS real-time_JJ precise_JJ feedback_NN on_IN the_DT positioning_NN of_IN surgical_JJ instruments_NNS relative_JJ toa_NN patients_NNS anatomy_NN ._.
+Internalfixation_NNP The_DT use_NN of_IN plates_NNS ,_, nails_NNS ,_, rods_NNS ,_, pins_NNS ,_, bands_NNS ,_, screws_NNS ,_, bolts_NNS and_CC staples_NNS in_IN the_DT correctionofskeletal_JJ defects_NNS ._.
+Metal-on-metal_JJ A_DT less_JJR invasive_JJ surgical_JJ approach_NN to_TO treating_VBG arthritis_NNS in_IN younger_JJR patients_NNS hipresurfacing_VBG whereby_WRB only_RB the_DT surfaces_NNS of_IN the_DT hip_NN joint_NN are_VBP replaced_VBN leaving_VBG the_DT hip_NN head_NN substantially_RB preserved_VBD ._.
+Necrotictissue_NNP Dead_NNP tissue_NN withthe_NN bed_NN ofa_NN wound_NN ,_, usuallycrustlike_JJ ._.
+OrthopaedicProducts_NNP Products_NNPS that_WDT comprise_VBP implants_NNS ,_, devices_NNS and_CC systems_NNS to_TO replace_VB diseased_JJ or_CC injured_JJ hip_NN ,_, knee_NN and_CC shoulder_NN joints_NNS ,_, and_CC trauma_NN devices_NNS such_JJ as_IN rods_NNS ,_, pins_NNS ,_, screws_NNS ,_, plates_VBZ andexternal_JJ frames_NNS used_VBN totreat_NN bonefractures_NNS ._.
+Papainurea_NNP Papain_NNP urea_NN is_VBZ a_DT compound_NN of_IN an_DT enzyme_NN extracted_VBN from_IN papaya_NN and_CC an_DT ._.
+Porouscoated_NNP knee_NN Porous_JJ knee_NN replacement_NN parts_NNS are_VBP components_NNS that_WDT are_VBP coated_VBN with_IN small_JJ beads_NNS ._.
+When_WRB several_JJ layers_NNS of_IN beads_NNS are_VBP applied_VBN to_TO the_DT parts_NNS the_DT bone_NN can_MD grow_VB into_IN the_DT holes_NNS between_IN the_DT beads_NNS which_WDT provide_VBP additional_JJ bone_NN ._.
+PoundSterling_NNP ,_, Sterling_NNP ,_, References_NNP toUK_NNP currency_NN ._.
+penceorp_NN Rehabilitation_NNP A_NNP business_NN segment_NN comprising_VBG products_NNS equipment_NN and_CC systems_NNS used_VBN to_TO increase_VB ,_, maintain_VB or_CC improve_VB patient_JJ functional_JJ capabilities_NNS after_IN surgery_NN ,_, ._.
+Repair_NN A_DT product_NN group_NN within_IN endoscopy_JJ comprising_VBG specialised_JJ devices_NNS ,_, fixation_NN systems_NNS and_CC bioabsorbable_JJ materials_NNS to_TO repair_VB joints_NNS and_CC associated_VBN tissue_NN ._.
+Resection_NNP Products_NNPS that_WDT cut_VBD or_CC ablate_VB tissue_NN within_IN endoscopy_JJ comprising_VBG mechanical_JJ blades_NNS ,_, radio_NN frequency_NN wands_NNS ,_, electromechanical_JJ and_CC hand_NN instruments_NNS forresectingtissue_VBP SSAP_NNP A_NNP Statement_NNP ofStandard_NNP ofUK_NNP GAAP_NNP ._.
+Traditionalwoundcare_NNP Products_NNPS group_NN comprising_VBG medical_JJ textile_NN products_NNS ,_, adhesive_JJ tapes_NNS and_CC fixative_JJ sheets_NNS body_NN UK_NNP United_NNP KingdomofGreat_NNP ._.
+143_CD Term_NNP Meaning_NNP UK_NNP GAAP_NNP inthe_NN United_NNP Kingdom_NNP ._.
+US_NNP United_NNP States_NNPS of_IN America_NNP ._.
+US_NNP Dollars_NNP ,_, US_NNP $_$ orcents_JJ References_NNS to_TO US_NNP currency_NN ._.
+1_CD centis_NN equivalent_NN to_TO onehundredthof_JJ US$_$ 1_CD ._.
+US_NNP GAAP_NNP inthe_NN United_NNP States_NNP of_IN America_NNP ._.
+Visualisation_NNP Products_NNPS within_IN endoscopy_JJ comprising_VBG digital_JJ cameras_NNS ,_, light_JJ sources_NNS ,_, monitors_NNS ,_, scopes_NNS ,_, image_NN capture_NN ,_, central_JJ control_NN and_CC multimedia_NNS broadcastingsystems_NNS foruse_VBP ._.
+Woundbed_NNP Anarea_NNP of_IN healthydermal_JJ and_CC epidermal_JJ tissue_NN of_IN a_DT wound_NN 144_CD 2003_CD Annual_JJ Report_NNP smith_NN &_CC nephew_NN Smith_NNP &_CC Nephew_NNP plc_NN www_NN ._.
+com_NN 15_CD Adam_NNP Street_NNP London_NNP WC2N_NNP 6LA_NNP England_NNP 2003_CD Annual_JJ Report_NNP demonstrates_VBZ that_IN innovative_JJ and_CC differentiated_JJ T_NNP 44_CD 0_CD 20 7401 7646_CD technologies_NNS from_IN smith_NN &_CC nephew_NN continue_VBP to_TO provide_VB excellent_JJ long-term_JJ F_NN 44_CD 0_CD 20 7960 2350_CD growth_NN prospects_NNS for_IN our_PRP$ business_NN ._.

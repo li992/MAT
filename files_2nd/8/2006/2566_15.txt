@@ -1,0 +1,24 @@
+Wholesale SMP Markets Performance Summary Introduction Wholesale SMP Markets Summary Performance for year ended March 2006 Purpose of table Better worse The table summarises the performance of the SMP markets that align themselves with the non- 20062005% Change Access parts of the network.
+As such they cover a wide range of services from traditional call m m Year on Year origination on narrowband to new wave broadband conveyance.
+Profit and Loss Account List of Markets Internal Turnover 1,708 1,512 13 % Call origination on Fixed Public Narrowband FPN networks External Turnover 472 557 15 % Local-tandem conveyance and transit on FPN networks Total Turnover 2,180 2,069 5 % Single transit on FPN networks Fixed call termination Wholesale trunk segments Provision Maintenance 190 176 8 % Technical areas Interconnect Circuits Network Support 73 79 8 % Technical areas Point of Handover General Support 103 125 18 % Wholesale International Direct Dial IDD to category B General management 231 220 5 % Asymmetric Broadband Origination ASBO Finance and Billing 29 30 3 % Broadband conveyance Accommodation 208 167 25 % Bad Debts - 21 100 % Commentary Other Costs 7 32 78 % The performance of these markets reflects the overall trend within BT of contraction in traditional HCA Operating Costs 841 808 4 % products of calls and lines combined with rapid growth in new wave products such as Broadband.
+Many of these markets are subject to a price cap, where the X factor in the RPI-X is a function of HCA Return before Depreciation 1,339 1,261 6 % the competition in those markets.
+BTs performance against those price caps is discussed in page 24 of this document.
+The current Network Charge Control NCC, that governs certain Wholesale Depreciation 593 619 4 % PSTN convergence services, was completed on the 1 October 2005 and will last until September CCA Adjustments 18 29 38 % 2009.
+Roundings 22 20 10 % The detailed performance of each of the markets is shown in Annex 3.
+This shows the key performance indicators in each Wholesale SMP market, including the overall returns made in those Return 706 593 19 % markets.
+Mean Capital Employed 2,936 3,172 7 % Revenue for the whole of non-Access Wholesale SMP markets has increased for 2005 06 but this is a mix of steep declines in traditional markets being more than matched by increasing volumes in the new wave, broadband markets.
+Costs overall have broadly followed the pattern of revenue, with RoCE % 24 % 19 % 5 % increased provision and maintenance costs as 21C network costs start to roll-out into the network.
+Accommodation costs are rising mostly due to the revised treatment in reporting lease costs due to WHOLESALE SMP MARKETS PERFORMANCE SUMMARY new IFRS rules.
+The comparative figures for accommodation costs in the prior year do not reflect changes as a result of IFRS.
+22 Wholesale SMP Markets Performance Summary The traditional markets in call origination, call termination, single transit and local tandem conveyance have seen volumes decline as customers either migrate to other communication providers or alternative forms of communication.
+When combined with the RPI-X price controls this has a material decline in revenues.
+Cost reductions programmes have been unable to keep pace with this decline, causing falling profit margins.
+Furthermore the profit levels generated reflect the lack of depreciation in the legacy transmission and switching assets.
+In future periods it is expected this will change as increased depreciation will flow through these markets as a result of the 21C network investment.
+The new wave markets have compensated for declines in traditional markets.
+Broadband origination and conveyance have seen volumes in both connections and rentals increase rapidly over the 2005 06 period, causing revenues to rise by over 40% in these markets.
+The cost base in these markets has not increased at the pace of the volumes and combined profits in the broadband markets which has risen to over 200m from a zero base last year.
+In the market for trunk segments effectively the link between the local end TISBO markets for other communication providers who do not have an available network, volumes have increased, as customers request higher bandwidth circuits.
+Costs however have remained steady as the trunk market has limited costs related to incremental volume.
+It is anticipated that Ofcom will be undertaking a full review of the leased lines market in 2006 07 and the trunk segments and two Access TISBO markets will form part of that review.
+The remaining markets, namely the two Technical Areas for interconnect and handover services and the small Wholesale IDD market to category B routes i. e. those which Ofcom did not deem to be competitive during 2005 06 have seen minor increases in returns, mostly as a result of increases in volumes and minor price adjustments combined with continuing cost reduction programmes.

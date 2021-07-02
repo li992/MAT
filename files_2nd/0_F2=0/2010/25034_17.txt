@@ -1,0 +1,36 @@
+OTHER INFORMATION: GLOSSARY OF tERMS USEd Glossary of terms Used continued Example - buying a CFd Step 1 Step 3 Step 5 In addition, financing is charged on bought CFD positions held Day 1 - opening the position Day 2 - closing the position Introduction open overnight, which for UK FTSE 100 CFDs, means those open at The quoted bid offer price for A plc is 126.85p 126.95p.
+On Day 2, you decide to close the position as you believe the In this example, you buy 10,000 CFDs in A plc assumed to be 10pm UK time.
+In this example, the financing charge is the current share price may fall further.
+The bid offer price at that point is a FTSE 100 share on Day 1 on 25 May 2010, as you expect one-month sterling LIBOR rate of 0.57%, plus a 2.5% additional 122.30p 122.40p.
+Trade details Buy 10,000 A plc CFDs at 126.95p the that A plcs share price will rise.
+On Day 2, however, the share margin both correct as at 25 May 2010, which results in a total offer price price has actually fallen, and you decide to sell 10,000 A plc financing charge of 3.07% being applied to your CFD contract Trade Sell 10,000 CFDs at 122.30p the bid price CFDs to close your position and minimise your losses, as you value.
+Your initial margin 634.75 calculated as 10,000 x now believe the share price will continue to fall.
+Your loss is i Commission 12.23 calculated as 10,000 x requirement 126.95p x 5% the difference between the selling and buying prices, plus Closing Price Day 1 127.35p 122.30p x 0.10% transaction and other costs illustrated opposite.
+ii Commission 12.70 calculated as 10,000 x As long as your contract is open, your account will show any Loss per individual 4.65p the difference between the Daily interest 1.07 calculated as 10,000 X 126.95p x 0.10% running loss or any running profit on your open CFD position, CFD contract selling and buying price charged 127.35p X 3.07% 365 days but this is not illustrated.
+You must also have deposited 122.30p - 126.95p sufficient funds to cover any running losses.
+i the margin level depends on the size of your CFD position and other factors such as the volatility and liquidity of the underlying share.
+You are also required to have funds deposited on your Gross loss on the ii commissions are variable, but for UK FTSE 100 CFDs as assumed for A plc, this was account before you can begin to trade.
+In this example, we 0.1% on the 25 May 2010. trade 465.00 calculated as 10,000 x 4.65p assume you have deposited 1,000.
+It is important to note that you can make losses in excess of your initial deposit, if the market moves against you.
+Step 2 Step 4 Calculating your profit or loss On Day 1 when you open the trade, you are required to have We will also reflect the impact of any corporate action on Buying commission Step 1 12.70 the initial margin for this trade in your account which equals the underlying share, such as a dividend.
+In this example, we 634.75 in this example calculated in Step 1.
+The available assume that A plc goes ex-dividend on 26 May 2010, paying a Financing charge Step 3 1.07 funds in your account therefore fall from 1,000 to 352.55 net dividend of 7p on the same day.
+Your account is therefore credited with this dividend Dividend adjustment Step 4 700.00 adjustment to reflect the underlying market price of the share.
+Selling commission Step 5 12.23 Dividend per underlying A plc share Net 7p Gross loss Step 5 465.00 Dividend adjustment on 10,000 A plc CFDs 700.00 Net Profit 209.00 123 | IG Group Holdings plc | Annual Report 2010 124 OTHER INFORMATION: GLOSSARY OF tERMS USEd Glossary of terms Used continued Example - selling a CFd Step 1 Step 5 Step 3 In addition, financing is paid in respect of sold CFD positions held Introduction Day 1 - opening the position Day 2 - closing the position open overnight, which for UK FTSE 100 CFDs, means those open The quoted bid offer price for A plc is 126.85p 126.95p.
+On Day 2, you decide to close the position as you believe the In this example, you sell 10,000 CFDs in A plc assumed to be a at 10pm UK time.
+In this example, the financing charge is the net share will now continue to rise.
+The bid offer price at that FTSE 100 share on Day 1 on 25 May 2010, as you expect that A of the current one-month sterling LIBOR rate of 0.57% less a 2.5% Trade details Sell 10,000 A plc CFDs at 126.85p the point is 122.30p 122.40p.
+plcs share price will fall.
+On Day 2, the share price has fallen, and additional margin both correct as at 25 May 2010, which results bid price you decide to buy 10,000 A plc CFDs to close your position as you in a net financing charge of 1.93% being applied to your CFD Trade Buy 10,000 CFDs at 122.40p the offer now believe that A plcs share price will rise.
+contract value - this is re-calculated daily.
+price Your initial margin 634.25 calculated as 10,000 x As long as your contract is open, your account will show any i requirement 126.85p x 5% running loss or any running profit on your open CFD position, but Closing Price Day 1 127.35p Commission 12.24 calculated as 10,000 x this is not illustrated.
+You must also have deposited sufficient funds ii 122.40p x 0.10% Commission 12.69 calculated as 10,000 x to cover any running losses.
+126.85p x 0.10% Daily interest 0.67 calculated as 10,000 X You are also required to have funds deposited on your account Profit per individual 4.45p the difference between the charged 127.35p X 1.93% 365 days before you can begin to trade.
+In this example, we assume you i the margin level depends on the size of your CFD position and other factors such as CFD contract selling and buying price have deposited 1,000. the volatility and liquidity of the underlying share.
+126.85p - 122.40p ii commissions are variable, but for UK FTSE 100 CFDs as assumed for A plc, this was It is important to note that you can make losses in excess of your 0.1% on the 25 May 2010. initial deposit, if the market moves against you.
+Gross profit on the 445.00 calculated as 10,000 x trade 4.45p Step 2 Step 4 Calculating your profit or loss On Day 1 when you open the trade, you are required to have We will also reflect the impact of any corporate action on Buying commission Step 1 12.69 the initial margin for this trade in your account which equals the underlying share, such as a dividend.
+In this example, we 634.25 in this example calculated in Step 1.
+The available assume that A plc goes ex-dividend on 26 May 2010, paying a Financing charge Step 3 0.67 funds in your account therefore fall from 1,000 to 353.06 net dividend of 7p on the same day.
+When you sell a CFD and the share goes ex-dividend, the Dividend adjustment Step 4 700.00 dividend value here 700.00 is debited from your account.
+This reflects the fall in the underlying market price of the Selling commission Step 5 12.24 share.
+Gross profit Step 5 445.00 Dividend per underlying A plc share Net 7p Net Loss 280.60 Dividend adjustment on 10,000 A plc CFDs 700.00 125 | IG Group Holdings plc | Annual Report 2010 126

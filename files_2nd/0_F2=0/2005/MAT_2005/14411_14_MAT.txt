@@ -1,0 +1,150 @@
+2_CD
+During_PIN
+2004_CD
+,_,
+the_DT
+Group_NN
+adopted_VBD
+UITF_NN
+Abstract_NN
+38_CD
+Accounting_GER
+for_PIN
+ESOP_NN
+Trusts_NN
+and_CC
+related_VBN
+amendments_NOMZ
+to_PIN
+UITF_NN
+Abstract_NN
+17_CD
+revised_VBN
+2003_CD
+Employee_NN
+Share_NN
+Schemes_NN
+,_,
+which_WDT [SERE]
+constituted_VBD
+a_DT
+change_NN
+in_PIN
+accounting_GER
+policy_NN
+for_PIN
+the_DT
+way_NN
+the_DT
+Group_NN
+presents_NN
+and_PHC
+accounts_NN
+for_PIN
+own_JJ
+shares_NN
+._.
+Prior_RB
+year_NN
+figures_NN
+were_VBD [PASS]
+restated_VBN
+to_TO
+reflect_VB [PRIV]
+the_DT
+new_JJ
+policy_NN
+._.
+3_CD
+The_DT
+amounts_NN
+disclosed_VBD [PUBV]
+for_PIN
+2003_CD
+and_CC
+earlier_TIME
+years_NN
+are_VPRT [PASS]
+stated_VBN [PUBV]
+on_PIN
+the_DT
+basis_NN
+of_PIN
+UK_NN
+GAAP_NN
+because_CAUS
+it_PIT
+is_VPRT [BEMA]
+not_XX0
+practicable_PRED
+to_TO
+restate_VB
+amounts_NN
+for_PIN
+periods_NN
+prior_RB
+to_PIN
+the_DT
+date_NN
+of_PIN
+transition_NOMZ
+to_PIN
+IFRS_NN
+._.
+The_DT
+principal_JJ
+differences_NN
+between_PIN
+UK_NN
+GAAP_NN
+and_PHC
+IFRS_NN
+are_VPRT [PASS]
+explained_VBN [PUBV]
+in_PIN
+Note_NN
+32_CD
+to_PIN
+the_DT
+financial_JJ
+statements_NOMZ
+which_WDT [WHSUB]
+provides_VPRT
+an_DT
+explanation_NOMZ
+of_PIN
+the_DT
+transition_NOMZ
+to_PIN
+IFRS_NN
+._.
+The_DT
+amounts_NN
+disclosed_VBD [PUBV]
+for_PIN
+2003_CD
+and_CC
+earlier_TIME
+years_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+translated_VBN
+into_PIN
+US_FPP1
+dollars_NN
+using_VBG [WZPRES]
+the_DT
+applicable_JJ
+year_NN
+exchange_NN
+rates_NN
+._.
+SOCO_NN
+International_NN
+plc_NN
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+2005_CD
+67_CD

@@ -1,0 +1,612 @@
+Inchcape_NN
+plc_NN
+102_CD
+Annual_JJ
+report_NN
+and_PHC
+accounts_NN
+2005_CD
+Accounting_GER
+policies_NN
+As_IN
+at_PIN
+31_CD
+December_NN
+2005_CD
+Basis_NN
+of_PIN
+preparation_NOMZ
+These_DEMO
+Financial_NN
+statements_NOMZ
+are_VPRT [PASS]
+prepared_VBN
+for_PIN
+Inchcape_NN
+plc_VPRT
+the_DT
+Company_NN
+for_PIN
+the_DT
+year_NN
+ended_VBD
+31_CD
+December_NN
+2005_CD
+._.
+The_DT
+Company_NN
+is_VPRT [BEMA]
+the_DT
+ultimate_JJ
+parent_NN
+entity_NOMZ
+of_PIN
+the_DT
+Inchcape_NN
+Group_NN
+the_DT
+Group_NN
+._.
+Accounting_GER
+convention_NOMZ
+These_DEMO
+Financial_NN
+statements_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+on_PIN
+the_DT
+historical_JJ
+cost_NN
+basis_NN
+in_PIN
+accordance_NN
+with_PIN
+the_DT
+Companies_NN
+Act_NN
+1985_CD
+and_CC
+applicable_JJ
+UK_NN
+accounting_GER
+standards_NN
+._.
+As_IN
+permitted_VBN
+by_PIN
+Section_NOMZ
+230_CD
+of_PIN
+the_DT
+Companies_NN
+Act_NN
+1985_CD
+,_,
+no_SYNE
+separate_JJ
+profit_NN
+and_PHC
+loss_NN
+account_NN
+is_VPRT [PASS]
+presented_VBN
+for_PIN
+the_DT
+Company_NN
+._.
+In_CONJ
+addition_NULL
+,_,
+the_DT
+Company_NN
+is_VPRT [PASS]
+not_XX0
+required_VBN [SUAV]
+to_TO
+prepare_VB
+a_DT
+cash_NN
+flow_NN
+statement_NOMZ
+under_IN
+the_DT
+terms_NN
+of_PIN
+FRS_NN
+1_CD
+Cash_NN
+Flow_NN
+Statements_NOMZ
+revised_VBD
+._.
+Changes_NN
+in_PIN
+accounting_GER
+policies_NN
+FRS_VPRT
+20_CD
+Share-based_JJ
+Payments_NOMZ
+and_PHC
+FRS_NN
+21_CD
+Events_NN
+After_IN
+the_DT
+Balance_NN
+Sheet_NN
+Date_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+adopted_VBN
+with_PIN
+effect_NN
+from_PIN
+1_CD
+January_NN
+2005_CD
+and_CC
+prior_JJ
+year_NN
+comparatives_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+accordingly_RB
+._.
+In_CONJ
+addition_NULL
+,_,
+the_DT
+Company_NN
+has_VPRT [PEAS]
+adopted_VBN
+FRS_NN
+23_CD
+The_DT
+Effects_NN
+of_PIN
+Changes_NN
+in_PIN
+Foreign_NN
+Exchange_NN
+Rates_NN
+,_,
+FRS_NN
+25_CD
+Financial_NN
+Instruments_NOMZ
+:_:
+Disclosure_NN
+and_PHC
+Presentation_NOMZ
+and_PHC
+FRS_NN
+26_CD
+Financial_NN
+Instruments_NOMZ
+:_:
+Measurement_NOMZ
+,_,
+from_PIN
+1_CD
+January_NN
+2005_CD
+._.
+The_DT
+adoption_NOMZ
+of_PIN
+these_DEMO
+standards_NN
+by_PIN
+the_DT
+Company_NN
+has_VPRT [PEAS]
+had_VBN
+no_SYNE
+material_NN
+impact_NN
+on_PIN
+its_PIT
+result_NN
+or_CC
+financial_JJ
+position_NOMZ
+and_CC
+no_SYNE
+restatement_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+required_VBN [SUAV]
+._.
+Further_RB
+,_,
+the_DT
+Company_NN
+is_VPRT [BEMA]
+exempt_PRED
+from_PIN
+the_DT
+disclosure_NN
+requirements_NOMZ
+in_PIN
+FRS_NN
+25_CD
+as_IN
+it_PIT
+is_VPRT [PASS]
+included_VBN
+in_PIN
+the_DT
+consolidated_JJ
+Financial_NN
+statements_NOMZ
+of_PIN
+the_DT
+Group_NN
+,_,
+which_WDT [SERE]
+include_VPRT
+the_DT
+required_JJ
+disclosures_NN
+._.
+Details_NN
+of_PIN
+the_DT
+effect_NN
+of_PIN
+the_DT
+prior_JJ
+year_NN
+adjustments_NOMZ
+are_VPRT [PASS]
+given_VBN
+in_PIN
+note_NN
+1_CD
+._.
+Foreign_NN
+currencies_NN
+Assets_NN
+and_PHC
+liabilities_NOMZ
+in_PIN
+foreign_JJ
+currencies_NN
+are_VPRT [PASS]
+translated_VBN
+into_PIN
+sterling_GER
+at_PIN
+closing_GER
+rates_NN
+of_PIN
+exchange_NN
+._.
+Exchange_NN
+differences_NN
+arising_VBG [WZPRES]
+from_PIN
+the_DT
+retranslation_NOMZ
+to_TO
+closing_VBG
+rates_NN
+of_PIN
+exchange_NN
+of_PIN
+intra-Group_JJ
+dividends_NN
+,_,
+opening_VBG
+net_JJ
+assets_NN
+,_,
+long_JJ
+term_NN
+foreign_JJ
+currency_NN
+borrowings_GER
+used_VBN
+to_TO
+finance_VB
+foreign_JJ
+currency_NN
+investments_NOMZ
+,_,
+and_ANDC
+foreign_JJ
+currency_NN
+borrowings_GER
+and_PHC
+instruments_NOMZ
+that_TSUB
+provide_VPRT
+a_DT
+hedge_NN
+against_PIN
+net_JJ
+assets_NN
+are_VPRT [SPAU] [PASS]
+also_RB
+reflected_VBN [PRIV]
+as_IN
+a_DT
+reserve_NN
+movement_NOMZ
+._.
+All_QUAN
+other_JJ
+exchange_NN
+differences_NN
+are_VPRT [PASS]
+dealt_VBN
+with_PIN
+in_PIN
+the_DT
+profit_NN
+and_PHC
+loss_NN
+account_NN
+._.
+Investments_NOMZ
+Fixed_NN
+asset_NN
+investments_NOMZ
+are_VPRT [PASS]
+stated_VBN [PUBV]
+at_PIN
+cost_NN
+,_,
+less_JJ
+provisions_NN
+for_PIN
+impairment_NOMZ
+._.
+Deferred_JJ
+tax_NN
+Deferred_VBN
+tax_NN
+is_VPRT [PASS]
+provided_VBN
+in_PIN
+full_JJ
+without_PIN
+discounting_VBG
+based_VBN
+on_PIN
+current_JJ
+tax_NN
+rates_NN
+and_PHC
+law_NN
+,_,
+on_PIN
+timing_NN
+differences_NN
+that_TSUB
+result_VPRT
+in_PIN
+an_DT
+obligation_NOMZ
+at_PIN
+the_DT
+balance_NN
+sheet_NN
+date_NN
+to_TO
+pay_VB
+more_EMPH
+tax_NN
+,_,
+or_CC
+a_DT
+right_NN
+to_TO
+pay_VB
+less_JJ
+tax_NN
+in_PIN
+the_DT
+future_JJ
+except_PIN
+as_IN
+otherwise_CONJ
+required_VBN [SUAV]
+by_PIN
+FRS_NN
+19_CD
+Deferred_NN
+Tax_NN
+._.
+Deferred_JJ
+tax_NN
+is_VPRT [PASS]
+not_XX0
+provided_VBN
+on_PIN
+timing_NN
+differences_NN
+arising_VBG [WZPRES]
+from_PIN
+the_DT
+revaluation_NOMZ
+of_PIN
+fixed_JJ
+assets_NN
+where_RB
+there_EX
+is_VPRT
+no_SYNE
+binding_JJ
+commitment_NOMZ
+to_TO
+sell_VB
+the_DT
+asset_NN
+._.
+Provisions_NN
+Provisions_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+when_RB [WHCL]
+the_DT
+Company_NN
+has_VPRT
+a_DT
+present_JJ
+obligation_NOMZ
+in_PIN
+respect_NN
+of_PIN
+a_DT
+past_JJ
+event_NN
+,_,
+it_PIT
+is_VPRT [BEMA]
+more_EMPH
+likely_PRED
+than_PIN
+not_XX0
+that_DEMO
+an_DT
+outflow_NN
+of_PIN
+resources_NN
+will_PRMD
+be_VB [PASS]
+required_VBN [SUAV]
+to_TO
+settle_VB
+the_DT
+obligation_NOMZ
+and_ANDC
+where_RB
+the_DT
+amount_NN
+can_POMD
+be_VB [SPAU] [PASS]
+reliably_RB
+estimated_VBN [PRIV]
+._.
+Provisions_NN
+are_VPRT [PASS]
+discounted_VBN
+when_RB
+the_DT
+time_NN
+value_NN
+of_PIN
+money_NN
+is_VPRT [PASS]
+considered_VBN [PRIV]
+material_NN
+._.
+Share_NN
+capital_NN
+Ordinary_NN
+shares_NN
+are_VPRT [PASS]
+classified_VBN
+as_IN
+equity_NOMZ
+._.
+Where_RB
+the_DT
+Company_NN
+purchases_NN
+its_PIT
+own_JJ
+equity_NOMZ
+share_NN
+capital_NN
+treasury_NN
+shares_NN
+,_,
+the_DT
+consideration_NOMZ
+paid_VBN [WZPAST]
+is_VPRT [PASS]
+deducted_VBN
+from_PIN
+shareholders_NN
+funds_NN
+until_IN
+the_DT
+shares_NN
+are_VPRT [PASS]
+canceled_VBN
+,_,
+reissued_VBN
+or_CC
+disposed_VBN
+of_PIN [STPR]
+._.
+Where_RB
+such_JJ
+shares_NN
+are_VPRT [SPAU] [PASS]
+subsequently_TIME
+sold_VBN
+or_CC
+reissued_VBN
+,_,
+any_QUAN
+consideration_NOMZ
+received_VBN [WZPAST]
+is_VPRT [PASS]
+included_VBN
+in_PIN
+shareholders_NN
+funds_NN
+._.
+Dividends_NN
+Final_JJ
+dividends_NN
+proposed_VBN [SUAV] [WZPAST]
+by_PIN
+the_DT
+Board_NN
+of_PIN
+Directors_NN
+and_CC
+unpaid_JJ
+at_PIN
+the_DT
+year_NN
+end_NN
+are_VPRT [PASS]
+not_XX0
+recognized_VBN [PRIV]
+in_PIN
+the_DT
+Financial_NN
+statements_NOMZ
+until_IN
+they_TPP3
+have_VPRT [PEAS]
+been_VBN [BYPA]
+approved_VBN
+by_PIN
+the_DT
+shareholders_NN
+at_PIN
+the_DT
+Annual_JJ
+General_NN
+Meeting_VBG [WZPRES]
+._.
+Interim_NN
+dividends_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+when_RB [WHCL]
+they_TPP3
+are_VPRT [PASS]
+paid_VBN
+._.

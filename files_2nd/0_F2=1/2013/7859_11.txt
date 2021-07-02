@@ -1,0 +1,25 @@
+licensing deal closure was behind plan during the during the period and we are aware of several other second half due to regional issues and certain customers important products from key OEMs that we expect to changing course in the short-term.
+be launched in the very near future in these and other segments.
+The Group has continued to see momentum in Among the key agreements, there were significant new design wins for its PowerVR graphics technology across licenses or extensions with existing partners, including Series5 5XT and Series6.
+The Groups new generation Allwinner, Greenplug, Intel, LG, MediaTek, Realtek, technology, Series6, has once again been acknowledged Renesas, Samsung, ST, ST-Ericsson, TI, Toumaz and by many key partners as the market leader and has continuation of a number of long-term subscription license already secured over 20 committed SoCs.
+Several of our arrangements with certain key partners as well as new partners and our own prototype chips reached silicon partner license deals with Entropic, Ineda and Socle.
+and have demonstrated very strong characteristics in performance and power.
+Independent industry reports It is appropriate to clarify two areas of partnerships.
+have confirmed that our technology has significant Firstly we continue to have a strong and on-going competitive advantages in these key metrics.
+We saw partnership with Intel Corp, who are also a significant the first Series6 based product in the form of the latest shareholder.
+As is normal we cannot provide specific LG smart TV and we expect to see several other enddetails on various projects but we can confirm that we user products using this technology to begin shipping in have many existing and future projects on-going with volume during the current calendar year.
+Intel and expect this partnership to result in growing and significant volume shipment across many markets now We expect the trends in User Interface UI functionality and in the future.
+Also Intels recent success at Samsung and the relentless advancement in graphics content with devices incorporating our technologies is a significant combined with increased resolution and accuracy of development, indicating that the mobile market is opening displays to continue to demand ever increasing GPU up to other processor architectures.
+With respect to TI performance and capabilities.
+we expect their transition out of the mobile segment to both take some time and for the partnership to strongly A further important emerging use case for modern continue in the new areas of focus for TI which we believe programmable GPUs is GPU compute where the GPU will be of significant value to Imagination.
+Additionally is used as an offload engine in compute intensive our other partners active in the mobile segment are applications to achieve more performance with less power indeed extending their business to support some of the consumption than the CPU alone.
+This approach will opportunities TI leaves open as it transitions its business.
+increasingly drive many next generation features including gesture recognition, computational photography, image The target markets for the deals closed during the year processing and enhancement and new applications that across our partners include mobile phone and tablets can take advantage of massive computational capabilities mobile computing with both segments across high, mid of modern GPUs.
+The Samsung Galaxy S4 using our SGX and low-end categories, TV STB, PMP Camera, in-car graphics is one of the first examples that delivers a level navigation dashboard, home connectivity and automation, of GPU compute capability through industry standard digital radio and industrial enterprise equipment.
+PowerVR Series6 technology is designed to take the GPU compute capabilities to a new level.
+We expect this Multimedia technology to fuel new innovations and demand for GPUs.
+The key technologies under this category are graphics, ray PowerVR graphics technology has a very strong and or tracing, video and vision: growing footprint across both iOS and Android.
+This is Graphics The PowerVR graphics processor GPU ensuring strong market share in this platform particularly family continues to lead the market in technological as new partners launch their products.
+capability, roadmap strength and ecosystem and remains In TV and STB market areas we are now seeing by far the most adopted and shipped technology of accelerated progress with smart TVs from LG and Sony its kind.
+There have been many significant product starting shipment recently, with others to follow.
+announcements in mobile phone and tablet segments 6

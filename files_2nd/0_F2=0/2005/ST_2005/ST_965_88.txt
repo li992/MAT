@@ -1,0 +1,5 @@
+Base_NNP Metals_NNP turnover_NN is_VBZ shown_VBN after_IN deduction_NN of_IN treatment_NN charges_NNS and_CC refining_NN charges_NNS TC_NNP RCs_NNP ._.
+2_CD EBITDA_NNP is_VBZ operating_VBG profit_NN before_IN special_JJ items_NNS and_CC remeasurements_NNS plus_CC depreciation_NN and_CC amortisation_NN in_IN subsidiaries_NNS and_CC share_NN of_IN EBITDA_NNP of_IN joint_JJ ventures_NNS and_CC associates_NNS ._.
+3_CD Operating_NN profit_NN includes_VBZ operating_NN profit_NN before_IN special_JJ items_NNS and_CC remeasurements_NNS from_IN subsidiaries_NNS and_CC joint_JJ ventures_NNS and_CC share_NN of_IN operating_NN profit_NN before_IN interest_NN ,_, tax_NN ,_, minority_NN interests_NNS ,_, special_JJ items_NNS and_CC remeasurements_NNS of_IN associates_NNS ._.
+The_DT Group_NNP disposed_VBD of_IN its_PRP$ holdings_NNS in_IN Gold_NNP Fields_NNP in_IN March_NNP 2004_CD ._.
+124_CD |_CD Anglo_NNP American_NNP plc_NN Annual_JJ Report_NNP 2005_CD

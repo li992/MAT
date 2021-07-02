@@ -1,0 +1,595 @@
+16_CD
+Intangible_JJ
+assets_NN
+continued_VBD
+Although_CONC
+licences_NN
+are_VPRT [PASS]
+required_VBN [SUAV]
+to_TO
+be_VB [PASS]
+renewed_VBN
+every_QUAN
+three_CD
+years_NN
+,_,
+this_DEMP
+is_VPRT [BEMA]
+a_DT
+formality_NOMZ
+for_PIN
+regulatory_JJ
+purposes_NN
+and_PHC
+Ladbrokes_NN
+has_VPRT
+a_DT
+very_AMP
+strong_JJ
+track_NN
+record_NN
+of_PIN
+renewing_VBG
+all_QUAN
+its_PIT
+betting_VBG [PUBV]
+permits_NN
+and_PHC
+licences_NN
+at_PIN
+minimal_JJ
+cost_NN
+._.
+Software_NN
+relates_VPRT
+to_PIN
+the_DT
+cost_NN
+of_PIN
+software_NN
+acquisition_NOMZ
+and_CC
+the_DT
+capitalized_JJ
+costs_NN
+in_PIN
+respect_NN
+of_PIN
+internally_RB
+generated_VBN
+software_NN
+._.
+Goodwill_NN
+relates_VPRT
+to_PIN
+the_DT
+deferred_VBN
+tax_NN
+liability_NOMZ
+arising_VBG [WZPRES]
+on_PIN
+acquisitions_NOMZ
+._.
+Intangible_JJ
+assets_NN
+included_VBD
+in_PIN
+discontinued_VBN
+operations_NOMZ
+:_:
+The_DT
+brand_NN
+name_NN
+comprises_VPRT
+the_DT
+cost_NN
+attributed_VBD
+to_PIN
+the_DT
+Hilton_NN
+International_NN
+brand_NN
+name_NN
+on_PIN
+its_PIT
+acquisition_NOMZ
+in_PIN
+1987_CD
+._.
+The_DT
+carrying_VBG
+amount_NN
+of_PIN
+the_DT
+brand_NN
+was_VBD [BYPA]
+determined_VBN [SUAV] [PRIV]
+by_PIN
+discounting_VBG
+the_DT
+incremental_JJ
+cash_NN
+flows_VPRT
+generated_VBN
+by_PIN
+the_DT
+brand_NN
+and_CC
+was_VBD [PASS]
+limited_VBN
+to_PIN
+the_DT
+excess_NN
+of_PIN
+purchase_NN
+price_NN
+over_IN
+the_DT
+underlying_VBG
+net_JJ
+assets_NN
+._.
+The_DT
+carrying_VBG
+amount_NN
+of_PIN
+the_DT
+brand_NN
+is_VPRT [PASS]
+maintained_VBN [PUBV]
+through_PIN
+marketing_GER
+expenditure_NN
+and_PHC
+development_NOMZ
+activity_NOMZ
+and_CC
+is_VPRT [SPAU] [PASS]
+thus_CONJ
+considered_VBN [PRIV]
+to_TO
+have_VB
+an_DT
+indefinite_JJ
+life_NN
+._.
+Hilton_NN
+International_NN
+has_VPRT
+a_DT
+very_AMP
+good_JJ
+track_NN
+record_NN
+of_PIN
+development_NOMZ
+activity_NOMZ
+including_VBG [WZPRES]
+management_NOMZ
+contracts_NN
+and_CC
+more_EMPH
+recently_TIME
+franchises_NN
+and_CC
+is_VPRT [BEMA]
+one_CD
+of_PIN
+a_DT
+handful_NN
+of_PIN
+internationally_RB
+recognized_VBN [PRIV]
+hotel_NN
+chains_NN
+,_,
+which_WDT [SERE]
+clearly_RB
+creates_VPRT
+high_JJ
+market_NN
+entry_NN
+barriers_NN
+for_PIN
+potential_JJ
+competitors_NN
+._.
+Capitalised_VBN
+goodwill_NN
+relates_VPRT
+to_PIN
+the_DT
+acquisition_NOMZ
+of_PIN
+Stakis_NN
+plc_NN
+in_PIN
+1999_CD
+and_CC
+the_DT
+acquisition_NOMZ
+of_PIN
+Scandic_NN
+Hotels_NN
+AB_NN
+._.
+Subsequent_JJ
+to_PIN
+1_CD
+January_NN
+2004_CD
+,_,
+goodwill_NN
+is_VPRT [SPAU] [PASS]
+no_RB
+longer_RB
+amortised_VBN
+and_PHC
+is_VPRT [SPAU] [PASS]
+annually_RB
+tested_VBN
+for_PIN
+impairment_NOMZ
+._.
+Management_NOMZ
+contracts_NN
+relate_VPRT
+to_PIN
+the_DT
+value_NN
+of_PIN
+the_DT
+management_NOMZ
+contract_NN
+entered_VBD
+into_PIN
+simultaneously_TIME
+on_PIN
+disposal_NN
+of_PIN
+hotel_NN
+property_NN
+._.
+17_CD
+Impairment_NOMZ
+testing_GER
+of_PIN
+goodwill_NN
+,_,
+brands_NN
+and_PHC
+licences_NN
+The_DT
+Group_NN
+tests_NN
+annually_RB
+for_PIN
+impairments_NOMZ
+,_,
+or_CC
+more_EMPH
+frequently_RB
+if_COND
+there_EX
+are_VPRT
+indications_NOMZ
+that_TSUB
+licences_VPRT
+,_,
+goodwill_NN
+and_CC
+the_DT
+brand_NN
+might_POMD
+be_VB [PASS]
+impaired_VBN
+._.
+As_IN
+at_PIN
+31_CD
+December_NN
+2005_CD
+,_,
+the_DT
+goodwill_NN
+and_CC
+the_DT
+brand_NN
+relating_VBG [WZPRES]
+to_PIN
+the_DT
+hotel_NN
+division_NN
+are_VPRT [PASS]
+classified_VBN
+as_IN
+discontinued_VBN
+operations_NOMZ
+and_CC
+no_SYNE
+impairment_NOMZ
+testing_GER
+for_PIN
+these_DEMO
+assets_NN
+was_VBD [PASS]
+required_VBN [SUAV]
+._.
+Goodwill_NN
+of_PIN
+35.4_CD
+m_NN [BEMA]
+2004_CD
+:_:
+nil_NN
+relating_VBG [WZPRES]
+to_PIN
+the_DT
+continuing_VBG
+operations_NOMZ
+is_VPRT [PASS]
+allocated_VBN
+to_PIN
+the_DT
+cash_NN
+generating_VBG [WZPRES]
+unit_NN
+that_TSUB
+comprises_VPRT
+the_DT
+Retail_NN
+Betting_GER
+segment_NOMZ
+._.
+Licences_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+allocated_VBN
+to_PIN
+the_DT
+individual_JJ
+Retail_NN
+Betting_GER
+cash_NN
+generating_VBG [WZPRES]
+units_NN
+CGUs_NN
+that_TSUB
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+benefit_VB
+from_PIN
+the_DT
+asset_NN
+._.
+The_DT
+carrying_VBG
+value_NN
+of_PIN
+licences_NN
+at_PIN
+31_CD
+December_NN
+2005_CD
+was_VBD [BEMA]
+340.4_CD
+m_NN [BEMA]
+2004_CD
+:_:
+233.1_CD
+m._FW
+The_DT
+recoverable_JJ
+amount_NN
+of_PIN
+the_DT
+Retail_NN
+Betting_GER
+CGUs_NN
+are_VPRT [PASS]
+determined_VBN [SUAV] [PRIV]
+from_PIN
+value_NN
+in_PIN
+use_NN
+calculations_NOMZ
+._.
+To_TO
+calculate_VB [PRIV] [THATD]
+this_DEMP
+,_,
+cash_NN
+flow_NN
+projections_NOMZ
+covering_VBG [WZPRES]
+a_DT
+five-year_JJ
+period_NN
+are_VPRT [PASS]
+based_VBN
+on_PIN
+financial_JJ
+budgets_NN
+approved_VBN [WZPAST]
+by_PIN
+senior_JJ
+management_NOMZ
+._.
+Cash_NN
+flow_NN
+projections_NOMZ
+are_VPRT [BEMA]
+those_DEMP
+achieved_VBN
+in_PIN
+the_DT
+current_JJ
+year_NN
+adjusted_VBN [WZPAST]
+for_PIN
+expected_VBN [PRIV]
+growth_NN
+._.
+The_DT
+discount_NN
+rate_NN
+applied_VBN [WZPAST]
+to_PIN
+cash_NN
+flow_NN
+projections_NOMZ
+is_VPRT [BEMA]
+10_CD
+%_NN
+2004_CD
+:_:
+10_CD
+%_NN
+and_PHC
+cash_NN
+flows_NN
+beyond_IN
+the_DT
+budget_NN
+period_NN
+are_VPRT [PASS]
+extrapolated_VBN
+using_VBG
+a_DT
+2.5_CD
+%_NN
+growth_NN
+rate_NN
+2004_CD
+:_:
+2.5_CD
+%_NN
+._.
+This_DEMO
+rate_NN
+does_VPRT
+not_XX0
+exceed_VB
+the_DT
+average_JJ
+long-term_JJ
+growth_NN
+rate_NN
+for_PIN
+the_DT
+relevant_JJ
+markets_NN
+._.
+The_DT
+goodwill_NN
+attributable_JJ
+to_PIN
+the_DT
+discontinued_VBN
+operations_NOMZ
+had_VBD [PEAS]
+been_VBN [PASS]
+allocated_VBN
+on_PIN
+acquisition_NOMZ
+to_PIN
+the_DT
+appropriate_JJ
+groups_NN
+of_PIN
+hotel_NN
+CGUs_NN
+that_TSUB
+were_VBD [PASS]
+expected_VBN [PRIV]
+to_TO
+benefit_VB
+from_PIN
+the_DT
+business_NOMZ
+combination_NOMZ
+._.
+The_DT
+carrying_VBG
+amount_NN
+of_PIN
+goodwill_NN
+was_VBD [PASS]
+allocated_VBN
+as_IN
+follows_VPRT
+as_RB
+at_PIN
+31_CD
+December_NN
+2004_CD
+._.
+2004_CD
+m_NN
+Carrying_VBG [WZPRES]
+amount_NN
+of_PIN
+goodwill_NN
+in_PIN
+discontinued_VBN
+operations_NOMZ
+Stakis_NN
+573.7_CD
+Scandic_NN
+608.2_CD
+LivingWell_NN
+2.5_CD
+Total_JJ
+goodwill_NN
+1,184.4_CD
+The_DT
+brand_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+allocated_VBN
+to_PIN
+the_DT
+Group_NN
+of_PIN
+Hotels_NN
+CGUs_NN
+that_TSUB
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+benefit_VB
+from_PIN
+the_DT
+asset_NN
+,_,
+all_QUAN
+of_PIN
+which_WDT [PIRE]
+are_VPRT
+part_NN
+of_PIN
+the_DT
+discontinuing_VBG
+operations_NOMZ
+._.
+2004_CD
+m_NN
+Carrying_VBG [WZPRES]
+amount_NN
+of_PIN
+the_DT
+brand_NN
+in_PIN
+discontinued_VBN
+operations_NOMZ
+Hotels_NN
+276.7_CD
+Total_JJ
+brand_NN
+276.7_CD
+Annual_JJ
+Report_NN
+and_PHC
+Accounts_NN
+57_CD

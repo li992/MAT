@@ -1,0 +1,133 @@
+Notes to the Consolidated Financial Statements continued for the year ended 31 March 2014 3.
+Critical Accounting Judgements, Estimates And Assumptions The preparation of financial statements in accordance with IFRS requires management to make judgements, estimates and assumptions in certain circumstances that affect reported amounts.
+The judgements, estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are outlined below.
+i Investments at fair value through profit or loss By virtue of the Companys status as an investment fund and the exemption provided by IAS 28.1 and IFRS 11 as well as the early adoption of Investment Entities Amendments to IFRS 10, IFRS 12 and IAS 27, investments are designated upon initial recognition to be accounted for at fair value through profit or loss.
+Fair values for those investments for which a market quote is not available are determined using the income approach which discounts the expected cash flows at the appropriate rate.
+In determining the discount rate, regard is had to relevant long-term government bond yields, specific risks and the evidence of recent transactions.
+The Directors have satisfied themselves that the PFI PPP P3 investments share the same investment characteristics and as such constitute a single asset class for IFRS 7 disclosure purposes.
+The weighted average discount rate applied in the March 2014 valuation was 8.2%.
+The discount rate is considered one of the most significant unobservable inputs through which an increase or decrease would have a material impact on the fair value of the investments at fair value through profit or loss.
+The other material impacts on the measurement of fair value are inflation rates, deposit rates and tax rates which are further discussed in Note 4 and include sensitivities to these key judgements.
+ii Investment Entities The Directors have agreed to adopt IFRS 10, 11, 12 and Investment Entities Amendments to IFRS 10, IFRS 12 and IAS 27 early as permitted following EU endorsement.
+As explained in Note 2 c to the accounts on page 75, the Directors are of the opinion that the Company meets the requirements of an Investment Entity.
+The Company has subsidiaries that provide investment management services or undertake investment activities which require that their results are consolidated by the Company together the Company and these subsidiaries form the Consolidated Group.
+The adoption of this standard requires the consolidated financial statements to include the investments at fair value rather than consolidating their results.
+Financial Instruments Fair value estimation The following summarises the significant methods and assumptions used in estimating the fair values of financial instruments: Financial instruments The fair value of financial instruments traded in active markets is based on quoted market prices at the balance sheet date.
+The fair value of financial instruments that are not traded in an active market is determined by using valuation techniques.
+The Consolidated Group uses the income approach which discounts the expected cash flows attributable to each asset at an appropriate rate to arrive at fair values.
+In determining the discount rate, regard is had to relevant long-term government bond yields, the specific risks of each investment and the evidence of recent transactions.
+Note 2 discloses the methods used in determining fair values on a specific asset or liability basis.
+Where applicable, further information about the assumptions used in determining fair value is disclosed in the Notes specific to that asset or liability.
+Financial Instruments continued Classification of financial instruments 31 March 2014 31 March 2013 million million Financial assets Investments designated at fair value through profit or loss 1,495.5 1,200.4 At fair value through profit or loss Other financial assets fair value of derivatives 0.8 0.8 Financial assets at fair value through profit or loss 1,496.3 1,201.2 Trade and other receivables 1.1 0.2 Cash and cash equivalents 42.7 172.9 Financial assets loans and receivables 43.8 173.1 Financial liabilities At fair value through profit or loss Other financial liabilities fair value of derivatives 0.5 0.5 Financial liabilities at fair value through profit or loss 0.5 0.5 Trade and other payables 10.1 12.2 Loans and borrowings 26.9 Other financial liabilities 10.1 39.1 The Directors believe that the carrying values of all financial instruments are not materially different to their fair values.
+Fair value hierarchy The fair value hierarchy is defined as follows: Level 1: quoted prices unadjusted in active markets for identical assets or liabilities Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly i. e. as prices or indirectly i. e. derived from prices Level 3: inputs for the asset or liability that are not based on observable market data unobservable inputs.
+As at 31 March 2014 Level 1 Level 2 Level 3 Total million million million million Investments at fair value through profit or loss Note 12 1,495.5 1,495.5 Other financial assets 0.8 0.8 0.8 1,495.5 1,496.3 Other financial liabilities 0.5 0.5 0.5 0.5 As at 31 March 2013 Restated Level 1 Level 2 Level 3 Total million million million million Investments at fair value through profit or loss Note 12 1,200.4 1,200.4 Other financial assets 0.8 0.8 0.8 1,200.4 1,201.2 Other financial liabilities fair value of derivatives 0.5 0.5 0.5 0.5 There were no transfers between Level 1 and 2 during the year.
+H ICL A N N U A L R E PO R T & A C COU N T S 2014 79 Notes to the Consolidated Financial Statements continued for the year ended 31 March 2014 4.
+Financial Instruments continued Level 2 Valuation methodology The Directors have satisfied themselves as to the methodology used for the valuation of Level 2 financial assets and liabilities.
+All financial assets and liabilities are valued using a discounted cashflow methodology, consistent with the prior period.
+The key inputs to this methodology are foreign currency exchange rates and foreign currency forward curves.
+Fair value is based on price quotations from financial institutions active in the relevant market.
+Valuations are performed on a 6 monthly basis every September and March for all financial assets and liabilities.
+Level 3 Valuation methodology The Directors have satisfied themselves as to the methodology used, the discount rates and key assumptions applied, and the valuation.
+All investments in PFI PPP P3 projects are valued using a discounted cashflow methodology.
+The valuation techniques and methodologies have been applied consistently with the prior period.
+This valuation uses key assumptions which are benchmarked from a review of recent comparable market transactions in order to arrive at a fair market value.
+Valuations are performed on a 6 monthly basis every September and March for all investments.
+For the valuation of investments, the Directors have also obtained an independent opinion from a third party with experience in valuing these type of investments, supporting the reasonableness of the valuation.
+Investments The key valuation assumptions and sensitivities for the valuation are: Discount rates The discount rates used for valuing each social infrastructure investment are based on the appropriate long-dated government bond yield and a risk premium.
+The risk premium takes into account risks and opportunities associated with the project earnings e. g. predictability and covenant of the concession income, all of which may be differentiated by project phase, and market participants appetite for these risks.
+Judgement is used in arriving at the appropriate discount rate.
+This is based on the Investment Advisers knowledge of the market, taking into account intelligence gained from bidding activities, discussions with financial advisers knowledgeable of these markets and publicly available information on relevant transactions.
+The discount rates used for valuing the projects in the portfolio are as follows: Period ending Range Weighted average 31 March 2013 8.0% to 10.0% 8.4% 30 September 2013 7.9% to 10.0% 8.3% 31 March2014 7.8% to 11.0% 8.2% A change to the weighted average rate of 8.2% by plus or minus 0.5% has the following effect on the valuation.
+Discount rate -0.5% change Total portfolio value 0.5% change Directors valuation 72.1m 1,495.5m -66.7m Implied change in Net Asset Value per 6.0 pence 5.5 pence Ordinary Share 1.
+Net Asset Value per Ordinary Share based on 1,207 million Ordinary Shares at 31 March 2014.
+Financial Instruments continued Inflation rates The social infrastructure projects in the portfolio have contractual income streams with public sector clients, which are rebased every year for inflation.
+UK projects tend to use either RPI Retail Price Index or RPIx RPI excluding mortgage payments, and revenues are either partially or totally indexed depending on the contract and the nature of the projects financing.
+Facilities management sub-contracts have similar indexation arrangements.
+The portfolio valuation assumes long-term UK inflation of 2.75% per annum for both RPI and RPIx, the same assumption as used at 30 September 2013.
+For non-UK investments, long-term CPI of 2.0% per annum is used for Holland, Ireland, Canada and France, the same assumption as used at 30 September 2013.
+Inflation assumption -0.5% p. a. change Total portfolio value 0.5% p. a. change 1 Changing inflation assumption across whole portfolio Directors valuation -44.1m 1,495.5m 48.1m Implied change in Net Asset Value per -3.7 pence 4.0 pence Ordinary Share 1.
+Analysis is based on the Consolidated Groups 20 largest investments, pro-rata for the whole portfolio.
+Deposit rates Each PFI PPP P3 project in the portfolio has cash held in bank deposits, which is a requirement of their senior debt financing.
+As at 31 March 2014 cash deposits for the portfolio were earning interest at a rate of 0.5% per annum on average.
+The portfolio valuation assumes UK deposit interest rates are 1% p. a. to March 2018 and 3.5% p. a. thereafter.
+Each projects interest costs are either inflation-linked or fixed rate.
+This is achieved through fixed rate or inflation-linked bonds, or bank debt which is hedged with an interest rate swap.
+A projects sensitivity to interest rates relates to the cash deposits required as part of the project funding.
+Cash deposit rate Base case is 1.0% p. a. till March 2018, -0.5% p. a. change Total portfolio value 0.5% p. a. change then 3.5% p. a.
+Directors valuation -18.5m 1,495.5m 18.6m Implied change in Net Asset Value per -1.5 pence 1.5 pence Ordinary Share 1.
+This analysis is based on the Consolidated Groups 20 largest investments, pro-rata for the whole portfolio.
+Tax rates The profits of each UK PFI project company are subject to UK corporation tax.
+On 1 April 2014 the prevailing rate of corporation tax fell from 23% to 21%.
+The Finance Act 2013 enacted a further reduction of 1% to 20% effective from 1 April 2015.
+The UK corporation tax assumption for the portfolio valuation at 31 March 2014 was 21% for all future periods with no further step down.
+Tax rate assumption -1% p. a. change Total portfolio value 1% p. a. change Directors valuation 9.7m 1,495.5m -9.9m Implied change in Net Asset Value per 0.8 pence 0.8 pence Ordinary Share 1.
+H ICL A N N U A L R E PO R T & A C COU N T S 2014 81 Notes to the Consolidated Financial Statements continued for the year ended 31 March 2014 4.
+Financial Instruments continued Market risk Returns from the Consolidated Groups investments are affected by the price at which they are acquired.
+The value of these investments will be a function of the discounted value of their expected future cash flows, and as such will vary with, inter alia, movements in interest rates, market prices and the competition for such assets.
+Financial risk management The objective of the Consolidated Groups financial risk management is to manage and control the risk exposures of its investment portfolio.
+The Board of Directors has overall responsibility for overseeing the management of financial risks, however the review and management of financial risks are delegated to the Investment Adviser and the Operator of the Consolidated Group which has documented procedures designed to identify, monitor and manage the financial risks to which the Consolidated Group is exposed.
+This Note presents information about the Consolidated Groups exposure to financial risks, its objectives, policies and processes for managing risk and the Consolidated Groups management of its financial resources.
+The Consolidated Group owns a portfolio of investments predominantly in the subordinated loanstock and equity of project finance companies.
+These companies are structured at the outset to minimise financial risks where possible, and the Investment Adviser and Operator primarily focus their risk management on the direct financial risks of acquiring and holding the portfolio but continue to monitor the indirect financial risks of the underlying projects through representation, where appropriate, on the Boards of the project companies and the receipt of regular financial and operational performance reports.
+Interest rate risk The Consolidated Group invests in subordinated loanstock of project companies, usually with fixed interest rate coupons.
+Where floating rate debt is owned the primary risk is that the Consolidated Groups cash flows will be subject to variation depending upon changes to base interest rates.
+The portfolios cash flows are continually monitored and reforecasted both over the near future five year time horizon and the long-term over whole period of projects concessions to analyse the cash flow returns from investments.
+The Consolidated Group has made limited use of borrowings to finance the acquisition of investments and the forecasts are used to monitor the impact of changes in borrowing rates against cash flow returns from investments as increases in borrowing rates will reduce net interest margins.
+The Consolidated Groups policy is to ensure that interest rates are sufficiently hedged to protect the Consolidated Groups net interest margins from significant fluctuations when entering into material medium long-term borrowings.
+This includes engaging in interest rate swaps or other interest rate derivative contracts.
+The Consolidated Group has an indirect exposure to changes in interest rates through its investment in project companies, which are financed by senior debt.
+Senior debt financing of project companies is generally either through floating rate debt, fixed rate bonds or index linked bonds.
+Where senior debt is floating rate, the projects typically have concession length hedging arrangements in place, which are monitored by the project companies managers, finance parties and boards of directors.
+Floating rate debt is hedged using fixed floating interest rate swaps.
+Inflation risk The Consolidated Groups project companies are generally structured so that contractual income and costs are either wholly or partially linked to specific inflation where possible to minimise the risks of mismatch between income and costs due to movements in inflation indexes.
+The Consolidated Groups overall cashflows vary with inflation, although they are not directly correlated as not all flows are indexed.
+The effects of these inflation changes do not always immediately flow through to the Consolidated Groups cashflows, particularly where a projects loanstock debt carries a fixed coupon and the inflation changes flow through by way of changes to dividends in future periods.
+The sensitivity of the portfolio valuation is shown in Note 4.
+Currency risk The projects in which the Consolidated Group invests all conduct their business and pay interest, dividends and principal in sterling other than its investments in Dutch High Speed Rail, Cork School of Music, Irish Grouped Schools, RD901 Road and University of Bourgogne PPP PFI projects comprising 6% of the portfolio by value, which conduct their business and pay their interest, dividends and principal in Euros and its investments in North West Anthony Henday P3 and Kicking Horse Canyon P3 projects comprising 2% of the portfolio by value, which conduct their business and pay interest, dividends and principal in Canadian dollars.
+The Consolidated Group monitors its foreign exchange exposures using its near term and long-term cash flow forecasts.
+Its policy is to use foreign exchange hedging to provide protection to the level of sterling distributions that the Consolidated Group expects to receive over the medium term, where considered appropriate.
+This may involve the use of forward exchange and other currency hedging contracts, as well as the use of Euro, Canadian and other currency denominated borrowings.
+The Group at 31 March 2014 hedged its currency exposure through Euros and Canadian dollar forward contracts.
+Financial Instruments continued Credit risk Credit risk is the risk that a counterparty of the Consolidated Group will be unable or unwilling to meet a commitment that it has entered into with the Consolidated Group.
+The Consolidated Groups key direct counterparties are the project companies in which it makes investments.
+The Consolidated Groups near term cash flow forecasts are used to monitor the timing of cash receipts from project counterparties.
+Underlying to the cash flow forecast are project company cash flow models, which are regularly updated by project companies and provided to the Operator, for the purposes of demonstrating the projects ability to pay interest and dividends based on a set of detailed assumptions.
+Many of the Consolidated Groups investment and subsidiary entities receive revenue from government departments, and public sector or local authority clients.
+Therefore a significant portion of the Consolidated Groups investments revenue is with counterparties of good financial standing.
+The Consolidated Group is also reliant on each projects subcontractors continuing to perform their service delivery obligations such that revenues to projects are not disrupted.
+The Investment Adviser has a subcontractor counterparty monitoring procedure in place.
+The credit standing of subcontractors is reviewed, and the risk of default estimated for each significant counterparty position.
+Monitoring is ongoing and period end positions are reported to the Board on a quarterly basis.
+The Consolidated Groups largest credit risk exposure to a project at 31 March 2014 was to the Home Office project 7% of portfolio by value and the largest subcontractor counterparty risk exposure was to subsidiaries of the Carillion group which provided facilities management services in respect of 17% of the portfolio by value.
+The Consolidated Group is subject to credit risk on its loans, receivables, cash and deposits.
+The Consolidated Groups cash and deposits are held with well-known banks.
+The credit quality of loans and receivables within the investment portfolio is based on the financial performance of the individual portfolio companies.
+For those assets that are not past due, it is believed that the risk of default is small and capital repayments and interest payments will be made in accordance with the agreed terms and conditions of the investment.
+Fair value adjustments, or loan impairments, are made when the net present value of the future cash flows predicted to arise from the asset, discounted using the effective interest rate method, implies non-recovery of all or part of the Consolidated Groups loan investment.
+In these cases a loan impairment is recorded equal to the valuation shortfall.
+At 31 March 2014 there were no loans and other receivables considered impaired 2013: Nil for the Consolidated Group.
+The Consolidated Groups maximum exposure to credit risk over financial assets is the carrying value of those assets in the balance sheet.
+The Consolidated Group does not hold any collateral as security.
+Liquidity risk Liquidity risk is the risk that the Consolidated Group will not be able to meet its financial obligations as these fall due.
+The Consolidated Groups approach to managing liquidity is to ensure, as far as possible, that it will have sufficient financial resources and liquidity to meets its liabilities when due.
+The Consolidated Group ensures it maintains adequate reserves, banking facilities and reserve borrowing facilities by continuously monitoring forecast and actual cash flows and matching the maturity profiles of financial assets and liabilities.
+The Consolidated Group investments are predominantly funded by share capital and medium term debt funding.
+The Consolidated Groups investments are generally in private companies in which there is no listed market and therefore such investment would take time to realise and there is no assurance that the valuations placed on the investments would be achieved from any such sale process.
+The Consolidated Groups investments have borrowings which rank senior to the Consolidated Groups own investments into the companies.
+This senior debt is structured such that, under normal operating conditions, it will be repaid within the expected life of the projects.
+Debt raised by the investment companies from third parties is without recourse to the Consolidated Group.
+The Consolidated Groups investments may include obligations to make future investment amounts.
+These obligations will typically be supported by standby letters of credit, issued by the Consolidated Groups bankers in favour of the senior lenders to the investment companies.
+Such subscription obligations are met from the Consolidated Groups cash resources when they fall due.
+Such obligations totalled 5.1 million 2013: 12.7 million at the year end.
+The next table analyses the Consolidated Groups financial liabilities into relevant maturity groupings based on the remaining period at the balance sheet date to the contractual maturity date.
+The amounts in the table are the contracted undiscounted cashflows including the impact of netting agreements.
+H ICL A N N U A L R E PO R T & A C COU N T S 2014 83 Notes to the Consolidated Financial Statements continued for the year ended 31 March 2014 4.
+Financial Instruments continued Less than Between Between More than 31 March 2014 1 year 1 and 2 years 2 and 5 years 5 years million million million million Bank borrowings Trade and other payables 10.1 Other financial liabilities 0.5 Total 10.6 Less than Between Between More than 31 March 2013 Restated 1 year 1 and 2 years 2 and 5 years 5 years million million million million Bank borrowings 26.9 Trade and other payables 12.2 Other financial liabilities 0.5 Total 39.6 Capital management The Consolidated Group has a 150 million revolving acquisition facility which had no cash drawings at year end.
+Further equity raisings are considered when debt drawings are at an appropriate level.
+The proceeds from the share issues are used to repay debt and to fund future investment commitments.
+The Consolidated Group makes prudent use of its leverage.
+Under the Articles the Consolidated Groups outstanding borrowings, including any financial guarantees to support outstanding subscription obligations but excluding internal Consolidated Group borrowings of the Consolidated Groups underlying investments, are limited to 50% of the Adjusted Gross Asset Value of its investments and cash balances at any time.
+The ratio of the Consolidated Groups debt to Adjusted Gross Asset Value at the end of the year was as follows: 31 March 2014 31 March 2013 million million Outstanding drawings Bank borrowings 27.9 Letter of credit facility 5.1 12.8 5.1 40.7 Adjusted Gross Asset Value Portfolio valuation Note 12a 1,500.6 1,213.1 Cash and cash equivalents 42.7 172.9 1,543.3 1,386.0 Borrowing concentration 0.33% 2.90% From time to time the Company issues its own shares to the market: the timing of these purchases depends on market prices.
+In order to assist in the narrowing of any discount to the Net Asset Value at which the Ordinary Shares may trade from time to time, the Company may, at the sole discretion of the Directors: make market purchases of up to 14.99% per annum of its issued Ordinary Shares: and make tender offers for the Ordinary Shares.
+There were no changes in the Consolidated Groups approach to capital management during the year.

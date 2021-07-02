@@ -1,0 +1,47 @@
+126 Financial statements Notes to the Group financial statements Notes to the Group financial statements continued for the year ended 31 March 2016 6.
+Use of non-GAAP measures in the Group financial statements As detailed below, the Group has identified and defined certain measures that it believes assist understanding of Experians performance.
+The measures are not defined under IFRS and they may not be directly comparable with other companies adjusted measures.
+The non-GAAP measures are not intended to be a substitute for, or superior to, any IFRS measures of performance but management has included them as they consider them to be key measures used within the business to assess performance.
+a Benchmark profit before tax Benchmark PBT Benchmark PBT is disclosed to indicate the Groups underlying profitability.
+It is defined as profit before amortisation and impairment of acquisition intangibles, impairment of goodwill, acquisition expenses, adjustments to contingent consideration, exceptional items, financing fair value remeasurements, tax and discontinued operations.
+It includes the Groups share of continuing associates pre-tax results.
+An explanation of the basis on which Experian reports exceptional items is provided below.
+Other adjustments made to derive Benchmark PBT are explained as follows: Charges for the amortisation and impairment of acquisition intangibles are excluded from the definition of Benchmark PBT because these charges are based on judgments about their value and economic life.
+Impairment of goodwill is similarly excluded.
+Acquisition expenses relating to successful, active or aborted acquisitions are excluded from the definition of Benchmark PBT as they bear no relation to the Groups underlying performance or to the performance of any acquired businesses.
+Adjustments to contingent consideration are similarly excluded.
+Charges and credits for financing fair value remeasurements within finance expense in the Group income statement are excluded from the definition of Benchmark PBT.
+These include that element of the Groups derivatives that is ineligible for hedge accounting together with gains and losses on put options in respect of acquisitions.
+Amounts recognised generally arise from market movements and accordingly bear no direct relation to the Groups underlying performance.
+b Earnings before interest and tax Total EBIT and EBIT Total EBIT is defined as Benchmark PBT before the net interest expense charged therein.
+Total EBIT excluding the results of discontinuing activities is defined and reported as EBIT.
+c Earnings before interest, tax, depreciation and amortisation EBITDA EBITDA is defined as Total EBIT before the depreciation and amortisation charged therein.
+d Continuing activities and Discontinuing activities Businesses trading at 31 March 2016, which are not disclosed as discontinuing activities, are treated as continuing activities.
+Discontinuing activities are businesses sold, closed or identified for closure during a financial year.
+These are treated as discontinuing activities for both revenue and EBIT purposes.
+The results of discontinuing activities are disclosed separately with the results of the prior period re-presented as appropriate.
+This measure differs from the definition of discontinued operations in IFRS 5. e Constant exchange rates To highlight its organic performance, Experian discusses its results in terms of growth at constant exchange rates, unless otherwise stated.
+This represents growth calculated after translating both years performance at the prior years average exchange rates.
+f Total growth This is the year-on-year change in the performance of Experians activities.
+Total growth at constant exchange rates removes the translational foreign exchange effects arising on the consolidation of Experians activities.
+g Organic revenue growth This is the year-on-year change in the revenue of continuing activities, translated at constant exchange rates, excluding acquisitions until the first anniversary of their consolidation.
+Financial statements Notes to the Group financial statements 127 h Benchmark earnings and Total benchmark earnings Benchmark earnings comprise Benchmark PBT less attributable tax and non-controlling interests.
+The attributable tax for this purpose excludes significant tax credits and charges arising in the year which, in view of their size or nature, are not comparable with previous years, together with tax arising on exceptional items and on total adjustments made to derive Benchmark PBT.
+Benchmark PBT less attributable tax is designated as Total benchmark earnings.
+i Benchmark earnings per share Benchmark EPS Benchmark EPS comprises Benchmark earnings divided by the weighted average number of issued ordinary shares, as adjusted for own shares held.
+j Benchmark PBT per share Benchmark PBT per share comprises Benchmark PBT divided by the weighted average number of issued ordinary shares, as adjusted for own shares held.
+k Benchmark tax charge and rate The Benchmark tax charge is the tax charge applicable to Benchmark PBT.
+It differs from the Group tax charge by tax attributable to exceptional items and other adjustments made to derive Benchmark PBT, and exceptional tax charges.
+A reconciliation is provided in note 15 b ii to these financial statements.
+The related effective rate of tax is calculated by dividing the Benchmark tax charge by Benchmark PBT.
+l Exceptional items The separate reporting of non-recurring exceptional items gives an indication of the Groups underlying performance.
+Exceptional items include those arising from the profit or loss on disposal of businesses, closure costs of major business units, costs of significant restructuring programmes and other significant one-off items.
+All other restructuring costs are charged against Total EBIT, in the segments in which they are incurred.
+m Full year dividend per share Full year dividend per share comprises the total of dividends per share announced in respect of the financial year.
+n Operating and free cash flow Operating cash flow is Total EBIT plus amortisation, depreciation and charges in respect of share-based incentive plans, less capital expenditure net of disposal proceeds and adjusted for changes in working capital and the profit or loss retained in continuing associates.
+Free cash flow is derived from operating cash flow by excluding net interest, tax paid in respect of continuing operations and dividends paid to non-controlling interests.
+o Cash flow conversion Cash flow conversion is operating cash flow expressed as a percentage of Total EBIT.
+p Net debt and net funding Net debt is borrowings and the fair value of derivatives hedging borrowings excluding accrued interest, less cash and cash equivalents reported in the Group balance sheet and other highly liquid bank deposits with original maturities greater than three months.
+Net funding is total funding less cash held in Group Treasury.
+q Return on capital employed ROCE ROCE is defined as Total EBIT less tax at the Benchmark rate divided by a three-point average of capital employed over the year.
+Capital employed is net assets less non-controlling interests, further adjusted to add or deduct the net tax liability or asset and to add net debt.

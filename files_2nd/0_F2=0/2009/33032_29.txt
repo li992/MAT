@@ -1,0 +1,72 @@
+FINANCIAL STATEMENTS CONSOLIDATED FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 33.
+Financial instruments and risk management The group issues or holds financial instruments mainly to finance its operations: to finance corporate transactions such as dividends, share buy backs and acquisitions: for the temporary investment of short-term funds: and to manage the currency and interest rate risks arising from its operations and from its sources of finance.
+In addition, various financial instruments, for example trade receivables and trade payables, arise directly from the groups operations.
+The group nances its operations primarily by a mixture of issued share capital, retained profits, deferred taxation, long-term and short-term borrowing, mainly using commercial paper supported by committed borrowing facilities.
+The group borrows in the major longterm bond markets in major currencies and typically, but not exclusively, these markets provide the most cost-effective means of long-term borrowing.
+The group uses derivative financial instruments primarily to manage its exposure to changes in interest and foreign exchange rates against these borrowings.
+The derivatives used for this purpose are principally interest rate swaps, cross currency swaps and forward currency contracts.
+The group also uses financial instruments to hedge some of its currency exposures arising from funding its overseas operations, acquisitions, overseas assets, liabilities and forward purchase commitments.
+The financial instruments used comprise forward currency contracts.
+The group does not hold or issue derivative financial instruments for trading purposes.
+All transactions in derivative financial instruments are undertaken to manage the risks arising from underlying business activities.
+The group has a centralised treasury operation whose primary role is to manage liquidity, funding, investments and counterparty credit risk arising with financial institutions.
+The centralised treasury operation also manages the groups market risk exposures, including risks arising from volatility in currency and interest rates.
+The centralised treasury operation acts as a central bank to members of the group providing central deposit taking, funding and foreign exchange management services.
+Funding and deposit taking is usually provided in the functional currency of the relevant entity.
+The centralised treasury operation is not a profit centre and the objective is to manage risk at optimum cost.
+The Board sets the policy for the groups centralised treasury operation and its activities are subject to a set of controls commensurate with the magnitude of the borrowings and investments and group wide exposures under its management.
+The Board has delegated its authority to operate these polices to a series of panels that are responsible for the management of key treasury risks and operations.
+Appointment to and removal from the key panels requires approval from two of the Chairman, the Chief Executive or the Group Finance Director.
+The key policies dened by the Board are highlighted in each of the sections below.
+The financial risk management of exposures arising from trading related financial instruments, primarily trade receivables and trade payables, is through a series of policies and procedures set at a group and line of business level.
+Line of business management apply these policies and procedures and perform review processes to assess and manage financial risk exposures arising from these financial instruments.
+There has been no change in the nature of the groups risk prole between 31 March 2009 and the date of these financial statements.
+Interest rate risk management The group has interest bearing financial assets and financial liabilities which may expose the group to either cash ow or fair value volatility.
+The groups policy, as prescribed by the Board, is to ensure that at least 70% of net debt is at xed rates.
+Short-term interest rate management is delegated to the centralised treasury operation whilst long-term interest rate management decisions requires further approval from the Group Finance Director, Director Treasury, Tax and Risk Management or the Treasurer who have been delegated such authority by the Board.
+In order to manage this prole, the group has entered into swap agreements with commercial banks and other institutions to vary the amounts and periods for which interest rates on borrowings are xed.
+Under cross currency swaps, the group agrees with other parties to exchange, at specified intervals, US dollar and Euro xed rates into either xed or oating Sterling interest amounts calculated by reference to an agreed notional principal amount.
+Under Sterling interest rate swaps, the group agrees with other parties to exchange, at specified intervals, the differences between xed rate and oating rate Sterling interest amounts calculated by reference to an agreed notional principal amount.
+The group primarily uses a combination of these derivatives to x its interest rates.
+The majority of the groups long-term borrowings have been, and are, subject to xed Sterling interest rates after applying the impact of hedging instruments.
+Outstanding currency and interest rate swaps at 31 March 2009 are detailed in the Hedging activities and Other derivatives sections below.
+At 31 March 2009, the groups xed:oating interest rate prole, after hedging, on net debt was 99:1 2008: 100:0.
+The group is exposed to income statement and shareholders equity volatility arising from changes in interest rates.
+To demonstrate this volatility, management have concluded that a 100 basis point increase 2008: 100 basis point increase in interest rates and parallel shift in yield curves across Sterling, US dollar and Euro currencies is a reasonable benchmark for performing a sensitivity analysis.
+All adjustments to interest rates for the impacted financial instruments are assumed to take effect from the respective balance sheet date.
+After the impact of hedging, the groups main exposure to interest rate volatility in the income statement arises from fair value movements on derivatives not in hedging relationships and on variable rate borrowings and investments which are largely inuenced by Sterling interest rates.
+Trade payables, trade receivables and other financial instruments do not present a material exposure to interest rate volatility.
+With all other factors remaining constant and based on the composition of net debt at 31 March 2009, a 100 basis point increase 2008: 100 basis point increase in Sterling interest rates would decrease the groups annual net finance expense by approximately 5m 2008: 5m.
+130 BT GROUP PLC ANNUAL REPORT & FORM 20-F FINANCIAL STATEMENTS CONSOLIDATED FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 33.
+Financial instruments and risk management continued The groups main IFRS 7 dened exposure to interest rate volatility within shareholders equity arises from fair value movements on derivatives held in the cash ow reserve.
+The derivatives have an underlying interest exposure to Sterling, Euro and US dollar rates.
+With all other factors remaining constant and based on the composition of derivatives included in the cash ow reserve at the balance sheet date, a 100 basis point increase 2008: 100 basis point increase in interest rates in each of the currencies would impact equity, pre tax, as follows: 2009 2008 m m Charge Charge credit credit Sterling interest rates 550 470 US dollar interest rates 538 347 Euro interest rates 149 91 The long-term debt instruments which the group issued in December 2000 and February 2001 both contained covenants providing that if the BT Group credit rating were downgraded below A3 in the case of Moodys or below A in the case of Standard & Poors S&P, additional interest would accrue from the next coupon period at a rate of 0.25 percentage points for each ratings category adjustment by each ratings agency.
+In March 2009, both Moodys and S&P downgraded BTs credit rating to Baa2 and BBB, respectively.
+Prior to this financial year, S&P downgraded BTs credit rating to BBB plus in July 2006 and Moodys downgraded BTs credit rating to Baa1 in May 2001.
+Based on the total debt of 5.8bn outstanding on these instruments at 31 March 2009, BTs annual finance expense would increase by approximately 28m if BTs credit rating were to be downgraded by one credit rating category by both agencies below a long-term debt rating of Baa2 BBB.
+If BTs credit rating with each of Moodys and S&P were to be upgraded by one credit rating category the annual finance expense would be reduced by approximately 28m.
+Foreign exchange risk management The purpose of the groups foreign currency hedging activities is to protect the group from the risk that the eventual net inows and net outows will be adversely affected by changes in exchange rates.
+The Board policy for foreign exchange risk management defines the types of transactions which should normally be covered, including significant operational, funding and currency interest exposures, and the period over which cover should extend for the different types of transactions.
+Short-term foreign exchange management is delegated to the centralised treasury operation whilst long-term foreign exchange management decisions requires further approval from the Group Finance Director, Director Treasury, Tax and Risk Management or the Treasurer who have been delegated such authority by the Board.
+The policy delegates authority to the Director Treasury, Tax and Risk Management to take positions of up to 100m and for the Group Finance Director to take positions of up to 1bn.
+A significant proportion of the groups current revenue is invoiced in Sterling, and a significant element of its operations and costs arise within the UK.
+The groups overseas operations generally trade and are funded in their functional currency which limits their exposure to foreign exchange volatility.
+The groups foreign currency borrowings, which totalled 9.9bn at 31 March 2009 2008: 6.6bn, are used to finance its operations and have been predominantly swapped into Sterling using cross currency swaps.
+The group also enters into forward currency contracts to hedge foreign currency investments, interest expense, capital purchases and purchase and sale commitments on a selective basis.
+The commitments hedged are principally US dollar and Euro denominated.
+As a result, the groups exposure to foreign currency arises mainly on its non-UK subsidiary investments and on residual currency trading ows.
+After hedging, with all other factors remaining constant and based on the composition of assets and liabilities at the balance sheet date, the groups exposure to foreign exchange volatility in the income statement from a 10% strengthening in Sterling against other currencies would result in a credit of approximately 20m in 2009 2008: approximately 20m.
+The groups main exposure to foreign exchange volatility within shareholders equity excluding translation exposures arises from fair value movements on derivatives held in the cash ow reserve.
+The majority of foreign exchange uctuations in the cash ow reserve are recycled immediately to the income statement to match the hedged item and therefore the groups exposure to foreign exchange uctuations in equity would be insignicant in both 2009 and 2008.
+Outstanding cross currency swaps at 31 March 2009 are detailed in the Hedging activities and Other derivatives sections below.
+Credit risk management The groups exposure to credit risk arises from financial assets transacted by the centralised treasury operation primarily derivatives, investments, cash and cash equivalents and from its trading related receivables.
+For treasury related balances, the Board dened policy restricts exposure to any one counterparty by setting credit limits based on the credit quality as dened by Moodys and Standard and Poors and by dening the types of financial instruments which may be transacted.
+The minimum credit ratings permitted with counterparties are A3 A for long-term and P1 A1 for short-term investments.
+The centralised treasury operation continuously reviews the limits applied to counterparties and will adjust the limit according to the nature and credit standing of the counterparty up to the maximum allowable limit set by the Board.
+Management review significant utilisations on a regular basis to determine the adjustments required, if any, and actively manage any exposures which may arise.
+Where multiple transactions are undertaken with a single counterparty, or group of related counterparties, the group may enter into netting arrangements to reduce the groups exposure to credit risk.
+Currently the group makes use of standard International Swaps and Derivative Association ISDA documentation.
+In addition, where possible the group will seek a combination of a legal right of set off and net settlement.
+The group also seeks collateral or other security where it is considered necessary.
+During the 2009 financial year, the centralised treasury operation tightened the credit limits applied when investing with counterparties in response to market conditions and continued to monitor their credit quality and actively managed any exposures which arose.
+BT GROUP PLC ANNUAL REPORT & FORM 20-F 131 FINANCIAL STATEMENTS

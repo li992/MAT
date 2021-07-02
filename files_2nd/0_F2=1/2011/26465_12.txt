@@ -1,0 +1,30 @@
+24 Business Review Technology Services Introduction Technology Services comprises technology connections and data centre services for clients of London Stock Exchange and Borsa Italiana, and the MillenniumIT software business, based in Sri Lanka, which provides technology for the Group as well as technology and enterprise services sales to third parties worldwide.
+In October 2010, we commenced the roll out of the new Millennium Exchange trading platform to our markets, a critical step to increasing competitiveness.
+This not only Our Groups Technology Services enables us to become the fastest trading system in the world, but also gives us a lower cost base and more flexible platform.
+division optimises speed, performance, MillenniumIT security and flexibility of trading, and In the past year, we migrated Turquoise and the UK cash also sells systems to third parties.
+equities markets onto the Millennium Exchange trading platform, a highly scalable, multi-asset class trading platform, Tony Weeresinghe left offering the Groups clients superior technical performance, Director of Global Development and CEO of MillenniumIT ultra low-latency and enhanced functionality.
+Antoine Shagoury Turquoise migrated to Millennium Exchange in October Chief Information Officer 2010, delivering average order entry latency of less than 110 microseconds.
+Additional functionality was designed to further differentiate the mid point dark book through improving the quality of mid point matching.
+The UK cash equity market successfully migrated in February 2011, with average latency now below 125 microseconds, more than 10 times faster than the previous TradElect platform.
+Although there were a few initial issues given the scale and speed of the project, feedback from clients on performance has been very positive.
+Next on our agenda is the migration of MTA, our Italian cash market, and the MOT fixed income market.
+MillenniumIT is also developing a NewClear platform for our post trade services.
+Latency Strategy: milliseconds Deploy low cost, high performance and reliable platforms and software 11.0 11.0 across the Group Provide specialist capital markets 6.0 6.0 technology products to third 5.0 5.0 parties worldwide 3.7 3.7 3.0 3.0 1.41 1.41 0.113 0.113 0.101 0.101 London Stock Exchange Group plc Annual Report 2011 T Tr ra ad di in ng g s sy ys st te em m lla at te en nc cy y m mi illlli is se ec co on nd ds s TradElect Jun 07 TradElect Release 2 Oct 07 TradElect Release 3 Sep 08 TradElect Release 4 May 09 TradElect Release 4.1 Jul 09 TradElect Mar 10 Millennium Exchange LSE equity Millennium Exchange Turquoise Overview Business Review Governance Group financial statements Other information Business Review Technology Services 25 During the year, MillenniumIT won contracts to supply market UnaVista surveillance systems to the Egyptian Exchange and trading systems to Tullett Prebon, to further develop their electronic Post Trade Services broking capabilities.
+Africas largest exchange, Johannesburg Stock Exchange will also switch trading platforms onto Millennium Exchange.
+London Stock Exchange Group and the Mongolian State Property Committee have signed an exclusive Strategic Partnership Agreement to restructure and develop the Mongolian Stock Exchange, which includes MillenniumIT providing trading, post trade and surveillance infrastructure.
+Transaction Confirmation Swaps Other Technology Services Reporting Portal Portal The Group offers a suite of technology services for client access and connectivity to a variety of trading and real time market data services.
+Providing Confirming Parties can keep We have seen good take up of our co-location service, additional trades.
+Firms track of CFD Exchange Hosting, which offers ultra low latency sensitive validation above can communicate transactions and trading clients the ability to take space in our data centre, and beyond what settlement data communicate significantly reducing network latency and providing high is mandated for verification through UnaVista.
+by financial and matching, regulators.
+reducing the risk We have deepened the scope of our offering this year, including of settlement a new order routing service via an ultra fast fibre-optic network, failure.
+allowing hosting clients to route orders to all major European and US execution venues, direct from our data centre.
+Colt, the telecoms services company, is soon to provide a proximity Other Services hosting service, where traders can place their servers in Colts data centre which is in close proximity to, and connected via fibre-optic cable to, our own data centre.
+We also opened our market to non-trading market participants, including vendors and service providers, who can take their own cabinets within the hosting facility, paving the way for the creation of a unique community of both trading firms and solution providers in our data centre.
+Data Solutions Reconciliations We have continued to expand the scale of our network offering.
+We introduced 1Gb and 10Gb network connectivity to our markets to provide clients with faster access to Group data.
+A suite of reference and Functionalities including historical data products matching and workflow designed to help firms create capabilities meet different a golden copy of data.
+Maintaining leading edge technology capabilities As a trusted, neutral and regulated company, the London Stock Exchange is uniquely positioned to provide solutions continues to be a core focus.
+UnaVista is one such critical commitment to the industry we serve.
+It is Technology not only enables a technologically advanced, hosted platform which offers our clients a range of business solutions including post-trade us to become the fastest services, data solutions and reconciliations, and is designed market in the world, but gives to help our clients businesses become more efficient and more profitable whilst reducing their risk exposure.
+us the ability to adapt and bring efficiency to markets.
+For further information visit: www.

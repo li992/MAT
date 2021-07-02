@@ -1,0 +1,84 @@
+The_DT
+turnover_NN
+from_PIN
+1999_CD
+includes_VPRT
+franchisee_NN
+turnover_NN
+._.
+Earlier_TIME
+years_NN
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+restated_VBN
+._.
+1999_CD
+capital_NN
+employed_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+following_VBG
+the_DT
+adoption_NOMZ
+of_PIN
+FRS_NN
+15_CD
+in_PIN
+2000_CD
+._.
+2002_CD
+capital_NN
+employed_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+following_VBG
+the_DT
+adoption_NOMZ
+of_PIN
+Application_NOMZ
+Note_VPRT [PRIV]
+G_NN
+which_WDT [WHSUB]
+was_VBD [PASS]
+issued_VBN
+as_IN
+an_DT
+amendment_NOMZ
+to_PIN
+FRS_NN
+5_CD
+._.
+2003_CD
+capital_NN
+employed_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+in_PIN
+accordance_NN
+with_PIN
+UITF_NN
+38_CD
+,_,
+which_WDT [SERE]
+was_VBD [PASS]
+published_VBN
+in_PIN
+December_NN
+2003_CD
+and_CC
+effective_JJ
+for_PIN
+accounting_GER
+periods_NN
+ending_VBG [WZPRES]
+on_PIN
+or_CC
+after_IN
+22nd_JJ
+June_NN
+2004_CD
+._.

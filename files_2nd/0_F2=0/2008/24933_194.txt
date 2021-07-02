@@ -1,0 +1,50 @@
+22 Goodwill and intangible assets Goodwill and intangible assets includes goodwill arising on business combinations, the PVIF long-term insurance business, and other intangible assets.
+This was a result of the very significant deterioration in the economic and credit conditions in North America and the resulting further restructuring in the Personal Financial Services North America cash generating unit CGU in the latter part of 2008.
+The reduction in the recoverable amount of the main business lines was driven by higher losses than were expected for 2008, including higher levels of impairment charges, contraction in new business from lending activities and a delay in the expected return to profitability of the business.
+The deterioration in the financial performance was particularly severe in the fourth quarter of 2008.
+In addition, the discount rate used increased as observed market discount rates increased for US consumer finance and banking businesses.
+Impairment testing Timing of impairment testing HSBCs impairment test in respect of goodwill allocated to each CGU is performed as at 1 July each year.
+In line with the accounting policy set out in Note 2, goodwill is also retested for impairment whenever there is an indication that goodwill may be impaired.
+Given the extraordinary market events experienced globally during 2008, HSBC performed an additional impairment test on all the CGUs within the Group as at 31 December 2008.
+For the purpose of impairment testing, the Groups CGUs are based on customer groups and global business separated by geographical region.
+The CGUs represent the lowest level at which goodwill is monitored by key management personnel.
+409 HSBC HOLDINGS PLC Notes on the Financial Statements continued Note 22 Basis of the recoverable amount Value in use or Fair value less costs to sell The recoverable amount of all CGUs to which goodwill has been allocated was equal to its value in use VIU at each respective testing date for 2007 and 2008.
+For each significant CGU, the VIU is calculated by discounting managements cash flow projections for each CGU.
+The pre-tax discount rate used is based on the cost of capital HSBC allocates to investments in the countries within which the CGU operates.
+The long-term growth rate is used to extrapolate the cash flows in perpetuity because of the long-term perspective within the Group of the business units making up the CGUs.
+However, due to the economic downturn in Personal Financial Services North America, a 10 year cash flow projection was used.
+Key assumptions in VIU calculation and managements approach to determining the values assigned to each key assumption 2008 2007 Nominal Nominal growth rate growth rate beyond beyond Goodwill at initial Goodwill at initial 31 December Discount cash flow 1 July Discount cash flow Cash-generating unit 2008 rate projections 2007 rate projections US$m % % US$m % % Personal Financial Services Europe............... 4,422 10.0 3.5 4,197 10.3 5.2 Commercial Banking Europe......................... 3,427 10.0 3.5 3,045 10.1 4.6 Private Banking Europe.................................. 4,470 9.0 3.5 4,694 10.0 3.8 Global Banking and Markets Europe............. 3,451 11.0 3.5 3,894 10.1 4.4 Personal Financial Services North America... 13.6 3.9 10,564 12.3 4.0 Personal Financial Services Latin America.... 2,189 16.8 8.8 2,781 16.4 7.8 Total goodwill in the CGUs listed above.......... 17,959 29,175 At 31 December 2008, aggregate goodwill of US$3,896 million 1 July 2007: US$3,850 million had been allocated to CGUs that were not considered individually significant.
+These CGUs do not carry on their balance sheets any significant intangible assets with indefinite useful lives, other than goodwill.
+Nominal long-term growth rate: external data that reflects the markets assessment of GDP and inflation for the countries within which the CGU operates.
+The rates used for 2007 and 2008 are taken as an average of the last 10 years.
+Discount rate: the discount rate used to discount the cash flows is based on the cost of capital assigned to each CGU, which is derived using a Capital Asset Pricing Model CAPM.
+The CAPM depends on inputs reflecting a number of financial and economic variables including the risk-free rate in the country concerned and a premium to reflect the inherent risk of the business being evaluated.
+These variables are based on the markets assessment of the economic variables and managements judgement.
+In addition, for the purposes of testing goodwill for impairment, management supplements this process by comparing the discount rates derived using the internally generated CAPM with cost of capital rates produced by external sources.
+HSBC uses the externally-sourced cost of capital rates where, in managements judgement, those rates reflect more accurately the current market and economic conditions.
+At 31 December 2008, the rates used in the impairment test for Personal Financial Services Latin America was based on externally sourced rates.
+Managements judgement in estimating the cash flows of a CGU: the cash flow projections for each CGU are based on plans approved by the Group Management Board.
+The key assumptions in addition to the discount rate and nominal long-term growth rate for each significant CGU are discussed below.
+Personal Financial Services Europe and Commercial Banking Europe: the assumptions included in the cash flow projections for Personal Financial Services Europe and Commercial Banking Europe reflect the economic environment and financial outlook of the European countries within these two segments.
+Key assumptions include the level of interest rates and the level and change in unemployment rates, particularly in the UK.
+While current economic conditions and the economic outlook in Europe remain challenging, managements cash flow projections are based on these prevailing conditions.
+Despite the severity of the conditions at the balance sheet date, management does not expect these conditions to continue over the longer term.
+The downside risks to this assessment include the 410 risk of a prolonged and severe economic recession in the UK, accompanied by higher discount rates reflecting increased investor perceptions of risk.
+Managements current assessment is that the probability of this downside risk scenario is low.
+Accordingly, based on the conditions at the balance sheet date, management determined that a reasonably possible change in any of the key assumptions described above would not cause an impairment to be recognised in respect of Personal Financial Services Europe or Commercial Banking Europe.
+Private Banking Europe: the revenues in Private Banking Europe are predominately generated through HSBCs client relationships.
+For 2009, the forecast cash flows reflect the downward pressure on brokerage and portfolio management fees, with the latter being affected by the decline in equity market values.
+Thereafter, the nominal longterm growth rates described in the table above have been used.
+Based on the conditions at the balance sheet date, management determined that a reasonably possible change in any of the key assumptions described above would not cause an impairment to be recognised in respect of Private Banking Europe.
+Global Banking and Markets Europe: the cash flows generated by Global Banking and Markets Europe are diversified and there is no one key assumption that drives the cash flow projection of this CGU.
+The forecast cash flows in the 2009 plan continue to reflect challenging global economic conditions.
+One of the key factors which may impact the carrying value of this CGU is the level of impairment charges which may emerge in the future, particularly in respect of holdings of available-for-sale sub-prime and Alt-A Residential MBSs.
+Based on managements current assessment of the credit quality of these securities, which includes stressed scenarios for collateral defaults and house prices, and the level of credit support available, management determined that based on the conditions at the balance sheet date a reasonably possible change in impairment of available-for-sale sub-prime and Alt-A Residential MBSs would not cause an impairment to be recognised in respect of Global Banking and Markets Europe.
+Personal Financial Services Latin America: the assumptions included in the cash flow projections for Personal Financial Services Latin America reflect the economic environment and financial outlook of the countries within this segment, with Brazil and Mexico being two of the largest countries included within this segment.
+Key assumptions include the growth in lending and deposit volumes, the credit quality of the loan portfolios and operational efficiency improvements.
+Based on the conditions at the balance sheet date, management determined that a reasonably possible change in any of the key assumptions described above would not cause an impairment to be recognised in respect of Personal Financial Services Latin America.
+The calculation of the PVIF is based upon assumptions that take into account risk and uncertainty.
+To project these 411 HSBC HOLDINGS PLC Notes on the Financial Statements continued Notes 22 and 23 cash flows, a variety of assumptions regarding future experience is made by each insurance operation which reflects local market conditions and managements judgement of local future trends.
+Some of the Groups insurance operations incorporate risk margins separately into the projection assumptions for each product, while others incorporate risk margins into the overall discount rate.
+This is reflected in the wide range of risk discount rates applied.
+2 The amortisation charge for the year is recognised within the income statement under Amortisation and impairment of intangible assets, with the exception of the amortisation of mortgage servicing rights that is charged to net fee income.

@@ -1,0 +1,62 @@
+Notes on the Financial Statements continued 38 Lease commitments 39 Structured entities Financial Services Compensation Scheme The Financial Services Compensation Scheme FSCS has provided compensation to consumers following the collapse of a number of deposit takers.
+The compensation paid out to consumers is currently funded through loans from HM Treasury which at 31 December 2015 stood at approximately 16bn $23.7bn.
+The Group could be liable to pay a proportion of the outstanding amount that the FSCS has borrowed from HM Treasury.
+The ultimate FSCS levy to the industry as a result of the collapses cannot currently be estimated reliably as it is dependent on various uncertain factors including the potential recoveries of assets by the FSCS and changes in the level of protected deposits and the population of FSCS members at the time.
+Capital commitments In addition to the commitments disclosed on page 441, at 31 December 2015 HSBC had $468m 2014: $656m of capital commitments contracted but not provided for and $100m 2014: $101m of capital commitments authorised but not contracted for.
+Associates HSBCs share of associates contingent liabilities amounted to $39,222m at 31 December 2015 2014: $47,593m.
+No matters arose where HSBC was severally liable.
+38 Lease commitments Accounting policy Agreements which transfer substantially all the risks and rewards incidental to the ownership of assets are classified as finance leases.
+As a lessor under finance leases, HSBC presents the amounts due under the leases after deduction of unearned charges in Loans and advances to banks or Loans and advances to customers.
+As a lessee under finance leases, HSBC presents the leased assets in Property, plant and equipment with the corresponding liability included in Other liabilities.
+A finance lease asset and its corresponding liability are recognised initially at the fair value of the asset or, if lower, the present value of the minimum lease payments.
+All other leases are classified as operating leases.
+As lessor, HSBC presents assets subject to operating leases in Property, plant and equipment.
+Impairment losses are recognised to the extent that carrying values are not fully recoverable.
+As a lessee, leased assets are not recognised on the balance sheet.
+Finance income or charges on finance leases are recognised in Net interest income over the lease periods so as to give a constant rate of return.
+Rentals payable or receivable under operating leases are spread on a straight-line basis over the lease periods and are recognised in General and administrative expenses or in Other operating income.
+Operating lease commitments At 31 December 2015, future minimum lease payments under non-cancellable operating leases for land, buildings and equipment were $5,333m 2014: $5,372m.
+Finance lease receivables HSBC leases a variety of assets to third parties under finance leases, including transport assets such as aircraft, property and general plant and machinery.
+At the end of lease terms, assets may be sold to third parties or leased for further terms.
+Rentals are calculated to recover the cost of assets less their residual value, and earn finance income.
+2015 2014 Total future Unearned Total future Unearned minimum finance Present minimum finance Present payments income value payments income value $m $m $m $m $m $m Lease receivables: no later than one year 3,382 332 3,050 3,383 374 3,009 later than one year and no later than five years 7,219 837 6,382 8,089 980 7,109 later than five years 4,897 702 4,195 5,013 744 4,269 At 31 December 15,498 1,871 13,627 16,485 2,098 14,387 39 Structured entities Accounting policy A structured entity is an entity that has been designed so that voting or similar rights are not the dominant factor in deciding who controls the entity, for example when any voting rights relate to administrative tasks only, and key activities are directed by contractual arrangements.
+Structured entities often have restricted activities and a narrow and well defined objective.
+Structured entities are assessed for consolidation in accordance with the accounting policy set out in Note 1.
+HSBC is mainly involved with structured entities through the securitisation of financial assets, conduits and investment funds.
+HSBC HOLDINGS PLC 442 HSBCs arrangements that involve structured entities are authorised centrally when they are established to ensure appropriate purpose and governance.
+The activities of structured entities administered by HSBC are closely monitored by senior management.
+The Group is involved with both consolidated and unconsolidated structured entities which are established either by HSBC or a third party, as detailed below.
+Consolidated structured entities Total assets of HSBCs consolidated structured entities, split by entity type HSBC managed Conduits Securitisations funds Other Total $bn $bn $bn $bn $bn At 31 December 2015 25.9 5.6 8.2 5.7 45.4 At 31 December 2014 27.2 7.9 11.2 6.7 53.0 Conduits HSBC has established and manages two types of conduits: securities investment conduits SICs and multi-seller conduits.
+These entities have been designed so that voting or similar rights are not the dominant factor in deciding who has control: in such cases, the relevant activities are directed by means of contractual arrangement.
+The conduits are consolidated as HSBC is exposed to or has the right to variable returns from its involvement with the entity and has the ability to affect its returns through its power over the entity.
+Securities investment conduits Solitaire, HSBCs principal SIC, purchases highly rated ABSs to facilitate tailored investment opportunities.
+At 31 December 2015, Solitaire held $6.2bn of ABSs 2014: $8.0bn.
+These are included within the disclosures of ABSs held through consolidated structured entities on page 153.
+HSBCs other SICs, Mazarin, Barion and Malachite, evolved from the restructuring of the Groups structured investment vehicles in 2008.
+Solitaire Solitaire is currently funded entirely by commercial paper CP issued to HSBC.
+Although HSBC continues to provide a liquidity facility, Solitaire has no need to draw on it as long as HSBC purchases its issued CP, which HSBC intends to do for the foreseeable future.
+Mazarin HSBC is exposed to the par value of Mazarins assets through the provision of a liquidity facility equal to the lesser of the amortised cost of issued senior debt and the amortised cost of non-defaulted assets.
+First loss protection is provided through the capital notes issued by Mazarin, which are substantially all held by third parties.
+At 31 December 2015, HSBC held 2.7% of Mazarins capital notes 2014: 1.2% with a par value of $13m 2014: $10m and a carrying amount of $4m 2014: $1.4m.
+Barion and Malachite HSBCs primary exposure to these SICs is represented by the amortised cost of the debt required to support the non-cash assets of the vehicles.
+First loss protection is provided through the capital notes issued by these vehicles, which are substantially all held by third parties.
+At 31 December 2015, HSBC held 13.7% of the capital notes 2014: 9.9% issued by these vehicles with a par value of $42.2m 2014: $54.8m and a carrying amount of $20.3m 2014: $10.1m.
+Multi-seller conduits Multi-seller conduits were established for the purpose of providing access to flexible market-based sources of finance for HSBCs clients.
+HSBC bears risk equal to the transaction-specific liquidity facilities offered to the multi-seller conduits amounting to $19.8bn at 31 December 2015 2014: $15.4bn.
+First loss protection is provided by the originator of the assets, and not by HSBC, through transaction-specific credit enhancements.
+A layer of secondary loss protection is provided by HSBC in the form of programme-wide enhancement facilities.
+Securitisations HSBC uses structured entities to securitise customer loans and advances that it has originated in order to diversify its sources of funding for asset origination and capital efficiency purposes.
+The loans and advances are transferred by HSBC to the structured entities for cash or synthetically through credit default swaps, and the structured entities issue debt securities to investors.
+HSBC managed funds HSBC has established a number of money market and non-money market funds.
+Where it is deemed to be acting as principal rather than agent in its role as investment manager, HSBC controls and hence consolidates these funds.
+HSBC HOLDINGS PLC 443 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Notes on the Financial Statements continued 39 Structured entities 40 Legal proceedings and regulatory matters Other HSBC has also entered into a number of transactions in the normal course of business which include asset and structured finance transactions where it has control of the structured entity.
+In addition, HSBC is deemed to control a number of third-party managed funds through its involvement as a principal in the funds.
+Unconsolidated structured entities The term unconsolidated structured entities refers to all structured entities that are not controlled by HSBC.
+The Group enters into transactions with unconsolidated structured entities in the normal course of business to facilitate customer transactions and for specific investment opportunities.
+The table below shows the total assets of unconsolidated structured entities in which HSBC had an interest at the reporting date and its maximum exposure to loss in relation to those interests.
+Nature and risks associated with HSBC interests in unconsolidated structured entities HSBC Non-HSBC managed managed Securitisations funds funds Other Total $bn $bn $bn $bn $bn Total assets of the entities 12.9 227.9 2,003.1 139.9 2,383.8 Total assets in relation to HSBCs interests in the unconsolidated structured entities 1.4 5.6 8.0 9.8 24.8 trading assets 0.1 0.2 2.6 2.9 financial assets designated at fair value 5.3 6.6 11.9 derivatives 3.8 3.8 loans and advances to banks 0.1 0.1 loans and advances to customers 1.1 0.1 2.9 4.1 financial investments 0.3 0.2 1.1 0.2 1.8 other assets 0.2 0.2 Total liabilities in relation to HSBCs interests in the unconsolidated structured entities 0.1 0.1 Other liabilities 0.1 0.1 HSBCs maximum exposure at 31 December 2015 3.5 5.6 8.0 14.6 31.7 Total assets of the entities 11.0 308.5 2,899.9 32.8 3,252.2 Total assets in relation to HSBCs interests in the unconsolidated structured entities 0.8 7.8 8.3 7.7 24.6 trading assets 0.1 0.1 4.6 4.8 financial assets designated at fair value 5.2 2.3 7.5 derivatives 1.3 1.3 loans and advances to banks 0.1 0.1 loans and advances to customers 0.8 1.5 2.3 financial investments 2.5 5.9 0.1 8.5 other assets 0.1 0.1 Total liabilities in relation to HSBCs interests in the unconsolidated structured entities 0.1 0.1 Other liabilities 0.1 0.1 HSBCs maximum exposure at 31 December 2014 0.8 7.8 8.3 11.1 28.0 The maximum exposure to loss from HSBCs interests in unconsolidated structured entities represents the maximum loss that HSBC could incur as a result of its involvement with unconsolidated structured entities regardless of the probability of the loss being incurred.
+For commitments, guarantees and written credit default swaps, the maximum exposure to loss is the notional amount of potential future losses.
+For retained and purchased investments in and loans to unconsolidated structured entities, the maximum exposure to loss is the carrying value of these interests at the balance sheet reporting date.
+The maximum exposure to loss is stated gross of the effects of hedging and collateral arrangements entered into to mitigate HSBCs exposure to loss.
+Securitisations HSBC has interests in unconsolidated securitisation vehicles through holding notes issued by these entities.
+In addition, HSBC has investments in ABSs issued by third party structured entities as set out on page 153.

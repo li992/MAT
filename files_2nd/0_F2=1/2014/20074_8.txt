@@ -1,0 +1,90 @@
+24 ARM Holdings plc Strategic Report 2014 Key performance indicator Growth driver: Building the base of licences Gain share in long-term that will drive future royalties growth markets Number of ARM licences signed Principal risks Every licence represents the opportunity for a The future opportunity future royalty stream.
+In recent years, ARM has ARM expects that its customers will continue 2010 91 12347 added over 100 processor licences per year to to re-equip their R&D teams with the 2011 121 its existing base of licences.
+In 2014, we signed latest processors for existing product lines.
+2012 110 163 processor licences, taking the licensing base In addition, ARMs technology is becoming Read more on pages 33 36 2013 121 to 1,198 licences.
+This growth in the number increasingly relevant to markets such as 2014 163 of licences signed is largely due to existing enterprise infrastructure and embedded ARM signed 163 processor licences in 2014, taking the total number customers upgrading their ARM processor computing, leading to more new customers of processor licences signed to 1,198. to the next generation: existing customers acquiring their first ARM licence.
+choosing to deploy ARM technology into Number of licences signed by end market in 2014 another part of their product portfolio: and new customers taking their first ever ARM processor licence.
+Embedded 39% The Amazon Kindle Paperwhite brings Mobile 27% together the pleasures of traditional To maximise our share of end markets, Enterprise 16% reading with the convenience of our technology needs to be adopted and e-reader technology.
+It is based on the Home 10% Freescale i. MX 6SoloLite applications deployed by the leaders in each end market.
+Multiple 8% processor, which is powered by an ARM has made good progress in 2014 with ARM Cortex-A9 core.
+58 companies already developing ARM-based Companies intending to use ARM technology in multiple end markets.
+chips deciding to license an additional ARM processor, and 38 companies deciding to use Number of licences signed by processor type in 2014 ARM technology for the first time.
+Classic 4% Cortex-A family 27% Cortex-R family 5% Cortex-M family 47% Mali 15% Other 2% Other includes architecture and subscription licences.
+Overview Vision Performance Commitment Financials 25 Key performance indicator Growing the number ofARM-based chips Shipments of ARM processor-based chips bn In 2014, ARMs customers reported 12 billion ARM has seen rapid adoption of its processor Electric Imp provides an innovative and powerful chips shipped, a 16% increase over 2013. technology into markets such as enterprise 6.1 2010 platform that makes it simple to connect devices to the By comparison, the industry grew 4% in networking and microcontrollers.
+Electric Imps proven WiFi-enabled solution 2011 the equivalent period.
+This demonstrates ARMs Partners reported that they had sold has an ARM CortexM3-based microcontroller 8.7 2012 featuring fully integrated hardware, software, OS, APIs ARMs increasing relevance to equipment 6.6 billion chips into non-mobile applications.
+2013 10.4 and cloudservices, which dramatically decreases cost and manufacturers as they choose ARM-based 2014 12.0 time to market.
+chips over chips containing proprietary The future opportunity Partners reported 12 billion ARM-based chips shipped in 2014, processor designs.
+ARM expects its unit shipments and taking the cumulative number shipped to more than 60 billion.
+royalty revenues to grow faster than the ARMs total market share rose to 37%, up semiconductor industry as ARM continues to Chip shipments by end market in 2014 from 35% in the previous year.
+The mobile gain market share.
+Shipments of ARM-based phone was the first consumer electronic chips are growing rapidly in microcontrollers device where ARM-based chips started to as several major semiconductor vendors ramp Mobile 45% be widely deployed.
+ARMs Partners sold into full production, and also in enterprise Embedded 34% 5.4 billion chips into mobile devices, driven networking and energy-efficient servers.
+Enterprise 16% by the growth in the number of smartphones Home 5% andmobile computers.
+Chip shipments by processor type in 2014 Classic 41% Cortex-A family 19% Cortex-R family 4% Cortex-M family 36% Image will be xed by retouching Nearly all Mali graphics processors were in chips containing a Cortex-A family processor.
+26 ARM Holdings plc Strategic Report 2014 Key performance indicator Increasing share in target endmarkets ARM has either a high share or an increasing Embedded intelligence 24% Market share 3G, WiFi or Bluetooth-connected share in each of its key end markets including Mobile Enterprise Embedded The microcontroller and connected sensor Samsung Gear S keeps consumers device infrastructure intelligence mobile phones, enterprise infrastructure market is highly fragmented and OEMs connected, with or without a and embedded intelligent chips.
+ARM has 2010 59% 0% 8% smartphone, featuring a 300mAh are increasingly requesting that their battery, 4GB memory, 512MB announced new technology developments semiconductor suppliers use a common 2011 71% 0% 15% RAM andTizen operating system.
+that will enable our customers to improve processor architecture.
+ARM is often the It is powered by the Qualcomm 2012 78% 1% 18% their competitive position in each of these choice as it is a suitable architecture that is Snapdragon 400, which is based 2013 85% 5% 19% end markets.
+available to all semiconductor suppliers, which 2014 86% 10% 24% will help our share continue to grow.
+Mobile computing 86% Main applications processor in a mobile computing device, including smartphones, tablets and laptops.
+For many years, smartphones and tablets The future opportunity Including microcontrollers and smartcards.
+have used ARM-based chips in most of All of these target end markets have promising the applications processors and baseband long-term growth prospects and ARMs modems.
+Some laptops have shipped with market share is either growing or is likely to ARM-based chips, and in early 2015 ARM bemaintained at a high level.
+In addition many introduced new processor designs that will help of ARMs Partners have announced new our customers to be even more competitive products in these areas.
+Enterprise infrastructure 10% ARM has seen increased design activity in enterprise networking, with ARMs market share in 2014 doubling over 2013.
+This is mainly due to ARM-based chips deployed into LTE base stations.
+With more design wins in mobile and wireline infrastructure, sales of ARM-based enterprise networking chips are expected to ramp gradually over the next few years.
+Overview Vision Performance Commitment Financials 27 Key performance indicator Growth driver: Increasing the value that ARM receives Increase value per foreach smart device sold smartdevice Principal risks Sales of chips into smart devices such as The future opportunity Proportion of ARMs latest architecture into smartphones and high-end digital TVs generate smartphones ARM expects that consumer electronic devices 1457 higher royalty revenue than basic phones 2010 2011 2012 2013 2014 will continue to become smarter and that they and TVs.
+will incorporate more chips that could be ARM ARMv6 50% 43%23% 6% 2% technology-based.
+ARM also expects that Read more on pages 3336 ARMv7-A 50% 57% 77% 94% 89% ARMs royalty per device can increase as enterprise infrastructure equipment will start ARMv8-A 0% 0%0%0% 9% devices get smarter.
+Smarter devices may to use more highly integrated System-on-Chips generate more royalty revenue because they which creates an opportunity for ARMs most Gartner, December 2014. may contain: more chips than basic models: ARMs estimates based on customer royalty reports.
+more expensive chips than basic models: and more advanced ARM technology that can In 2015, ARM expects multiple semiconductor deliver a higher royalty per chip.
+companies will start to ship chips incorporating processors designed with its latest ARMv8-A The MiTV 2 is a high-spec, great value During 2014, the total number of smartphones architecture and big.
+smart TV designed by Xiaomi.
+It has sold increased by about 20%.
+We also saw a 49-inch screen, which supports 3D sales of ARM-based mobile computers, such with 4K Ultra HD.
+This is based on a ARM typically receives more royalty revenue TM 1.45GHz quad-core MStar 918 SoC astablets, grow to nearly 300 million.
+for a chip using an ARMv7-A-based processor integrating an ARM CortexA9 than an ARMv6-based processor.
+And ARM CPU and an ARM Mali-450 GPU ARMs Cortex-A family based on the typically receives an even greater payment processor-based SoC.
+nowhas more than a 95% share of these smartphone application processors.
+Cortex-A processors typically command a higher percentage per chip royalty than previous ARM technology.
+Presently, only a small proportion of chips are deployed with ARMs latest generation of processors based on the ARMv8-A architecture, or with ARMs big.
+Generally, both of these technologies result in ARM receiving further increases in the royalty percentage per chip.
+28 ARM Holdings plc Strategic Report 2014 Key performance indicator Growth driver: Developing and licensing new technology Generate additional revenues to generate additional revenue streams from new technology Physical IP revenues $m Principal risks During 2014, ARM continued to develop new Physical IP for advanced technologies that are suitable for licensing to  2010 41.3 43.8 1467 semiconductor companies, and for generating ARM develops physical IP for use by leading 2011 49.2 48.7 additional royalty streams in the future.
+semiconductor companies that manufacture 2012 52.2 56.2 chips using advanced manufacturing processes.
+Read more on pages 3336 2013 65.3 63.8 Multimedia IP for 3D gaming and HDvideo ARM is the leading physical IP provider and 2014 83.9 60.2 Many consumer electronic devices utilise 3D is well placed as semiconductor companies Physical IP licensing physical IP royalty.
+graphics and High-Denition HD video to increasingly outsource manufacturing to ARMs improve the visual experience and make games foundry Partners.
+Mobile phones, digital TVs and computers are familiar and other applications During 2014, ARM saw strong licensing, Mali multimedia processor licences signed such as in-vehicle infotainment, media players especially for advanced processes, signing nine and navigation devices are emerging.
+foundry platform licences for ARMs physical 11 2010 IP that will drive future royalty revenues.
+2011 19 During 2014, ARM signed 25 Mali multimedia In addition, ARM signed 15 licences for POP 2012 17 IP licences, and leading technology companies IP pre-congured physical IP components 2013 19 such as Atmel and MediaTek announced which assists Partners in implementing ARM 2014 25 computing, mobile and consumer devices processors.
+Royalty revenue declined 6% yearARM signed 25 Mali processor licences in 2014, taking the total incorporating chips based on ARMs on-year due to some companies transitioning number of licences signed to 105. multimedia IP.
+During the year, our Partners to the 20nm node, where ARM chose to reported shipping over 550 million chips develop a limited platform of technology as we containing a Mali graphics processor, up over expect companies to move rapidly to 16 14nm 35% compared with the previous year.
+where ARM has a richer library of physical IP.
+The future opportunity With a growing base of customers just starting to sell their chips in high quantities, we expect that the number of chips enabled by ARMs physical IP and Mali graphics technology will continue to grow in the future.
+Overview Vision Performance Commitment Financials 29 Key performance indicator Growth driver: Investing in ARMs people Invest in long-term and systems growth Number of employees at year-end Principal risks ARM specialises in designing innovative ARM invests in the infrastructure our engineers technology and developing a sophisticated need to develop and test complex technology, 2010 1,191 1,889 56789 community of Partners to bring that and to liberate and amplify the creativity of 2011 1,382 2,116 technology to market.
+Our people are our everyone in the organisation.
+In 2014, we 2012 1,652 2,392 strength for designing the next generation of commissioned a new data centre in Austin, Read more on pages 3537 2013 1,987 2,833 technology, delivering it to our customers, which hosts some of our development tools 2014 2,370 3,294 and for growing and maintaining the ARM and test software.
+Number of engineers total employees.
+ARM invests in our people through hiring a mix of graduates and seasoned ARMs investment in developing its people and industry experts, developing them and infrastructure helps to create an environment providing a supportive culture to maximise where everyone can grow and excel, and be their capability and potential.
+See page 40 for more information.
+Our people are our strength for In 2014, ARM hired a net additional 461 people.
+designing the next generation of The majority of our new hires were engineers The future opportunity technology, delivering it to our to increase our research and development customers, and for growing and ARM expects to continue to invest in its people maintaining the ARM Partnership.
+Most of this investment was in our as we develop our engineering capability and processor and multimedia engineering teams operational execution.
+As ARMtechnology is to take advantage of the opportunities for designed into more endmarkets, we expect new ARM technology in servers, computing the business to generate more profits.
+As a result of this investment, normalised expenditure on research and development rose to 168 million in 2014, representing 21% of revenues and 13% growth year-on-year.
+Expenditure on research and development under IFRS was 224 million, representing 28% of revenues and 10% growth year-on-year.
+30 ARM Holdings plc Strategic Report 2014 Key performance indicator Growing normalised profits, EPS, cash generation and dividends ARMs business model and exposure to During 2014, ARM generated 340 million ARMs key financial growth metrics over the past five years structural growth markets mean that it is of cash.
+The increase in cash generation is Dollar Sterling Normalised IFRS operating well positioned to grow profits, to generate primarily due to the increase in revenue.
+revenues revenues operating expenses expenses cash and to support a growing dividend.
+Since 2004, ARM has returned more than 20102014 CAGR 20102014 CAGR 20102014 CAGR 20102014 CAGR ARM intends to cover most of its operational 700 million of cash to shareholders through a costs from the licence revenues of each combination of share buybacks and dividends.
+In 2014 ARM increased the full year dividend by 23% to 7.02 pence.
+20 % 18 % 13 % 13 % ARMs financial discipline focuses investment in areas of maximum opportunity such The future opportunity ARM receives over 95% of its revenues in US dollars.
+ARM has continued to invest in R&D, developing new as the recruitment of more engineers to We have grown our US dollar revenues at an average technologies and new products and services, which Over the medium term, ARM expects to grow of 20% over the past five years, including 16% in 2014. will help drive revenue growth for years to come.
+develop the next generation of technology.
+revenues faster than costs, whilst continuing to Sterling revenues grew more slowly in 2014 as the As our customers include the worlds largest invest in R&D, and so continue to grow profits, value of sterling strengthened compared with the semiconductor companies, their regular royalty US dollar.
+earnings per share and cash returns.
+payments have become a reliable cash ow.
+Given our broad base of Partners and end markets, ARM is not overly reliant on any one Normalised earnings IFRS earnings Dividend per share company or consumer product for its future per share per share 20102014 CAGR profits and cash.
+20102014 CAGR 20102014 CAGR 27% 30% 25 % ARM balances investment in the business with Over the past five years the cash returned to shareholders via the dividend has increased at growing profits.
+In 2014, ARM also initiated a limited buyback programme to offset any dilution from employee remuneration and bought back 7.9 million shares.

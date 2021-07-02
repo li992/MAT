@@ -1,0 +1,121 @@
+Risk management Market risk management Barclays banking book operations generate non-traded market risk, Market risk management overview audited primarily through interest rate risk arising from the sensitivity of net Market risk is the risk of the Groups earnings or capital being reduced interest margin to changes in interest rates.
+Banking businesses, such due to: as RBB or Corporate Banking, engage in internal derivative trades with Treasury to remove this interest rate risk.
+The businesses remain The Group being impacted by changes in the level or volatility of susceptible to market risk from three key sources: positions in its trading books.
+This includes changes in the interest rates, credit spreads, commodity prices, equity prices and foreign Prepayment risk: balance run-off may be faster or slower than exchange levels traded market risk.
+expected due to economic conditions or customers response to interest rates.
+This can lead to a mismatch between the anticipated The Group being unable to hedge its banking book balance sheet at balance of products provided to customers and the hedges executed prevailing market levels non-traded market risk.
+with Treasury: The Groups defined benefit obligations increasing or the value of the Recruitment risk: the volume of new business may be lower or higher assets backing these defined benefit obligations decreasing due to than expected requiring the business to unwind or execute hedging changes in both the level and volatility of prices pension risk.
+transactions with Treasury at different rates than expected: and Group-wide view of market risk Residual risk and margin compression: the business may retain a Barclays defines three sources of market risk: traded market risk, small element of interest rate risk to facilitate the day-to-day non-traded risk and pension risk.
+Traded risk in the businesses resides management of customer business.
+Additionally, in the current low primarily in Investment Bank including investment banking services at rate environment, Barclays managed rate deposits are exposed to Absa Capital, while non-traded market risk resides mainly in Retail and margin compression.
+This is because for any further fall in base rate Business Banking, Corporate Banking, Wealth and Investment Barclays must absorb an increasing amount of the rate move in its Management and Treasury.
+Pensions risk is monitored centrally with margin.
+the cost borne across businesses.
+Treasury acts as a central internal clearing house for non-behavioural Barclays market risk objectives are to: interest rate risk, netting off positions between businesses where possible.
+Treasury is subject to market risk limits which ensure the understand and control market risk by robust measurement, limit majority of the interest rate risk in Treasury is passed to the Investment setting, reporting and oversight: Bank.
+Treasury is permitted to retain limited interest rate risks to facilitate business growth within a controlled and transparent risk facilitate the day-to-day management of hedges with the banking management framework: businesses.
+ensure that traded market risk in the businesses resides primarily in Investment Bank manages the interest rate risk it receives from Investment Bank including Absa Capital: and Treasury as part of its day-to-day rates trading operations consistent minimise non-traded market risk.
+The positions will contribute both to market risk limits and regulatory capital requirements to the extent they are retained by the Investment Bank.
+Investment Bank manages the risk arising from these internal trades within the VaR, stress and position limits set by Risk in the same manner as external, client-facing transactions are managed.
+The Management Daily Value at Risk see traded market risk metrics disclosed in this annual report relate to the trading books in Investment Bank and Absa, and some banking books in Investment Bank.
+Interest rate risk in the banking book is typically measured through net interest margin measures such as annual earnings at risk, which is disclosed below.
+332 I Barclays PLC Annual Report 2012 barclays.
+com annualreport The strategic report Governance Risk review Financial review Financial statements Risk management Shareholder information Organisation and structure Traded market risk The Board Risk Committee reviews and approves market risk appetite Traded market risk arises primarily as a result of client facilitation in for the group.
+The Group Market Risk Director is responsible for wholesale markets.
+This involves market making, risk management the Barclays Market Risk Control Framework and, under delegated solutions and execution of syndications.
+Mismatches between client authority from the Chief Risk Officer, sets a limit framework within transactions and hedges result in market risk due to changes in asset the context of the approved market risk appetite.
+At Investment Bank and Absa, trading risk is measured for summarise Barclays market risk exposures against agreed limits and the trading book, as defined for regulatory purposes, and certain are distributed to the principal risk owners.
+The Market Risk Committee approves and makes recommendations Trading book positions in the Investment Bank and Absa generate concerning the market risk profile across Barclays Group.
+This includes market risk capital requirements, in line with the regulatory approving the Barclays Market Risk Control Framework and Group requirements set out in the Capital Requirements Directive CRD III Market Risk Policies: reviewing issues, limits and utilisation: and and the FSAs Prudential Sourcebook for Banks, Building Societies and proposing risk appetite levels to the Board.
+The Committee is chaired Investment Firms BIPRU.
+Positions which cannot be included in the by the Group Market Risk Director and attendees include the Chief Risk trading book are included within the banking book and generate risk Officer, respective business aligned risk managers and senior managers capital requirements in line with this treatment.
+from Group Market Risk as well as Internal Audit.
+Barclays maintains a Trading Book Policy Statement TBPS which The head of each business is accountable for all market risks associated defines the minimum requirements a business must meet to run trading with its activities.
+The head of the market risk team covering each positions and the process by which positions are allocated to trading business is responsible for implementing the risk control framework or banking books.
+Trading intent is a key element in deciding whether for market risk.
+The control frameworks for traded, non-traded and a position should be treated as a trading or banking book exposure.
+pensions risk are all governed by the Market Risk Control Framework, which sets out how market risk should be identified, measured, Currently all trading books must be managed by either Investment controlled, reported and reviewed.
+The Framework also outlines Bank or separately by Absa Capital.
+Businesses with trading books are and references Group Market Risk policies.
+required to document their implementation of trading book standards which define how the Barclays-wide TBPS requirements will be Market risk oversight and challenge is provided by business committees, implemented.
+The requirements also consider some of the points Group committees including the Market Risk Committee and Group Market raised by the Fundamental Review of the Trading Book consultation Risk.
+The chart above gives an overview of the business control structure.
+In particular, businesses are expected to evidence trading intent, e. g. by setting and enforcing risk and position limits and defining the consequences of breaching these limits.
+Overview of the business market risk control structure Group Market Risk Director Risk type Traded Non-traded Pension Interest rate risk Interest rate risk Discount rate risk Spread risk Foreign exchange risk Inflation risk Currency risk Asset management risk Asset value risk Equity risk Commodity risk Inflation risk Traded credit risk Basis risk... managed by Investment Retail and Corporate Wealth and Absa Treasury Pension Fund Bank Business Banking Banking Investment Trustees and Management Barclays central functions with oversight and challenge provided by Market Risk Committee and Traded products Asset and Liability Committees Absa Market Risk Committee Pension risk review New product sign-off process Treasury Committee management Investment Conformance reviews Treasury Hedge Committee group Committee Pension Executive Board barclays.
+com annualreport Barclays PLC Annual Report 2012 I 333 Risk management Market risk management continued Risk measurement Facilitation of Client and Barclays Group Business Banking Book Regulatory Trading book Regulatory Standardised Underlying exposure on balance sheet Management DVaR Portfolio level risk metrics and controls Global Stress Scenarios Regular review of measurement methodology Asset Class Primary & Secondary Stresses Asset Class DVaR Specific business and asset class level metrics and controls Position limits Regular Reporting to Risk owners and Committees Positions in the trading book are subject to market risk capital.
+Market The DVaR model is regularly assessed and reviewed internally by Group risk capital is computed using internal models VaR, SVaR, IRC, APR Executive Models Committee and within the Investment Bank.
+where the position is amenable to market risk modelling and is model approved by the FSA for capital.
+Otherwise the market risk capital When reviewing DVaR estimates the following considerations should requirement is calculated using standard rules as defined by the FSA be taken into account: in BIPRU.
+If any of the criteria specified in the TBPS are not met for Historical simulation uses the most recent two years of past data to a position, then that position must be allocated to the banking book.
+generate possible future market moves, but the past may not be a good indicator of the future: Risk measurement Barclays uses a range of complementary technical approaches to The one day time horizon does not fully capture the market risk of measure and control traded market risk including: Daily Value at Risk positions that cannot be closed out or hedged within one day: DVaR, Expected Shortfall, primary and secondary stress testing and DVaR is based on positions as at close of business and consequently combined scenario stress testing.
+The risk management process also intra-day risk, the risk from a position bought and sold on the same involves a trade approval process and additional control mechanisms day, is not captured: and where necessary such as position limits.
+DVaR does not indicate the potential loss beyond the DVaR Daily Value at Risk DVaR is an estimate of the potential loss arising confidence level.
+from unfavourable market movements, if the current positions were to be held unchanged for one business day.
+For internal market risk These drawbacks are common to Value at Risk models.
+In order to management purposes, the Investment Bank uses a historical partly mitigate these issues, Barclays also calculates Expected Shortfall simulation methodology with a two-year equally weighted historical based on the same two year historical simulation data set as used to period, at the 95% confidence level for all trading portfolios and certain calculate DVaR.
+Expected Shortfall is the average of all one day banking books.
+hypothetical losses beyond the 95% confidence level DVaR.
+The table on page 335 demonstrates the risk types generated by Stress testing provides an estimate of potential significant future losses different Investment Bank businesses.
+The table shows the level of that might arise from extreme market moves or scenarios.
+Primary DVaR type contribution to the total undiversified Management DVaR stress tests apply stress moves to key liquid risk factors for each of the for each of the separate business units.
+major trading asset classes, namely: Interest rates shock to the level and structure of interest rates and As defined by the FSA, a green model is consistent with a good inflation across currencies: working DVaR model and is achieved for models that have four or fewer back-testing exceptions in a 12-month period.
+Back-testing Credit impact on traded corporate credit exposures, including counts the number of days when a loss as defined by the FSA across rating grades, geography, sectors and products: exceeds the corresponding DVaR estimate, measured at the 99% confidence level.
+For the Investment Banks DVaR model, green model status was maintained for 2012.
+334 I Barclays PLC Annual Report 2012 barclays.
+com annualreport The strategic report Governance Risk review Financial review Financial statements Risk management Shareholder information Concentration of market risk by business unit and risk type IR Spread FX Equity Commodity In ation Credit Basis Foreign exchange Commodities Prime services Emerging markets FI Rates Syndicate Absa Capital FI credit Securitised products Municipals FICC total Equities total Treasury total Counterparty risk trading Other credit Primary contribution Signi cant contribution Limited or nil contribution Foreign exchange impact of unfavourable moves in currency prices Trading Book Regulatory Capital Models and volatility: In 2011, the Investment Bank implemented new regulatory risk models to comply with the CRD III revisions to the market risk capital Equity shocks to share prices including exposures to specific requirement.
+These were Stressed VaR SVaR, Incremental Risk Charge markets and sectors: IRC and the All Price Risk APR.
+All three models were approved by Emerging Markets stresses across specific countries including the FSA for calculation of regulatory capital for designated trading corporate and sovereign credit, interest rates and currency shocks: book portfolios.
+The SVaR approval matches the scope of the DVaR model as used for regulatory capital calculations.
+Commodities adverse commodity price changes across both physical and derivative markets: and SVaR is an estimate of the potential loss arising from a 12 month Securitised Products stresses to securitised structures and hedges.
+period of significant financial stress.
+SVaR uses the DVaR methodology based on inputs calibrated to historical data from a continuous 12 month period that maximises the DVaR based capital at a 99% Secondary stress tests apply stress moves to less liquid risks, e. g. equity volatility skew.
+Secondary stresses are aggregated by the same set of one-tailed confidence limit.
+asset classes shown above and assuming a severe flight to quality scenario.
+The asset class stress scenarios are frequently calibrated to IRC is computed on all fixed income positions subject to specific previously observed market shocks.
+market risk excluding the correlation trading portfolio.
+It calculates the incremental risk arising from rating migrations and defaults, Combined scenarios apply simultaneous shocks to several risk factors, beyond what is already captured in specific market risk DVaR, to a 99.9% confidence level over a one year holding period.
+reflecting extraordinary, but plausible macro scenarios.
+This is assessed by applying respective changes in foreign exchange rates, interest rates, credit spreads, commodities and equities to the portfolio.
+E. g. impact of APR covers the correlation trading portfolio and is intended to capture a rapid and extreme slowdown in the global economy.
+all risk factors relevant to corporate nth-to-default and tranched credit derivatives.
+As for IRC, the capital requirement is based on a 99.9% confidence interval over a one year holding period.
+The annual Group-wide stress testing exercise aims to simulate the dynamics of exposures across Barclays Group and cover all risk factors.
+The exercise is also designed to measure the impact to Barclays When reviewing estimates produced by the CRD III models the fundamental business plan, and is used to manage the wider groups following considerations should be taken into account: strategy.
+SVaR uses the same methodology as the DVaR model and hence is subject to the same considerations as this model.
+In addition, SVaR is Where necessary, market risk managers also apply specific position calibrated to a specific 12 month historical stress period which may limits, e. g. on currency open positions, in order to limit certain activities not reflect a stress period that could arise in the future: and for monitoring exposure.
+The Investment Bank also applies a trade In common with DVaR, neither IRC nor APR indicate the potential approval process designed to assess the impact of potential new transactions on the firms risk profile.
+loss beyond the specified confidence level, and they do not measure risk from trades which are bought and sold in between weekly runs: and Both IRC and APR are computed to a 1-in-1,000 year confidence level which cannot be backtested on a similar historical basis as with other regulator models.
+com annualreport Barclays PLC Annual Report 2012 I 335 Risk management Market risk management continued Risk control The main model assumptions are: Market risk is controlled through the use of an appropriate limit The balance sheet is kept at the current level i. e. no growth is framework.
+Limits are set at the total Investment Bank portfolio level, assumed: and risk factor level e. g. interest rate risk and business line level e. g. Emerging Markets.
+Stress limits and many book limits, such as foreign Balances are adjusted for an assumed behavioural profile.
+This exchange and interest rate sensitivity limits, are also used to control includes the treatment of fixed rate loans including mortgages.
+Economic Value of Equity EVE calculates the change in the present The total DVaR, risk factor DVaR, primary and secondary stress limits value of the banking book for a parallel upward and downward rate are approved by Board Risk Committee BRC.
+The more granular limit shock.
+This calculation is a present value sensitivity while AEaR is an framework is set by risk managers to comply with the overall risk income sensitivity.
+appetite and anticipated business opportunities.
+Compliance with limits is monitored by the independent Risk department in the Economic Capital EC consistent models are used to measure: Investment Bank with oversight provided by Group Market Risk.
+recruitment risk, the risk from customers not taking up their fixed rate loan offer: and prepayment risk, the risk of a customer deciding not to Throughout 2012, Group Market Risk continued its ongoing carry on with their fixed rate loan.
+Behavioural profiles are also used programme of conformance tests on the Investment Banks market risk when modelling the balance sheet.
+These visits review the current market risk profile and potential market risk developments, as well as verifying A combination of DVaR, stress limits, net open position and specific conformance with Barclays Market Risk Control Framework.
+currency or tenor limits are in place for all local Treasury activities.
+Risk reporting Risk control Barclays Investment Banks market risk managers produce a number of Non-traded market risk is controlled through the use of limits on the detailed and summary market risk reports daily, weekly, fortnightly and above risk measures.
+Limits are set at the total business level and then monthly for business and risk managers.
+These are also sent to Group cascaded down.
+The total business level limits for AEaR, EVE, EC, DVaR Market Risk for review, a risk summary is presented at the Market Risk and stress are agreed by the Group Market Risk Committee.
+Committee and the Investment Banks Traded Positions Risk Review.
+Compliance with limits is monitored by the respective business market risk team with oversight provided by Group Market Risk.
+Non-traded interest rate risk The interest rate risk for balances with no defined maturity date and an Non-traded interest rate risk arises from the provision of retail and interest rate that is not linked to the base rate is managed by Group wholesale non-traded banking products and services, when the Treasury.
+A series of continuous rolling hedges are used to mitigate the interest rate repricing date for loans assets is different to the repricing interest rate risk in the banking book.
+This includes current accounts and equity balances which do not have a defined maturity date and an interest Risk reporting rate that does not change in line with Base rate changes.
+The risk Each business area is responsible for their respective market risk resides mainly in Retail and Business Banking, Corporate Banking and reports.
+A combination of daily and monthly risk reports are produced Group Treasury.
+Barclays objective is to minimise non-traded interest and used by the business.
+These are also sent to Group Market Risk for rate risk and this is achieved by transferring interest rate risk from the review and inclusion in the Group Daily Market Risk Report.
+A risk business to a local or Group Treasury, which in turn hedges the net summary is also presented at Market Risk Committee and respective exposure via Investment Bank with the external market.
+Limits exist to Asset and Liability Committees.
+ensure no material risk is retained within any business or product area.
+Trading activity is not permitted outside Investment Bank.
+Risk measurement The risk in each business is measured and controlled using both an income metric Annual Earnings at Risk and value metrics Economic Value of Equity, Economic Capital, DVaR, risk factor stress testing, scenario stress testing.
+Annual Earnings at Risk AEaR measures the sensitivity of net interest income over the next 12-month period.
+It is calculated as the difference between the estimated income using the current yield curve and the lowest estimated income following a parallel increase or decrease in interest rates, subject to a minimum interest rate of 0%.
+336 I Barclays PLC Annual Report 2012 barclays.

@@ -1,0 +1,79 @@
+Business review Business group development and performance Communications Underlying change at First Second Full constant half half year Change currency million 2008 2008 2008 2007 % % Revenue Performance Analysis 88.1 103.1 191.2 169.3 13 5 Service Assurance 15.8 17.7 33.5 34.3 2 9 Communications group 103.9 120.8 224.7 203.6 10 3 1 Adjusted operating profit Performance Analysis 18.2 24.8 43.0 22.3 93 83 Service Assurance 2.3 2.3 4.6 3.3 39 30 Communications group 20.5 27.1 47.6 25.6 86 76 1 Return on sales % Performance Analysis 20.7 24.1 22.5 13.2 Service Assurance 14.6 13.0 13.7 9.6 Communications group 19.7 22.4 21.2 12.6 Note 1 Before exceptional items in 2007. services and expertise to assist in automation projects, Performance Analysis all of which are important sources of revenue for Spirent.
+Market conditions The market saw growth in the first half year in all major Mobile communication now demands a higher level of areas, while the second half was characterised by performance testing, which is not satisfied by existing cautious spending, highlighted by reduced demand in conformance test standards and equipment.
+Emulation the fourth quarter of 2008.
+The current economic climate of real-world wireless testing in the laboratory has is forcing network equipment manufacturers and service become a fundamental requirement as field testing is providers to reprioritise the way they do business and expensive and inconsistent.
+Demand is also increasing has increased their focus on driving efficiency and for smartphone testing, where greater numbers of operating even more cost-effectively.
+At the same time, integrated applications on a mobile device require a they understand the need to invest in technologies higher degree of testing.
+Open mobile device operating and solutions that will allow them to compete in systems are leading to the proliferation of applications to global markets.
+take advantage of higher speed data and location based services.
+Further growth will come from streaming and The demand for next-generation networks and services broadcast video, as content becomes more attractive to continues.
+The pervasive nature of the internet on users.
+Spirent delivers industry leading wireless test multiple devices: computers, mobile equipment, TV and solutions to meet the ever evolving needs of wireless others, offering content rich applications, is driving applications and services.
+growth in traffic, demand for higher speed access and network complexity.
+For example, Ethernet is evolving to The market for test equipment in the positioning sector meet the demand for increased business connectivity, continues to grow as GPS services evolve and new the migration of storage networks and service provider investments are being made in satellite systems such as core networks which are moving from 10 GbE to 40 100 GLONASS and Galileo.
+GbE in order to handle larger volumes of traffic.
+Revenue Investment in next-generation technologies will continue Performance Analysis revenues grew by 5 per cent in to drive the need for test solutions.
+Furthermore, the constant currencies year-on-year.
+The rate of growth in current economic climate has led network equipment the second half year slowed following the 9 per cent suppliers to focus on increasing efficiency in the use of growth in the first half of 2008. research and development resources which drives the demand for more automated solutions, professional Spirent Communications plc 6 Annual Report 2008 Business review Profitability Performance Analysis continued Demand in the second half was softer in all areas of the Performance Analysis profits grew in constant currency business.
+New broadband products, including Spirent for the year by 83 per cent over 2007 and the second TM TestCenter, grew over the levels for the first half year half year grew by 24 per cent over the same period.
+but order intake slowed towards the end of the year.
+Profitable growth in sales contributed to the improved Wireless test solutions saw a peak in demand during the returns, whilst improvement in design of our products first half year and similarly demand softened towards the and the supply chain increased gross profit margin by 1.9 end of the year.
+Legacy products continued to decrease percentage points year-on-year.
+Indirect overheads were year-on-year, but the level of revenue decline flattened in reduced in constant currency by 9.5 million, or some the second half year.
+Spirent continues to command technology leadership Product development Anticipating the needs of customers and bringing across its broadband solutions, winning head-to-head competitive opportunities based on technical comparisons products to market at the right time is a key contributor against competitive products and solutions.
+Customers to Spirents success, as we continue to command the choose Spirent TestCenter for its performance, scalability, number one or two position in most markets we serve.
+and ability to replicate real-world conditions across a wide array of testing environments.
+Combined these In 2008, Spirent launched multiple new solutions to characteristics maximise return on investment and reduce support a variety of customer needs.
+New broadband total cost of ownership for our customers.
+application and security testing solutions were introduced along with 10 gigabit Ethernet application Professional services are an increasingly important part performance appliances.
+We delivered next-generation of the business.
+The number of maintenance agreements solutions to support integrated Layer 27 testing at line and their renewals has increased, reflecting the value rate performance.
+For mobile packet core performance these services bring to our customers.
+Laboratory testing, we evolved our Landslide solutions to support automation has stimulated demand for professional next-generation wireless standards such as LTE and services.
+The industrys first automation forum, the Test WiMax.
+Our Spirent TestCenter platform is now capable Automation Alliance, was launched by Spirent working of handling the needs of the latest data centre with best-in-class providers of automation solutions.
+technology such as Fibre Channel over Ethernet as well as evolving Metro Ethernet Standards.
+Our focus in Revenues for Spirents Wireless UMTS test solutions 2009, is to continue to enhance our Ethernet solutions increased during the year including significant wins with portfolio meeting the requirement for testing higher Tier 1 carriers in the US and network equipment speeds such as 10 40 100 GbE.
+From a software manufacturers worldwide for both mobile device perspective, we will enhance our capabilities to offer performance test systems and RF channel emulators.
+more testing and technology coverage under our flagship Revenues for CDMA EV-DO Rev A reached record levels product, Spirent TestCenter.
+and new customers adopted our solutions for LTE infrastructure testing in Europe and Asia.
+Wireless Spirent offers unique solutions that allow makers of solutions now account for 36 per cent of Performance wireless equipment as well as operators of wireless Analysis revenues 2007 32 per cent.
+In 2008, Spirent launched Over-The-Air test solutions for location based services Market adoption of location based solutions continue to testing devices through the antenna for both UMTS and drive revenue for our positioning products as these CDMA technologies.
+Call reliability testing was a market services are integrated into a wide range of devices such first in the measurement of the reliability of a device to as smartphones.
+The adoption of location based complete and maintain a call under various adverse services has opened up a new market for our positioning conditions including handover from one cell to another.
+test solutions which served 172 new customers in 2008.
+We continue our leadership in CDMA testing by increasing protocol test coverage and the release of an The divisions revenues are broad based by customer EV-DO Rev A protocol test solution.
+With the release of type and geography, with a low level of customer the Video User Experience test solution we have concentration.
+No single customer accounts for more assumed a leadership position in measuring the quality than 10 per cent of revenues and the top 20 customers of experience in viewing video on a handset.
+Complex account for 43 per cent of the total.
+Spirent Communications plc Annual Report 2008 7 Business review Business group development and performance continued for these solutions will reach levels to cover the decline Performance Analysis continued in legacy solution spend until some time in 2010. antenna configurations required for LTE are tested using the advanced Multiple Input Multiple Output channels Professional services revenues for test automation and models on the SR5500 platform, released in 2008. custom software remained an area of growth as service 2009 will see the need for LTE device performance test providers looked to increase the effectiveness of their and the multimode combination of LTE and CDMA.
+We existing service assurance solutions.
+also expect further development in smartphones and 3G wireless deployments, particularly in China, combined Profitability with the need to evaluate mobile performance in realWhile the Service Assurance business saw a decline world conditions.
+We continue to deliver testing solutions in revenue in 2008, the business was able to improve that address all emerging wireless technologies.
+profitability by 30 per cent in constant currency driven by increased efficiency and continued tight cost control Undoubtedly the investment priorities in measures across the business.
+telecommunications will be reset during 2009.
+As a result of the increased efficiency, low cost production Product development and investment in innovation, our Performance Analysis The division continues to focus on the development division is better positioned than most in our industry to of service assurance and field test solutions for respond to the challenges ahead.
+The longer term next-generation networks.
+In November 2008, we prospects resulting from the convergence of wired and launched a new modular field test platform, Tech-X Flex, wireless technologies in a world of increased connectivity to the market for in-home Triple Play testing.
+We are in with greater functionality remain good for test and the process of adding additional modules in the first half measurement products, solutions and services.
+of 2009 to extend test capabilities to outside the home and to address opportunities in the European market.
+We Service Assurance are in trial with several major service providers in North Market conditions America and will look to begin shipping in quantity during Market conditions remained challenging throughout 2008 the first half of 2009.
+In addition, we continue to for the Service Assurance division.
+However, there were enhance our next-generation diagnostic and performance signs that the adoption of next-generation network management Ethernet solutions.
+architectures has grown to a scale where service assurance solutions are required.
+Specifically, we saw Systems increased demand for Metro Ethernet and Triple Play Underlying solutions for both centralised test and field test change at solutions.
+This included important wins in 2008 at constant several large service providers in North America.
+Change currency million 2008 2007 % % Overall we see the service assurance market remaining Revenue 33.2 33.4 1 3 sluggish during 2009 due to the economic climate and Operating profit 4.3 3.8 13 9 continued caution around capital spending.
+However, we Return on sales % 13.0 11.4 believe that increased global competition and the transition to next-generation networks provides additional The Systems group comprises PG Drives Technology, market opportunities for the Service Assurance division a leading supplier of control systems for electrically within cable multiple system operators, wireline and powered medical and small industrial vehicles.
+continued to be affected by changes in US government healthcare funding for powered wheelchairs, creating a Revenue shift from premium systems to lower cost solutions.
+Service Assurance revenues declined by 9 per cent in This was, however, offset by solid growth in our industrial constant currency year-on-year as service providers systems.
+The US dollar exchange rate did not materially continued to reduce spend on legacy and DSL solutions.
+impact revenue, but profit was impacted by a loss on We received further orders for our Triple Play monitoring exchange of 0.4 million.
+The weaker exchange rate solutions.
+While we have seen increased demand for for sterling to US dollars will benefit earnings in 2009 next-generation solutions, we do not anticipate spending compared to 2008 by 1.0 million on hedge contracts Spirent Communications plc 8 Annual Report 2008 Business review Systems continued in place at the year end.
+We continued to place more production into China to support our activities in the Asia Pacific Region and in order to gain product and logistical cost benefits.
+During 2008 we introduced new products for scooters and wheelchairs to further strengthen our position in the medical mobility market.
+Good progress was made in opening new industrial market segments, such as fork-lift trucks.
+Non-segmental costs Non-segmental costs before exceptional items reduced by 0.7 million to 3.2 million in 2008.
+These cost reductions were principally a result of the consolidation of reporting activities and other functions in the business units, enabling a reduction in staff levels.
+Spirent Communications plc Annual Report 2008 9

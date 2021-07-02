@@ -1,0 +1,35 @@
+Glossary_NNP of_IN terms_NNS Property_NN Assured_VBN periodic_JJ tenancy_NN APT_NNP Market_NNP rented_VBD tenancy_NN arising_VBG from_IN succession_NN from_IN regulated_VBN ._.
+Tenant_NN has_VBZ security_NN of_IN tenure_NN ._.
+Assured_VBN shorthold_NN tenancy_NN AST_NNP Market_NNP rented_VBD tenancy_NN where_WRB landlord_NN may_MD obtain_VB possession_NN if_IN appropriate_JJ notice_NN served_VBD ._.
+Assured_VBN tenancy_NN AT_NNP Market_NNP rented_VBD tenancy_NN where_WRB tenant_NN has_VBZ right_RB to_TO renew_VB ._.
+Investment_NN value_NN IV_NNP Open_NNP market_NN value_NN of_IN a_DT property_NN subject_NN to_TO relevant_JJ tenancies_NNS in_IN place_NN ._.
+Life_NNP tenancy_NN Rent_NNP free_JJ tenancy_NN where_WRB tenant_NN has_VBZ right_NN of_IN occupation_NN until_IN possession_NN is_VBZ forfeited_VBN usually_RB on_IN death_NN ._.
+If_IN tenant_NN retains_VBZ an_DT equity_NN interest_NN in_IN the_DT property_NN this_DT is_VBZ a_DT partial_JJ life_NN tenancy_NN ._.
+Regulated_VBN tenancy_NN Tenancy_NNP regulated_VBN under_IN 1977_CD Rent_NNP Act_NNP ,_, rent_NN usually_RB sub_JJ market_NN set_VBN by_IN rent_NN officer_NN and_CC tenant_NN has_VBZ security_NN of_IN tenure_NN ._.
+Tenanted_NNP Residential_NNP TR_NNP Activity_NNP covering_VBG the_DT acquisition_NN ,_, renting_VBG out_RP and_CC subsequent_JJ sale_NN usually_RB on_IN vacancy_NN of_IN residential_JJ units_NNS subject_JJ to_TO a_DT tenancy_NN agreement_NN ._.
+Vacant_JJ possession_NN value_NN VP_NNP Open_NNP market_NN value_NN of_IN a_DT property_NN free_JJ from_IN any_DT tenancies_NNS ._.
+Financial_NNP Cap_NNP Financial_NNP instrument_NN which_WDT ,_, in_IN return_NN for_IN a_DT fee_NN ,_, guarantees_VBZ an_DT upper_JJ limit_NN for_IN the_DT interest_NN rate_NN on_IN a_DT loan_NN ._.
+Contingent_JJ tax_NN The_DT amount_NN of_IN tax_NN that_WDT would_MD be_VB payable_JJ should_MD assets_NNS be_VB sold_VBN at_IN the_DT market_NN value_NN shown_VBN in_IN the_DT accounts_NNS ._.
+Dividend_NN cover_NN Earnings_NNS per_IN share_NN divided_VBN by_IN dividends_NNS per_IN share_NN ._.
+Earnings_NNS per_IN share_NN EPS_NNP Profit_NNP attributable_JJ to_TO shareholders_NNS divided_VBN by_IN the_DT weighted_JJ average_JJ number_NN of_IN shares_NNS in_IN issue_NN in_IN the_DT year_NN ._.
+FRS13_CD Accounting_NNP standard_JJ requiring_VBG the_DT disclosure_NN of_IN the_DT market_NN value_NN of_IN long-term_JJ debt_NN and_CC financial_JJ instruments_NNS ._.
+FRS19_CD Accounting_NNP standard_JJ prohibiting_VBG the_DT provision_NN of_IN deferred_JJ tax_NN on_IN stock_NN revaluation_NN surpluses_NNS when_WRB companies_NNS are_VBP acquired_VBN ._.
+Gearing_VBG The_DT ratio_NN of_IN borrowings_NNS net_NN of_IN cash_NN to_TO net_JJ asset_NN value_NN ._.
+Hedging_VBG The_DT use_NN of_IN financial_JJ instruments_NNS to_TO protect_VB against_IN interest_NN rate_NN movements_NNS ._.
+Interest_NN cover_NN Profit_NN on_IN ordinary_JJ activities_NNS before_IN interest_NN and_CC tax_NN divided_VBN by_IN net_JJ interest_NN payable_JJ ._.
+Negative_JJ goodwill_NN On_IN acquisition_NN of_IN a_DT company_NN ,_, the_DT surplus_NN of_IN the_DT value_NN of_IN the_DT statutory_JJ net_JJ assets_NNS acquired_VBN over_IN the_DT purchase_NN price_NN paid_VBN ._.
+Net_JJ asset_NN value_NN NAV_NNP Shareholders_NNP funds_NNS adjusted_VBN for_IN the_DT market_NN value_NN of_IN property_NN assets_NNS held_VBD as_IN stock_NN ._.
+Net_JJ net_JJ asset_NN value_NN triple_JJ net_NN or_CC NNNAV_NNP NAV_NNP adjusted_VBN for_IN contingent_JJ tax_NN liabilities_NNS which_WDT would_MD accrue_VB if_IN assets_NNS sold_VBN at_IN market_NN value_NN and_CC for_IN the_DT market_NN value_NN of_IN long-term_JJ debt_NN and_CC derivatives_NNS ._.
+Swap_NN Financial_NNP instrument_NN to_TO protect_VB against_IN interest_NN rate_NN movements_NNS ._.
+Total_JJ Shareholder_NN Return_NN TSR_NNP Return_NN attributable_JJ to_TO shareholders_NNS on_IN basis_NN of_IN share_NN price_NN growth_NN with_IN dividends_NNS reinvested_VBN ._.
+Weighted_JJ average_JJ cost_NN of_IN capital_NN WACC_NNP The_NNP weighted_JJ average_JJ cost_NN of_IN funding_VBG the_DT groups_NNS activities_NNS through_IN a_DT combination_NN of_IN shareholders_NNS funds_NNS and_CC debt_NN ._.
+Corporate_JJ BPT_NNP plc_NN Formerly_RB Bradford_NNP Property_NNP Trust_NNP plc._NN ._.
+Major_JJ residential_JJ investor_NN acquired_VBN by_IN Bromley_NNP in_IN May_NNP 2001_CD ._.
+Bromley_NNP Joint_NNP Venture_NNP Bromley_NNP JV_NNP The_NNP Joint_NNP Venture_NNP between_IN Grainger_NNP and_CC Deutsche_NNP Bank_NNP which_WDT acquired_VBD BPT_NNP plc._NN ._.
+Bromley_NNP Property_NNP Holdings_NNP Limited_NNP Bromley_NNP Holding_NNP company_NN of_IN the_DT vehicle_NN used_VBN to_TO acquire_VB BPT_NNP plc._NN ._.
+Deutsche_NNP Bank_NNP DB_NNP Joint_NNP venture_NN partners_NNS in_IN acquisition_NN of_IN BPT_NNP plc._NN ._.
+64_CD Grainger_NNP Trust_NNP plc_NN Glossary_NNP of_IN terms_NNS Corporate_JJ addresses_NNS Newcastle_NNP office_NN Harborne_NNP office_NN Epsom_NNP office_NN Citygate_NNP The_NNP Circle_NNP Kings_NNPS Lodge_NNP St_NNP James_NNP Boulevard_NNP Harborne_NNP 28_CD Church_NNP Street_NNP Newcastle_NNP upon_IN Tyne_NNP Birmingham_NNP Epsom_NNP NE1_NNP 4JE_NNP B17_NNP 9DY_NNP Surrey_NNP KT17_NNP 4QB_NNP London_NNP office_NN Martlesham_NNP office_NN 203_CD Brompton_NNP Road_NNP 42a_CD Barrach_NNP Square_NNP Altrincham_NNP office_NN London_NNP Martlesham_NNP Heath_NNP St_NNP Johns_NNP House_NNP SW3_NNP 1LA_NNP Ipswich_NNP Barrington_NNP Road_NNP Suffolk_NNP Altrincham_NNP IP5_NNP 3RF_NNP Cheshire_NNP WA14_NNP 1TJ_NNP Printed_NNP on_IN Zanders_NNP Mega_JJ Matt_NNP a_DT paper_NN that_WDT is_VBZ manufactured_VBN using_VBG 50_CD %_NN recycled_JJ fide-inked_JJ fiber_NN and_CC 50_CD %_NN TCF_NNP totally_RB chlorine_NN free_JJ pulp_NN ,_, and_CC is_VBZ sourced_VBN from_IN sustainable_JJ forests_NNS ._.
+The_DT paper_NN is_VBZ also_RB biodegradable_JJ and_CC harmless_JJ to_TO the_DT environment_NN ._.
+Designed_NNP &_CC produced_VBN by_IN Carnegie_NNP Orr_NNP T_NNP 44_CD 0_CD 20 7610 6140_CD www_NN ._.
+com_NN Grainger_NNP Trust_NNP plc_NN Newcastle_NNP office_NN :_: Citygate_VB St_NNP James_NNP Boulevard_NNP Newcastle_NNP upon_IN Tyne_NNP NE1_NNP 4JE_NNP Website_NNP Email_NNP www_NN ._.
+co._FW uk_FW @_SYM London_NNP office_NN :_: Company_NN Registration_NNP No._NN ._.

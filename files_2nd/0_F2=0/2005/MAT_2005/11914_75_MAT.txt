@@ -1,0 +1,32 @@
+Information_NOMZ
+for_PIN
+2003_CD
+onwards_NN
+is_VPRT [PASS]
+presented_VBN
+under_IN
+IFRS_NN
+._.
+See_VB [PRIV]
+note_NN
+34_CD
+for_PIN
+details_NN
+of_PIN
+the_DT
+adjustments_NOMZ
+made_VBN [WZPAST]
+in_PIN
+transitioning_VBG
+from_PIN
+UK_NN
+GAAP_NN
+to_PIN
+IFRS_NN
+._.
+PEARSON_NN
+GOVERNANCE_NN
+AND_PHC
+FINANCIAL_NN
+STATEMENTS_NOMZ
+2005_CD

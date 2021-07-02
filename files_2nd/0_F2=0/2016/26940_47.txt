@@ -1,0 +1,184 @@
+ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC NOTES TO THE FINANCIAL STATEMENTS 1.
+Accounting policies 1.1 General information Metro Bank PLC the Company together with its subsidiaries the Group provides retail and corporate banking services in the UK and is a public limited liability company incorporated and domiciled in England and Wales under the Companies Act 2006 Registration number 6419578.
+The address of the registered office is One Southampton Row, London WC1B 5HA.
+Metro Bank was admitted to the premium listing segment of the Official List and to trading on the Main Market of the London Stock exchange on 10 March 2016.
+1.2 Basis of preparation The Groups consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS as adopted by the EU, IFRIC Interpretations and the Companies Act 2006 applicable to companies reporting under IFRS.
+The financial statements are prepared on a going concern basis, as the Directors are satisfied that the Group and the Company have the resources to continue in business for the foreseeable future.
+In publishing the Parent Company financial statements here together with the Group financial statements, Metro Bank has taken advantage of the exemption in section 408 3 of the Companies Act 2006 not to present its individual income statement and related notes that form a part of these financial statements.
+The principal accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all the years presented.
+1.3 Cash flow statement The consolidated statement of cash flows shows the changes in cash and cash equivalents arising during the year from operating activities, investing activities and financing activities.
+The cash flows from operating activities are determined by using the indirect method.
+Net income is therefore adjusted by non-cash items, such as measurement gains or losses, changes in provisions, impairment of property, plant and equipment and intangible assets, as well as changes from receivables and liabilities.
+In addition, all income and expenses from cash transactions that are attributable to investing or financing activities are eliminated.
+Interest received or paid is classified as operating cash flows.
+The cash flows from investing and financing activities are determined by using the direct method.
+1.4 Changes in accounting policy and disclosures As of the date of authorisation of the financial statements the following standards were in issue but not yet effective and have not been adopted early in these financial statements and are considered by management to have a material impact on the Group: IFRS 9 Financial Instruments, brings together the classification and measurement, impairment and hedge accounting phases of the International Accounting Standards Boards IASB project to replace IAS 39, and is effective for annual periods beginning on or after 1 January 2018.
+The key elements of the standard are as follows: Classification and measurement IFRS 9 applies one classification approach for all types of financial assets.
+Two criteria are used to determine how financial assets should be classified and measured: a the entitys business model i. e. how an entity manages its financial assets in order to generate cash flows by collecting contractual cash flows, selling financial assets or both : and b the contractual cash flow characteristics of the financial asset i. e. whether the contractual cash flows are solely payments of principal and interest.
+Impairment the incurred loss model under IAS 39 is replaced with a new expected loss model.
+Impairment provisions are driven by changes in credit risk of instruments, with a provision for lifetime expected credit losses recognised where the risk of default of an instrument has increased significantly since initial recognition.
+Risk of default and expected credit losses must incorporate forwardlooking and macroeconomic information.
+Expected credit loss models will require more data and assumptions with impairment provisions potentially becoming more volatile.
+Hedge accounting the new requirements align hedge accounting more closely with risk management.
+The revised standard also establishes a more principles-based approach to hedge accounting.
+81 Strategic report Governance Financial statements ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC NOTES TO THE FINANCIAL STATEMENTS CONTINUED 1.
+Accounting policies continued Management is currently working on a formal project to: review the classification and measurement of financial instruments under the requirements of IFRS 9: develop and validate a set of IFRS 9 models for calculating expected credit losses on the Groups loan portfolios: and implement internal governance processes which are appropriate for IFRS 9.
+A detailed timetable has been prepared to ensure that all credit loss models are developed and tested in advance of 1 January 2018, and that systems have been updated to report internally and externally under IFRS 9.
+The project is currently on track.
+The impact on the Groups balance sheet and income statement on adoption of IFRS 9 is being assessed.
+IFRS 16 Leases provides guidance on the classification, recognition and measurement of leases to help provide useful information to the users of financial statements.
+IFRS 16 requires contracts that IAS 17 classifies as operating leases to be brought onto the balance sheet, using the finance lease approach already applied under IAS 17.
+The new standard will replace IAS 17 Leases and is effective for annual periods beginning on or after 1 January 2019 unless adopted early.
+The Group is currently reviewing the impact of IFRS 16.
+IFRS 15 Revenue from Contracts with Customers is not considered to have a material impact on the Group.
+1.5 Segmental reporting IFRS 8 requires operating segments to be identified on the basis of internal reports and components of the Group which are regularly reviewed by the Chief Operating Decision Maker to allocate resources to segments and to assess their performance.
+For this purpose, the Chief Operating Decision Maker of the Group is the Board of Directors.
+The Board considers the results of the Group as a whole when assessing the performance of Group and allocating resources.
+Accordingly, the Group has a single operating segment.
+The Group lends solely within the UK and, as such, no geographical analysis is required.
+Metro Bank is not reliant on any single customer.
+1.6 Consolidation The Group applies the acquisition method to account for business combinations.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+Inter-Company transactions and balances are eliminated upon consolidation.
+When necessary, amounts reported by subsidiaries have been adjusted to conform to the Groups accounting policies.
+These financial statements consolidate the results of the subsidiary companies set out in note 30.
+1.7 Foreign currency translation a Functional and presentation currency Items included in the financial statements are measured using pound Sterling, the currency of the UK, which is the primary economic environment in which the entity operates the functional currency.
+The financial statements are presented in pounds Sterling, which is the Groups presentation currency.
+b Transactions and balances Transactions in a foreign currency are translated into the functional currency using the exchange rates prevailing at the date of the transaction.
+Monetary items denominated in a foreign currency are translated using the closing rate as at the reporting date.
+Non-monetary items measured at historical cost denominated in a foreign currency are translated with the exchange rate as at the date of initial recognition: non-monetary items in a foreign currency that are measured at fair value are translated using the exchange rates at the date when the fair value was determined.
+Foreign currency differences arising on translation are recognised in profit or loss.
+1.8 Sale and repurchase agreements Securities sold subject to repurchase agreements repos are reclassified in the financial statements as pledged assets when the transferee has the right, by contract or custom, to sell or repledge the collateral: the counterparty liability is included in deposits from banks.
+The difference between sale and repurchase price is treated as interest and accrued over the life of the agreements using the effective interest method.
+Securities lent to counterparties are also retained in the financial statements.
+82 ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC 1.
+Accounting policies continued 1.9 Financial assets The Group allocates financial assets to the following IAS 39 categories: loans and receivables: held to maturity financial assets: and available-for-sale financial assets.
+Management determines the classification of its financial instruments at initial recognition.
+a Loans and receivables Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market and that the Group does not intend to sell immediately or in the near term.
+Loans and receivables are initially recognised at fair value which is the cash consideration to originate the loan including any transaction costs and measured subsequently at amortised cost using the effective interest rate method.
+Loans and receivables are reported in the statement of financial position as loans and advances to banks or customers.
+Interest on loans is included in the income statement and is reported as Interest income.
+Credit impairment losses are reported as a deduction from the carrying value of the loan and recognised in the income statement as Credit impairment charges.
+b Held to maturity financial assets Certain investment securities are classified as held to maturity.
+Held to maturity investments are non-derivative assets with fixed or determinable payments and fixed maturity that the Group has the positive intent and ability to hold to maturity and which are not designated as at fair value through profit or loss or as available-for-sale.
+Held to maturity investments are carried at amortised cost using the effective interest method, less any impairment losses.
+A sale or reclassification of more than an insignificant amount of held to maturity investments would result in the reclassification of all held to maturity investments as available-for-sale and would prevent the Group from classifying investment securities as held to maturity for the current and the two following financial years.
+c Available-for-sale financial assets Available-for-sale investments are financial assets that are intended to be held for an indefinite period of time, which may be sold in response to needs for liquidity or changes in interest rates, exchange rates or equity prices or that are not classified as loans and receivables, held to maturity investments or financial assets at fair value through profit or loss.
+Available-for-sale financial assets are initially recognised at fair value, which is the cash consideration including any transaction costs, and measured subsequently at fair value with gains and losses being recognised in other comprehensive income, except for impairment losses and foreign exchange gains and losses, until the financial asset is derecognised.
+If an available-for-sale financial asset is determined to be impaired, the cumulative gain or loss previously recognised in the statement of comprehensive income is recognised in the income statement.
+Interest is calculated using the effective interest method, and foreign currency gains and losses on monetary assets classified as available-for-sale are recognised in the income statement.
+d Recognition The Group uses settlement date accounting when recording financial asset transactions where a trade is settled through the regular settlement cycle for that particular investment.
+Financial assets that are transferred to a third party but do not qualify for derecognition are presented in the statement of financial position as Assets pledged as collateral, if the transferee has the right to sell or repledge them.
+1.10 Financial liabilities The Groups holding in financial liabilities are held at amortised cost.
+Financial liabilities measured at amortised cost are deposits from banks or customers and repurchase agreements.
+Financial liabilities are derecognised when extinguished.
+1.11 Amortised cost measurement and determination of fair value The amortised cost of a financial asset or financial liability is the amount at which the financial asset or financial liability is measured at initial recognition, minus principal repayments, plus or minus the cumulative amortisation using the effective interest method of any difference between the initial amount recognised and the maturity amount, minus any reduction for impairment.
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date in the principal or, in its absence, the most advantageous market to which the Group has access at that date.
+The fair value of a liability reflects its non-performance risk.
+For financial instruments traded in active markets, the determination of fair values of financial assets and financial liabilities is based on quoted market prices or dealer price quotations.
+This includes quoted debt instruments on major exchanges and broker quotes.
+A financial instrument is regarded as quoted in an active market if quoted prices are readily and regularly available from an exchange, dealer, broker or pricing service and those prices represent actual and regularly occurring market transactions on an arms length basis.
+If the above criteria are not met, the market is regarded as being inactive.
+Indications that a market is inactive are when there is a wide bid-offer spread or significant increase in the bid-offer spread or there are few recent transactions.
+83 Strategic report Governance Financial statements ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC NOTES TO THE FINANCIAL STATEMENTS CONTINUED 1.
+Accounting policies continued 1.12 Derecognition Financial assets are derecognised when the contractual rights to receive the cash flows from these assets have ceased to exist or the assets have been transferred and substantially all the risks and rewards of ownership of the assets are also transferred.
+Financial liabilities are derecognised when they have been redeemed or otherwise extinguished.
+On derecognition of a financial asset, the difference between the carrying amount of the asset or the carrying amount allocated to the portion of the asset derecognised and the sum of: i the consideration received including any new assets obtained less any new liability assumed : and ii any cumulative gain or loss that had been recognised in other comprehensive income is recognised in profit or loss.
+Any interest in transferred financial assets that qualify for derecognition that is created or retained by the Group is recognised as a separate asset or liability.
+Collateral furnished by the Group under standard repurchase agreements and securities lending and borrowing transactions is not derecognised because the Group retains substantially all the risks and rewards on the basis of the predetermined repurchase price, and the criteria for derecognition are therefore not met.
+1.13 Reclassification of financial assets The Group may choose to reclassify financial assets that are classified in the available-for-sale category to the held to maturity category if the Group has the intention and ability to hold these financial assets for the foreseeable future or until maturity at the date of reclassification.
+Reclassifications are made at fair value as of the reclassification date.
+This fair value becomes the new cost or amortised cost as applicable.
+Effective interest rates for financial assets reclassified to loans and receivables and held to maturity categories are determined at the reclassification date.
+1.14 Offsetting financial instruments Financial assets and liabilities are offset and the net amount reported in the statement of financial position when there is a legally enforceable right to offset the recognised amounts and there is an intention to settle on a net basis or realise the asset and settle the liability simultaneously.
+1.15 Interest income and expense Interest income and expense for all interest-bearing financial instruments are recognised within interest income and interest expense in the income statement using the effective interest rate method.
+The effective interest rate method is a method of calculating the amortised cost of a financial asset or a financial liability and of allocating the interest income or interest expense over the relevant period.
+The effective interest rate is the rate that exactly discounts estimated future cash payments or receipts through the expected life of the financial instrument or, when appropriate, a shorter period to the net carrying amount of the financial asset or financial liability.
+When calculating the effective interest rate, the Group estimates cash flows considering all contractual terms of the financial instrument for example, prepayment options but does not consider future credit losses.
+The calculation includes all fees paid or received between parties to the contract that are an integral part of the effective interest rate, transaction costs and all other premiums or discounts.
+Once a financial asset or a group of similar financial assets has been written down as a result of an impairment loss, interest income is recognised using the original effective interest rate on the net balance.
+1.16 Fee, commission and other income Fees and commissions and other income are earned from a wide range of services provided by the Group to its customers.
+Fee income is accounted for as follows: a income earned on the execution of a significant act is recognised as revenue when the act is completed: b income earned from the provision of services, for example income relating to the provision of safe deposit boxes, account servicing fees or transaction fees, is recognised as revenue when the services are provided: and c income which forms an integral part of the effective interest rate of a financial instrument is recognised as an adjustment to the effective interest rate and recorded in interest income.
+84 ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC 1.
+Accounting policies continued 1.17 Impairment of financial assets a Assets carried at amortised cost Metro Bank assesses at each reporting date whether there is objective evidence that a financial asset is impaired.
+The impairment relating to loans and advances is calculated and assigned in accordance with the accounting standards for individual and collective impairment: Impairment of individual loans is designed to recognise specific risks identified by the Group following the occurrence of a loss event: for example, a commercial customer whose business has gone into administration.
+If loans are considered to be at risk, an individual assessment will be performed.
+For loans that are not considered to be individually impaired whether individually significant or not, a collective impairment assessment is performed.
+Collective provisions are intended to reflect the estimated amount of losses incurred on a collective basis, but which have yet to be individually identified.
+The lending exposure subject to collective impairment is assessed for each group of loans with similar credit risk characteristics.
+Collective impairment models are based on analysis of historical arrears data and estimated loss rates, in order to derive the expected loss net of the recoverable value.
+For the purposes of a collective evaluation of impairment, financial assets are grouped on the basis of the product risk profile: residential mortgage lending, commercial lending and consumer lending.
+The carrying amount of the asset is reduced through the use of an allowance account and the amount of the loss is recognised in the income statement.
+When a loan is uncollectible, it is written off against the related allowance for loan impairment.
+Such loans are written off after all the necessary procedures have been completed and the amount of the loss has been determined.
+The maximum time a loan can remain in past due without being written off is 24 months.
+Impairment charges relating to loans and advances to banks and customers are classified in credit impairment charges while impairment charges relating to investment securities held to maturity are classified in Net gains losses on investment securities.
+If, in a subsequent period, the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after the impairment was recognised, the previously recognised impairment loss is reversed by adjusting the allowance account.
+The amount of the reversal is recognised in the income statement.
+b Assets classified as available-for-sale The Group assesses at each date of the statement of financial position whether there is objective evidence that a financial asset or a group of financial assets is impaired.
+Impairment losses on available-for-sale assets are recognised by reclassifying the losses accumulated in the fair value reserve in equity to profit or loss.
+The cumulative loss that is reclassified from equity to profit or loss is the difference between the acquisition cost, net of any principal repayment and amortisation, and the current fair value, less any impairment loss previously recognised in profit or loss.
+1.18 Share-based payments The grant date fair value of options granted to colleagues is recognised as an employee expense over the period in which the colleagues become unconditionally entitled to the options.
+The fair value of the services received is measured by reference to the fair value of the shares or share options granted on the date of the grant.
+The cost of the colleague services received in respect of the shares or share options granted is recognised in the consolidated income statement over the period that the services are received, which is the vesting period.
+The fair value of employee share option plans is calculated at the grant date using a Black-Scholes model.
+The resulting cost is charged to the Group income statement over the vesting period.
+The value of the charge is adjusted to reflect expected and actual levels of vesting.
+1.19 Cash and cash equivalents Cash and cash equivalents comprise balances with less than three months maturity from the date of acquisition, including cash in hand, deposits held at call with banks and balances held with the Bank of England.
+1.20 Leases The leases entered into by the Group are operating leases.
+The total payments made under operating leases are charged to other operating expenses in the income statement on a straight-line basis over the period of the lease.
+When an operating lease is terminated before the lease period has expired, any payment required to be made to the lessor by way of penalty is recognised as an expense in the period in which termination takes place.
+85 Strategic report Governance Financial statements ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC NOTES TO THE FINANCIAL STATEMENTS CONTINUED 1.
+Accounting policies continued 1.21 Property, plant and equipment Property, plant and equipment is stated at cost less accumulated depreciation and any recognised impairment.
+Property, plant and equipment is depreciated on a straight-line basis to its residual value using the following useful economic lives: Leasehold improvements Lower of the remaining life of the lease or the useful life of the asset Freehold land Not depreciated Buildings Up to 50 years Fixtures and fittings and equipment 5 years IT hardware 3 to 5 years Depreciation rates, methods and the residual values underlying the calculation of depreciation of items of property, plant and equipment are kept under review to take account of any change in circumstances.
+All items of property, plant and equipment are reviewed annually for impairment.
+1.22 Intangible assets Purchased intangible assets and costs directly associated with the development of systems are capitalised as intangible assets where there is an identifiable asset controlled by the Group and will generate future economic benefits in accordance with IAS 38.
+Costs to establish feasibility or to maintain existing performance are recognised as an expense.
+Intangible assets are amortised on a straight-line basis in profit or loss using the following useful economic lives: Core banking software used for recording banking transactions 20 years Other banking software 3 to 10 years Software licences Licence period Customer contracts 10 years All intangible assets are reviewed annually for impairment.
+1.23 Goodwill Goodwill arises on the acquisition of subsidiaries and represents the excess of the consideration transferred over Metro Banks interest in net fair value of the net identifiable assets, liabilities and contingent liabilities of the acquiree and the fair value of the non-controlling interest in the acquiree.
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to each of the cash-generating units CGUs, or groups of CGUs, that is expected to benefit from the synergies of the combination.
+Each unit or group of units to which the goodwill is allocated represents the lowest level within the entity at which the goodwill is monitored for internal management purposes.
+Goodwill is not amortised, however it is reviewed for impairment on an annual basis.
+The recoverable amount of a CGU is the higher of its fair value less cost to sell, and the present value of its expected future cash flows.
+If the recoverable amount is less than the carrying value, an impairment loss is charged to the income statement.
+Goodwill is stated at cost less accumulated impairment losses.
+Any impairment is recognised immediately as an expense and is not subsequently reversed.
+1.24 Income tax a Current income tax Current income tax comprises the expected tax payable or receivable on the taxable income or loss for the year and any adjustment to the tax payable or receivable in respect of previous years.
+It is measured using tax rates enacted or substantively enacted at the reporting date.
+Where the Group has tax losses that can be relieved only by carry-forward against taxable profits of future periods, a deductible temporary difference arises.
+Those losses carried forward are set off against deferred tax liabilities carried in the statement of financial position.
+b Deferred income tax Deferred income tax is recognised in respect of temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements.
+Deferred income tax is determined using tax rates and laws that have been enacted or substantively enacted by the date of the statement of financial position and are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+The principal differences arise from trading losses, depreciation of property, plant and equipment and relief on research and development expenditure.
+86 ANNUAL REPORT AND ACCOUNTS 2016 METRO BANK PLC 1.
+Accounting policies continued Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which they can be used and deferred tax liabilities are provided on taxable temporary differences.
+Deferred tax assets and liabilities are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realised or the deferred tax liability settled.
+Deferred tax assets and liabilities are offset where there is a legally enforceable right to offset current tax assets against current tax liabilities and where the deferred tax assets and liabilities relate to income taxes levied by the same taxation authority on either the same taxable entity or different taxable entities where there is an intention to settle on a net basis.
+1.25 Employee benefits The Group operates a defined contribution pension scheme.
+The Group pays contributions to employees individual personal pension plans on a contractual basis.
+The Group has no further payment obligations once the contributions have been paid.
+The contributions are recognised as an expense when they are due.
+1.26 Share capital Incremental costs directly attributable to the issue of new shares are shown in equity as a deduction, net of tax, from the proceeds.
+1.27 Critical accounting judgements and estimates The preparation of financial statements in conformity with IFRS requires management to make judgements, estimates and assumptions that affect the application of accounting policies and the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of income and expenses during the reporting period.
+Although these estimates are based on managements best assessment of the outcome, actual results may ultimately differ from those estimates.
+Management believes that the underlying assumptions are appropriate and that the Groups financial statements therefore present the financial position and results fairly.
+The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements, are disclosed below.
+a Deferred tax The largest element of the deferred tax asset represents the future tax impact of carried-forward tax losses which will reduce the payment of future tax.
+This element of the deferred tax asset requires management judgement in assessing its recoverability.
+At 31 December 2016, the Group recognised a deferred tax asset net of 56.3 million 2015: 53.1 million in respect of tax losses carried forward and taxable temporary timing differences.
+The increase reflects in main the taxable losses generated by the continued significant investment by the Group in building stores, infrastructure and systems to enable future growth and scale to be achieved.
+Accounting standards permit the recognition of a deferred tax asset to the extent that it is probable, more likely than not, that future taxable profits will be available to utilise the tax losses carried forward.
+This assessment of future taxable profits has been performed over managements current planning horizon and involves significant estimation uncertainty, principally relating to projections of future taxable income based on business plans.
+These income projections include assumptions about the future strategy of the Group and its ability to deliver expected performance against projections for new stores, deposit and loan growth, loan to deposit ratio, interest margins and operating costs.
+The Directors are satisfied based on the progress of the Group since launch, and the detailed projections which include stress-tested scenarios, that sufficient taxable profits will be available to utilise the tax losses carried forward in full.
+b Impairment losses on loans and advances Individual impairment losses on secured loans and advances are calculated based on an individual valuation of the underlying asset and other expected cash flows.
+Collective impairment losses on loans and advances are calculated using a statistical model.
+The key assumptions used in the model are the probability of default: the probability of this default resulting in possession and or write-off: and the subsequent loss incurred.
+These key assumptions are monitored quarterly to ensure the impairment allowance is reflective of the current portfolio.
+The accuracy of the impairment calculation would therefore be affected by unanticipated changes to the economic situation and assumptions which differ from actual outcomes.
+For mortgage loan receivables, to the extent that: the loss given default differs by - 10%, for example if the loss given default is 10% then it is increased to 11% or decreased to 9%, the impairment allowance would be an estimated 0.7 million higher or lower respectively: and the level of house prices differs by - 10%, for example a property value of 100,000 is increased to 110,000 or decreased to 90,000, the impairment allowance would be an estimated 0.7 million lower or 2.9 million higher respectively.
+c Effective interest rate IAS 39 requires interest earned from loans and advances to customers to be measured at amortised cost using the effective interest rate method.
+Management must therefore use judgement to estimate the expected life of each instrument and hence the expected cash flows relating to it.
+The accuracy of the effective interest rate may therefore be affected by unexpected market movements resulting in altered customer behaviour and incorrect assumptions.
+87 Strategic report Governance Financial statements

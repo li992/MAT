@@ -1,0 +1,52 @@
+46 Accounting policies a Accounting convention The financial statements have been prepared on the historical cost basis, modified to include the revaluation of certain tangible fixed assets, in accordance with the Companies Act 1985 and applicable UK accounting standards which have been applied on a consistent basis for all Group operations.
+UITF Abstract 38 Accounting for ESOP Trusts has been adopted in full with effect from 1 January 2004 and prior year comparatives have been restated accordingly.
+b Basis of consolidation The results of businesses acquired or sold are included in the profit and loss account from, or up to, the date control passes.
+All undertakings over which the Group exercises control or has a dominant influence are consolidated as subsidiary undertakings subsidiaries.
+Associates are accounted for by the equity method and joint ventures by the gross equity method.
+As permitted by Section 230 of the Companies Act 1985, no separate profit and loss account is presented for the Company.
+c Turnover and cost of sales Turnover is the total amount receivable for goods sold and services provided and is recognised when legal title to the vehicle passes to the customer.
+In practice this means that revenue is recognised when the vehicles are invoiced and physically dispatched or when the service has been undertaken.
+Financial services interest and leasing income are included within turnover.
+Correspondingly, interest expense in respect of financial services is treated as cost of sales.
+Turnover is net of any discounts provided for goods and services sold and excludes sales related taxes and intra Group transactions.
+Cost of sales includes the expense relating to the estimated cost of self-insured warranties offered to customers.
+These warranties form part of the package of goods and services provided to the customer when purchasing a vehicle and are not a separable product.
+Trade finance provided by manufacturers, suppliers or related finance houses is treated as a creditor and the cost of such credit is included in cost of sales.
+d Foreign currencies The results and cash flows of overseas operations are translated into sterling at the average for the year of the month end rates of exchange, except when results are adjusted for any impact of hyperinflation by using an alternative functional currency.
+Assets and liabilities in foreign currencies are translated into sterling at closing rates of exchange except where rates are fixed by contract.
+The difference between the profit and loss account translated at average and at closing rates of exchange is included as a reserve movement in the statement of total recognised gains and losses.
+Exchange differences arising from the retranslation to closing rates of exchange of intra Group dividends, opening net assets, long term foreign currency borrowings used to finance foreign currency investments, and foreign currency borrowings and instruments that provide a hedge against net assets are also reflected as a reserve movement.
+All other exchange differences are dealt with in the profit and loss account.
+e Financial instruments Financial instruments are used to manage the Groups exposure to fluctuations in foreign currency exchange rates.
+Instruments accounted for as hedges are designated as a hedge at the inception of contracts.
+Gains and losses on foreign currency hedges are recognised on maturity of the underlying transaction.
+Currency swap agreements are retranslated at the rates ruling in the agreements, with resulting gains and losses being offset against foreign exchange gains and losses on the related borrowing.
+Gains and losses arising on hedging instruments which are cancelled due to the termination of underlying exposure are taken to the profit and loss account immediately.
+f Goodwill Goodwill is calculated as the surplus of cost over fair value attributed to the separately identifiable net assets excluding goodwill of subsidiary, joint venture or associated undertakings acquired.
+Goodwill arising on acquisitions made after the adoption of FRS 10 Goodwill and Intangible Assets in 1998 is capitalised and is amortised on a straight line basis over its separately evaluated useful life of up to twenty years.
+The carrying value of goodwill is reviewed for impairment when events or changes in circumstances indicate the carrying value may not be recoverable.
+Historical goodwill arising on acquisitions made before 1998 has been charged to the profit and loss account reserve.
+On disposal, or in the event of identification of total and permanent impairment, a charge is taken to the profit and loss account.
+Inchcape plc Annual report 2004 47 g Tangible fixed assets Tangible fixed assets are stated at cost or valuation less depreciation, which is provided, except for freehold land, on a straight line basis over their estimated useful lives, mainly at the following annual rates: Freehold buildings and long leasehold land and buildings 2.0% Short leasehold land and buildings term of lease Plant, machinery and equipment 5.0% 33.3% Major computer software applications 20.0% 33.3% The carrying values of tangible fixed assets are reviewed for impairment when events or changes in circumstances indicate the carrying value may not be recoverable.
+Land and buildings were last revalued in 1996 on an open market existing use basis by local firms of professionally qualified surveyors in accordance with the Groups prior policy of triennial valuation.
+Following the implementation of FRS 15 Tangible Fixed Assets the Group has adopted a policy of not revaluing fixed assets.
+The carrying amounts of tangible fixed assets previously revalued have been retained at their book amounts in accordance with the transitional arrangements, and are subject to impairment tests when necessary.
+Diminution in value of individual properties below cost is charged to the profit and loss account.
+h Investments Both fixed and current asset investments are stated at cost, less provisions for impairment.
+i Vacant leasehold property Vacant leasehold property is provided to the extent of the value of the estimated future net cost.
+j Stocks and work in progress Stocks and work in progress are valued at the lower of cost and net realisable value.
+Cost comprises expenditure incurred in bringing stocks and work in progress to their present location and condition.
+k Leases As lessee assets held within finance leases are treated as if they had been purchased at the present value of the minimum lease payments.
+This cost is included within tangible fixed assets and depreciation is provided over the shorter of the lease term and the estimated useful life.
+The corresponding obligations under these leases are included within borrowings.
+The finance charge element of rentals payable is charged to the profit and loss account to produce a constant rate of interest.
+Rental payments arising from operating leases are charged on a straight line basis.
+As lessor the net investment in finance leases and hire purchase contracts is included under debtors and represents the total amount outstanding under lease agreements and hire purchase contracts less unearned income.
+Finance lease and hire purchase income is allocated to accounting periods to give a constant periodic rate of return on the net cash investment.
+Rentals receivable from operating leases are credited to the profit and loss account on a straight line basis.
+l Deferred taxation Deferred taxation is provided in full without discounting based on current tax rates and law, on timing differences that result in an obligation at the balance sheet date to pay more tax, or a right to pay less tax in future except as otherwise required by FRS 19 DeferredTax.
+Deferred tax is not provided on timing differences arising from the revaluation of fixed assets where there is no binding commitment to sell the asset.
+m Post-retirement benefits Liabilities under defined contribution pension schemes are charged when they become payable.
+The Group has a number of defined benefit pension schemes for which contributions are based on triennial actuarial valuations.
+Pension charges in the profit and loss account are calculated at a substantially level percentage of current and expected future pensionable payroll, with variations from regular cost spread over the expected remaining service lives of employees.
+Other post-retirement benefits are accounted for on a similar basis to defined benefit pension schemes.

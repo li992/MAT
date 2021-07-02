@@ -1,0 +1,29 @@
+38 Accounting policies a Accounting convention The financial statements have been prepared on the historical cost basis, modified to include the revaluation of certain tangible fixed assets, in accordance with applicable UK accounting standards which have been applied on a consistent basis for all Group operations.
+FRS 19 Deferred Tax has been adopted in full with effect from 1 January 2002 and prior period comparatives have been restated accordingly.
+b Basis of consolidation The results of businesses acquired or sold are included in the profit and loss account from, or up to, the date control passes.
+All undertakings over which the Group exercises control or has a dominant influence are consolidated as subsidiary undertakings subsidiaries.
+Associates are accounted for by the equity method and joint ventures by the gross equity method.
+c Turnover and cost of sales Turnover is the total amount receivable for goods sold and services provided including financial services interest and leasing income.
+It excludes sales related taxes and intra-Group transactions.
+Correspondingly, interest expense in respect of financial services is treated as cost of sales.
+d Foreign currencies The results and cash flows of overseas operations are translated into sterling at the average for the year of the month end rates of exchange, except when results are adjusted for the impact of hyper-inflation by using an alternative functional currency.
+Assets and liabilities in foreign currencies are translated into sterling at closing rates of exchange except where rates are fixed by contract.
+The difference between the profit and loss account translated at average and at closing rates of exchange is included as a reserve movement in the statement of total recognised gains and losses.
+Exchange differences arising from the retranslation to closing rates of exchange of intra-Group dividends, opening net assets, long term foreign currency borrowings used to finance foreign currency investments, and foreign currency borrowings and instruments that provide a hedge against net assets are also reflected as a reserve movement.
+All other exchange differences are dealt with in the profit and loss account.
+e Financial instruments Financial instruments are used to manage the Groups exposure to fluctuations in interest rates and foreign currency exchange rates.
+Instruments accounted for as hedges are designated as a hedge at the inception of contracts.
+Interest differentials on derivative instruments and amounts receivable and payable on interest rate instruments are recognised as adjustments to interest expense over the period of the contracts.
+Gains and losses on foreign currency hedges are recognised on maturity of the underlying transaction.
+Currency swap agreements are retranslated at the rates ruling in the agreements, with resulting gains and losses being offset against foreign exchange gains or losses on the related borrowing.
+Gains and losses arising on hedging instruments which are cancelled due to the termination of underlying exposure are taken to the profit and loss account immediately.
+f Goodwill Goodwill is calculated as the surplus of cost over fair value attributed to the separately identifiable net assets excluding goodwill of subsidiary, joint venture or associated undertakings acquired.
+Goodwill arising on acquisitions made after the adoption of FRS 10 in 1998 is capitalised and is normally amortised on a straight line basis over its separately evaluated useful life of up to twenty years.
+In exceptional circumstances the goodwill may be carried forward unamortised subject to annual impairment tests.
+Historic goodwill arising on acquisitions made before 1998 has been charged to the profit and loss reserve.
+On disposal, or in the event of identification of total and permanent impairment, a charge is taken to the profit and loss account.
+g Tangible fixed assets Tangible fixed assets are stated at cost or valuation less depreciation, which is provided, except for freehold land, on a straight line basis over their estimated useful lives, mainly at the following annual rates: Freehold buildings and long leasehold land and buildings 2.0% Short leasehold land and buildings term of lease Plant, machinery and equipment 5.0% 33.3% Major computer software applications 33.3% Land and buildings were last revalued in 1996 on an open market existing use basis by local firms of professionally qualified surveyors in accordance with the Groups prior policy of triennial valuation.
+Following the implementation of FRS 15 the Group has adopted a policy of not revaluing fixed assets.
+The carrying amounts of tangible fixed assets previously revalued have been retained at their book amounts in accordance with the transitional arrangements, and are subject to impairment tests when necessary.
+Diminution in value of individual properties below cost is charged to the profit and loss account.
+Fixed asset investments are stated at cost, less provisions for impairment.

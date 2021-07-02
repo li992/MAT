@@ -1,0 +1,755 @@
+159711_CD
+Reed_NN
+Report_NN
+103-142_CD
+7_CD
+3_CD
+06_CD
+12:05_CD
+Page_NN
+110_CD
+110_CD
+Reed_NN
+Elsevier_NN
+PLC_NN
+Group_NN
+accounting_GER
+policies_NN
+These_DEMO
+consolidated_JJ
+financial_JJ
+statements_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+and_CC
+its_PIT
+subsidiaries_NN
+._.
+Investments_NOMZ
+in_PIN
+joint_JJ
+ventures_NN
+are_VPRT
+under_IN
+the_DT
+historical_JJ
+cost_NN
+convention_NOMZ
+in_PIN
+accordance_NN
+with_PIN
+accounted_VBN
+for_PIN
+using_VBG
+the_DT
+equity_NOMZ
+method_NN
+._.
+Foreign_JJ
+exchange_NN
+translation_NOMZ
+Basis_NN
+of_PIN
+preparation_NOMZ
+Transactions_NOMZ
+in_PIN
+foreign_JJ
+currencies_NN
+are_VPRT [PASS]
+recorded_VBN
+at_PIN
+the_DT
+rate_NN
+These_DEMO
+statutory_JJ
+consolidated_JJ
+financial_JJ
+statements_NOMZ
+report_VPRT [PUBV]
+the_DT
+of_PIN
+exchange_NN
+prevailing_VBG [WZPRES]
+on_PIN
+the_DT
+date_NN
+of_PIN
+the_DT
+transaction_NOMZ
+._.
+At_PIN
+each_QUAN
+consolidated_JJ
+statements_NOMZ
+of_PIN
+income_NN
+,_,
+cash_NN
+flow_NN
+and_CC
+financial_JJ
+balance_NN
+sheet_NN
+date_NN
+,_,
+monetary_JJ
+assets_NN
+and_PHC
+liabilities_NOMZ
+that_DEMO
+position_NOMZ
+of_PIN
+Reed_NN
+Elsevier_NN
+PLC_NN
+,_,
+and_ANDC
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+in_PIN
+are_VPRT [PASS]
+denominated_VBN
+in_PIN
+foreign_JJ
+currencies_NN
+are_VPRT [PASS]
+retranslated_VBN
+at_PIN
+accordance_NN
+with_PIN
+International_NN
+Financial_NN
+Reporting_GER
+Standards_NN
+the_DT
+rate_NN
+prevailing_VBG [WZPRES]
+on_PIN
+the_DT
+balance_NN
+sheet_NN
+date_NN
+._.
+Exchange_NN
+IFRS_NN
+as_IN
+endorsed_VBN
+by_PIN
+the_DT
+European_NN
+Union_NN
+with_PIN
+effect_NN
+from_PIN
+differences_NN
+arising_VBG [WZPRES]
+are_VPRT [PASS]
+recorded_VBN
+in_PIN
+the_DT
+income_NN
+statement_NOMZ
+._.
+The_DT
+gains_NN
+or_CC
+losses_NN
+relating_VBG [WZPRES]
+to_PIN
+the_DT
+retranslation_NOMZ
+of_PIN
+Reed_NN
+Elsevier_NN
+PLCs_NN
+52.9_CD
+%_NN
+economic_JJ
+interest_NN
+in_PIN
+the_DT
+net_JJ
+assets_NN
+The_DT
+transition_NOMZ
+date_NN
+for_PIN
+the_DT
+application_NOMZ
+of_PIN
+IFRS_NN
+is_VPRT [BEMA]
+1_CD
+January_NN
+of_PIN
+the_DT
+combined_JJ
+businesses_NOMZ
+are_VPRT [PASS]
+classified_VBN
+as_IN
+equity_NOMZ
+and_CC
+2004_CD
+,_,
+other_JJ
+than_PIN
+in_PIN
+respect_NN
+of_PIN
+IAS39_NN
+where_RB
+the_DT
+transition_NOMZ
+date_NN
+transferred_VBN [WZPAST]
+to_PIN
+the_DT
+translation_NOMZ
+reserve_NN
+._.
+is_VPRT [BEMA]
+1_CD
+January_NN
+2005_CD
+,_,
+and_ANDC
+the_DT
+comparative_JJ
+figures_NN
+for_PIN
+the_DT
+year_NN
+ended_VBD
+31_CD
+December_NN
+2004_CD
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+accordingly_RB
+._.
+Cumulative_JJ
+translation_NOMZ
+differences_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+within_PIN
+Reconciliations_NOMZ
+of_PIN
+net_JJ
+income_NN
+and_PHC
+equity_NOMZ
+for_PIN
+the_DT
+comparative_JJ
+the_DT
+income_NN
+statement_NOMZ
+in_PIN
+the_DT
+period_NN
+in_PIN
+which_WDT [PIRE]
+operations_NOMZ
+period_NN
+from_PIN
+previously_TIME
+applied_VBN
+UK_NN
+GAAP_NN
+to_PIN
+IFRS_NN
+are_VPRT
+are_VPRT [PASS]
+disposed_VBN
+of_PIN [STPR]
+._.
+presented_VBN [PASTP]
+in_PIN
+note_NN
+19_CD
+to_PIN
+the_DT
+consolidated_JJ
+financial_JJ
+statements_NOMZ
+._.
+As_IN
+permitted_VBN
+under_IN
+the_DT
+transition_NOMZ
+rules_NN
+of_PIN
+IFRS1_NN
+First_NN
+Time_NN
+Unless_COND
+otherwise_CONJ
+indicated_VBN [PRIV]
+,_,
+all_QUAN
+amounts_NN
+shown_VBN [PRIV] [WZPAST]
+in_PIN
+the_DT
+Adoption_NOMZ
+of_PIN
+International_NN
+Financial_NN
+Reporting_GER
+Standards_NN
+,_,
+financial_JJ
+statements_NOMZ
+are_VPRT [BEMA]
+in_PIN
+millions_NN
+of_PIN
+pounds_NN
+._.
+cumulative_JJ
+translation_NOMZ
+differences_NN
+in_PIN
+respect_NN
+of_PIN
+foreign_JJ
+operations_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+deemed_VBN [PRIV]
+to_TO
+be_VB
+nil_NN
+at_PIN
+the_DT
+date_NN
+The_DT
+basis_NN
+of_PIN
+the_DT
+merger_NN
+of_PIN
+the_DT
+businesses_NOMZ
+of_PIN
+Reed_NN
+Elsevier_NN
+of_PIN
+transition_NOMZ
+._.
+PLC_NN
+and_PHC
+Reed_NN
+Elsevier_NN
+NV_NN
+is_VPRT [PASS]
+set_VBN
+out_PIN
+on_PIN
+page_NN
+28_CD
+._.
+Taxation_NOMZ
+Determination_NOMZ
+of_PIN
+profit_NN
+The_DT
+tax_NN
+expense_NN
+represents_VPRT
+the_DT
+sum_NN
+of_PIN
+the_DT
+tax_NN
+payable_JJ
+on_PIN
+the_DT
+The_DT
+Reed_NN
+Elsevier_NN
+PLC_NN
+share_NN
+of_PIN
+the_DT
+Reed_NN
+Elsevier_NN
+combined_VBN
+current_JJ
+year_NN
+taxable_JJ
+profits_NN
+and_CC
+the_DT
+movements_NOMZ
+on_PIN
+deferred_JJ
+tax_NN
+results_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+calculated_VBN [PRIV]
+on_PIN
+the_DT
+basis_NN
+of_PIN
+the_DT
+52.9_CD
+%_NN
+that_TSUB
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+in_PIN
+the_DT
+income_NN
+statement_NOMZ
+._.
+Tax_NN
+arising_VBG [WZPRES]
+in_PIN
+joint_JJ
+economic_JJ
+interest_NN
+of_PIN
+the_DT
+Reed_NN
+Elsevier_NN
+PLC_NN
+shareholders_NN
+in_PIN
+ventures_NN
+is_VPRT [PASS]
+included_VBN
+in_PIN
+the_DT
+share_NN
+of_PIN
+results_NN
+of_PIN
+joint_JJ
+ventures_NN
+._.
+the_DT
+Reed_NN
+Elsevier_NN
+combined_JJ
+businesses_NOMZ
+,_,
+after_IN
+taking_VBG
+account_NN
+of_PIN
+results_NN
+arising_VBG [WZPRES]
+in_PIN
+Reed_NN
+Elsevier_NN
+PLC_NN
+and_CC
+its_PIT
+subsidiaries_NN
+._.
+The_DT
+tax_NN
+payable_JJ
+on_PIN
+current_JJ
+year_NN
+taxable_JJ
+profits_NN
+is_VPRT [PASS]
+calculated_VBN [PRIV] [THATD]
+Dividends_NN
+paid_VBD
+to_PIN
+Reed_NN
+Elsevier_NN
+PLC_NN
+and_PHC
+Reed_NN
+Elsevier_NN
+NV_NN
+using_VBG [WZPRES]
+the_DT
+applicable_JJ
+tax_NN
+rate_NN
+that_TSUB
+has_VPRT [PEAS]
+been_VBN [PASS]
+enacted_VBN
+,_,
+shareholders_NN
+are_VPRT [PASS]
+equalised_VBN
+at_PIN
+the_DT
+gross_JJ
+level_NN
+inclusive_NN
+of_PIN
+or_CC
+substantively_RB
+enacted_VBN
+,_,
+by_PIN
+the_DT
+balance_NN
+sheet_NN
+date_NN
+._.
+the_DT
+UK_NN
+tax_NN
+credit_NN
+received_VBN [WZPAST]
+by_PIN
+certain_JJ
+Reed_NN
+Elsevier_NN
+PLC_NN
+shareholders_NN
+._.
+In_PIN
+Reed_NN
+Elsevier_NN
+PLCs_NN
+consolidated_JJ
+financial_JJ
+Deferred_JJ
+tax_NN
+is_VPRT [BEMA]
+the_DT
+tax_NN
+arising_VBG [WZPRES]
+on_PIN
+differences_NN
+between_PIN
+the_DT
+statements_NOMZ
+,_,
+an_DT
+adjustment_NOMZ
+is_VPRT [PASS]
+required_VBN [SUAV]
+to_TO
+equalise_VB
+the_DT
+benefit_NN
+carrying_VBG [WZPRES]
+amounts_NN
+of_PIN
+assets_NN
+and_PHC
+liabilities_NOMZ
+in_PIN
+the_DT
+financial_JJ
+of_PIN
+the_DT
+tax_NN
+credit_NN
+between_PIN
+the_DT
+two_CD
+sets_NN
+of_PIN
+shareholders_NN
+statements_NOMZ
+and_CC
+their_TPP3
+corresponding_JJ
+tax_NN
+bases_NN
+used_VBN [WZPAST]
+in_PIN
+the_DT
+in_PIN
+accordance_NN
+with_PIN
+the_DT
+equalisation_NOMZ
+agreement_NOMZ
+._.
+This_DEMO
+computation_NOMZ
+of_PIN
+taxable_JJ
+profit_NN
+,_,
+and_ANDC
+is_VPRT [PASS]
+accounted_VBN
+for_PIN
+using_VBG
+the_DT
+equalisation_NOMZ
+adjustment_NOMZ
+arises_VPRT
+on_PIN
+dividends_NN
+paid_VBN [WZPAST]
+by_PIN
+balance_NN
+sheet_NN
+liability_NOMZ
+method_NN
+._.
+Deferred_JJ
+tax_NN
+liabilities_NOMZ
+are_VPRT
+Reed_NN
+Elsevier_NN
+PLC_NN
+to_PIN
+its_PIT
+shareholders_NN
+and_CC
+reduces_VPRT
+the_DT
+generally_RB
+recognized_VBN [PRIV]
+for_PIN
+all_QUAN
+taxable_JJ
+temporary_JJ
+differences_NN
+consolidated_JJ
+attributable_JJ
+earnings_GER
+by_PIN
+47.1_CD
+%_NN
+of_PIN
+the_DT
+total_NN
+and_CC
+deferred_VBN
+tax_NN
+assets_NN
+are_VPRT [PASS]
+recognized_VBN [PRIV]
+to_PIN
+the_DT
+extent_NN
+that_TOBJ
+it_PIT
+amount_NN
+of_PIN
+the_DT
+tax_NN
+credit_NN
+._.
+is_VPRT [BEMA]
+probable_PRED
+that_THAC
+taxable_JJ
+profits_NN
+will_PRMD
+be_VB [BEMA]
+available_PRED
+against_PIN
+which_WDT [PIRE]
+deductible_JJ
+temporary_JJ
+differences_NN
+can_POMD
+be_VB [PASS]
+utilised_VBN
+._.
+The_DT
+accounting_GER
+policies_NN
+adopted_VBN [WZPAST]
+in_PIN
+the_DT
+preparation_NOMZ
+of_PIN
+the_DT
+combined_VBN
+financial_JJ
+statements_NOMZ
+are_VPRT [PASS]
+set_VBN
+out_PIN
+on_PIN
+pages_NN
+60_CD
+to_PIN
+64_CD
+._.
+Deferred_JJ
+tax_NN
+is_VPRT [PASS]
+calculated_VBN [PRIV]
+using_VBG
+tax_NN
+rates_NN
+that_TSUB
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+apply_VB
+in_PIN
+the_DT
+period_NN
+when_RB
+the_DT
+liability_NOMZ
+is_VPRT [PASS]
+settled_VBN
+or_CC
+the_DT
+asset_NN
+Investments_NOMZ
+is_VPRT [PASS]
+realized_VBN [PRIV]
+._.
+Reed_NN
+Elsevier_NN
+PLCs_NN
+52.9_CD
+%_NN
+economic_JJ
+interest_NN
+in_PIN
+the_DT
+net_JJ
+assets_NN
+of_PIN
+the_DT
+combined_JJ
+businesses_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+shown_VBN [PRIV]
+on_PIN
+the_DT
+balance_NN
+sheet_NN
+as_IN
+investments_NOMZ
+in_PIN
+joint_JJ
+ventures_NN
+,_,
+net_NN
+of_PIN
+the_DT
+assets_NN
+and_PHC
+liabilities_NOMZ
+reported_VBD [PUBV]
+as_IN
+part_NN
+of_PIN
+Reed_NN
+Elsevier_NN
+PLC_NN

@@ -1,0 +1,94 @@
+statement of accounting policies STATEMENT OF ACCOUNTING POLICIES Basis of preparation The Financial Statements are prepared in accordance with applicable accounting standards and on the historical cost basis except for the revaluation of investments in subsidiaries in the Companys accounts.
+The accompanying consolidated Financial Statements have been prepared in accordance with generally accepted accounting principles in the United Kingdom UK GAAP which differ in certain significant respects from generally accepted accounting principles in the United States US GAAP, see Note 36 Summary of differences between United Kingdom and United States GAAP.
+The preparation of Financial Statements in accordance with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the Financial Statements and the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from these estimates.
+New accounting standards The following new accounting standards were adopted during the year: UITF Abstract 37 Purchases and sales of own shares is applicable for accounting periods ending on or after 23 December 2003.
+The Group has adopted UITF Abstract 37 for the year ended 31 March 2004.
+The abstract requires the consideration paid or received from the purchase or sale of the Companys own shares to be shown separately in the reconciliation of shareholders funds, with no gain recognised in the profit and loss account or statement of total recognised gains and losses.
+Shares held are no longer treated as assets but instead consideration paid is shown as a deduction from reserves.
+The abstract does not apply to an entitys own shares held by an ESOP trust and therefore, as the Group has no other holdings of its own shares, there is no impact of adoption on the reported results of the Group.
+Application Note G to FRS 5 Reporting the substance of transactions is applicable for accounting periods ending on or after 23 December 2003.
+The Group has adopted the Application Note to FRS 5 for the year ended 31 March 2004.
+The Application Note sets out the basic principles of revenue recognition and specically addresses the following arrangements which give rise to turnover: long term contractual performance: separation and linking of contractual arrangements: bill and hold arrangements: sales with a right of return: and presentation of turnover as principal or agent.
+There is no material impact of adoption on the reported results of the Group.
+In addition, the following new accounting standard has been issued and revised but has not yet been adopted: UITF Abstract 38 Accounting for ESOP Trusts and related amendments to UITF Abstract 17 Employee shares scheme.
+This standard brings the accounting for ESOP trusts in line with accounting for treasury shares in UITF 37.
+The abstract is mandatory for accounting periods ending on or after 22 June 2004.
+The Group has elected not to early adopt UITF Abstract 38 for the year ended 31 March 2004.
+Basis of consolidation With the exception of Cable & Wireless USA, Inc. and Cable & Wireless Internet Services, Inc. together with certain of their afliates, which were deconsolidated on 8 December 2003 the date on which these companies led for Chapter 11 bankruptcy protection under the US Bankruptcy Code, the Group Financial Statements comprise a consolidation of the accounts of the Company and all its subsidiaries and include the Groups share of the results and net assets of its joint ventures and associates.
+The accounts of principal subsidiaries, joint ventures and associates are made up to 31 March.
+Page 92 statement of accounting policies Where subsidiaries, joint ventures or associates have been acquired during the year, goodwill, being the difference between the fair value of consideration given and the fair values attributed to the separable net assets acquired, is capitalised on the balance sheet and amortised through the profit and loss account.
+For acquisitions made before 1 April 1998, goodwill was written off directly to reserves.
+Goodwill written off directly to reserves is reinstated in the profit and loss account when the related business is sold.
+Foreign currencies Average rates of exchange ruling during the year are used to translate the profit and loss accounts of overseas subsidiaries, joint ventures and associates.
+Foreign currency assets and liabilities are translated at year end rates and any exchange differences arising are dealt with through the profit and loss account.
+The net investments in the Groups overseas subsidiaries, joint ventures and associates are translated into sterling at year end rates of exchange.
+Exchange differences resulting from the translation of opening net investments at rates ruling at the beginning and end of the year, together with the differences between profit and loss accounts translated at average rates and year end rates, are dealt with as movements in Group reserves.
+Where net investments are matched in whole or in part by foreign currency borrowings, the exchange differences arising on the retranslation of such borrowings are also recorded as movements on Group reserves and any excess taken to the profit and loss account.
+All other exchange differences are dealt with through the profit and loss account.
+Tangible xed assets and depreciation Tangible xed assets are stated at cost less depreciation.
+The cost of xed assets includes directly attributable labour and overhead costs.
+Interest incurred up to the time that separately identiable major capital projects are ready for service is also capitalised as part of the cost of assets.
+Depreciation is not provided on freehold land or projects under construction.
+On other tangible xed assets, depreciation is provided on the difference between the cost of tangible xed assets and the estimated residual value, in equal annual instalments over the estimated useful lives of the assets.
+These lives are: Lives Cables up to 20 years Network equipment 3 to 25 years Ducting 40 years Freehold buildings 40 years Leasehold land and buildings up to 40 years or term of lease if less Surpluses and deficits on disposals of tangible xed assets are determined by reference to sale proceeds and net book values.
+Intangible xed assets From 1 April 1998 intangible xed assets acquired have been recorded at cost and amortised on a straight line basis over their estimated useful life, not exceeding 20 years.
+Intangible xed assets primarily comprise goodwill arising on the acquisition of businesses.
+Goodwill arising on acquisition prior to 1 April 1998 was eliminated directly against reserves.
+The profit or loss on the disposal of all or part of a previously acquired business is calculated after taking account of the gross amount of any goodwill previously eliminated directly against reserves.
+Page 93 statement of accounting policies Asset impairment Intangible and tangible xed assets are reviewed for impairment when events or changes in circumstances indicate that the carrying amount of the xed asset may not be recoverable.
+Where an impairment indicator is identied, the carrying value of the income generating unit is compared with its recoverable amount.
+Where the recoverable amount is less than the carrying value an impairment is recognised.
+Fixed asset investments Joint ventures and associates are accounted for in the Group accounts under the gross equity and equity methods of accounting respectively.
+Other xed asset investments in the Group accounts are stated at cost less amounts written off in respect of any impairments.
+Investments in subsidiaries are included in the Company balance sheet at valuation.
+Current asset investments Current asset investments are stated at the lower of cost and net realisable value.
+Tax The charge for tax is based on the result for the year and takes into account tax deferred due to timing differences between the treatment of certain items for tax and accounting purposes.
+Deferred tax assets are recognised to the extent that they are regarded as recoverable.
+Deferred tax assets are regarded as recoverable to the extent that on the basis of all available evidence, it can be regarded as more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted.
+Except where otherwise required by accounting standards, full provision without discounting is made for all timing differences that have arisen but not reversed at the balance sheet date.
+Stocks Stocks of equipment, held for use in the maintenance and expansion of the Groups telecommunications systems, are stated at cost, including appropriate allocation of labour and overheads, less provision for deterioration and obsolescence.
+Stocks held for resale are stated at the lower of cost and net realisable value.
+Discontinued operations The Group complies with FRS3 Reporting financial performance, in determining the classication of operations as discontinued or continuing.
+Group turnover Group turnover, which excludes discounts, value added tax and similar sales taxes, represents the amount receivable in respect of telecommunications services provided to customers and is accounted for on the accruals basis, to match revenues with provision of service.
+It includes sales to joint ventures and associated companies but does not include sales by joint ventures and associated companies or sales between Group companies.
+Turnover from voice, data and IP services are recognised as the services are provided.
+In respect of services invoiced in advance, amounts are deferred until provision of the service.
+Amounts payable by and to telecommunications operators of national and international networks are recognised as services are provided.
+Charges are negotiated separately and are subject to continual review.
+Revenues generated through the provision Page 94 statement of accounting policies of these services are accounted for gross of any amounts payable to other telecommunications operators for interconnect fees.
+The Group earns revenue from the transmission of content on its network originated by third-party providers.
+The Group assesses whether revenue should be recorded gross as principal or net as agent, based on the features of such arrangements including the following indicators: r whether the Group holds itself out as an agent: r establishment of the price: r provision of customer remedies: r performance of part of the service: and r assumption of credit risk.
+Mobile revenues comprise amounts charged to customers in respect of monthly access charges, airtime usage, messaging, the provision of other mobile telecommunications services, including data services and information provision, fees for connecting customers to a mobile network and revenues from the sale of equipment, including handsets.
+Mobile monthly access charges are invoiced and recorded as part of a periodic billing cycle.
+Airtime, either from contract customers as part of the invoiced amount, or prepaid customers through the sale of prepaid top-up cards is recorded in the period in which the customer uses the service.
+Unbilled turnover resulting from mobile services provided to contract customers from the billing cycle date to the end of each period is accrued.
+Unearned monthly access charges relating to periods after each accounting period are deferred.
+Revenues from sales of telecommunication equipment are recognised upon delivery to the customer.
+Connection revenues are recognised upon connection of the customer to the network.
+Costs of connecting a customer to a network are also charged to the profit and loss account at the point when the customer connects to the network.
+Sales of network capacity to third parties pursuant to IRUs are accounted for as sales and recognised at the time of delivery and acceptance where: r the purchasers right of use is exclusive and irrecoverable: r the asset is specic and separable: r the term of the contract is for the major part of the assets useful economic life: r the attributable costs of carrying value can be measured reliably: and r no significant risks are retained by the Group.
+Capacity sales are made out of network capacity and infrastructure held as stock for re-sale.
+Transfers are made from xed assets to stock at cost on completion of construction based on an estimate of what will be sold to third parties under IRU contracts which typically form part of the original investment criteria.
+The cost of the construction is apportioned on a pro rata basis between stock and xed assets.
+Income relating to operations and maintenance contracts is spread over the period of the contract.
+Revenues or gains in respect of contracts involving the provision of capacity in exchange for receiving capacity, or other services, are not recognised on the basis that the capacity does not have a readily ascertainable market value as dened in accounting standards.
+Revenues arising from the provision of other services, including maintenance contracts, are recognised evenly over the periods in which the service is provided.
+Pensions The regular cost of providing benets under dened benefit schemes is charged to operating profit over the expected remaining service lives of the members of the schemes so as to achieve a constant percentage of pensionable pay.
+Variations from the regular cost arising from periodic actuarial valuations of the principal dened benefit schemes are allocated to operating profit over the expected remaining service lives of the members.
+The cost of providing benets under dened contribution schemes is charged as it becomes payable.
+Page 95 statement of accounting policies The Group has applied the transitional arrangements of FRS17 Retirement benets and appropriate additional disclosures have been included in Note 8.
+Leased assets Where assets are nanced by leasing agreements that give rights approximating to ownership, the assets are treated as if they had been purchased outright.
+The amount capitalised is the present value of the minimum lease payments payable during the lease term.
+The corresponding lease commitments are shown as obligations to the lessor.
+Lease payments are split between capital and interest elements using the annuity method.
+Depreciation on the relevant assets and interest are charged to the profit and loss account.
+All other leases are operating leases and the rentals are charged to operating profit on a straight line basis over the lease term.
+Debt issue costs The costs of issue of capital instruments such as bonds and debentures are charged to the profit and loss account over the life of the instrument.
+Derivatives Swaps and forward rate agreements The net interest paid or received under interest rate and cross currency swaps and forward rate agreements FRAs is recorded on an accruals basis and included within net interest in the profit and loss account.
+The notional amounts of interest rate swaps and FRAs are not recorded on the balance sheet.
+Cross currency swaps are used to hedge the initial draw down and final repayment of foreign currency denominated debt, as well as the foreign currency interest ows.
+Forward exchange contracts Forward exchange contracts are carried on the balance sheet at the difference between the amounts of the payable and receivable currency revalued at the closing exchange rate.
+The interest differential, being the difference between the contract rate and the spot rate on the date of entering into the forward exchange contract, is charged to the profit and loss account as interest over the life of the contract.
+Exchange gains and losses Exchange gains and losses on revaluation and maturity of forward exchange contracts and cross currency swaps are treated differently depending on the underlying exposure they hedge: r for contracts that hedge rm third party commitments the exchange gains and losses are recognised in the profit and loss account in the same period as the underlying transaction: r for contracts over underlying currency assets or liabilities the exchange gains and losses are offset against the equal and opposite exchange gains or losses arising on the retranslation of the underlying assets or liabilities: r for contracts taken out to hedge overseas equity investments the exchange gains and losses are taken to reserves to offset against the exchange differences arising on the retranslation of the net assets of the investments on consolidation: and r for contracts that hedge general trading ows the exchange gains or losses are taken to the profit and loss account in the period in which they arise.
+Where the underlying exposure changes, or ceases to exist, the contract would be terminated and the exchange gain or loss arising taken to the profit and loss account.

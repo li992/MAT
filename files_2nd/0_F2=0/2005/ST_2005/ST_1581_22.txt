@@ -1,0 +1,3 @@
+Notes_NNS to_TO the_DT Consolidated_NNP Financial_NNP statements_NNS 5_CD ._.
+Profit_NN from_IN operations_NNS continued_VBD A_DT description_NN of_IN the_DT work_NN of_IN the_DT audit_NN committee_NN is_VBZ set_VBN out_RP in_IN the_DT corporate_JJ governance_NN statement_NN beginning_VBG on_IN page_NN 10_CD and_CC includes_VBZ an_DT explanation_NN of_IN how_WRB auditor_NN objectivity_NN and_CC independence_NN is_VBZ safeguarded_VBN when_WRB non-audit_JJ services_NNS are_VBP provided_VBN by_IN the_DT auditors_NNS ._.
+Taxation_NNP for_IN other_JJ jurisdictions_NNS is_VBZ calculated_VBN at_IN the_DT rates_NNS prevailing_VBG in_IN the_DT respective_JJ jurisdictions_NNS ._.

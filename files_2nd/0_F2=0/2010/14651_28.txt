@@ -1,0 +1,52 @@
+GlossarY 3G Third Generation Third generation of mobile communications following first generation analogue and second generation digital that promises megabits per second.
+4G Fourth Generation Future generation of mobile communications following 3G that promises hundreds of megabits per second.
+ADSL Asymmetric Digital Subscriber Line The most common of the DSL technologies.
+ADSL is designed to deliver more bandwidth downstream than upstream, for example from a central office to a customer site.
+Backhaul A communications channel is backhauling when it takes traffic beyond its destination and back.
+There are many reasons it might do this for example it may be cheaper to go that route instead of going directly.
+Broadband Generic term for devices with a bandwidth greater than one megabit per second.
+CDMA Code Division Multiple Access A digital cellular standard technology allowing communications circuits to carry multiple conversations simultaneously, thus increasing capacity: used in radio communications.
+Cloud Computing A way of computing, via the internet, that broadly shares computer resources instead of having local servers handle specific applications.
+COMPASS A Chinese project to develop and deploy an independent global navigation satellite system.
+Content Delivery On the internet, content delivery is a service that entails copying pages from a website to geographically dispersed servers and, when a page is requested, dynamically identifying and serving the page from the closest server to the user, enabling faster delivery.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+DOCSIS Data Over Cable Service Interface An international telecommunications standard that permits the addition of high speed data Specification transfer to an existing Cable TV system.
+It is employed by many cable television operators to provide internet access over their existing hybrid fibre coaxial infrastructure.
+Ethernet A family of networking technologies developed for local area networks, migrating to metro area networks and becoming a dominant standard in wireline networks.
+Galileo The informal name for the European Global Navigation Satellite System, a system that will offer users anywhere in the world near pinpoint geographic positioning when it becomes fully operational.
+GbE Gigabit Ethernet A term describing various technologies for transmitting Ethernet frames at a rate of a gigabit per second.
+GbE uses the same framing as Ethernet and Fast Ethernet, but has a much higher clock speed one billion bits per second.
+GNSS Global Navigation Satellite Systems The standard generic term for satellite navigation systems sat nav that provide autonomous geo-spatial positioning with global coverage.
+GNSS allows small electronic receivers to determine their location to within a few metres using time signals transmitted along a line-of-sight by radio from satellites.
+Receivers calculate the precise time as well as position.
+GPS Global Positioning System A system for determining location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+126 Spirent Communications plc Annual Report 2010 GLONASS Global Navigation Satellite System Global navigation satellite system operated by the Russian Federation Ministry of Defence.
+HSPA High Speed Packet Access A collection of mobile telephone protocols that extend and improve the performance of existing UMTS protocols for high speed data transmission.
+IMS Internet Protocol Multimedia Subsystem A standardised next-generation architecture for telecoms operators who want to provide mobile and fixed multimedia services.
+IP Internet Protocol Data protocol used by many networking devices to facilitate and control the flow of data.
+IPTV Internet Protocol Television The delivery of programming by video stream encoded as a series of IP packets.
+LAN Local Area Network A short distance data communications network used to link computers and peripheral devices, such as printers or modems, under some form of standard control.
+Location Based Services The delivery of information, mapping and locally available business and public data over the wireless network dependent upon the ability to locate mobile devices by means of direct satellite or cellular assisted satellite signals.
+LTE Long Term Evolution A standard to enhance existing 3G wireless to add 4G mobile communications technology on an IP network air interface, to create a wireless broadband internet system.
+MSO Multiple System Operator A company that operates more than one cable TV system, often in different places.
+Over-the-Air Mobile network radio cellular tower signal or satellite signal transmitted over-the-air to a mobile device antenna and processed by the mobile device communicating with the mobile network.
+RF Radio Frequency A technology used for wireless broadcasting and or communications.
+SAN Storage Area Network A special purpose high speed network designed to transport database-intensive applications, such as those used for inventory, billing, receivables, customer relationship management and supply chain.
+Triple Play Voice, video and data transmitted over a single transport medium.
+UMTS Universal Mobile One of the 3G wireless technologies.
+The most common form of UMTS uses WCDMA on its Telecommunications System underlying air interface and offers support for high speed data transfer.
+VDSL2 Second Generation very-high-data-rate Designed to support simultaneous bandwidth-intensive and tenancy-sensitive voice, video, Digital Subscriber Line data, TV over IP and interactive gaming.
+Virtualization A term that refers to the abstraction of computer resources.
+Virtualization puts a number of computing and networking facilities together in such a way that it looks like a virtual computer to a user or a customer.
+WCDMA Wideband CDMA A global standard for mobile 3G.
+Wi-Fi Enables devices such as personal computers, video game consoles, smart phones or digital audio players to connect to the internet when within range of a wireless network connected to the internet.
+The coverage of one or more access points generally comprises an area the size of a few rooms but may be expanded to cover many square miles, depending on the number of access points with overlapping coverage.
+Spirent Communications plc Annual Report 2010 127 notes 128 Spirent Communications plc Annual Report 2010 ContaCt detaIls Registered office ADR Depositary The Bank of New York Mellon Corporation Spirent Communications plc Northwood Park ADR Depositary Receipts 101 Barclay Street Gatwick Road Crawley 22nd Floor New York West Sussex RH10 9XN United Kingdom NY 10286 USA Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Tel: 1 888 269 2377 toll free US Tel: 1 201 680 6825 outside US Email: investor.
+com Registered in England No: 470893 Brokers Joint Auditor Ernst & Young LLP RBS Hoare Govett Limited 250 Bishopsgate 1 More London Place London SE1 2AF London EC2M 4AA United Kingdom United Kingdom Tel: 44 0 20 7951 2000 Tel: 44 0 20 7678 8000 Website: www.
+com UBS Limited Registrar Equiniti Limited 1 Finsbury Avenue London EC2M 2PP Aspect House Spencer Road United Kingdom Lancing Tel: 44 0 20 7567 8000 West Sussex BN99 6DA Website: www.
+com United Kingdom Tel: 0871 384 2126 UK Financial PR Advisers Tel: 44 0 121 415 7047 overseas Financial Dynamics Limited Text phone for shareholders with hearing difficulties : Holborn Gate 0871 384 2255 UK 26 Southampton Buildings 44 0 121 415 7028 overseas London WC2A 1PB Website: www.
+co. uk United Kingdom Tel: 44 0 20 7831 3113 Website: www.
+com Registered Office Spirent Communications plc Northwood Park Gatwick Road Crawley West Sussex RH10 9XN United Kingdom Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: investor.
+com Registered in England No: 470893 Spirent and the Spirent logo are trademarks or registered trademarks of Spirent Communications plc.
+All other trademarks or registered trademarks mentioned herein are held by their respective companies.

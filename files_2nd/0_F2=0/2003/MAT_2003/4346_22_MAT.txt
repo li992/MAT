@@ -1,0 +1,81 @@
+Minority_NOMZ
+interests_NN
+2.2_CD
+1.9_CD
+Total_JJ
+gains_NN
+and_PHC
+losses_NN
+recognized_VBN [PRIV] [WZPAST]
+in_PIN
+the_DT
+year_NN
+90.4_CD
+76.6_CD
+Prior_RB
+year_NN
+adjustment_NOMZ
+34_CD
+10.7_CD
+Total_JJ
+gains_NN
+and_PHC
+losses_NN
+recognized_VBN [PRIV]
+since_OSUB
+the_DT
+last_JJ
+Annual_JJ
+Report_NN
+79.7_CD
+There_EX
+is_VPRT
+no_SYNE
+material_NN
+difference_NN
+between_PIN
+the_DT
+results_NN
+on_PIN
+a_DT
+historical_JJ
+cost_NN
+basis_NN
+and_CC
+those_DEMP
+reported_VBN [PUBV]
+._.
+Accordingly_RB
+no_SYNE
+note_NN
+of_PIN
+historical_JJ
+cost_NN
+profits_NN
+and_PHC
+losses_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+included_VBN
+._.
+Prior_RB
+year_NN
+adjustment_NOMZ
+34_CD
+57.3_CD
+As_IN
+restated_VBN
+282.1_CD
+Closing_GER
+shareholders_NN
+funds_NN
+338.3_CD
+See_VB [PRIV]
+Note_VB [PRIV]
+34_CD
+Daily_NN
+Mail_NN
+and_PHC
+General_NN
+Trust_NN
+plc_NN

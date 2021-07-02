@@ -1,0 +1,598 @@
+12997ENTERPRI 11 12 06 4:23 pm Page 42 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies The consolidated financial statements of Enterprise Inns plc for the year ended 30 September 2006 were authorised for issue by the Board on 21 November 2006.
+Enterprise Inns plc is a public limited company incorporated and registered in England.
+The Company's ordinary shares are traded on the London Stock Exchange.
+Basis of preparation The accounts are prepared in accordance with International Financial Reporting Standards IFRS as adopted by the European Union.
+This is the first year in which the Group has prepared its Group financial statements under IFRS and the comparatives have been restated from UK GAAP accordingly.
+The Group issued a press release on 4 May 2006 which detailed the impact of transition to IFRS and included detailed reconciliations from UK GAAP to IFRS of the 2005 Income Statement and Balance Sheet.
+These reconciliations are included in note 33 along with a narrative explanation of the adjustments made.
+Since the publication of the Restatement of Financial Information under IFRS released in May 2006, the Group has amended the 2005 Income Statement and Balance Sheet in respect of the application of IFRS 5 Non-current assets held for sale and discontinued operations.
+This amendment relates to the treatment of the write-down of property on classification as held for sale' under IFRS 5.
+The write-down to fair value less costs to sell is first recognised in the Revaluation Reserve, to the extent of any existing surplus for the asset.
+It is then recognised in the Income Statement within the line movements from revaluation of pub estate'.
+Previously, the entire writedown was recognised in the Income Statement within the line Net profit on sale of property, plant and equipment.
+The impact of this amendment is as follows: n Net profit on sale of property has been increased by 11 million being the amount previously recognised on write-down of pubs identified for sale.
+n The first 4 million of these write-downs has been recognised in the Revaluation Reserve against surpluses that existed for the individual pubs concerned.
+n The remaining 7 million of write downs has been recognised within the line movement from revaluation of pub estate, reducing the previously reported credit to a 4 million charge.
+n Profit before tax has been increased by 4 million, being the combination of the amendments above.
+n The tax credit within exceptional items has been reduced by 1 million being the deferred tax impact of the amendments made.
+n Profit after tax is therefore increased by 3 million being the post-tax impact of the amendments made.
+In addition to the above amendment, the 2005 Balance Sheet has been reclassified in respect of the application of IAS 1 Presentation of financial statements and IAS 39 Financial instruments: recognition and measurement.
+The interaction of these two standards means that all derivatives that are not part of a designated and effective hedging relationship should be classified as current assets or liabilities.
+The Group has therefore reclassified the fair value of all interest swaps as current liabilities in 2005.
+Previously, the fair value of the swaps was allocated between current and non-current liabilities.
+86m of fair value was previously classified as non-current and this amount has therefore been re-classified as current.
+Consolidated accounts are drawn up to 30 September each year and adjustments are made to the accounts of the subsidiaries where necessary to bring the accounting policies used in line with those used by the Group.
+42 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 43 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued Goodwill Goodwill represents the excess of consideration over the fair value of identifiable assets and liabilities acquired in a business combination.
+Goodwill is stated at cost less any impairment.
+Goodwill is not amortised but is tested for impairment annually, or more frequently where events or changes in circumstances indicate that the carrying value may be impaired.
+On disposal of a subsidiary, the attributable amount of goodwill is included in the determination of profit or loss on sale.
+Goodwill arising on acquisitions prior to 1 October 1998 was written off against reserves and has not been reinstated.
+Any such goodwill is not included in determining any profit or loss on disposal.
+Property, plant and equipment Licensed land and buildings are held at their fair value and landlords fixtures and fittings and other assets are held at cost.
+The Groups licensed land and buildings, except for those non-current assets held for sale, is revalued each year by professionally qualified external valuers and employees who are professionally qualified to carry out such valuations.
+Surpluses arising from the revaluation exercise are taken directly to the revaluation reserve except where they reverse a revaluation decrease relating to the same asset which has previously been recognised as an expense in the Income Statement.
+Any deficit arising from the revaluation exercise is taken directly to the revaluation reserve to the extent that there is a surplus in place relating to the same asset.
+Any further decrease in value is recognised in the Income Statement as an expense.
+Freehold land is not depreciated.
+Freehold buildings are depreciated so as to write off the difference between their carrying value and residual value over their useful economic life of 50 years.
+Residual value is reviewed at least at each financial year end and there is no depreciable amount if residual value is the same as, or exceeds, book value.
+Landlords fixtures and fittings are held at cost less accumulated depreciation.
+The useful economic life of additions to landlords fixtures and fittings has been calculated at 30 years.
+Depreciation is charged on a straightline basis to write off the total cost less residual value over their useful economic life.
+Properties held under finance leases are depreciated on a straight-line basis over the lower of the remaining lease term and their useful economic life of 50 years.
+Depreciation is provided on other categories of property, plant and equipment over 3 to 50 years on a straight-line basis to residual value.
+Profits or losses on disposal of property, plant and equipment are calculated as the difference between the net sales proceeds and the carrying amount of the asset at the date of disposal.
+Property, plant and equipment are reviewed annually for indications of impairment.
+Where any indications are identified, assets are assessed fully for impairment.
+Impairment occurs where the recoverable amount of the asset is less than its carrying amount.
+Recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+Any impairment loss is treated as a revaluation decrease to the extent that a surplus exists for the same asset, and thereafter as an expense in the Income Statement.
+Enterprise Inns plc Annual Report 2006 43 12997ENTERPRI 11 12 06 4:23 pm Page 44 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued Leases Leases where the Group assumes substantially all the risks and rewards of ownership are classified as finance leases.
+Pubs acquired under finance leases are capitalised at the lower of their fair value and the present value of future lease payments.
+The corresponding liability is included in the balance sheet as a finance lease payable.
+Pubs held under finance leases are revalued along with the freehold estate on an annual basis.
+Lease payments are apportioned between finance charges and reduction of the lease payable so as to obtain a constant rate of interest on the remaining balance of the liability.
+Finance charges are charged as an expense to the Income Statement.
+Leases where substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Rentals paid under operating leases are charged on a straight-line basis to the Income Statement over the lease term.
+The fair value attributed to pubs acquired as part of business combinations that are held as operating leases are classified in the balance sheet as intangible assets: lease premiums within noncurrent assets and are amortised over the lease term.
+Non-current assets held for sale Non-current assets held for sale are held at the lower of their carrying value and expected sale proceeds, net of selling costs.
+Pubs and operating lease intangibles are classified as held for sale when they have been identified for disposal by the Group.
+They must be available for immediate sale in their present condition and the sale should be highly probable.
+These conditions are met when management are committed to the sale, the pub or lease is actively marketed and the sale is expected to occur within one year.
+Pubs held for sale are not depreciated and operating lease intangibles held for sale are not amortised.
+Current assets held for sale Current assets held for sale comprises tenants' fixtures and fittings and are held at the lower of cost and net realisable value.
+Net realisable value is based on estimated selling price less further costs expected to be incurred on disposal.
+Repairs and Maintenance Repairs and maintenance expenditure is charged to the Income Statement as incurred.
+Financial instruments i Cash and cash equivalents Cash comprises cash at bank and in hand.
+Any short-term deposits with an original maturity date of three months or less are classified as cash equivalents.
+ii Borrowings Borrowings which include bank borrowings, syndicated debt finance, debentures, secured bonds and securitised bonds are initially recognised at fair value and are subsequently measured at amortised cost.
+This method is used to ensure that the interest charge associated with the debt, combined with the amortisation of the issue costs, premiums and discounts, represents a constant percentage of the borrowings across the life of the instrument.
+iii Derivative financial instruments The Group uses interest rate swaps to manage the exposure to changes in interest rates and these are classified as derivative financial instruments.
+Interest rate swaps are initially measured at fair value on acquisition and are subsequently restated to fair value at each reporting date.
+Any change in the fair value of the instruments is recognised in the Income Statement unless hedge accounting has been adopted.
+Hedge accounting is only adopted where, at the inception of the hedge, there is formal designation documentation of the hedging relationship and it meets the Group's risk management strategy for undertaking the hedge, and it is expected to be highly effective.
+Where hedge accounting is adopted for interest rate swaps, they are classified as cash flow hedges.
+44 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 45 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued iii Derivative financial instruments continued The portion of any change in the fair value of the hedging instrument used in a cash flow hedge which meets the conditions for hedge accounting and is determined to be an effective hedge, is recognised directly in equity.
+Changes in fair value relating to any ineffective portions are recognised in the Income Statement.
+Hedge accounting is discontinued when the hedging instrument expires or is sold, terminated or exercised, or no longer qualifies for hedge accounting.
+At that point in time, any cumulative gains or losses arising from changes in the fair value of the hedging instrument recognised in equity are kept in equity until the forecast transaction occurs.
+In the case of interest rate swaps, the forecast transaction' is the payment of interest.
+iv Equity instruments Equity instruments, being ordinary shares issued by the Company, are recorded at the fair value of the proceeds received, net of any direct issue costs.
+The nominal value of shares issued is recorded in Share Capital and the balance of the net proceeds is recorded in Share Premium.
+Net debt Net debt is the total of all financial assets and liabilities less cash.
+Underlying net debt is amounts repayable to banks and other lenders, net of cash retained in the business.
+Taxation The income tax expense comprises both the income tax payable based on taxable profits for the year and deferred tax.
+Deferred tax is provided using the balance sheet liability method in respect of temporary differences between the carrying value of assets and liabilities for accounting and tax purposes.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the asset can be utilised.
+No deferred tax is recognised if the taxable temporary difference arises from goodwill or the initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither the accounting profit nor taxable profit or loss.
+Current tax assets and liabilities are offset where there is a legally enforceable right to set off the recognised amounts and the intention is to either settle on a net basis or realise the asset and liability simultaneously.
+Deferred tax assets and liabilities are offset where there is a legally enforceable right to set off current tax assets and liabilities and the assets and liabilities relate to taxes levied by the same tax authority which are intended to be settled net or simultaneously.
+Both current and deferred tax are recognised in the Income Statement except when it relates to items recognised directly in equity, in which case the corresponding tax is also recognised in equity.
+Tax is calculated using tax rates enacted or substantively enacted at the balance sheet date.
+Provisions Provisions are recognised when the Group has a present legal or constructive obligation as a result of past events, it is probable that an outflow of resources will be required to settle the obligation and the amount can be reliably estimated.
+If the effect is material, the amount of the provision is discounted using a pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the liability.
+The amount of the provision would therefore represent the present value of the expenditure expected to be required to settle the obligation.
+Pension obligations The Group has both defined contribution and defined benefit pension arrangements.
+The cost of defined contribution payments made to employees own pension plans is charged to the Income Statement as incurred.
+Enterprise Inns plc Annual Report 2006 45 12997ENTERPRI 11 12 06 4:23 pm Page 46 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued Pension obligations The defined benefit scheme is now closed to new members and for the future accrual of benefits.
+The net amount recognised on the balance sheet comprises the difference between the present value of the schemes liabilities and the fair value of the schemes assets.
+This is determined annually by qualified actuaries using the projected unit credit method.
+Current service cost and past service cost are charged to operating profit.
+The net of the expected return on scheme assets and interest on scheme liabilities is recognised within finance income or finance costs.
+Actuarial gains and losses are recognised in full in the period in which they occur in the statement of recognised income and expense.
+Treasury shares The cost of own shares held in employee benefit trusts and in treasury is deducted from shareholders equity until the shares are cancelled, reissued or disposed of.
+Any proceeds received are also taken to shareholders equity.
+No gain or loss is recognised in the Income Statement on the purchase, sale, issue or cancellation of own shares held.
+Revenue recognition Revenue represents amounts receivable for goods and services provided in the normal course of business, net of discounts and VAT.
+Revenue is measured as the fair value of consideration received or receivable.
+Sales of beverages are recognised when these goods are delivered to our customers.
+Rents receivable are recognised on a straight-line basis over the life of the lease.
+Amusement machine royalties are recognised in the accounting period to which the income relates.
+Segmental reporting A business segment is a distinguishable component of an entity that provides a product or service that is subject to risks and returns that are different to those of other segments.
+The Group has one business segment, being the operation of a leased and tenanted pub estate.
+The Group operates solely within the UK and therefore also has just one geographical segment.
+Share-based payments The Group has applied the transitional provisions of IFRS 2 and applied its requirements to those awards granted after 7 November 2002 that were not vested at 1 January 2005.
+The Group operates a number of equity-settled share-based payment schemes for employees.
+Share-based payments are measured at fair value at the date of award and this value is subsequently updated at each balance sheet date for managements best estimate of the effect of non-market based vesting conditions on the number of equity instruments that will ultimately vest.
+The fair value is recognised as an expense over the vesting period by calculating the cumulative expense and recognising the movement in the cumulative expense in the Income Statement.
+A corresponding entry is made to equity.
+The fair value of share options is measured using valuation models.
+Dividends Final dividends are recognised as a liability when they have been approved by shareholders at the Annual General Meeting.
+Interim dividends are recognised when they are paid.
+Operating profit Operating profit as referred to in the Income Statement is defined as being profit generated from normal trading activities before interest receivable, finance costs and taxation.
+Exceptional items The Group has elected to classify certain items as exceptional and present them separately on the face of the Income Statement.
+Exceptional items are classified as those which are separately identified by virtue of their size or nature to allow a full understanding of the underlying performance of the Group and include the following: 46 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 47 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued Exceptional administrative costs The exceptional item shown within administrative costs relates to restructuring costs.
+Net profit on sale of property, plant and equipment Net profit arising from the sale of property, plant and equipment.
+Movements from revaluation of pub estate Under IFRS any revaluation that causes the book value of a pub to fall below historic cost will lead to a charge in the Income Statement.
+If that same pub later recovers in value so that its book value exceeds historic cost, the increase in value is credited to the Income Statement to the extent that a debit was previously recognised.
+Where pubs identified for disposal are written down to fair value less costs to sell', this write-down is also recognised in this line.
+Most of the impact of the annual revaluation exercise is accounted for in equity and recognised in the Statement of Recognised Income and Expense.
+Movement in fair value of interest rate swaps Under IFRS the interest rate swaps are revalued to fair value at each Balance Sheet date and the movement is recognised in the Income Statement unless hedge accounting is adopted.
+The movement in the fair value of swaps where hedge accounting is not applied is shown as an exceptional item.
+Tax Under IFRS, a deferred tax liability has been recognised on the balance sheet relating to the pub estate.
+On transition to IFRS, the Group elected to apply IFRS 3 retrospectively to acquisitions from 1 January 1999.
+This led to an increase in goodwill in respect of this deferred tax.
+As this pre-acquisition liability reduces due to capital gains indexation relief, a credit is recognised in the Income Statement.
+This has been classified as an exceptional tax item due to its size and because it does not relate to any income or expense recognised in the Income Statement in the same period.
+All other movements in respect of this deferred tax liability are accounted for in equity and recognised in the Statement of Recognised Income and Expense.
+The tax effect of all other exceptional items is also included within the exceptional items column in the Income Statement.
+New standards and interpretations The Group has elected to early adopt IFRS 7 Financial Instruments: Disclosure which is not yet mandatory for adoption: During the year, a number of other new standards and interpretations were issued with an effective date after the date of these financial statements.
+The following standards which are relevant to the Group are not expected to have a material impact on the financial statements although the Amendment to IAS 1 may require some additional disclosure.
+The effective dates below represent the latest date that the Group will be required to implement the standard: n Amendment to IAS 1 Capital Disclosures effective from 1 October 2007 n IFRIC 4 Determining whether an arrangement constitutes a lease effective from 1 October 2006 n IFRIC 8 Scope of IFRS 2 - effective from 1 October 2006 Use of accounting estimates and judgements The Group makes estimates and assumptions during the preparation of the financial statements.
+Actual results may differ from these estimates under different assumptions and conditions.
+The estimates and assumptions that have the most significant effect on the amounts recognised in the financial statements are discussed below: Enterprise Inns plc Annual Report 2006 47 12997ENTERPRI 11 12 06 4:23 pm Page 48 Notes to the Group Accounts at 30 September 2006 1.
+Accounting policies continued a Property, Plant and Equipment Properties are valued annually at open market value in accordance with the Appraisal and Valuation Manual published by the Royal Institution of Chartered Surveyors RICS.
+The valuation is based on market observations and estimates the amount that would be paid by a willing buyer to a willing seller in an arms length transaction after proper marketing.
+Non-current assets held for sale are valued at their market value less any costs that may be incurred to sell the pub.
+Further information about the valuation of the pub estate is provided in note 17 of these accounts.
+The Group estimates the useful economic life and residual value of property, plant and equipment PPE and these estimates influence the depreciation charged each year.
+For details of these estimates, see the detailed accounting policy for PPE.
+b Testing goodwill for impairment The Group annually tests whether goodwill has been impaired.
+The recoverable amount of the cash generating unit that the goodwill has been allocated to is determined based on value-in-use calculations which require estimating future cash flows and applying a suitable discount rate.
+Details of the tests and carrying value of the asset are shown in note 14. c Valuation of interest rate swaps The Group measures interest rate swaps at fair value at each balance sheet date.
+The swap valuation rates are derived from the mid point of the zero coupon prevailing at the close of business on the balance sheet date.
+The fair value represents the net present value of the difference between the projected cash flows at the swap contract rate and the valuation rate for the period from the balance sheet date to the contracted expiry date.
+The calculation therefore uses estimates of present values and future interest rates.
+d Taxation Judgement is required when determining the provision for taxes as the tax treatment of some transactions cannot be finally determined until a formal resolution has been reached with the tax authorities.
+Tax benefits are not recognised unless it is probable that the benefit will be obtained.
+Tax provisions are made if it is possible that a liability will arise.
+The Group reviews each significant tax liability or benefit to assess the appropriate accounting treatment.
+e Other The Group also makes estimations and judgements in the valuation of share-based payments and the pension liability.
+However, the value of these items is such that any variation in the estimates used is unlikely to have a significant effect on the amounts recognised in the financial statements.
+Revenue The Group operates in one segment, that of leased and tenanted pub operator in the UK.
+Revenue is derived as follows: 2006 2005 m m Beer and cider sales 635 617 Wines, spirits and minerals sales 36 36 Rents receivable 270 269 Income from amusement and other machines 29 30 970 952 48 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 49 Notes to the Group Accounts at 30 September 2006 3.
+Cost of sales 2006 2005 m m Beer and cider cost of sales 349 343 Wines, spirits and minerals cost of sales 28 29 Leasehold charges 4 6 Repairs and maintenance 6 7 387 385 4.
+EBITDA impact of disposal of pubs to Admiral Taverns On 6 September 2006, the Group disposed of 769 pubs to Admiral Taverns.
+The pubs disposed of to Admiral generated 28 million of EBITDA in the year ended 30 September 2006 2005 31 million.
+An analysis of the impact of the disposal of pubs to Admiral Taverns on current and prior year EBITDA together with an analysis of the application of the sales proceeds is set out below: 2006 2005 m m Revenue Beer and cider sales 33 36 Wines, spirits and minerals sales 2 2 Rents receivable 11 13 Income from amusement and other machines 3 3 49 54 Cost of sales Beer and cider cost of sales 17 19 Wines, spirits and minerals cost of sales 2 2 Leasehold charges 1 1 Repairs and maintenance 1 1 21 23 Administrative expenses EBITDA 28 31 The disposal was made for cash consideration of 316 million which has been used to repay debt including the cancellation of equivalent swaps with the balance to be used for general corporate purposes including future acquisitions of pubs.
+In addition, the Group received 2 million of preference shares.
+m Consideration Cash 316 Preference shares 2 318 Use of funds Repayment of floating rate debt note 22 262 Restructuring of interest rate swaps note 22 30 Preference share holding note 15 2 Cash held for general corporate purposes 24 318 Enterprise Inns plc Annual Report 2006 49 12997ENTERPRI 11 12 06 4:23 pm Page 50 Notes to the Group Accounts at 30 September 2006 4.
+EBITDA impact of disposal of pubs to Admiral Taverns continued The assets disposed of had a total book value of 266 million and generated a total profit on disposal of 51 million.
+No tax is expected to be payable on this profit due to the application of capital gains roll over relief.
+Fixtures and Property, Plant fittings and Equipment Total m m m Consideration 2 316 318 Selling costs 1 1 Net consideration 2 315 317 Book value 2 264 266 Profit on disposal 51 51 5.
+Operating profit Operating profit is stated after charging: 2006 2005 m m Depreciation Relating to cost of sales 6 8 Relating to administrative expenses 1 1 7 9 Amortisation: Relating to cost of sales 1 1 Depreciation and amortisation 8 10 6.
+Auditors' Remuneration This note is shown rounded to the nearest thousand.
+2006 2005 000 000 Audit of the financial statements 282 237 Audit-related services 119 109 Other fees to auditors: Taxation services 189 163 Accounting advice in relation to share-based payment schemes 28 63 Company secretarial services 8 46 Other services 4 626 622 Audit-related services in 2005 and 2006 primarily relate to fees charged in respect of the transition to IFRS.
+On 29 June 2006, Ernst & Young LLP sold their company secretarial business.
+As a result, at 30 September 2006, the Group no longer pays any remuneration to the auditor for these services.
+50 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 51 Notes to the Group Accounts at 30 September 2006 7.
+Net profit on disposal of property, plant and equipment 2006 2005 m m Profits on disposal of property, plant and equipment 97 20 Losses on disposal of property, plant and equipment 30 6 67 14 There is no current tax expense associated with the profit on sale of property.
+A deferred tax charge of 19 million 2005 3 million arises as a result of the disposal of these properties.
+Movements on revaluation of pub estate 2006 2005 m m Movements on revaluation of pub estate 1 3 Write-down of non-current assets held for sale to fair value less costs to sell 3 7 2 4 There is no current tax expense associated with these movements.
+A deferred tax credit of 1m 2005 1 million arises as a result of the revaluation and write down of these properties.
+Staff costs 2006 2005 m m Wages and salaries 24 26 Social security costs 3 3 Other pension costs 2 2 29 31 Included in wages and salaries is a total expense relating to share-based payments of 3 million 2005 3 million.
+All of this expense arises from transactions accounted for as equity-settled share-based payments see note 28.
+Other pension costs represents payments made into employees individual defined contribution plans.
+The average monthly number of employees comprised: 2006 2005 No.
+Operations staff 244 230 Administration staff 283 309 527 539 Enterprise Inns plc Annual Report 2006 51 12997ENTERPRI 11 12 06 4:23 pm Page 52 Notes to the Group Accounts at 30 September 2006 9.
+Staff costs continued Directors emoluments are summarised below to the nearest 000 with full detail given in the Directors' Remuneration Report.
+2006 2005 000 000 Directors emoluments 2,478 2,255 Share-based payments 2,078 1,509 Aggregate gains made on exercise of share options 5,499 3,602 comprises fees, salary, benefits and performance-related cash bonus.
+fair value of share-based payments charged to the Income Statement during the year.
+Finance costs 2006 2005 m m Bank loans and overdrafts 37 40 Debentures secured bonds securitised bonds 191 193 Other interest payable and finance costs 2 4 Interest payable 230 237 Exceptional finance costs: Write-off of unamortised issue costs 3 5 Movement in fair value of interest rate swaps note 22 40 20 Total finance costs 193 262 The write-off of unamortised issue costs in 2005 and 2006 resulted from refinancing exercises.
+This write-off was classified as exceptional as it is not expected to occur every year and is not part of the cash outflow of servicing the Group's debt.
+The movement in fair value of interest rate swaps arises as a result of the revaluation of the swaps at the balance sheet date see note 1.
+The total interest charge under the effective interest rate method which excludes swap fair value movements is 233 million 2005 242 million.
+52 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 53 Notes to the Group Accounts at 30 September 2006 11.
+Taxation a Total tax expense recognised in the Group Income Statement 2006 2005  exceptional Exceptional items items Total items items Total m m m m m m Current tax UK corporation tax 82 1 81 74 1 73 Adjustments in respect of prior years 3 3 3 3 Total current tax 79 1 78 71 1 70 Deferred tax Origination and reversal of temporary differences note 11c 16 4 12 19 23 4 Taxation note 11b 95 5 90 90 24 66 b Tax charge reconciliation 2006 2005  exceptional Exceptional items items Total items items Total m m m m m m Profit before tax 315 100 415 290 15 275 Profit on ordinary activities before tax at 30% 2005 30% 94 30 124 87 5 82 Effects of: Expenses not deductible for tax purposes 4 4 3 3 Indexation on property disposals 14 14 Reduction in deferred tax liability due to indexation 21 21 19 19 Adjustments in respect of prior years 3 3 Total tax charge in the Income Statement 95 5 90 90 24 66 Enterprise Inns plc Annual Report 2006 53 12997ENTERPRI 11 12 06 4:23 pm Page 54 Notes to the Group Accounts at 30 September 2006 11.
+Taxation continued c Deferred tax recognised in the Group Income Statement 2006 2005  exceptional Exceptional items items Total items items Total m m m m m m Accelerated capital allowances 8 8 13 13 Deferred tax on movement in fair value of interest rate swaps 9 12 21 6 6 Utilisation of tax losses 3 3 6 6 Temporary differences 4 4 Deferred tax on profit on sale of property 18 18 2 2 Reduction in deferred tax liability due to indexation 34 34 19 19 16 4 12 19 23 4 d Deferred tax recognised directly in equity 2006 2005 m m Increase in deferred tax liability related to revaluation of property and rolled over gains 91 74 Deferred tax relating to share schemes credited to equity 5 7 Tax charge in the statement of recognised income and expense 86 67 54 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 55 Notes to the Group Accounts at 30 September 2006 12.
+Earnings per ordinary share The calculation of basic earnings per share is based on earnings of 325 million 2005 209 million and on 322.1million 2005 342.4 million shares being the weighted average number of equity shares in issue during the year after excluding shares held by trusts relating to employee share options and shares held in treasury.
+Adjusted earnings per share, which the directors believe reflects the underlying performance of the Group, is based on earnings adjusted for the effects of exceptional items, net of tax, of 220 million 2005 200 million and on 322.1 million 2005 342.4 million shares being the weighted average number of equity shares in issue during the year after excluding shares held by trusts relating to employee share options and shares held in treasury.
+Basic earnings are adjusted as follows: 2006 2005 m m Profit after tax 325 209 Exceptional finance costs: Write off of unamortised issue costs 3 5 Movement in fair value of interest rate swaps 40 20 Other exceptional items: Net profit on disposal of property 67 14 Movements from revaluation of pub estate 2 4 Reorganisation costs 2 Tax impact of exceptional items listed above 29 5 Reduction in deferred tax liability due to indexation 34 19 Adjusted earnings 220 200 Diluted earnings per share is based on profit for the year of 325 million 2005 209 million and adjusted profit of 220m 2005 200 million and on 324.7 million 2005 346.6 million ordinary shares calculated as follows: 2006 2005 No.
+Basic weighted average number of shares 322.1 342.4 Executive share option scheme 0.9 1.6 Enterprise Inns Quest share save scheme 0.4 0.5 Long-term and short-term incentive plans 1.3 2.1 Diluted weighted average number of shares 324.7 346.6 Enterprise Inns plc Annual Report 2006 55 12997ENTERPRI 11 12 06 4:23 pm Page 56 Notes to the Group Accounts at 30 September 2006 13.
+Dividends paid and proposed 2006 2005 m m Paid during the year Equity dividends on ordinary shares: Final dividend relating to prior year 12.4 pence 2005 8.4 pence 42 29 Interim dividend for current year 9.0p 2005 5.6 pence 28 19 70 48 Proposed for approval by shareholders at the AGM Final dividend for current year 18.0 pence 2005 12.4 pence 54 42 Proposed dividends are not accounted for until they are approved at the AGM.
+The dividends relating to shares held by the Employee Benefit Trust and shares held in treasury have been waived.
+No dividend is due on shares held in treasury.
+Goodwill 2006 2005 m m At 1 October and 30 September 417 417 Impairment testing Goodwill acquired via business combinations is tested annually for impairment.
+For this purpose, the goodwill is allocated to the pub estate.
+This represents the lowest level within the Group that goodwill is monitored for internal management purposes.
+The impairment test compares the recoverable amount of the cash-generating unit with its carrying amount.
+The recoverable amount is determined using a value in use calculation.
+This calculation discounts estimated future cash flows using a discount rate equivalent to the Group's weighted average pre-tax cost of capital of 7.43% 2005 7.35%.
+Future cash flows are estimated using management forecasts of cash flow over a five year period.
+Each element of the cash flows beyond this forecast period is extrapolated using a growth rate of 3% 2005 3%.
+The impairment test did not result in any impairment of goodwill.
+56 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 57 Notes to the Group Accounts at 30 September 2006 15.
+Investments 2006 2005 m m Cost and net book value: At 1 October 2005 Additions 2 At 30 September 2006 2 On 6 September 2006, the Group disposed of 769 pubs to Admiral Taverns.
+Part of the consideration received for this disposal was 2 million of preference shares in Admiral Taverns.
+Intangible assets: operating lease premiums 2006 2005 m m Cost: At 1 October 29 29 Transfer to non-current assets held for sale 2 At 30 September 27 29 Amortisation: At 1 October 2 Provided during the year 1 2 At 30 September 3 2 Net book value: At 30 September 24 27 At 1 October 27 29 Lease premiums are amortised on a straight-line basis over the remaining life of the lease.
+The amortisation is charged to the Income Statement in the line item depreciation and amortisation'.
+Enterprise Inns plc Annual Report 2006 57 12997ENTERPRI 11 12 06 4:23 pm Page 58 Notes to the Group Accounts at 30 September 2006 17.
+Property, plant and equipment Licensed Landlords land and fixtures and Other buildings fittings assets Total m m m m Cost or valuation At 1 October 2004 4,782 85 24 4,891 Additions 47 18 1 66 Revaluation 267 267 Write down to fair value less costs to sell 11 11 Net transfers to non-current assets held for sale 34 34 Disposals 1 1 At 1 October 2005 5,051 103 24 5,178 Additions 102 33 8 143 Revaluation 323 323 Write down to fair value less costs to sell 3 3 Net transfers to non-current assets held for sale 263 12 275 Disposals 6 2 8 At 30 September 2006 5,204 124 30 5,358 Depreciation At 1 October 2004 11 4 3 18 Charge for the year 6 2 1 9 Revaluation 6 6 At 1 October 2005 11 6 4 21 Charge for the year 3 2 2 7 Net transfers to non-current assets held for sale 4 1 5 Disposals 5 2 7 Revaluation 1 1 At 30 September 2006 474 15 Net book value At 30 September 2006 5,200 117 26 5,343 At 30 September 2005 5,040 97 20 5,157 At 1 October 2004 4,771 81 21 4,873 Revaluation of property, plant and equipment With the exception of properties identified for disposal, the Group's licensed land and buildings were revalued as at 30 September 2006 by Humberts Leisure Limited and Christie & Co. independent Chartered Surveyors, and by the internal Head of Estates, Simon Millar MRICS, Chartered Surveyor.
+The land and buildings were valued at market value as defined within RICS Appraisal and Valuation Standards Red Book, reflecting the current and future rent and other income streams which are expected to be generated by each property capitalised at an appropriate yield.
+The valuation also takes account of the terms of the leases or tenancies under which the properties are let.
+Market value is influenced by factors such as income, location, pub quality and tenure.
+The valuations are made by reference to market transactions within the UK pub sector.
+58 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 59 Notes to the Group Accounts at 30 September 2006 17.
+Property, plant and equipment continued The pubs used as security for the secured bonds and debenture in Enterprise Inns plc have been valued by Humberts Leisure Limited.
+The balance of the estate held in Enterprise Inns plc and Voyager Pub Group Limited has been valued by the Head of Estates.
+The results of this internal valuation have been compared to that of the external valuers.
+This review ensured that the results are consistent.
+A representative sample of the pubs held by Unique Pub Properties Limited Unique has been valued by Christie & Co.
+The method of this valuation have been applied across the rest of the Unique estate on a pub by pub basis in line with the requirements of the securitisation.
+The results of both the Unique and Enterprise valuations are also compared, ensuring consistency.
+Pubs identified for disposal which are classified in the balance sheet as non-current assets held for sale are held at fair value less costs to sell.
+This value is based on the net estimated realisable disposal proceeds ERV which are provided by third party property agents who have been engaged to sell the properties.
+If licensed land and buildings had been measured using the cost model, the carrying amounts would be as follows: Licensed land and buildings m At 30 September 2006 Cost 4,093 Accumulated depreciation 36 Net book value 4,057 At 30 September 2005 Cost 4,212 Accumulated depreciation 45 Net book value 4,167 The carrying value of property held under finance leases at 30 September 2006 was 236 million 2005 265 million.
+Additions during the year include 3m of property held under finance leases 2005 5 million.
+At 30 September 2006, the Group had entered into contractual commitments to purchase 9 million 2005 9million of property, plant and equipment.
+Enterprise Inns plc Annual Report 2006 59 12997ENTERPRI 11 12 06 4:23 pm Page 60 Notes to the Group Accounts at 30 September 2006 18.
+Current assets held for sale 2006 2005 Fixtures and fittings and stock purchased from tenants m m Cost At 1 October 11 10 Additions 12 9 Disposals 13 8 At 30 September 10 11 Provision At 1 October 4 5 Charge for the year 2 Utilised during the year 2 1 At 30 September 4 4 Net realisable value 6 7 19.
+Trade and other receivables Reanalysed 2006 2005 m m Trade receivables 76 61 Prepayments and accrued income 16 20 Other receivables 2 94 81 2005 has been re-analysed to show receivables that related to commission income in trade receivables instead of accrued income as these amounts are now invoiced.
+Non-current assets held for sale 2006 2005 m m At 1 October 36 33 Net transfer from property, plant and equipment note 17 270 34 Net transfer from intangible assets: lease premiums note 16 2 Disposals 298 31 At 30 September 10 36 Representing: Property, plant and equipment 10 35 Intangible assets: lease premiums 1 10 36 Non-current assets held for sale comprises both freehold and leasehold licensed and unlicensed properties that have been identified by the Group for disposal as part of the continued improvement in quality of its property portfolio.
+Non-current assets held for sale may be sold as trading pubs or for alternative use.
+The sale of all assets within this category is expected to be completed within one year of the balance sheet date.
+A balance of 1 million 2005 2 million in relation to these pubs is held within the revaluation reserve representing revaluation surpluses.
+60 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 61 Notes to the Group Accounts at 30 September 2006 21.
+Trade and other payables 2006 2005 m m Trade payables 17 10 Accruals and deferred income 150 162 Other payables 43 45 210 217 22.
+Financial assets and liabilities 2006 2005 Financial assets m m Current Interest rate swap 1 - Non-current Interest rate swap 1 - Total financial assets 2 2006 2005 Financial liabilities m m Current Securitised bonds 13 13 Interest rate swaps 41 109 54 122 Non-current Syndicated bank borrowings 421 256 Corporate bonds 1,181 1,181 Securitised bonds 1,709 1,817 Finance lease payables 5 6 3,316 3,260 Total financial liabilities 3,370 3,382 Total financial assets and liabilities 3,368 3,382 Fair values Bank borrowings, the debenture, bonds and interest rate swaps were valued at fair value as at 30 September by J C Rathbone, independent valuers.
+Fair value is calculated by discounting future cash flows using prevailing interest rates.
+The finance lease payables are valued by calculating the present value of the future minimum lease payments.
+Enterprise Inns plc Annual Report 2006 61 12997ENTERPRI 11 12 06 4:23 pm Page 62 Notes to the Group Accounts at 30 September 2006 22.
+Financial assets and liabilities continued The book and fair values of financial assets and liabilities analysed into categories of syndicated bank borrowings, corporate bonds, securitised bonds and interest rates swaps are as follows.
+Interest rate swaps are held at fair value and finance lease payables represents the present value of future minimum lease payments.
+Other categories of financial instruments include trade receivables and trade payables, however there is no difference between the book value and fair value of these items.
+62 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 63 Notes to the Group Accounts at 30 September 2006 22.
+Financial assets and liabilities continued Use of disposal proceeds During the year the Group disposed of 769 pubs to Admiral Taverns for a total consideration of 318m.
+Of the consideration received by the Group 2m was in the form of preference shares which accrue interest at a rate of 8%.
+The 316m consideration received in the form of cash has been utilised by the Group as follows: m Prepayment of A1N secured bonds 80 Repayment of A2N secured bonds 3 Repayment of syndicated bank borrowings 179 Cancellation and restructuring costs associated with interest rate swaps 30 General corporate purposes including acquisitions and share buybacks 24 316 Interest rate swaps As part of the repayment of debt following the receipt of consideration from Admiral Taverns, a proportion of the Group swaps were cancelled or restructured.
+In Unique Pub Properties Limited, a subsidiary company, swaps were cancelled and restructured to ensure that the floating rate notes remain effectively hedged through to maturity.
+In Enterprise Inns plc a 275m swap expiring in June 2012 was restructured into a 350m swap expiring in September 2011 in order to take advantage of current market rates.
+The cash impact of restructuring the hedging instruments was as follows: m Cancellation of 91m swap expiring 30 December 2012 5 Restructuring of 72m swap expiring 30 December 2012 Restructuring of 275m swap expiring 1 June 2012 into 350m swap expiring 30 September 2011 25 30 The 25m paid in order to restructure the 275m June 2012 swap into a 350m September 2011 swap effectively put the swap 2m into the money.
+Following the restructuring of the swap the fair value balance is categorised as a financial asset.
+The swaps were restructured on 29 September 2006 and from this date the Group has chosen to designate the restructured 350m swap that expires in September 2011 as an effective hedge under IAS 39 as it meets the criteria set out in that standard.
+This cash flow hedge is hedging future movements in interest rates until September 2011.
+As a result, future changes in the fair value of the effective portion of this swap will be recognised directly in equity instead of in the Income Statement.
+Changes in the fair value of the ineffective portion of the hedge will continue to be recognised in the Income Statement.
+The change in fair value of interest rate swaps from 109m to 39m during the year ending 30 September 2006 is made up of cash payments of 30m as shown above and changes in fair value of 40m which have been recognised in the Income Statement.
+The 40m movement in fair value has been recognised in the Income Statement in its entirety as the movement all relates to swaps that were not designated as hedges under IAS 39.
+Financial instruments and risk The Groups financial instruments, other than derivatives, comprise bank loans, a debenture, secured bonds, securitised bonds and cash.
+The main purpose of these financial instruments is to raise finance for the Groups operations.
+The Group also enters into derivative transactions, specifically interest rate swaps.
+The purpose of such transactions is to manage the interest rate risk arising from the Groups sources of finance.
+Enterprise Inns plc Annual Report 2006 63 12997ENTERPRI 11 12 06 4:23 pm Page 64 Notes to the Group Accounts at 30 September 2006 22.
+Financial liabilities continued The main risks arising from the Groups financial instruments are interest rate risk and liquidity risk.
+There is no currency exposure as all transactions are in Sterling.
+The Board reviews and agrees policies for managing each of these risks and they are summarised as follows.
+Liquidity risk The Group has exposure to liquidity risk, being the risk that payments cannot be made when they fall due.
+The Groups objective is to maintain a balance between the continuity of funding and flexibility through the use of overdrafts, bank loans, debentures and securitised debt.
+This objective is achieved through the following processes: n Regular cash flow forecasting and reporting through the treasury function n Regular review of the Groups debt portfolio including maturities and repayment profile n Maintenance of undrawn committed borrowings n Management of share buy-back programme At 30 September 2006, the nominal value of the Groups borrowings excluding swaps and finance lease payables comprised: 2006 2005 m m Syndicated bank borrowings 13% 8% Corporate bonds 36% 37% Securitised bonds 51% 55% The maturity of the Groups debt, including interest rate swap liabilities, is set out below: 2006 2005 m m In more than five years 2,751 2,845 In more than two years but not more than five years 578 435 In more than one year but not more than two years 21 99 In one year or less or on demand 22 40 3,372 3,419 The table above shows the contractual, undiscounted cash flows due in future periods to settle the groups debt.
+The total amount payable shown above differs from the total book value of group debt of 3,363m as the book value of group debt includes the fair value of the interest rates swaps which is based on discounted cash flows.
+The contractual maturity of trade and other payables is within one year.
+An analysis of minimum lease payments due under finance leases is set out in note 23.
+64 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 65 Notes to the Group Accounts at 30 September 2006 22.
+Financial liabilities continued Details of undrawn committed borrowing facilities available at 30 September are as follows: 2006 2005 m m Expiring in In more than five years 190 190 In more than two years but not more than five years 575 230 In more than one year but not more than two years In one year or less or on demand 765 420 The undrawn facilities relate to: 2006 2005 m m Renewable committed liquidity facility in respect of the Unique securitisation 190 190 Undrawn element of the syndicated bank facility 575 230 Interest rate risk The Group borrows its debenture and bonds except for the A1N and A2N bonds at a fixed rate.
+Bank debt and the A1N and A2N bonds are borrowed at, and cash balances attract interest at, a floating rate.
+The Groups objective is to manage exposure to changes in interest rates.
+This exposure is managed using interest rate swaps acquired with Group companies.
+At 30 September 2006, the Groups borrowings were 100% fixed after including the impact of interest rate swaps at an average rate of 6.6% for 13 years 2005 100% fixed at an average rate of 6.9% for 14 years.
+Cash flows associated with cash deposits, debt and interest rate swaps and the fair value of these instruments fluctuates with changes in interest rates.
+The effect on the profit for the year would have been as follows if interest rates had been 50 basis points higher or lower during the period.
+Movement in Interest Interest fair value of receivable Payable interest rate swap m m m As reported in Income Statement 6 230 40 Effect if interest rates increased by 50 basis points 7 230 60 Difference 1 20 As reported in Income Statement 6 230 40 Effect if interest rates decreased by 50 basis points 5 230 20 Difference 1 - 20 A change in interest rates would result in no difference in respect of interest payable when taking interest payable on floating rate debt in aggregate with the interest due on interest rate swaps.
+This is because, if interest rates increased by 50 basis points, additional interest payable in relation to floating rate debt of 4m would be offset by a reduction in interest payable of 4m under the interest rate swaps.
+If interest rates decreased by 50 basis points, the same principle would apply whereby 4m less interest would be payable in relation to the floating rate debt and 4m more in relation to the swaps.
+Enterprise Inns plc Annual Report 2006 65 12997ENTERPRI 11 12 06 4:23 pm Page 66 Notes to the Group Accounts at 30 September 2006 22.
+Financial liabilities continued Credit risk There are no significant concentrations of credit risk within the Group.
+The Group is exposed to a small amount of credit risk that is primarily attributable to trade receivables and cash balances.
+The Groups objective is to minimise this risk by dealing with third parties with high credit ratings and carrying out credit checks where appropriate.
+The amount of trade and other receivables included in the Balance Sheet are net of a bad debt provision which has been estimated by management following a review of individual receivable accounts and is based on prior experience and known factors at the balance sheet date after taking into account collateral held in the form of cash deposits.
+Receivables are written off against the bad debt provision when management considers that the debt is no longer recoverable.
+At 30 September 2006 the value of collateral is 27 million 2005 26 million.
+This balance is held on the balance sheet in other payables.
+An analysis of the provision held against trade receivables is set out below.
+This provision relates to trade receivables which are primarily represented by licensees.
+2006 2005 m m Allowance as at 1 October 5 6 Increase in provision during the year 3 4 Provision utilised during the year 1 1 Provision released during the year 3 4 Allowance as at 30 September 4 5 There are no trade receivables that are past due at the balance sheet date that have not been provided against.
+There are no indications as at 30 September 2006 that debtors will not meet their payment obligations in respect of the amount of trade receivables recognised in the balance sheet that are neither past due nor impaired.
+The maximum amount of exposure to credit risk is the carrying value of trade receivables and the fair value of interest rate swaps classified as financial assets.
+The Groups credit risk on liquid funds is limited because the Group only invests with banks and financial institutions with high credit ratings.
+Security Senior debt finance is secured by a security deed entered into by substantially all of the companies which comprise the Group, excluding Enterprise Inns Holding Company Limited and its subsidiaries.
+The lenders have a floating charge over all of the assets and undertakings of such Group companies.
+The floating charge ranks subsequent to the fixed charges created by the debenture and secured bonds.
+The value of assets secured by way of a fixed or floating charge as at 30 September 2005 is Property, Plant and Equipment 5,317 million 2005 5,137 million, operating lease premiums 24 million 27 million and pubs held for sale 10 million 36 million.
+66 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 67 Notes to the Group Accounts at 30 September 2006 23.
+Leases The Group as lessee The Group leases a proportion of its licensed estate from landlords under finance leases and operating leases.
+These leases have varying terms, escalation clauses and renewal rights.
+Finance leases 2006 2005 m m Future minimum lease payments due under finance leases: within one year 1 after one year but not more than five years 2 2 In more than five years 27 33 29 36 Future finance lease interest 24 30 Present value of future minimum lease payments 5 6 The present value of future minimum lease payments is due in more than five years 2005 more than five years.
+Pubs that are leased from landlords under finance leases are let to tenants.
+Future minimum rentals receivable from non-cancellable sub-leases on the above properties are 149 million 2005 170 million.
+Operating leases 2006 2005 m m Operating lease rentals recognised as an expense in the year 4 6 2006 2005 m m Future minimum lease payments due under operating leases: within one year 3 4 after one year but not more than five years 12 16 In more than five years 64 87 79 107 Pubs that are leased from landlords under operating leases are let to tenants.
+Future minimum rentals receivable from non-cancellable sub-leases on the above properties are 37 million 2005 49 million.
+Enterprise Inns plc Annual Report 2006 67 12997ENTERPRI 11 12 06 4:23 pm Page 68 Notes to the Group Accounts at 30 September 2006 23.
+Leases continued The Group as lessor The Group leases its licensed estate and other non-licensed properties to tenants.
+The majority of lease agreements have terms of between 6 months and 30 years and are classified for accounting purposes as operating leases.
+Most of the leases with terms of over 3 years include provision for rent reviews on either a 3 or 5 year basis.
+Future minimum lease rentals receivable under non-cancellable operating leases are as follows: 2006 2005 m m Future minimum lease rentals receivable under operating leases: within one year 254 264 after one year but not more than five years 939 975 In more than five years 2,173 2,327 3,366 3,566 24.
+Provisions 2006 2005 m m At 1 October 2005: Current 1 1 Non-current 7 5 8 6 Movement during the year: Release of provision during the year 1 1 Utilisation 2 1 Reclassification 3 3 1 At 30 September 2006: Current 1 1 Non-current 4 7 5 8 The provision relates to future commitments under onerous lease agreements.
+The provision is expected to be utilised as the pubs are disposed of.
+The remaining lease terms vary from 5 to 65 years.
+Deferred tax The deferred tax in the Group Balance Sheet relates to the following: 2006 2005 m m Revaluation of property and rolled over gains 609 535 Accelerated capital allowances 98 90 Fair value of interest rate swaps 12 33 Share-based payments 8 8 Tax losses 3 Other temporary differences 5 9 692 590 The Group has not provided deferred tax in relation to temporary differences associated with undistributed earnings of subsidiaries on the basis that under current enacted law, no tax is payable on dividends payable and receivable within the Group.
+68 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 69 Notes to the Group Accounts at 30 September 2006 26.
+Pension liability The Group makes defined contribution payments to employees' own pension plans and these payments are charged to the Income Statement as incurred.
+RetailLink Management Limited a subsidiary company established a pension plan for its employees in January 1999.
+The plan has defined contribution and defined benefit schemes.
+The plan is now closed to new members and for the future accrual of benefits.
+The most recent full actuarial valuation of the defined benefit section of the plan was at 5 April 2005.
+This has been updated to 30 September 2006.
+The valuation was carried out by Mercer, independent professionally qualified actuaries, using the projected unit credit method.
+Assets and liabilities of the plan 2006 2005 m m Fair value of plan assets: Equities 13 12 Bonds 6 5 19 17 Present value of plan liabilities 19 17 Net pension liability The present value of plan obligations relates to funded plans.
+Movement in deficit during the year 2006 2005 m m Net liability at the start of the year 3 Employer contributions 2 Actuarial loss gain 1 Net liability at the end of the year Analysis of amounts recognised in the Income Statement 2006 2005 m m Interest cost on plan liabilities 1 1 Expected return on plan assets 1 1 The amounts above are recognised within interest payable.
+Enterprise Inns plc Annual Report 2006 69 12997ENTERPRI 11 12 06 4:23 pm Page 70 Notes to the Group Accounts at 30 September 2006 26.
+Pension liability continued Analysis of amounts recognised in the Statement of Recognised Income and Expense 2006 2005 m m Actual return on plan assets 2 2 Less expected return on plan assets 1 1 1 1 Other actuarial gains and losses 1 1 Changes in the fair value of plan assets 2006 2005 m m Fair value of plan assets at the start of the year 17 13 Expected return on plan assets 1 1 Actuarial gain loss on plan assets 1 1 Employer contributions 2 Fair value of plan assets at the end of the year 19 17 Changes in the present value of scheme liabilities 2006 2005 m m Present value of plan liabilities at the start of the year 17 16 Interest cost 1 1 Actuarial gain loss on plan liabilities 1 Present value of plan liabilities at the end of the year 19 17 The principal assumptions made by the actuaries were: 2006 2005 % % Rate of increase in pension payments 3.50 3.30 Rate of increase of pensions in deferment 3.00 2.80 Discount rate 5.00 5.00 Inflation assumption 3.00 2.80 Expected return on plan assets: Equities 7.00 6.00 Bonds 3.90 4.20 Longevity at age 65 for current pensioners Men 22 years 22 years Women 25 years 25 years Longevity at age 65 for future pensioners Men 24 years 24 years Women 27 years 27 years 70 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 71 Notes to the Group Accounts at 30 September 2006 26.
+Pension liability continued The expected rates of return on individual categories of plan assets are determined by reference to the relevant indices published by FTSE.
+The expected rates of return shown for 30 September 2006 are after a deduction for plan expenses of 0.75% p. a..
+The corresponding figures for 30 September 2005 showed a deduction for expenses of 1.0% p. a. for equities and 0.5% p. a. for bonds.
+The mortality tables used to value the plan's liabilities are PMA92 YOB 1935 mc less 1 year age rating for current pensioners and PMA92 YOB 1965 mc less 1 year age rating for future retirees.
+These tables give a life expectancy as set out above.
+The history of the plan for the current and prior years is as follows: 2006 2005 2004 m m m Fair value of plan assets 19 17 13 Present value of plan liabilities 19 17 16 Net liability 3 Experience adjustments on plan assets 1 1 Experience adjustments on plan liabilities 1 1 Six month period ending 30 September 2004 Total contributions to the defined benefit scheme during the year to 30 September 2007 is expected to be nil.
+Since the acquisition of the defined benefit scheme on 31 March 2004, the total amount of actuarial gains and losses recognised in the Statement of Recognised Income and Expense is 1m gain 2005 1m gain.
+m Ordinary shares of 5p each 500,000,000 25 500,000,000 25 Allotted, called up and fully paid: 2006 2005 Ordinary shares of 5p each No.
+Holders of ordinary shares are entitled to vote at meetings.
+At 30 September 2006, the Company owned 25 million of its own shares as treasury shares with a nominal value of 1 million and a market value of 264 million 2005 nil.
+Transaction costs of 3 million 2005 nil have been accounted for directly in equity in the profit and loss reserve.
+In addition, the Group held 6,870,253 shares with a nominal value of 0.3m and a market value of 72 million 2005 9,248,445 shares, nominal value 0.5 million, market value 78 million.
+These shares are held by the Employee Benefit Trust and Enterprise Inns Quest Trustees Limited and are shares used to satisfy awards made under the Enterprise Inns Incentive Plans and other share option schemes note 28.
+Enterprise Inns plc Annual Report 2006 71 12997ENTERPRI 11 12 06 4:23 pm Page 72 Notes to the Group Accounts at 30 September 2006 28.
+Share-based payments The Group operates share-based payment schemes for both directors and other employees.
+Details of the ShortTerm Incentive Plan STIP and Long-Term Incentive Plan LTIP which form part of the remuneration of the executive directors are given in the Directors' Remuneration Report on pages 28 to 37.
+The Group also operates an Employee Share Option Scheme ESOS, a Savings Related Share Option Scheme SAYE and a Share Incentive Plan SIP.
+A total expense of 3 million 2005 3 million has been incurred in the year in relation to share-based payments.
+This expense relates wholly to the equity-settled schemes described above.
+Share Incentive Plan The SIP is open to all employees.
+At times determined by the Company, employees may allocate the lower of 1,500 and 10% of pre-tax salary to purchase shares out of their salary.
+The Board may also decide to award matching shares.
+The shares are held in trust on behalf of the employee.
+If shares are removed from trust within three years, any allocation of matching shares may be lost.
+Shares can be transferred tax-free to employees after a period of five years.
+This scheme is operating for the first time in 2005 06 and matching shares were awarded.
+The cost of the matching shares is being spread over the three year vesting period of the scheme.
+Details of the number of matching shares held in trust during the year are as follows: 2006 2005 Outstanding beginning of year Granted 44,914 Forfeited expired 2,579 Outstanding at end of year 42,335 Employee Share Option Scheme The ESOS scheme is open to all employees.
+Share options are awarded to employees at the discretion of the Board.
+The current intention of the Board is to issue options with an exercise price equal to the market value of a share at grant date.
+Options will normally vest after 3 years if an employee remains in service and if EPS growth targets are met.
+For options granted during the year ended 30 September 2006 options will only vest in full if the average compound annual percentage growth in adjusted EPS between the grant date and the third anniversary of the grant date is 8.33%.
+Options may normally only be exercised during the period of 7 years commencing on the third anniversary of the date of grant of the option.
+Options will usually be settled by issuing ordinary shares held by the Employee Benefit Trust.
+72 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 73 Notes to the Group Accounts at 30 September 2006 28.
+Share-based payments continued Details of the share options outstanding during the year are as follows: 2006 2005 Weighted Weighted Number of average Number of average share exercise share exercise options price options price Outstanding beginning of year 4,335,827 4.43 4,536,348 3.08 Granted 1,020,750 8.89 1,192,500 7.18 Exercised 1,698,746 2.83 1,344,043 2.33 Forfeited expired 341,697 6.08 48,978 4.23 Outstanding at end of year 3,316,134 6.45 4,335,827 4.43 Weighted average remaining contractual life 6.5 years 5.9 years Included in this balance are 133,731 options 2005 453,327 which have not been accounted for under IFRS 2 as they were granted before 7 November 2002.
+Such options are not accounted for under IFRS 2 in line with the transitional provisions of this standard and of IFRS 1 First-time adoption of IFRS' note 33.
+Options will only vest in full if certain performance criteria are met.
+Enterprise Inns plc Annual Report 2006 73 12997ENTERPRI 11 12 06 4:23 pm Page 74 Notes to the Group Accounts at 30 September 2006 28.
+Share-based payments continued Savings-Related Share Option Scheme The SAYE scheme is open to executive directors and employees at the discretion of the Board.
+Participants contract to save a fixed amount each month with a savings institution for a period of five or seven years.
+At the end of the savings term, participants are given the option to purchase shares at a price set before the savings began.
+The option price will be not less than 80% of the market value of a share on the date that participants are invited to take part in the scheme, or the nominal value of a share if lower.
+Options will usually be settled using ordinary shares held by Enterprise Inns Quest Trustees Ltd an employee benefit trust and will usually be exercisable for six months after the fifth or seventh anniversary of the commencement of the savings contract.
+Details of the share options outstanding during the year are as follows: 2006 2005 Weighted Weighted Number of average Number of average share exercise share exercise options price options price Outstanding at beginning of year 915,136 2.70 946,134 2.18 Granted 130,774 7.07 144,016 5.45 Exercised 209,579 1.27 102,135 1.53 Forfeited expired 58,464 4.78 72,879 3.02 Outstanding at end of year 777,867 3.66 915,136 2.70 Weighted average remaining contractual life 2.8 years 2.9 years Included in this balance are 142,146 options 2005 351,058 which have not been accounted for under IFRS 2 as they were granted before 7 November 2002.
+Such options are not accounted for under IFRS 2 in line with the transitional provisions of this standard and of IFRS 1 'First-time adoption of IFRS'.
+74 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 75 Notes to the Group Accounts at 30 September 2006 28.
+Share-based payments continued STIP and LTIP Executive directors and other members of the executive team are eligible to participate in the STIP and LTIP plans.
+A summary of the rules of these schemes along with details of shares that have been granted and are outstanding in relation to individual directors is included in the Directors' Remuneration Report on pages 28 to 37.
+Details of the total number of shares outstanding during the year are as follows: 2006 2005 LTIP STIP LTIP STIP Number of Number of Number of Number of share share share share options options options options Outstanding at beginning of year 1,665,436 135,133 1,624,478 163,508 Granted 347,979 48,335 410,578 52,283 Exercised 453,383 44,368 369,620 80,658 Forfeited 111,475 725 Outstanding at end of year 1,448,557 138,375 1,665,436 135,133 Weighted average remaining contractual life 4.9 years 3.0 years 6.8 years 5.7 years Directors pay 1 to exercise awards granted under the STIP and LTIP.
+All of the shares outstanding at 30 September 2006 are not yet exercisable.
+The share price at which the number of shares granted under the STIP scheme is calculated will not be confirmed until after the date of the approval of the accounts.
+The number of STIP shares granted during the year is therefore estimated using the closing share price on 30 September 2006.
+Included in this balance are 40,941 LTIP shares 2005 494,324 which have not been accounted for under IFRS 2 as they were granted before 7 November 2002.
+Such shares are not accounted for under IFRS 2 in line with the transitional provisions of this standard and of IFRS 1 First-time adoption of IFRS' note 33.
+Awards will only vest in full if certain performance criteria are met.
+The weighted average fair value of shares granted during the year under the STIP was 9.51 2005 8.07 and under the LTIP was 5.90 2005 5.03 The weighted average share price on exercise of shares and share options during the year was 9.56.
+Enterprise Inns plc Annual Report 2006 75 12997ENTERPRI 11 12 06 4:23 pm Page 76 Notes to the Group Accounts at 30 September 2006 28.
+Share-based payments continued Fair value of share schemes The fair value of equity-settled share options and share awards granted is estimated at the date of grant using share option valuation models.
+The ESOS, SAYE and STIP schemes are valued using the Black-Scholes model.
+The element of the LTIP scheme that relates to non-market conditions is valued using the Black Scholes model.
+The element of the LTIP that includes market conditions is valued using the Monte Carlo Simulation Model.
+The following tables list the inputs to the models for options and shares granted during the year: ESOS SAYE Weighted average: 2006 2005 2006 2005 Share price 8.89 7.18 8.84 6.81 Exercise price 8.89 7.18 7.07 5.45 Dividend yield 2.4% 2.2% 2.4% 2.2% Expected volatility 21% 23% 21% 22% Risk-free interest rate 4.22% 4.33% 4.18% 4.46% Expected life of option years 3.3 3.3 5 or 7 5 or 7 STIP LTIP Weighted average: 2006 2005 2006 2005 Share price 10.55 8.81 8.81 6.84 Exercise price Dividend yield 2.4% 2.2% 2.4% 2.2% Expected volatility 22% 22% 21% 22% Risk-free interest rate 4.31% 4.48% 4.2% 4.42% Expected life of option years 4 4 35 35 Expected share-price volatility is based on historic volatility over the same period of time as the vesting period of the option.
+The expected life of an option is based on historical data.
+The LTIP will only vest in full if a TSR target is met.
+This is a market condition and the TSR performance criteria has therefore been taken into account when calculating the fair value of the options granted under the LTIP.
+These conditions have been incorporated into the Monte Carlo Simulation model which is used to fair value the TSR element of the scheme.
+The LTIP vests in three equal tranches after 3, 4 and 5 years.
+76 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 77 Notes to the Group Accounts at 30 September 2006 29.
+Statement of changes in equity Share Capital Treasury Profit Share  Merger share Other and loss Capital account reserve reserve reserve reserve reserve account Total m m m m m m m m m At 1 October 2004 17 486 472 8 77 28 208 1,240 Total recognised income and expense for the year 199 213 412 Transfer of realised revaluation surplus 4 4 Equity dividends paid note 13 48 48 Purchase of shares to be held in trust 37 37 Employee share option entitlements exercised in the year 6 3 3 Directors' share option entitlements exercised in the year 3 3 Share-based expense recognised in operating profit 3 3 At 1 October 2005 17 486 667 8 77 56 374 1,573 Total recognised income and expense for the year 232 330 562 Transfer of realised revaluation surplus 54 54 Equity dividends paid note 13 70 70 Consideration paid for purchase of own shares 227 3 230 Cancellation of ordinary shares 1 1 166 166 Purchase of shares to be held in trust Employee share option entitlements exercised in the year 11 7 4 Directors' share option entitlements exercised in the year 3 3 Share-based expense recognised in operating profit 3 3 At 30 September 2006 16 486 845 9 77 227 42 512 1,676 Share premium account This reserve represents the amount of proceeds received for shares in excess of their nominal value of 5 pence per share.
+Revaluation reserve This reserve shows the surplus generated on revaluation of the estate.
+It represents the amount by which the fair value of the estate exceeds its historic cost.
+Capital redemption reserve This reserve arose on the repurchase and cancellation of own shares in 1995 96 and 2005 06.
+Merger reserve This reserve arose as a consequence of the acquisition of Century Inns plc in 1998 99.
+Enterprise Inns plc Annual Report 2006 77 12997ENTERPRI 11 12 06 4:23 pm Page 78 Notes to the Group Accounts at 30 September 2006 29.
+Statement of changes in equity continued Treasury share reserve This reserve shows the cost of own shares purchased by the Company and held as treasury shares.
+These shares can be cancelled or reissued.
+Other reserve This comprises the cost of shares in the Company that are held by employee benefit trusts.
+These shares are used to satisfy awards made under share incentive plans note 28.
+Additional cash flow information a Reconciliation of net cash flow to movement in net debt 2006 2005 m m Increase decrease in cash in the year 15 51 Cash inflow outflow from change in debt 30 200 Issue costs of new long term loans 4 2 Change in net debt resulting from cash flows 11 151 Amortisation of issue costs and discounts premiums on long-term loans 7 4 Amortisation of securitised bonds 10 5 Change in fair value of interest rate swaps 40 20 Write-off of unamortised issue costs 3 5 Movement in net debt in the year 29 127 Net debt at start of year 3,286 3,413 Net debt at end of year 3,257 3,286 b Analysis of net debt 2006 2005 m m Corporate bonds 1,185 1,185 Syndicated bank borrowings 425 260 Securitised bonds 1,667 1,772 Gross debt 3,277 3,217 Cash 111 96 Underlying net debt note 22 3,166 3,121 Capitalised debt issue costs 20 27 Fair value adjustments on acquisition of bonds 67 77 Fair value of interest rate swaps 39 109 Finance lease payables 5 6 Net debt note 22 3,257 3,286 Balance sheet: Current financial assets 1 Non-current financial assets 1 Current financial liabilities 54 122 Non-current financial liabilities 3,316 3,260 Cash 111 96 Net debt 3,257 3,286 Underlying net debt represents amounts repayable to banks and other lenders net of cash retained in the business.
+78 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 79 Notes to the Group Accounts at 30 September 2006 31.
+Related party transactions Compensation of key management personnel 2006 2005 000 000 Short-term employee benefits 2,478 2,255 Post-employment benefits 346 315 Share-based payment 2,078 1,509 4,902 4,079 Key management personnel comprises both executive and non-executive directors Short-term employee benefits comprises fees, salaries, benefits and performance related bonus as reported in the Directors' Remuneration Report.
+Post-employment benefits comprise payments made to the directors' own personal pension schemes.
+Share-based payment comprises the fair value of STIP and LTIP awards charged in the year.
+Further information about the remuneration of individual directors is available in the Directors Remuneration Report on pages 28 to 37.
+Principal subsidiaries The Group's principal subsidiaries are listed in the following table.
+The list comprises those companies that principally affect the results or financial position of the Group.
+Company Proportion of voting Country of rights and Incorporation Holding shares held Nature of business Held directly by Enterprise Inns plc: Enterprise Inns Holding Company Limited England Ordinary 100% Investment holding company shares Indirectly held by Enterprise Inns plc: Unique Pub Properties Limited England Ordinary 100% Ownership of licensed shares properties The Unique Pub Finance Company plc England Ordinary 100% Financing acquisitions of shares licensed property Cumulative Redeemable Preference shares 100% Voyager Pub Group Limited England Ordinary 100% Ownership of licensed shares properties 32.
+Events after the balance sheet date On 20 November 2006 the Group entered into a binding agreement to sell its entire Scottish estate of 137 pubs to Retail & Licensed Properties Limited for consideration of 115 million.
+Enterprise Inns plc Annual Report 2006 79 12997ENTERPRI 11 12 06 4:23 pm Page 80 Notes to the Group Accounts at 30 September 2006 33.
+Transition to IFRS This is the first Annual Report and Accounts that has been prepared using IFRS.
+Comparatives for the year to 30 September 2005 have been restated from UK GAAP into IFRS to allow proper comparison.
+Reconciliations of the opening balance sheet at 1 October 2004 and of the balance sheet and results for the year ended 30 September 2005 are shown below along with details of the significant decisions made by the Group on transition to IFRS.
+The write down to fair value less costs to sell is first recognised in the Revaluation Reserve, to the extent of any existing surplus for the asset.
+In addition, the 2004 and 2005 Balance Sheet has been reclassified in respect of the application of IAS 1 Presentation of financial statements and IAS 39 Financial instruments: recognition and measurement.
+The Group has therefore reclassified the fair value of all interest swaps as current liabilities in 2004 and 2005.
+IFRS 1 First-time adoption decisions IFRS 1 First-time adoption of International Financial Reporting Standards provides certain exemptions on transition to IFRS.
+The significant decisions made by the Group under IFRS 1 are set out below: Business combinations The Group has chosen to restate business combinations that have taken place since 1 January 1999 in accordance with IFRS 3 Business Combinations.
+The effect of this has been to increase goodwill for deferred tax liabilities relating to property, plant and equipment and rolled over gains that would have existed at the date of acquisition had IFRS been in place.
+Valuation of properties IFRS 1 provides the option to use a previous revaluation of property, plant and equipment as deemed cost at the date of transition to IFRS.
+The Group has decided not to take this option and will also continue to revalue properties under IAS 16.
+This treatment is consistent with that adopted under UK GAAP.
+The Board considers it is appropriate to continue to adopt this treatment under IFRS to enable the accounts to reflect an up-to-date valuation of the pub estate.
+Employee benefits The Group has elected to recognise all cumulative actuarial gains and losses in relation to its defined benefit pension scheme on transition to IFRS.
+Actuarial gains and losses arising after the date of transition will also be recognised in full in accordance with the Amendment to IAS 19.
+This treatment is consistent with that adopted under UK GAAP FRS 17.
+This scheme is now closed to new members and for the future accrual of benefits.
+Share-based payment transactions The Group has elected to apply IFRS 2 Share-based payments to awards granted after 7 November 2002 but not vested at 1 January 2005.
+80 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 81 Notes to the Group Accounts at 30 September 2006 33.
+Transition to IFRS continued Non-current assets held for sale The Group has chosen to apply IFRS 5 Non-current assets held for re-sale and discontinued operations from the date of transition to IFRS.
+This is permitted by IFRS 1 as the information required to identify assets held for re-sale was available at the date of transition.
+This decision has been taken to ensure consistency between accounting policies for the years to 30 September 2005 and 30 September 2006.
+Comparative information IAS 32 and IAS 39 The Group has decided not to take the exemption allowed by IFRS 1 to delay adoption of IAS 32 Financial Instruments: Disclosure and Presentation and IAS 39 Financial Instruments: Recognition and Measurement until the year ending 30 September 2006.
+As a result, these two standards have been applied from the date of transition to IFRS.
+Adjustments made to the Income Statement 1.
+Reclassification of other operating income IAS 18 Income previously shown as other operating income, which predominantly represents income from amusement and other machines, has been reclassified as revenue.
+This follows a review of the Groups income streams under IAS 18 Revenue.
+Presentation of dividends IAS 1 Under UK GAAP, dividends payable were shown in the Profit and Loss Account.
+IAS 1 Presentation of Financial Statements states that dividends payable are shown in equity.
+The dividends line has therefore been removed from the face of the Income Statement so that the statement ends with profit after tax.
+Goodwill IFRS 3 Under UK GAAP, goodwill was amortised on a straight line basis over a useful economic life of 20 years.
+IFRS 3 Business Combinations states that goodwill should not be amortised.
+Instead it is tested annually for impairment.
+As a result, the amortisation charged during 2005 has been reversed.
+Interest rate swaps reversal of UK GAAP accounting IAS 39 Under UK GAAP, the interest rate swaps that the Group inherited upon acquisition of subsidiary companies were held on the balance sheet at their fair value at the date of acquisition.
+This fair value balance was amortised over the life of the swap with the amortisation being credited to the Profit and Loss Account.
+The interest rates swaps are now accounted for under IAS 39.
+As a result, the credit arising from the amortisation of the UK GAAP fair value balance has been reversed.
+Interest rate swaps introduction of IFRS accounting IAS 39 IAS 39 Financial Instruments: Recognition and Measurement, states that the swaps must be held on the balance sheet at fair value.
+Fair value is remeasured at each balance sheet date and the movement is shown in the Income Statement unless hedge accounting is adopted.
+The Group elected not to adopt hedge accounting for any swaps in the year ending 30 September 2005.
+A significant proportion of the Groups swaps are not classified as effective under IAS 39 and therefore do not qualify for hedge accounting and it has been decided to apply the same accounting treatment to all existing swaps.
+In addition, the administration and cost of monitoring and assessing the interest rate swaps for effectiveness on a periodic basis will be avoided.
+As a result, the movement in the fair value of the swaps during 2004 05 has been charged to the Income Statement.
+It should be noted that the movement in relation to these swaps will vary periodically and could result in increased volatility in the Income Statement.
+Enterprise Inns plc Annual Report 2006 81 12997ENTERPRI 11 12 06 4:23 pm Page 82 Notes to the Group Accounts at 30 September 2006 33.
+Depreciation IAS 16 Under UK GAAP, no depreciation was charged on any element of the pub estate on the grounds of materiality.
+Instead an annual impairment test was carried out on the estate.
+IAS 16 Property, Plant and Equipment PPE contains no provision allowing non-depreciation on the grounds of materiality.
+Each part of PPE that has a cost that is significant in relation to the total cost must be depreciated separately.
+The Group has concluded that an additional depreciation charge should be incurred under IAS 16 in relation to landlords fixtures and fittings and certain improvements made to buildings.
+No depreciation is charged on land.
+Freehold buildings are depreciated to write off the difference between their carrying value and residual value over their useful economic life of 50 years.
+However, no depreciation charge arises in respect of 2004 05 as the residual value of freehold properties is at least equal to their carrying value.
+Pub revaluations IAS 16 IFRS 5 Under UK GAAP, all revaluation uplifts were credited to the revaluation reserve.
+If a pub fell in value the revaluation deficit was debited to the revaluation reserve to the extent that there was a revaluation credit in relation to that pub and thereafter if it could be shown that the value in use exceeded the valuation.
+Under IAS 16, any revaluation that causes the book value of a pub to fall below historic cost will lead to a charge in the Income Statement.
+The charge will represent the amount by which the pub falls below depreciated historic cost.
+If this same pub later recovers in value so that its book value exceeds depreciated historic cost, the increase in value is credited to the Income Statement to the extent that a debit was previously recognised.
+The Income Statement will therefore contain a new line entitled movements from revaluation of pub estate showing the impact on the Income Statement of the year-end revaluation exercise.
+Under UK GAAP, pubs held for disposal were valued at their expected sales proceeds net of selling costs.
+The amount of any write-down was recognised in the profit and loss account as a provision for loss on sale' and shown within net profit on disposal of tangible fixed assets'.
+Under IFRS, when pubs are classified as held for sale under IFRS 5, they are valued at the lower of book value and fair value less costs to sell.
+Any write-down in value as a result of this treatment is first recognised in the Revaluation Reserve to the extent of any existing surplus for that asset.
+It is then recognised in the Income Statement.
+The amount of any write-down recognised in the Income Statement is also shown in the line movements from revaluation of pub estate'.
+As a result, an amendment has been made in the Income Statement to transfer the value of any write-down that would have been recognised in the Revaluation Reserve to the Balance Sheet.
+Leases IAS 17 The Group leases a number of pubs from landlords.
+Under UK GAAP most of these were accounted for within tangible fixed assets and the Group had attributed a fair value to them on acquisition.
+Rent was charged to the Profit and Loss Account as incurred.
+The Groups net interests in leasehold assets were held at valuation.
+Under IAS 17, most leases have been reclassified as finance leases.
+The finance lease payable, representing the present value of future minimum lease payments, has been reclassified and is shown on the balance sheet under financial liabilities.
+The carrying value of these properties has been increased by the same amount so that they are now held at fair value.
+The properties continue to be held at valuation but one that no longer takes account of the remaining lease payments.
+82 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 83 Notes to the Group Accounts at 30 September 2006 33.
+Transition to IFRS continued The remaining leasehold pubs have been classified as held under operating leases.
+The amount held on the balance sheet in respect of amounts paid for these pubs has been reclassified from tangible fixed assets to intangible assets: operating lease premiums.
+The revaluation surplus relating to these properties has been reversed as IAS 17 does not permit the revaluation of assets held under operating leases.
+As a result of these changes, some rent payable in the Income Statement has been reclassified as interest payable.
+The depreciation charged on short-leasehold properties that have been reclassified as finance leases has increased as the value of the properties being depreciated has increased to fair value.
+Operating lease premiums that have been reclassified on the Balance Sheet are now amortised over the life of the lease.
+Share-based payments IFRS 2 Under UK GAAP, the costs of shares awarded under the Short-Term Incentive Plan STIP and Long-Term Incentive Plan LTIP were recognised based on the intrinsic value of the shares at the date of grant.
+This cost was spread over the performance period of the scheme.
+No charge was recognised for the Employee Share Option Scheme ESOS as these options have no intrinsic value.
+An exemption was also in place which meant that no charge was made for Save as You Earn SAYE schemes.
+Under IFRS 2 Share-based payments, the fair value of share schemes are calculated and the cost is then spread over the vesting period of each scheme.
+This results in a new charge for SAYE and ESOS schemes and a revised charge for the STIP and LTIP.
+As a result, an additional charge has been recognised in the Income Statement for share-based payments.
+Tax deferred tax on pub estate IAS 12 Under IAS 12, a deferred tax liability has been recognised on the balance sheet relating to the revaluation of the pub estate and gains previously rolled over, or due to be rolled over, into other assets.
+The deferred tax liability that would have been in place at the time of business combinations that have occurred since 1 January 1999 has resulted in the recognition of additional goodwill as the fair value of the net assets acquired has been reduced.
+Tax IAS 12 An adjustment has been made to the tax charge to reflect the deferred tax effect of the other IFRS adjustments where relevant.
+The two tax adjustments do not affect the amount of tax payable in respect of the year ended 30 September 2005.
+Other changes relating to the Income Statement Exceptional items Exceptional items are classified as those which are separately identified by virtue of their size or nature to allow a full understanding of the underlying performance of the Group.
+Earnings per share IAS 33 The calculation of the number of shares for use in the diluted earnings per share calculation is different under IAS 33 Earnings per Share to that used under UK GAAP.
+This is due to the treatment of contingently issuable shares and the effects of IFRS 2 Share-based payments.
+This has resulted in a reduction in the number of shares being used in this calculation.
+Enterprise Inns plc Annual Report 2006 83 12997ENTERPRI 11 12 06 4:23 pm Page 84 Notes to the Group Accounts at 30 September 2006 33.
+Transition to IFRS continued Other formatting adjustments The Group has taken the opportunity to re-format the Income Statement in order to show Earnings before interest, tax, depreciation and amortisation EBITDA as a line item.
+Adjustments made to the Balance Sheet 1.
+Presentation of payables IAS 1 IAS 1 states that current tax payable and financial liabilities should be shown separately as line items in the balance sheet.
+These items have therefore been split out and shown separately.
+Presentation of deferred tax IAS 1 IAS 1 states that deferred tax should be shown separately as a line item in the balance sheet.
+This has therefore been split out from provisions for liabilities and charges and shown separately.
+Presentation of provisions IAS 1 Under UK GAAP, provisions for liabilities and charges were shown after creditors falling due after more than one year.
+IAS 1 states that all assets and liabilities should be classified as either current or non-current.
+As a result, the provisions in place that relate to a period of one year or less from the balance sheet date have been identified and moved to current liabilities.
+Presentation of pension liability IAS 19 Under UK GAAP, the pension liability was shown net of deferred tax.
+Under IFRS, the pension liability is shown gross with the related deferred tax asset shown within deferred tax.
+As a result, the deferred tax relating to the pension liability has been reclassified on the balance sheet.
+Under IFRS, the Group has concluded that a depreciation charge should be incurred on landlords fixtures and fittings and certain improvements made to buildings.
+However, no depreciation charge arises as the residual value of these properties is at least equal to their carrying value.
+As a result, an adjustment has been made to reflect the charge that would have been recognised under IFRS in relation to landlords fixtures and fittings and certain improvements to buildings.
+This adjustment is a transfer between the profit and loss account reserve and the revaluation reserve.
+Pub revaluations below historic cost IAS 16 Under UK GAAP, all revaluation uplifts were credited to the revaluation reserve.
+The charge will represent the amount by which the pub falls below historic cost.
+If this same pub later recovers in value so that its book value exceeds historic cost, the increase in value is credited to the Income Statement to the extent that a debit was previously recognised.
+As a result, on transition to IFRS all deficit balances held in the revaluation reserve were transferred to the profit and loss account reserve as under IAS 16, these would have been charged to the Income Statement.
+84 Enterprise Inns plc Annual Report 2006 1 12997ENTERPRI 11 12 06 4:23 pm Page 85 Notes to the Group Accounts at 30 September 2006 33.
+Non-current assets held for sale IFRS 5 Under UK GAAP, all pubs were held within tangible fixed assets.
+IFRS 5 Non-current assets held for re-sale and discontinued operations creates a new category of asset that is neither a current asset nor a non-current asset.
+Freehold and leasehold pubs that are considered to be held for sale rather than held for trading, and that meet the criteria laid out in IFRS 5, are moved to this new category and shown separately on the balance sheet.
+Deferred tax on revaluations and rolled over gains IAS 12 Under UK GAAP, no deferred tax was recognised in respect of the unrealised surplus on the revaluation of tangible fixed assets unless there was a binding commitment to sell the properties at the balance sheet date.
+In addition, no provision was included for capital gains on the disposal of properties where the gain was deferred through the application of capital gains rollover relief as no liability was expected to crystallise.
+IAS 12 Income Taxes states that deferred tax must be provided on all temporary differences between the tax base cost and carrying value of assets.
+As a result, a deferred tax liability has been recognised relating to the revaluation of the pub estate and gains previously rolled over, or due to be rolled over, into other assets.
+It should be noted that this liability is not expected to crystallise in the foreseeable future.
+The amount of indexation that would have been credited to the Income Statement in relation to these pubs is reflected in the Profit and Loss Account Reserve.
+The deferred tax arising from revaluations carried out by the Group i. e. post-acquisitions is charged to the revaluation reserve.
+Goodwill IFRS 3 Under UK GAAP, goodwill was amortised on a straight-line basis over a useful economic life of 20 years.
+Goodwill amortisation that was charged under UK GAAP all relates to business combinations that have been restated under IFRS 3.
+The accumulated amortisation has therefore been reversed.
+Goodwill was tested for impairment on transition to IFRS and at 30 September 2005 and no impairment was identified.
+Proposed dividends IAS 10 Under UK GAAP, dividends were accrued and shown as a liability when they were proposed.
+They were therefore accounted for in the period to which they related.
+IAS 10 Events after the Balance Sheet Date states that dividends declared after the balance sheet date should not be recognised as a liability.
+As a result, the liability for proposed dividends has been reversed.
+Final dividends will now only be recognised when they are approved at the AGM and interim dividends when they are paid.
+Interest rate swaps IAS 39 Under UK GAAP, the interest rate swaps that the Group inherited upon acquisition of subsidiary companies were held on the balance sheet at their fair value at the date of acquisition.
+This fair value balance was amortised over the life of the swap with the amortisation being credited to the profit and loss account.
+IAS 39 Financial Instruments: Recognition and Measurement, states that these swaps must be held on the balance sheet at fair value.
+Fair value is remeasured at each balance sheet date.
+As a result, the UK GAAP book value of the swaps has been replaced by their fair value at the balance sheet date.
+In addition, the fair value of swaps that are not classified as hedging instruments under IAS 39 are all shown as current liabilities'.
+Hedge accounting was not adopted for any swaps at 30 September 2005.
+As a result the value of swaps held within noncurrent liabilities has been transferred to current liabilities.
+Enterprise Inns plc Annual Report 2006 85 12997ENTERPRI 11 12 06 4:23 pm Page 86 Notes to the Group Accounts at 30 September 2006 33.
+Under UK GAAP the Group accounted for all leases as operating leases and rent was charged to the Profit and Loss Account as incurred.
+Leasehold assets were held on the balance sheet within tangible fixed assets at valuation.
+Under IAS 17, most leases have been re-classified as finance leases.
+The book value of these properties has been increased by the same amount so that they are now held at fair value.
+The remaining leasehold pubs have been classified as held under operating leases.
+The amount held on the balance sheet in relation to these pubs has been reclassified from tangible fixed assets to intangible assets: operating lease premiums.
+Tax IAS 12 An adjustment is made to reflect the tax impact of the other IFRS adjustments where relevant.
+Other changes relating to the Balance Sheet Net debt The amount of underlying net debt, defined as the amount repayable to banks and other lenders, net of cash retained within the business, is unchanged by the adoption of IFRS.
+However, net debt as presented in the balance sheet has changed due to the treatment of interest rate swaps under IAS 39 and leases under IAS 17.
+Cash flow statement The transition to IFRS has no effect on reported cash flows generated by the Group.
+The IFRS cash flow statement is presented in a different format from that required under UK GAAP.
+Cash flows are split into three categories operating activities, investing activities and financing activities.
+The changes made to the cash flow have no effect on the total cash flows generated by the business.
+86 Enterprise Inns plc Annual Report 2006 1 JOB 12997 PROOF 04 04 12 2006 12997ENTERPRI 11 12 06 4:23 pm Page 87 Notes to the Group Accounts at 30 September 2006 Enterprise Inns plc Annual Report 2006 87 33.
+Transition to IFRS continued Reconciliation of Group Income Statement for the year ended 30 September 2005 1 2 3 4 5 6 7 8 9 10 11 Restated# DepreciaRevaluaShare Restated# IFRS UK GAAP Revenue Dividends Goodwill Swaps Swaps tion tions Leases schemes Tax Tax Restated# m IAS18 IAS 1 IFRS 3 IAS 39 IAS 39 IAS 16 IAS 16 IAS 17 IFRS 2 IAS 12 IAS 12 m Revenue 919.9 32.2 952.1 Cost of sales 385.1 0.4 384.7 Gross profit 534.8 567.4 Administrative expenses 38.9 0.5 39.4 Other operating income 32.2 32.2 0.0 EBITDA 528.1 528.0 Depreciation of owned property, plant and equipment 1.4 5.9 7.3 Depreciation and amortisation of leasehold properties 2.2 0.6 2.8 Amortisation of goodwill 4.3 4.3 0.0 Group operating profit 520.2 517.9 Interest receivable 8.9 8.9 Interest payable 223.5 12.7 0.4 236.6 Profit before tax and exceptional items 305.6 290.2 Exceptional finance costs: Write-off of unamortised issue costs 4.6 4.6 Movement in fair value of interest rate swaps 0.0 19.6 19.6 Other exceptional items: Profit on disposal of associated undertaking 0.2 0.2 Net profit on disposal of property, plant and equipment 2.7 11.1 13.8 Movements arising from revaluation of pub estate 0.0 4.4 4.4 Profit before tax 303.9 275.6 Tax on profit on ordinary activities 92.1 6.8 85.3 Exceptional tax item: Reduction in deferred tax liability due to indexation 0.0 19.2 19.2 Group profit on ordinary activities after tax 211.8 0.0 0.0 4.3 12.7 19.6 5.9 6.7 0.6 0.5 19.2 6.8 209.5 Dividends 61.4 61.4 Retain profit for the period 150.4 # See note 1 EPS basic 61.9p 61.0p EPS basic diluted 61.1p 60.3p EPS adjusted 63.2p 58.4p EPS adjusted diluted 57.7p JOB 12997 PROOF 04 04 12 2006 12997ENTERPRI 11 12 06 4:23 pm Page 88 Notes to the Group Accounts at 30 September 2006 88 Enterprise Inns plc Annual Report 2006 1 33.

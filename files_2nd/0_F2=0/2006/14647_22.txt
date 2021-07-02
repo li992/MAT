@@ -1,0 +1,34 @@
+116 Spirent Communications plc Annual Report 2006 Glossary 3G Third Generation Future generation of mobile communications following first generation analogue and second digital.
+4G Fourth Generation Future generation of mobile communications following 3G.
+10 Gig E 10-gigabit Ethernet Networking technology enabling Ethernet data to be transported at 10 gigabits per second.
+A-GPS Assisted GPS A system utilising GPS, assisted by the cellular signal to a mobile device, to more quickly pinpoint its location.
+Access The connection between the local exchange and the home ofce, etc also referred to as the Access Network or the Local Loop.
+ATM Asynchronous High-speed transmission technology used for transporting multiple simultaneous services voice, data Transfer Mode and multimedia applications with high quality of service levels.
+Broadband Generic term for devices with a bandwidth greater than one megabit per second.
+CDMA Code Division Technology allowing communications circuits to carry multiple conversations simultaneously, thus Multiple Access increasing its capacity.
+DSL Digital Subscriber Line Technology that uses existing telephone copper lines to transport high-bandwidth data such as multimedia and video to service subscribers.
+Ethernet A family of networking technologies developed for local area networks and now migrating to metro area networks.
+Galileo The informal name for the European Global Navigation Satellite System, a system that will offer users anywhere in the world near pinpoint geographic positioning when it becomes fully operational.
+Gig E Gigabit Ethernet Transmission protocol over a local area network that operates at a speed of 10 billion bits gigabit per second.
+GPS Global Positioning System A system for determining location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate these positions and altitudes.
+GSM Global System A digital mobile telephony system that is widely used in Europe and other parts of the world.
+for Mobile communication HSDPA High-speed Downlink An evolution of W-CDMA.
+Packet Access IMS Internet protocol multimedia A standardised next-generation architecture for telecoms operators who want to provide mobile and xed subsystem multimedia services.
+Internet telephony Generic term used to describe various approaches to running voice telephony over IP Internet Protocol.
+IP Internet Protocol Data protocol used by many networking devices to facilitate and control the ow of data.
+IPTV Internet Protocol television The delivery of programming by video stream encoded as a series of IP packets.
+Leased line A long-distance dedicated channel sold to enterprises to carry their voice and data trafc.
+Generally excludes suburban zones but can include university campuses.
+Push to talk over Cellular A means of instantaneous communication that uses a button to switch a device from voice transmission mode to voice reception mode employed in a wireless network.
+RF Radio Frequency A technology used for wireless broadcasting and or communications.
+Routing The process of determining the path packets take when moving through a network.
+Security Testing Testing the security of communications networks, equipment and applications.
+Switching The process of forwarding data packets on within a network.
+TDM Time Division Multiplexing a digital transmission method that combines signals from multiple sources on a common path increasing capacity.
+Triple play Voice, video and data transmitted over a single transport medium.
+VoIP voice over IP The technology that makes it possible to have a telephone conversation where the signal is carried over the Internet or a dedicated network in Internet Protocol IP packets, instead of over dedicated voice transmission lines.
+WCDMA Wideband CDMA A global standard for mobile 3G.
+Web Applications Applications accessed or delivered over a network.
+WiMax Worldwide Interoperability A wireless transmission technology.
+for Microwave Access xDSL Variants of DSL eg ADSL, ADSL2, ADSL2, VDSL.

@@ -1,0 +1,54 @@
+Glossary of Terms AIF Custodian Alternative Investment Fund AIF.
+An entity that holds as intermediary the Companys assets, arranges the settlement of transactions and administers income, AIFM proxy voting and corporate actions.
+The Companys Custodian is Alternative Investment Fund Manager AIFM.
+The Board has JPMorgan Chase Bank.
+appointed FIL Investment Services UK Limited to act as the Companys AIFM the Manager.
+Depositary An entity that oversees the custody, cash arrangements and other AIFMD AIFM responsibilities of the Company.
+J. P. Morgan Europe Limited acts as the Companys Depositary.
+The Alternative Investment Fund Managers Directive AIFMD is a European Union Directive implemented on 22 July 2014.
+Derivatives Alternative Performance Measures Financial instruments such as futures, options and contracts for difference whose value is derived from the value of an underlying The Company uses the following Alternative Performance asset.
+Measures which are all defined in this Glossary of Terms: Discount Discount Premium: Net Asset Value NAV per Share: If the share price of the Company is lower than the net asset value Ongoing Charges: per share, the Company is said to be trading at a discount.
+The Return Revenue, Capital and Total Returns : and discount is shown as a percentage of the net asset value.
+opposite of a discount is a premium.
+It is more common for an investment trust to trade at a discount than a premium.
+Benchmark Index FTSE World Europe ex UK Index against which the performance Fair Value of the Company is measured.
+The fair value is the best estimate of the value of the investments, including derivatives, at a point in time and this is measured as: Capital Gains Tax CGT Listed investments valued at bid prices, or last market The tax that may be payable if shares are sold at a profit.
+prices, where available, otherwise at published price quotations: Collateral Asset provided as security for the unrealised gain or loss under a Unlisted investments valued using an appropriate valuation contract for difference.
+technique in the absence of an active market: Contract For Dierence CFD Futures and options valued at the quoted trade price for A contract for difference is a derivative.
+It is a contract between the contract: and the Company and an investment house at the end of which the Contracts for dierence valued as the dierence between parties exchange the difference between the opening price and the settlement price of the contract and the value of the the closing price of the underlying asset of the specified financial underlying shares in the contract unrealised gains or losses.
+It does not involve the Company buying or selling the underlying asset, only agreeing to receive or pay the movement Futures in its share price.
+A contract for difference allows the Company to An agreement to buy or sell a fixed amount of an asset at a fixed gain access to the movement in the share price by depositing a future date and a fixed price.
+small amount of cash known as margin.
+The Company may reason that the asset price will rise, by buying long position or fall, by Gearing selling short position.
+If the Company trades long, dividends Gearing describes the level of the Companys exposure and is are received.
+If the Company trades short, dividends are paid.
+expressed as a percentage of shareholders funds.
+It reflects the amount of exposure the Company uses to invest in the market.
+It Corporation Tax can be obtained through the use of bank loans, bank overdrafts The tax the Company may have to pay on its profits for a year.
+and derivatives, in order to increase the Companys exposure to Investment trusts are exempt from corporation tax on their capital market price movements.
+The Company uses two key measures of gains and do not pay tax on any UK dividends.
+As they can offset gearing: expenses against any taxable income, most investment trusts do not pay corporation tax and are therefore tax efficient for the Gross gearing is the total of: long exposures, plus short Company.
+exposures and less exposures hedging the portfolio, expressed as a percentage of shareholders funds.
+Fidelity European Values PLC Annual Report 2017 67 INFORMATION FOR SHAREHOLDERS FINANCIAL GOVERNANCE STRATEGY Glossary of Terms continued Net gearing is the net asset exposure expressed as a Portfolio Manager percentage of shareholders funds.
+Sam Morse is the appointed Portfolio Manager of the Company and is responsible for managing the Companys assets.
+Gross Asset Exposure Gross Asset Exposure measures the exposure to market price Pre-Emption Rights movements as a result of owning shares, derivatives and fixedSection 561 of the Companies Act 2006 provides that a company interest securities.
+offering a new issue of shares must first make an offer of these shares, on the same or more favourable terms, in proportion to Hedging the nominal value held, to existing shareholders.
+At each Annual A strategy aimed at minimising or eliminating the risk or loss General Meeting, the Board seeks shareholder approval to through adverse movements, normally involving taking a position disapply pre-emption right provisions, up to 5% of the issued share in a derivative such as a future or an option.
+Investment Manager Premium Fil Investments International acts as the Companys Investment If the share price of the Company is higher than the net asset Manager under delegation from FIL Investment Services UK value per share, the Company is said to be trading at a premium.
+The premium is shown as a percentage of the net asset value.
+The opposite of a premium is a discount.
+Manager FIL Investments Services UK Limited, was appointed as the Registrar Manager in accordance with the Alternative Investment Fund An entity that manages the Companys shareholder register.
+The Managers Directive AIFMD, and has delegated, inter alia, Companys Registrar is Link Asset Services.
+the investment management of the Company to the Investment Manager.
+Return The return generated in a given period from the investments: Net Asset Exposure Net Asset Exposure is calculated as the total of all long exposures Revenue Return reects the dividends and interest from less short exposures and less exposures hedging the portfolio.
+investments and other income, net of expenses, finance costs and taxation: Net Asset Value NAV Net asset value is sometimes also described as shareholders Capital Return reects the return on capital, excluding any funds, and represents the total value of the Companys assets less revenue return: and the total value of its liabilities.
+For valuation purposes it is common Total Return reects the aggregate of revenue and capital to express the net asset value on a per share basis.
+NAV per Share cum-income Shareholders Funds The net asset value per share including the net revenue on Shareholders funds are also described as net asset value and ordinary activities after taxation for the period, as shown in the represent the total value of the Companys assets less the total revenue column of the Income Statement.
+NAV per Share ex-income Total Return Performance The net asset value per share excluding the net revenue on The return on the share price or net asset value per share taking ordinary activities after taxation for the period.
+into account the rise and fall of share prices and the dividends Ongoing Charges paid to shareholders.
+Any dividends received by the shareholder Total operating expenses excluding finance costs and taxation are assumed to have been reinvested in additional shares for incurred by the Company as a percentage of the average daily share price total return or the Companys assets for net asset net asset values for the reporting year.
+Options Treasury Shares An option is a contract which gives the right but not the obligation Ordinary shares of the Company that have been repurchased by to buy or sell an underlying asset at a specific price on or before the Company and not cancelled but held in Treasury.
+These shares an agreed date.
+Options may be calls buy or puts sell and do not pay dividends, have no voting rights and are excluded from are used to gain or reduce exposure to the underlying asset on the net asset value per share calculation.
+a conditional basis, for example, the purchase of a call option provides exposure to the upside potential of an underlying stock, with the downside risk being limited to the premium paid.
+68 Fidelity European Values PLC Annual Report 2017

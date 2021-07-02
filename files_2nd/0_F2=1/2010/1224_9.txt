@@ -1,0 +1,18 @@
+forward momentum ARM is well positioned as global trends drive the use of technology into the lives of billions of people.
+Warren East, CEO, explains how these trends will benefit ARM and could lead to 100 billion ARM-technology based chips being shipped over the next ten years.
+From its earliest days, ARM has benefited Reliable efficient embedded from a number of global trends such computing as the out-sourcing of technology Consumers wanting to download content development by the semiconductor from the internet or play on-line games industry, and the adoption of mobile need high speed data connections.
+Many of these trends will generation mobile phone networks are continue to benefit ARM over the next currently being installed, offering ten years, and will be joined by additional constant connectivity and data rates up trends such as the consumerisation of to 100MB s. To take advantage of this the internet, the increase in embedded data stream, a mobile device will need computing and the proliferation of a highly efficient processor in the microcontrollers.
+Consumerisation of the internet The infrastructure of the internet will For years the internet just connected also need capable, high-performance PCs and businesses together, but it processors to support increased traffic, has recently expanded its scope and transmitted at faster data rates.
+Rich capability by connecting all types of content, such as video or games, may digital electronic devices together, not just also require larger storage capabilities in phones and mobile computers, but also the consumer device and in the cloud.
+toys, cars, digital TVs, games consoles, All of these modems, and networking navigation devices, and with the advent and storage devices, are opportunities of smart-metering even white goods.
+expansion benefits ARM because chips Smart low-cost microcontrollers based on our technology can be found in many of the communications electronics Some of the electronic devices that we that connect a device to the internet.
+use everyday are already beginning to In addition, internet connectivity can utilise smarter technology to enable enable new products and services that remote monitoring and control, make can become viable only with adoption better decisions and to make huge of even more technology such as videoreductions in the energy consumed by on-demand which may need a secure such devices.
+For example, some washing method for payments.
+machines today have enough intelligence to decide how much detergent to use based on how dirty the clothes are, and spin the drum using more energy efficient control algorithms.
+Includes other applications not listed such as headsets, DVD, game consoles, etc.
+Source: ABI, Gartner, Semico, Instat, IDC and ARM estimates.
+electricity grid to enquire when energy pricing will be at its cheapest level to smooth out peaks in demand.
+We work hard to design appropriate products and engage with suitable partners to put our technology at the heart of all these devices.
+Together these trends will drive the need for smarter chips and increase the adoption and deployment of ARM technology across multiple markets.
+ARMs partners have already shipped about 25 billion ARM processor-based chips cumulatively, and we are now looking forward to a future where another 100 billion ARM processor-based chips will be shipped over the next ten years.
+ARM Holdings plc Annual Report 2010 29

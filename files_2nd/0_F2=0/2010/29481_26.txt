@@ -1,0 +1,77 @@
+Notes to the European Embedded Value Basis I.
+BASIS OF PREPARATION The supplementary information on pages 123 to 132 shows the Groups results as measured on a European Embedded Value EEV basis.
+This includes results for the life, pension and investment business, including unit trust business.
+The valuation is undertaken on a basis determined in accordance with the EEV Principles issued in May 2004 by the Chief Financial Officers Forum, a group of chief financial officers from 19 major European insurers as supplemented by the Additional Guidance on EEV Disclosures issued in October 2005 together the EEV Principles.
+The treatment of all other transactions and balances is unchanged from the primary financial statements on an IFRS basis.
+The objective of the EEV basis is to provide shareholders with more realistic information on the financial position and performance of the Group than that provided by the IFRS basis.
+Under the EEV methodology, profit is recognised as it is earned over the life of the products within the covered business.
+The embedded value of the covered business is the sum of the shareholders net worth in respect of the covered business and the present value of the projected profit stream.
+METHODOLOGY a Covered business The covered business is the life, pension and investment business, including unit trust business, undertaken by the Group.
+b Calculation of EEV on existing business Profit from existing business comprises the expected return on the value of in-force business at the start of the year plus the impact of any changes in the assumptions regarding future operating experience, plus changes in reserving basis other than economic assumption changes, plus profits and losses caused by differences between the actual experience for the period and the assumptions used to calculate the embedded value at the end of the period.
+c Allowance for risk The allowance for risk in the shareholder cash flows is a key feature of the EEV Principles.
+The EEV Principles set out three main areas of allowance for risk in the embedded value: The risk discount rate.
+The allowance for the cost of financial options and guarantees.
+The cost of holding both prudential reserves and any additional capital required.
+The reported EEV allows for risk via a risk discount rate based on a bottom-up market-consistent approach, plus an appropriate additional margin for non-market risk.
+The Group does not offer products that carry any significant financial guarantees or options.
+d Non-market risk Best estimate assumptions have been established based on available information and when used within the market consistent calculations provide the primary evaluation of the impact of non-market risk.
+However, some non-market operational risks are not symmetric, with adverse experience having a higher impact on the EEV than favourable experience.
+Allowance has been made for this by increasing the risk discount rate by 0.8% 2009: 0.8%.
+e The risk discount rate A market-consistent embedded value for each product class has been calculated.
+In principle, each cash flow is valued using the discount rate applied to such a cash flow in the capital markets.
+However in practice, where cash flows are either independent or move linearly with market movement, it is possible to apply a simplified method known as the certainty equivalent approach.
+Under this approach all assets are assumed to earn the risk free rate and are discounted using that risk free rate.
+A market-consistent cost of holding the required capital has also been calculated.
+As part of this approach, an appropriate adjustment has been made to reflect the fact that the value of tax relief on expenses does not move linearly with market movements.
+Finally, an additional allowance for non-market risk has been made by increasing the discount rate by 0.8%.
+St. Jamess Place plc Registered No.
+3183415 126 Financial Statements For presentational purposes, a risk discount rate has then been calculated which under the EEV basis gives the same value determined above.
+This provides an average risk discount rate for the EEV and is described in relation to the risk free rate.
+This average risk discount rate has also been used to calculate the published value of new business.
+f Cost of required capital In light of the results of internal analysis, the Directors consider that the minimum regulatory capital provides adequate capital cover for the risks inherent in the covered business.
+The required capital for the EEV calculations has therefore been set to the optimised minimum regulatory capital.
+The EEV includes a reduction for the cost of holding the required capital.
+No allowance has been made for any potential adjustment that the investors may apply because they do not have direct control over their capital.
+Any such adjustment would be subjective, as different investors will have different views of what, if any, adjustment should be made.
+g New business The new business contribution arising from reported new business premiums has been calculated using the same assumptions as used in the EEV at the end of the financial year.
+The value of contractual incremental premiums to existing business is treated as new business in the year of the increment, rather than at the outset of the policy.
+This approach better reflects the way the Group manages its business.
+The value of new business has been established at the end of the reporting period and has been calculated using actual acquisition costs.
+h Operating profit Operating profit is determined as the increase in the embedded value over the year excluding market-related impacts such as the effects of economic assumption changes and investment variances and grossed up for shareholder tax.
+i Taxation The EEV includes the present value of tax relief on life assurance expenses calculated on a market-consistent basis.
+This calculation takes into account all expense and income amounts projected for the in-force business including any carried forward unutilised relief on expenses.
+In determining the market-consistent value an appropriate allowance is made to reflect the fact that the value of tax relief on expenses does not move linearly with market movements.
+When calculating the value of new business, priority is given to relieving the expenses relating to that business.
+ASSUMPTIONS a Economic Assumptions The principal economic assumptions used within the cash flows at 31 December are set out below: Year Ended Year Ended 31 December 31 December 2010 2009 Risk free rate 3.6% 4.2% Inflation rate 3.2% 3.2% Risk discount rate net of tax 6.7% 7.3% Future investment returns: Gilts 3.6% 4.2% Equities 6.6% 7.2% Unit linked funds Capital growth 2.9% 3.4% Dividend income 3.0% 3.1% Total 5.9% 6.5% Expense inflation 3.9% 3.9% Annual Report and Accounts 2010 127 Notes to the European Embedded Value Basis continued III.
+ASSUMPTIONS CONTINUED The risk free rate is set by reference to the yield on ten year gilts.
+Other investment returns are set by reference to the risk free rate.
+The inflation rate is derived from the implicit inflation in the valuation of ten year index-linked gilts.
+This rate is increased to reflect higher increases in earnings related expenses.
+b Experience Assumptions The principal experience assumptions have been set on a best estimate basis.
+The persistency assumptions are derived from the Groups own experience or, where insufficient data exists, from external industry experience.
+The expense assumptions include allowance for both the costs charged by the relevant third party administrators for acquisition and maintenance, and the corporate costs incurred in respect of covered business.
+The corporate costs have been apportioned so that the total maintenance costs represent the anticipated ongoing expenses, including systems development costs, which are expected to arise in future years in meeting the policy servicing requirements of the in-force business.
+Mortality and morbidity assumptions have been set by reference to the Groups own experience, published industry data and the rates set by the Groups reassurers.
+c Taxation Future taxation has been determined assuming a continuation of the current tax legislation.
+The EEV result has been calculated on an after-tax basis and has been grossed up to a pre-tax level for presentation in the profit and loss account.
+The corporation tax rate used for this grossing up is 26% for UK life and pensions business, 12.5% for Irish life and pensions business and 28% for unit trust business.
+COMPONENTS OF EEV PROFIT a Life business Year Ended Year Ended 31 December 31 December Note 2010 2009 million million New business contribution 1 157.9 106.3 Profit from existing business Unwind of discount rate 74.0 63.7 Experience variances 24.8 2.6 Operating assumption changes 3.4 2.3 Investment income 3.5 4.8 Operating profit before tax 256.8 175.1 Investment return variances 84.9 104.0 Economic assumption changes 5.8 12.1 Profit before tax 347.5 267.0 Attributed tax 87.9 67.5 Corporation tax rate change 13.8 Profit after tax 273.4 199.5 Note: 1 New business contribution after tax is 118.2 million 2009: 79.7 million.
+3183415 128 Financial Statements b Unit Trust business Year Ended Year Ended 31 December 31 December Note 2010 2009 million million New business contribution 1 59.9 49.1 Profit from existing business Unwind of discount rate 19.5 14.6 Experience variances 1.6 9.0 Operating assumption changes 0.8 Investment income 0.7 0.8 Operating profit before tax 81.7 74.3 Investment return variances 32.7 44.2 Economic assumption changes 1.0 1.8 Profit before tax 113.4 116.7 Attributed tax 31.8 32.7 Corporation tax rate change 3.9 Profit after tax 85.5 84.0 Note: 1 New business contribution after tax is 43.1 million 2009: 35.3 million c Combined Life and Unit Trust business Year Ended Year Ended 31 December 31 December Note 2010 2009 million million New business contribution 1 217.8 155.4 Profit from existing business: Unwind of discount rate 93.5 78.3 Experience variances 26.4 11.6 Operating assumption changes 3.4 1.5 Investment income 4.2 5.6 Operating profit before tax 338.5 249.4 Investment return variances 117.6 148.2 Economic assumption changes 4.8 13.9 Profit before tax 460.9 383.7 Attributed tax 119.7 100.2 Corporation tax rate change 17.7 Profit after tax 358.9 283.5 Note: 1 New business contribution after tax is 161.3 million 2009: 115.0 million.
+Annual Report and Accounts 2010 129 Notes to the European Embedded Value Basis continued IV.
+COMPONENTS OF EEV PROFIT CONTINUED d Detailed analysis In order to better explain the movement in capital flows, the components of the EEV profit for the year ended 31 December 2010 are shown separately between the movement in IFRS net assets and the present value of the in-force business VIF in the table below.
+All figures are shown net of tax.
+Movement in IFRS Movement Movement Net Assets in VIF in EEV million million million New business contribution 61.9 223.2 161.3 Profit from existing business 124.9 124.9 Unwind of discount rate 69.5 69.5 Experience variances 4.9 24.3 19.4 Operating assumption changes 2.0 0.9 2.9 Investment return 3.2 3.2 Investment return variances 4.0 83.1 87.1 Economic assumption changes 2.0 5.6 3.6 Miscellaneous 6.3 6.3 Corporation tax rate change 17.7 17.7 Profit after tax 55.0 297.6 352.6 The comparative figures for 2009 are as follows: Movement in IFRS Movement Movement Net Assets in VIF in EEV million million million New business contribution 50.5 165.5 115.0 Profit from existing business 102.0 102.0 Unwind of discount rate 58.2 58.2 Experience variances 7.8 0.8 8.6 Operating assumption changes 7.5 6.0 1.5 Investment return 4.4 4.4 Investment return variances 0.2 109.9 109.7 Economic assumption changes 2.2 13.1 10.9 Miscellaneous 18.4 18.4 Profit after tax 39.8 225.3 265.1 St. Jamess Place plc Registered No.
+3183415 130 Financial Statements V. EEV SENSITIVITIES The table below shows the estimated impact on the combined life and unit trust reported value of new business and EEV to changes in various assumptions.
+In each case, only the indicated item is varied relative to the restated values.
+Change in New Business Change in Contribution European Embedded Value Notes Pre-tax Post-tax Post-tax million million million Value at 31 December 2010 217.8 161.3 1,715.5 100bp reduction in risk free rates, with corresponding change in fixed interest asset values 1 0.5 0.4 8.5 10% reduction in withdrawal rates 21.3 15.8 84.4 10% reduction in expenses 4.6 3.5 22.1 10% reduction in market value of equity assets 2 158.6 5% reduction in mortality and morbidity 3 0.5 100bp increase in equity expected returns 4 100bp increase in assumed inflation 5 3.8 2.9 12.2 Notes: 1 This is the key economic basis change sensitivity.
+The business model is relatively insensitive to change in economic basis.
+Note that the sensitivity assumes a corresponding change in all investment returns but no change in inflation.
+2 For the purposes of this required sensitivity, all unit linked funds are assumed to be invested in equities.
+The actual mix of assets varies and in recent years the proportion invested directly in UK and overseas equities has exceeded 70%.
+3 Assumes the benefit of lower experience is passed on to clients and reassurers at the earliest opportunity.
+4 As a market-consistent approach is used, equity expected returns only affect the derived discount rates and not the embedded value or contribution to profit from new business.
+5 Assumed inflation is set by reference to 10 year index linked gilt yields.
+Change in European Change in New Business Embedded Contribution Value Pre-tax Post-tax Post-tax million million million 100bp reduction in risk discount rate 31.2 23.1 118.9 Although not directly relevant under a market-consistent valuation, this sensitivity shows the level of adjustment which would be required to reflect differing investor views of risk.
+Annual Report and Accounts 2010 131 Notes to the European Embedded Value Basis continued VI.
+RECONCILIATION OF IFRS AND EEV PROFIT BEFORE TAX AND NET ASSETS Year Ended Year Ended 31 December 31 December 2010 2009 million million IFRS profit before tax 161.9 28.5 Movement in life value of in-force 197.0 234.8 Movement in unit trust value of in-force 96.1 99.9 Total EEV profit before tax 455.0 363.2 31 December 31 December 2010 2009 million million IFRS net assets 586.3 539.8 Less: acquired value of in-force 50.2 54.1 Add: deferred tax on acquired value of in-force 13.5 15.1 Add: life value of in-force 877.2 649.1 Add: unit trust value of in-force 288.7 221.5 EEV net assets 1,715.5 1,371.4 VII.
+RECONCILIATION OF LIFE COMPANY FREE ASSETS TO CONSOLIDATED GROUP EQUITY AND ANALYSIS OF MOVEMENT IN FREE ASSETS 31 December 31 December 2010 2009 million million Life company estimated free assets 102.1 82.2 Estimated required life company solvency capital 39.5 42.5 Other subsidiaries, consolidation and IFRS adjustments 444.7 415.1 IFRS net assets 586.3 539.8 Year Ended Year Ended 31 December 31 December 2010 2009 million million Life company estimated free assets at 1 January 82.2 110.8 Investment in new business 69.5 65.2 Profit from existing business 96.0 78.6 Dividends paid 10.0 44.4 Investment return 2.7 3.8 Movement in required solvency capital 0.7 1.4 Life company estimated free assets at 31 December 102.1 82.2 St. Jamess Place plc Registered No.

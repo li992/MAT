@@ -1,0 +1,172 @@
+26 ARM Holdings plc Annual Report & Accounts 2011 Ecosystem strategy Our partnership approach We believe partnership is the smartest approach to creating value in the semiconductor industry today.
+Rather than establishing a business that tries to do everything, we partner with many companies, each of whom can focus their efforts on where they Warren East CEO can best add value.
+This enables more innovation by chip makers, more choice for OEMs and more differentiated products for consumers.
+Over the past 20 years, ARM has At ARM we continually work with our encouraged the development of a network Partners to track consumer and industrial ofPartners, our ecosystem, who work trends that will change endmarkets and together to deliver powerefficient products create opportunities for ARM technology.
+to their industry customers and ultimately We work with thoughtleaders who want to consumers.
+Our ecosystem is a connected tobe early pioneers into these new markets.
+community of hundreds of companies We establish relationships with key developing their products and services companies who will form the start of that around ARM technology.
+These companies part of the ecosystem that is needed for our include semiconductor manufacturers, licensees to become successful.
+We invest design automation providers, and operating where necessary in startups that will system and application software vendors.
+demonstrate the opportunity to other Itis the quality and breadth of these ARMPartners.
+companies that determine ARMs ability As the ecosystem grows, OEMs start to torapidly penetrate new markets.
+benefit from lower structural costs as there Trust underpins this ecosystem.
+Our is an increased choice of semiconductor and Partners share their product roadmaps, software provider who are all basing their business plans and market intelligence with technology on ARM.
+They need to know that we will only actively encourage more of their suppliers use that knowledge to create better todevelop ARM processorbased products, technology which will enhance their creating a virtuous and sustainable cycle.
+Our Partners are also assured Our ecosystem is the broadest it has ever thatARM will leave space for them to add been and now extends from smartphones value making their ARM technologybased and computers, to washing machines and products different, so that they invest in sensors.
+It is also deepening as Partners their businesses and make profits for choose to develop more of their products theirshareholders.
+onARM technology, and as more types ofcompanies join the Partnership.
+Overview 11 27 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 In 2011, we have continued to extend the breadth of our Partnership which now stretches from microcontrollers andsensors to PCs and servers.
+Microsoft announced that the next version of Windows 8 will run on ARM processor-based chips.
+They also Quarter 1 announced that Microsofts other PC products, such as Office and Internet Explorer would support the ARMarchitecture Important graphics companies ported their software to Mali based chips, including Autodesk, used in some of the leading PCand console-based games, and Gameloft and Polarbit who have optimised their top gaming titles Google announced that Chrome OS will soon be available for ARM processor-based chips, to enable lower power Quarter 2 and smaller form-factor computing devices At the Computex computer show many leading OEMs demonstrated mobile computing applications based on chips containing high-performance dual-core ARM Cortex-A9 processors, including Acer, Asus and Compal Multiple microcontroller and sensor companies announced new ARM processor-based products, including Atmel, Quarter 3 Freescale,  Texas Instruments.
+Thistook the number of ARM processor-based microcontroller product lines to about 1000 Applied Micro Circuits announced that the first 64-bit ARM processor-based server was in development.
+Quarter 4 They were joined at the announcement by software company RedHat and OEM SeaMicro HP announced the first ARM processor-based server, with chips designed by Calxeda.
+HP also announced a lab for software to enable developers to start to port their software to ARM processor-based servers Throughout 2011 ARM opened a design centre in Taiwan, to foster collaboration on implementation and Physical IP development withkey Taiwanese companies.
+TSMC and ARM taped out a 20nm Cortex-A15 test chip, and ARM announced a licence with UMC to develop 28nmPhysical IP.
+ARM taped out 20nm test chips with Samsung and GLOBALFOUNDRIES, paving the way for broad coverage of all 20nm process technologies with ARM Physical IP.
+2012 has also got off to a good start with that over half of the digital TVs sold will have ARMs Segment Marketing several leading digital TV manufacturers at least one ARM processorbased chip.
+team is tasked to develop announcing new TVs based on ARM Someof these chips will also contain a Mali thisecosystem of partnerships.
+ARM has been developing the graphics processor and physical IP technology, Many are recruited from ecosystem in digital TVs in recent years, and generating additional royalties per chip.
+theindustries that we are this has resulted in all of the leading consumer targeting so are experts in We will continue to develop the ARM electronic chip providers licensing ARM their fields and often have ecosystem, to the benefit of all companies technology for use in digital TVs, and major within the Partnership.
+ARMs longterm considerable personal software vendors optimising their operating success depends on our community of networks.
+systems and applications to support ARM Partners being increasingly successful.
+In 2012, we estimate Over the next few pages, ARMs Segment Marketing Our communities of Partners team explain how they are creating a nurturing ecosystem in which our 1 ARM Partners businesses can of semiconductor thrive in each area of this 100s companies connected community.
+1,000s of OEMs 10,000s of chip designs 100,000s of digital devices 1,000,000s of engineers 1,000,000,000s of consumers developing or using ARM technology-based products 28 ARM Holdings plc Annual Report & Accounts 2011 Over the last 20 years, the stateoftheart mobile phone has Mobile phones Value of the ecosystem evolved from a phone that can just make telephone calls, to todays supersmartphone that is fast becoming the primary platform for access to our digital lives and the principal target for application developers.
+Throughout this period of evolution, ARM has worked closely with OEMs and software developers to create an ecosystem around the evolving smartphone.
+Laurence Bryant Director of Mobile Computing Laurence Bryant joined ARM in 2006 Read more tolead the Mobile Segment Marketing about this at U team.
+Laurence and his team maintain www.
+com U relationships with influential handset reporting2011 OEMs, network operators and major software developers for mobile devices.
+He can therefore ensure that ARM is developing technology for suitable mobile devices.
+The ecosystem stretches beyond the Today, ARM technology is the starting What we have done application processor and open operating point for any new product or service, ARMs first mobile phone design win systems.
+After 20 years of developing notjust in mobile devices but for other wasinaNokia handset in the mid1990s.
+technology in partnerships with endmarkets too as ecosystems and Thiswas one of the worlds first 2G mobile semiconductor companies, OEMs and functionality spill from one market to phones.
+The software running on the ARM application software developers, there thenext, such that the basis of competition processor in this phone managed both arenow many thousands of engineers between such companies can be who is theprotocolstack and the user interface.
+experienced in developing ARMbased best on ARM.
+The mobile phone is Thisuser interface gradually became more SystemonChip SoC designs and increasingly becoming a mobile computer, sophisticated and engaging for the phones softwareprograms.
+There are established and is likely to become one of the main users, changing the configuration of the supply chains and relationships where waysthat consumers connect to online phone, running games and managing OEMs know that their investment in any products andservices.
+ARMbased chips can be reused across Fast forward to today where the landscape theirother product lines and their future for ARMbased mobile devices now benefits roadmap.
+One of the best examples of this from the broadest and richest ecosystem.
+isthe investment made into each generation The most obvious and discussed ecosystem of mobile telephony standards, where each centres around the application processor generational release needs to also support and the open operating systems of the preceding generation, supporting many smartphones.
+These ecosystems are hard of the six billion mobile subscribers.
+toreplicate and today there are over one million applications developed for mobile phones with 25 billion downloads.
+1995 2000 2005 2010 2011 Future Design wins in first Developed First smartphones Strong growth in 450 million Phones will 2G mobile phones processor for introduced applications driven smartphones connect the next complex Operating by combination of shipped, 1 million billion internet Systems 3G and Cortex apps available, consumers application 25billion apps processors downloaded Overview 11 29 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 In the late 1990s the data density of hard disks was growing and Disk Drives Listening to the the speed at which the data needed to be read from the diskwas developers increasing.
+Manufacturers were considering how their future roadmaps could cope with this increase in capacity and complexity.
+ARM processor platforms met both the OEMs business and technology requirements.
+These platforms delivered on performance and best in class debug for timetomarket Lakshmi Mandyam Director of Enterprise requirements, and these chips could be delivered by multiple Marketing vendors and yet be codecompatible and help them reduce thecomplexity of their software and development processes.
+Lakshmi Mandyam is the Director of Read more Enterprise Marketing at ARM.
+With ARM about this at U since 2008, she runs a team focused www.
+com U onthe enterprise market including reporting2011 networking, wireless infrastructure, set-top box, printing, and storage.
+Prior to ARM she worked at various companies building technology forenterprise applications.
+What we have done We realised that the key to solving their In addition, OEMs like being able to challenges was in addressing their product buyARMbased chips for hard disk drives Fifteen years ago, ARMs Segment Marketing development needs beyond just the processor from multiple semiconductor companies.
+team believed that ARM technology might to understand their technical and business This has allowed them to standardise on be suitable for the controller chip in more challenges.
+We needed technology to support ARM processor technology and reuse their advanced disk drives.
+To better understand the software engineers writing the HDD software investment across chips from these industry requirements, ARM instigated specific algorithms and control functions, multiple suppliers and direct their own a multiyear programme ofinvestigation and we needed to support the software tools R&D spend on new valueadded features andinvestment.
+One of the often overlooked that enhance their offerings inthis space.
+We organised collaborative discussions with areas in silicon system development is Today, ARM is the architecture of choice all of the major OEMs and listened to how timetoproduction.
+With ourinnovative indrive controller chips with 90% market they saw their roadmaps developing and the debug and trace technologies we were able share.
+As solid state drives SSD are technical challenges that they were facing.
+toshorten debug and code development beginning to replace HDD, some cycles.
+By working with the semiconductor We invested in a startup that was marketsvendors are choosing ARM companies, software developers and with the developing new disk drive technology processors as proven and backward OEMs and tools developers, ARM was able tolearn how semiconductor companies compatible technology with their tocreate not onlynew processor technology could build these future chips.
+existingproducts and the right longterm and valuablesystem debug and trace IP, architecture Partner for the long haul.
+butalsoa new ecosystem to support it.
+We used the breadth of ARMs existing customers to demonstrate how similar problems were being solved in other endmarkets.
+1995 2000 2005 2010 2011 Future Identified Introduced new OEMs requested ARM technology ARM has 90% Continue enterprise HDD processor and their suppliers licensed by all market share of disk togain share opportunity software choose ARM major HDD drive market inboth HDD technology processors controller suppliers and SSD 30 ARM Holdings plc Annual Report & Accounts 2011 Microcontrollers are simple, lowcost, general purpose chips Microcontrollers Creating and nurturing that are used in a wide range of applications from electric the ecosystem motor controllers and toys to washing machines and industrial automation.
+Although lowcost, microcontrollers sell in very high volume.
+In 2011, the microcontroller market was ARMsfastest growing market, with 1.1 billion chips sold, an increase of95% on the prior year.
+Gary Atkinson Director of EmbeddedMarketing Gary Atkinson joined ARM in 2010 to Read more leadthe development of ARMs strategy about this at U inembedded chips in automotive www.
+com U applications, smartcards and reporting2011 microcontrollers.
+Gary is in his second decade in the semiconductor industry, and has worked in various commercial and technical roles in servers, telecoms, PCs and medical equipment.
+What we have done So, over the last decade ARM has planned In 2011, ARM had 15% share ofthe the development of an ecosystem to access microcontroller market.
+This share Ten years ago, only a few pioneering the opportunity in microcontrollers.
+comes from 20 leading microcontroller semiconductor companies were manufacturers.
+Another 80 semiconductor using ARMtechnology to develop We learnt from those early pioneers, companies have licensed ourCortexM microcontrollers.
+ARM processors understood the market and what family of processors and most will start were considered overspecified for most processor improvements they required.
+shipping within the next few years.
+microcontroller applications our technology was too big for lowcost We invested in a microcontroller startup chips and too smart for fixedfunction toensure we understood all aspects chips.
+However, we recognised that as ofdesigning chips, systems and software.
+manufacturing technology advanced We acquired the marketleading ARM processorbased chips would be microcontroller software tools company able to reach the low price points suitable toensure timely availability of tools for microcontrollers, and smarter ARM support for new ARMbased processors could enable a new generation microcontrollers.
+ofchips leading to smarter products.
+We developed a new processor architecture and a family of processors specifically designed for the microcontroller market.
+We worked with all the leading industry players to ensure that we were all aligning our product roadmaps.
+2000 2003 2006 2009 2011 Future Identified Developed new Invested in Introduced ARM has 15% Penetration microcontroller processor pioneering software developer market share increases as opportunity technology semiconductor programme customers reach start-up: acquired high volume leading tools company Overview 11 31 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Ecosystems can sometimes evolve out of already established Client computing Extending an ecosystem ecosystems, enabling ARMs Partners to move into new markets.
+Client computers include mobile computers, such as tablets and laptops, and tethered computers such as desktop !
+PCs, thin clients and embedded computers.
+Roy Chen Director of ClientComputing Roy Chen joined ARMs Segment Read more Marketing team in 2007 from a major about this at U computing company.
+com U istowork with leading PC OEMs who are reporting2011 looking to develop ARM processor-based computers, and to help connect them into the rest of the ARM ecosystem of semiconductor and software vendors.
+What we have done ARM Partners are building lowpower For consumers or enterprises to buy an ARM andhighperformance chips for computing technologybased computer they will need Six years ago, ARMs Segment Marketing devices beyond tablets.
+Computer more software than just an operating system, team started to believe that ARM technology manufacturers are very interested in both browsers, email tools and document creation might be suitable for the higher performance reducing the power consumption of their applications.
+They will need software for: of computing devices.
+Our Partners and products, and also having a greater choice ARM are working together to learn how Multimedia management music storage, ofsupplier.
+todevelop client computers, including how picture manipulation, video editing, etc.
+tobest enable highperformance memory, Many laptop computers today run how to interface to external devices such Gaming from heavy 3D games such Microsofts Windows PC operating system asdisk drives, how to deliver PCclass asfirstperson shooters to casual games OS.
+This OS and the software applications webbrowsing and how to develop the such as card games and puzzles.
+that run on it, are all initially written for the manufacturing ecosystem.
+x86 architecture and so would not run on Productivity for daily office use.
+In early 2011, Microsoft announced Lots of media tablets have evolved from Enterprise software database that their next generation of Windows smartphones, and many tabletscontain management, security and even would support ARMbased chips.
+In exactly the same chips, and run the same proprietary applications.
+addition, they announced that Microsoft software, that can be found inahighend Office products, Internet Explorer and other smartphone.
+The tablet ecosystem effectively ARM and our Partners have been working Microsoft PC products would all become adopted the smartphone ecosystem.
+with leading software companies to ensure available for ARMbased chips.
+they understand how to port their software to ARM processorbased computers.
+Google is also developing an operating Development tools and prototyping systems system for client computers.
+Chrome OS are now becoming available so that the was announced during 2011 and will also software engineers can start work on support ARMbased chips.
+2005 2007 2009 2010 2011 Future Identified laptops Located team Developed Strong growth in Google PC software and desktop inAsia to work processor suitable tablets based on andMicrosoft available on PCsas a future withlocal PC for client ARM technology announce OS ARM.
+First client opportunity supply chain computers support for ARM computers based on ARM technology 32 ARM Holdings plc Annual Report & Accounts 2011 The combination of increased functionality being Servers Seeding a incorporated into ARMs latest processors, coupled with the newecosystem spiralling cost of power offers the opportunity to open up areas of the server market to ARMs Partners in the coming few years.
+Ian Ferguson Director of Server Systems and Ecosystem Ian Ferguson joined ARM in 2007.
+Read more NowDirector of Server Systems and about this at U Ecosystem, Ian defines and executes www.
+com U thestrategy toopen up the server reporting2011 marketto adopt ARM technology.
+Basedin the Bay Area, Ian joined ARM with twenty years of processor marketing experience in arange of Computing, Embedded andEnterprise applications.
+What we have done In October 2011, Canonical announced The announcement of the new ARMv8 theavailability of the first commercial architecture, which extends the architecture Over the last few years, ARM has been gradeserver Linux OS for the ARM to add 64bit support, will broaden the developing technology suitable for future architecture.
+In November 2011, HP applicability of our technology to a wider lower power and lower cost servers.
+announced the RedStone microserver array of server applications.
+Applied Inorderto turn this promise into reality, development platform built around a chip MicroCircuits is an early licensee of this ARM has, inparallel, been developing from Calxeda.
+Their EnergyCore chip is technology for usein server applications.
+We have been working with thoughtleaders Calxeda has announced its Trailblazer in server chip design, system architecture Initiative, focusing on encouraging development, applications software and thirdparty software companies to test their operating systems, to ensure that we applications on Calxedabased hardware.
+understand the requirements for future HP and Calxeda believe they will be able to servers.
+For example, how ARMs deliver a highperformance server at about energyefficient architecture and our 35% ofthecost and about 10% of the energy Partners SoC integration knowhow could consumption of a conventional server.
+markedly lower system acquisition and HPhas also announced they are setting up running costs.
+ARM invested in a server aseries of Discovery Labs, initially in the chip startup, Calxeda, to help us and our US and expanding over time to Europe Partners understand howour technology andAsia.
+This resource will help developers could be applied tothismarket.
+and end users to experiment with ARM powered server technology, through the porting and optimisation of software applications for the ARM architecture.
+2007 2008 2009 2010 2011 Future Started developing Segment Marketing Invested in OEMs and software First software Software ARMv8 with 64-bit team withserver pioneering companies started development ecosystem architecture focus appointed semiconductor experimenting with platforms develops.
+First support start-up ARM technology announced commercial servers launched Overview 11 33 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 ARMs processor customers develop complex SoC designs Implementation Assuring efficiency down incorporating the functional designs provided by ARM.
+To realise to the transistors these chips in silicon, our Partners frequently rely on ARM Physical IP.
+Physical IP comprises transistorlevel building blocksof logic, embedded memory, orI Ocomponents that aretailored to a semiconductor foundry suchas TSMC, SMIC, GLOBALFOUNDRIES, Samsung or UMC.
+These physical IP Dr. John Heinlein Vice President components enable an efficient implementation of a complex SoC ofMarketing, Physical IP design with high quality and low design risk.
+Dr. John Heinlein is Vice President of Read more Marketing for the Physical IP division of about this at U ARM, with responsibility spanning product www.
+com U marketing, strategic accounts, and reporting2011 partnerships.
+His role includes interaction with semiconductor foundries, SoC developers and EDA vendors.
+He joined ARM in 2008 and previously held various senior positions within the industry.
+What we have done ARM Physical IP provides additional ARM also works closely with leading benefits directly to our ARM semiconductor electronic design automation EDA tool ARM acquired Artisan Components, Inc. Partners.
+In particular, we offer Processor companies to support the most advanced in2004 to create the foundation of our Optimisation Packs POPs, which design flows and methodologies.
+Physical IP technology facilitatea high performance, low power Physical IP provides the broadest coverage development is enhanced through close implementation of advanced ARM cores.
+in the industry for all leading EDA tool partnership since the resulting products APOP comprises specially optimised vendors, giving our Partners flexibility in aredesigned to support a particular physical IP components, an implementation their design methodology.
+This promotes semiconductor manufacturing partner benchmark report, and detailed instructions anopen and vibrant design ecosystem.
+We partner with on how our Partners can achieve the same allthe leading foundries and provide the Looking forward, ARM is investing results in their design.
+These packages are broadest coverage in the industry of process earlierthan ever in the deep technical available for manufacturing processes from technology nodes spanning from 250nm relationships necessary to develop the 40nm to 28nm so far, and approximately to20nm.
+Our physical IP is power and physical IP that will be used to implement 50% of CortexA family licensees in performance optimised for both the process future advanced chip designs.
+ARM is 2011also licensed a POP to aid their and market application so regardless of currently working with multiple foundries implementation.
+ARMs processor expertise, which foundry process the semiconductor to develop cuttingedge physical IP solutions coupled with our early collaboration with company uses they will achieve their desired in 20nm and 14nm.
+Given the significant foundries on physical IP puts us in a unique balance of low power, high performance additional technical challenges these nodes position to offer these optimisations now and andsilicon area.
+We have invested heavily will bring, ARM isenabling its Partners into the future for the benefit of ourPartners.
+inthedevelopment of advanced technology toachieve faster timetomarket and platforms for foundry processes at 40nm, reduced risk for their future designs 28nm, and now 20nm, since scaling to new throughearly, collaborative efforts.
+processes is one of the ways chip designers add more functionality and reduce cost andpower in new electronic devices.
+2004 2006 2008 2010 2011 Future ARM acquired Accelerated R&D Development Development Partnerships with Availability Artisan investment to of32 28nm of20nm leading foundries of20 14nm Components create leading librariesstarted librariesstarted down to 14nm libraries.
+R&D physical IP atmore advanced nodes 34 ARM Holdings plc Annual Report & Accounts 2011 One day every device with a screen may have a 3D graphics Graphics Creating a new ecosytem processor controlling what the user perceives and how they in a new market interact with that device.
+In 2011, this was a market of just afew hundred million graphics processors, but in five years time it is likely to be billions of devices.
+Kevin Smith VP of Strategic Marketing, Media Processing Kevin Smith joined ARM in 2001 and has Read more held various commercial and marketing about this at U roles within Sales, Segment Marketing and www.
+com U the Processor and System Design divisions.
+reporting2011 Kevin is currently VP of Strategic Marketing for the Media Processing team and has responsibility for driving the commercial and product strategy for Graphics.
+What we have done who comply with the standard, are able to take advantage of the Mali processor without ARM recognised that graphics processors changing their software.
+were becoming a fundamental building block within todays consumer targeted chips Content is key, and ARM is working with and could command additional licence fees games and user interface developers to and perchip royalties.
+ARM entered the ensure that their products run smoothly on market in 2006 through the acquisition of Mali processorbased smartphones, DTVs, Falanx, and launched the Mali400 graphics STBs and navigation devices.
+In 2009, ARM processor in 2009, offering an ideal balance launched our Mali Developer Centre where between performance, power and size.
+developers can get access to a wide range ofresources such as free development tools, Integrating a graphics processor into a SoC example software code and documentation design can be highly complex, and ARM aimed at easing the development process hasbuilt Mali processors to work efficiently andhelping to get maximum performance and effectively alongside an ARM processor.
+Content developers also need This consistent and integrated approach tobe assured that they have a market to hasresulted in Mali being licensed about selltheir products into.
+In 2011, the first 60times, with nearlyevery Mali design consumer electronics devices containing alsoincluding anARM processor.
+Mali technologybased chips started to ship Software development is simplified by Mali in tens of millions per quarter.
+This included processors supporting a broad range of both smartphones and highend DTVs, standards from industry bodies such as creating a large and diverse market for Khronos.
+This means that apps developers content developers.
+2006 2007 2009 2011 2012 Future ARM acquired ARM introduced Mali Developer Mali started Software Mali expected to Falanx and started Mali-200 and Centre launched.
+shipping in developers are gain share in work on Mali signed 4 Mali Mali-400 smartphones and developing embedded processor licences introduced digital TVs content for Mali graphics markets based devices Overview 11 35 Strategy and performance 16 Our partnership approach 25 Our marketplace 35 Our commitment 44 Financials and risk 50 Governance 59 Financial statements 95 Our marketplace Over the following pageswereview how the macroeconomic environment influenced ARMs business in2011.
+We look forward to ARMs opportunity in long term growth markets, and explain how our approach is different from our competitors.
+In this section: Read more about Forward momentum p36 this on page Read more about Industry viewpoint p40 this on page

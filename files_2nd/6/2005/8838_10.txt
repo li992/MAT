@@ -1,0 +1,47 @@
+Notes to the financial statements for the year to 31 December 2005 Accounting Policies Goodwill The Group uses the purchase method of accounting to account for acquisitions.
+Goodwill represents the excess of the cost of an acquisition over the fair value of the net assets acquired.
+Goodwill is carried at cost less accumulated impairment losses.
+Other intangible assets Intangible assets are carried at cost less accumulated amortisation.
+Intangible assets are recognised if it is probable that there will be future economic benefits attributable to the asset, the cost of the asset can be measured reliably, the asset is separately identifiable and there is control over the use of the asset.
+Where the Group acquires a business, other intangible assets such as customer contracts are identified and evaluated to determine the carrying value on the acquisition balance sheet.
+Other intangible assets are amortised on a straight line basis over their estimated useful lives, as follows: Computer software 3-5 years Other intangible assets 1-10 years Property plant and equipment Property plant and equipment PP&E is stated at cost less accumulated depreciation and impairment.
+No depreciation is charged with respect to freehold land and assets in the course of construction.
+Transfers from PP&E to current assets are undertaken at the lower of cost and net realisable value.
+Depreciation is calculated using the straight line method over the following estimated useful lives of the assets: Freehold and long leasehold buildings 25-50 years Short leasehold buildings period of lease Plant and equipment 3-10 years When estimating the useful life of an asset group, the principal factors the Group takes into account are the durability of the assets, the intensity at which the assets are expected to be used and the expected rate of technological developments.
+Impairment The Group performs impairment reviews in respect of PP&E, goodwill and other intangible assets whenever events or changes in circumstance indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised when the recoverable amount of an asset, which is the higher of the asset's fair value less costs to sell and its value in use, is less than its carrying amount.
+Where impairment is identified, it is initially applied to goodwill and then spread over the remaining assets.
+For the purposes of impairment testing, goodwill is allocated to the appropriate 'CGU' cash generating unit.
+The CGUs are aligned to the business unit and sub-business unit structure the Group uses to manage its business.
+Cash flows are discounted in determining the value in use.
+Inventories Inventories, which include materials, work in progress and finished goods and goods for resale, are stated at the lower of cost and net realisable value.
+Product based companies determine cost by weighted average cost methods using standard costing to gather material, labour and overhead costs.
+These costs are adjusted, where appropriate, to correlate closely the standard costs to the actual costs incurred based on variance analysis.
+Service based companies' inventories consist of spare parts and other consumables.
+Serialised parts are costed using the specific identification method and other materials are generally costed using the first in, first out method.
+Net realisable value is the estimated selling price in the ordinary course of business, less the estimated costs of completion and estimated selling expenses.
+Allowance is made for obsolete and slow-moving items, based upon annual usage.
+62 John Wood Group PLC Notes to the financial statements for the year to 31 December 2005 Cash and cash equivalents Cash and cash equivalents include cash in hand and other short-term bank deposits with maturities of three months or less and bank overdrafts.
+Bank overdrafts are included within borrowings in current liabilities.
+Trade receivables Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method, less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+The amount of the provision is the difference between the asset's carrying amount and the present value of estimated future cash flows, discounted at the effective interest rate.
+The provision is determined by reference to previous experience of recoverability for receivables in each market in which the Group operates.
+Taxation The tax charge represents the sum of tax currently payable and deferred tax.
+Tax currently payable is based on the taxable profit for the year.
+Taxable profit differs from the profit reported in the income statement due to items that are not taxable or deductible in any period and also due to items that are taxable or deductible in a different period.
+The Group's liability for current tax is calculated using tax rates enacted or substantively enacted at the balance sheet date.
+Deferred income tax is provided, using the full liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+The principal temporary differences arise from depreciation on PP&E, tax losses carried forward and, in relation to acquisitions, the difference between the fair values of the net assets acquired and their tax base.
+Tax rates enacted, or substantially enacted, by the balance sheet date are used to determine deferred income tax.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+Accounting for derivative financial instruments and hedging activities Pre 1 January 2005 The Group uses derivative financial instruments to hedge its exposures to fluctuations in interest and foreign exchange rates.
+Instruments accounted for as a hedge are designated as a hedge at the inception of contracts.
+Receipts and payments on interest rate instruments are recognised as adjustments to interest expense over the life of the instrument.
+Gains and losses on foreign currency hedges are recognised on maturity of the underlying transaction.
+Post 1 January 2005 Derivatives are initially recognised at fair value on the date the contract is entered into and are subsequently remeasured at their fair value.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument, and if so, the nature of the item being hedged.
+The Group designates certain derivatives as either: 1 hedges of the fair value of recognised assets or liabilities or a firm commitment fair value hedge : 2 hedges of highly probable forecast transactions cash flow hedges : or 3 hedges of net investments in foreign operations net investment hedge.
+Where hedging is to be undertaken, the Group documents at the inception of the transactions the relationship between the hedging instrument and hedged item, as well as its risk management objective and strategy for undertaking the hedge transaction.
+The Group also documents its assessment, both at hedge inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are highly effective in offsetting changes in fair values or cash flows of hedged items.
+The Group performs effectiveness testing on a quarterly basis.

@@ -1,0 +1,276 @@
+Inventories_NN
+Group_NN
+Group_NN
+Company_NN
+Company_NN
+2005 2004 2005 2004_CD
+m_FW
+m_FW
+m_FW
+m_FW
+Materials_NN
+and_CC
+spare_JJ
+parts_NN
+1.9_CD
+1.6_CD
+0.7_CD
+0.7_CD
+Property_NN
+developments_NOMZ
+and_PHC
+land_NN
+held_VBN [PRIV] [WZPAST]
+for_PIN
+sale_NN
+37.7_CD
+39.1_CD
+2.1_CD
+2.0_CD
+39.6_CD
+40.7_CD
+2.8_CD
+2.7_CD
+The_DT
+amount_NN
+recognized_VBN [PRIV]
+as_IN
+an_DT
+expense_NN
+on_PIN
+the_DT
+write_VB [PUBV]
+down_IN
+of_PIN
+stock_NN
+during_PIN
+the_DT
+year_NN
+was_VBD [BEMA]
+0.0_CD
+m_NN [BEMA]
+2004_CD
+0.0_CD
+m_NN [BEMA]
+for_PIN
+the_DT
+Group_NN
+and_CC
+0.0_CD
+m_NN [BEMA]
+2004_CD
+0.0_CD
+m_NN [BEMA]
+for_PIN
+the_DT
+Company_NN
+._.
+The_DT
+amount_NN
+expected_VBN [PRIV]
+to_TO
+be_VB [PASS]
+recovered_VBN
+after_IN
+more_EMPH
+than_PIN
+one_CD
+year_NN
+is_VPRT [BEMA]
+35.7_CD
+m_NN [BEMA]
+2004_CD
+31.0_CD
+m_NN [BEMA]
+for_PIN
+the_DT
+Group_NN
+and_CC
+2.1_CD
+m_NN [BEMA]
+2004_CD
+2.0_CD
+m_NN [BEMA]
+for_PIN
+the_DT
+Company_NN
+._.
+Trade_NN
+and_CC
+other_JJ
+receivables_NN
+Group_NN
+Group_NN
+Company_NN
+Company_NN
+2005 2004 2005 2004_CD
+m_FW
+m_FW
+m_FW
+m_FW [BEMA]
+Current_JJ
+assets_NN
+:_:
+Trade_NN
+receivables_NN
+51.6_CD
+47.2_CD
+9.8_CD
+8.5_CD
+Less_RB
+:_:
+provision_NN
+for_PIN
+impairment_NOMZ
+of_PIN
+receivables_NN
+0.4_CD
+0.4_CD
+0.3_CD
+0.3_CD
+Trade_NN
+receivables_NN
+net_NN
+51.2_CD
+46.8_CD
+9.5_CD
+8.2_CD
+Amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+subsidiary_NN
+undertakings_GER
+155.6_CD
+105.0_CD
+Other_JJ
+receivables_NN
+2.2_CD
+2.7_CD
+0.5_CD
+1.2_CD
+Prepayments_NOMZ
+and_CC
+accrued_VBN
+income_NN
+3.3_CD
+2.4_CD
+0.7_CD
+0.5_CD
+Amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+associated_VBN
+undertakings_GER
+and_CC
+joint_JJ
+ventures_NN
+trading_GER
+balances_VPRT
+0.1_CD
+0.2_CD
+56.8_CD
+52.1_CD
+166.3_CD
+114.9_CD
+The_DT
+amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+subsidiary_NN
+undertakings_GER
+are_VPRT [BEMA]
+receivable_PRED
+on_PIN
+demand_NN
+but_CC
+are_VPRT [PASS]
+not_XX0
+expected_VBN [PRIV]
+to_TO
+be_VB [SPAU] [PASS]
+fully_AMP
+received_VBN
+within_PIN
+the_DT
+next_JJ
+twelve_CD
+months_NN
+._.
+Group_NN
+Group_NN
+Company_NN
+Company_NN
+2005 2004 2005 2004_CD
+m_FW
+m_FW
+m_FW
+m_FW [BEMA]
+Non-current_JJ
+assets_NN
+:_:
+Trade_NN
+receivables_NN
+13.7_CD
+39.4_CD
+Amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+joint_JJ
+ventures_NN
+loans_NN
+17.9_CD
+27.5_CD
+17.9_CD
+27.5_CD
+31.6_CD
+66.9_CD
+17.9_CD
+27.5_CD
+There_EX
+is_VPRT
+no_SYNE
+concentration_NOMZ
+of_PIN
+credit_NN
+risk_NN
+with_PIN
+respect_NN
+to_TO
+trade_VB
+receivables_NN
+as_IN
+the_DT
+Group_NN
+has_VPRT
+a_DT
+large_JJ
+number_NN
+of_PIN
+customers_NN
+sufficiently_RB
+dispersed_VBD
+._.
+The_DT
+fair_JJ
+values_NN
+of_PIN
+amounts_NN
+owed_VBN [WZPAST]
+by_PIN
+subsidiary_NN
+undertakings_GER
+,_,
+associated_VBN
+undertakings_GER
+and_CC
+joint_JJ
+ventures_NN
+are_VPRT
+not_XX0
+materially_RB
+different_PRED
+to_PIN
+their_TPP3
+carrying_VBG
+amount_NN
+._.

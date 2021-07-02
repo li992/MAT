@@ -1,0 +1,211 @@
+Xstrata plc Annual Report 2006 | 263 Notes to the Financial Statements 1.
+Accounting policies Basis of preparation These financial statements have been prepared in accordance with applicable UK accounting standards.
+Xstrata plc the Company has adopted the following principal accounting policies: Investments Equity investments in subsidiaries are carried at cost less any provision for impairments.
+Financial Assets Loans and Receivables Financial assets are classified as either financial assets at fair value through profit or loss, loans and receivables, held-to-maturity investments or available-for-sale financial assets, as appropriate.
+The Company determines the classification of its financial assets at initial recognition.
+When financial assets are recognised initially, they are measured at fair value on the trade date, plus, in the case of investments not at fair value through profit or loss, directly attributable transaction costs.
+Loans and receivables Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market, do not qualify as trading assets and have not been designated as either fair value through profit and loss or available for sale.
+Such assets are carried at amortised cost using the effective interest method.
+This cost is computed as the amount initially recognised minus principal repayments, plus or minus the cumulative amortisation using the effective interest method of any difference between the initially recognised amount and the maturity amount.
+Gains and losses are recognised in the profit and loss account when the loans and receivables are derecognised or impaired, as well as through the amortisation process.
+Loans and receivables are derecognised when the Company no longer has a right to receive cash flows from the asset.
+If there is objective evidence that an impairment loss on loans and receivables have been incurred, the amount of the loss is measured as the difference between the assets carrying amount and the present value of estimated future cash flows excluding future credit losses that have not been incurred discounted at the financial assets original effective interest rate ie the effective interest rate computed at initial recognition.
+The carrying amount of the asset is reduced and the amount of the loss is recognised in profit or loss account.
+If, in a subsequent period, the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after the impairment was recognised, the previously recognised impairment loss is reversed.
+Any subsequent reversal of an impairment loss is recognised in the profit and loss account, to the extent that the carrying value of the asset does not exceed its amortised cost that would have been measured if there had been no impairment at the reversal date.
+Impairment The carrying values of fixed assets are reviewed for impairment if events or changes in circumstances indicate the carrying values may not be recoverable.
+If there are indicators of impairment, an exercise is undertaken to determine whether the carrying values are in excess of their recoverable amounts.
+Such reviews are undertaken on income generating units.
+If the carrying values of fixed assets exceed their recoverable amounts, a provision is recorded to reflect the assets at their lower amount.
+In assessing the recoverable amounts of fixed assets, the relevant future cash flows expected to arise from the continuing use of and disposal of the assets have been discounted to their present value using a market-determined discount rate.
+Provisions for liabilities Provisions are recognised when the Company has a present obligation, as a result of past events, and it is probable that an outflow of resources that can be reliably estimated will be required to settle the obligation.
+264 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 1.
+Accounting policies continued Deferred taxation Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date that will result in an obligation to pay more, or a right to pay less, tax in the future.
+In particular: provision is made for tax on gains arising from the disposal of fixed assets, only to the extent that, at the balance sheet date, there is a binding agreement to dispose of the assets concerned.
+However, no provision is made where, on the basis of all available evidence at the balance sheet date, it is more likely than not that the taxable gain will be rolled over into replacement assets and charged to tax only when the replacement assets are sold: provision is made for deferred tax that would arise on remittance of the retained earnings of overseas entities only to the extent that, at the balance sheet date, dividends have been accrued as receivable: and deferred tax assets are recognised only to the extent that, it is considered that, it is more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted.
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing differences reverse, based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+Own shares The cost of purchases of own shares held by the Employee Share Ownership Plan ESOP trust are deducted from equity.
+Where they are issued to employees or sold, no gain or loss is recognised in the profit and loss account.
+Any proceeds received on the disposal of the shares or on the transfer of shares to employees are recognised in equity.
+Share-based payments The Company makes share-based awards, including free shares and options in the Company, to certain employees and Directors of the Group.
+The expense recognised in the financial statements relates only to those share-based awards that are granted by the Company, to its employees and Directors and to the employees of the Group who provide services to the Company.
+Equity-settled awards For equity-settled awards, the fair value is charged to the profit and loss account and credited to retained earnings, on a straight line basis over the vesting period, after adjusting for the estimated number of awards that are expected to vest taking into account the achievement of nonmarket based performance conditions.
+The fair value of the equity-settled awards is determined at the date of the grant.
+In calculating fair value, no account is taken of any vesting conditions, other than conditions linked to the price of the shares of the Company market conditions.
+The fair value is determined by external experts using the models outlined in note 10.
+At each balance sheet date prior to vesting, the cumulative expense representing the extent to which the vesting period has expired and managements best estimate of the awards that are ultimately expected to vest is computed after adjusting for non-market performance conditions.
+The movement in cumulative expense is recognised in the profit and loss account with a corresponding entry within equity.
+No expense is recognised for awards that do not ultimately vest, except for awards where vesting is conditional upon a market condition, which are treated as vesting irrespective of whether or not the market condition is satisfied, provided that all other performance conditions are satisfied.
+Where the terms of an equity-settled award are modified, as a minimum an expense is recognised as if the terms had not been modified over the original vesting period.
+In addition, an expense is recognised for any modification, which increases the total fair value of the share-based payment arrangement, or is otherwise beneficial to the employee as measured at the date of modification, over the remainder of the new vesting period.
+Where an equity-settled award is cancelled, it is treated as if it had vested on the date of cancellation, and any expense not yet recognised for the award is recognised immediately.
+Any compensation paid up to the fair value of the awards at the cancellation or settlement date is deducted from equity, with any excess over fair value being treated as an expense in the profit and loss account.
+However, if a new award is substituted for the cancelled award, and designated as a replacement award on the date that it is granted, the new award is treated as if it is a modification of the original award, as described in the previous paragraph.
+Accounting policies continued Cash-settled awards For cash-settled awards, the fair value is re-calculated at each balance date until the awards are settled based on the estimated number of awards that are expected to vest adjusting for market and non-market based performance conditions.
+During the vesting period, a liability is recognised representing the portion of the vesting period which has expired at the balance sheet date times the fair value of the awards at that date.
+After vesting the full fair value of the unsettled awards at each balance date is recognised as a liability.
+Movements in the liability are recognised in the profit and loss account.
+The fair value is recalculated using an option pricing model refer to note 10.
+The Group has taken advantage of the transitional provisions on adoption of these policies in relation to unvested equity-settled awards and has applied the above policies only to awards granted after 7 November 2002 that had not vested prior to 1 January 2005.
+Loans from subsidiaries Loans from subsidiaries are recognised at inception at the fair value of the proceeds received net of issue costs.
+Subsequently they are measured at amortised cost using the effective interest method.
+Finance costs are recognised in the profit and loss account using the effective interest rate method.
+Foreign currency transactions Foreign currency transactions are booked in the functional currency US$ at the exchange rate ruling on the date of the transaction.
+Foreign currency monetary assets and liabilities are translated into the functional currency at rates of exchange ruling at the balance sheet date.
+Exchange differences are recorded in the profit and loss account.
+Foreign currency non-monetary assets and liabilities are not restated at balance sheet date.
+Revenue Interest income is recognised as earned on an accruals basis using the effective interest method.
+Dividend income is recognised as earned when the Companys right to receive payment is established.
+Income for other services is recognised when the service has been rendered, when the amount of revenue and associated costs can be reliably measured and it is probable that economic benefits will flow to the Company.
+Comparatives Where applicable, comparatives have been adjusted to disclose them on the same basis as current period figures.
+Use of estimates The preparation of these financial statements is in conformity with generally accepted accounting practice and requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the reporting period.
+Actual outcomes could differ from these estimates.
+266 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 2.
+Investments Investment in Loans to US$m subsidiaries subsidiaries Total Cost: At 1 January 2006 4,174 432 4,606 Additions new investments 4,922 4,922 Additions existing investments 395 1,295 1,690 At 31 December 2006 9,491 1,727 11,218 The subsidiary undertakings of the Company as at 31 December and the percentage holding of ordinary share capital are set out below: % of ordinary Country of shares held & Name incorporation Principal activities voting rights Principal Subsidiaries Xstrata Schweiz AG Switzerland Holding company 100% Xstrata Finance Dubai LLC UAE Finance company 90% Xstrata Commodities Middle East DMCC UAE Marketing company 90% Xstrata Capital Corporation AVV Aruba Finance company 40% Xstrata Zinc BV Holland Finance company 75% These subsidiaries were also held at 31 December 2005.
+The principal country of operation is the country of incorporation, and all subsidiaries are unlisted.
+Refer to note 36 of the consolidated financial statements for a list of the Groups significant subsidiaries, associates and joint ventures.
+Debtors amounts falling due within one year US$m 2006 2005 Receivables subsidiaries 28 Other debtors 6 5 34 5 4.
+Creditors amounts falling due within one year US$m 2006 2005 Loans from subsidiaries 8 546 Other creditors 6 1 14 547 Xstrata plc Annual Report 2006 | 267 5.
+Provisions Share-based compensation plans US$m 2006 At 1 January 2006 12 Arising during the year 49 Utilised 3 At 31 December 2006 58 The Company has various share-based compensation plans under which options to subscribe for the Companys shares have been granted to Directors and employees of the Company and employees of the Group who provide services to the Company.
+The intrinsic value of the options that had vested at 31 December 2005 was US$17 million 2005 US$1 million.
+Dividends Paid and Proposed US$m 2006 2005 Declared and paid during the year: Final dividend for 2005 22.4 cents per ordinary share 2004 14.3 cents per ordinary share 159 100 Interim dividend for 2006 11.6 cents per ordinary share 2005 8.1 cents per ordinary share 92 54 251 154 Proposed for approval at the Annual General Meeting not recognised as a liability as at 31 December : Final dividend for 2006 30 cents per ordinary share 2005 22.4 cents per ordinary share 281 150 Dividends declared in respect of the year ended 31 December 2006 will be paid on 18 May 2007.
+Own shares held in the ESOP have waived the right to receive dividends.
+The dividends per share declared and paid prior to 30 October 2006 have been adjusted by the rights issue bonus adjustment factor of 0.9 refer to note 7.
+268 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 7.
+Capital US$m Authorised: 875,000,000 ordinary shares of US$0.50 each as at 1 January and 31 December 2005 and as at 1 January 2006 438 14,234,948,397 ordinary shares of US$0.50 each increase on 30 June 2006 7,117 15,109,948,397 ordinary shares of US$0.50 each as at 31 December 2006 7,555 50,000 deferred shares of GBP1.00 each as at 1 January and 31 December 2005 and as at 1 January and 31 December 2006 1 special voting share of US$0.50 as at 1 January and 31 December 2005 and as at 1 January and 31 December 2006 7,555 Issued, called up and fully paid: 631,502,416 ordinary shares of US$0.50 each as at 1 January 2005 315 1,000,000 ordinary shares issued on 24 March 2005 to the ESOP 1 632,502,416 ordinary shares of US$0.50 each as at 31 December 2005 and 1 January 2006 316 3,000,000 ordinary shares issued on 28 March 2006 to the ESOP 1 32,543,344 ordinary shares issued on 22 May 2006 to institutional investors 16 235,787,596 ordinary shares issued on 30 October 2006 from a shareholder rights issue 118 39,317,027 ordinary shares issued on the exercise of convertible bonds during 2006 20 943,150,383 ordinary shares as at 31 December 2006 471 50,000 deferred shares of GBP1.00 each paid to GBP0.25 as at 1 January and 31 December 2005 and as at 1 January and 31 December 2006 1 special voting share of US$0.50 as at 1 January and 31 December 2005 and as at 1 January and 31 December 2006 Issue of ordinary shares During March 2005, 1,000,000 shares were issued to the ESOP at a market price of GBP10.20 per share.
+During March 2006, 3,000,000 shares were issued to the ESOP at a market price of GBP18.72 per share.
+On 22 May 2006, 32,543,344 shares were issued to institutional investors at a market price of GBP21.00 per share.
+During 2006, a portion of the US$600 million convertible bonds issued by Xstrata Capital Corporation AVV were converted by the holders.
+In accordance with the guarantee provided by the Company to Xstrata Capital Corporation AVV, 39,317,027 ordinary shares were issued in exchange for the 385,581 preference shares in Xstrata Capital Corporation AVV.
+On 30 October 2006, 235,787,596 ordinary shares were issued under a rights issue which was structured as an issue of 1 new ordinary share at a price of GBP 12.65 per share for every 3 existing ordinary shares held.
+The net proceeds from the rights issue was US$5,432 million after US$186 million of capital raising costs and the number of shares in issue of Xstrata plc following the completion of the rights issue is 943,150,383.
+Deferred shares The holders of deferred shares do not have the right to receive notice of any general meeting of the Company nor the right to attend, speak or vote at any such general meeting.
+The deferred shares have no rights to dividends and, on a winding-up or other return of capital and entitle the holder only to the repayment of the amounts paid upon such shares after repayment of the nominal amount paid up on the Ordinary Shares, the nominal amount paid up on the special voting share plus the payment of GBP100,000 per Ordinary Share.
+The Company may, at its option, redeem all of the deferred shares in issue at any time but subject to the minimum capital requirement of the Companies Act 1985 at a price not exceeding GBP1.00 for each share redeemed to be paid to the relevant registered holders of the shares.
+Capital continued Special voting share Certain rights, that are inalienable under Swiss law, have been preserved in the Xstrata plc Articles of Association by creating a special voting share that carries weighted voting rights sufficient to defeat any resolution which could amend or remove these entrenched rights.
+The holder of the special voting share is the Law Debenture Trust Corporation plc which has entered into a voting agreement with the Company, specifying the conditions upon which it is entitled to exercise its right to vote.
+The special voting share does not carry a right to receive dividends and is entitled to no more than the amount of capital paid up in the event of liquidation.
+Capital and reserves Share Profit Share premium Other Own and loss US$m capital account reserves shares account 2006 Capital and Reserves At 1 January 2006 316 2,500 949 35 322 4,052 Attributable profit for the year 294 294 Issue of share capital 155 7,022 136 7,041 Own shares purchased 11 11 Own shares sold 35 22 13 Equity settled share-based payments 42 42 Dividends 251 251 At 31 December 2006 471 9,522 949 147 385 11,180 Share Profit Share premium Other Own and loss US$m capital account reserves shares account 2005 Capital and Reserves At 1 January 2005 315 2,482 949 33 60 3,773 Attributable profit for the year 406 406 Issue of share capital 1 18 19 Own shares sold 17 8 25 Equity settled share-based payments 6 6 Exercise of pre-FRS 20 option awards 4 4 Dividends 154 154 At 31 December 2005 316 2,500 949 35 322 4,052 Own shares Own shares comprise shares of Xstrata plc held in the ESOP.
+The shares acquired by the ESOP are either stock market purchases or from share issues from the Company.
+The ESOP is used to co-ordinate the funding and manage the delivery of ordinary shares for options and free share awards under the Groups employee award schemes.
+The trustee of the ESOP is permitted to place the shares back into the market and may hold up to 5% of the issued share capital of the Company at any one time.
+At 31 December 2006, 6,173,747 2005: 3,603,888 shares, equivalent to 0.7% 2005: 0.6% of the total issued share capital, were held by the trust with a cost of US$147 million 2005 US$35 million and market value of US$308 million 2005 US$84 million.
+The trust has waived the right to receive dividends from the shares that it holds.
+Costs relating to the administration of the trust are expensed in the period in which they are incurred.
+On 31 January 2007, a further 4 million ordinary shares were issued by the Company to the ESOP.
+270 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 9.
+Other income and expenses The audit fee is US$40,000 2005 US$50,000 in respect of the Company.
+Refer to note 10 of the consolidated financial statements for further information of Auditors remuneration.
+Refer to the Remuneration report on pages 136 to 139 for the remuneration of Directors.
+Share-based Payments The Group operates a number of share option plans which are outlined below and result in the Company granting options and awards over its shares.
+The expense recognised for share-based payments during the year ended 31 December 2006 was US$63 million 2005 US$17 million.
+The proportion of that expense arising from equity-settled share-based awards was US$14 2005 US$6 million.
+Xstrata plc Long Term Incentive Plan LTIP The LTIP has two elements: i A contingent award of free ordinary shares that vests after three years, subject to, and to the extent that, performance criteria determined at the time of grant have been satisfied: and ii A share option to acquire ordinary shares at a specified exercise price after the third anniversary of grant, subject to, and to the extent that, performance criteria determined at the time of grant have been satisfied.
+All LTIP awards that vest are subject to the satisfaction of certain performance criteria being met over a three-year performance period.
+Half of the options and free share awards issued in 2004 and 2005 and one-third issued in 2006 are conditional on Total Shareholder Return TSR relative to a peer group, with the remainder conditional on the Groups real cost savings relative to targets set on a stretching scale over the three-year period.
+The 2003 LTIP awards are only subject to the TSR performance criteria.
+For the awards conditional on TSR, one-half of the combined award will vest if TSR growth is at the median of the specified peer group, the full combined award will vest for performance at or above the second decile with straight line vesting between these points.
+No vesting will occur for below median performance.
+For the remaining award, vesting is conditional on the Groups real cost savings relative to targets set on a stretching scale: 10% of the combined award will vest for 1% cost savings, 70% for 2% cost savings and all awards for 3% or more cost savings, with straight line vesting between these points.
+No vesting will occur if cost savings are less than 1%.
+Real cost savings will be measured in relation to operating costs after adjusting for the effects of inflation, excluding depreciation, commodity price linked costs, effects of currencies on translation of local currency costs and planned life of mine adjustments.
+No other features of the LTIP awards were incorporated into the measurement of fair value.
+No consideration will be payable on the vesting of an LTIP award of free ordinary shares.
+On exercise of an option, a participant will be required to pay an exercise price which will not be less than the market value of an ordinary share on the date of grant.
+Of the below options, 1.9 million 2005: 1.6 million are accounted for as cash-settled share-based awards whilst the remainder of the LTIP awards are equity-settled.
+Share-based Payments continued The movement in the number of free ordinary shares and share options are as follows: Free Shares 2006 2006 2005 2005 No.
+WAEP 1 1 Outstanding as at 1 January 3,675,667 NA 2,462,362 NA Granted during the year 852,536 NA 1,325,723 NA 2 Granted through rights issue 436,838 NA NA Forfeited during the year 121,974 NA 26,901 NA 3 4 Exercised during the year 675,586 NA 78,676 NA Expired during the year 38,116 NA 6,841 NA Outstanding as at 31 December 4,129,365 NA 3,675,667 NA Exercisable at 31 December NA NA 1 There are no shares included in this balance that have not been recognised in accordance with IFRS 2 Share-based Payments.
+2 These awards were issued as a result of the rights issue in October 2006 refer to note 7 3 The weighted average share price at the date of exercise of these awards was GBP17.56 4 The weighted average share price at the date of exercise of these awards was GBP9.97 The weighted average remaining contractual life for the free shares outstanding as at 31 December 2006 is 8.0 years 2005: 8.4 years.
+The weighted average fair value of free shares granted during the year was US$22.25 2005: US$14.76.
+WAEP 1 Outstanding as at 1 January 12,191,118 GBP7.82 8,442,932 GBP6.27 Granted during the year 2,812,204 GBP16.15 4,419,089 GBP10.60 2 Granted through rights issue 1,531,063 GBP9.25 Forfeited during the year 406,582 GBP9.99 91,221 GBP7.94 3 4 Exercised during the year 1,559,147 GBP3.57 524,792 GBP6.25 Expired during the year 117,926 GBP3.53 54,890 GBP7.94 5 Outstanding as at 31 December 14,450,730 GBP9.26 12,191,118 GBP7.82 Exercisable at 31 December 637,630 GBP3.22 106,444 GBP6.27 1 There are no shares included in this balance that have not been recognised in accordance with IFRS 2 Share-based Payments, except for 106,444 options issued in 2002.
+2 These awards were issued as a result of the rights issue in October 2006 refer to note 7.
+3 The weighted average share price at the date of exercise of these options was GBP17.75.
+4 The weighted average share price at the date of exercise of these options was GBP11.49.
+5 All the share options included in this balance have been recognised in accordance with IFRS 2 Share-based Payments, except for 81,013 options isssued in 2002.
+The weighted average remaining contractual life for the share options outstanding as at 31 December 2006 7.9 years 2005: 8.4 years.
+The weighted average fair value of options granted during the year was US$7.72 2005: US$5.31.
+The range of exercise prices for options outstanding at the end of the year was GBP3.22 GBP15.37 2005: GBP3.60 GBP10.60.
+These exercise prices were adjusted by a factor of 0.9 due to the rights issue in October 2006.
+272 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 10.
+Share-based Payments continued The following table lists the inputs to the models used to measure the fair value of equity settled awards granted: Date of Date of grant grant 2006 2005 Dividend yield % 1.3 3.14 Expected volatility % 31 31 Risk-free interest rate % 4.4 4.9 Earliest exercise date 10 Mar 2009 11 Mar 2008 Latest exercise date 9 Mar 2016 10 Mar 2015 Expected exercise date 17 Nov 2009 10 Sep 2011 Share price at date of grant GBP 17.03 10.48 Exercise price GBP 17.17 10.60 Free share fair value at date of grant GBP 16.38 9.54 Option fair value at date of grant GBP 4.49 3.05 The expected life of the options is based on historical data and is not necessarily indicative of exercise patterns that may occur.
+The expected volatility reflects the assumption that the historic volatility is indicative of future trends, which may also not necessarily be the actual outcome.
+Both the free shares and the equity settled options are equity settled plans and the fair value is measured at the date of grant.
+The fair value of the cash settled options is measured at the date of grant and at each reporting date until the liability is settled, using the Black Scholes option pricing model, taking into account the terms and conditions of the award.
+Xstrata AG incentive plan With the merger of Xstrata AG into Xstrata plc, Xstrata plc assumed the obligations of Xstrata AG under the scheme with the number of options and exercise price adjusted accordingly.
+The share options have a two year vesting period followed by a three year exercise period.
+The exercise price was the share price at the date of granting of the share options.
+There are no other conditions attaching to these options and they can be cash-settled by the holder.
+No further options will be granted under this incentive plan.
+All of the options below are accounted for as cash-settled share-based awards.
+The movement in the number of share options are as follows: 2006 2006 2005 2005 No.
+WAEP 1 Outstanding as at 1 January 173,331 CHF27.63 1,873,730 CHF21.40 2 Granted through rights issue 1,502 CHF13.41 3 4 Exercised during the year 147,846 CHF25.64 1,010,112 CHF19.73 Expired during the year 12,667 CHF25.64 690,287 CHF22.28 Outstanding as at 31 December 14,320 CHF13.41 173,331 CHF27.63 Exercisable at 31 December 14,320 CHF13.41 173,331 CHF27.63 1 There are no shares included in this balance that have not been recognised in accordance with IFRS 2 Share-based Payments.
+2 These awards were issued as a result of the rights issue in October 2006 refer to note 26 3 The weighted average share price at the date of exercise of these options was CHF35.89.
+4 The weighted average share price at the date of exercise of these options was CHF26.99.
+The weighted average remaining contractual life for the share options outstanding as at 31 December 2006 is 0.1 years 2005: 0.2 years.
+No new shares were granted during the year.
+The exercise price for options outstanding at the end of the year is CHF 13.41 2005 range: CHF14.98 CHF28.64.
+Share-based Payments continued Directors Service contracts Options were granted to 2 executive Directors pursuant to the terms of on which they were recruited.
+The options are to be equity-settled.
+The final scheme vests in January 2007 and each scheme has an exercise period of seven years.
+If the holder ceases to be employed by the Group for any reason, they may exercise any vested options within six months of such cessation, after which the options lapse.
+Any unvested options will lapse if the holder is dismissed lawfully under the terms of their contract or if they voluntarily resign except where they have a valid reason to terminate their employment as defined in their employment contract, in which case all unvested options shall immediately vest and become exercisable for a period of six months.
+In all other cases, they will remain exercisable for a period of six months.
+WAEP CHF12.53 Outstanding as at 1 January 1,334,580 GBP4.75 1,779,440 and GBP4.75 1 Granted through rights issue 156,413 GBP3.69 2 3 Exercised during the year 248,501 GBP3.69 444,860 CHF12.53 Expired during the year Outstanding as at 31 December 1,242,492 GBP4.36 1,334,580 GBP4.75 Exercisable at 31 December 993,994 US$4.03 444,860 GBP4.29 1 These awards were issued as a result of the rights issue in October 2006 refer to note 7 2 The weighted average share price at the date of exercise of these options was US$48.32 3 The weighted average share price at the date of exercise of these options was CHF23.45 The above share options have not been accounted for in accordance with IFRS 2 Share-based Payments as the options were granted on or before 7 November 2002 and have not been subsequently modified.
+The weighted average remaining contractual life for the share options outstanding as at 31 December 2006 is 6.4 years 2005: 7.4 years.
+The range of exercise prices for options outstanding at the end of the year was 3.84 5.68 2005: 4.12 6.35 and CHF 12.53.
+Xstrata AG Directors Incentive Scheme With the merger of Xstrata AG into Xstrata plc, Xstrata plc assumed the obligations of Xstrata AG under the scheme with the number of options and exercise price adjusted accordingly.
+WAEP Outstanding as at 1 January 15,231 CHF28.64 91,310 CHF23.34 Expired during the year 15,231 CHF28.64 76,079 CHF22.28 Outstanding as at 31 December 15,231 CHF28.64 Exercisable at 31 December 15,231 CHF28.64 The weighted average remaining contractual life for the share options outstanding as at 31 December 2005 was 0.1 years.
+The range of exercise prices for options outstanding at the end of the 2005 was CHF28.64 CHF28.64.
+No new shares were granted during the year, and there are no outstanding shares under this scheme at 31 December 2006.
+274 | Xstrata plc Annual Report 2006 Notes to the Financial Statements 10.
+Share-based Payments continued Deferred Bonus As detailed within the Remuneration Report on pages 126 to 139, the maximum bonus payable under the Bonus Plan for Executive Directors and the members of the Executive Committee is 300% of salary.
+Bonuses are payable in three tranches as follows: the maximum bonus, which any one participant is eligible to receive in cash, will be limited to 100% of the individuals base salary: any additional bonus up to a further 100% of base salary will be deferred for a period of one year: and any remaining bonus will be deferred for a period of two years.
+The deferred elements will take the form of awards of Xstrata shares conditional on the participant remaining in employment throughout the deferral period.
+The number of shares awarded will be determined by reference to the market value of the shares at the date the bonus payment is determined.
+The deferred elements have been treated as an equity-settled share-based payment in accordance with IFRS 2.
+In 2005 the Xstrata Remuneration Committee resolved that during the bonus deferral period dividend equivalents would accrue in relation to the deferral, to be delivered at the end of the deferral period and subject to the deferral award vesting.
+As dividend equivalents are receivable on the deferred amounts, the fair value of the deferral is technically equal to the value of the bonuses deferred.
+The total value of 2006 bonuses deferred was US$13 million 2005 US$7 million.
+The number of deferred shares for the 2006 deferred bonus is 291,585 2005: 258,242.
+Directors Added Value Plan AVP The first cycle of the AVP began on 9 May 2005, and the second began on 10 March 2006.
+A description of the performance requirements and the vesting schedule of the plan are detailed within the Remuneration Report on pages 126 to 139.
+The fair value of the 2005 equity-settled share-based payment under IFRS 2 was US$7 million, estimated at the 9 May 2005, using a Monte Carlo simulation model to incorporate the market based features of the plan.
+The equivalent valuation of the 2006 award was US$7 million, estimated at 10 March 2006 using a Monte Carlo simulation model.
+For the 2005 plan cycle, the market capitalisation on the 9 May 2005 was US$11.4 billion, the Participation Percentage was equal to 0.5% and the share price at the measurement date was US$18.00.
+For the 2006 plan cycle, the market capitalisation on the 10 March 2006 was US$18.6 billion, the Participation Percentage was equal to 0.3% and the share price at the measurement date was US$29.39.
+2006 2005 Xstrata share Xstrata share 1 1 Xstrata plc Indices Xstrata plc Indices 2 2 Dividend yield % N A N A N A N A Expected volatility % 30% 21% 32% 21% Risk-free interest rate % 4.45% 4.45% 4.51% 4.51% Third anniversary of start of cycle 10 March 2009 10 March 2009 9 May 2008 9 May 2008 Fourth anniversary of start of cycle 10 March 2010 10 March 2010 9 May 2009 9 May 2009 Fifth anniversary of start of cycle 10 March 2011 10 March 2011 9 May 2010 9 May 2010 1 There are two Xstrata Share Indices used within the valuation model: one is a market capitalisation weighted TSR index comprising 19 global mining firms who are considered to be Xstratas key competitors for both financial and human capital.
+The other is a market capitalisation price index comprising the same 19 constituents.
+2 When simulating the Xstrata Price Index, a dividend yield is included to account for the suppressing impact that a dividend payment has on the constituent share prices.
+For the simulation of Xstrata's TSR and the Index TSR a dividend yield is not required.
+There is no disclosure of the number of equity instruments granted as the AVP is not an award over a fixed number of shares.
+Share-based Payments continued Directors Glencore Option As part of a package to attract him to take the position of chief executive of Xstrata AG in October 2001, Glencore International AG Glencore awarded Mick Davis an option over shares in Xstrata owned by Glencore, at an exercise price 46% higher than the share price on the day he joined and exercisable after three years from 19 September 2005 until 19 September 2011.
+Following the creation of the Company, the merger with Xstrata AG and the rights issue in 2003 associated with the acquisition of MIM Holdings Limited, the option was over 1,334,669 shares in the Company, owned by Glencore, at an exercise price of CHF13.60 per share.
+On 20 September 2005, these options were exercised and Mick Davis received from Glencore a cash consideration equating to the current value of the option CHF26 million, representing 1.334 million shares at CHF19.70 per share, being the difference between Xstrata plc's closing price of CHF33.30 per share on Monday 19 September 2005 and the exercise price of CHF13.60 per share.
+The Group did not incur any costs in respect of this exercise.
+Guarantees The Company has provided guarantees to a number of Group companies.
+Specifically, the Company has provided: To Xstrata Capital Corporation AVV in respect of the convertible bonds and debentures it has issued: unconditional and irrevocable guarantees to the holders of the convertible bonds and debentures in respect of the payment of all amounts due and payable under the convertible bonds and debentures.
+The amount due and payable under the convertible bonds and debentures at 31 December 2006 is US$596 million 2005 US$989 million : guarantees to provide, in exchange for 589,419 2005: 975,000 preference shares of Xstrata Capital Corporation AVV, ordinary share capital in the Company on the conversion of the bonds and debentures.
+The number of shares to be issued under these guarantees at 31 December 2006 totals 38,091,977 2005: 73,281,309.
+These shares will be issued to the holder of the bonds and debentures in exchange for the preference shares in Xstrata Capital Corporation AVV they receive on conversion of the bonds and debentures: in February 2007, the Company issued 22,832,325 shares, in exchange for 199,689 preference shares in Xstrata Capital Corporation AVV following additional conversions by the convertible bond holders: and on 15 March 2007, Xstrata Capital Corporation A. V. V. exercised its right to call for the redemption of all of the outstanding convertible bonds.
+The terms and conditions of the bonds permit Xstrata Capital Corporation A. V. V. to redeem all of the bonds at their principal amount plus accrued and unpaid interest up to and including the date fixed for redemption, following the exercise of 85% or more of the convertible bonds originally issued.
+As at 14 March 2007, US$14,730,000 or 2.455% of the principal amount of the convertible bonds originally issued was outstanding.
+The date fixed for redemption by the Xstrata Capital Corporation A. V. V. is 16 April 2007.
+The last day on which conversion rights may be exercised by bondholders is 2 April 2007.
+Refer to note 29 of the consolidated financial statements for further details.
+In November 2006, the Group issued US$2,250 million of capital market notes to refinance existing debt facilities.
+The notes are comprised of three tranches, a US$1,000 million ten year facility at a fixed interest rate of 5.8%, a US$750 million five year facility at a fixed interest rate of 5.5% and a US$500 million three year facility that bear interest at a rate based on LIBOR plus 35 basis points.
+The fixed interest facilities were issued by Xstrata Finance Canada Limited and the floating rate facility was issued by Xstrata Finance Dubai Limited.
+The Xstrata Finance Dubai Limited issue was guaranteed by the Company, Xstrata Schweiz AG and Xstrata Finance Canada Limited.
+The Xstrata Finance Canada Limited issues were guaranteed by the Company, Xstrata Schweiz AG and Xstrata Finance Dubai Limited.
+The Group assumed a number of senior debentures on the acquisition of Falconbridge Limited refer to note 7 and 28 of the consolidated financial statements.
+Pursuant to the terms of the note indentures as amended by supplemental indentures, the Company has fully and unconditionally guaranteed in favour of the holders of the senior debentures the payment, within 15 days of when due, of all financial liabilities and obligations of Falconbridge limited to such holders under the terms of the senior debentures.
+The Group assumed preference shares on the acquisition of Falconbridge Limited refer to note 7 and 28 of the consolidated financial statements.
+Pursuant to the terms of a guarantee indenture, the Company has fully and unconditionally guaranteed in favour of the holders of the preference shares the payment, within 15 days of when due, of all financial liabilities and obligations of Falconbridge Limited to such holders under the terms of the preference shares.
+276 | Xstrata plc Annual Report 2006 Shareholder Information Head Office Registered Office Bahnhofstrasse 2 Panton House PO Box 102 25 27 Haymarket 6301 Zug London SW1Y 4EN Switzerland United Kingdom Tel: 41 41 726 6070 Fax: 41 41 726 6089 Registered Number 4345939 Registrars and Transfer Office Computershare Investor Services plc PO Box 82 The Pavilions Bridgewater Road Bristol BS99 7NH Tel: 44 0 870 707 1417 Fax: 44 0 870 703 6101 Currency election and divided mandate forms are available from: www.
+com Telephone helpline: 44 0 870 707 1417 Shareholder calendar 2007 Financial year-end 31 December Annual General Meeting 8 May 2007 Dividend record date 27 April 2007 Dividend payment date 18 May 2007 Interim Results Presentation 7 August 2007 Enquiries If you would like further information on Xstrata please contact: Corporate Claire Divver 44 20 7968 2871 cdivver@xstrata.
+com Brigitte Mattenberger 41 41 726 6071 bmattenberger@xstrata.
+com If you would like to register to receive copies of Xstrata news releases or announcements, please contact us or register directly on the website at www.
+com Illustrations Mandy Pritty Typesetting Orb Solutions This report is printed on Revive 100 Uncoated which is made using 100% Post Consumer Waste PCW.
+The pulp is bleached in an Elementally Chlorine Free ECF process.
+The manufacturing mill is NAPM and ISO14001 accredited.
+Printed by St Ives Westerham Press Ltd. who are FSC Certified, ISO14001 and CarbonNeutral.

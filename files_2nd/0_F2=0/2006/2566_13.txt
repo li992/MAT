@@ -1,0 +1,32 @@
+Wholesale Access Markets LRIC Floor and Ceiling exception analysis Reason for Floor and Ceiling variations CCA Fully Average Price at Allocated charge for 31st March Wholesale Access Markets note b per unit Floor Cost Ceiling the year 2006 Notes The Long Run Incremental Cost LRIC floors and ceilings are derived from the fully allocated cost Wholesale residential analogue internal service connections 60.76 63.
+The floor represents the incremental cost of providing that service, which excludes common costs.
+The ceiling represents the stand alone cost of providing that service, which includes a Wholesale business analogue internal service takeovers 10.36 10.
+Wholesale business analogue external service transfers 8.69 1 0.45 12.37 1.46 2.00 The purpose of the floors and ceilings is to provide a first order test to ensure an operator is charging Wholesale business analogue internal service rentals 50.72 95.
+66 114.10 118.62 110.00 for a service within an appropriate range around their FAC.
+If prices are below the floor this indicates Wholesale business analogue external service rentals 53.64 99.
+58 118.26 118.62 110.00 the possibility of inappropriately low pricing, however prices may be deliberately set outside these boundaries.
+Should prices be above the ceiling this might indicate the possibility of an operator Wholesale business ISDN2 internal service takovers 8.56 8.
+88 11.57 5.65 5.65 charging excessive prices, however costs may be reduced through efficiency gains.
+Wholesale business ISDN2 external service connections 36.51 40.
+65 48.68 116.49 116.49 Wholesale business ISDN2 external service transfers 11.97 14.
+25 122.66 89.79 66.35 a The results show, by exception, those services which have prices outside of the floor and ceiling.
+There are a number of reasons why this may happen, as detailed below: MPF rentals 157.99 221.
+It can be the MPF hostel rentals 5,763.87 8,015.99 1, 10,179.72 728.83 1,728.83 a case that the regulated prices set in a previous period are not comparable with costs reported SMPF connections 49.24 53.
+For example the WLR business internal rental price shown of 118.62 is an average for the period.
+Once the year end price of 110.00 is substituted the price falls SMPF rentals 39.80 49.
+Partial and Private Circuits 64kbit s - connections 870.92 1,089.80 1,982.50 502.49 499.94 a Prices set by the regulator are forward looking and assume levels of efficiencies over the pricing Partial and Private Circuits 64kbit s - link 105.45 120.
+It can therefore be the case that the costs have yet to catch up with the assumed future Partial and Private Circuits 64kbit s - local end 309.07 416.
+07 589.34 257.69 256.76 a efficiencies and are therefore out of line with the floors and ceilings.
+For example these markets have been drawn up, as agreed with Ofcom, with no reference to the reduced Regulatory Asset Radio Backhaul Service sub 2 mbit s - connection 857.44 1,078.05 1,955.53 502.49 499.94 a Value that emerged from Ofcoms cost of copper review in August 2005.
+As such price setting Radio Backhaul Service sub 2 mbit s - rental 421.43 547.
+07 798.93 398.60 396.59 a will be undertaken using this lower asset value, but the cost floors and ceilings as reported in SDSL 148.75 220.
+Partial and Private Circuits 2mbit s - connections 693.43 745.
+35 1,202.24 2,764.96 2,756.14 a A regulated price maybe set in order to stimulate an overall market.
+As a result the prices set Partial and Private Circuits 2mbit s - distribution 65.84 80.
+One example is the WLR business transfers where the price shown of Radio Backhaul Service 2 mbit s - connection 687.13 741.
+Within the market itself there may be occasions where services need to be reviewed together Partial and Private Circuits 34 45mbit s - link 3,334.01 3,768.21 5,190.29 3,231.57 3,173.58 a rather than individually.
+For example in the TISBO market i. e. Partial Private circuits and Radio Partial and Private Circuits 34 45mbit s - distribution 1,004.22 1,186.80 1,957.05 493.95 485.17 a Backhaul services noted above there are several cases where prices are either above the Partial and Private Circuits 34 45mbit s - local end 4,204.50 6,681.20 8,614.87 2,953.43 2,904.85 a ceiling or below the floor and as such the services need to be reviewed as a whole package Partial and Private Circuits 140 155mbit s - link 5,747.47 6,446.29 9,285.52 10, 10,737.10 a544.44 rather than individually.
+Furthermore where price caps are set over a basket of services there may be scope for the individual services to flex their price setting within that basket and Partial and Private Circuits 140 155mbit s - local end 26, 17,358.59 038.82 12, 33,543.03 12,456.99 a243.97 therefore the individual floors and ceilings may be breached as the prices vary.
+Note a : composite of different charging activities.
+Note b : Total number of services in the Wholesale Access Markets is 51.
+WHOLESALE ACCESS MARKETS LRIC FLOOR AND CEILING EXCEPTION ANALYSIS 20

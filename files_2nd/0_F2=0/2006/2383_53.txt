@@ -1,0 +1,36 @@
+37 Derivative financial instruments UK GAAP The following information for 2004 shows certain disclosures required by UK GAAP FRS 13 Derivatives and other Financial Instruments: Disclosures.
+The group uses derivative financial instruments derivatives to manage certain exposures to uctuations in foreign currency exchange rates and interest rates and to manage some of its margin exposure from changes in oil, natural gas and power prices.
+Derivatives are also traded in conjunction with these risk management activities.
+The purpose for which a derivative contract is used is identied at inception.
+To qualify as a derivative for risk management, the contract must be in accordance with established guidelines that ensure it is effective in achieving its objective.
+All contracts not identied at inception as being for the purpose of risk management are designated as being held for trading purposes and accounted for using the fair value method, as are all oil price derivatives.
+The group accounts for derivatives using the following methods: Fair value method Derivatives are carried on the balance sheet at fair value marked-to-market, with changes in that value recognized in earnings of the period.
+This method is used for all derivatives that are held for trading purposes.
+Interest rate contracts traded by the group include futures, swaps, options and swaptions.
+Foreign exchange contracts traded include forwards and options.
+Oil, natural gas and power price contracts traded include swaps, options and futures.
+Accrual method Amounts payable or receivable in respect of derivatives are recognized ratably in earnings over the period of the contracts.
+This method is used for derivatives held to manage interest rate risk.
+These are principally swap agreements used to manage the balance between xed and oating interest rates on long-term finance debt.
+Other derivatives held for this purpose may include swaptions and futures contracts.
+Amounts payable or receivable in respect of these derivatives are recognized as adjustments to interest expense over the period of the contracts.
+Changes in the derivatives fair value are not recognized.
+Deferral method Gains and losses from derivatives are deferred and recognized in earnings or as adjustments to carrying amounts, as appropriate, when the underlying debt matures or the hedged transaction occurs.
+This method is used for derivatives used to convert non-US dollar borrowings into US dollars, to hedge significant non-US dollar rm commitments or anticipated transactions, and to manage some of the groups exposure to natural gas and power price uctuations.
+Derivatives used to convert non-US dollar borrowings into US dollars include foreign currency swap agreements and forward contracts.
+Gains and losses on these derivatives are deferred and recognized on maturity of the underlying debt, together with the matching loss or gain on the debt.
+Derivatives used to hedge significant non-US dollar transactions include foreign currency forward contracts and options and to hedge natural gas and power price exposures include swaps, futures and options.
+Gains and losses on these contracts and option premiums paid are also deferred and recognized in the income statement or as adjustments to carrying amounts, as appropriate, when the hedged transaction occurs.
+Where derivatives used to manage interest rate risk or to convert non-US dollar debt or to hedge other anticipated cash ows are terminated before the underlying debt matures or the hedged transaction occurs, the resulting gain or loss is recognized on a basis that matches the timing and accounting treatment of the underlying debt or hedged transaction.
+When an anticipated transaction is no longer likely to occur or finance debt is terminated before maturity, any deferred gain or loss that has arisen on the related derivative is recognized in the income statement, together with any gain or loss on the terminated item.
+Risk management Gains and losses on derivatives used for risk management purposes are deferred and recognized in earnings or as adjustments to carrying amounts, as appropriate, when the underlying debt matures or the hedged transaction occurs.
+Where such derivatives used for hedging purposes are terminated before the underlying debt matures or the hedged transaction occurs, the resulting gain or loss is recognized on a basis that matches the timing and accounting treatment of the underlying hedged item.
+The unrecognized and carried-forward gains and losses on derivatives used for hedging, and the movements therein, are shown in the following table.
+This activity is undertaken in conjunction with risk management activities.
+Derivatives held for trading purposes are marked-to-market and any gain or loss recognized in the income statement.
+For traded derivatives, many positions have been neutralized, with trading initiatives being concluded by taking opposite positions to x a gain or loss, thereby achieving a zero net market risk.
+The group measures its market risk exposure, i. e. potential gain or loss in fair values, on its trading activity using value-at-risk techniques.
+These techniques are based on a variance covariance model or a Monte Carlo simulation and make a statistical assessment of the market risk arising from possible future changes in market values over a 24-hour period.
+The calculation of the range of potential changes in fair value takes into account a snapshot of the end-of-day exposures and the history of one-day price movements over the previous 12 months, together with the correlation of these price movements.
+The potential movement in fair values is expressed to three standard deviations, which is equivalent to a 99.7% confidence level.
+This means that, in broad terms, one would expect to see an increase or a decrease in fair values greater than the value at risk on only one occasion per year if the portfolio were left unchanged.

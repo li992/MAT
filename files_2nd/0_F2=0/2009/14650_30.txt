@@ -1,0 +1,44 @@
+glossary 3G Third Generation Third generation of mobile communications following first generation analogue and second generation digital that promises megabits per second.
+4G Fourth Generation Future generation of mobile communications following 3G that promises hundreds of megabits per second.
+Broadband Generic term for devices with a bandwidth greater than one megabit per second.
+CDMA Code Division A digital cellular standard technology allowing communications circuits to carry multiple Multiple Access conversations simultaneously, thus increasing its capacity: used in radio communications.
+Cloud Computing A way of computing, via the internet, that broadly shares computer resources instead of having local servers handle specific applications.
+Content Delivery Network A system storing data on different servers across the internet on content delivery service providers making it is possible to ensure that content is closer and more quickly accessible to users.
+Data Center A centralised location where computing resources critical to an organisation are maintained in a highly controlled environment.
+Ethernet A family of networking technologies developed for local area networks, migrating to metro area networks and becoming a dominant standard in wireline networks.
+GbE Gigabit Ethernet A term describing various technologies for transmitting Ethernet frames at a rate of a gigabit per second.
+GbE uses the same framing as Ethernet and Fast Ethernet, but has a much higher clock speed one billion bits per second.
+GPS Global Positioning System A system for determining location and height at any point on the earths surface.
+A receiver uses minute differences in measured time signals from clocks on satellites to calculate position and altitude.
+GLONASS Global Navigation Global navigation satellite system operated by the Russian Federation Ministry of Defence.
+Satellite System IMS Internet Protocol A standardised next-generation architecture for telecoms operators who want to provide Multimedia Subsystem mobile and fixed multimedia services.
+106 Spirent Communications plc Annual Report 2009 Internet IP telephony Generic term used to describe various approaches to running voice telephony over IP.
+IP Internet Protocol Data protocol used by many networking devices to facilitate and control the flow of data.
+LTE Long Term Evolution A standard to enhance existing 3G wireless to add 4G mobile communications technology on an IP network air interface, to create a wireless broadband internet system.
+Layer 2-7 Layer 2-7 are abstract descriptions of layered communication levels between two devices.
+The layers from top to bottom are the Application, Presentation, Session, Transport, Network, Data-Link and Physical Layers.
+Location Based Services The delivery of information, mapping and locally available business and public data over the wireless network dependent upon the ability to locate mobile devices by means of direct satellite or cellular assisted satellite signals.
+MIMO Multiple Input A wireless technology that employs multiple intelligent radio antennas to improve transmission Multiple Output speed and quality of wireless networks over longer distances than otherwise possible.
+MSO Multiple System Operator A company that operates more than one cable TV system, often in different places.
+Over-the-Air Mobile network radio cellular tower signal or satellite signal transmitted over-the-air to a mobile device antenna and processed by the mobile device communicating with the mobile network.
+Triple Play Voice, video and data transmitted over a single transport medium.
+UMTS Universal Mobile One of the 3G wireless technologies.
+The most common form of UMTS uses WCDMA on its Telecommunications System underlying air interface and offers support for high speed data transfer.
+Virtualization A term that refers to the abstraction of computer resources.
+Virtualization puts a number of computing facilities together in such a way that it looks like a virtual computer to a user or customer.
+WCDMA Wideband CDMA A global standard for mobile 3G.
+Spirent Communications plc 107 Annual Report 2009 notes 108 Spirent Communications plc Annual Report 2009 contact details Registered office ADR Depositary Spirent plays a significant role in the way the Spirent Communications plc The Bank of New York Mellon Corporation Northwood Park ADR Depositary Receipts world communicates.
+We inspire innovation Gatwick Road 101 Barclay Street across our customer base by testing Crawley 22nd Floor West Sussex RH10 9XN New York tomorrows networks and technologies today, United Kingdom NY 10286 Tel: 44 0 1293 767676 USA thereby enhancing the products, services and Fax: 44 0 1293 767677 Tel: 1 888 269 2377 toll free US applications that drive the ever evolving Email: investor.
+com Tel: 1 201 680 6825 outside US Website: www.
+As a leader in test Website: www.
+com and measurement, we truly enrich the lives Registered in England No: 470893 of people communicating around the world.
+Brokers Joint Auditor RBS Hoare Govett Limited Ernst & Young LLP 250 Bishopsgate Spirents innovative test solutions push the London EC2M 4AA 1 More London Place London SE1 2AF United Kingdom limits of networks, elements, devices and Tel: 44 0 20 7678 8000 United Kingdom applications.
+Our unique testing methodologies Tel: 44 0 20 7951 2000 Website: www.
+com ensure that global communications equipment Website: www.
+com manufacturers as well as service providers, UBS Limited Registrar 2 Finsbury Avenue supplying a wide range of voice, data, video Equiniti Limited London EC2M 2PP and applications, deliver the highest quality United Kingdom Aspect House products and services thereby improving the Spencer Road Tel: 44 0 20 7567 8000 quality of experience for every user.
+com Lancing and its employees continue to deliver the best West Sussex BN99 6DA United Kingdom Financial PR Advisers return for shareholders in our industry.
+Tel: 0871 384 2126 UK Financial Dynamics Limited Tel: 44 0 121 415 7047 overseas Holborn Gate Text phone for shareholders with hearing difficulties : 26 Southampton Buildings 0871 384 2255 UK London WC2A 1PB Text phone for shareholders with hearing difficulties : United Kingdom 44 0 121 415 7028 overseas Tel: 44 0 20 7831 3113 Website: www.
+com Ethernet Data Center Wireless Satellite Navigation Service Assurance Cloud Computing Spirent Communications plc Annual Report 2009 Spirent Communications plc Annual Report 2009 Registered office Spirent Communications plc Northwood Park Gatwick Road Crawley West Sussex RH10 9XN United Kingdom Tel: 44 0 1293 767676 Fax: 44 0 1293 767677 Email: investor.
+com Registered in England No: 470893 www.
+com Spirent and the Spirent logo are trademarks or registered trademarks of Spirent Communications plc.
+All other trademarks or registered trademarks mentioned herein are held by their respective companies.

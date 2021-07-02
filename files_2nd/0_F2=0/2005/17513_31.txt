@@ -1,0 +1,65 @@
+124 | Xstrata plc Annual Report 2005 Notes to the Financial Statements 1.
+Accounting policies Basis of preparation These financial statements have been prepared in accordance with applicable UK accounting standards refer to note 2 for changes in these standards.
+Xstrata plc the Company has adopted the following principal accounting policies: Investments Equity investments in subsidiaries are carried at cost less any provision for impairments.
+Financial Assets, Loans and Receivables Financial assets are classified as either financial assets at fair value through profit or loss, loans and receivables, held-to-maturity investments or available-for-sale financial assets, as appropriate.
+The Company determines the classification of its financial assets at initial recognition.
+When financial assets are recognised initially, they are measured at fair value on the trade date, plus, in the case of investments not at fair value through profit or loss, directly attributable transaction costs.
+Loans and receivables Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market, do not qualify as trading assets and have not been designated as either fair value through profit and loss or available for sale.
+Such assets are carried at amortised cost using the effective interest method.
+This cost is computed as the amount initially recognised minus principal repayments, plus or minus the cumulative amortisation using the effective interest method of any difference between the initially recognised amount and the maturity amount.
+Gains and losses are recognised in the profit and loss account when the loans and receivables are derecognised or impaired, as well as through the amortisation process.
+Loans and receivables are derecognised when the Company no longer has a right to receive cash flows from the asset.
+If there is objective evidence that an impairment loss on loans and receivables have been incurred, the amount of the loss is measured as the difference between the assets carrying amount and the present value of estimated future cash flows excluding future credit losses that have not been incurred discounted at the financial assets original effective interest rate ie the effective interest rate computed at initial recognition.
+The carrying amount of the asset is reduced and the amount of the loss is recognised in profit or loss account.
+If, in a subsequent period, the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after the impairment was recognised, the previously recognised impairment loss is reversed.
+Any subsequent reversal of an impairment loss is recognised in the profit and loss account, to the extent that the carrying value of the asset does not exceed its amortised cost that would have been measured if there had been no impairment at the reversal date.
+Impairment The carrying amounts of fixed assets are reviewed for impairment if events or changes in circumstances indicate the carrying value may not be recoverable.
+If there are indicators of impairment, an exercise is undertaken to determine whether the carrying values are in excess of their recoverable amounts.
+Such review is undertaken on income generating units.
+If the carrying amount of a fixed asset exceeds the recoverable amount, a provision is recorded to reflect the asset at the lower amount.
+In assessing recoverable amount for fixed assets, the relevant future cash flows expected to arise from the continuing use of such assets and from their disposal have been discounted to their present value using a market-determined discount rate.
+Provisions for liabilities Provisions are recognised when the Company has a present obligation, as a result of past events, and it is probable that an outflow of resources that can be reliably estimated will be required to settle the obligation.
+Accounting policies continued Deferred taxation Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date that will result in an obligation to pay more, or a right to pay less, tax in the future.
+In particular: provision is made for tax on gains arising from the disposal of fixed assets, only to the extent that, at the balance sheet date, there is a binding agreement to dispose of the assets concerned.
+However, no provision is made where, on the basis of all available evidence at the balance sheet date, it is more likely than not that the taxable gain will be rolled over into replacement assets and charged to tax only where the replacement assets are sold: provision is made for deferred tax that would arise on remittance of the retained earnings of overseas entities only to the extent that, at the balance sheet date, dividends have been accrued as receivable: and deferred tax assets are recognised only to the extent that, it is considered that it is more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted.
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing differences reverse, based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+Deferred tax is recognised in the profit and loss account for the period except to the extent it is attributable to a gain or loss recognised directly in equity, in which case it is also recognised in equity.
+Ordinary share capital Ordinary shares issued by the Company are recorded at the net proceeds received, which is the fair value of the consideration received less costs that are incurred in connection with the share issue.
+The nominal par value of the shares issued is taken to the share capital account and any excess is recorded in the share premium account, including the costs that were incurred with the share issue.
+Own shares The cost of purchases of own shares held by the Employee Share Ownership Plan ESOP trust are deducted from equity.
+Where they are issued to employees or sold, no gain or loss is recognised in the profit and loss account.
+Any proceeds received on disposal of the shares or transfer to employees are also recognised in equity.
+Share-based payments The Company makes share-based awards, including free shares and options in the Company, to certain employees and Directors of the Group.
+The expense recognised in the financial statements relates only to those share-based awards that are granted by the Company, to its employees and Directors and to the employees of the Group who provide services to the Company.
+Equity-settled awards For equity-settled awards, the fair value is charged to the profit and loss account and credited to retained earnings, on a straight line basis over the vesting period, after adjusting for the estimated number of awards that are expected to vest taking into account the achievement of non-market based performance conditions.
+The fair value of the equity-settled awards is determined at the date of the grant.
+In calculating fair value, no account is taken of any vesting conditions, other than conditions linked to the price of the shares of the Company market conditions.
+The fair value is determined by external experts using the models outlined in note 11.
+At each balance sheet date prior to vesting, the cumulative expense representing the extent to which the vesting period has expired and managements best estimate of the awards that are ultimately expected to vest is computed after adjusting for non-market performance conditions.
+The movement in cumulative expense is recognised in the profit and loss account with a corresponding entry within equity.
+No expense is recognised for awards that do not ultimately vest, except for awards where vesting is conditional upon a market condition, which are treated as vesting irrespective of whether or not the market condition is satisfied, provided that all other performance conditions are satisfied.
+126 | Xstrata plc Annual Report 2005 Notes to the Financial Statements 1.
+Accounting policies continued Where the terms of an equity-settled award are modified, as a minimum an expense is recognised as if the terms had not been modified over the original vesting period.
+In addition, an expense is recognised for any modification, which increases the total fair value of the share-based payment arrangement, or is otherwise beneficial to the employee as measured at the date of modification, over the remainder of the new vesting period.
+Where an equity-settled award is cancelled, it is treated as if it had vested on the date of cancellation, and any expense not yet recognised for the award is recognised immediately.
+Any compensation paid up to the fair value of the awards at the cancellation or settlement date is deducted from equity, with any excess over fair value being treated as an expense in the profit and loss account.
+However, if a new award is substituted for the cancelled award, and designated as a replacement award on the date that it is granted, the new award is treated as if it is a modification of the original award, as described in the previous paragraph.
+Cash-settled awards For cash-settled awards, the fair value is recalculated at each balance date until the awards are settled based on the estimated number of awards that are expected to vest adjusting for market and non-market based performance conditions.
+During the vesting period, a liability is recognised representing the portion of the vesting period which has expired at the balance sheet date times the fair value of the awards at that date.
+After vesting the full fair value of the unsettled awards at each balance date is recognised as a liability.
+Movements in the liability are recognised in the profit and loss account.
+The fair value is recalculated using an option pricing model refer to note 11.
+The Group has taken advantage of the transitional provisions of FRS 20 in relation to unvested equity-settled awards and has applied this accounting standard only to awards granted after 7 November 2002 that had not vested prior to 1 January 2005.
+Loans from subsidiaries Loans from subsidiaries are recognised at inception at the fair value of the proceeds received net of issue costs.
+Subsequently they are measured at amortised cost using the effective interest method.
+Finance costs are recognised in the profit and loss account using the effective interest rate method.
+Foreign currency transactions Foreign currency transactions are booked in the functional currency US$ at the exchange rate ruling on the date of the transaction.
+Foreign currency monetary assets and liabilities are translated into the functional currency at rates of exchange ruling at the balance sheet date.
+Exchange differences are recorded in the profit and loss account.
+Foreign currency non-monetary assets and liabilities are not restated at balance sheet date.
+Revenue Interest income is recognised as earned on an accruals basis using the effective interest method.
+Dividend income is recognised as earned when the Companys right to receive payment is established.
+Income for other services is recognised when the service has been rendered, when the amount of revenue and associated costs can be reliably measured and it is probable that economic benefits will flow to the Company.
+Comparatives Where applicable, comparatives have been adjusted to disclose them on the same basis as current period figures.
+Use of estimates The preparation of these financial statements is in conformity with generally accepted accounting practice and requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the reporting period.
+Actual outcomes could differ from these estimates.

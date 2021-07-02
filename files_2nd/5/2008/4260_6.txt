@@ -1,0 +1,460 @@
+DIRECTORS REPORT BUSINESS REVIEW 20 DIRECTORS REPORT BUSINESS REVIEW r&d is at the heart of our strength in the Products and solutions we are able to offer our customers.
+in 2008 r&d sPend was $152.8 million a 7% increase over 2007 Will Gardiner, Chief Financial Officer Overview We have a very strong research and development team CSR plc is the holding company of an international of 630 staff as at 2 January 2009 down from 714 a year group of companies with its headquarters in earlier.
+The majority of these are based in Cambridge, Cambridge, UK.
+CSR plc listed on the London Stock UK, with teams in Aalborg in Denmark: Stockholm in Exchange in March 2004 and is a constituent of the Sweden: Dallas and Detroit in the US: Sophia Antipolis in FTSE 250 Index.
+France and Bangalore in India.
+Our sales and marketing function is centred in Cambridge in the UK with sales Our core business is the design and supply of integrated liaison offices in Dallas and Detroit in the US: Taipei in circuits, or silicon chips, for use in wireless devices.
+Taiwan: Seoul and Gumi in South Korea: Tokyo in Japan Through our BlueCore range of products, we are a and Shanghai and Shenzhen in China.
+market leader in the supply of single chip solutions for Bluetooth wireless voice and data communications, We market to Original Equipment Manufacturers providing low cost, high performance integrated circuits often called OEMs and Original Design Manufacturers ICs or silicon chips to manufacturers of a wide range of or ODMs, principally through our own direct sales force electronic devices.
+These include items such as mobile and, in North America, through sales representatives.
+phones, headsets, laptop PCs, PC peripherals, games We also market our chips through a network of consoles, stereo headphones, MP3 players and distributors.
+We supply over 450 end customers including BMW, Bose, Dell, LG, Motorola, Our marketing efforts are supported by a team of Nokia, NEC, Panasonic, RIM, Samsung, Sharp, Sony, applications engineers who provide technical support TomTom and Toshiba.
+We are also extending our and assistance to existing and potential customers in technologies beyond Bluetooth to bring a broader range designing, testing and qualifying systems that of short-range wireless technologies to market, namely incorporate our products.
+Wi-Fi, GPS, FM radio, UWB Ultra Wideband, NFC Near Field Communications and Bluetooth low energy.
+This support is generally provided without charge to customers who have the potential to purchase large Our objective is to be the supplier of choice of solutions volumes of products.
+An important part of our marketing for wireless voice and data communications focussing effort involves providing technical support to product on the Connectivity Centre.
+The Connectivity Centre developers to encourage them to design products using brings together many aspects of short range wireless our chips.
+For this purpose, we provide a range of connectivity products with excellent co-existence, development kits and tools.
+capable of operating concurrently without degradation in optimum performance.
+We believe that Bluetooth, Business segments FM radio, Wi-Fi, UWB, high quality audio for music, For the period to 2 January 2009 we were organised into GPS location-finding technology and Near Field two business segments: Cellular: which includes mobile Communications can all ultimately co-exist alongside phones and headsets, and Non-cellular: which includes each other, with significant benefits for the end user.
+applications beyond the mobile phone including PC, Our strategy is built around the Connectivity Centre Automotive and Consumer applications.
+and this guides all decisions we make.
+The Connectivity market has grown very quickly over the last few years We identified business segments based on internal and is forecast to continue to grow substantially over reporting and have chosen to aggregate those business the long term.
+segments which meet the aggregation criteria specified in International Financial Reporting Standard 8 for disclosure as reportable segments.
+csr plc annual report and financial statements 2008 21 Cellular segment economic slowdown, we believe a greater proportion During 2008, we achieved good progress designing of those cars built will include Bluetooth functionality as in our next-generation Bluetooth chip, BlueCore7000, manufacturers offer higher specification levels in order which combines Bluetooth with FM Transmit, to make their products more attractive to consumers.
+FM Receive, Bluetooth low energy and GPS RF.
+BlueCore7000 is expected to enter mass production Personal Navigation Devices PNDs are an important during the second half of 2009. market and our RoadTunes product benefits from having an easy to integrate reference design.
+There continues to be significant interest in our combination Bluetooth and Audio Codec chip, 2008 was a challenging year in the PC sector, and we MusiCore, among Tier 1 phone manufacturers and suffered market share loss.
+However we continue to we believe this could lead to end products in the market develop products aimed at this market.
+Our partnership in the second half of 2009. with Intel has provided PC customers and OEMs with the ability to offer their customers a saving of battery life of UniFi6000, our third generation embedded Wi-Fi 30 minutes.
+To ensure ease of integration, CSR has product family was developed during 2008.
+The launched a new PC Slim module design with a new UniFi6000 range is the worlds smallest embedded Wi-Fi read only memory ROM device that incorporates the 2 chip available.
+UF6000 has a die size of less than 16mm CSR Intel advanced power management functionality.
+of silicon, whilst providing customers with low power We expect to ship devices with this functionality in 2009. consumption.
+It supports IEEE 802.11a b g and n. Market overview Non-Cellular segment CSR remains a world leader in the Bluetooth market, We are the wireless connectivity provider of choice a position it has held since 2004.
+The operational in the Non-cellular segment and the number of assessment during the first quarter of 2008 validated applications for Bluetooth continues to grow.
+We are CSRs fundamental strength in wireless technologies working with our customers to integrate Bluetooth in a whilst also confirming that the wireless connectivity range of new consumer electronic devices.
+These market represented a significant long term growth include products such as Hi-Fi units, a wider range of opportunity.
+Even allowing for the current economic games consoles and televisions where wider adoption uncertainties, the Company estimates that the market is expected to occur.
+for short range wireless connectivity solutions may grow from around $3.5 billion in 2007 to between $5 billion We have a significant presence in the gaming segment and $7 billion in 2012. where low-latency is a key requirement from customers.
+Our Fast Stream software ensures that the audio and At the heart of this growth are several connectivity video are synchronised to enhance the realism of the technologies that the Company believes will computer game and therefore the user enjoyment.
+We progressively converge onto a single piece of silicon in are seeing a trend in having multiple simultaneous uses mobile phones and other portable consumer electronics for Bluetooth in gaming and we expect consumers to products, forming what we call a Connectivity Centre.
+This trend is already being reflected by requests from our customers for product designs that combine multiple The automotive market continues to provide growth short range wireless communication technologies.
+opportunities as Bluetooth connectivity is being All the technologies which we believe will be potential incorporated into a growing range of newly built cars and elements of the Connectivity Centre are either in attach rates continue to increase.
+While we expect production by us or are in our current R&D pipeline.
+global demand for cars to be impacted by the general c cs sr r p pl lc c a an nn nu ua al l r re ep po or rt a t an nd d f fi in na an nc ci ia al l s st ta at te em me en nt ts 2 s 20 00 08 8 DIRECTORS REPORT BUSINESS REVIEW continued Bluetooth is at the core of the Connectivity Centre due to We believe that the presentation of the underlying 22 its high adoption rate and Connectivity Centre chips will measures provides useful additional information as they normally include a combination of Bluetooth with other represent the measures used internally by management technologies and functionality.
+to evaluate the performance of its operations, develop budgets and incentive compensation arrangements for The markets in which we operate are highly competitive employees.
+Further, the underlying measures presented and are characterised by rapid technological change, below are also used to analyse and understand the key evolving industry standards and declining prices and drivers of the business.
+They exclude significant items costs.
+Our primary competition includes Broadcom, which, whilst important to an understanding of the overall Texas Instruments and ST Microelectronics.
+business, are less important for the operational decisions made.
+The items which have been excluded from We believe that the rate of adoption into mobile devices underlying measures are the amortisation of acquired the attach rate for Bluetooth in handsets was between intangible assets and, in 2008, asset impairment charges, 50% and 60% in 2008, which represents an increase of charges for restructuring and the deferred tax adjustment approximately 5% compared to 2007.
+Based on market to goodwill, and in 2007, a patent dispute settlement.
+reports and discussions with customers, management expects a further overall increase in the Bluetooth attach We believe that the exclusion of these items provides a useful rate for our target markets during 2009 as more devices view of our operating performance as it clearly reflects our are launched that provide wireless connectivity.
+A statutory format income Offsetting the increase in the adoption of Bluetooth and statement is on page 64 of the Financial Statements.
+other wireless technologies, however, is the impact of the global economic downturn, which has particularly Financial performance 53 weeks 52 weeks affected the consumer oriented markets which our ended ended customers sell into.
+We therefore expect the market for 2 January 28 December short range wireless connectivity solutions in 2009 to 2009 2007 $ Million $ Million Change contract compared with 2008.
+Revenue 694.9 848.6 -18% Gross Profit 309.8 396.3 -22% This is expected to impact the handset and headset Gross Margin 44.6% 46.7% -2.1% markets which are both forecast to experience R&D 158.2 147.5 7% contraction with a decline in sales forecast for both % of revenue 22.8% 17.4% 5.4% markets.
+However, the Company believes that its Underlying R&D 152.7 140.9 8% products provide strong technical and performance % of revenue 22.0% 16.6% 5.4% differentiation from alternative solutions which will enable SG&A 160.2 98.6 62% it to compete effectively in securing and maintaining % of revenue 23.1% 11.6% 11.5% market share.
+Underlying SG&A 91.8 83.4 10% % of revenue 13.2% 9.8% 3.4% In the Non-cellular segment the Company expects the Operating loss profit 8.5 150.1 -106% attach rate for Bluetooth will continue to grow in 2009 in % of revenue 1.2% 17.7% -18.9% certain applications.
+In the automotive market, despite Underlying operating profit 65.2 172.0 -62% the widely reported decline in global car sales, it is % of revenue 9.4% 20.3% -10.9% expected that the attach rate for Bluetooth will increase Underlying earnings due to the relatively low cost for the inclusion of this per share $ Diluted 0.43 0.94 -54% feature into new build cars.
+Loss earnings per share $ Diluted 0.05 0.83 -106% Financial review Underlying numbers exclude the amortisation of acquired intangible The table opposite includes both GAAP and underlying assets, a $52.9 million asset impairment charge in 2008, $14.4 million of data for the 53 week period ended 2 January 2009, restructuring charges in 2008, a $1.0 million charge in 2008 2007: $0.3 extracted from the income statement on page 64. million related to the adjustment to goodwill as a result of the recognition The term underlying is not defined under IFRS and of pre-acquisition losses and, in 2007, the payment of $15.0 million in settlement of a patent dispute.
+therefore may not be comparable to similarly titled measures reported by other companies.
+Further, Summary these measures are not intended to be a substitute for, 2008 has been a year of significant change for the and are not considered to be superior to other defined Company.
+During the first quarter, the Company IFRS measures.
+completed a detailed operational assessment of its business strategy, which has been successfully implemented and is already yielding benefits in operational efficiency and focus on product execution.
+The operational impact of these changes are explained on pages 6 to 9 of the Annual Report.
+The later part of the year saw the impact of the global banking and financial crises, which has resulted in a reduction in financial liquidity and a sharp slowing in demand from business and end-consumers alike.
+csr plc annual report and financial statements 2008 The Companys primary market is the supply of To measure performance of the business: 23 Bluetooth products, which represented over 95% of Underlying earnings per diluted share is used as a CSRs revenues in 2008.
+The overall growth in demand measure of the interest each current share and each potentially dilutive share has in the performance of the for Bluetooth products, albeit slower than in prior years, business.
+Underlying earnings per diluted share is continued in both Cellular and Non-cellular applications.
+calculated as underlying earnings divided by the number Approximately 98% of the Companys products are of current shares and potentially dilutive shares supplied to customers which produce products serving outstanding.
+Underlying diluted earnings per share in 2008 was Key performance measures $0.43, a decrease of 54% compared to $0.94 in 2007.
+We use a range of financial and non-financial performance measures, reported on a periodic basis, The decrease resulted from the reductions in revenue to measure performance over time.
+There have been no changes in the period in our financial KPIs: we have and gross profit, along with the increases in underlying added headcount as a non-financial KPI in the current operating expenses, all of which are described in more period.
+No changes have been made to the source of detail on page 24. data or calculation methods used in the period.
+The 1 source of all data is consistent with published financial 0.9 0.8 and non-financial information.
+0.7 0.6 To measure growth of the business: 0.5 Revenue represents sales of integrated circuits to 0.4 customers, sales of services to customers and royalty 0.3 income from products sold under a royalty earning 0.2 licence net of any estimated provisions for credit notes 0.1 0 and returns.
+Only a negligible percentage of our 2004 2005 2006 2007 2008 revenues come from sales of services and royalties.
+900 800 To measure working capital management: 700 Inventory turns is used as a measure of the 600 management of inventory levels in the business and 500 represents the number of times inventory turns over $m 400 in an annual period based on the previous three months 300 cost of sales.
+4 Revenue for 2008 amounted to $694.9 million, 3 representing an 18% decrease from revenue in 2007 2 of $848.6 million.
+This reflected principally a reduction 1 in the volume weighted average selling price of 13.8%, 0 coupled with lower shipment volume due to the sharp 2004 2005 2006 2007 2008 decline in demand from customers at the end of 2008, Inventory turns decreased in 2008 to 4.8, based on the previously reported loss during 2006 of a BlueCore5 the previous three months cost of sales 2007: 6.3.
+FM device programme at our largest customer and competitive pressure in the low cost headset and other The decrease resulted from reductions in orders towards markets.
+The loss of this BlueCore5 FM programme the end of the year, which were notified within the has resulted in the revenue we derive from that customer lead-time for production from our suppliers and hence as a proportion of our total revenues declining from led to higher than planned inventory balances.
+We took 29% in 2006 to 26% in 2007 and to 19% in 2008. decisive actions to reduce inventory balances as far as We have however, maintained our strong relationship possible as soon as the effect of these reductions in with this customer and based on the development orders on forecast shipments became known.
+of our next generation Bluetooth device BlueCore7000, we anticipate regaining market share with them during 2009. csr plc annual report and financial statements 2008 Iventory turns Cents per Share DIRECTORS REPORT BUSINESS REVIEW continued Days sales outstanding DSO is a measure of the Headcount as at the end of the annual period is used 24 number of days that it takes us to collect revenue as a non-financial key performance indicator of the after a sale has been made taken at our year end date.
+resources available in the business and is monitored We calculate DSO by taking the balance of trade closely in relation to productivity and research and receivables outstanding at the end of the annual period, development output.
+dividing by the revenue for the most recent monthly 1200 periods and then multiplying by the number of days 1000 in those monthly periods.
+This was primarily due to implementation in the final The increase in DSO was due to the non-payment quarter of 2008 of headcount reductions in response to of invoices on the due date by a distributor.
+This debt the global financial and economic downturn experienced is not provided for and has been collected since in the latter part of the year, and reversed a growth in 2 January 2009. headcount in the first part of 2008.
+The headcount reductions were implemented following careful In previous years, DSO was lower as, due to higher levels consideration of the long-term strategic objectives and of demand, customers paid invoices early to remain shorter term targets for 2009.
+This was performed in within their credit limits.
+conjunction with operational management to ensure that core projects remain adequately resourced.
+Free cash flow is used to represent the cash that we are able to generate after cash out flows on capital Details of 2008 financial results expenditure.
+We calculate free cash flow as cash Revenue generated by operations as per the cash flow statement As noted on page 23, revenue for 2008 amounted to on page 66 less expenditure on tangible and intangible $694.9 million, representing an 18% decrease from 2007 assets in the annual period as shown on the cash flow revenue $848.6 million.
+reduction in the volume weighted average selling price of 13.8% coupled with a lower shipment volume due to 250 the sharp decline in demand from customers at the end 200 of 2008, the previously reported loss during 2006 of a BlueCore5 FM programme with our largest customer 150 $m and competitive pressures in the low cost headset and other markets.
+The loss of this BlueCore5 FM 100 programme resulted in the revenue we derived from 50 that customer as a proportion of our total revenues declining from 29% in 2006 to 26% in 2007 and to 19% in 2008.
+We have however maintained our strong 2004 2005 2006 2007 2008 relationship with this customer and, based on the Free cash flow declined to $73.7 million 2007: $222.9 development of our next generation Bluetooth device million, mainly as a result of our lower gross profit and BlueCore7000, we anticipate regaining market share higher operating expenditures.
+In 2007, there was a with them during 2009. substantial benefit from working capital movements in the year, mainly due to timing of purchases from Segmental Revenue 53 weeks 52 weeks subcontractors and receipt of cash from customers ended ended at the 2007 year end, compared to the 2006 year end.
+2 January 28 December 2009 2007 $ Million $ Million % change Cellular 552.8 660.6 16% Non-cellular 142.1 188.0 24% 694.9 848.6 18% Cellular segment revenue, which represented 80% of our total revenue in 2008, decreased 16% compared to 2007.
+This was due to a combination of the decline in csr plc annual report and financial statements 2008 The key projects we have identified all form major revenue from handsets from our largest customer 25 and competitive pressures in the headset market.
+parts of the Connectivity Centre: we have concentrated on our latest Bluetooth and FM device BlueCore7000, Non-cellular segment revenue, which represented 20% of our total revenue in 2008 decreased by 24% MusiCore Bluetooth plus Audio Codec product, our next generation Wi-Fi device and development compared to 2007.
+This was in large part due to a decline in revenue from personal computer customers, and integration of our leading edge software based GPS solution.
+where we lost market share.
+We expect to continue to invest heavily in technological Our BlueCore4 ROM device the worlds best selling Bluetooth device was again our largest shipping innovation, with our focus on technologies forming key parts of the Connectivity Centre.
+BlueCore4 ROM started shipping in volume in 2005 and was our largest selling product in As a result of our R&D effort and recent acquisitions, each of 2006, 2007 and 2008.
+Product lifecycles vary: in some cases they can extend to several years, while we have nearly 200 granted patents and a significant number of further applications in process.
+in others the rate of technological innovation may compress the lifecycle.
+Product average selling prices Selling, General & Administrative SG&A generally decline by around 15-20% per year and individual product costs tend to reduce at a similar rate.
+In 2008, selling, general & administrative costs were $160.2 million, representing a 62% increase from Gross margin $98.6 million in 2007, mainly due to the charges described opposite.
+This decline resulted in part from increased competition As a result of the operational strategy assessment, and pressure on margins and also from a change in the mix of end market demand towards handset related in May 2008, the Company decided to cease ongoing investment in the UbiNetics protocol stack.
+This had sales, which generally have lower margins and feature the basic Bluetooth devices, and away from shipments been acquired with the software business of UbiNetics in August 2005.
+The main reason for the acquisition had to the higher margin headset and PC sectors.
+been to expand our footprint in the handset for which a protocol stack was necessary.
+As a result of the The effects of this shift were partially offset by reductions in production costs exceeding selling price reductions, subsequent evolution of market however, the Company which had a beneficial effect on gross margins.
+took the view, shared by most of the industry, that the The overall lower level of revenue also impacted gross integration of Bluetooth and other technologies into the margins since those elements of largely fixed overheads baseband is unlikely to happen.
+We therefore focussed recorded in cost of sales do not reduce.
+the Companys resources on our capabilities in the Connectivity Centre, explained elsewhere in this Annual We expect continuing competitive pressure on our Report.
+This resulted in a non-cash impairment charge product average selling prices, particularly given the of $52.9 million, which included the write down of the current economic climate.
+goodwill relating to the UbiNetics acquisition $36.9 million and certain assets which will not be used in future Research and Development R&D development activities $16.0 million.
+R&D, is the heart of our strength in the products and solutions we are able to offer to our customers and In response to the current economic recession, a cost which underpins and sustains our success.
+In 2008 reduction programme was implemented in the fourth R&D costs were $158.2 million, a 7% increase from the quarter of 2008, with the aim of reducing ongoing $147.5 million of R&D expenditure in 2007.
+Underlying annualised operating expenses by $20 million in 2009.
+R&D expenses excluding the amortisation of acquired This has been successfully completed, and is expected intangible assets were $152.7 million in 2008, an 8% to deliver actual annualised savings of $25 million with increase from our $140.9 million of R&D expenditure in the initial benefit of the savings commencing in the first 2007, representing 22% of revenue.
+This resulted in a charge of $14.4 million.
+reflected an increase in R&D personnel in the first three quarters of 2008 4% average increase, and a 6% During 2007, the Company reached an agreement with increase in the exchange rate at which we converted the Washington Research Foundation WRF to settle its our GBP costs into dollars 2008: $1.98 1.00, patent infringement suit issued against twelve of the 2007: $1.86 1.00.
+The Company remained of the view that WRFs infringement suit against its Bluetooth The Company invests a significant proportion of its chips was without merit.
+Notwithstanding this, the resources in R&D in order to ensure that it continues to Company believed that an early resolution of the claim provide innovative wireless connectivity solutions to its was both in its own and in customers best interests and customers.
+This is explained in more detail on pages accordingly a settlement payment of $15.0 million was 18 and 19. made in April 2007.
+In connection with this settlement, the Company obtained an undertaking from WRF not to sue the Company, its suppliers, customers or end users for the alleged infringement by CSR products of the patents asserted in the suit.
+csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued Underlying selling, general & administrative costs Financial position 26 2 January 28 December excluding the deferred tax adjustment to goodwill and 2009 2007 in 2008, asset impairment charges and charges for $ Million $ Million restructuring, and in 2007, a patent dispute settlement Non-current assets as described on page 25 were $91.8 million Goodwill 106.3 144.2 representing a 10% increase over 2007 SG&A costs of Other intangible assets 20.8 45.1 $83.4 million.
+The increase resulted from a combination Property, plant and equipment 48.2 52.9 of increased headcount in the first three quarters of 2008 Deferred tax asset 6.5 7.1 before the restructuring exercise 3% average increase, 181.8 249.3 and a 6% increase in the exchange rates we used to Current assets record our sterling-denominated costs.
+There was a Inventory 66.2 77.3 further increase in exchange losses of $0.9 million, due Cash flow hedges 0.7 to translation differences on un-hedged, non-US dollar Trade and other receivables 81.8 97.2 denominated assets and liabilities, following the volatility Treasury deposits 81.0 52.0 on international foreign currency markets.
+SG&A costs Cash and cash equivalents 180.9 193.3 also reflect expenditures of approximately $2 million on 410.0 420.5 independent consultants retained in connection with Total assets 591.7 669.8 our extensive operational assessment described above.
+Current liabilities 102.1 152.8 Investment income Non-current liabilities 22.9 8.3 Our investment income represents primarily interest Total liabilities 125.0 161.1 earned on our cash and cash equivalents.
+During 2008 we had an average of $231.1 million in cash, cash Net assets 466.7 508.7 equivalents and treasury deposits, an increase of 40% from the average in 2007.
+Investment income decreased Goodwill to $6.1 million in the 53 weeks ended 2 January 2009 Goodwill arose on the acquisitions of CPS and NordNav compared to $7.9 million in 2007, as a result of lower UK in 2007 and Clarity and UbiNetics during 2005.
+As a and US interest rates.
+result of the decision to terminate development of the UbiNetics protocol stack in 2008, all goodwill of $36.9 Net loss income million relating to the UbiNetics acquisition was written Net loss was $6.9 million in 2008, compared to net off.
+The remaining balance of $106.3 million represents income of $112.8 million in 2007.
+The reduction was the goodwill from the CPS, NordNav and Clarity mainly due to the lower level of revenue and gross profit acquisitions.
+The annual impairment review did not described above, along with the impairment charge of indicate any impairment of the remaining balances.
+$52.9 million and the restructuring charge of $14.4 million: this was offset by the reduction in patent dispute Fixed assets settlement costs of $15.0 million.
+There was a smaller Fixed assets at 2 January 2009 included the net book impact from increases in underlying operating expenses.
+value of our software licences of $5.2 million 2007: $15.8 million, which support R&D, along with $14.3 million of Taxation in-process R&D purchased as part of the acquisitions in The tax charge for 2008 was $0.5 million, a sharp 2007 and 2005 2006: $29.3 million.
+The book value of decline from 2007 as a result of our operating loss.
+our software licenses at 2 January 2009 declined by The major items which affected the tax charge were the $10.6 million from 28 December 2007, mainly due to non-deductible goodwill impairment of $36.9 million amortisation of $5.1 million and an impairment of $3.0 referred to above and the enhanced tax deduction million: and the value of our in-process R&D declined by allowed for research and development expenditure.
+$15 million over the same period, as a result of In 2007, when we had net income of $112.8 million, the amortisation of $5.1 million and an impairment of $9.6 tax charge was $42.8 million, reflecting a marginal tax million.
+The majority of the balance of our tangible fixed rate on corporate earnings of 27.5%.
+assets is made up of test equipment and IT equipment, including 18 production testers which we consign to our Earnings per share subcontractors.
+Underlying diluted earnings per share was $0.43, a decrease of 54% compared to $0.94 in 2007.
+Diluted Inventory earnings per diluted share was a loss of $0.05 for the 53 Inventory at 2 January 2009 stood at $66.2 million, weeks ended 2 January 2009, compared to diluted a 14% decline from the level $77.3 million at earnings per share of $0.83 for 2007.
+Basic earnings per 28 December 2007, which represents 76 inventory share was also a loss of $0.05 compared to earnings per days 2007: 58 days.
+We aim to keep sufficient inventory share of $0.86 for 2007.
+Earnings per share measures to meet the often short customer order lead times in were not significantly impacted by changes in the this industry.
+number of basic or dilutive shares.
+csr plc annual report and financial statements 2008 Trade receivables Cash flow 27 53 weeks 52 weeks Trade receivables decreased to $65.2 million as ended ended at 2 January 2009, down from $81.6 million at 2 January 28 December 28 December 2007.
+The decrease was due to the lower 2009 2007 $ Million $ Million level of revenue in the fourth quarter 2008, compared Operating cash flows to the fourth quarter of 2007.
+Days sales outstanding before movements in increased to 58 days 2007: 37 days.
+The increase in working capital 88.1 192.5 days sales outstanding was due to the non-payment Working capital 8.2 59.9 of invoices on the due date by one distributor.
+This Taxation 30.0 29.8 receivable has been collected since 2 January 2009 Interest paid 0.3 0.4 and has therefore not been provided for.
+R&D tax credit received 0.3 Net cash from Liabilities operating activities 66.3 222.2 Our total liabilities decreased to $125.0 million at 2 Treasury management 22.7 14.3 January 2009 from $161.1 million at 28 December 2007.
+Acquisitions 11.7 81.9 Capital expenditure 22.7 29.5 Accounts payable fell by $25.2 million, due to lower Financing 1.2 0.1 amounts payable to our subcontracted manufacturers.
+Purchases of own shares 20.2 20.0 This was driven by a reduction in production levels Net cash outflow inflow 9.8 76.4 towards the end of 2008 compared to 2007 as we took actions to reduce inventory on hand in line with Cash, cash equivalents and treasury deposits increased forecast demand.
+to $261.9 million at 2 January 2009, from $245.4 million at 28 December 2007, an increase of $16.5 million.
+Tax liabilities fell by $25.1 million as a result of the lower The difference compared to the outflow of $9.8 million tax charge in 2008.
+As the forecast profits and hence tax shown above is due to amounts placed on treasury charge fell as we progressed through 2008, almost the deposit of $28.9 million deposits with an initial term of full tax liability was paid with our first two payments greater than 90 days, which are shown separately from under the quarterly payment system in July 2008 and cash and cash equivalents on the balance sheet on October 2008.
+Hence there was a very small page 65, and a foreign exchange loss of $2.6 million outstanding balance at the end of 2008. from retranslation of non-USD cash balances.
+These falls were offset by the significant increase in the During the 53 weeks ended 2 January 2009 there has negative fair value of forward foreign exchange contracts been a cash outflow of $9.8 million 2007: inflow $76.4 in place.
+The net liability increased by $32.0 million in the million.
+Operating cash flow before movements in year.
+Further information on our hedging is given on page working capital contributed $88.1 million 2007: $192.5 28.
+The liability related to these contracts will unwind as million, with movements in working capital resulting in we go through 2009 and the contracts mature.
+It will a cash inflow of $8.2 million 2007: inflow $59.9 million.
+fix the exchange rate at which we record sterling In 2007, there was a substantial benefit from working denominated operating expenses at 1.93 for 2009.
+The capital movements in the year, mainly due to timing of future liability will depend upon the differential between purchases from subcontractors and receipt of cash current exchange rates, and those rates committed as from customers at the 2007 year end, compared to the part of our hedging portfolio.
+We continue to put in place 2006 year end.
+This pattern was not repeated in 2008. forward contracts for our forecast sterling expenditures 11-15 months in advance.
+Cash outflows on acquisitions of $11.7 million in 2008 related to payments of deferred consideration on the Liquidity and capital resources NordNav acquisition and the repayment of the loan Our primary source of liquidity is our cash flow from notes related to the CPS acquisition.
+At present we do not rely on third party financing for any operational cash requirements.
+During 2008, there was a cash outflow of $20.2 million for the purchase of shares in CSR plc by the CSR Employee Benefit Trust 2007: $20.0 million.
+csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued Capital expenditure As at 2 January 2009, contracts were in place which 28 The table below summarises additions to fixed assets gave us an average GBP:USD exchange rate for 2009 in our last two fiscal years.
+The amounts differ from the of 1.93 2008: 1.98.
+This means that GBP expenditures cash outflow on capital expenditure due to movements will cost around 2.5% less in USD terms in 2009. in payables and accruals.
+53 weeks 52 weeks The fair value liability of the contracts in place as at ended ended 2 January 2009 was $32.1 million, of which $25.3 2 January 28 December 2009 2007 million of the related expense was deferred in reserves $ Million $ Million % change in the hedging reserve.
+The difference of $6.8 million Other intangible assets 3.8 7.1 46.9 has already impacted the income statement $3.3 Property, plant and equipment 19.3 24.6 21.7 million was recorded as part of the restructuring 23.1 31.7 27.3 charge, as this related to forward contracts no longer required following the cost reduction exercises.
+The Our capital expenditures declined by 27.3% from 2007 remaining difference of $3.5 million had been recorded to 2008. as expense in the income statement as the related transactions had been recorded.
+In order to reduce manufacturing costs, and to secure sufficient testing capacity, we purchase production test Dividend policy equipment and consign it to our subcontractors sites in We do not intend to pay a dividend for the foreseeable Taiwan.
+We own 18 consigned production testers each future.
+We currently intend to retain future earnings to costing around $1.5 million when purchased.
+In 2008, we fund the development and growth of our business.
+purchased three additional testers 2007: three testers.
+Any future payment of dividends will be at the discretion of the Board, after taking into account various factors, During 2007, capital expenditure was particularly high including our financial condition, operating results, as we expanded into a new office in Cambridge, current and anticipated cash needs and plans for incurring significant fit out costs.
+$2.9 million in the aggregate, and did not recur in 2008.
+Capital management and treasury policy Due to current economic conditions, capital Our policy is to maintain a strong capital base so as to expenditures are planned to be substantially lower maintain investor, creditor and market confidence as in 2009. well as to sustain future development of the business.
+Taxation and financing Our main forms of liquid investments at 2 January 2009 Net tax paid in 2008 was $30.0 million 2007: $29.8 were bank and money market deposits.
+million, the majority of which was incurred in prior periods.
+As described above, we would expect cash We intend to reinvest cash balances in the business outflows from taxation to be lower in 2009.
+There was a either through higher levels of investment in working cash inflow from financing of $1.2 million principally due capital and fixed assets or through M&A activity, to to the proceeds on issues of shares 2007: outflow of support the long-term ambitions of the Company.
+The issued share capital at 2 January 2009 was Hedge accounting 132,890,821 ordinary shares of 0.1 pence each Substantially all sales and costs of sales are 2007:132,073,576.
+As a result of the funds raised denominated in US dollars, our functional currency.
+through the initial public offering of CSR plc in March Approximately 40% of operating costs are denominated 2004 and our subsequent positive operating cash flows, in Sterling.
+we had a total of $261.9 million of treasury deposits, cash and cash equivalents at 2 January 2009, an In order to reduce the volatility of our earnings due to increase of 7% from the $245.4 million we held in those exchange rate fluctuations, we enter into forward foreign accounts at 28 December 2007. exchange contracts to fix an exchange rate for our future Sterling-denominated expenditures.
+We commit to Neither CSR plc nor any of its subsidiaries are subject forward contracts between 11 and 15 months in to any externally imposed capital requirements.
+advance, in accordance with our treasury policy.
+These contracts are accounted for as cash flow hedges and We hold our cash and liquid investments in accordance will not affect profit or loss until the period in which the with the counterparty and settlement risk limits of the related transaction is recorded or we conclude that it Board approved treasury policy.
+We maintain a policy is no longer probable that the hedged transaction will in the placement of cash deposits and investments with occur.
+They also form hedges against exchange gains counterparties such that at any one time cash is placed or losses on the related Sterling liabilities.
+with at least three approved financial institutions.
+No counterparty with a credit rating of less than Aa3 will be approved.
+We have well defined and consistently applied policies for the management of foreign exchange and interest rate exposures.
+csr plc annual report and financial statements 2008 The finance and treasury functions increased the The level of inventory provisioning required is sensitive 29 frequency of their review of the financial stability and to changes in the forecast sales of particular products associated risk of the counterparties used as the level which is dependent on changes in conditions in our of financial market risk has increased during the year.
+If changes in actual market conditions are The Companys internal auditor reviews the internal less favourable than those we project, additional control environment regularly.
+inventory provisions may be required: similarly if changes in actual market conditions are more The Audit Committee of the Board reviews and agrees favourable than we predict, we may be able to policies for managing foreign exchange and interest release a proportion of the inventory provision.
+The principal risks and uncertainties to which the Group is subject are discussed on pages The carrying amount of inventory at 2 January 2009 35 to 37. was $66.2 million 28 December 2007: $77.3 million.
+CSR Employee Benefit Trust EBT Goodwill and intangible assets From time to time, the CSR Employee Benefit Trust Goodwill represents the excess of the fair value of the purchases shares in CSR plc in the stock market: the consideration paid on acquisition of a business over timing of these purchases depends on market prices.
+the fair value of the assets, including any intangible The shares are intended to be used for satisfying our assets identified and liabilities acquired.
+At 2 January obligations to deliver shares under our share option 2009, the carrying amount of goodwill was $106.3 programmes, thereby reducing dilution and pressure million 28 December 2007: $144.2 million.
+Goodwill is not amortised but is instead tested for During 2008, the EBT purchased 3,222,813 ordinary impairment at least annually.
+Annual impairment reviews shares in CSR plc 2007: 1,466,767 for a total cash in 2008 and 2007 determined, primarily with reference consideration of $20.2 million.
+to cash flow forecasts, that there was no indication of impairment with respect to goodwill.
+Critical accounting policies and estimates Our significant accounting policies and estimates are Identifiable intangible assets acquired as part of a described in Notes 3 and 4 to the Consolidated Financial business combination are capitalised and amortised Statements.
+We believe that our most critical accounting over an estimate of the time that the Group expects to policies include impairment of purchased goodwill and benefit from them.
+This is currently over periods intangible assets, inventory valuation, provisions for between four and five years.
+returns and warranty claims, revenue recognition, accounting for income taxes and accounting for During 2008, a non-cash impairment charge of share-based payments.
+$52.9 million was recorded including $36.9 million of goodwill, $9.6 million of acquired intangible assets The preparation of these financial statements requires and $6.4 million of other assets.
+This resulted from the us to make estimates and judgements that affect the decision to discontinue investment in the UbiNetics reported amount of assets, liabilities, revenue and protocol software development programme following expenses, and related disclosure of contingent assets the recommendations of the operational assessment.
+On an ongoing basis, we evaluate estimates, including those related to uncollectable During the assessment, we looked at our market in accounts receivable, inventories, investments, intangible great detail and consulted widely to review the assets, income taxes, financing operations, warranty opportunities for winning in the global market for obligations and contingencies and litigation.
+We undertook in-depth discussions estimates are based on historical experience and on with our customers on all continents, and asked the various other assumptions that we believe to be leading customers where they anticipated the most reasonable under the circumstances, the results of growth.
+We also carried out an analysis of our own which form the basis for making the judgements about capabilities and identified strengths and weaknesses the carrying values of assets and liabilities that are not to determine our future strategy.
+readily apparent from other sources.
+Because this can vary in each situation, actual results may differ from the The impairment was charged to administrative estimates under different assumptions and conditions.
+expenses in the consolidated income statement and includes $36.9 million in relation to goodwill arising on Inventory valuation the acquisition of UbiNetics VPT Limited, $9.6 million Inventories are stated at the lower of cost and net for acquisition related intangible assets and $6.4 million realisable value.
+Provisions for excess or obsolete for certain tangible and intangible fixed assets which are inventory are recorded based upon assumptions about no longer required for ongoing development activities.
+future demand and market conditions.
+We assess the carrying value of identifiable intangible csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued assets, long-lived assets and goodwill annually, or more Our warranty provision is established based upon our 30 frequently if events or changes in circumstances indicate best estimates of the amounts necessary to settle future that such carrying value may not be recoverable.
+Factors and existing claims on products sold as of the balance we consider important, which could trigger an sheet date.
+As we continuously introduce new products impairment review, include the following: which incorporate complex technology, and as local laws, regulations and practices may change, it will significant underperformance relative to historical or continue to be difficult to anticipate our failure rates, projected future results: the length of warranty periods and repair costs.
+While we believe that our warranty provisions are adequate and significant changes in the manner of our use of the that the judgements applied are appropriate, the ultimate acquired assets or the strategy for our overall business: cost of product warranty could differ materially from and our estimates.
+When the actual warranty cost of our products is lower than we originally anticipated, we significantly negative industry or economic trends.
+release an appropriate proportion of the provision, and if the warranty cost is higher than anticipated, we increase When we determine that the carrying value of intangible the provision.
+assets, long-lived assets or goodwill may not be recoverable based upon the existence of one or more The carrying amount of the provision at 2 January 2009 of the above indicators of impairment, we measure any was $2.8 million 28 December 2007: $2.1 million.
+impairment based on discounted projected cash flows.
+Accounting for share-based payments This review is based upon our projections of anticipated Share options granted before 7 November 2002 or discounted future cash flows.
+The most significant granted after 7 November 2002 and vested before variables in determining cash flows are discount rates, 1 January 2005. terminal values, the number of years on which to base No expense is recognised in respect of these options.
+the cash flow projections, as well as the assumptions The shares are recognised when the options are and estimates used to determine the cash inflows and exercised and the proceeds received and allocated outflows.
+Management determines discount rates to be between share capital and share premium.
+used based on the risk inherent in the related activitys current business model and industry comparisons.
+Share options and awards granted after 7 November Terminal values are based on the expected life of 2002 and vested after 1 January 2005 products and forecasted life cycle and forecasted cash IFRS 2 Share-based payments is effective in respect flows over that period.
+While we believe that our of options and share awards granted after 7 November assumptions are appropriate, such amounts estimated 2002 and which had not vested as at 1 January 2005. could differ materially from what will actually occur in the We issue equity-settled share-based payments to future.
+In assessing goodwill, these discounted cash certain employees.
+Equity settled share-based flows are prepared at a cash-generating unit level.
+payments are measured at the fair value at the date of Amounts estimated could differ materially from what will grant.
+The fair value determined at the grant date of the actually occur in the future.
+equity-settled share-based payments is expensed on a straight-line basis over the vesting period, based on our Note 13 to the Consolidated Financial Statements estimate of the number of share options that will provides further disclosures on the assumptions eventually vest.
+The fair value of the majority of options underlying the impairment review and the allocation granted is measured by use of a Black-Scholes model, of goodwill by reportable segments.
+taking into account the terms and conditions upon which the options were granted.
+For certain share awards Provisions for returns and warranty claims which include total shareholder return related conditions, We provide for the estimated cost of returns and product the fair value is estimated through the use of a Montewarranties at the time revenue is recognised.
+products are covered by product warranty plans of varying periods, depending on local practices and The amount recognised as an expense is adjusted regulations.
+While we engage in extensive product to reflect the actual number of shares that vest.
+Nonquality programmes and processes, including actively market vesting conditions are included in assumptions monitoring and evaluating the quality of our component about the number of shares that are expected to suppliers, our warranty obligations are affected by actual become exercisable.
+The estimates of the number of product failure rates field failure rates and by material share options and awards that are expected to become usage and service delivery costs incurred in correcting exercisable are reviewed at each balance sheet date.
+The impact of the revision of original estimates, if any, is recognised in the income statement and a corresponding adjustment to equity.
+The proceeds received net of any directly attributable transaction costs are credited to share capital nominal value and share premium the balance when the option or awards are exercised.
+csr plc annual report and financial statements 2008 In 2008, $7.6 million of share-based compensation The Group estimates its income taxes in each of the 31 expense was recognised 2007: $9.3 million.
+jurisdictions in which it operates.
+This process involves estimating its current tax liability together with assessing Share options and taxation temporary differences resulting from differing treatment In the UK and US we are entitled to a tax deduction for of items for tax and accounting purposes.
+These amounts treated as compensation on exercise of certain differences result in the recognition of deferred tax employees share options under each jurisdictions tax assets and liabilities, which are included within the rules.
+This gives rise to a temporary difference between Consolidated Balance Sheet deferred tax assets are the accounting and tax bases and hence a deferred tax only included to the extent that we believe they are asset is recorded.
+This asset is calculated by comparing recoverable.
+the estimated amount of tax deduction to be obtained in the future based on the share price at the balance sheet In recognising deferred tax assets, the Group considers date with the share-based payment expense recorded profit forecasts including the effect of exchange rate in the income statement.
+If the amount of estimated fluctuations on sales and external market conditions.
+future tax deduction exceeds the cumulative amount Where it is probable that a position may be successfully of share-based payment expense at the statutory rate, challenged by revenue authorities, a tax provision is the excess is recorded directly in equity, against created for the tax on the probable adjustment.
+Managements judgement is required in determining the provision for income taxes, deferred tax assets and As explained above, no share-based payment expense liabilities.
+Deferred tax assets have been recognised is recorded in respect of options granted before where management believes there are sufficient taxable 7 November 2002.
+Nevertheless, tax deductions have temporary differences or convincing other evidence that arisen and will continue to arise on these options.
+The sufficient taxable profit will be available in future to tax effects in relation to these options are recorded realise deferred tax assets.
+directly in equity against retained earnings.
+Although the deferred tax assets which have been Note 31 to the Consolidated Financial Statements recognised are considered realisable, actual amounts provides details on the valuation assumptions made could be reduced if future taxable income is lower than for each grants of share options and awards during expected.
+This can materially affect our reported net the period.
+Revenue recognition Hedge accounting for financial instruments Sales are recognised when the significant risks and The financial instruments that are used in hedging rewards of ownership have transferred to the buyer, transactions are assessed both at inception and continuing managerial involvement usually associated quarterly thereafter to ensure they are effective in with ownership and effective control have ceased, the offsetting changes in, or cash flows of, the related amount of revenue can be measured reliably, it is underlying exposures.
+Hedge accounting is used probable that economic benefits associated with the for foreign currency risk exposures and for firm transaction will flow to the Group and the costs incurred commitments to hedge foreign currency risk exposures.
+or to be incurred in respect of the transaction can be Managements judgement is required to determine measured reliably.
+whether a future transaction is probable.
+External market data is applied in measuring the hedge This requires us to assess at the point of delivery effectiveness of financial instruments.
+Hedge whether these criteria have been met.
+When ineffectiveness is recognised immediately in the income management determines that such criteria have been statement.
+Refer to note 18 of the Consolidated met, revenue is recognised.
+We record estimated Financial Statements for details of the hedging reductions to revenue for pricing agreements, price relationships as well as the impact of the hedge protection and other volume based rebates.
+Estimated on the pre-tax profit or loss for the period.
+sales adjustments for volume based discount programmes are based largely on shipment information.
+Production process and supply chain Currently, the majority of manufacturing is located Income taxes in Taiwan to minimise production cycle time and We are subject to the income tax laws of the various tax inventory, simplify logistics and to take advantage of jurisdictions in which we operate, principally the United a common language and culture.
+We use five different Kingdom.
+These laws are complex and subject to TSMC wafer fabrication sites in Taiwan, including two different interpretations by taxpayers and tax authorities.
+12 wafer facilities allowing us to achieve dual sourcing When establishing income tax provisions, we therefore objectives, along with geographical separation of make a number of judgements and interpretations about manufacturing sites.
+the application and interaction of these laws.
+Changes in these tax laws or our interpretations of these laws and the resolution of future tax audits could significantly impact our effective tax rate and the results of operations in a given period.
+csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued During 2008, we increased our assembly and test We have remuneration packages that are regularly 32 capability by adding ASE Shanghai in China to our benchmarked against companies competing in our existing production base across two ASE sites in Taiwan.
+sector and have developed incentives that are aligned By increasing sourcing options, we are better placed to to our business delivery and commercial goals.
+We were deal with any unplanned interruptions at any single also one of the first UK businesses to be awarded a location and to respond to changes in demand.
+Grade A Certificate of sponsorship licence granted by the Home Office which is now required for the Our relationships with TSMC and ASE provide us with employment of foreign nationals in the UK.
+leading-edge manufacturing technology and strong support in satisfying capacity requirements and We remain committed to providing our employees with controlling costs.
+We have successfully shipped over a workplace that not only encourages excellence in their one and a quarter billion Bluetooth single chip devices performance but also engenders well being and lifetime to date, whilst aggressive cost management has personal satisfaction.
+In March 2008 we launched a ensured that as product selling prices come down, the global employee engagement survey for the first time.
+cost of production of those devices decreases at a We had an exceptional response rate of 89%, which similar rate.
+This quality of the production process demonstrates the genuine commitment we have from encourages adoption of our technology in the products our employees.
+The feedback from the survey has been of current and potential customers.
+The results showed us that people generally enjoy their jobs: get a sense of personal We extended our IC test strategy during 2008, with a accomplishment and develop their skills: we have further three Teradyne Flex Testers consigned to ASE great managers who are trusted by their teams and production sites in Taiwan.
+This strategy has been close to the workload.
+Overall our people would effective in reducing production costs and avoiding recommend CSR as a good place to work and are capacity issues.
+Employees The engagement survey also highlighted the things we Headcount has decreased from 1,062 at the end of 2007 can do better and one key area of feedback was a need to 975 at the end of 2008: a reduction of 8%.
+This was to further enhance employee communication.
+Effective primarily due to implementation in the final quarter of communication has been a real focus area and following 2008 of headcount reductions in response to the global the survey we introduced a global employee financial and economic downturn experienced in the e-newsletter.
+The newsletter includes contributions from latter part of 2008 discussed elsewhere in this report.
+various departments, reporting on their current activities The headcount reductions were implemented following which provides employees with useful up-dates on key careful consideration of the long term strategic developments.
+The revised format has been positively objectives and shorter term targets for 2009 in received and generates a valuable exchange of views conjunction with operational management to ensure and ideas across the Company.
+This in turn benefits our that core projects remain adequately resourced.
+Our employees play a critical part in our success and the The Companys intranet has also undergone a review current challenging economic environment does not with the intention of further enhancements for fast and alter the importance which the Company attaches to effective employee communication during 2009.
+To creating a high performance working environment which optimise the benefits from these initiatives, a global allows our people to reach their full potential in a highly training programme has been put in place to support all technical and innovative arena.
+In addition during 2008, reflecting employee feedback, we introduced a global Group We actively review and develop our people and presentation on key developments which is open to all performance processes to ensure that, in a sector where employees worldwide.
+The event is staged in Cambridge international talent is key to success, our focus is on how and broadcast in real time to each of our international to attract, retain and inspire the very best people to locations.
+This allows all employees to receive deliver innovative solutions for our customers.
+information on their Company and also encourages questions and feedback, with each of our offices We invest in providing competitive benefits packages provided with the opportunity to contribute via telephone that support this objective, recognising that we compete conferencing.
+The presentation is held once every six in a global market.
+We seek to offer, where possible months and its implementation has received positive flexible benefits that allow our employees to tailor their feedback, providing our employees a clear compensation arrangements to suit them.
+In 2008, understanding of our strategy and immediate objectives we received the Professional Pensions Award 2007 for and the opportunity to exchange views and ideas.
+the quality of our interactive website which explained options available to employees for setting up and then maintaining their personal pension plan online.
+csr plc annual report and financial statements 2008 We invest in training and career progression to support We have a Health, Safety and Environmental Committee 33 the individual in their career development, benefit our which meets regularly and is chaired by the Group customers in the quality of service and enable us to Facilities Manager, who is also the senior health and remain a world leading provider of wireless connectivity safety manager for the Group.
+Our Health, Safety, and solutions.
+The Company promotes and supports Environmental policies are available to all employees individuals and teams through both on-the-job and on our intranet site as are the minutes of the HSE formal training.
+Committee and current HSE initiatives.
+Current initiatives are explained below.
+We also recognise our responsibilities to ensure fair treatment of all employees in accordance with national During 2008 the development of a formal health and legislation in the territories in which we operate.
+safety programme across overseas locations was Equal opportunities for appropriate training, career initiated with visits by the senior health and safety development and promotion are available to all manager to several of our offices in Europe.
+This is an employees, regardless of any physical disability, gender, ongoing programme to assess existing measures religion, race or nationality.
+In particular, having regard around health and safety management at each of to their aptitudes and abilities, we give full and fair our international locations and ensure appropriate consideration to applications for employment received procedures and practices are in place.
+The visits from disabled persons.
+Provisions for pensions are undertook a base line assessment of health and safety available for all employees either through participation standards and management in addition to providing in the state pension schemes operated by the country in training on basic practices.
+This was augmented by which the employee is resident or provision of a defined guidance on establishing or improving on current local contribution pension scheme.
+Such defined contribution policies by reference to both local law and best practice schemes are maintained in accordance with legislative within the Group.
+Each of our European and US offices requirements, custom and practice and Group policy now has a designated point of contact on health and as appropriate.
+safety matters, responsible for implementation and monitoring compliance with the policies and for Social responsibility reporting events or breach of practice to the senior We recognise the importance of social, environmental health and safety manager.
+Further visits to overseas and ethical SEE matters and during 2008, continued locations are scheduled for 2009. to work towards compliance with the ABI disclosure guidelines on social responsibility.
+This includes the Going forward, in addition to the existing quality impact through our operations on the environment, on assurance audits which are carried out as an integral the safety and well being of our employees, and end part of the Companys ISO 14001 and OHSAS 18001 users of our products as well as those who contribute certification, the Internal Auditor will, as part of the to the process of the development and manufacture of planned internal audit programme assess compliance our products through our suppliers, distributors and by each office with established health and safety policies customers.
+and procedures and report on findings to the senior health and safety manager, executive management The Company expects the highest of ethical standards and the Audit Committee.
+of all its employees and its policies and procedures support its stated aim of acting with integrity in all The executive director with responsibility for the aspects of its operations.
+Groups Environmental Management System EMS is Mr Chris Ladas, Operations Director.
+The EMS, which SEE matters are considered an integral part of the has the support of the Board, has been developed philosophy of the Company, and the Board and its reflecting our existing low eco-footprint, with all committees receive reports as part of its routine employees working in office based environments, whilst business on aspects of SEE issues in addition to such recognising that high standards should be established other reports from those directors responsible for such and maintained across all aspects of our operations.
+matters as may be appropriate from time to time.
+The ongoing management of EMS is overseen by a team incorporating managers responsible for Facilities, From the time of his appointment in June 2008, the Business Management Systems and Quality Assurance.
+Board director responsible for health and safety matters was Will Gardiner, Chief Financial Officer.
+Mr Gardiner During 2008, surveillance visits by representatives of met on a number of occasions with those who manage Lloyds Register Quality Assurance were completed at the Companys health and safety issues including the the Companys UK facilities to review existing ISO 14001 Chair of the Health, Safety and Environmental HSE and OHSAS 18001 registrations.
+An annual report is presented to the Board satisfactorily and the Companys recertification covering health and safety matters, which includes assessment is scheduled for June 2009. statistics on accidents and incidents, progress against targets from the previous period and objectives for the next year.
+csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued Certification requires that we have an Environmental During 2007 we had reduced by 31% of total waste 34 Management System EMS which defines the produced the amount of material going to landfill and environmental policy of the Group and sets objectives had introduced processes which enabled us to measure intended to drive continuous improvements in both the amount of waste produced and the amount environmental awareness and practices.
+These steps enabled us to determine that for 2008 as a whole, whilst the overall Our environmental policy includes commitments to: amount of waste produced increased by 16% to 2,234,000 litres the total amount of waste going to employee consultation and training the landfill has only increased by 1% and waste being recycled has increased from 31% to 40% or 895,940 assessment of our activities and product related litres.
+This percentage increase in waste sent for environmental impacts to identify targets for recycling matched the target set at the commencement continuous improvement and of 2008. legal compliance and due consideration of other Utilising the statistics which we have available, we have stakeholder environmental requirements.
+established two objectives for 2009 linked to waste production and recycling.
+The main objective for 2009 is We believe that CSR is taking considerable steps to to tackle our waste at source by finding ways in which we contribute to sound environmental practices, covering can prevent potential waste from coming on to site in the not only the manufacture and supply of its products but first place.
+The second quantitative objective is to also positive measures to establish and build on good increase the amount of waste going to recycling to 50%.
+working practices within its various office locations.
+We believe this represents a stretching target beyond the achievements already made in recent years.
+To facilitate As part of ongoing employee consultation and training, this, in early 2009 we created designated recycling areas during 2008 we extended the UK based awareness throughout our UK premises.
+These have information campaign aimed at encouraging employees to consider and storage bins that enable employees to dispose of ways in which their daily working practices could be different materials according to categories of waste altered to reduce consumption of energy or other types.
+This, in addition to other measures to be materials.
+introduced and continued awareness and training programmes are expected to contribute to meeting the This included encouraging employees to take ownership 2009 recycling target.
+for their own office area for saving on electricity by turning off idle monitors and all photocopiers at the We continue to employ IT technology to support existing end of the day and switching off unnecessary lighting.
+energy efficiencies whilst still providing state of the art As part of the Carbon Reduction Commitment research facilities and data storage capacity.
+During programme, early in 2009 we started a programme 2008, we identified the potential to utilise leading edge of research using Owl meters to measure what areas video and audio conferencing facilities that will be rolled and or particular types of equipment, processes or out across our international locations as a planned procedures consume the most energy.
+This data will programme to improve operational efficiencies, whilst be used to identify potential improvements in working also significantly reducing our overseas travel.
+The new practices or changes in equipment which could support measures are expected to reduce international travel by reductions in energy consumption.
+up to 25% which provides cost savings as well as reducing the Companys carbon footprint.
+Continuing the 2007 focus on safeguarding forestry, all photocopiers now default to double sided printing which An ongoing objective is to optimise the use of greener has significantly reduced the consumption of paper.
+This materials in our end products.
+We are committed to is in addition to our switch to the use of recycled paper developing and supplying products which meet the which was extended across all UK sites in 2008. highest standards as regards minimising the use of hazardous substances.
+CSRs products are Action taken to reduce water consumption through the manufactured and packaged in a variety of forms.
+use of hogs in water cisterns and spray taps in the first Most of these products are already manufactured quarter of 2008 has resulted in a decrease in water according to CSRs own green standards.
+The green consumption by approximately 29 cubic meters of water standards have been developed by CSR as part of per month.
+Planned preventative maintenance regimes continual engagement with leading global companies have been improved and staff awareness has increased who are customers of CSR and also with the support to identify leaks and dripping taps so that prompt action of our suppliers.
+CSRs green standards therefore reflect can be taken to rectify.
+not only internationally recognised guidelines but also the feedback of our customers, whose requirements We remain committed to finding ways in which we can frequently exceed the minimum conditions set by develop further the recycling of spent materials.
+As a result of continuous improvement in this area, from 2009 all new product releases across all packaged forms will comply with csr plc annual report and financial statements 2008 the Companys green standard, which we believe During 2008, a review of product environmental 35 represents best practice within the semiconductor compliance was conducted by CSRs Supplier Audit industry.
+This confirmed that current certifications to the recognised standards mentioned We have dedicated internal resource which assists in above were being maintained.
+The review also the development of all new products and the review considered TSMCs wider HSE policies and of existing product lines targeting the use of greener management systems in connection with CSRs materials.
+Part of their role is to monitor established and requirements.
+The results of this assessment were pending legislation and standards published by national reported to CSR management which concluded that and international governments and agencies and to TSMC complied with CSRs requirements.
+ensure that we are proactive in going beyond the minimum requirements in our compliance with the The Company is aware of the introduction of the Carbon types and quantities of materials used.
+Reduction Commitment which is due in 2010, and such preparatory work as is possible has already been In this respect we work closely with both customers and undertaken in readiness for its implementation.
+suppliers in developing products which reduce the use of hazardous materials, and through testing and Based on the extent of the Companys ongoing certification ensures ongoing compliance.
+engagement with health, safety and environmental matters the Board is satisfied that there are no significant For example, in preparation for the introduction of the risks affecting its strategic objectives or the long or short EU Directive REACH Registration, Evaluation, and term value of the Group.
+Authorisation of Chemicals which concerns the use of hazardous chemicals, questionnaires were sent to Principal risks and uncertainties our key suppliers to assess compliance with the new There are a number of potential risks and uncertainties standards.
+Based on the replies, we are satisfied that our which could adversely impact our long term suppliers have appropriate awareness of the REACH performance: Directive and that the Directive will not impact CSRs standard integrated circuits.
+Our standard integrated Current severe economic conditions may adversely circuits are fully compliant with all existing European affect our financial performance legislation, including RoHS, as well as in other territories Our products are predominantly supplied for adoption where equivalent legislation has been introduced.
+into devices intended for the consumer market.
+If current depressed economic conditions persist or worsen, In addition to procedures that establish and monitor demand levels for our customers products, and compliance, we have processes in place to make sure therefore our products, are likely to be adversely that customers are supported with up to date materials affected.
+A continued economic downturn is likely to information and laboratory analysis to validate the adversely affect our key customers and suppliers, thus in environmental compliance of our products.
+turn affecting our own results of operations and financial condition.
+In addition, although we do not rely upon We have considered the implications on our products banks for financing, turmoil in the financial markets has of the European Waste from Electrical and Electronic exposed us to the risk of the failure any of the banks Equipment WEEE Directive which came into effect in where we deposit our cash balances.
+2007 and we are satisfied that for our principal business of the supply of integrated circuits, the WEEE Directive Our fabless business model exposes us to risks does not directly apply.
+Where the Directive does apply associated with our suppliers in limited circumstances is in the supply to third parties We use independent suppliers to manufacture, of development kits and certain modules intended to assemble and test all of our products.
+We are therefore support potential customers in the development of their reliant on these independent suppliers to provide the products.
+Whilst this represents a small part of our required capacity to manufacture, assemble and test all operations, the impact of the Directive has been products and to provide high quality products on time.
+assessed and measures to comply with the Directive Any interruptions in manufacturing or testing at supplier have been implemented.
+sites, for example earthquake, natural disaster or geopolitical instability, shortage of materials or failures We recognise the importance of ensuring that our key in their own suppliers, material financial troubles suppliers have appropriate policies and practices on experienced by our suppliers, or quality problems at SEE matters.
+Key manufacturing partners are selected their sites which could result in lower yields of suitable and assessed based on certification to appropriate integrated circuits or returns of products which fail to globally recognised standards such as ISO 14001, perform to the specification, could have a material OHSAS 18001 and SA 8000.
+Audits of their operations adverse impact on the business.
+are undertaken regularly to ensure that appropriate standards and certification exists.
+csr plc annual report and financial statements 2008 DIRECTORS REPORT BUSINESS REVIEW continued The length of our product design cycle We are subject to the risk of declining prices 36 exposes us to risks and volumes on sales of existing products The design cycle for our ICs in Bluetooth enabled The life cycle of our ICs can be relatively short.
+Through products can take up to 24 months to complete, and the life cycle, sales may initially increase, but then decline achieving volume production of products using our ICs as new, superior products become available.
+can take an additional six months or more.
+This lengthy The average selling prices of our ICs will generally fall design cycle makes it difficult to forecast product over the products life cycle.
+As a result, we are subject to demand and the timing of orders, and exposes us the risk that prices, margins and volumes of our existing to the risk that orders will not ultimately materialise in products will fall, and we will not have replacement accordance with expectations.
+In addition, the delays products to counteract the resulting decline in revenues.
+inherent in lengthy design cycles increase the risk that our customers may seek to cancel or modify orders.
+Our business is highly cyclical The semiconductor industry is highly cyclical and has We may suffer delays or experience problems experienced significant downturns, often in connection in the introduction of new products with maturing products and declines in general Our products are complex and may contain undetected economic conditions.
+Such downturns have reflected hardware and software errors or failures when first production overcapacity, excess inventory levels and introduced or as new versions are tested.
+The resolution accelerated erosion in average selling prices.
+of these errors could cause us to invest significant capital and other resources and divert technical staff We may fail to develop new revenue sources or fail from other development efforts.
+If our introduction of to secure new orders with our new technologies products is delayed, our ability to compete and maintain We currently derive most of our revenue from sales of market share may be materially harmed.
+If we deliver our Bluetooth-based products.
+We would be materially products with errors, defects or bugs, our credibility adversely affected if Bluetooth were to decline as the and the market acceptance and sales of our products prevailing technology for short-range wireless could be harmed.
+Errors in hardware and software could communication.
+We continue to invest in the also result in customer warranty claims, resulting in development of next generation products, but our additional costs.
+future products may not achieve market acceptance.
+Bluetooth could be integrated into other Our future success is dependent upon our ability integrated circuits to develop new semiconductor solutions for existing The Bluetooth standard has evolved during its ten year and new markets, introduce these products in a existence and more technology has been added to the cost-effective and timely manner, and convince leading Bluetooth chips.
+However at the same time our ability to equipment manufacturers to select these products for optimise chip design and industry-wide manufacturing design into their own new products.
+Our success also improvements means the physical size of the Bluetoothdepends on the development of these markets and only function has been reduced.
+Although we believe adoption of the technologies by our customers.
+Bluetooth will continue to be used as an anchor point We cannot predict the adoption of these technologies around which to integrate other technology, if the or the growth rate, if any.
+If we are unsuccessful in Bluetooth function were ultimately integrated into one achieving these objectives our results of operations of the so-called cellular-chips in the phone, our business may be adversely affected.
+would be materially adversely affected.
+We are highly reliant upon the success There are risks associated with our transition of our customers products to smaller geometry process technologies We rely on equipment manufacturers to select our To remain competitive, we expect to continue to products to be designed into their products.
+Even if an transition our semiconductor products to increasingly equipment manufacturer selects our product, their smaller line width geometries.
+This transition requires product may not be commercially successful.
+As a modification to the manufacturing processes and the result, sales of our products are largely dependent on re-design of some products as well as standard cells the commercial success of our customers products.
+and other integrated circuit designs that may be used in multiple products.
+This may result in reduced We are subject to the risk of breakdowns in our systems manufacturing yields, delays in product deliveries and infrastructure and increased expenses.
+We are dependant on the continued availability and operational integrity of our computer systems.
+A material breakdown in our IT systems or major infrastructure systems would materially disrupt our operations, and could adversely affect our results.
+csr plc annual report and financial statements 2008 We may be unable to protect our intellectual property Changes to our senior management and inability to 37 Our success depends on our ability to protect our recruit and retain employees could negatively affect intellectual property and trade secrets.
+Third parties may our operations and relationships with manufacturers, attempt to copy aspects of our products and seek to use customers and employees information that we regard as proprietary.
+There is a risk Changes in our senior management could negatively that our means of protecting our intellectual property affect our operations and our relationships with our rights may not be adequate, and weaknesses or failures manufacturers, third-party subcontractors, customers, in this area could adversely affect our business.
+If the assimilation or departure of members of our senior management team We may be subject to claims that we infringe third party does not go as smoothly as anticipated, it could intellectual property rights negatively affect our business.
+Further, if we are unable Companies in the semiconductor industry often to attract and retain employees of the calibre required to aggressively protect and pursue their intellectual support the development of technically advanced and property rights.
+Other parties may assert intellectual complex products, our ability to achieve the Companys property infringement claims against us, and our strategy may be adversely affected and our financial products may infringe the intellectual property rights performance may be impaired.
+Claims against us could adversely affect our ability to market our products, require us to Management is constantly considering and reviewing re-design products or seek licences from third parties, risk.
+In addition, we have put in place formal processes and seriously harm our operating results.
+In addition, for the identification and, where possible, the the defence of such claims and any adverse settlement management of significant risks which are reviewed could result in significant costs and divert the attention regularly by senior management.
+This is formally of our management or other key employees.
+reported to the Audit Committee on a regular basis, As we diversify into different wireless technologies, as a result of which the directors are aware of the we may become more susceptible to these types of potential cost and resources involved in managing these infringement claims.
+Details on the identification and management of risks are also addressed on pages 44 and 45 in the We may fail to compete successfully in a very Corporate Governance Report.
+competitive market The market for our products is highly competitive and rapidly evolving.
+We are seeing increased competition Will Gardiner throughout the market for wireless connectivity Chief Financial Officer products.
+The increased competition could result in price reductions, reduced margins and or loss of market share.
+We may be unable to compete successfully against current or future competitors.
+Within each of our markets, we face competition from public and private companies, as well as our customers in-house design efforts.
+Many of our competitors have significantly greater financial, technical, manufacturing, marketing, sales and other resources than we do.
+We may fail to compete successfully, which would adversely affect our business and financial performance.
+We rely on a limited number of customers for a significant portion of our revenue We work with a broad range of customers across our product portfolio but a number of large customers represent a material portion of our total revenue.
+If we fail to meet schedules for the launch of new products or we fail to sell our products to one or more of these customers in any particular period, our revenue could decline materially and our operating results may be affected.
+We are also subject to the risk that one or more of these major customers are themselves adversely affected, which could result in a decline in our sales and financial performance.
+csr plc annual report and financial statements 2008

@@ -1,0 +1,450 @@
+Notes to the consolidated financial statements 1 Accounting policies General Imagination Technologies Group plc is a company incorporated in the UK.
+The Group financial statements consolidate those of the Company and its subsidiaries together referred to as the Group.
+Significant accounting policies Statement of compliance The Group financial statements have been prepared and approved by the directors in accordance with International Financial Reporting Standards as adopted by the EU Adopted IFRSs.
+The Group has elected to prepare its parent company financial statements in accordance with UK GAAP: these are presented on pages 144 to 148.
+Basis of preparation The accounting policies set out below have been applied consistently to all periods presented in these consolidated financial statements.
+The following additional accounting standards, amendments, and interpretations have been adopted in the period: IFRS 10 Consolidated Financial Statements, IFRS 11 Joint Arrangements and IFRS 12 Disclosure of Interests in Other Entities Investment Entities Amendments to IFRS 10, IFRS 12 and IAS 27 Offsetting Financial Assets and Financial Liabilities Amendments to IAS 32 Recoverable amount disclosures for non-financial assets Amendments to IAS 36 Continuing hedge accounting after derivative novations Amendments to IAS 39 The adoption of these standards, amendments and interpretations have not had a material effect on the financial statements.
+Judgements made by the directors in the application of these accounting policies that have significant effect on the financial statements and estimates with a significant risk of material adjustment in the next year are discussed below under Significant accounting judgements and estimates.
+Measurement convention The financial statements are prepared on the historical cost basis, except for investments which have been stated at fair value in accordance with IAS 39.
+Going concern After making enquiries, the directors have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future.
+Accordingly, they continue to adopt the going concern basis in preparing the Annual Report and financial statements.
+The Group has adequate financial resources together with long term contracts with a number of customers and suppliers across a range of consumer market segments and geographic areas.
+As a consequence, the directors believe that the Group is well placed to manage its business risks successfully in the current economic environment.
+Further information regarding the Groups business activities, together with the factors likely to affect its future development, performance and position is set out in the Chief Executives review on pages 32 to 41.
+Further information regarding the financial position of the Group, its cash flows, liquidity position and borrowing facilities are described in notes 12, 14 and 19.
+Financial report 107 | In addition, note 19 to the financial statements includes: the Groups objectives, policies and processes for managing its capital: its financial risk management objectives: details of its financial instruments and hedging activities: and its exposures to credit risk and liquidity risk.
+Basis of consolidation subsidiaries Subsidiaries are those entities controlled by the Group.
+Control exists when an investor is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee.
+In assessing control, potential voting rights that presently are exercisable or convertible are taken into account.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+Business combinations The Group has applied IFRS 3 Business Combinations revised 2008 in accounting for business combinations.
+Business combinations are accounted for using the acquisition method at the acquisition date, which is the date on which control is transferred to the Group.
+Control is the power to govern the financial and operating policies of an entity so as to obtain benefit from its activities.
+In assessing control, the Group takes into consideration potential voting rights that currently are exercisable, as well as other factors including board representation.
+The financial statements of subsidiaries are included in the consolidated financial statements from the date that control passes.
+The Group measures goodwill as the fair value of the consideration paid or payable less the net fair value of the identifiable assets, liabilities assumed and contingent liabilities acquired, all measured as of the acquisition date.
+The consideration transferred does not include amounts related to the settlement of pre-existing relationships.
+Such amounts are generally recognized in the income statement.
+Costs related to the acquisition, other than those associated with the issue of equity securities, that the Group incurs in connection with a business combination are expensed as incurred.
+Any contingent consideration payable is recognized at fair value at the acquisition date.
+If the contingent consideration is classified as equity, it is not remeasured and settlement is accounted for within equity.
+Otherwise, subsequent changes to the fair value of the contingent consideration are recognized in the income statement.
+Revenue Revenue comprises of: the value of consideration received for sales of licenses to the Groups technology, royalties arising from the resulting sale of licensees products embedded with the Groups technology, development income, support, maintenance, training, and the sale of goods.
+The Group follows the principles of IAS 18 Revenue recognition.
+Revenue associated with the sales of goods is recognized when all of the following conditions are satisfied: The Group has transferred the significant risks and rewards of ownership to the buyer: The Group retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold: The amount of revenue can be measured reliably: It is probable that the economic benefits associated with the transaction will flow into the Group: and The costs incurred and or to be incurred can be measured reliably.
+Revenue associated with the provision of services is recognized when all of the following conditions are satisfied: The amount of revenue can be measured reliably: It is probable that the economic benefits associated with the transaction will flow into the Group: 108 Financial report | The stage of completion of the transaction as at the end of the reporting period can be measured reliably: and The costs incurred, or to be incurred for the transaction can be measured reliably.
+Therefore, revenue from standard licenses is recognized on delivery to the customer, which is when it is considered the above conditions are met.
+Revenue on license agreements for products which are either not finished or which need to be modified to meet specific customer requirements is recognized on a  basis over the period from starting development of the product to delivery.
+The  is measured by monitoring progress compared with the total estimated project requirement.
+Progress is measured by an assessment of performance against key development milestones.
+Revenue associated with rights in license agreements to unspecified current and future products is recognized under a subscription accounting basis, on a straight-line basis over the term of the arrangement.
+Revenue on development work is recognized on a  basis over the period from the start of the development to delivery.
+Development work is normally invoiced as milestones are achieved.
+Where invoicing milestones on license or development arrangements are such that the proportion of work performed is greater than the proportion of the total contract value which has been invoiced, the Group evaluates whether it has obtained, through its performance to date, the right to the un-invoiced consideration and therefore whether revenue should be recognized.
+In particular it considers whether there is sufficient certainty that the invoice milestones will be achieved in the expected timeframe, that the customer considers that the Groups contractual obligations have been, or will be, fulfilled and that only those costs budgeted to be incurred will be incurred.
+Where the Group considers that there is insufficient evidence that it is probable that the economic benefits associated with the transaction will flow into the Group, taking into account these criteria, revenue is not recognized until there is sufficient evidence that it is probable that the economic benefits associated with the transaction will flow into the Group.
+Where an agreement involves several components, the total fee is allocated to individual components based on the fair value of the components.
+The fair value is assessed by reference to prices regularly charged for the components when sold separately, or if this cannot be used, then other factors may be considered, such as the excess of similar agreements over the charges of separately identifiable components.
+If the fair value of a component is not determinable, then the total fee is deferred until the fair value is determinable, or the component has been delivered to the customer.
+Where, in effect, two or more components of an agreement are linked and fair values cannot be allocated to the individual components, the revenue recognition criteria are applied to the components as if they were a single component.
+Revenue for maintenance is recognized on a straight-line basis over the period for which maintenance is contractually agreed with the licensee.
+The excess of license fees, development income and maintenance invoiced over revenue recognized is recorded as deferred income.
+Royalty revenues are earned on the sale by licensees of products containing the Groups technology.
+Revenues are recognized as they are earned to the extent that the Group has sufficient evidence of sales of products containing the Groups technology by licensees.
+Notification is generally received in the quarter following the shipment of the customers products.
+Revenues from the sale of goods are recognized upon delivery.
+Revenue is accounted for net of VAT, discounts and returns.
+Returns are recognized at the point at which the Group has adequate knowledge that products are likely to be returned by a customer.
+The above revenue recognition policy is applied consistently irrespective of whether or not the consideration received is in the form of cash or non-cash for example equity.
+As disclosed above, in accordance with IAS 8 Accounting policies, changes in accounting estimates and errors, the Group makes significant estimates in applying its revenue recognition policies.
+Estimates are made in particular, in regards to the Financial report 109 |  accounting method, which requires that the extent of progress towards completion of contracts may be anticipated with reasonable certainty.
+The use of this method is based on the assumption that, at the outset of license agreements, there is an insignificant risk that customer acceptance will not be obtained.
+The Group also makes assessments, based on prior experience, of the extent to which future milestone receipts represent a probable future economic benefit to the Group.
+The complexity of the estimation process and issues related to the assumptions, risks and uncertainties inherent with the application of the revenue recognition policies affect the amounts reported in the financial statements.
+If different assumptions were used, it is possible that different amounts would be reported in the financial statements.
+Research and development costs Costs of basic and applied research, and all development costs, are written off in the period in which they are incurred by the Group.
+Employee benefits The Group contributes to a defined contribution pension plan.
+Payments are charged to the income statement in the period to which they relate.
+Share-based payment transactions The share option programmes and the share incentive arrangements allow employees to acquire shares of the Company.
+The fair value of share incentives is recognized as an expense with a corresponding increase in equity.
+The fair value is measured at grant date and spread over the period during which the employee becomes unconditionally entitled to the share incentives.
+The fair value of the share incentives granted is measured using the Black-Scholes or Monte Carlo Simulation models.
+The amount recognized as an expense is adjusted to reflect the actual number of share incentives that vest except where forfeiture is due only to market-based performance conditions not meeting the threshold for vesting.
+Transactions of the Company-sponsored Employee Benefit Trust are included in the Groups consolidated financial statements.
+In particular, the Trusts purchase of shares in the Company is debited directly in equity to retained earnings.
+Taxation Tax on the profit or loss for the period comprises current and deferred tax.
+Tax is recognized in the income statement except to the extent that it relates to items recognized directly in equity, in which case it is recognized in equity.
+Current tax is the expected tax payable on the taxable income for the year, using tax rates enacted or substantively enacted at the balance sheet date, and any adjustment to tax payable in respect of previous years.
+Deferred tax is provided using the balance sheet liability method on any temporary differences between the carrying amounts for financial reporting purposes and those for taxation purposes.
+The amount of deferred tax provided is based on the expected manner of realization or settlement of the carrying amount of assets and liabilities using tax rates enacted or substantively enacted at the balance sheet date.
+Temporary differences on goodwill are not provided for as are not deductible for tax purposes.
+A deferred tax asset is recognized only to the extent that it is probable that future taxable profits will be available against which the asset can be utilized.
+Deferred tax assets are reduced to the extent that it is no longer possible that the related tax benefit will be realized.
+Foreign exchange Transactions in foreign currencies are translated to the respective functional currencies of Group entities at the rates of exchange ruling at the dates of the transactions.
+Monetary assets and liabilities denominated in foreign currencies are translated to the functional currency at rates of exchange ruling at the balance sheet date.
+Exchange gains and losses are taken to the income statement.
+On consolidation, results of foreign subsidiary undertakings are translated at the average rates of exchange for the year.
+The assets and liabilities are translated at rates ruling at the balance sheet date.
+Exchange differences arising from retranslation have been recognized directly in the statement of other comprehensive income.
+The presentational currency is GBP.
+110 Financial report | Segment reporting An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, including revenues and expenses that relate to transactions with any of the Groups other components.
+All operating segments operating results are reviewed regularly by the Board of directors to make decisions about resources to be allocated to the segment and assess its performance, and for which discrete financial information is available.
+Intangible assets Intangible assets are stated at cost of acquisition and amortized on a straight line basis over their estimated useful economic lives.
+The residual values of intangible assets are assumed to be nil.
+Useful economic lives are reviewed on an annual basis.
+When the Group makes an acquisition, management review the business and assets acquired to determine whether any intangible assets should be recognized separately from goodwill.
+Fair value of the intangible assets is assessed assuming a hypothetical market.
+The Group utilizes the income based approach when reliable future cash flows are available.
+Alternatively, the cost approach or market approach are utilized.
+The amortization rates applied are: Developed technology 5 to 10 years Customer relationships 10 years Trade names 15 years In process R&D 5 years once complete Software, patents & trademarks 2 to 5 years Trade investments Trade investments are classified as available for sale and are stated on the balance sheet at the fair value at the balance sheet date, with any gain or loss being recognized directly in the statement of comprehensive income.
+Impairment losses and gains or losses on initial recognition are recognized in the income statement.
+When these investments are derecognized, the cumulative gain or loss previously recognized directly in equity is recognized in the income statement.
+Where there has been more than one investment made in the same company, each tranche is assessed in isolation to calculate the movements in fair value.
+Impairment analysis is performed with reference to the initial cost or fair value of each shareholding.
+The fair value of unquoted investments is made by reference to recent funding rounds or, in the absence of the former, to a discounted cash-flow forecast.
+The Group is exposed to equity securities price risk on available for sale financial assets.
+As there can be no guarantee that there will be a future market for securities or that the value of such investments will rise, the directors evaluate each investment opportunity on its merits before committing the Groups funds.
+The directors review holdings in such companies on a regular basis to determine whether continued investment is in the best interests of the Group.
+Funds for such ventures are limited in order that the financial effect of any potential decline of the value of investments will not be substantial in the context of the Groups financial results.
+Further details of these investments and the valuation basis are detailed in note 9 and note 19.
+Goodwill Purchased goodwill representing the excess of the fair value of the consideration paid or payable over the net fair value of the identifiable assets, liabilities and contingent liabilities acquired arising on consolidation in respect of acquisitions is capitalized.
+Goodwill is allocated to cash generating units expected to benefit from the acquisition and is not amortized but tested annually for impairment.
+Any impairment is recognized immediately in the income statement and may not be subsequently reversed.
+Impairment testing is based on assets grouped at the lowest possible level at which goodwill is monitored for internal management purposes.
+Financial report 111 | On disposal of a subsidiary or business, the attributable goodwill is included in the determination of the profit or loss on disposal.
+Goodwill is stated on the balance sheet at cost less any accumulated impairment losses.
+Business combinations that took place prior to 1 April 2004 have not been re-stated and goodwill represents the amount recognized under the Groups previous accounting framework.
+Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and impairment losses.
+Property, plant and equipment are depreciated to write down their cost using the straight line method to their estimated residual values over the period of their estimated useful economic lives.
+Periodic reviews are made of estimated remaining useful economic lives and residual values, and the depreciation rates applied are: Freehold land No depreciation Freehold buildings 50 years Leasehold improvements Equally over the period of the lease Plant and equipment 3 to 10 years Motor vehicles 4 years Impairment a Non-financial assets Goodwill has an indefinite useful life, is not subject to amortization and is tested annually for impairment.
+Assets that are subject to amortization or depreciation are reviewed for impairment on an annual basis or whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+If any such condition exists, the recoverable amount of the asset is estimated in order to determine the extent, if any, of the impairment loss.
+Where the asset does not generate cash flows that are independent from other assets, estimates are made of the cash flows of the cash generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell, and value in use.
+In assessing value in use, estimated future cash flows are discounted to their present value using a discount rate appropriate to the specific asset or cash generating unit.
+If the recoverable amount of an asset or cash generating unit is estimated to be less than its carrying amount, the carrying value of the asset or cash generating unit is reduced to its recoverable amount.
+Impairment losses are recognized immediately in the income statement.
+In respect of assets other than goodwill, an impairment loss is reversed if there has been a change in the estimates used to determine the recoverable amount.
+An impairment loss is reversed only to the extent that the assets carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortization, if no impairment loss had been recognized.
+Impairment losses in respect of goodwill are not reversed.
+b Financial assets A financial asset is considered to be impaired if objective evidence indicates that one or more events have had a negative effect on the estimated future cash flows of that asset.
+An impairment loss in respect of a financial asset measured at amortized cost is calculated as the difference between its carrying amount, and the present value of the estimated future cash flows discounted at the original effective interest rate.
+An impairment loss in respect of an available-for-sale financial asset is calculated by reference to its current fair value.
+Individually significant financial assets are tested for impairment on an individual basis.
+The remaining financial assets are assessed collectively in groups that share similar credit risk characteristics.
+All impairment losses are recognized in the income statement.
+Any cumulative gain or loss in respect of an available-for-sale financial asset recognized previously in equity is transferred to the income statement.
+112 Financial report | An impairment loss is reversed if the reversal can be related objectively to an event occurring after the impairment loss was recognized.
+For financial assets measured at amortized cost and available-for-sale financial assets that are debt securities, the reversal is recognized in profit or loss.
+For available-for-sale financial assets that are equity securities, the reversal is recognized directly in equity.
+Derivative financial instruments Currency exchange contracts are utilized to manage the exchange risk on actual transactions related to accounts receivable, denominated in a currency other than the functional currency of the business.
+These currency exchange contracts do not subject the Group to risk from exchange rate movements because the gains and losses on such contracts offset losses and gains, respectively, on the transactions being hedged.
+The currency exchange contracts and related accounts receivable are recorded at fair value at each period end.
+The fair value of forward exchange contracts is determined using quoted forward exchange rates at the balance sheet date.
+The fair value of foreign currency options is based upon valuations performed by management and the respective banks holding the currency instruments.
+All recognized gains and losses resulting from the settlement of the contracts are recorded within general and administrative expenses in the income statement.
+The Group does not enter into currency exchange contracts for the purpose of hedging anticipated transactions.
+Inventories Inventory is valued at the lower of cost and net realizable value.
+The cost of inventory is calculated using the FIFO method.
+Finished goods include direct costs and attributable overheads based on the normal level of activity.
+Cash and equivalents Cash and cash equivalents comprises cash balances and call deposits with an original maturity of less than or equal to three months.
+Bank overdrafts that are repayable on demand and form an integral part of the Groups cash management are included as a component of cash and cash equivalents for the purpose only of the Consolidated statement of cash flows.
+Loans and receivables Loans and receivables are initially measured at fair value plus any directly attributable transaction costs.
+Subsequent to initial recognition, loans and receivables are measured at amortized cost using the effective interest method, less any impairment losses.
+Long term borrowing Long term borrowings are recognized initially at fair value less attributable transaction costs.
+Subsequent to initial recognition, long term borrowings are stated at amortized cost with any difference between cost and redemption value being recognized in the income statement over the period of the borrowings on an effective interest basis.
+Leases Leases are classified as finance leases when the terms of the lease transfer substantially all the risks and rewards of ownership to the Group.
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+For property leases, the land and building elements are treated separately to determine the appropriate lease classification.
+Payments made under operating leases net of any incentives received from the lessor are charged to the income statement on a straight-line basis over the period of the lease.
+Assets funded through finance leases are capitalized either as property, plant and equipment, or intangible assets, as appropriate, and are depreciated amortized over their estimated useful lives or the lease term, whichever is shorter.
+The amount capitalized is the lower of the fair value of the asset or the present value of the minimum lease payments during the lease term at the inception of the lease.
+The resulting lease obligations are included in liabilities net of finance charges.
+Finance costs on finance leases are charged directly to the income statement on an effective interest rate basis.
+Financial report 113 | Significant accounting judgements and estimates In applying the Groups accounting policies described above, management has made the following judgements and estimates that have a significant impact on the amounts recognized in the financial statements: Revenue recognition The Group has made estimates on the  for licensing and development work which affect the amount of revenue recognized in the period.
+These estimates involve the Group assessing the estimated resource and time required to complete development projects.
+Please refer to the final paragraph of the Revenue accounting policy disclosed above.
+Investments The Group has stated trade investments at fair value.
+Please refer to Trade investments above for managements application of accounting for trade investments.
+Share based payments The fair value of the share incentives is measured at grant date and spread over the period during which the employee becomes unconditionally entitled to the incentives.
+The fair value of the share incentives is measured using the Black-Scholes or Monte Carlo Simulation models which take into account the terms and conditions upon which the award was made.
+In determining the appropriate expense, the Group has made estimates on the likelihood that internal performance targets will be achieved and on the number of employees that will be employed on vesting.
+Details of share-based payments and the assumptions applied are disclosed in note 22.
+Taxation A deferred tax asset note 5 is recognized only to the extent that it is probable that sufficient taxable profit will be available to utilize the temporary difference.
+The Group has made estimates on the likelihood that future taxable profit will utilize these tax losses.
+Impairment of goodwill The Group determines whether goodwill is impaired at a minimum on an annual basis.
+This requires an estimation of the value in use of the cash generating units to which the goodwill relates.
+Estimating the value in use requires the Group to make an estimate of the expected future cash flows from the cash generating unit that holds the goodwill at a determined discount rate and an appropriate growth rate to calculate the present value of those cash flows.
+Details of assumptions used are set out in note 7. Business combinations The Group measures contingent consideration at fair value at the acquisition date and assesses any changes in fair value on an annual basis.
+This requires the Group to make an estimate of the future payables in respect of the contingent consideration.
+Details of the assessment performed in the current year are set out in notes 13 and 15.
+Recoverability of debtors The Group regularly reviews any outstanding debtors and monitors the aging profile to determine whether any further action is required by management.
+There is an element of judgement in determining whether debts will eventually be paid, but where there is significant uncertainty the debt is specifically provided for in full.
+Valuation of inventory Inventory comprises raw components, work in progress and finished goods.
+The Group monitors the level of inventory across the business and specifically slow moving finished goods.
+Management makes estimates to ensure adequate provisions are in place to ensure the value of inventory recorded on the Statement of Financial Position is not over stated in accordance with IAS 2.
+114 Financial report | Adopted IFRS not yet applied The following accounting standards, amendments and interpretations had been issued but they are not yet effective for the Group and have not been early adopted.
+Their adoption is not expected to have a material effect on the financial statements: Annual Improvements to IFRSs 2010-2012 Cycle IASB effective date 1 July 2014 : Annual Improvements to IFRSs 2011-2013 Cycle IASB effective date 1 July 2014 : Clarification of Acceptable Methods of Depreciation and Amortization Amendments to IAS 16 and IAS 38 IASB effective date 1 January 2016 : Equity Method in Separate Financial Statements Amendments to IAS 27 IASB effective date 1 January 2016 : Annual Improvements to IFRSs 2012-2014 Cycle IASB effective date 1 January 2016 : and Disclosure Initiative Amendments to IAS 1 IASB effective date 1 January 2016.
+The annual financial statements of the Group are prepared in accordance with International Financial Reporting Standards as adopted by the EU.
+2 Segment reporting The Group determines and presents operating segments based on the information that is provided internally to the Board of Directors, which is the Groups chief operating decision maker.
+The Group is organized into two operating divisions which offer different services to different industries and are managed separately: the Technology business and the Pure business.
+The costs of the corporate head office and other costs which are not controlled by the operating divisions are allocated to these divisions.
+These divisions are the operating segments that are reported to the chief operating decision maker and are the Groups reportable segments.
+There is no inter-segment trading and no significant seasonality in the Groups operations although there is an increase in trading in the period leading up to Christmas.
+Principal activities are as follows: Technology business the development of graphics, video, vision, processor, communications and connectivity technologies for licensing to semiconductor companies for incorporation into silicon devices.
+Pure business the development and marketing of consumer products to showcase the technologies of the Technology business and to develop new and emerging markets for such technologies.
+Information regarding the operations of each reportable segment is included below.
+Performance is measured based on adjusted operating profit as shown in the table at the end of this note.
+Operating costs within the Technology business are not attributable to specific income streams and have not been allocated to specific income streams.
+Financial report 115 | 2015 2014 000 000 Revenue Technology business Licensing 39,035 38,324 Royalties 118,925 109,033 Other 685 241 Total 158,645 147,598 Pure business 18,376 23,237 Total revenue 177,021 170,835 Operating loss profit Technology business 1,787 8,532 Pure business 6,717 8,596 Segment operating loss 8,504 64 Net financing expense 3,450 250 Loss before tax 11,954 314 Taxation charge credit 1,070 1,089 Loss profit for the financial year 13,024 775 2015 2014 000 000 Total assets Technology business 263,870 251,888 Pure business 16,466 16,311 Total segment assets 280,336 268,199 Cash and cash equivalents 2,651 19,248 Deferred tax 4,865 4,928 Unallocated assets 11,416 1,034 Total assets 299,268 293,409 Total liabilities Technology business 81,363 82,352 Pure business 5,250 6,056 Total segment liabilities 86,613 88,408 Unallocated liabilities 7,181 Total liabilities 93,794 88,408 Other segment items Capital expenditure Technology business 12,051 18,591 Pure business 1,518 5,724 13,569 24,315 Depreciation and amortization Technology business 7,361 14,018 Pure business 833 374 8,194 14,392 116 Financial report | Revenue is reported by geographical area of sales as follows: 2015 2014 000 000 USA 106,778 94,218 Asia 33,598 40,359 United Kingdom 16,196 17,230 Rest of Europe 13,510 11,289 Rest of the world 4,571 4,611 Rest of North America 2,368 3,128 177,021 170,835 The basis for attributing external customers to individual countries is the customers country of domicile.
+Revenue from individual customers that represent more than 10% of the Groups total revenue for the period have values of approximately 59,690,000 and 21,419,000.
+Both customers country of domicile is USA, and both these revenues are included in the Technology division.
+All revenue originated materially from the United Kingdom.
+The operating profit, net assets and capital expenditure of the Group materially relate to the United Kingdom.
+Adjusted profit Adjusted profit is used by management to measure the performance of the business year on year by excluding non-recurring items items which typically do not occur every year, items relating to acquisitions and investments, non-cash based share incentive charges, and amortization of intangible assets acquired from acquisitions.
+Year to 30 April 2015 Year to 30 April 2014 restated Notes Technology Pure Total Technology Pure Total 000 000 000 000 000 000 Reported operating loss profit 1,787 6,717 8,504 8,532 8,596 64 Share-based incentive costs 4 11,298 665 11,963 12,401 778 13,179 Amortization of intangibles from acquisitions 7 9,119 9,119 8,607 8,607 Net gain on investments 9 348 348 Impairment of investments 9 5,093 5,093 2,585 2,585 Acquisition related costs 1,426 1,426 1,275 1,275 Release of contract obligations 812 812 Contingent acquisition consideration release 361 361 1,648 1,648 Group restructuring costs 680 10 690 397 397 Provision for onerous contracts 2,503 2,503 Adjusted operating profit loss 27,159 6,042 21,117 31,404 7,421 23,983 Net financing expense 3,450 250 Adjusted profit before tax 17,667 23,733 Share-based incentive costs have been apportioned 8,972,000 2014: 9,884,000 to research and development expenses and 2,991,000 2014: 3,295,000 to sales and administrative expenses on the face of the consolidated income statement.
+All of the amortization of intangibles from acquisitions cost is included in research and development expenses on the face of the consolidated income statement.
+These adjusting items totalling 8,539,000 2014: 2,261,000 are included in sales and administrative expenses on the face of the consolidated income statement.
+Financial report 117 | Acquisition related costs relate largely to the historic acquisitions of Posedge and Kisel and include elements of deferred acquisition consideration which are required to be accounted for as compensation.
+Release of contract obligations relates to a development agreement with GreenPlug Inc.
+The development fees were paid to Imagination Technologies Ltd in advance.
+Imagination Technologies Ltd has now been released from all obligations under this agreement and therefore the deferred revenue has been recognized as a credit to the income statement.
+The contingent acquisition consideration release relates to contingent consideration that has not crystallized relating to the acquisitions of Kisel Microelectronics AB 272,000 and Nethra Imaging Inc 89,000.
+Group restructuring costs relate to one-off restructuring across the Group.
+Onerous contracts relate to various commercial and property related contracts.
+An onerous contract is one where the unavoidable costs of meeting the obligations under the contract exceed the economic benefits expected to be received under it.
+In 2014, an 85,000 credit to the income statement has been reclassified to net financing expense from operating expenses.
+As a result, the prior year comparatives have been amended from a 21,000 reported operating profit to a 64,000 operating loss, and from a 335,000 net financing expense to a 250,000 net financing expense.
+3 Expenses 2015 2014 000 000 Operating loss is stated after charging crediting : Depreciation and amortization of tangible and intangible assets 17,313 14,392 Loss on disposal of fixed assets 36 180 Foreign exchange gain 43 394 Operating lease rentals: Property 4,019 3,268 Other 9,310 8,924 Auditor's remuneration Audit of these financial statements 25 25 Amount received by auditor and their associates in respect of: Audit of financial statements of subsidiaries of the Group 128 123 Audit-related assurance services 12 12 Other assurance services Other services tax filing services 165 160 Amounts paid to the Groups auditor in respect of services to the Group, other than the audit of the Groups financial statements, have not been disclosed as the information is required instead to be disclosed on a consolidated basis.
+118 Financial report | 4 Employees The average number of persons employed by the Group including directors was: 2015 2014 Research and development 1,361 1,229 Production 25 43 Administration 150 139 Sales and marketing 116 118 1,652 1,529 2015 2014 The aggregate payroll costs of these persons were: 000 000 Wages and salaries 75,311 66,951 Social security costs 5,211 4,771 Other pension costs 3,332 2,615 Share-based payments 11,963 13,179 95,817 87,516 Details of the share-based payments are set out in note 22.
+Complete information on the share incentives and shares held by directors is set out in the Directors Remuneration Committee report on pages 75 to 97.
+5 Taxation 2015 2014 000 000 Analysis of tax charge in the year Current tax charge UK corporation tax 142 81 Foreign tax 2,650 511 Total current tax charge 2,792 592 Deferred tax Origination and reversal of temporary differences 1,052 2,876 Effect of changes in tax rates on deferred tax balances 877 524 Changes in recoverable amounts of deferred tax assets 621 Adjustments in respect of prior periods 207 1,098 Total deferred tax credit charge 1,722 1,681 Total income tax charge credit 1,070 1,089 Financial report 119 | The total tax charge for the year of 1,070,000 2014: 1,089,000 tax credit is higher 2014: higher than the standard rate of corporation tax in the UK of 20.92% 2014: 22.83%.
+The difference is explained below: 2015 2014 000 000 Loss before taxation 11,954 314 Notional tax charge at UK standard rate of 20.92% 2014: 22.83% 2,501 72 Tax effect of expenses that are not deductible for tax purposes 2,282 2,746 Utilization of previously unrecognized tax assets 1,285 10,711 Tax assets not recognized 2,421 2,703 Effect of tax rate change 876 524 Adjustments in respect of prior periods 236 1,265 Withholding tax 1,247 2,531 Different tax rates on overseas earnings 454 2,881 Changes in recoverable amounts of deferred tax assets 622 Total income tax charge credit 1,070 1,089 Tax on items charged to equity: Deferred tax charge 289 2,794 Current tax charge credit 142 81 The principal element of the deferred tax charge recorded against equity relates to the reversal of previously recognized deferred tax assets which were credited to equity.
+The reversal of the asset occurs as a result of the fall in potential future tax deductions due to the reduction in the Companys share price during the year.
+Current tax assets At 30 April 2015, there are current tax assets receivable in more than one year of 932,000 2014: 811,000 and receivable in less than one year of 600,000 2014: 1,555,000.
+The assets relate to prepayments of tax by overseas subsidiaries.
+Current tax liabilities At 30 April 2015, there is a current tax liability due in less than one year of 525,000 relating to some of the Groups subsidiaries 2014: 240,000.
+At 30 April 2015 there is a current tax liability due in more than one year of 3,690,000 2014: 3,325,000.
+The balance in both years largely relates to a provision in the US.
+Deferred tax The movement on the deferred tax account is as follows: As at Recognized in Recognized As at 30 April 2014 income statement in equity 30 April 2015 000 000 000 000 Tax losses 4,216 1,084 5,300 Share-based payments note 22 2,270 869 289 3,428 Other timing differences 79 48 127 Capital allowances 3,831 3,202 7,033 Gain on foreign exchange contract 145 181 36 Acquisition of intangible assets 14,723 2,742 11,981 12,134 1,722 289 10,123 120 Financial report | 2015 2014 000 000 Deferred taxation has been presented on the balance sheet as follows: Deferred tax asset 4,865 4,928 Deferred tax liability 14,988 17,062 At end of the period 10,123 12,134 Management consider the utilization of the 4,865,000 2014: 4,928,000 deferred tax asset to be probable based on assessment of forecasts of future taxable profits.
+The deferred tax asset remained at a similar level to last year.
+Accelerated R&D capital allowances claimed during the year and a net utilization of tax losses reduced the asset.
+This movement was offset by an increase in the asset created by re-calculating the asset using the prevailing UK corporation tax rate at 30 April 2015 of 20.0%, compared with a lower patent box influenced rate at 30 April 2014.
+This rate change adjustment was done because of the uncertainty surrounding the date when the Company will opt in to the patent box regime.
+The deferred tax liability reduced during the year to 14,988,000 2014: 17,062,000.
+This movement was a result of the amortization of intangible assets relating to previous acquisitions.
+None of the recognized tax assets or liabilities expire.
+Deferred tax assets and liabilities are only offset where they relate to income taxes levied by the same taxation authority and there is a legally enforceable right to offset.
+The Federal tax losses and tax credits expire progressively from 2020.
+The State tax losses expire progressively from 2015.
+State tax credits and all remaining temporary differences do not expire.
+Deferred tax assets have not been recognized due to the uncertainty of the availability of the above tax losses to be utilized against future taxable profits arising in the US.
+A section 382 study to determine a more certain position is due to be undertaken during the next financial year.
+If the Group were able to recognize all unrecognized deferred tax assets, an asset of 25,056,000 $38,538,000 2014: 13,023,000 $21,903,000 reported at the applicable tax rates, would be recognized.
+At 30 April 2015, there was no recognized deferred tax liability 2014: $Nil for taxes that would be payable on the unremitted earnings of certain of the Groups subsidiaries.
+The Group has determined that undistributed profits of its subsidiaries will not be distributed in the foreseeable future.
+Factors affecting future tax charge The Finance Act 2013 reduced the rate of Corporation Tax from 1 April 2014 to 21% and a further reduction of 1% to 20% from 1 April 2015.
+In addition, the Finance Act 2012 introduced the UK patent box regime which provides for an effective tax rate of 10% on certain UK profits from 1 April 2013 phased in over 5 years.
+These changes have been substantively enacted at the balance sheet date and consequently are reflected in these financial statements.
+The Group has not made an election in to the UK Patent Box regime as at 30 April 2015, nor do the Directors consider it will be beneficial to do so in the short term.
+As such the Directors consider that the temporary differences will reverse at the main rate of UK Corporation Tax of 20% and deferred tax has therefore been provided at this rate.
+Financial report 121 | 6 Earnings per share 2015 2014 000 000 Loss profit attributable to equity holders of the parent 13,024 775 2015 2014 Shares Shares 000 000 Weighted average number of shares in issue 269,522 266,246 Less: Weighted average number of shares held by Employee Benefit Trust 1,984 1,902 Effect of dilutive shares: Employee incentive schemes 12,790 11,553 Weighted average number of shares potentially in issue 280,328 275,897 2015 2014 Loss earnings per share Basic 4.9 p 0.3p Diluted 4.9 p 0.3p Diluted earnings per share is calculated by adjusting the weighted average number of ordinary shares in issue to assume conversion of all potentially dilutive ordinary shares.
+Details of the schemes considered in arriving at the potentially dilutive ordinary shares are set out in note 22.
+It should be noted that potentially dilutive shares are not considered when a basic loss per share has been calculated.
+Adjusted earnings per share 2015 2014 000 000 Adjusted profit before tax see note 2 17,667 23,733 Adjusted taxation charge 838 2,431 Adjusted profit attributable to equity holders of the parent 16,829 21,302 2015 2014 Shares Shares 000 000 Weighted average number of shares in issue 269,522 266,246 Less: Weighted average number of shares held by Employee Benefit Trust 1,984 1,902 Effect of dilutive shares: Employee incentive schemes 12,790 11,553 Weighted average number of shares potentially in issue 280,328 275,897 2015 2014 Adjusted earnings per share Basic 6.3p 8.1p Diluted 6.0p 7.7p Adjusted earnings per share is calculated using adjusted profit attributable to equity holders of the parent which is derived from the adjusted profit before tax described in note 2.
+122 Financial report | 7 Goodwill and other intangible assets Intangible assets Software, patents Goodwill from acquisitions and trademarks Total 000 000 000 000 Cost At 1 May 2013 58,498 64,460 13,931 136,889 Additions 1,948 1,948 Acquisition of subsidiaries 4,853 6,946 5 11,804 At 30 April 2014 63,351 71,406 15,884 150,641 At 1 May 2014 63,351 71,406 15,884 150,641 Additions 1,408 1,408 Acquisition of subsidiaries At 30 April 2015 63,351 71,406 17,292 152,049 Amortization At 1 May 2013 3,517 7,766 11,010 22,293 Charge for the year 8,607 1,347 9,954 At 30 April 2014 3,517 16,373 12,357 32,247 At 1 May 2014 3,517 16,373 12,357 32,247 Charge for the year 9,119 1,464 10,583 At 30 April 2015 3,517 25,492 13,821 42,830 Net book value at 30 April 2014 59,834 55,033 3,527 118,394 Net book value at 30 April 2015 59,834 45,914 3,471 109,219 Intangible assets from acquisitions are those assets recognized when fair value accounting for the acquisitions of Hellosoft Inc, Caustic Graphics Inc, MIPS Technologies Inc since renamed Imagination Technologies LLC, Posedge Inc now liquidated into Imagination Technologies LLC and Kisel Microelectronics AB since renamed Imagination Technologies AB.
+During the period the Group tested its balance of goodwill for impairment in accordance with IAS 36 Impairment of Assets.
+The test was based on a calculation of the recoverable amount based on value in use, using projected cash flows for the Technology business.
+The key assumptions in the value in use calculations were: Period over which the directors have projected cash flows a three year forecast period is used which is based on management forecasts of future profits, with an assumed terminal growth rate after 2017 of 2.5% per annum 2014: 2.5%.
+The terminal growth rate is assessed taking into account general economic conditions.
+Forecast revenue growth the revenue projections are consistent with those used by the Group for financial planning purposes.
+Forecast operating margins the operating margin projections are consistent with those used by the Group for financial planning purposes.
+Discount rate future cash flows are discounted at a rate of 8.7% which represents a pre-tax rate that reflects the Groups weighted average cost of capital adjusted for the risks specific to the Technology business 2014: 7.1%.
+The directors have considered the sensitivity of the assumptions used and do not believe that any reasonably foreseeable changes to key assumptions would result in an impairment of goodwill, such is the margin by which the estimated fair value exceeds the carrying value of the goodwill.
+Contained within Plant and Equipment is CAD equipment with a net book value of 1,969,000 which is deemed to have been acquired under a finance lease.
+Financial report 125 | 9 Investments 2015 2014 000 000 Trade investments classified as available for sale 19,947 21,081 Movement in the carrying value of each of the Groups equity holdings during the period is analysed below.
+Fair value movement during period Increased Movement of Statement of Carrying value holding in holding in Income comprehensive Carrying value at 1 May 2014 investments investments statement income at 30 April 2015 000 000 000 000 000 000 Toumaz 8,268 766 313 7,189 Orca 1,055 1,044 11 Blu-Wireless 309 309 UBC now 7digital Group plc 1,841 530 5,162 3,114 1,157 3,262 7digital 4,162 1,000 5,162 169 169 Ineda 4,597 430 5,027 Onkyo 373 16 389 NetSpeed 476 44 520 Atomos 3,005 246 3,251 Total 21,081 4,535 5,093 576 19,947 Toumaz At the balance sheet date, the Groups investment in Toumaz was valued at 7,189,000 by reference to the quoted share price of Toumaz at the reporting date.
+766,000 of the reduction in the investment value was recognized through the consolidated income statement in accordance with IAS 39, given that original tranche of shares had been impaired historically, with the remaining 313,000 decrease in value on tranches two and three of shares acquired being recognized through the consolidated statement of comprehensive income.
+This is because the movement in share price with reference to the cost of tranches two and three was deemed to not be a permanent impairment.
+Orca At the balance sheet date there was an increase in the value of the investment due to foreign exchange movement of 99,000, which resulted in a carrying value of 1,154,000.
+However, on the same date, due to uncertainty surrounding Orcas funding position, management objectively concluded there were indicators of impairment present, resulting in a full provision being recognized for the carrying value of 1,154,000.
+In doing so, the cumulative credit balance of 110,000 in the consolidated statement of comprehensive income relating to this investment has been recycled through the consolidated income statement resulting in a net charge to the consolidated income statement of 1,044,000.
+Blu-Wireless At the balance sheet date there has been no change in the carrying value of the investment.
+UBC and 7digital The Group made further cash investments by the way of loans in UBC and 7digital for 530,000 and 1,000,000 respectively.
+On 9 June 2014 UBC Media Group Plc announced the acquisition of 7digital Group, Inc and the resultant new company changed its name to 7digital Group plc.
+The existing holding of shares and loans in both UBC and 7digital were converted and subscribed for new shares respectively.
+The new investment in 7digital Group plc was valued at 7,925,000 on 9 June 2014, creating a gain on the initial recognition of the shares of 392,000 which was recognized in the consolidated income statement.
+At the balance sheet date, the Groups investment in 7digital was valued at 3,262,000 by reference to the quoted share price of 7digital at the reporting date.
+988,000 of the 4,663,000 reduction in investment value has been recognized as a change in fair value of available for sale investments in the consolidated statement of comprehensive income, with the 3,675,000 recognized as a loss in the consolidated income statement.
+126 Financial report | Ineda At the balance sheet date there was an increase in the value of the investment due to foreign exchange movement of 430,000, which resulted in a carrying value of 5,027,000.
+The 430,000 increase has been recognized as a change in fair value of available for sale investments in the consolidated statement of comprehensive income.
+Onkyo At the balance sheet date a gain of 16,000 has been created as a result of the movement in Onkyos share price and foreign exchange, and this has been recognized as a change in fair value of available for sale investments in the consolidated statement of comprehensive income.
+The carrying value of the investment in Onkyo at the balance sheet date is 389,000.
+NetSpeed At the balance sheet date a gain of 44,000 has been created due to foreign exchange movements and this has been recognized as a change in fair value of available for sale investments in the consolidated statement of comprehensive income.
+The carrying value of the investment at the balance sheet date is 520,000.
+Atomos In FY14 there was a licensing agreement signed with Atomos for which settlement could either be cash or equity.
+At 30 April 2014 the balance outstanding of $5m was recorded within trade debtors, however, this was ultimately settled by the receipt of equity shares.
+At the balance sheet date a gain of 246,000 has been created due to foreign exchange movements and this has been recognized as a change in fair value of available for sale investments in the consolidated statement of comprehensive income.
+The carrying value of the investment at the balance sheet date is 3,251,000.
+All gains and impairment charges relating to trade investments classified as available for sale relate to the Technology business.
+All Gains and losses for the period recognized in the consolidated income statement are included within the gain on investments and impairment of investments rows within the consolidated income statement.
+All gains or losses for the period recognized in other comprehensive income are included within the change in fair value of assets classified as available for sale row within the statement of comprehensive income.
+Please see note 19 for further information surrounding fair value valuation principles.
+The directors have considered the sensitivity of the unobservable inputs used and do not believe that any reasonably foreseeable changes to these inputs would result a material change to fair value of the investments.
+10 Inventories 2015 2014 000 000 Raw materials and components 712 1,190 Finished goods 7,189 7,864 7,901 9,054 Provisions of 1,952,000 2014: 1,843,000 recognized in cost of sales were made against inventories.
+During the period, 1,322,000 2014: 824,000 of the provision against inventories was utilized for the write-down and write off of inventories.
+As at 30 April 2015 the provision for obsolescence of inventories was 2,115,000 2014: 1,485,000.
+Raw materials, consumables and changes in finished goods and work in progress recognized as cost of sales in the period amounted to 16,960,000 2014: 19,951,000.
+Financial report 127 | 11 Trade and other receivables 2015 2014 000 000 Trade receivables 21,142 19,926 Accrued income 44,840 22,415 Prepayments 5,416 4,778 Other receivables 2,928 3,897 R&D tax credit receivable 7,524 2,860 81,850 53,876 Provision for impairment of trade receivables as at 30 April 2015 was 189,000 2014: 178,000, with the movement recognized in the income statement during the period.
+12 Cash and cash equivalents 2015 2014 000 000 Cash at bank short term deposits 1,541 Cash at bank current account 2,651 17,707 Cash and cash equivalents as per consolidated statement of financial position 2,651 19,248 Cash and cash equivalents as per consolidated statement of cash flows 2,651 19,248 13 Trade and other payables 2015 2014 000 000 Trade payables 8,428 7,100 Other taxes and social security 1,972 1,973 Other payables 2,011 2,303 Accruals 15,318 14,082 Deferred income 10,072 9,874 Deferred and contingent consideration 2,757 2,182 40,558 37,514 There is 136,000 and 408,000 contained within trade payables and other payables respectively relating to liabilities owed under a finance lease that is due within 12 months.
+The corresponding asset has been identified and disclosed in note 8.
+The deferred and contingent consideration is in respect of the acquisitions of HelloSoft, Inc. 45,000 and Posedge, Inc. 2,712,000 and represents an assessment of probable future consideration, converted using the period end exchange rate, due within 12 months based on contractual payment dates.
+128 Financial report | 14 Interest bearing loans and borrowings 2015 2014 000 000 Current liabilities Revolving credit facility 5,000 Bank loan 3,251 8,561 Non-current liabilities Bank loan 21,650 15,696 29,901 24,257 Borrowings to be repaid within one year 8,251 8,561 Borrowings to be repaid between one and five years 21,650 15,696 Borrowings to be repaid over five years 29,901 24,257 In February 2013, the Group drew down a $48,000,000 term loan which was used to part fund the acquisition of MIPS Technologies, Inc.
+In June 2014, the Group completed a re-negotiation of the terms of the loan.
+As at 30 April 2015, the remaining loan balance of $38,300,000 is repayable in six six monthly instalments of $2,500,000 between June 2014 and December 2017, with a final bullet payment of $23,300,000 due in June 2018.
+The loan is subject to variable quarterly interest payments at a rate of 1.3% above 3 month LIBOR on the outstanding balance.
+As at 30 April 2015, the Group had drawn down 5,000,000 of its revolving credit facility to meet short term cash needs.
+The Groups bank loan, revolving credit facility and overdraft facility are secured by a debenture dated March 2013 which gives HSBC Bank plc a fixed and floating charge over the assets of the Group and its principal subsidiary Imagination Technologies Limited.
+The bank also has a legal charge over freehold land and buildings owned by the Group, which have a net book value of 51,942,000.
+15 Other payables Other non-current payables 2015 2014 000 000 Other payables 1,903 2,620 Deferred income 833 837 Deferred and contingent consideration 1,396 2,553 4,132 6,010 Contained within other payables is 1,089,000 due after 12 months relating to liabilities owed under a finance lease.
+The deferred and contingent consideration of 1,396,000 is in respect of the acquisition of Posedge 2014: Posedge 2,553,000 and represents an assessment of probable future consideration, converted using the period end exchange rate, due after 12 months based on contractual payment dates.
+Financial report 129 | 16 Capital and reserves Called-up share capital Authorized Allotted, called-up and fully paid Ordinary shares of 10p each No.
+Share capital and share premium The movement on the share capital and share premium reserve in the period arises from the issue of 3,935,051 ordinary shares as follows: Issue of 1,164,577 shares to settle deferred acquisition consideration liability of 2,168,000.
+This increased share capital by 116,000 and share premium by 2,052,000: 733,972 shares were issued during the year relating to the free share element of the Dec 2014 ESP.
+These shares will be held in trust until at least December 2017 the earliest date they are available to employees: and 2,036,502 fully paid shares were issued pursuant to the terms of various Employee Share Option Schemes.
+The consideration for the shares was 479,000.
+Of this consideration, 325,000 was settled in cash and 154,000 relating to shares issued at nil cost under the terms of specific employee share schemes, was debited to reserves.
+Other capital reserve The balance on the other capital reserve reflects the value of warrants issued in respect of the acquisition of Ensigma Limited in March 2000.
+Merger reserve The merger reserve arose in the Group reconstruction in 1994 prior to its flotation.
+Revaluation reserve The revaluation reserve comprises the cumulative net change in the fair value of the trade investments classified as available for sale until the investments are derecognized.
+Translation reserve The translation reserve reflects the exchange differences from retranslation of the opening net investments in overseas subsidiaries to closing rate.
+130 Financial report | 17 Operating leases Non-cancellable operating lease rentals are payable as follows: Land and buildings Other 2015 2014 2015 2014 000 000 000 000 Within one year 3,793 3,624 9,320 6,531 In two to five years 8,261 8,884 4,203 11,050 After five years 2,137 3,399 14,191 15,907 13,523 17,581 Other operating leases include the rental of software and vehicles.
+18 Capital commitments At 30 April 2015, the Group had contractual capital commitments of 11,059,000 2014: 16,437,000.
+This is due to obligations entered into during the year to commence work on a new building.
+The work is due to be completed in the year ended 30 April 2016.
+19 Financial instruments Overview The Group has exposure to the following risks from its use of financial instruments: Market risk Credit risk Liquidity risk This note presents information about the Groups exposure to each of the above risks, the Groups objectives, policies and processes for measuring and managing risk.
+The Board of Directors has overall responsibility for the establishment and oversight of the Groups risk management framework.
+Categories of financial instruments Details of the significant accounting policies and methods adopted, including the criteria for recognition, the basis of measurement and the basis on which income and expenses are recognized in respect of each class of financial assets, financial liability and equity instrument are disclosed in note 1 to the financial statements.
+2015 2014 Notes 000 000 Financial assets Loans and receivables Trade and other receivables 11 31,594 26,683 Cash and cash equivalents 12 2,651 19,248 Available for sale investments 9 19,947 21,081 Total financial assets 54,192 67,012 Financial report 131 | 2015 2014 Notes 000 000 Financial liabilities Borrowings 14 29,901 24,257 Trade and other payables 13 15,168 13,558 Non-current payables 15 4,132 6,010 Total financial liabilities 49,201 43,825 Market risk Market risk is the risk that changes in the market prices, such as foreign currency exchange rates and interest rates, will affect the Groups income or the value of its holdings of financial instruments.
+The objective of market risk management is to manage and control market risk exposures within acceptable parameters, whilst optimizing the return on risk.
+a Foreign currency risk The Group transacts license and development agreements with customers and purchases of products for Pure primarily in US Dollars and, therefore, the Groups earnings are exposed to fluctuations in foreign exchange rates.
+The Group reviews its foreign exchange exposure on a regular basis and, if there is a material exposure to exchange rate fluctuations and the Board considers it appropriate, the Group will reduce the risk by currency hedging on net receivable payable balances.
+Forward exchange contracts are entered into with the objective of matching their maturity with currency receipt.
+During the period the total value of currency contracts entered into amounted to $59,500,000 or 36,702,000 2014: 51,011,000.
+As at 30 April 2015 the outstanding currency contracts amounted to 21,508,000 2014: 9,952,000.
+The fair value of these outstanding currency contracts was 182,000 loss 2014: 1,034,000 gain.
+The movement in fair value of 1,216,000 has been recognized within finance income in the period.
+The majority of the other assets and liabilities are held within foreign subsidiaries in the respective local currencies.
+The Group has a number of overseas business operations and operates in a number of foreign currencies which give rise to transactional and translational foreign exchange risk.
+The most important foreign currency to the Group is the US Dollar.
+132 Financial report | Foreign currency sensitivity analysis The Group transacts a large proportion of its revenues and costs in US Dollars.
+Taking all income and expenditure in US Dollars into account, management have appraised that for the financial year to 30 April 2015, each additional one cent increase or decrease in the US Dollar exchange rate against Sterling would have decreased or increased revenues by circa 1,002,000 2014: 929,000 and profit by circa 524,000 2014: 527,000. b Interest rate risk The Groups earnings may be affected by changes in interest rates available on bank deposits.
+The Group aims to maximize returns from funds held on deposit and uses market deposits with major clearing banks accordingly.
+With the current level of bank deposits, the impact of a change in interest rates is not considered material.
+In respect of income-earning financial assets and interest bearing financial liabilities, the following table indicates their average effective interest rate at the reporting date and the periods in which they mature or, if earlier, reprice.
+Floating rate cash earns interest based on LIBID equivalents.
+Short term receivables and payables are not interest bearing with the exception of the short term element of the long term loan.
+The loan floats at 1.3% above quarterly LIBOR and the unexpired term is 3 years and 2 months.
+Financial report 133 | Interest rate sensitivity analysis In the financial year to 30 April 2015, if interest rates had been 100 basis points higher and all other variables were held constant, the Groups profit would have been decreased by circa 10,000 2014: decreased by circa 145,000.
+Similarly, if interest rates had been 100 basis points lower and all other variables were held constant, the Groups profit would have been increased by circa 70,000 2014: increased by circa 36,000. Credit risk Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Groups receivables from customers and investment of liquid funds.
+The Group limits its exposure to credit risk by only investing in liquid securities and only with counter parties that have a high credit rating.
+Capital risk The Group manages its capital to ensure that entities in the Group will be able to continue as a going concern while maximizing the return to stakeholders as well as sustaining the future development of the business.
+In order to maintain or adjust the capital structure, the Group may consider the total amount of dividends paid to shareholders, return capital to shareholders, issued new shares or sell assets to reduce debt.
+The Groups overall strategy remains unchanged from the previous financial year.
+The capital structure of the Group consists of debt, which includes the borrowings disclosed in note 14, cash and cash equivalents and equity attributable to the parent.
+The latter comprises share capital, reserves and retained earnings as disclosed in note 16 and the consolidated statement of changes in equity.
+The CFO regularly monitors the capital risk on behalf of the Board.
+Trade receivables The exposure to credit risk is mitigated by selling to a diverse range of customers.
+The Group has implemented policies that require appropriate credit checks on potential customers prior to sales taking place.
+At the balance sheet date there were no significant concentrations of credit risk either by customer or by geography.
+The maximum exposure to credit risk is represented by the carrying amount of each financial asset in the balance sheet.
+Gross Impairment Gross Impairment 2015 2015 2014 2014 Ageing of trade receivables: 000 000 000 000 Not past due 10,810 9,297 Past due 0-90 days 4,527 8,747 Past due greater than 90 days 5,994 189 2,055 173 21,331 189 20,099 173 Trade receivables that are less than three months overdue are generally not considered impaired.
+Receivables more than three months overdue are considered on a line by line basis and a provision is made where recovery is considered doubtful.
+No other financial assets are past due.
+Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+To minimize this risk the Group only invests funds in liquid securities.
+As a contingency, the Group maintains a 3 million overdraft and 20 million revolving credit facility.
+The following table is drawn up based on undiscounted contractual maturities including both interest and principal cash flows.
+134 Financial report | Carrying Contractual Less than More than amount cash flows 1 year 1-2 years 2-5 years 5 years April 2015 000 000 000 000 000 000 Bank loan 24,901 24,901 3,251 3,251 18,399 RCF draw down 5,000 5,000 5,000 Trade and other payables 15,168 15,168 15,168 Non current payables 4,132 4,132 833 2,632 667 49,201 49,201 24,252 5,883 19,066 Carrying Contractual Less than More than amount cash flows 1 year 1-2 years 2-5 years 5 years 000 000 000 000 000 000 April 2014 Bank loan 24,257 24,364 8,669 8,561 7,134 Trade and other payables 13,558 13,558 11,376 2,182 37,815 37,922 20,045 8,561 9,316 Fair values of financial instruments Fair value is defined as the amount at which a financial instrument could be exchanged in an arms length transaction between two informed and willing parties and is calculated by reference to market rates discounted to current value.
+2015 2014 Carrying amount Carrying amount and fair value and fair value Notes 000 000 Financial assets: Trade and other receivables 11 31,594 26,683 Cash and cash equivalents 12 2,651 19,248 Available for sale investments 9 19,947 21,081 Financial liabilities: Long term borrowings 14 29,901 24,257 Trade and other payables 13 15,168 13,558 Non current payables 15 4,132 6,010 Assumptions used in estimating the fair values of financial instruments reflected in the table above: Cash and cash equivalents The fair value approximates to book value due to the short term maturity of these instruments.
+Available for sale investments Fair value hierarchy The Group measures the fair value of available for sale investments using the following hierarchy that reflects the significance of the inputs used in making the measurement: Level 1: Quoted market price unadjusted in an active market for an identical financial instrument.
+Level 2: Valuation techniques based on observable inputs, such as market prices for similar financial instruments.
+Level 3: Valuation techniques using unobservable inputs which can have a significant effect on the instruments valuation.
+Financial report 135 | The Group has applied the above hierarchy to its investments as follows: Toumaz the valuation is based on the quoted share price for Toumaz Holdings on AIM.
+This investment is categorized as Level 1.
+Orca the valuation is based on the purchase price of the investment.
+This investment is categorized as Level 3.
+7digital the valuation is based on the quoted share price for 7digital Group plc on AIM.
+Ineda the valuation is based on the latest purchase price per funding round.
+Blu-Wireless the valuation is based on the purchase price of the investment.
+Onkyo the valuation is based on the quoted share price for Onkyo Corporation on Tokyo stock exchange.
+NetSpeed the valuation is based on the purchase price of the investment which was acquired during the year.
+Atomos the valuation is based on the purchase price of the investment.
+The following table analyses investments, measured at fair value at the reporting date, by the level in the fair value hierarchy into which the fair value measurement is categorized: 2015 2014 000 000 Level 1 10,840 10,483 Level 2 Level 3 9,107 10,598 19,947 21,081 The following table shows a reconciliation from opening balances to the closing balances for fair value measurements in Level 3 of the fair value hierarchy: 000 At 30 April 2014 10,598 Investment in the year 4,005 Total gains and losses: In income statement 1,213 In other comprehensive income 879 Disposals 5,162 At 30 April 2015 9,107 Although the Group believes that its estimates of fair value are appropriate, the use of different methodologies or assumptions could lead to different measurements of fair value.
+The valuation of Blu Wireless, Orca, NetSpeed, Ineda and Atomos and Ineda is based on the purchase price of the investment at the most recent funding rounds and any changes in the intervening period to 30 April 2015 are not materially different to these valuations.
+Long term borrowings The fair value approximates to book value as this instrument is at a variable interest rate.
+136 Financial report | 20 Contingent liabilities An Internal Revenue Service IRS audit of the MIPS Technologies Inc. now Imagination Technologies LLC tax returns for the tax periods ending 30 June 2012, 30 June 2013 and 31 December 2013 commenced in February 2015.
+The audit is focusing on the 30 June 2013 tax period which included a one off capital gain of $350 million, generated in February 2013, when MIPS completed a sale of its patents immediately prior to the acquisition of MIPS by Imagination.
+Imagination Technologies LLC has provided all information requested to date by the IRS.
+The audit is still in its early stages, and the IRS has not issued a formal Notice of Proposed Adjustments.
+This being the case, Imagination Technologies LLC has not made any adjustment to its tax provision as at 30 April 2015, as a result of the audit taking place.
+The Group had no contingent liabilities at 30 April 2014.
+21 Related parties Identity of related parties Transactions between the Company and its subsidiaries have been eliminated on consolidation and are not disclosed in this note.
+Transactions with key management personnel Key management personnel comprise the directors.
+In addition to their salaries, the Group also provides non-cash benefits to directors and contributes to post-employment benefit schemes on their behalf.
+Directors also participate in the Groups share incentive programmes.
+The share based payments are valued at their fair value at the date of grant.
+Full details of directors compensation, including post-employment benefits is given in the Directors Remuneration Committee report on pages 75 to 97.
+The key management personnel compensations are as follows: 2015 2014 000 000 Emoluments 1,213 959 Pension contributions 46 48 Share-based payments 848 754 2,107 1,761 Details of key managements interests in the Companys shares and share options are set out in the Directors Remuneration Committee report on pages 75 to 97.
+During 2015 and 2014, no member of the Board of Directors had a personal interest in any business transactions of the Group.
+Financial report 137 | 22 Employee benefits Pension The Company participates in a group personal pension plan with defined contributions.
+The assets of the schemes are held separately in independently administered funds.
+There were no outstanding contributions at the balance sheet date.
+138 Financial report | The number and weighted average exercise prices of share options are as follows: Weighted average Number Weighted average Number exercise price of options exercise price of options Year of Issue 2015 2015 2014 2014 Outstanding at the beginning of the period 200p 2,242,572 216p 2,112,378 Exercised during the period 65p 498,361 68p 117,812 Granted during the period 227p 721,480 Lapsed during the period 301p 501,324 349p 473,474 Outstanding at the end of the period 213p 1,242,887 200p 2,242,572 Exercisable at the end of the period 160p 549,097 120p 1,131,753 The average share price during the period was 214.13p 2014: 250.00p.
+The options outstanding at the year end have an exercise price in the range of 0p to 381.2p and a weighted average contractual life of 1.0 year.
+Movements of which are shown with share awards below.
+The Company has share option schemes and an employee share plan scheme, details of which are contained in the Directors report on page 56.
+In accordance with IFRS 2, the fair value of services received in return for share options and employee share plan awards granted to employees is measured by reference to the fair value of share options and employee share plan awards granted.
+The estimate of the fair value of the services is measured based on the Black-Scholes or Monte Carlo Simulation models, financial models used to calculate the fair value of options and awards under the employee share plan.
+It arises from the potential future tax benefit on the exercise of incentives.
+142 Financial report | 23 Principal subsidiaries Details of the Groups subsidiary undertakings, which are involved in the licensing of the design of multimedia technology and the sale of multimedia products, are as follows: Country of incorporation Percentage of issued Name of subsidiary undertaking and of operation Type of shares share capital held Imagination Technologies Limited UK Ordinary 100% PowerVR Technologies Limited UK Ordinary 100% Metagence Technologies Limited UK Ordinary 100% Ensigma Technologies Limited UK Ordinary 100% VideoLogic Systems Limited UK Ordinary 100% Cross Products Limited UK Ordinary 100% Pure Digital Limited UK Ordinary 100% Imagination Technologies GmbH Germany Ordinary 100% Imagination Technologies, Inc.
+US Ordinary 100% Imagination Technologies KK Japan Ordinary 100% Imagination Technologies India Private Limited India Ordinary 100% Pure Australasia Pty Limited Australia Ordinary 100% Bristol Interactive Limited UK Ordinary 100% Caustic Graphics, Inc.
+US Ordinary 100% Imagination Technologies AB Sweden Ordinary 100% Imagination Technologies Hyderabad Private Limited India Ordinary 100% Imagination Technologies NZ Limited NZ Ordinary 100% Imagination Technologies LLC US Ordinary 100% MIPS Technologies International Limited Cayman Islands Ordinary 100% MIPS Technologies Shanghai Co. Ltd China Ordinary 100% MIPS Technologies B. V. Netherlands Ordinary 100% Hellosoft Limited UK Ordinary 100% All of the above companies are included in the Group financial statements.
+non-trading indirect holding Financial report 143 | Imagination Technologies Group plc parent company balance sheet As at 30 April As at 30 April 2015 2014 Notes 000 000 Fixed assets Investment in subsidiary undertakings 3 134,300 122,798 Current assets Debtors 4 70,131 64,709 Cash 343 60 70,474 64,769 Current liabilities Creditors: amounts falling due within one year 5 3,535 9,392 Net current assets 66,939 55,377 Total assets less current liabilities 201,239 178,175 Non-current liabilities Creditors: amounts falling due after one year 5 21,903 15,732 Net assets 179,336 162,443 Capital and reserves Share capital 8 27,162 26,769 Share premium 9 101,984 99,648 Other capital reserve 9 1,423 1,423 Share-based payment reserve 9 59,991 48,216 Retained earnings 9 11,224 13,613 Equity shareholders funds 10 179,336 162,443 These financial statements were approved by the Board of Directors on 29 June 2015 and were signed on its behalf by: Bert Nordberg Director 144 Financial report | 1 Accounting policies The parent company financial statements present information about the Company as a separate entity and not about its Group.
+The following accounting policies have been applied consistently in dealing with items which are considered material in relation to the financial statements.
+There are no new accounting policies which would have a significant impact in the current year.
+Basis of preparation The financial statements have been prepared in accordance with applicable UK Accounting Standards and under the historical accounting rules.
+The following principal accounting policies have been applied consistently throughout the period and preceding year in dealing with items which are considered material in relation to the Companys financial statements.
+The financial statements are prepared on a going concern basis which assumes that the Company will continue in operational existence for the foreseeable future.
+Under section 408 of the Companies Act 2006 the Company is exempt from the requirement to present its own profit and loss account.
+Under Financial Reporting Standard 1 the Company is exempt from the requirement to prepare a cash flow statement on the grounds that it is included in the consolidated accounts which it has prepared.
+The Company has taken advantage of the exemption contained in FRS 8 and has therefore not disclosed transactions or balances with its subsidiaries.
+Foreign currencies Transactions in foreign currencies are recorded using the rate of exchange ruling at the date of transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated using the contracted rate or rate of exchange ruling at the balance sheet date and the gains or losses on translation are included in the profit and loss account.
+Investments in subsidiaries Investments in subsidiaries are stated at cost less any provisions for impairment.
+Details of the Companys subsidiary undertakings are included in note 23 of the Group financial statements.
+Share based payment The fair value of options granted is recognized as an employee expense with a corresponding increase in equity.
+The fair value is measured at grant date and spread over the period during which the employees become unconditionally entitled to the options.
+The fair value of the options granted is measured using an option pricing model, taking into account the terms and conditions upon which the options were granted.
+The amount recognized as an expense is adjusted to reflect the actual number of share options that vest except where forfeiture is only due to share prices not achieving the threshold for vesting.
+As the Company grants options over its own shares to the employees of its subsidiaries, in accordance with FRS 20, it recognizes an increase in the cost of investment in its subsidiaries equivalent to the equity-settled share-based payment charge recognized in its subsidiarys financial statements with the corresponding credit being recognized directly in equity.
+Transactions of the Companys Employee Benefit Trust are included in the Groups financial statements.
+In particular, the Trusts purchases and sales of shares in the Company are debited and credited directly to equity.
+Taxation The charge for taxation is based on the profit or loss for the period and takes into account taxation deferred because of timing differences between the treatment of certain items for taxation and accounting purposes.
+Financial report 145 | Deferred tax is recognized in respect of all timing differences between the treatment of certain items for taxation and accounting purposes which have arisen but not reversed by the balance sheet date, except as otherwise required by FRS 19.
+Related parties The Company has a related party relationship with its subsidiaries see note 23 and with its Board of Directors see the Directors Remuneration Committee report on pages 75 to 97.
+Details of the remuneration of key management personnel are disclosed in note 21.
+2 Employees The Company does not employ any staff.
+Below is information required to comply, as required, with Schedule 5 SI 2008 410 : 2015 2014 000 000 Aggregate amount of remuneration paid to directors in respect of qualifying services 1,510 1416 Aggregate amount of gains made by directors on exercise of share options 1416 Pension contributions 46 47 At end of period 1,556 1,463 The Company does not operate a defined benefit pension scheme.
+There were two directors who contributed to the Company defined contribution scheme in the financial year.
+Full details of directors remuneration are set out in the Directors Remuneration Committee report on pages 75 to 97.
+The non-executive directors are remunerated by the Group.
+3 Investments in subsidiary undertakings 2015 2014 000 000 Cost and net book value At beginning of period 122,798 117,298 Addition Further investment in subsidiary undertaking 2,890 Disposal addition Revaluation of deferred consideration due on acquisition of subsidiary 18 Disposal Consolidation of US operations 9,788 Reversal of deferred consideration 272 748 Addition Share-based payment to employees of subsidiary 11,774 13,164 At end of period 134,300 122,798 4 Debtors 2015 2014 000 000 Other debtors 33 41 Amounts owed by subsidiary undertakings 70,098 64,668 70,131 64,709 146 Financial report | 37,899,000 2014: 32,467,000 of the amounts owed by subsidiary undertakings are due after more than one year.
+5 Creditors: Amounts falling due within one year 2015 2014 000 000 Bank loan 3,251 8,561 Accruals and deferred income 192 Deferred and contingent consideration 284 639 3,535 9,392 In February 2013, the Group drew down a $48,000,000 term loan which was used to part fund the acquisition of MIPS Technologies, Inc. On 17 June 2014, the Group completed a re-negotiation of the terms of the above loan.
+Under the revised terms the remaining loan balance is repayable in seven six monthly instalments of $2,500,000 between December 2014 and December 2017, with a final bullet payment of $23,300,000 due in June 2018.
+The loan is now subject to lower variable quarterly interest payments at a rate of 1.3% above 3 month LIBOR on the outstanding balance.
+The loan is secured by a debenture dated March 2013 which gives HSBC Bank plc a fixed and floating charge over the assets of the Company and its principal subsidiary Imagination Technologies Limited.
+6 Operating leases At 30 April 2015, the Company had no operating lease commitments 2014: nil.
+7 Capital commitments At 30 April 2015, the Company had no capital commitments 2014: nil.
+8 Called-up share capital Details of the Companys called-up share capital are shown in note 16 of the Group financial statements.
+Financial report 147 | 9 Reserves Share based Share Other capital Warrant payment Retained premium reserve reserve reserve earnings 000 000 000 000 000 At 1 May 2013 99,236 1,423 34,848 4,834 Loss for the financial year 7,504 Issue of new shares 412 Shares issued at nil cost 169 Acquisition of own shares for LTIP 1,106 Share-based remuneration 13,368 At 30 April 2014 99,648 1,423 48,216 13,613 At 1 May 2014 99,648 1,423 48,216 13,613 Profit for the financial year 3,019 Issue of new shares 2,336 Shares issued at nil cost 236 Acquisition of own shares for LTIP 394 Share-based remuneration 11,775 At 30 April 2015 101,984 1,423 59,991 11,224 10 Reconciliation of movements in equity shareholders funds 2015 2014 000 000 Equity shareholders funds at the start of the period 162,443 157,244 Profit loss for the financial year 3,019 7,504 Share-based remuneration 11,775 13,368 Issue of new shares 2,099 665 Equity shareholders funds at the end of the period 179,336 162,443 148 Financial report |

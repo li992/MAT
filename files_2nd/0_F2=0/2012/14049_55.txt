@@ -1,0 +1,220 @@
+Section 5 | Financial statements Notes to the Consolidated Financial Statements 1.
+General information Serco Group plc the Group is a company incorporated in the United Kingdom under the Companies Act 2006.
+The address of the registered ofce is Serco House, 16 Bartley Wood Business Park, Bartley Way, Hook, Hampshire, RG27 9UY.
+These consolidated financial statements the financial statements are presented in pounds Sterling because this is the currency of the primary economic environment in which the Group operates.
+Foreign operations are included in accordance with the policies set out in note 2.
+2. significant accounting policies Basis of accounting These financial statements on pages 116 to 176 have been prepared in accordance with International Financial Reporting Standards IFRSs adopted for use in the European Union and therefore the Group financial statements comply with Article 4 of the EU IAS regulation.
+The financial statements have been prepared on the historical cost basis, except for the revaluation of financial instruments.
+The following principal accounting policies adopted have been applied consistently in the current and preceding financial year except as stated below.
+As discussed in more detail in the Finance Review, these financial statements have been prepared on the going concern basis.
+Adoption of new and revised Standards The following new and revised standards and interpretations have been adopted in the current year.
+Their adoption has not had any significant impact on the amounts reported in these financial statements but may impact the accounting for future transactions and arrangements.
+IFRS 1 amended Severe Hyperination and Removal of Fixed Dates for First-time Adopters The amendments provide guidance for entities preparing financial statements in accordance with IFRS after a period when their functional currency was subject to severe hyperination.
+They also remove references to a xed transition date to eliminate the need for companies adopting IFRSs for the first time after 1 January 2004 to restate derecognition transactions that occurred before the date of transition to IFRSs.
+IFRS 7 amended Disclosures Transfers of Financial Assets These amendments are intended to provide greater transparency around risk exposures of transactions where a financial asset is transferred but the transferor retains some level of continuing exposure referred to as continuing involvement in the asset.
+IAS 12 amended Deferred Tax: Recovery of Underlying Assets The amendment provides a practical solution to the problem by introducing a presumption that recovery of the carrying amount will normally be through sale.
+IAS 1 amended Presentation of Items in Other Comprehensive Income This amendment increases the required level of disclosure within the statement of comprehensive income.
+Improvements to IFRSs 2011 Aside from those items already identied above, the amendments made to standards under the 2011 improvements of IFRS have had no impact on the Group.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company, entities controlled by the Company its subsidiaries and entities jointly controlled by the Company its joint ventures up to 31 December each year.
+Control is achieved where the Company has the power to govern the financial and operating policies of an investee entity so as to obtain benets from its activities.
+The results of subsidiaries and joint ventures acquired or disposed of during the year are included in the consolidated income statement from the effective date of acquisition or up to the effective date of disposal as appropriate.
+Where necessary, adjustments are made to the financial statements of subsidiaries and joint ventures to bring accounting policies into line with those used by the Group.
+All intra-Group transactions, balances, income and expenses are eliminated on consolidation.
+Non-controlling interests represent the portion of profit or loss and net assets in subsidiaries that is not held by the Group and is presented within equity in the consolidated balance sheet, separately from parent shareholders equity.
+120 | Serco Group plc | Annual report and accounts 2012 2. significant accounting policies continued Business combinations Acquisitions of subsidiaries and businesses are accounted for using the acquisition method.
+The consideration for each acquisition is measured at the aggregate of the fair values, at the date of exchange, of assets given, liabilities incurred or assumed, and equity instruments issued by the Group in exchange for control of the acquiree.
+Acquisition-related costs are recognised in profit or loss as incurred.
+Where applicable, the consideration for the acquisition includes any asset or liability resulting from a contingent consideration arrangement, measured at its acquisition date fair value.
+Subsequent changes in fair values are adjusted against the cost of acquisition where they qualify as measurement period adjustments which is subject to a maximum of one year.
+All other subsequent changes in the fair value of contingent consideration classied as an asset or liability are accounted for in accordance with the relevant accounting standards.
+Changes in the fair value of contingent consideration classied as equity are not recognised.
+The acquirees identiable assets, liabilities and contingent liabilities that meet the conditions for recognition under IFRS 3 2008 Business Combinations are recognised at their fair value at the acquisition date, except where a different treatment is mandated by another standard.
+Goodwill arising on acquisition is recognised as an asset at the date that control is acquired.
+Goodwill is measured as the excess of the sum of the consideration transferred, the amount of any non-controlling interest and the fair value of any previously held equity interest in the acquired entity, over the net of the acquisition date amounts of the identiable assets and liabilities acquired.
+If, after reassessment, the Groups interest in the net fair value of the acquirees identiable net assets exceeds the sum of the consideration transferred, the amount of any non-controlling interest and the fair value of any previously held equity interest in the acquired entity, the excess is recognised immediately in the income statement.
+Goodwill Goodwill arising on consolidation represents the excess of the cost of acquisition over the Groups interest in the fair value of the identiable assets and liabilities of a subsidiary, associate or jointly controlled entity, at the date of acquisition.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+Goodwill which is recognised as an asset is reviewed for impairment at least annually.
+Any impairment is recognised immediately in profit or loss and is not subsequently reversed.
+For the purpose of impairment testing, goodwill is allocated to each of the Groups cash-generating units CGUs expected to benefit from the synergies of the combination.
+CGUs to which goodwill has been allocated are tested for impairment annually, or more frequently when there is an indication that the unit may be impaired.
+If the recoverable amount of the CGU is less than the carrying amount of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit.
+An impairment loss recognised for goodwill is not reversed in a subsequent period.
+On disposal of a subsidiary, associate or jointly controlled entity, the attributable amount of goodwill is included in the determination of the profit or loss on disposal.
+Goodwill arising on acquisitions before the date of transition to IFRS has been retained at the previous UK GAAP amounts subject to being tested for impairment at that date.
+Goodwill written off to reserves under UK GAAP prior to 1998 has not been reinstated and is not included in determining any subsequent profit or loss on disposal.
+Investments in joint ventures The Groups investments in joint ventures are reported in the financial statements using the proportionate consolidation method, whereby the Groups share of each of the assets, liabilities, income and expenses of its joint ventures is combined line by line with similar items in the Groups financial statements or reported as separate line items within the Groups financial statements.
+Serco Group plc | Annual report and accounts 2012 | 121 Financial statements Section 5 | Financial statements Notes to the Consolidated Financial Statements 2. significant accounting policies continued Property, plant and equipment Assets held for use in the rendering of services, or for administrative purposes, are stated in the balance sheet at cost, net of accumulated depreciation and any provision for impairment.
+Depreciation is provided on a straight-line basis at rates designed to reduce the assets to their residual value over their estimated useful lives.
+The principal annual rates used are: Freehold buildings 2.5% Short-leasehold building improvements The higher of 10% or the rate produced by the lease term Machinery 15%20% Motor vehicles 10%50% Furniture 10% Ofce equipment 20%33% Leased equipment The higher of the rate produced by the lease term or useful life The gain or loss arising on the disposal or retirement of an asset is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognised in the income statement.
+Assets are grouped into classes of similar nature and use and separately disclosed except where this is not material.
+Other intangible assets Customer relationships represent the value of contracts acquired on the acquisition of subsidiaries and are amortised over the average length of the related contracts.
+Development expenditure is capitalised as an intangible asset only if all of the following conditions are met: an asset is created that can be separately identied, and which the Group intends to use or sell: the nalisation of the asset is technically feasible and the Group has adequate resources to complete its development for use or sale: it is probable that the asset created will generate future economic benets: and the development cost of the asset can be measured reliably.
+Purchased software and development expenditure is amortised over the period in which the Group is expected to benefit.
+This period is between three to eight years, or the length of the contract if longer.
+Provision is also made for any impairment.
+All other development expenditure is written off as incurred.
+Assets under the course of construction are not depreciated.
+Licences comprise premiums paid for the acquisition of licences, which are amortised on a straight-line basis over the life of the licence.
+Franchises represent costs incurred in obtaining franchise rights and franchise goodwill arising on the acquisition of franchises.
+These are amortised on a straight-line basis over the life of the franchise.
+Pension related intangibles represent assets arising in relation to the Groups right to manage and operate contracts where there is a dened benefit pension scheme and it is not virtually certain that contributions will be recovered from the customer but where the Groups obligation to contribute to the scheme ends when the contract ends.
+The intangible assets represent the Groups share of scheme net liabilities on the date that contracts commence and are amortised on a straight-line basis over the life of the contract.
+122 | Serco Group plc | Annual report and accounts 2012 2. significant accounting policies continued Impairment of tangible and intangible assets Annually, the Group reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash ows that are independent from other assets, the Group estimates the recoverable amount of the CGU to which the asset belongs.
+A CGU is the smallest group of assets that generates cash inows from continuing use that are largely independent of the cash ows of other assets or groups of assets.
+For the purpose of impairment testing, the goodwill acquired in a business combination is allocated to cash-generating units that are expected to benefit from the synergies of the combination.
+Recoverable amount is dened as the higher of fair value less costs to sell and value in use.
+In assessing value in use, the estimated future cash ows are discounted to their present value using a pre-tax discount rate that reects current market assessments of the time value of money and the risks specic to the asset for which the estimates of future cash ows have not been adjusted.
+If the recoverable amount of an asset or CGU is estimated to be less than its carrying amount, the carrying amount of the asset or CGU is reduced to its recoverable amount.
+An impairment loss is recognised as an expense immediately.
+Impairment losses recognised in respect of CGUs are allocated first to reduce the carrying amount of any goodwill allocated to the units and then to reduce the carrying amount of the other assets in the unit group of units on a pro rata basis.
+An impairment loss in respect of goodwill is not reversed.
+In respect of other assets, impairment losses recognised in prior periods are assessed at each reporting date for indications that the loss has decreased or no longer exists.
+Where an impairment loss subsequently reverses, the carrying amount of the asset or CGU is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, had no impairment loss been recognised for the asset or CGU in prior years.
+A reversal of an impairment loss is recognised as income immediately.
+Impairment losses and reversals are included within administrative expenses within the consolidated income statement.
+Revenue recognition Revenue is measured at the fair value of the consideration received or receivable and represents amounts due for goods and services provided in the normal course of business, net of discounts, VAT and other sales related taxes.
+Revenue is deferred when the Group has received consideration under the terms of a contract in advance of performing the related service or delivering the associated goods.
+Deferred revenue is recognised as revenue in the income statement when the Group has fullled the relevant contractual commitment.
+Revenue recognition: repeat service-based contracts Revenue on repeat service-based contracts is recognised as services are provided.
+Revenue recognition: long-term project-based contracts The Group has a number of long-term contracts for the provision of complex, project-based services.
+Where the outcome of such long-term project-based contracts can be measured reliably, revenue and costs are recognised by reference to the stage of completion of the contract activity at the balance sheet date in accordance with IAS 18 Revenue and IAS 11 Construction Contracts.
+This is measured by the proportion of contract costs incurred for work performed to date compared to the estimated total contract costs.
+Variations in contract work, claims and incentive payments are included to the extent that they have been agreed with the customer, or are virtually certain of being received.
+Where the outcome of a long-term project-based contract cannot be estimated reliably, contract revenue is recognised to the extent of contract costs that are probable to be recovered.
+Contract costs are recognised as expenses in the period in which they are incurred.
+When it is probable that the total contract costs will exceed total contract revenue, the expected loss is recognised as an expense immediately.
+Revenue recognition: other Sales of goods are recognised when goods are delivered and title has passed.
+Interest income is accrued on a time basis, by reference to the principal outstanding and at the effective interest rate applicable, which is the rate that exactly discounts estimated future cash receipts through the expected life of the financial asset to that assets net carrying amount.
+Dividend income from investments is recognised when the shareholders rights to receive payment have been established.
+Serco Group plc | Annual report and accounts 2012 | 123 Financial statements Section 5 | Financial statements Notes to the Consolidated Financial Statements 2. significant accounting policies continued Bid costs and phase-in costs All bid costs are expensed through the income statement up to the point where contract award or full recovery of costs is virtually certain.
+Bid costs incurred after this point are then capitalised within trade and other receivables.
+On contract award these bid costs are amortised through the income statement over the contract period by reference to the stage of completion of the contract activity at the balance sheet date.
+Bid costs are only capitalised to the extent that it is expected that the related contract will generate sufficient future economic benets to at least offset the amortisation charge.
+Phase-in costs directly related to phase-in programmes of contracts are treated as an integral part of contract costs and are recognised on a straight-line basis over the life of the contract except where they are specically reimbursed as part of the terms of the contract when they are recognised as revenue.
+Segmental information Segmental information is based on internal reports about components of the Group that are regularly reviewed by the Groups Chief Operating Decision Maker in order to allocate resources to the segments and to assess their performance.
+Segmental revenue is analysed on an external basis.
+Inter-segment revenue is not presented as it is not significant in the context of revenue as a whole.
+Net finance costs are not presented for each operating segment as they are reviewed on a consolidated basis by the Groups Chief Operating Decision Maker.
+Items excluded from segmental results comprise corporate expenses.
+Specic corporate expenses are allocated to the corresponding segments.
+Segment assets comprise goodwill, other intangible assets, property, plant and equipment, inventories, trade and other receivables excluding corporation tax recoverable and any retirement benefit assets.
+Segment liabilities comprise trade and other payables and retirement benefit obligations.
+Inventories Inventories are stated at the lower of cost and net realisable value and comprise service spares, parts awaiting installation and long-term project-based contract balances.
+Cost comprises direct materials and, where applicable, direct labour costs that have been incurred in bringing the inventories to their present location and condition.
+Leases Leases are classied as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+All other leases are classied as operating leases.
+Assets held under finance leases are recognised as assets of the Group at fair value or, if lower, at the present value of minimum lease payments determined at the inception of the lease.
+The corresponding liability to the lessor is included in the balance sheet as a finance lease obligation.
+Lease payments are apportioned between finance charges and reduction of the lease obligation so as to achieve a constant rate of interest on the remaining balance of the liability.
+Finance charges are charged directly against income, unless they are directly attributable to a qualifying asset, in which case they are capitalised in accordance with the Groups general policy on borrowing costs see below.
+Total rentals payable under operating leases are charged to income on a straight-line basis over the term of the relevant lease.
+Foreign currencies Transactions in currencies other than Sterling are recorded at the rates of exchange on the dates of the transactions.
+At each balance sheet date, monetary assets and liabilities that are denominated in foreign currencies are retranslated at the rates prevailing on the balance sheet date.
+Non-monetary assets and liabilities carried at fair value that are denominated in foreign currencies are translated at the rate prevailing on the date when the fair value was determined.
+Gains and losses arising on retranslation are included in the net profit or loss for the period, except for exchange differences arising on non-monetary assets and liabilities where the changes in fair value are recognised directly in equity in the consolidated statement of comprehensive income SOCI.
+On consolidation, the assets and liabilities of the Groups overseas operations are translated at exchange rates prevailing on the balance sheet date.
+Income and expense items are translated at the average exchange rates for the period.
+Exchange differences arising, if any, are recognised directly within equity in the Groups hedging and translation reserve.
+Such translation differences are recognised as income or expenses in the period in which the operation is disposed of.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+Borrowing costs Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which are assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to the cost of those assets, until such time as the assets are substantially ready for their intended use or sale.
+All other borrowing costs are recognised as an expense in the period in which they are incurred.
+124 | Serco Group plc | Annual report and accounts 2012 2. significant accounting policies continued Retirement benefit costs Payments to dened contribution pension schemes are charged as an expense as they fall due.
+For dened benefit pension schemes, the cost of providing benets is determined using the projected unit credit actuarial cost method, with actuarial valuations being carried out at each balance sheet date.
+Actuarial gains and losses are recognised in full in the period in which they occur.
+They are recognised outside the income statement and are presented in the SOCI.
+The current service cost represents the increase in the present value of the scheme liabilities expected to arise from employee service in the current period.
+Past service cost is recognised immediately to the extent that the benets are already vested, and is amortised on a straight-line basis over the average period until the benefit vests.
+Gains and losses on curtailments or settlements are recognised in the period in which the curtailment or settlement occurs.
+The retirement benefit obligation recognised in the balance sheet represents the present value of the dened benefit obligation as adjusted for unrecognised past service costs, and as reduced by the fair value of scheme assets.
+Any asset resulting from this calculation is limited to past service cost, plus the present value of available refunds and reductions in future contributions to the scheme.
+The economic benefit from refunds is only recognised to the extent that the Group has an unconditional right to receive a refund.
+To the extent that an economic benefit is available as a reduction in contributions and there is a minimum funding requirement, the economic benefit available as a reduction in contributions is calculated at the present value of: a the estimated future service cost in each year: less b the estimated minimum funding contributions required in respect of the future accrual and benets in that year.
+Dened benefit obligations arising from contractual obligations Where the Group takes on a contract and assumes the obligation to contribute variable amounts to the dened benefit pension scheme throughout the period of the contract and it is not virtually certain that the contributions will be recovered from the customer, the Groups share of the dened benefit obligation less its share of the pension scheme assets that it will fund over the period of the contract is recognised as a liability at the start of the contract with a corresponding amount being recognised as an intangible asset.
+The intangible asset, which reects the Groups right to manage and operate the contract, is amortised over the contract period.
+The Groups share of the scheme assets and liabilities is calculated by reducing the scheme assets and liabilities by a franchise adjustment.
+The franchise adjustment represents the amount of scheme deficits that will be funded outside the contract period.
+Subsequent actuarial gains and losses in relation to the Groups share of pension obligations are recognised outside the income statement and are presented in the SOCI.
+Where the Group takes on a contract and assumes the obligation to contribute variable amounts to the dened benefit pension scheme throughout the period of the contract and it is virtually certain that the contributions will be recovered from the customer, the Groups share of the dened benefit obligation less its share of the pension scheme assets are recognised as a liability at the start of the contract with a corresponding amount being recognised as a financial asset at fair value, being the fair value of the reimbursable rights.
+In the consolidated income statement, the expense relating to the dened benefit scheme is presented net of the amount recognised for reimbursement.
+The change in fair value of the reimbursable rights that is not presented in the income statement is reported in the SOCI.
+Multi-employer pension schemes Multi-employer pension schemes are classied as either a dened contribution pension scheme or a dened benefit pension scheme under the terms of the scheme.
+When sufficient information is not available to use dened benefit accounting for a multi-employer dened benefit pension scheme, the Group accounts for the scheme as if it were a dened contribution scheme.
+Serco Group plc | Annual report and accounts 2012 | 125 Financial statements Section 5 | Financial statements Notes to the Consolidated Financial Statements 2. significant accounting policies continued Tax The tax expense represents the sum of current tax expense and deferred tax expense.
+Current tax expense is based on taxable profit for the year.
+Taxable profit differs from net profit as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is provided, using the liability method, on temporary differences at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts for accounting purposes.
+Deferred tax liabilities are generally recognised for all taxable temporary differences.
+Deferred tax assets are generally recognised for all deductible temporary differences, carry forward of unused tax credits and unused tax losses, to the extent that it is probable that taxable profits will be available against which these items can be utilised.
+Deferred tax assets and liabilities are not recognised if the temporary difference arises from goodwill or from the initial recognition of an asset and liability in a transaction other than a business combination and, at the time of the transaction, affects neither the tax profit nor the accounting profit.
+Deferred tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries and joint ventures, except where the Group is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be utilised.
+Deferred tax is measured at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised, based upon tax rates and legislation that have been enacted or substantively enacted at the balance sheet date.
+Deferred tax is charged or credited in the income statement, except where it relates to items charged or credited directly to equity, in which case the deferred tax is also recognised in equity.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same tax authority where the Group intends to settle its current tax assets and liabilities on a net basis.
+Research and development costs Expenditure on research is recognised as an expense in the period in which it is incurred.
+Development costs are expensed in the period in which the costs are incurred unless the criteria for capitalisation is met see other intangible assets policy.
+Share-based payment The Group makes equity-settled share-based payments to certain employees and operates an HMRC approved Save As You Earn SAYE share option scheme open to eligible employees which allows the purchase of shares at a discount.
+These are measured at fair value at the date of grant.
+The fair value is expensed on a straight-line basis over the vesting period, based on the Groups estimate of shares that will eventually vest.
+SAYE options are treated as cancelled when employees cease to contribute to the scheme, resulting in an acceleration of the remainder of the related expense.
+Where the fair value of share options requires the use of a valuation model, fair value is measured by use of the Binomial Lattice or Monte Carlo Simulation models depending on the type of scheme, as set out in note 37.
+The expected life used in the models has been adjusted, based on managements best estimate, for the effects of non-transferability, exercise restrictions, and behavioural considerations.
+Where relevant, the value of the option has also been adjusted to take account of market conditions applicable to the option.
+Trade receivables Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method, less provision for impairment.
+A provision for impairment of trade receivables is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the contract.
+significant financial difficulties of the debtor, probability that the debtor will enter bankruptcy or financial reorganisation, and default or delinquency in payments are considered indicators that a trade receivable is impaired.
+The amount of the provision is based on managements best estimate of the recoverable amount.
+The carrying amount of the asset is reduced through the use of an allowance for doubtful debts and the amount of the loss is recognised in the income statement within administrative expenses.
+When a trade receivable is uncollectible, it is written off against the allowance for doubtful debts.
+Subsequent recoveries of amounts previously written off are credited against administrative expenses.
+Cash and cash equivalents Cash and cash equivalents comprise cash in hand and balances with banks and similar institutions, which are readily convertible to known amounts of cash and which are subject to insignicant changes in value and have a maturity of three months or less from the date of acquisition.
+This denition is also used for the consolidated cash ow statement.
+Dividends Dividends are recorded in the Groups consolidated financial statements in the period in which they are declared, appropriately authorised and no longer at the discretion of the Company.
+126 | Serco Group plc | Annual report and accounts 2012 2. significant accounting policies continued Loans Loans are initially stated at the amount of the net proceeds after deduction of issue costs.
+The carrying amount of loans hedged by derivatives is increased by the finance cost in respect of the accounting period and reduced by payments made in the period.
+Loans which are unhedged are stated at amortised cost using the effective interest rate method.
+Accrued interest is recorded separately from the associated borrowings within current liabilities.
+Loans are described as non recourse loans and classied as such only if no Group company other than the relevant borrower has an obligation, under a guarantee or other arrangement, to repay the debt.
+Derivative financial instruments and hedging activities The Group enters into a variety of derivative financial instruments to manage the exposure to interest rate foreign exchange risk and price risk, including currency swaps, foreign exchange forward contracts, interest rate swaps and commodity future contracts.
+Further details of derivative financial instruments are given in note 29.
+Derivatives are initially recognised at fair value at the date a derivative contract is entered into and are subsequently remeasured to their fair value at each balance sheet date.
+A derivative with a positive fair value is recognised as a financial asset whereas a derivative with a negative fair value is recognised as a financial liability.
+The resulting gain or loss is recognised in profit or loss immediately unless the derivative is designated and effective as a hedging instrument, in which event the timing of the recognition in profit or loss depends on the nature of the hedge relationship.
+The Group designates certain derivatives as either hedges of the fair value of recognised assets or liabilities or rm commitments fair value hedges, hedges of highly probable forecast transactions or hedges of foreign currency risk of rm commitments cash ow hedges, or hedges of net investments in foreign operations.
+A derivative is presented as a non-current asset or a non-current liability if the remaining maturity of the instrument is more than 12 months and it is not expected to be realised or settled within 12 months.
+Other derivatives are presented as current assets or current liabilities.
+Embedded derivatives Derivatives embedded in other financial instruments or other host contracts are treated as separate derivatives when their risks and characteristics are not closely related to those of the host contracts and these are not measured at fair value through profit or loss.
+Hedge accounting The Group designates certain hedging instruments, which include derivatives, embedded derivatives and non-derivatives in respect of foreign exchange risk, as either fair value hedges, cash ow hedges, or hedges of net investments in foreign operations.
+Hedges of foreign exchange risk on highly probable forecast transactions and rm commitments are accounted for as cash ow hedges.
+At the inception of the hedge relationship, the entity documents the relationship between the hedging instrument and the hedged item, along with its risk management objectives and its strategy for undertaking various hedge transactions.
+Furthermore, at the inception of the hedge and on an ongoing basis, the Group documents whether the hedging instrument that is used in a hedging relationship is highly effective in offsetting changes in fair values or cash ows of the hedged item.
+Details of the fair values of the derivative instruments used for hedging purposes and movements in the hedging and translation reserve in equity are detailed in the SOCI and described in note 29.
+Fair value hedges Changes in the fair value of derivatives that are designated and qualify as fair value hedges are recorded in profit or loss immediately, together with any changes in the fair value of the hedged item that is attributable to the hedged risk.
+The change in the fair value of the hedging instrument and the change in the hedged item attributable to the hedged risk are recognised in the line of the income statement relating to the hedged item.
+Hedge accounting is discontinued when the Group revokes the hedging relationship, the hedging instrument expires or is sold, terminated, exercised, or no longer qualies for hedge accounting.
+The adjustment to the carrying amount of the hedged item arising from the hedged risk is amortised to profit or loss from that date.
+Cash ow hedges The effective portion of changes in the fair value of derivatives that are designated and qualify as cash ow hedges are deferred in equity.
+The gain or loss relating to the ineffective portion is recognised immediately in profit or loss.
+Amounts deferred in equity are reclassied to profit or loss in the periods when the hedged item affects profit or loss, in the same line of the income statement as the recognised hedged item.
+However, when the forecast transaction that is hedged results in the recognition of a non-financial asset or a non-financial liability, the gains and losses previously deferred in equity are transferred from equity and included in the initial measurement of the cost of the non-financial asset or non-financial liability.
+Any cumulative gain or loss deferred in equity at that time remains in equity and is recognised when the forecast transaction is ultimately recognised in profit or loss.
+When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was deferred in equity is recognised immediately in profit or loss.
+Serco Group plc | Annual report and accounts 2012 | 127 Financial statements Section 5 | Financial statements Notes to the Consolidated Financial Statements 2. significant accounting policies continued Hedges of net investments in foreign operations Hedges of net investments in foreign operations are accounted for similarly to cash ow hedges.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in equity and accumulated in the hedging and translation reserve.
+The gain or loss relating to the ineffective portion is recognised immediately in profit or loss and is included in the net exchange gain loss on translation of foreign operations line item.
+Gains and losses on the hedging instrument relating to the effective portion of the hedge accumulated in the foreign currency translation reserve are reclassied to profit or loss in the same way as exchange differences relating to the foreign operations.
+Net investments in foreign operations Exchange differences arising on monetary items that form part of the Groups net investment in foreign operations are initially recognised in equity and accumulated in the hedging and translation reserve and reclassied from equity to profit or loss on disposal of the net investment.
+Provisions Provisions are recognised when the Group has a present obligation as a result of a past event, and it is probable that the Group will be required to settle that obligation.
+Provisions are measured at the Directors best estimate of the expenditure required to settle the obligation at the balance sheet date.
+New standards and interpretations not applied At the date of authorisation of these financial statements, the following standards and interpretations which have not been applied in these financial statements were in issue but not yet effective and in some cases had not yet been adopted by the EU : IFRS 1 amended Government loans IFRS 7 amended Disclosures Offsetting Financial Assets and Financial Liabilities IFRS 9 Financial Instruments IFRS 10 Consolidated Financial Statements IFRS 11 Joint Arrangements IFRS 12 Disclosure of Interests in Other Entities IFRS 13 Fair Value Measurement IAS 19 revised Employee Benets IAS 27 revised Separate Financial Statements IAS 28 revised Investments in Associates and Joint Ventures IAS 32 amended Offsetting Financial Assets and Financial Liabilities Mandatory Effective Date and Transition Disclosures Amendments to IFRS 9 and IFRS 7 Annual Improvements 20092011.
+The Directors do not anticipate that the adoption of these standards and interpretations will have a material impact on the Groups financial statements in the period of initial application except as follows: IFRS 9 will impact both the measurement and disclosures of financial instruments: IFRS 11 will require the Group to change from proportionate consolidation of joint arrangements and adopt equity accounting.
+A restatement of the 2012 results for these changes reduces statutory reported revenue by 852.9m and profit before tax by 15.1m.
+There is no impact on post tax profits, earnings per share, or net assets from this change: IFRS 13 will impact the measurement of fair value for certain assets and liabilities as well as the associated disclosures: and IAS 19 revised will impact the measurement of the various components representing movements in the dened benefit obligation and associated disclosures, but not the Groups total obligation.
+It is likely that following the replacement of expected returns on plan assets with a net finance cost in the income statement, the profit for the period will be reduced and accordingly other comprehensive income increased.
+Beyond the information above, it is not practicable to provide a reasonable estimate of the effect of these standards and interpretations until a detailed review has been completed.
+128 | Serco Group plc | Annual report and accounts 2012

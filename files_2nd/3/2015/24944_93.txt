@@ -1,0 +1,180 @@
+Appendix: Matters discussed with the Group Audit Committee GAC Those areas which presented the greatest risk of material misstatement in the financial statements are required to be discussed with the GAC.
+They had the greatest effect on the audit, including the allocation of resources and effort and are discussed below together with an explanation of how the audit was tailored to address these specific areas.
+The first table indicates which segments and businesses were impacted by the matters discussed.
+This is not a complete list of all risks identified by the audit.
+Segments Global businesses Group North Latin Matters discussed wide Europe Asia America America RBWM CMB GB&M GPB IT access management Goodwill and intangible assets Application of hedge accounting Impairment of loans and advances Litigation and conduct Investment in BoCom Impact of the DPA Recoverability of deferred tax assets HSBC HOLDINGS PLC 327 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Report of the independent auditors to the members of HSBC Holdings plc Appendix IT access management Nature of the area of focus Matters discussed with the GAC Access rights to technology are provided to individuals in order to A specific pre-year end GAC meeting was held to discuss the control support their specific roles.
+These rights are important because they issues identified, and to agree a response.
+ensure that changes to applications and data are authorised and A revised audit approach and plan was presented along with examples made in an appropriate manner.
+Ensuring staff only have of how the application and database findings impacted specific appropriate access, and that the access is monitored, are key products transacted by HSBC.
+controls to mitigate the potential for fraud or error as a result of a At the GAC meeting held prior to approving the Annual Report and change to an application or underlying data.
+Accounts 2015, a summary of the findings of the audit work was During the year, it was identified that controls over access rights to discussed, together with a consideration of the additional work operating systems, applications, and data used in the financial performed by management to address the issues identified.
+This reporting process required improvement to ensure that access was included the work undertaken to evidence that access was not used sufficiently monitored, restricted or segregated.
+inappropriately, and also detective controls which operated at many All banks are highly dependent on technology due to the significant levels within HSBC to prevent a material error or fraud remaining number of transactions that are processed daily.
+relies extensively on automated controls and therefore procedures are designed to test access and control over IT systems.
+As a consequence of the control findings, the assessed risk of a material misstatement arising from access to technology was changed to significant.
+The audit approach was modified, with the extent of testing increased substantially to obtain the necessary evidence that a material error or fraud remained undetected.
+Procedures performed to support our discussions and conclusions Access rights were tested over the various aspects of technology relied upon for financial reporting.
+Specifically, the audit tested that: new access requests for joiners were properly reviewed and authorised: application user access rights were removed on a timely basis when an individual left or moved role: and access rights to applications were periodically monitored for appropriateness.
+Other areas that were independently assessed included password policies, security configurations, controls over changes to applications and databases and that business users, developers and production support did not have access to change applications, the operating system or databases in the production environment.
+As a consequence of the findings that were identified a range of other procedures were performed: Where possible, the extent of inappropriate access was identified and the changes made with this access assessed to determine that they were appropriate.
+Automated controls in applications impacted were considered as manual, and therefore tested on multiple occasions rather than once.
+Additional substantive testing was performed on the year-end balance sheet and income statement where this was deemed to be effective.
+Where possible, testing was performed on other compensating controls or processes not impacted by systems.
+A list of users with access to systems was obtained and manually compared to other access lists where segregation of duties was deemed to be of higher risk, for example within GB&M.
+Relevant references in the Annual Report and Accounts 2015 GAC Report, page 262.
+Effectiveness of internal controls, page 277.
+HSBC HOLDINGS PLC 328 Goodwill and intangible assets Nature of the area of focus Matters discussed with the GAC Goodwill of $16.3bn has arisen from a number of historic The judgements used by management were most important when the acquisitions.
+The largest balances are in Europe, North America and calculated value-in-use was close to the carrying value of the CGU.
+Reasonably possible alternative assumptions were considered to identify those CGUs which were most sensitive to a change in value An assessment is required annually to establish whether this in use.
+During the third quarter, goodwill for GB&M in North America, goodwill should continue to be recognised, or if any impairment is Latin America and Europe, together with the Global Private Bank in required.
+The assessment was performed for each global business Europe were of most interest in the discussion with the GAC as these within a region, which is the lowest level at which HSBC could four CGUs have low levels of headroom as a proportion of carrying allocate and assess goodwill, which is referred to as a cash value.
+Subsequently, at 31 December the goodwill for Global Private generating unit CGU.
+Bank Europe and GB&M North America was retested as a result of The impairment assessment relied on the calculation of a value-inindications of impairment being present.
+This calculation was based on estimated The discussion with the GAC focused on the key assumptions, both future cash flows for each CGU discounted at an appropriate cost of individually and when combined together.
+During these discussions, equity rate.
+HSBC used its Annual Operating Plan as the basis for the management confirmed their view that the forecasts for each CGU first 5 years of cash flows and then extrapolated returns into remained appropriate.
+perpetuity using a terminal growth factor.
+Cost of equity discount rates were based on the investment rates used within the global As disclosed on page 410, a small deterioration in either performance or long term growth forecasts, or an increase in the discount rate may business and approved by the Board of Directors.
+lead to impairment in one or more of the CGUs identified.
+The estimation of future cash flows and the level to which they are discounted is inherently uncertain and requires significant judgement.
+The extent of judgement and the size of the goodwill, resulted in this matter being identified as an area of audit focus.
+Procedures performed to support our discussions and conclusions PwCs independent valuation experts critically assessed the discount rate and terminal growth rates used in the discounted cashflow models.
+The critical challenge was focused on the methodology used to reconcile the discount rates used by each CGU to the overall calculated cost of capital for HSBC: and whether the use of the country GDP growth rates was the most appropriate in determining the terminal growth of cash flows for each CGU.
+The calculations used in the model were re-performed to check accuracy and the key inputs in the model were agreed to approved sources.
+Managements strategic cash flow forecasts used in the model were assessed by: testing that the forecasts agreed to the 2015 Annual Operating Plan, which had been approved by the Board of Directors and considering how plans announced in HSBCs strategy update to investors on 9 June 2015 impacted that plan.
+For Global Private Banking Europe and GB&M North America flows in the forecasted 2016 Annual Operating Plan were agreed to the retest of impairment at 31 December: considering current year performance against plan and the reasons for any deviation.
+This was discussed with management of the Global Businesses for each sensitive CGU: and reviewing the historical achievement of the Annual Operating Plan.
+Given the uncertainties in forecasting, this identified that forecasts have been less accurate for prior periods, and we considered if this was appropriately factored into the discount rates used.
+Independent sensitivity analysis was performed, making adjustments to a number of modelled assumptions simultaneously to identify any further CGUs with a risk of impairment.
+This identified more CGUs requiring consideration than initially identified by management.
+The appropriateness of disclosures made in relation to goodwill was also reviewed.
+Note 20: Goodwill and intangible assets, page 406.
+HSBC HOLDINGS PLC 329 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Report of the independent auditors to the members of HSBC Holdings plc Appendix Application of hedge accounting Nature of the area of focus Matters discussed with the GAC To qualify for hedge accounting, certain criteria must be met The disqualified hedges resulted in an immaterial adjustment to the including documenting the nature and purpose of the hedge and income statement.
+A discussion was held with the GAC about performing regular testing over its effectiveness.
+whether the adjustment would have been more appropriate to 2014.
+Due to the size of the adjustment it was concluded that the Due to the complex nature of the hedge accounting rules this is often adjustment should be recognised in 2015. an area of significant risk for banks.
+However, given the nature of HSBCs business we initially believed the risk to be lower.
+The control implications of the findings were also discussed.
+A project team was established by management, which regularly The audit testing identified a number of instances where hedge reported progress and proposed a revised control structure be accounting was applied, but the accounting rules had not been established.
+This led to the disqualification for hedge accounting purposes of some macro cash flow hedges in the UK, France and Canada.
+As a result of these findings, management instigated a full review of all hedge accounting relationships.
+The audit risk associated with hedge accounting was reassessed to be significant for certain hedges, and the extent of testing increased.
+Procedures performed to support our discussions and conclusions Material macro cash flow hedge documentation was examined and the relationships assessed to determine if the hedges had been appropriately designated.
+This included consideration of the hedge objectives and specific compliance with IFRS.
+A sample of all other hedging relationships was examined and the relationships assessed to determine if they had been appropriately designated.
+Managements hedge effectiveness reviews, and the measurement and recording of hedge ineffectiveness, were tested for a sample of hedge relationships.
+Understood and tested controls over the documentation and review of the hedge relationships and their initial and ongoing effectiveness.
+Examined the output from managements review of hedge accounting relationships.
+HSBC HOLDINGS PLC 330 Impairment of loans and advances Nature of the area of focus Matters discussed with the GAC Impairment allowances represent management's best estimate of The policies and methodologies used by HSBC were discussed with the losses incurred within the loan portfolios at the balance sheet the GAC.
+The impairment policies and practices applied are consistent date.
+They are calculated on a collective basis for portfolios of loans with the requirements of IFRS.
+The methodologies used to calculate of a similar nature and on an individual basis for significant loans.
+collective impairment allowances are relatively standard which means The calculation of both collective and individual impairment that modelling risk is low but that changes in individual inputs can allowances is inherently judgemental for any bank.
+have a significant bearing on the impairment charge.
+Collective impairment allowances are calculated using statistical The discussion covered positive observations around the governance models which approximate the impact of current economic and supporting changes to model inputs and our observations on credit conditions on large portfolios of loans.
+The inputs to these suggested enhancements to documentation.
+models are subject to management judgement and model overlays At each GAC and Group Risk Committee meeting there was a are often required.
+discussion on changes to risk factors and other inputs within the For specific impairments, judgement is required to determine when collective allowance models as well as discussions on individually an impairment event has occurred and then to estimate the significant loan impairments.
+In light of the further deterioration in expected future cash flows related to that loan.
+the spot price of oil, a specific discussion on the exposures to the oil and gas sector was held with GAC at the year end.
+This discussion The audit was focused on impairment due to the materiality of the considered the appropriate treatment of the Groups exposure within balances and the subjective nature of the calculation.
+The largest the collective impairment calculation and the additional $0.2bn loan portfolios are in Europe and Asia.
+The most significant increase at the year-end.
+impairment allowances are in Europe, North America and Latin America.
+Procedures performed to support our discussions and conclusions The controls management has established to support their collective and specific impairment calculations were tested.
+For collective impairment this included controls over the appropriateness of models used to calculate the charge, the process of determining key assumptions and the identification of loans to be included within the calculation.
+For specific impairment charges on individual loans this included controls over the compilation and review of the credit watch list, credit file review processes, approval of external collateral valuation vendors and review controls over the approval of significant individual impairments.
+For collective allowances the appropriateness of the modelling policy and methodology used for material portfolios was independently assessed by reference to the accounting standards and market practices and model calculations were tested through re-performance and code review.
+The appropriateness of managements judgements was also independently considered in respect of calculation methodologies and segmentation, economic factors and judgemental overlays, period of historical loss rates used, loss emergence periods, cure rates for impaired loans and the valuation of recovery assets and collateral.
+For specific allowances the appropriateness of provisioning methodologies and policies was independently assessed for a sample of loans across the portfolio selected on the basis of risk.
+An independent view was formed on the levels of provisions booked based on the detailed loan and counterparty information in the credit file.
+Calculations within a sample of discounted cash flow models were reperformed.
+Relevant references in the Annual Report and Accounts 2015 Impaired loans, page 128.
+Areas of special interest, page 116.
+Note 1 j : Impairment of loans and advances, page 354.
+HSBC HOLDINGS PLC 331 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Report of the independent auditors to the members of HSBC Holdings plc Appendix Litigation and conduct Nature of the area of focus Matters discussed with the GAC HSBC, like other global banking institutions, is exposed to a Each material provision was discussed with the GAC when established significant number of open legal cases and regulatory investigations or changed, including whether HSBCs policy had been applied in an in a number of its markets.
+Given the business is geographically appropriate manner.
+dispersed, the same matter could be subject to investigation in A number of other matters, for which provisions were not established, multiple jurisdictions.
+were discussed to ensure the appropriateness of that decision.
+Provisions of $4.5bn have been established to account for legal Specifically: settlements, regulatory fines, customer redress payments and Legal cases: Group Legal provided to each GAC meeting an update on related operational costs.
+the status of legal cases.
+Material matters were discussed during the The most significant provisions relate to Payment Protection meeting and the need for changes to provisions considered.
+These Insurance, Jaffe vs Household Inc, tax-related investigations and discussions considered whether all related litigation or investigations Foreign Exchange market manipulation.
+about a specific matter had been identified.
+There is an inherent risk that conduct and legal exposures are not Customer redress payments: The most significant provision has been identified and considered for financial reporting purposes on a in relation to PPI.
+The change in approach to the provision as a result of timely basis.
+Importantly, the decision to recognise a provision and the FCA consultation paper released in November 2015 was discussed, the basis of measurement are judgemental.
+as well as the judgements made to reflect ongoing claim history.
+Procedures performed to support our discussions and conclusions Controls designed to ensure the completeness and adequacy of current legal and regulatory provisions were tested.
+Regulatory correspondence from material markets was also read, and a sample of legal expenses were reviewed.
+Open legal cases were discussed with Group Legal and in certain instances we obtained and reviewed the relevant regulatory and litigation documents in order to assess the facts and circumstances.
+The range of reasonably possible outcomes was considered for material provisions to independently assess the appropriateness of the judgement made by HSBC.
+The disclosures of conduct and legal exposures and provisions were assessed for completeness and accuracy.
+For customer redress, the provisioning models and underlying assumptions used, were independently assessed.
+For example, for PPI the inputs examined included customer complaint volumes and response rates.
+For the material models testing was performed to check that the models were maintained appropriately and relevant calculations within the models were re-performed.
+Note 40: Legal proceedings and regulatory matters, page 445.
+HSBC HOLDINGS PLC 332 Investment in BoCom Nature of the area of focus Matters discussed with the GAC HSBC holds 19.03% of the listed equity of BoCom.
+This investment is The critical assumptions used by HSBC in the model were discussed accounted for as an associate using the equity method, because of with the GAC.
+For each assumption an independent view was the significant influence that comes from the shareholding.
+provided of the range of possible alternative inputs that could have been used.
+At 31 December, the market value of the investment based on the share price $9.9bn, was below the carrying value of the investment The discussion focussed on the long term loan impairment charge $15.3bn.
+ratio and the long term growth rate.
+These are difficult to substantiate and require management to form a view on future This is considered an indicator of potential impairment under IFRS.
+growth in China as well as BoComs potential future impairment An impairment test was performed by HSBC using a value in use charges.
+model to estimate the investments value assuming the investment continues to be held rather than sold $17.0bn.
+On this basis no impairment was required and the share of BoComs profits has been recognised in the income statement.
+The many assumptions used in the model to estimate future profits attributable to HSBC are derived from a combination of analysts forecasts and managements best estimates and are highly judgemental.
+Procedures performed to support our discussions and conclusions PwCs independent valuation experts reviewed the appropriateness of the model and the inputs selected to calculate the value in use.
+They independently recalculated the discount rate applied to the cash flows in the model.
+Inputs used in the determination of assumptions for the calculation of the value in use were agreed back to third-party sources, where available, including external data from analysts reports.
+The controls in place over the model including security access and end user controls were tested.
+The mathematical accuracy of the model was tested.
+The quarterly meeting between senior BoCom executive management and HSBC held specifically to assess the current performance of the business was observed.
+Disclosures made in relation to BoCom were reviewed.
+Note 19: Interests in associates and joint ventures, page 402.
+HSBC HOLDINGS PLC 333 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report Report of the independent auditors to the members of HSBC Holdings plc Appendix Impact of the DPA Nature of the area of focus Matters discussed with the GAC HSBC and HSBC Bank USA NA entered into a DPA with the US In considering going concern as the basis of preparation of the Department of Justice DoJ and Financial Conduct Authority in 2012 financial statements, a discussion was held with the GAC about the regarding non-compliance with the US Bank Secrecy Act, anti-money progress being made in responding to the requirements of the DPA.
+laundering rules, and sanctions laws.
+The duration of the DPA is five The conversation specifically considered the 2015 report of the years.
+In the report he expressed significant concerns about the pace of progress, instances of potential financial crime and systems If the DOJ concluded that a breach of the DPA had occurred, there and controls deficiencies, whether HSBC is on track to meet its goal are a number of potential penalties that could be imposed that could to the Monitors satisfaction within the five-year period and, pending have a material adverse effect on HSBCs business.
+This could include further review and discussion with HSBC, did not certify as to HSBCs loss of business and withdrawal of funding, restrictions on US $ implementation of, and adherence to, remedial measures specified in clearing functions through HSBC Bank USA or revocation of bank the DPA.
+The loss of this ability could have a significant adverse impact on the going concern status of HSBC and its individual Assurances were sought from the Directors that they were not aware subsidiaries in the future.
+of any information to suggest that the DoJ had concluded that the DPA had been breached.
+Procedures performed to support our discussions and conclusions The likelihood of the DPA being breached and a restriction to US dollar clearing imposed was independently assessed through: Inquiry with the Monitor, whose role is explained on page 116, to understand the status of his work, the outcome of his most recent country reviews, his assessment of managements progress against the requirements of the DPA and his reporting to the DoJ and FCA.
+Reading the 2015 and 2014 Monitor reports and the 9 country reports issued during the year.
+Reading the detailed reports produced by the compliance function that undertook testing of controls and processes related to the DPA, and an assessment of the findings.
+Each Group Risk Committee meeting was attended during the year.
+At each meeting a report was provided by Group Risk on the status of Global Standards Programme, which aims to address all of the DPA recommendations.
+The related discussion was observed.
+The papers supporting the Financial System Vulnerabilities Committee meeting at the year-end were reviewed.
+This meeting discussed the 2015 Monitor report and managements response.
+Compliance with the DPA was discussed with Group Legal and other members of senior management.
+Relevant references in the Annual Report and Accounts 2015 Top and emerging risks, page 43.
+Areas of special interest: the Monitor, page 116.
+Financial System Vulnerabilities Committee, page 268.
+Going concern and viability statements, page 277.
+HSBC HOLDINGS PLC 334 Recoverability of deferred tax assets Nature of the area of focus Matters discussed with the GAC HSBC has deferred tax assets of $6.1bn as at 31 December 2015, of The carrying value of deferred tax assets in Brazil and the US was which $4.5bn relates to the US.
+A further $1.2bn net deferred assets discussed several times during the year.
+HSBC updated performance are included in Assets Held For Sale and relates to Brazil.
+against forecasts to support the continued recognition of the assets and this was considered during GAC meetings.
+These assets have arisen because of historic losses, deferred relief for impairment and other temporary differences.
+An assessment is Brazil: In light of the disposal of the business discussed on page 416, required as to whether sufficient future taxable profits are likely to the appropriate basis on which to assess future taxable profits was be generated to enable the assets to be realised.
+HSBC has considered both the internal strategic plan as well as profits implied by the agreed sales price using the The estimation of future taxable profits is inherently judgemental, Price Earnings ratios considered appropriate for Brazilian banks.
+particularly when this extends beyond the normal planning cycle.
+In Whilst performance in 2015 has not been in line with the strategic the case of Brazil, this is exacerbated by recent performance not plan, the implicit profit forecast derived from the sales price provides being in accordance with plan.
+support for the expected profitability of the business.
+Sufficient taxable profits to support recognition are expected to be earned within 8 years in the best case scenario and within 13 years in the worst case scenario.
+North America: As at 1 January 2015, the recognition of the US deferred tax asset relied upon capital support from HSBC.
+Given improved performance and forecasts management considered that it was appropriate to recognise the asset on the basis of future taxable profits.
+This change led to the recognition of additional deferred tax assets.
+The change in the basis of recognition, and the increased assets recognised, were discussed with the GAC.
+Procedures performed to support our discussions and conclusions The application of tax rules was examined to check they had been appropriately applied and that a loss or deductible temporary difference exists.
+Supporting calculations were tested to check that the valuation of the asset is appropriate based on the temporary differences identified and the tax rates applied.
+The basis for managements assessment of recoverability including the profit projections and underlying assumptions and the calculations performed to arrive at taxable profits from these projections, was challenged using our knowledge of the business, future strategy and past performance.
+The appropriateness and validity of tax planning strategies relied upon to support recognition where relevant was assessed.
+The range of reasonably possible alternative outcomes was assessed for the projections in each market.
+The calculation methodology used to determine the implied profits from the sales price achieved for the Brazilian subsidiary was evaluated.
+The completeness and accuracy of the disclosures was also assessed.
+Note 23: Assets held for sale and liabilities of disposal groups held for sale, page 416.
+Note: The maintenance and integrity of the HSBC Holdings plc website is the responsibility of the directors: the work carried out by the auditors does not involve consideration of these matters and, accordingly, the auditors accept no responsibility for any changes that may have occurred to the financial statements since they were initially presented on the website.
+HSBC HOLDINGS PLC 335 Shareholder Information Financial Statements Corporate Governance Financial Review Strategic Report

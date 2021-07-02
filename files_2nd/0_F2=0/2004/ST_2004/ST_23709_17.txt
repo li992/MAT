@@ -1,0 +1,4 @@
+,_, asfollows_NNS :_: over10years_NNS Motorvehicles_NNPS over3years_NNPS Officefurniture_NNP &_CC equipment_NN over3-5years_NNS Computerequipment_NNP over3years_NNS ._.
+72_CD Accountingfor_NNP Employee_NNP ShareOwnership_NNP ESOP_NNP Trusts_NNPS and_CC the_DT cost_NN of_IN share_NN awards_NNS contd_VBP ._.
+Thesurplus_JJ deficit_NN shortfall_NN liability_NN ofthe_NN Companyandorgroup_NNP ._.
+31December_NNP 31December_NNP 2004_CD 2003_CD USDollars_NNP 1.92_CD 1.79_CD JapaneseYen_NNP 196.73_CD 191.85_CD HongKongDollars_NNPS 14.92_CD 13.90_CD Euro_NNP 1.41_CD 1.42_CD AustralianDollars_NNPS 2.45_CD 2.38_CD 74_CD

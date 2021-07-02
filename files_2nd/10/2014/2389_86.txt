@@ -1,0 +1,69 @@
+Financial instruments and financial risk factors The accounting classification of each category of financial instruments, and their carrying amounts, are set out below.
+$ million Financial AvailableHeld-toAt fair value Derivative liabilities Loans and for-sale financial maturity through profit hedging measured at Total carrying At 31 December 2014 Note receivables assets investments or loss instruments amortized cost amount Financial assets Other investments equity shares 16 420 420 other 16 538 599 1,137 Loans 992 992 Trade and other receivables 18 30,551 30,551 Derivative financial instruments 28 8,511 1,096 9,607 Cash and cash equivalents 23 23,504 2,989 3,270 29,763 Financial liabilities Trade and other payables 20 40,327 40,327 Derivative financial instruments 28 6,100 788 6,888 Accruals 7,963 7,963 Finance debt 24 52,854 52,854 55,047 3,947 3,270 3,010 308 101,144 35,562 At 31 December 2013 Financial assets Other investments equity shares 16 291 291 other 16 1,167 574 1,741 Loans 979 979 Trade and other receivables 18 39,630 39,630 Derivative financial instruments 28 5,189 995 6,184 Cash and cash equivalents 23 19,153 2,267 1,100 22,520 Financial liabilities Trade and other payables 20 48,072 48,072 Derivative financial instruments 28 4,159 388 4,547 Accruals 9,507 9,507 Finance debt 24 48,192 48,192 59,762 3,725 1,100 1,604 607 105,771 38,973 The fair value of finance debt is shown in Note 24.
+For all other financial instruments, the carrying amount is either the fair value, or approximates the fair value.
+Financial risk factors The group is exposed to a number of different financial risks arising from natural business exposures as well as its use of financial instruments including market risks relating to commodity prices, foreign currency exchange rates and interest rates: credit risk: and liquidity risk.
+The group financial risk committee GFRC advises the group chief financial officer CFO who oversees the management of these risks.
+The GFRC is chaired by the CFO and consists of a group of senior managers including the group treasurer and the heads of the group finance, tax and the integrated supply and trading functions.
+The purpose of the committee is to advise on financial risks and the appropriate financial risk governance framework for the group.
+The committee provides assurance to the CFO and the group chief executive GCE, and via the GCE to the board, that the groups financial risk-taking activity is governed by appropriate policies and procedures and that financial risks are identified, measured and managed in accordancewith group policies and group risk appetite.
+The groups trading activities in the oil, natural gas and power markets are managed within the integrated supply and trading function, while the activities in the financial markets are managed by the treasury function, working under the compliance and control structure of the integrated supply and trading function.
+All derivative activity is carried out by specialist teams that have the appropriate skills, experience and supervision.
+Theseteams are subject to close financial and management control.
+The integrated supply and trading function maintains formal governance processes that provide oversight of market risk, credit risk and operationalrisk associated with trading activity.
+A policy and risk committee monitors and validates limits and risk exposures, reviews incidents and validates riskrelated policies, methodologies and procedures.
+A commitments committee approves value-at-risk delegations, the trading of new products, instruments and strategies and material commitments.
+In addition, the integrated supply and trading function undertakes derivative activity for risk management purposes under a separate control framework as described more fully below.
+a Market risk Market risk is the risk or uncertainty arising from possible market price movements and their impact on the future performance of a business.
+The primary commodity price risks that the group is exposed to include oil, natural gas and power prices that could adversely affect the value of the groups financial assets, liabilities or expected future cash flows.
+The group enters into derivatives in a well-established entrepreneurial trading operation.
+In addition, the group has developed a control framework aimed at managing the volatility inherent in certain of its natural business exposures.
+In accordance with the control framework the group enters into various transactions using derivatives for risk management purposes.
+The major components of market risk are commodity price risk, foreign currency exchange risk and interest rate risk, each of which is discussed below.
+144 BP Annual Report and Form 20-F 2014 Financial statements 27.
+Financial instruments and financial risk factors continued i Commodity price risk The groups integrated supply and trading function uses conventional financial and commodity instruments and physical cargoes and pipeline positions available in the related commodity markets.
+Oil and natural gas swaps, options and futures are used to mitigate price risk.
+Power trading is undertaken using a combination of over-the-counter forward contracts and other derivative contracts, including options and futures.
+This activity is on both a standalone basis and in conjunction with gas derivatives in relation to gas-generated power margin.
+In addition, NGLs are traded around certain US inventory locations using over-the-counter forward contracts in conjunction with over-the-counter swaps, options and physical inventories.
+The group measures market risk exposure arising from its trading positions in liquid periods using value-at-risk techniques.
+These techniques make a statistical assessment of the market risk arising from possible future changes in market prices over a one-day holding period.
+The value-at-risk measure is supplemented by stress testing.
+Trading activity occurring in liquid periods is subject to value-at-risk limits for each trading activity and for this trading activity in total.
+The board has delegated a limit of $100 million value at risk in support of this trading activity.
+Alternative measures are used to monitor exposures which are outside liquid periods and which cannot be actively risk-managed.
+In addition, the group has embedded derivatives relating to certain natural gas contracts.
+The net fair value of these contracts was a liability of $214 million at 31 December 2014 2013 liability of $652 million.
+For these embedded derivatives the sensitivity of the net fair value to an immediate 10% favourable or adverse change in each key assumption is less than $100 million in each case.
+ii Foreign currency exchange risk Where the group enters into foreign currency exchange contracts for entrepreneurial trading purposes the activity is controlled using trading value-atrisk techniques as explained above.
+Since BP has global operations, fluctuations in foreign currency exchange rates can have a significant effect on the groups reported results.
+The effects of most exchange rate fluctuations are absorbed in business operating results through changing cost competitiveness, lags in market adjustment to movements in rates and translation differences accounted for on specific transactions.
+For this reason, the total effect of exchange rate fluctuations is not identifiable separately in the groups reported results.
+The main underlying economic currency of the groups cash flows is the US dollar.
+This is because BPs major product, oil, is priced internationally in US dollars.
+BPs foreign currency exchange management policy is to limit economic and material transactional exposures arising from currency movements against the US dollar.
+The group co-ordinates the handling of foreign currency exchange risks centrally, by netting off naturally-occurring opposite exposures wherever possible, and then managing any material residual foreign currency exchange risks.
+The group manages these exposures by constantly reviewing the foreign currency economic value at risk and aims to manage such risk to keep the 12-month foreign currency value at risk below $400 million.
+At no point over the past three years did the value at risk exceed the maximum risk limit.
+The most significant exposures relate to capital expenditure commitments and other UK and European operational requirements, for which a hedging programme is in place and hedge accounting is claimed as outlined in Note 28.
+For highly probable forecast capital expenditures the group locks in the US dollar cost of non-US dollar supplies by using currency forwards and futures.
+The main exposures are sterling, euro, Norwegian krone, Australian dollar and Korean won.
+At 31 December 2014 the most significant open contracts in place were for $321 million sterling 2013 $723 million sterling.
+For other UK, European and Australian operational requirements the group uses cylinders purchased call and sold put options to manage the estimated exposures on a 12-month rolling basis.
+At 31 December 2014, the open positions relating to cylinders consisted of receive sterling, pay US dollar cylinders for $2,787 million 2013 $2,770 million : receive euro, pay US dollar cylinders for $867 million 2013 $962 million : receive Australian dollar, pay US dollar cylinders for $418 million 2013 $401 million.
+In addition, most of the groups borrowings are in US dollars or are hedged with respect to the US dollar.
+At 31 December 2014, the total foreign currency net borrowings not swapped into US dollars amounted to $871 million 2013 $665 million.
+iii Interest rate risk Where the group enters into money market contracts for entrepreneurial trading purposes the activity is controlled using value-at-risk techniques as described above.
+BP is also exposed to interest rate risk from the possibility that changes in interest rates will affect future cash flows or the fair values of its financial instruments, principally finance debt.
+While the group issues debt in a variety of currencies based on market opportunities, it uses derivatives to swap the debt to a floating rate exposure, mainly to US dollar floating, but in certain defined circumstances maintains a US dollar fixed rate exposure for a proportion of debt.
+The proportion of floating rate debt net of interest rate swaps at 31 December 2014 was 71% of total finance debt outstanding 2013 65%.
+The weighted average interest rate on finance debt at 31 December 2014 was 2% 2013 2% and the weighted average maturity of fixed rate debt was four years 2013 four years.
+The groups earnings are sensitive to changes in interest rates on the floating rate element of the groups finance debt.
+If the interest rates applicable to floating rate instruments were to have increased by one percentage point on 1 January 2015, it is estimated that the groups finance costs for 2015 would increase by approximately $377 million 2013 $312 million increase.
+b Credit risk Credit risk is the risk that a customer or counterparty to a financial instrument will fail to perform or fail to pay amounts due causing financial loss tothe group and arises from cash and cash equivalents, derivative financial instruments and deposits with financial institutions and principally from credit exposures to customers relating to outstanding receivables.
+Credit exposure also exists in relation to guarantees issued by group companies under which amounts outstanding at 31 December 2014 were $83 million 2013 $199 million in respect of liabilities of joint ventures and associates and $244 million 2013 $305 million in respect of liabilities of other third parties.
+The group has a credit policy, approved by the CFO, that is designed to ensure that consistent processes are in place throughout the group to measure and control credit risk.
+Credit risk is considered as part of the risk-reward balance of doing business.
+On entering into any business contract the extent to which the arrangement exposes the group to credit risk is considered.
+Key requirements of the policy include segregation of credit approval authorities from any sales, marketing or trading teams authorized to incur credit risk: the establishment of credit systems and processes to ensure that all counterparty exposure is rated and that all counterparty exposure and limits can be monitored and reported: and the timely identification and reporting of any non-approved credit exposures and credit losses.
+While each segment is responsible for its own credit risk management and reporting consistent with group policy, the treasury function holds group-wide credit risk authority and oversight responsibility for exposure to banks and financial institutions.
+BP Annual Report and Form 20-F 2014 145

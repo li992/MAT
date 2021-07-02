@@ -1,0 +1,48 @@
+ARM Holdings plc Strategic Report 2013 Our marKetplace WHere tHe marKet iS nOW The semiconductor industry develops chips that efficiently manage all of the worlds electronic devices.
+PCs, mobile phones and even modern washing machines have some form of chip providing their intelligence.
+Each generation of chip is typically smarter than its predecessor, enabling more capable and more efficient consumer and embedded products.
+Overview of a semiconductor Disaggregated industry Where arm fits within the industry Semiconductors, or silicon chips, are the The semiconductor industry has disaggregated ARM is the global leader in the design of electronic controllers that manage many of into specialist companies that focus on each semiconductor IP components that form the digital devices that we use every day.
+stage in the creation, design and manufacture some of the critical elements within SystemComputers, mobile phones, televisions, of a silicon chip see the diagram below.
+ARM is best known for its washing machines and cars can all contain This allows each company to invest and family of processor designs that are used in many silicon chips.
+Also, many enterprise and innovate in an area where they can add the a range of applications from mobile phones industrial applications are made smarter and most expertise in the value chain.
+There are a handful more efficient by silicon chips, from sensors of other IP component designers that Some companies specialise in designing to servers.
+mainly specialise in complementary areas.
+the chip: other companies specialise in Their IP can often be found alongside an ARM In 2013, approximately 700 billion silicon designing critical IP components within the processor in the same chip design.
+Of these design: others in building the tools needed roughly 30 billion contained a processor.
+to manufacture the chips: others in the chip ARM works closely with the semiconductor The processor is the brain of the chip, and fabrication: and others in developing software, ecosystem to ensure that its technology controls not just the operation of the chip, such as operating systems and apps.
+All of works well with other companies products, but also the operation of the product that these companies work closely together as that a silicon chip designer can quickly build a chip goes into.
+ARM processor designs were a single ecosystem of partners.
+low-power and high-performance chip, and in over 10 billion chips, a 35% market share.
+that an OEM can create complex programs In 2013, there were over 1,000 companies The remaining market share mainly consists using a combination of third-party and inin ARMs Connected Community.
+of our customers own processor designs.
+house operating systems and applications.
+ARM shares knowledge, experience and ARM gains share when our customers As silicon chip designs become more complex innovations with these companies, enabling outsource their processor design to us.
+it is expected that the semiconductor industry greater collaboration.
+will continue to license semiconductor IP.
+As the global leader, ARM is well-positioned to benefit from this trend.
+Our disaggregated industry 100s of chip 1,000s 1,000,000,000s design companies of OEMs of consumers 10 1,000s 10 IP 10 Tools 10 1,000s of Operating of service specialists providers Fabricators application developers Systems providers 14 Our Vision Our performance Our Commitment Our Financial Report WHere tHe marKet iS HeaDing Trends within the semiconductor industry and its marketplace are bringing new opportunities and new competitive threats.
+mobile computing connecting us to internet of things connecting billions efficient networking moving more each other, and our data.
+data, without using more energy.
+Mobile phones have been getting smarter and Advances in manufacturing technology are With mobile computing connecting us to each more capable.
+Smartphones have become enabling the creation of new affordable smart other, and increased machine-to-machine the primary computer for increasing numbers sensors.
+These devices usually combine three communications between smart sensors, of people: for sending emails, browsing the main elements: it is forecast that mobile internet traffic will internet, and allowing us to engage with our increase 12-fold between 2012 and 2017.
+One or more environmental sensors friends on social networking sites.
+Meanwhile, As IT and communications equipment is temperature, pressure, motion.
+PCs have been getting smaller and lighter, with using anincreasing proportion of the worlds a longer battery life and better connectivity.
+energy, such an increase is not sustainable.
+A smart chip microcontroller to process The mobile phone and PC markets are the data gathered by the sensor.
+Network operators and data centre converging, enabling us to connect more managers are now looking for lower power easily to each other and to our personal and A wireless radio to connect the smart technology to better transport, distribute, workplace data.
+This convergence is bringing sensor to the internet.
+analyse and store data across the internet.
+new opportunities and threats to the industry.
+This is leading to increased levels of Data gathered from these sensors can then The fastest growing markets are entry-level experimentation and innovation as companies be collated anywhere in the world enabling smartphones and tablets.
+These are forecast manage the increased demand for data remote monitoring of the sensors for such to grow at about a 20% CAGR over the throughput, without having to increase the applications as: next five years, as consumers in emerging energy required.
+economies buy their first smartphones.
+Industrial automation: factory equipment ARM technology-based System-on-Chip Although these are entry-level handsets, these in a region can be monitored from a designs are well placed to provide lower devices can still contain multiple ARM-based head office.
+power options for enterprise applications, chips, and the main applications processor such as servers and networking equipment.
+will often have several ARM processors.
+Home automation: appliances in the home An entry-level smartphone will typically can be monitored and controlled by the read more on page 34 generate four times the royalty revenue of a home owner wherever they are.
+The mid-range and Collectively these technologies are referred to premium markets will also grow, and in 2018 as the Internet of Things.
+These smart sensors it is estimated that the total mobile computing need to be very low-cost the chips within market will be more than 3 billion devices them often cost less than $1 and they are including smartphones, tablets and laptops.
+expected to be deployed in very high volume.
+read more on page 32 read more on page 36 Footnote: Cisco Visual Networking Index May 2013 15

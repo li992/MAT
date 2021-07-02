@@ -1,0 +1,68 @@
+166 Financial Statements | Glossary of terms Inmarsat plc | Annual Report and Accounts 2018 166 Financial statements | Glossary of terms Inmarsat plc | Annual Report and Accounts 2018 GLOSSARY OF TERMS Due to the technical nature of satellite C G communications and financial reporting we Cash capital expenditure GAAP use a number of terms and abbreviations in this Cash capital expenditure is the cash flow Generally Accepted Accounting Principles Annual Report and Accounts that are widely used relating to tangible and intangible asset is the standard financial reporting framework within those industries but are less commonly additions, it includes capitalised labour as defined by a body of accounting standards used by our broader community of stakeholders.
+costs and excludes capitalised interest.
+and other guidance used in a given jurisdiction The principal ones are summarised below.
+Commissioned terminal A A terminal that is registered with one Geostationary orbit Active terminal of our services at the period end.
+A circular geosynchronous orbit directly above A terminal that has been used to access the Earths equator.
+Satellites in geosynchronous commercial services except certain handheld orbit match their orbit to the orbit of the earth CAGR t erminals at any time during the preceding and so remain permanently in the same area The Compound Annual Growth Rate 12 months and is registered with one of our of the sky.
+measures average annual growth over a services at the period end.
+It includes the period of time and is used in the Executive average number of certain handheld terminals Performance Share Award scheme.
+Global Xpress GX active on a daily basis during the final month Services offered by Inmarsat using Inmarsats of a period and excludes M2M terminals.
+CGU GlobalXpress is the first high-speed broadband [Being edited by front end team] A cash-generating unit is the smallest group Alphasat satellite network to span the globe, from a single of assets that generates cash inflows largely A satellite developed with the European Space operator.
+It uses powerful beams able to reach independently from the other parts of the Agency and launched in 2013, also known as I-4 small antennas on earth providing digital business and which represents the lowest F4 in our Inmarsat-4 satellite constellation.
+connections for aviation, land and maritime use.
+level at which goodwill is monitored within the business.
+ARPA GMDSS Average Revenue Per Aircraft.
+Global Maritime Distress and Safety Service The Company which is a system designed to automate a Where we refer to the Company we are ARPU vessels radio distress alert, eliminating the referring to Inmarsat plc, the holding Average Revenue Per User.
+need for manual watchkeeping of distress company of the Inmarsat Group.
+Inmarsat is the only provider currently of this Maritime Safety Service and is approved ATC D by the International Maritime Organization IMO.
+Ancillary Terrestrial Components provide Defined benefit and defined communications services from ground contribution schemes The Group stations either as stand-alone services or Defined benefit pensions schemes provide The Group refers to Inmarsat plc and all of its to complement satellite services.
+post-employment benefits based on an subsidiaries.
+We may also use we and our employees final salary.
+Defined contribution in reference to the Group, depending on ATG pension schemes are schemes into which the context.
+ATG means the air to ground terrestrial Inmarsat makes fixed contributions based component of the EAN.
+on a percentage of an employees salary.
+GSPS Global Satellite Phone Services are our B Distribution Partner DP handheld products and services including A Distribution Partner is an entity that has Bandwidth IsatPhone Pro and IsatPhone 2. a direct relationship with Inmarsat and re-sells The radio spectrum is divided into different bands Inmarsats services to an end customer.
+which each cover a section of frequencies that Global Workforce Advisory Panel GWAP are usually used for a similar purpose.
+Bands are In compliance with new regulations allocated to specific uses at international level E recommended by the Financial Reporting by the ITU and regulated at a national level Council within the UK Corporate Governance EAN by domestic organisations and governments.
+Code, Inmarsat has created a Global Workforce Our European Aviation Network EAN Advisory Panel which is made up of workforce comprises an integrated satellite and BGAN representatives from across the Company complementary ground component CGC.
+Broadband Global Area Network is a high-speed allowing Board members to hear feedback data satellite network using L-band frequency from the workforce.
+FleetBroadband FB I Business and General Aviation BGA Our flagship L-band maritime service IAS or IFRS Business and General Aviation refers to all providing voice and broadband data International Accounting Standards or civil aviation operations other than commercial services across the worlds oceans.
+International Financial Reporting Standards air transport, covering private jets flying are the accounting standards issued by the globally and regionally.
+Fleet Xpress FX International Accounting Standards Board.
+Fleet Xpress is Inmarsats GX-based IFRS is also used to refer to international product for the maritime market using GAAP as a whole.
+The FX Service includes a FBL-band back-up service.
+Financial Statements Strategic Report Governance Inmarsat plc | Annual Report and Accounts 2018 Financial Statements | Glossary of terms 167 Inmarsat plc | Annual Report and Accounts 2018 Financial statements | Glossary of terms 167 Industrial Internet of Things IIoT Ku-band Safety and Operational Services SOS The Industrial Internet of Things describes the Downlink frequencies between 10.7GHz and Safety and Operational Services refers to concept of networked, machine-to-machine, 12.74GHz and uplink frequencies between connectivity and related services to ensure data-producing elements that are delivering 13.75GHz and 14.8GHz.
+Often referred to as the safety, operational efficiency and new levels of insight to businesses across the 11 14 or 12 14GHz.
+This is the frequency band safe navigation of aircraft as well as data global production, transportation, logistics used by a limited number of products and services for critical flight operations and supply chain.
+services that we procure from other satellite and pilot communications.
+In-Flight Connectivity IFC SOS In-Flight Connectivity refers to data L Safety and Operational Services connectivity and data services provided to L-band commercial airlines, for aircraft passengers S-band Uplink and downlink frequencies between to access the internet, use email, social chat A mobile satellite band between 2 and satellites and mobile users between 1.5GHz and messaging, and for airline crew to access 2.5GHz, which we are using for a high-speed and 1.6GHz.
+This is the frequency band used non-critical connected airline operations.
+broadband service under development for by our Inmarsat-3 and Inmarsat-4 satellites the EU aviation industry.
+The programme has and also by our planned Inmarsat-6 satellites.
+In-Flight Entertainment IFE an Inmarsat S-band satellite fully integrated In-Flight Entertainment refers to digital with a ground network.
+We also use the term Ligado networks entertainment services provided to commercial S-band to refer to the S-band programme A Cooperation Agreement between Inmarsat [Being edited by front end team] airlines, for aircraft passengers to use content in general.
+and Ligado Networks formerly LightSquared LP, services on seatback or overheads screens, Skyterra Canada Inc. and LightSquared Inc. and increasingly digital services provided over Scope 1, 2 and 3 emissions for the use of L-band in North America.
+personal devices such as mobile phones and Carbon emissions as defined by the tablets, but not connected to data sources greenhouse gas protocol.
+Scope 1: All direct greenhouse gas emissions.
+M2M ICAO Machine-to-machine services and products.
+Scope 2: Indirect emissions from International Civil Aviation Organization.
+purchased electricity, heat or steam.
+MSS Scope 3: Other indirect emissions Inmarsat-3 I-3, Inmarsat-4 I-4, Mobile Satellite Services.
+Inmarsat-5 I-5, Inmarsat-6 I-6 The third, fourth, fifth and sixth generations MBPS SwiftBroadband of Inmarsat satellites.
+Individual satellites in Megabits per second are the units used to A global service providing voice and each constellation are numbered F1, F2, F3, etc.
+measure data transfer rates in the satellite high-speed data simultaneously through s o I-5 F2 refers to the second satellite launched communications industry.
+a single installation on an aircraft.
+in the fifth generation of Inmarsat satellites.
+N Tlcoms Sans Frontires TSF I nmarsat gateway The telecommunications relief aid organisation Network Operations Centre NOC Our platform for GX delivering customer support, is a core beneficiary of our charitable support.
+The network operations centre is one or more network services and an app store.
+It also opens locations from which network monitoring and up our networks to innovators through a control, or network management, is exercised Terminals developer portal.
+The consumer hardware used to receive and transmit voice and data from earth across our ITU satellite network.
+It includes antenna enabled Network and satellite operations costs International Telecommunications Union.
+hardware such as satellite phones and The costs of operating our ground stations.
+J O Jet ConneX JX V Own work capitalised JetConneX is Inmarsats GX-based product Vessel monitoring system VMS Employee-related costs including salary for the business and general aviation market.
+A vessel monitoring system is fitted to fishing and travel costs incurred in bringing property, vessels to track and report the location, plant and equipment into use.
+Own work K course and speed at regular intervals typically capitalised is capitalised as part of the total Ka-band 30 minutes to 1 hour to fishing regulators.
+Downlink frequencies between 18GHz and 22GHz and uplink frequencies between 27GHz VMS S and 31GHz.
+SAS This is the frequency band used by our GX Satellite Access Stations that receives the satellites, it has higher bandwidth than other VSAT satellite signal and transfers it via our ground bands allowing more data to be transmitted Very Small Aperture Terminals are small network to terrestrial systems over the same satellite capacity.
+mobile two-way satellite antennas able to receive and transmit voice and broadband data to a satellite.
+VSAT services are typically charged using a fixed monthly fee.

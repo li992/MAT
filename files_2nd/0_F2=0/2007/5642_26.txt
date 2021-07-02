@@ -1,0 +1,106 @@
+Accounting policies a Basis of preparation The consolidated financial statements have been prepared and approved by the Directors in accordance with International Financial Reporting Standards as adopted by the EU in accordance with EU law IAS Regulation EC 1606 2002 adopted IFRS.
+The Company has elected to prepare its individual company financial statements in accordance with United Kingdom Generally Accepted Accounting Principles UK GAAP : these are presented on pages 96 to 101.
+The financial statements are prepared on a historical cost basis except for derivatives which are stated at fair value.
+The preparation of financial statements that conform with adopted IFRS requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of income and expense during the reporting period.
+Although these estimates are based on managements best knowledge of the amount, event or actions, actual results may ultimately differ from those estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period in which the estimate is revised and future periods if relevant.
+The accounting policies used in the preparation of these financial statements are detailed below.
+These policies have been consistently applied to all periods presented.
+In these financial statements IFRS 7: Financial instruments: disclosures and amendment to IAS 1: Presentation of financial statements: capital disclosures have been adopted for the first time.
+IFRS 7 replaces the disclosure requirements of IAS 32: Financial instruments: disclosure and presentation and must be applied to reporting periods that commence on or after 1 January 2007.
+The following standards or interpretations have not yet been adopted by the Group: IFRS 8: Operating segments effective for annual periods beginning on or after 1 January 2009 IFRIC 11: Group and treasury share transactions effective for annual periods beginning on or after 1 March 2007 For the purposes of these financial statements Filtrona or the Group means Filtrona plc the Company and its subsidiaries.
+The results for the year ended 31 December 2006 have been restated on a continuing basis following the disposal of Globalpack see note 24. b Basis of consolidation i Subsidiaries Subsidiaries are entities controlled by Filtrona.
+Control exists when Filtrona has the power, directly or indirectly, to govern the financial and operating policies of an entity so as to obtain economic benefit from its activities.
+The financial statements of subsidiaries are included in the financial statements from the date that control commences until the date that control ceases.
+ii Transactions eliminated on consolidation Intragroup balances and any unrealised gains and losses or income and expense arising from intragroup transactions are eliminated in preparing the financial statements.
+60 Filtrona plc Annual Report and Accounts 2007 Business Review Corporate Governance Financial Statements c Foreign currency Items included in the financial statements of the Groups subsidiaries are measured using the primary currency in which the entity operates functional currency.
+The consolidated financial statements are prepared in sterling functional currency of parent company.
+i Foreign currency transactions Transactions in foreign currencies are recorded at the rate of exchange at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are translated into sterling at the exchange rate ruling at that date and recognised in the income statement unless hedge accounting criteria apply see policy for derivatives.
+ii Financial statements of foreign operations The assets and liabilities of foreign operations, including goodwill and fair value adjustments arising on consolidation, are translated at the exchange rate ruling at the balance sheet date.
+The revenues and expenses of foreign operations are translated at average exchange rates.
+iii Net investment in foreign operations Exchange differences on retranslation at the closing rate of the opening balances of overseas entities are taken to reserves, as are exchange differences arising on related foreign currency borrowings and derivatives designated as net investment hedges, to the extent they are effective.
+Other exchange differences are taken to the income statement.
+Differences arising prior to 1 January 2004 are included in retained earnings.
+d Derivatives Under IAS 39: Financial instruments: recognition and measurement IAS 39, derivatives are measured initially at fair value.
+The subsequent measurement depends on the classification of the derivative.
+Interest bearing loans and borrowings and other financial liabilities excluding derivatives are held at amortised cost, unless they are included in a hedge accounting relationship.
+See note 15 for separate disclosure of hedge types.
+i Cash flow hedges Where a derivative is designated as a hedging instrument in a cash flow hedge the change in fair value is recognised in equity to the extent that it is effective and any ineffective portion is recognised in the income statement.
+Where the underlying transaction results in a financial asset, accumulated gains and losses are recognised in the income statement in the same period as the hedged item affects profit or loss.
+Where the hedged item results in a non-financial asset the accumulated gains and losses previously recognised in equity are included in the initial carrying value of the asset.
+ii Fair value hedges Where a derivative is used to hedge the foreign exchange exposure of a monetary asset or liability, any gain or loss on the derivative is recognised in the income statement.
+iii Hedges of net investment in foreign operations The gain or loss on an instrument used to hedge a net investment in a foreign operation that is deemed effective is recognised in equity.
+Any ineffective portion is recognised in the income statement.
+e Property, plant and equipment Property, plant and equipment are stated at cost less accumulated depreciation and impairment losses.
+Previously revalued properties were treated as being held at deemed cost upon transition to adopted IFRS.
+Where parts of an item of property, plant and equipment or other assets have different useful lives, they are accounted for as separate items.
+The carrying values of property, plant and equipment and other assets are periodically reviewed for impairment when events or changes in circumstances indicate that the carrying values may not be recoverable.
+61 Filtrona plc Annual Report and Accounts 2007 www.
+com Accounting policies f Depreciation Property, plant and equipment are depreciated over their estimated remaining useful lives on a straight line basis at the following annual rates: Freehold land Not depreciated Buildings 2% or life of lease if shorter Plant and machinery 720% Fixtures, fittings and equipment 1033% The assets useful lives are reviewed, and adjusted if appropriate, at each balance sheet date.
+g Leases Where Filtrona has substantially all the risks and rewards of ownership of an asset subject to a lease, the lease is treated as a finance lease.
+All other leases are treated as operating leases and the rentals expensed to the income statement on a straight line basis.
+Lease incentives are amortised in the income statement over the life of the lease.
+h Intangible assets i Goodwill Goodwill is stated at cost less any impairment losses.
+Acquisitions are accounted for using the purchase method.
+For acquisitions that have occurred since 1 January 2004 goodwill represents the difference between the cost of acquisition and fair value of identifiable assets, liabilities and contingent liabilities of the acquiree.
+For acquisitions made before 1 January 2004, goodwill is included on the basis of its deemed cost, which represents the amount previously recorded under UK GAAP.
+ii Research and development Research costs are expensed to the income statement in the year in which they are incurred.
+Development costs relating to new products are capitalised if the new product is technically and commercially feasible.
+Other development costs are recognised in the income statement and expensed as incurred.
+iii Customer relationships Customer relationships are identified on acquisition of businesses and valued using discounted cash flows based on historical customer attrition rates.
+Amortisation is expensed in the income statement on a straight line basis over the estimated useful economic life, being a period of up to 25 years.
+i Impairment All assets, except intangible assets, deferred tax assets and inventories, are reviewed annually to determine whether there is any indication of impairment.
+Goodwill and intangible assets with indefinite lives are tested annually.
+If an indication of impairment exists the assets recoverable amount is estimated.
+An impairment loss is recognised whenever the carrying amount of a non-financial asset or its cash generating unit exceeds its recoverable amount, being the greater of value in use and net selling price, and is recognised in the income statement.
+Value in use is estimated based on future cash flows discounted using a pre-tax discount rate.
+j Inventories Inventories are valued at the lower of cost on a first in, first out basis and net realisable value.
+For work-in-progress and finished goods, cost includes an appropriate proportion of labour cost and overheads.
+k Cash and cash equivalents Cash and cash equivalents comprise cash balances and fixed term investments whose maturities are three months or less from the date of acquisition.
+Bank overdrafts repayable on demand form an integral part of Filtronas cash management and are included as part of cash and cash equivalents in the statement of cash flows.
+62 Filtrona plc Annual Report and Accounts 2007 Business Review Corporate Governance Financial Statements l Loans and borrowings Loans and borrowings are intially measured at cost which is equal to fair value at inception, and are subsequently measured at amortised cost using the effective interest rate method.
+Any difference between the proceeds, net of transaction costs, and the settlement or redemption of borrowings is recognised over the term of the borrowings using the effective interest rate method.
+m Trade and other receivables The fair value of trade and other receivables is estimated as the present value of future cash flows less impairment losses.
+n Trade and other payables Trade payables are non-interest bearing and are stated at their nominal value.
+o Income tax Income tax in the income statement comprises current and deferred tax.
+Income tax is recognised in the income statement except to the extent that it relates to items recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year using tax rates enacted or substantively enacted at the balance sheet date and any adjustment to tax payable in prior years.
+Deferred tax is provided using the balance sheet liability method, providing for temporary differences arising between the tax bases and the carrying amounts of assets and liabilities in the financial statements.
+The following temporary differences are not provided for: goodwill not deductible for tax purposes, the initial recognition of assets or liabilities that affect neither accounting nor taxable profit, and differences relating to investments in subsidiaries to the extent that they will not reverse in the foreseeable future.
+Deferred tax is determined using tax rates that are expected to apply when the related deferred tax asset or liability is settled.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profit will be available against which the asset can be utilised.
+Deferred tax assets are reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+p Revenue Revenue from the sale of goods is recognised in the income statement when the significant risks and rewards of ownership have been transferred to the buyer.
+No revenue is recognised if there are significant uncertainties regarding recovery of the consideration due, associated expenses or the possible return of goods.
+q Finance income and expense Finance income and expense is recognised in the income statement as it accrues.
+r Segment reporting A segment is a distinguishable component of Filtrona that is engaged in providing products business segment, or in providing products within a particular economic environment geographic segment, which is subject to risks and rewards that are different from those of other segments.
+For operational and financial reporting purposes, Filtrona identifies two business segments which are characterised by shared technology and raw material inputs.
+s Pensions i Defined contribution schemes Obligations for contributions to defined contribution pension schemes are expensed to the income statement as incurred.
+ii Defined benefit schemes The significant pension schemes in Europe and the US have been accounted for on a defined benefit basis under IAS 19 revised : Employee benefits IAS 19 revised.
+63 Filtrona plc Annual Report and Accounts 2007 www.
+com Accounting policies s Pensions continued Actuarial gains and losses that have arisen are recognised in full in the statement of recognised income and expense.
+The net obligations in respect of defined benefit pension schemes are calculated separately for each scheme by estimating the amount of future benefit that employees have earned in return for their service in the current and prior periods: that benefit is discounted to determine its present value, and the fair value of any scheme assets is deducted.
+The discount rate is the yield at the balance sheet date on AA credit-rated bonds that have maturity dates approximating to the terms of Filtronas obligations.
+The calculation is performed by a qualified independent actuary using the projected unit credit method.
+The amounts charged to operating profit are the current service cost, past service cost and gains and losses on settlement and curtailments.
+The expected increase in the present value of scheme liabilities is included within finance expense and the expected return on scheme assets is included within finance income.
+t Share-based payments Filtrona operates equity-settled, share-based incentive plans.
+A charge is made in the income statement based on the fair value of options using the Black-Scholes, Monte Carlo or binomial valuation models with a corresponding increase in equity.
+The fair value is measured at grant date and spread over the period between grant and vesting date of the options.
+The amount recognised as an expense will be adjusted to reflect the actual number of share options that vest.
+u Restructuring costs The restructuring of Filtronas operations in 2007 has given rise to significant incremental one-off costs.
+The most significant component of these restructuring costs was redundancy payments.
+Filtrona views restructuring costs as an expense associated with investment in the future performance of the business and not part of the trading performance.
+These costs have had a material impact on the absolute amount of, and trend in, Filtronas operating profit and operating margin.
+Therefore such restructuring costs are shown as a separate line item within operating profit on the face of the income statement.
+v Investment in own shares The shares held in the Filtrona Employee Benefit Trust for the purpose of fulfilling obligations in respect of share option plans are treated as belonging to the Company and are deducted from its retained earnings.
+The cost of shares held directly treasury shares is also deducted from retained earnings.
+w Provisions A provision is recognised when there is a probable legal or constructive obligation as a result of a past event and a reliable estimate can be made of the outflow of economic resources that will be required to settle the obligation.
+x Net debt Net debt is defined as cash and cash equivalents, net of interest bearing loans and borrowings.
+y Dividends Dividends are recognised as a liability in the period in which they are declared.
+z Discontinued operations In 2007 Filtrona disposed of Globalpack and this has been classified as a discontinued operation in accordance with IFRS 5: Noncurrent assets held for sale and discontinued operations.
+The profit after tax of Globalpack, including profit on disposal, is disclosed as a single line in the income statement and similarly the cash flows also disclosed as a single line in each of the categories in the statement of cash flows.
+The comparative income statement and statement of cash flows have been restated as if Globalpack had been discontinued from 1 January 2006.
+64 Filtrona plc Annual Report and Accounts 2007

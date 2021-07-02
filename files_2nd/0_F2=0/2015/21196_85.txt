@@ -1,0 +1,55 @@
+IFRS Financial statements 41 Liability for investment contracts continued For many types of long-term business, including unit-linked and participating funds, movements in asset values are offset by corresponding changes in liabilities, limiting the net impact on profit.
+The variance between actual and expected experience of 1.6 billion is primarily driven by favourable equity returns in Europe.
+The impact of assumption changes in the analysis shows the resulting movement in the carrying value of participating investment contract liabilities.
+For participating business, a movement in liabilities is generally offset by a corresponding adjustment to the unallocated divisible surplus and does not impact on profit.
+Where assumption changes do impact on profit, these are included in the effect of changes in assumptions and estimates during the year shown in note 44, together with the impact of movements in related non-financial assets.
+ii Non-participating investment contracts 2015 2014 m m Carrying amount at 1 January 50,013 48,140 Provisions in respect of new business 2,644 2,273 Expected change in existing business provisions 2,726 1,442 Variance between actual and expected experience 2,906 1,575 Impact of operating assumption changes 32 2 Impact of economic assumption changes 3 11 Other movements 38 8 Change in liability 2,915 2,427 1 Effect of portfolio transfers, acquisitions and disposals 56,401 20 Foreign exchange rate movements 374 534 Carrying amount at 31 December 103,125 50,013 1 The movement during 2015 relates to Friends Life, as at the acquisition date and the movement during 2014 relates to the disposal of Eurovita.
+For unit-linked investment contracts, movements in asset values are offset by corresponding changes in liabilities, limiting the net impact on profit.
+The variance between actual and expected experience of 2.9 billion is primarily driven by the impact of adverse equity returns in the UK.
+The impact of assumption changes in the above analysis shows the resulting movement in the carrying value of nonparticipating investment contract liabilities.
+The impacts of assumption changes on profit are included in the effect of changes in assumptions and estimates during the year shown in note 44, which combines participating and non-participating investment contracts together with the impact of movements in related non-financial assets.
+42 Financial guarantees and options This note details the financial guarantees and options that the Group has given for some of our insurance and investment products.
+As a normal part of their operating activities, various Group companies have given guarantees and options, including investment return guarantees, in respect of certain long-term insurance and fund management products.
+Further information on assumptions is given in notes 40 and 41. a UK and Ireland Life with-profit business In the UK, life insurers are required to comply with the PRAs realistic reporting regime for their with-profit funds for the calculation of PRA liabilities.
+Under the PRAs rules, provision for guarantees and options within realistic liabilities are measured at fair value, using market-consistent stochastic models.
+A stochastic approach includes measuring the time value of guarantees and options, which represents the additional cost arising from uncertainty surrounding future economic conditions.
+The material guarantees and options to which this provision relates are: i Maturity value guarantees Substantially all of the conventional with-profit business and a significant proportion of unitised with-profit business have minimum maturity values reflecting the sums assured plus declared annual bonus.
+In addition, the guarantee fund has offered maturity value guarantees on certain unit-linked products.
+For some unitised with-profit life contracts the amount paid after the fifth policy anniversary is guaranteed to be at least as high as the premium paid increased in line with the rise in RPI CPI.
+ii No market valuation reduction MVR guarantees For unitised business, there are a number of circumstances where a no MVR guarantee is applied, for example on certain policy anniversaries, guaranteeing that no market value reduction will be applied to reflect the difference between the accumulated value of units and the market value of the underlying assets.
+Certain unitised with-profit policies containing no MVR guarantees, similar to those in the UK, have been sold in Ireland.
+These guarantees as at 31 December 2015 are out-of-the-money 2014: 0.1 million in-the-money.
+This has been calculated on a deterministic basis as the excess of the current policy surrender value over the discounted value excluding terminal bonus of the guarantees.
+The value of these guarantees is usually sensitive to the performance of investments held in the with-profit fund.
+Amounts payable under these guarantees are determined by the bonuses declared on these policies.
+Aviva plc Annual report and accounts 2015 | 215 Aviva plc Annual report and accounts 2015 | 215 Notes to the consolidated financial statements continued Notes to the consolidated financial statements continued 42 Financial guarantees and options continued iii Guaranteed annuity options The Groups UK with-profit funds have written individual and group pension contracts which contain guaranteed annuity rate options GAOs, where the policyholder has the option to take the benefits from a policy in the form of an annuity based on guaranteed conversion rates.
+The Group also has exposure to GAOs and similar options on deferred annuities.
+Realistic liabilities for GAOs in the UK with-profit funds were 2,043 million at 31 December 2015, which includes 968 million relating to the recently acquired Friends Life business 2014: 1,198 million.
+With the exception of the New With-Profits Sub Fund NWPSF, movements in the realistic liabilities in the with-profit funds are offset by a corresponding movement in the unallocated divisible surplus, with no net impact on IFRS profit.
+Realistic liabilities for GAOs in the NWPSF were 196 million at 31 December 2015 2014: 197 million.
+Products with GAOs similar to those offered in the UK have been issued in Ireland.
+The net provision as at 31 December 2015 for such options is 317 million 2014: 273 million.
+This has been calculated on a deterministic basis, making conservative assumptions for the factors which influence the cost of the guarantee, principally annuitant mortality option take-up and long-term interest rates.
+These GAOs in Ireland are in-the-money at current interest rates but the exposure to interest rates under these contracts has been hedged through the use of derivatives receiver swaps and payer swaptions.
+iv Guaranteed minimum pension The Groups UK with-profit funds also have certain policies that contain a guaranteed minimum level of pensions as part of the condition of the original transfer from state benefits to the policy.
+v Guaranteed minimum maturity payments on mortgage endowments In addition, the with-profit fund companies have made promises to certain policyholders in relation to their with-profit mortgage endowments.
+Top-up payments will be made on these policies at maturity to meet the mortgage value up to a maximum of the 31 December 1999 illustrated shortfall.
+For UKLAP WP policyholders, these payments are subject to certain conditions.
+b UK Life non-profit business The Groups UK non-profit funds are evaluated by reference to statutory reserving rules, including changes introduced in 2006 under FSA Policy Statement 06 14, Prudential Changes for Insurers which was designated by the PRA on 1 April 2013. i Guaranteed annuity options Similar options to those written on with-profit business have been written in relation to non-profit products.
+Provision for these guarantees does not materially differ from a provision based on a market-consistent stochastic model, and amounts to 112 million at 31 December 2015, which includes 86 million relating to the recently acquired Friends Life business 2014: 33 million.
+ii Guaranteed unit price on certain products Certain unit-linked pension products linked to long-term life insurance funds provide policyholders with guaranteed benefits at retirement or death.
+No additional provision is made for this guarantee as the investment management strategy for these funds is designed to ensure that the guarantee can be met from the fund, mitigating the impact of large falls in investment values and interest rates.
+c Overseas life businesses In addition to guarantees written in the Groups UK and Ireland life businesses, our overseas businesses have also written contracts containing guarantees and options.
+Details of the significant guarantees and options provided by overseas life businesses are set out below.
+i France Guaranteed surrender value and guaranteed minimum bonuses Aviva France has written a number of contracts with such guarantees.
+The guaranteed surrender value is the accumulated value of the contract including accrued bonuses.
+Bonuses are based on accounting income from amortised bond portfolios, where the duration of bond portfolios is set in relation to the expected duration of the policies, plus income and releases from realised gains on equity-type investments.
+Policy reserves are equal to guaranteed surrender values.
+Local statutory accounting envisages the establishment of a reserve, Provision pour Alas Financiers PAF, when accounting income is less than 125% of guaranteed minimum credited returns.
+No PAF was established at full year 2015.
+The most significant of these contracts is the AFER Eurofund which has total liabilities of 31 billion at 31 December 2015 2014: 32 billion.
+The guaranteed minimum bonus is agreed between Aviva France and the AFER association at the end of each year, in respect of the following year.
+The bonus was 3.05% for 2015 2014: 3.20% compared with an accounting income from the fund of 3.54% 2014: 3.69%.
+Non-AFER contracts with guaranteed surrender values had liabilities of 16 billion at 31 December 2015 2014: 16 billion and all guaranteed annual bonus rates are between 0% and 4.5%.
+For non-AFER business the accounting income return exceeded guaranteed bonus rates in 2015.
+216 | Aviva plc Annual report and accounts 2015 216 | Aviva plc Annual report and accounts 2015

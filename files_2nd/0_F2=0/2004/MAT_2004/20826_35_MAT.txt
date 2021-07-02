@@ -1,0 +1,117 @@
+AMLIN_NN
+PLC_NN
+ANNUAL_NN
+REPORT_NN
+2004_CD
+89_CD
+FIVE_CD
+YEAR_NN
+SUMMARY_NN
+The_DT
+additional_JJ
+information_NOMZ
+consisting_VBG [WZPRES]
+of_PIN
+the_DT
+five_CD
+year_NN
+summary_NN
+and_CC
+the_DT
+syndicate_NN
+participations_NOMZ
+have_VPRT [PEAS]
+been_VBN [PASS]
+prepared_VBN
+from_PIN
+the_DT
+accounting_GER
+and_CC
+or_CC
+statutory_JJ
+records_NN
+of_PIN
+the_DT
+Group_NN
+._.
+While_OSUB
+it_PIT
+does_VPRT
+not_XX0
+form_VB
+part_NN
+of_PIN
+the_DT
+statutory_JJ
+financial_JJ
+statement_NOMZ
+,_,
+it_PIT
+should_NEMD
+be_VB [PASS]
+read_VBN
+in_PIN
+conjunction_NOMZ
+with_PIN
+them_TPP3
+and_CC
+the_DT
+responsibilities_NOMZ
+section_NOMZ
+of_PIN
+the_DT
+auditors_NN
+report_VPRT [PUBV]
+thereon_NN
+._.
+The_DT
+balance_NN
+sheet_NN
+assets_NN
+and_PHC
+liabilities_NOMZ
+in_PIN
+the_DT
+table_NN
+below_PLACE
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+to_TO
+take_VB
+account_NN
+of_PIN
+the_DT
+change_NN
+of_PIN
+treatment_NOMZ
+of_PIN
+own_JJ
+shares_NN
+held_VBN [PRIV] [WZPAST]
+by_PIN
+ESOT_NN
+that_TSUB
+was_VBD [BEMA]
+first_PRED
+adopted_VBN
+in_PIN
+the_DT
+2003_CD
+Report_NN
+and_PHC
+Accounts_NN
+._.
+The_DT
+per_PIN
+share_NN
+amounts_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+restated_VBN
+taking_VBG
+account_NN
+of_PIN
+this_DEMO
+change_NN
+._.

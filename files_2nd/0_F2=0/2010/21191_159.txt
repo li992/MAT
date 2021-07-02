@@ -1,0 +1,29 @@
+Financial statements IFRS 175 Performance review Aviva plc Accounting policies continued Annual Report and Accounts 2010 Corporate responsibility Governance Shareholder information Financial statements IFRS Financial statements MCEV Other information ii Provision for unearned premiums The proportion of written premiums, gross of commission payable to intermediaries, attributable to subsequent periods is deferred as a provision for unearned premiums.
+The change in this provision is taken to the income statement as recognition of revenue over the period of risk.
+iii Liability adequacy At each reporting date, the Group reviews its unexpired risks and carries out a liability adequacy test for any overall excess of expected claims and deferred acquisition costs over unearned premiums, using the current estimates of future cash flows under its contracts after taking account of the investment return expected to arise on assets relating to the relevant general business provisions.
+If these estimates show that the carrying amount of its insurance liabilities less related deferred acquisition costs is insufficient in light of the estimated future cash flows, the deficiency is recognised in the income statement by setting up a provision in the statement of financial position.
+Other assessments and levies The Group is subject to various periodic insurance-related assessments or guarantee fund levies.
+Related provisions are established where there is a present obligation legal or constructive as a result of a past event.
+Such amounts are not included in insurance liabilities but are included under Provisions in the statement of financial position.
+L Non-participating investment contract liabilities Claims For non-participating investment contracts with an account balance, claims reflect the excess of amounts paid over the account balance released.
+Contract liabilities Deposits collected under non-participating investment contracts are not accounted for through the income statement, except for the investment income attributable to those contracts, but are accounted for directly through the statement of financial position as an adjustment to the investment contract liability.
+The majority of the Groups contracts classified as non-participating investment contracts are unit-linked contracts and are measured at fair value.
+Certain liabilities for non-linked non-participating contracts are measured at amortised cost.
+The fair value liability is determined in accordance with IAS 39, using a valuation technique to provide a reliable estimate of the amount for which the liability could be settled between knowledgeable willing parties in an arms length transaction.
+For unit-linked contracts, the fair value liability is equal to the current unit fund value, plus additional non-unit reserves if required based on a discounted cash flow analysis.
+For non-linked contracts, the fair value liability is based on a discounted cash flow analysis, with allowance for risk calibrated to match the market price for risk.
+Amortised cost is calculated as the fair value of consideration received at the date of initial recognition, less the net effect of payments such as transaction costs and front-end fees, plus or minus the cumulative amortisation using the effective interest rate method of any difference between that initial amount and the maturity value, and less any write-down for surrender payments.
+The effective interest rate is the one that equates the discounted cash payments to the initial amount.
+At each reporting date, the amortised cost liability is determined as the value of future best estimate cash flows discounted at the effective interest rate.
+M Reinsurance The Group assumes and cedes reinsurance in the normal course of business, with retention limits varying by line of business.
+Premiums on reinsurance assumed are recognised as revenue in the same manner as they would be if the reinsurance were considered direct business, taking into account the product classification of the reinsured business.
+The cost of reinsurance related to long-duration contracts is accounted for over the life of the underlying reinsured policies, using assumptions consistent with those used to account for these policies.
+Where general insurance liabilities are discounted, any corresponding reinsurance assets are also discounted using consistent assumptions.
+Gains or losses on buying retroactive reinsurance are recognised in the income statement immediately at the date of purchase and are not amortised.
+Premiums ceded and claims reimbursed are presented on a gross basis in the consolidated income statement and statement of financial position as appropriate.
+Reinsurance assets primarily include balances due from both insurance and reinsurance companies for ceded insurance liabilities.
+Amounts recoverable from reinsurers are estimated in a manner consistent with the outstanding claims provisions or settled claims associated with the reinsured policies and in accordance with the relevant reinsurance contract.
+Reinsurance contracts that principally transfer financial risk are accounted for directly through the statement of financial position and are not included in reinsurance assets or liabilities.
+A deposit asset or liability is recognised, based on the consideration paid or received less any explicitly identified premiums or fees to be retained by the reinsured.
+If a reinsurance asset is impaired, the Group reduces the carrying amount accordingly and recognises that impairment loss in the income statement.
+A reinsurance asset is impaired if there is objective evidence, as a result of an event that occurred after initial recognition of the reinsurance asset, that the Group may not receive all amounts due to it under the terms of the contract, and the event has a reliably measurable impact on the amounts that the Group will receive from the reinsurer.

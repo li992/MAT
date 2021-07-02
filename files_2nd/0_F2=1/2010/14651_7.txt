@@ -1,0 +1,115 @@
+business grOup develOpMent and perfOrMance Description of our business The Spirent Group is organised into three business segments: Performance Analysis, Service Assurance and Systems.
+Performance Analysis provides solutions that test current and We also provide tools for service technicians and field test engineers to next-generation communications technologies in the lab.
+Service improve network quality and make troubleshooting of live networks Assurance provides network monitoring and field test solutions for live efficient and effective.
+Systems is a leading supplier of sophisticated electronic control systems for electrically powered vehicles.
+Network equipment manufacturers and service providers face numerous challenges associated with bringing products and services Spirent Communications provides solutions to enable the world to from the lab to the commercial marketplace.
+Spirents Performance communicate faster, better, and more reliably.
+We develop innovative Analysis division allows network equipment and mobile device test solutions for the engineers working within the communications manufacturers, service providers, enterprises and government entities industry that allow them to evaluate the performance of the latest to holistically test and benchmark the performance of their networks, technologies, infrastructure and applications to be deployed worldwide.
+network elements, mobile devices and services, thereby accelerating time to revenue.
+overview Spirent provides the ability to conduct functional, conformance, performance, interoperability, scalability and quality of experience testing under real-world conditions inside and outside the lab.
+This Revenue by division capability, across the entire product lifecycle, from concept to 1 Group revenue commercial availability, helps to shorten the product development 2 cycle, improve the quality of new services, while reducing associated cost and risk.
+$482.2M 3 Spirent delivers solutions which address high speed Ethernet, data 2009 $427.2M center, cloud computing, virtualization, IMS, IPTV, location based services, multi-GNSS satellite technologies, 3G and 4G LTE wireless 2010 2009 and other emerging technologies.
+1 Performance Analysis 365.8 316.8 2 Service Assurance 57.0 52.6 Spirents service assurance solutions allow service providers to 3 Systems 59.4 57.8 diagnose, troubleshoot and determine how to resolve issues with networks and systems within the live network all the way to the home.
+By leveraging the expertise gained by testing technologies and systems Operating profit by division in the lab, Spirent enables service providers to deploy and maintain 1 Group operating profit efficient, cost effective and high performing networks.
+As a result, 2 network operators enjoy reduced churn by providing a higher quality 3 of experience which ultimately increases subscriber retention.
+Our $114.5M solutions also allow service providers to reduce operational costs through better identification of potential network problems and the use 2009 $88.8M of the appropriate resources to address and correct those challenges.
+2010 2009 Systems is a leading supplier of sophisticated electronic control systems 1 Performance Analysis 97.9 78.3 for electrically powered vehicles in the medical mobility and industrial 2 Service Assurance 13.0 7.5 Before share-based payment and markets.
+These include vehicles such as powered wheelchairs and acquired intangible asset 3 Systems 8.8 7.9 amortisation.
+mobility scooters as well as industrial vehicles such as floor cleaning Corporate costs 5.2 4.9 equipment, fork-lift trucks, aerial access platforms and golf carts.
+18 Spirent Communications plc Annual Report 2010 overview business review governance financial statements Our global presence We are a trusted test partner for more than 1,300 global customers.
+Revenue Americas Europe, Middle East and Africa Asia Pacific $265.2M $80.6M $136.4M 2009 $232.2M 2009 $71.8M 2009 $123.2M Spirent has global reach which results from its global sales and service organisations industry leading capabilities.
+We serve over 1,300 customers globally across all segments, including network equipment manufacturers, mobile device manufacturers, service providers, enterprise and governments as we enable the development of communications and IT technologies from their inception to their deployment in live networks.
+Spirent Communications plc Annual Report 2010 19 business grOup develOpMent and perfOrMance CONTINUED Performance Analysis divisional highlights Market conditions The Performance Analysis division experienced significant growth in 2010, with revenue up 15 per cent over 2009 as customers increased Revenue up 15% driven by expansion in their investment in next-generation data centers that make use of cloud worldwide data connectivity computing and virtualization.
+We also saw investment growth in In wireless 2010 was a year of exceptional current and next-generation wireline and wireless networks and mobile devices, as well as in global navigation satellite systems GNSS.
+expansion in mobile internet Solid recovery in positioning test For the Networks & Applications business previously referred to as Profit up 25% due to high operating Broadband, anytime, anywhere, any device connectivity is driving rapid changes in service provider and enterprise networks.
+Converged leverage on revenue growth IP Ethernet solutions have become the default for service providers as well as the enterprise, due to their cost effectiveness, scale and ability to support a wide range of applications.
+As a leader in Ethernet testing, Spirent is benefiting significantly from this industry trend.
+Divisional revenue $ million In service provider networks, the explosion in data demand by mobile 353.7 316.8 365.8 subscribers is driving higher speed interfaces, from 1G to 10G, all the way to 100G Ethernet, to provide support for bandwidth-hungry applications such as video.
+Cost effectiveness is driving IP Ethernet across all aspects of the network, from access to the edge to the core, but with this comes the need to ensure the quality of user experience.
+15% 2008 2009 2010 The growth of Ethernet in wireless radio access networks also brings with it new testing needs.
+While industry standards have evolved to enable the synchronisation required to backhaul wireless traffic over Divisional operating profit Ethernet, this has added a layer of complexity which requires $ million additional testing.
+83.1 78.3 97.9 Enterprises are building next-generation data centers and moving more applications to the cloud to take advantage of reductions in cost, complexity and management overhead.
+This allows businesses to focus on their core competencies instead of building a large IT 25% 2008 2009 2010 organisation.
+Powerful new technologies such as virtualization and Local Area Network Storage Area Network integration are powering the new data center, but they bring with them significant challenges Return on sales including security, performance and availability.
+The speed of information requires data center infrastructure to be upgraded to 10G % 26.8 Ethernet switches and 40G Ethernet links in order to handle the 24.7 increases in data traffic moving across the data center.
+Network 26.8 23.5 equipment manufacturers are responding to these requirements by 24.7 23.5 building a new generation of terabit switches and routers that can support these technologies at unprecedented scale and this is forcing 2008 2009 2010 a new wave of investment in test and measurement solutions.
+2008 2009 2010 20 Spirent Communications plc Annual Report 2010 overview business review governance financial statements Both service provider and enterprise networks share the common The market for test equipment in the positioning sector experienced goal of minimising costs while providing the same or better quality of a solid recovery through 2010.
+Investment in GPS test returned to experience for the user.
+Achieving this requires fundamental changes pre-downturn levels, with growth also evident in GLONASS, Galileo in the way networks are built and services are delivered.
+Validation of and multi-GNSS test.
+Opportunities for 2011 include GPS network performance, availability, security and scalability PASS modernisation and upgrades to the Russian GLONASS system.
+The is critical, which has led Spirent to develop its unique PASS testing European Galileo system is also gaining momentum and is expected methodology.
+This cloud computing test methodology provides the to be fully operational in 2015.
+The use of smart technology in test framework and approach to ensure that new products or network government applications continues to increase, enabling position upgrades deliver the intended benefits and behave as expected, awareness everywhere, all the time, under all conditions.
+In the even under the most demanding scenarios.
+commercial markets rapid growth continues, demanding low cost, high availability consumer based products and applications.
+Spirent enables its customers to address the many challenges of testing both new products and services with Spirent TestCenter, our Revenue best in class solution that is specifically designed to work through the Revenue in the Performance Analysis division grew 15 per cent, from various stages of conformance, functional and performance testing.
+Much of this growth came from the Spirent TestCenter enables validation of applications through realistic Networks & Applications business and our Spirent TestCenter emulation and has the ability to scale at industry leading levels.
+solution, as well as our Avalanche solution for testing application When combined with Spirents depth of expertise, Spirent TestCenter security and application performance.
+Throughout 2010 there were enables our customers to accelerate time to market of converged many key wins around data center, virtualization and cloud network equipment and applications.
+computing and the new network elements that support them.
+Another important area of growth was in mobile backhaul and core For the wireless communication industry, 2010 was a year of network testing.
+Spirents Landslide solution, used for testing mobile exceptional expansion in mobile internet, resulting in exponential packet core networks, experienced another strong year.
+This is necessitating major network capacity upgrades globally and accelerating the trend towards all-IP networks.
+Our 3G UMTS test solutions saw solid growth during the year.
+Global Smartphones continued to grow market share, with their users positioning has become a must have capability in smartphones downloading ever more applications, accessing the internet and and Spirent once again experienced strong growth in its market using location based services.
+To meet this demand, investments are leading location based test solutions for UMTS and LTE devices.
+Our being made to increase CDMA and UMTS network speeds and the physical layer solutions used to test wireless receivers had a record first LTE networks are now being deployed.
+year, driven by the need for realistic testing of the complex new multi-antenna transmission schemes used in LTE infrastructure and As a result we continue to see strong demand for our UMTS and LTE devices.
+We experienced success for our LTE solutions within the wireless communication test solutions, as well as for our physical Verizon Wireless ecosystem of top-tier device suppliers.
+Early in layer solutions which are used to test wireless receivers in 3G and 2010 Verizon, a major US carrier, announced that it had selected LTE base stations and devices.
+Although CDMA wireless technology Spirent as a supplier for its mobile LTE device testing.
+We also saw showed some expected decline as investment shifted to UMTS and LTE sales success with other leading carriers planning LTE network LTE, this was somewhat offset by investments by new CDMA device deployments, as well as within R&D groups of major device vendors who are entering into markets such as the US and China, manufacturers and technology providers.
+where major networks continue to use CDMA technology.
+As a leader in testing wireless devices and infrastructure, Spirent For the Positioning business, our high end multi-constellation continues to apply its innovations to meet the ever-evolving needs satellite simulators experienced strong sales growth.
+One particularly of wireless customers.
+notable win, into the second and final phase of the European Space Agencys Galileo programme, ensures Spirents recognition as the Spirent Communications plc Annual Report 2010 21 business grOup develOpMent and perfOrMance CONTINUED reference supplier of GNSS test equipment to that programme.
+Sales deployed in the cloud.
+Spirent won a prestigious 2010 Best of of mid-range GNSS simulators to the commercial market were also up Interop award for this innovative solution.
+compared to 2009, with demand primarily being driven by the need to test combined GPS and GLONASS.
+Wireless test solutions delivered in 2010 addressed our customers 3G and 4G LTE testing needs.
+Spirent brought to market a family of During 2010, we also strengthened our Services organisation test solutions that validate the performance of LTE devices and their through integration of our global team, enhancing our capacity to ability to move between LTE and legacy wireless networks.
+We also deliver support and professional services for our solutions in all introduced powerful, flexible network emulation and radio frequency of our key markets.
+RF test solutions for LTE device development.
+We grew our UMTS business with the introduction of more Development Library test Profitability solutions, which provide developers with a highly configurable bench Operating profit reported by Performance Analysis increased by top UMTS wireless network to test their devices and applications.
+This was due to a large extent to the growth in revenue.
+Gross profit margin reduced by one percentage The release of additional capabilities to test the performance of point compared to full year 2009 as a result of large contract smartphones when utilising location based services maintained discounting and the product mix of sales, including an increased Spirents leadership in this rapidly expanding area.
+Commercial proportion of revenue from third party products.
+Gross margins are availability of a new Spirent test solution to enable the capture of well within the normal range for the business.
+Overheads increased real-world wireless conditions in the field and to replay them in the at a much lower rate than revenue growth, rising by 8 per cent over lab made it possible for device and base station developers, as well the prior year.
+This operating leverage expanded return on sales to as carriers, to reduce their need for costly and time consuming 26.8 per cent for 2010 compared to 24.7 per cent for 2009. drive testing.
+Product development In the Positioning business, there was a focus on growing our tailored Our Networks & Applications business released several innovative, solutions, which develop or customise high end systems for market leading solutions in 2010.
+For Spirent TestCenter, new individual customer requirements.
+During 2010, we also launched a capabilities included a high density HyperMetrics 40 100G Ethernet new test solution that enables lab-based testing of hybrid Wi-Fi and module, combining 100G and two 40G Ethernet test ports to enable satellite positioning technologies for mobile devices.
+the highest performance and scale for routing emulation and application traffic.
+We also released the industrys highest performing 10G Ethernet module for service provider multi-play testing and a HyperMetrics Fibre Channel module for end-to-end converged data center testing.
+For LTE evolved packet core testing, we introduced a new Landslide appliance, a high performance solution to ensure next-generation wireless mobility performance.
+A new high performance version of the Avalanche appliance was also released, offering multi 10G Ethernet capacity and focusing on high performance true end-to-end applications and security testing.
+Another major Spirent innovation released in 2010 was Avalanche Virtual, the industrys first all-in-one cloud testing solution designed to test and measure the PASS of virtualised network infrastructures and of applications 22 Spirent Communications plc Annual Report 2010 overview business review governance financial statements Service Assurance divisional highlights Market conditions 2010 saw market conditions begin to improve in both the service assurance and field test markets as the need grew for service Demand driven by need for increased data providers to address increased bandwidth demands for business, capacity across the industry residential triple play and mobility services.
+Increased investment by Key wins for our STC Live Ethernet solution service providers was driven by competition, increased complexity in the access network, IP Ethernet enablement and a focus on Increased activity around triple play and improving the efficiency of their field forces.
+These factors helped in-home field testing drive additional wins for our Spirent TestCenter Live STC Live Profit up 73% reflects revenue growth and Ethernet solution at major wireline and wireless service providers in North America, as well as at a large European multiple system cable beneficial product mix operator MSO.
+In addition, we continue to see increased activity around triple play services and in-home field testing, as evidenced by five of the top eight US cable MSOs ramping up their purchases for our Tech-X Flex hand-held products.
+Divisional revenue $ million Growth in capital spending from service providers worldwide is 62.0 52.6 57.0 expected to continue, as improving economic conditions drive further demand for Ethernet services and higher bandwidth residential service offerings.
+Service provider investments are expected in business Ethernet offerings, IP video, 3G and LTE services.
+This growth will in turn drive investment in Ethernet service assurance 8% 2008 2009 2010 solutions for wireless backhaul and triple play services by the operations, administration and maintenance organisations within the service providers.
+In the field test market, the transition from ADSL to Divisional operating profit VDSL2 based services and the growing sophistication of in-home IP $ million networks over coax and wireless will drive new field test tool 8.9 7.5 13.0 investment decisions by service providers.
+Revenue Service Assurance revenues increased by 8 per cent in 2010 to $57.0 million compared to $52.6 million in 2009 as service providers 73% 2008 2009 2010 began to increase their capital spend.
+The year was highlighted by strong demand for test solutions for business services and to support the growing bandwidth needs in the wireless backhaul.
+There were Return on sales key wins for our STC Live Ethernet solution at major wireline and wireless service providers in North America, as well as at a large % European cable MSO.
+In addition, we continue to see increased 22.8 activity in field test for triple play services and in-home testing.
+14.4 14.3 2008 2009 2010 Spirent Communications plc Annual Report 2010 23 business grOup develOpMent and perfOrMance CONTINUED Profitability With the increase in revenue in 2010 and continued tight management control of expenses, the Service Assurance business improved profitability by 73 per cent year-on-year to $13.0 million from $7.5 million in 2009 reflecting the benefit of product mix including a major software contract.
+During this same period, return on sales increased from 14.3 per cent in 2009 to 22.8 per cent in 2010.
+Product development The focus remains on development of service assurance and field test solutions for next-generation networks.
+In 2010, this included enhancing our STC Live Ethernet test and performance monitoring offerings for business services and wireless backhaul, as well as adding IPTV support to our line of 1G and 10G Ethernet probes.
+In field test, we continued to add capabilities to our innovative Tech-X Flex platform including the release of an important new 1GHz RF and DOCSIS 3.0 testing module for the cable MSO market.
+24 Spirent Communications plc Annual Report 2010 overview business review governance financial statements Systems divisional highlights Market conditions During the year the market for our existing industrial products saw some recovery but more importantly we grew sales in newly served Grew revenue in newly served commercial commercial and industrial markets.
+and industrial markets Market recovery for industrial products Sales within the medical mobility market were broadly flat and under price pressure from changes in US Medicare funding.
+The pressure on Medical mobility market broadly flat margins that these changes create is being countered by product cost Profit improvement of 11% due to exchange reduction and improvements in supply chain management.
+rate losses in 2009 not repeated net of a Revenue and profitability one-off charge in 2010 Revenue grew 3 per cent from $57.8 million to $59.4 million.
+Sales growth in 2010 has predominantly come from our industrial products which includes a mixture of improving commercial and industrial sales, coupled with growth in new markets.
+The profit improvement Divisional revenue of 11 per cent over 2009 reflects the exchange rate hedging loss of $ million $2.3 million last year, which did not repeat, partially offset by a 61.4 57.8 59.4 non-recurring charge in 2010 of $1.1 million.
+Product development During the year we launched our new C3 AC pallet truck controller.
+This addresses a new market area for us and provides an opportunity 3% 2008 2009 2010 for future growth.
+We also launched the new VSI wheelchair controller, an innovative, low cost controller designed to replace one of our older product lines.
+Divisional operating profit $ million 8.0 7.9 8.8 Corporate costs Corporate costs are those expenses which cannot be attributed to the Groups operating segments and comprise the costs of the Board and 11% 2008 2009 2010 other corporate activities.
+The costs were maintained at a similar level to 2009 at $5.2 million 2009 $4.9 million.

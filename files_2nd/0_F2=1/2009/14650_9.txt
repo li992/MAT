@@ -1,0 +1,96 @@
+Communications business group development and First Second Full Change at half half year Change constant performance million 2009 2009 2009 2008 % currency % Revenue Performance Analysis 102.5 99.3 201.8 191.2 6 9 Service Assurance 18.3 15.2 33.5 33.5 14 Communications group 120.8 114.5 235.3 224.7 5 10 Operating profit Performance Analysis 21.9 28.0 49.9 44.9 11 5 Service Assurance 2.6 2.2 4.8 4.8 13 Communications group 24.5 30.2 54.7 49.7 10 6 Return on sales % Performance Analysis 21.4 28.2 24.7 23.5 Service Assurance 14.2 14.5 14.3 14.3 Customer sentiment has Communications group 20.3 26.4 23.2 22.1 now changed from cost management to investing Performance Analysis Market conditions for the future, a positive The year ended with a welcome positive change in customer confidence.
+This followed trend which has continued the return to stability during the third quarter of the year, after the difficult conditions into the first quarter of in the first two quarters.
+Customer sentiment has now changed from cost management 2010. to investing for the future, a positive trend which has continued into the first quarter of 2010.
+Service providers have increased their investments in higher speed Ethernet to support an increase in broadband and wireless traffic as well as advanced applications such as cloud computing.
+Network equipment manufacturers have shifted their investments accordingly to developing platforms that support higher speed Ethernet and backhaul of mobile generated data traffic in greater scale than ever before.
+In addition, we have seen an increase in development spending on next-generation enterprise solutions.
+These investments promise more application aware networks and the support of multiple technologies in the data center such as virtualization and cloud computing.
+Spirent is benefiting from all of these trends through its diverse solutions portfolio of test and measurement products and services.
+Customers are continually seeking ways to optimise their investments in product development, and in turn are looking for increased value from test and measurement tools.
+This has led to a shift in demand from single technology test products to solutions that can handle multiple technology scenarios leveraging a single hardware and software architecture.
+As a result Spirent TestCenter has emerged as the Layer 27 test solution of choice for the market.
+We have seen a strong increase in demand for 10 Gigabit Ethernet GbE interface modules in 2009 with customers requesting price reductions due to the increase in volume purchases.
+We have proactively met this challenge by adopting new technologies which increase port density and lower the overall cost per port.
+Automation is also playing a key role in driving improvement in time to market and efficiency for our customers.
+Spirent is leading the way with its automation solutions through its participation in industry wide automation initiatives.
+Growth in wireless communication driven by the needs of consumers and businesses for anytime, anywhere internet access is accelerating the adoption of new technologies and the development of complex scenarios such as converged wireless and wireline networks.
+As a result we are experiencing strong demand for our UMTS and LTE wireless communication test solutions.
+At the same time, CDMA wireless technology began to show signs of expected weakness, although the effect of this was masked by a few large contract wins during the year.
+As a leader in testing wireless devices and infrastructure, Spirent continues to apply its innovations to meet the ever evolving needs of wireless customers.
+The market for test equipment in the positioning sector experienced a sharp decline in 2009.
+This was the result of many factors including reduced US government spending 14 Spirent Communications plc Annual Report 2009 BUSINESS REVIEW and a significant reduction in manufacturing production volumes as sales of consumer end products fell as the market paused, waiting for the development of devices that can leverage multiple global navigation satellite systems.
+We expect a recovery in the positioning test market in 2010.
+Revenue Performance Analysis revenues grew by a reported 6 per cent in sterling, masking a 9 per cent decrease in constant currency for the full year 2009.
+However, the rate of decrease moderated in the fourth quarter.
+More importantly order intake for the fourth quarter grew by 17 per cent over the same period in 2008 in constant currency.
+Regionally we saw continued growth in Asia, particularly in China, with recovery coming in North America at the end of the year.
+As customers assessed their investment priorities, they cut back on legacy product enhancements and shifted to new technology development.
+Almost all of the decrease in revenue in 2009 can be attributed to the decline in legacy test solution spending.
+Looking forward this is expected to have less of an impact, as legacy products now only account for 11 per cent of Performance Analysis revenue.
+Spirent secured significant wins in the year as a result of new product introductions and selling initiatives.
+We enabled service providers and network equipment New product innovation, manufacturers to test the interoperability and scalability of the emerging LTE enhanced technical leadership packet core.
+In addition, sales of our high density 10GbE ports were up nearly two fold.
+Meanwhile in Asia and North America we won orders for our 40 100GbE test solutions.
+and working closely with Important sales were made throughout the year to service providers and network our customers to bring equipment manufacturers who are focused on virtualization, cloud computing inside test solutions to market the data center and delivery of applications to enterprise and consumers.
+at the right time to Revenue growth in our wireless business was exceptionally strong in 2009.
+Overall 3G UMTS test solutions saw solid growth during the year.
+The continued build out of meet demand are key enhanced wireless data networks by CDMA carriers such as China Telecom and Verizon contributors to Spirents Wireless drove demand for test solutions.
+The rapid increase in sales and deployment of success.
+3G smartphones has increased the complexity of testing these devices for both the wireless network operators as well as the device manufacturers.
+Furthermore, we became the supplier of choice for the mobile LTE device test for Verizon, a major US service provider, and their ecosystem of device suppliers.
+The emphasis on creating real-world conditions while testing in a controlled environment in the laboratory increased demand for fader products.
+Positioning products saw reduced revenues as a result of lower demand due to macro economic conditions in 2009, but fundamental long term positive trends continue to exist.
+Profitability Performance Analysis profits increased by a reported 11 per cent: excluding currency effects profits decreased by 5 per cent.
+Control of overheads led to a reduction of 12.7 million in constant currency terms, offsetting the 9 per cent decrease in revenue.
+Return on sales for the year was 24.7 per cent compared to 23.5 per cent for 2008, with the second half year seeing return on sales increase to 28.2 per cent.
+The benefits of improved design for manufacture, supply chain efficiencies and proactive product cost reduction measures through advancement in technology and density, offset price pressures to give an increase in gross margin of 0.6 percentage points over 2008.
+Product development New product innovation, technical leadership and working closely with our customers to bring test solutions to market at the right time to meet demand are key contributors to Spirents success.
+Spirent has transformed itself into an organisation that can rapidly address the ever changing conditions in our target markets.
+Spirent today is more efficient and at the same time more agile than it has ever been.
+Industry recognition for innovation in our test solutions continues to demonstrate the Companys leadership position.
+We delivered a series of new products in 2009 to serve our customers.
+Spirent TestCenter remained the leader in high speed Ethernet testing through the addition of our high density 10GbE module as well as the industrys highest performing 40 100GbE solution.
+In addition, we delivered the industrys first solution to holistically test the enterprise data center and enhanced the performance of our integrated application Spirent Communications plc 15 Annual Report 2009 performance test platform.
+We also released new protocols to support mobile backhaul business group and introduced our LTE enhanced packet core performance test capability.
+development and For 2010, we will continue to enhance our high speed Ethernet offerings on Spirent TestCenter while we further incorporate additional data center, applications and mobile performance backhaul capabilities into the platform.
+In addition, we will dramatically increase the continued performance and usability of application test solutions and support increased scalability and standards in our LTE packet core testing platform.
+Wireless test solutions delivered in 2009 addressed the requirements of 3G and 4G LTE testing needs.
+For our 3G customers we enhanced our testing capabilities to better simulate real-world conditions inside a controlled lab environment.
+Recreation and playback in the lab of data captured in the live wireless network using the virtual drive test functionality of our faders allowed customers to do more real-world testing in the lab at a lower cost than ever before.
+For the wireless network operators who are deploying higher speed data on CDMA our upgrades have enabled them to more effectively test the roll out of new devices.
+For UMTS customers we have expanded test coverage with our device library test solution that provides developers with a user controllable bench-top UMTS wireless network to test their hardware or software.
+In 2009 Spirent also delivered its first LTE device test solutions focused on radio frequency and data performance testing requirements.
+In 2010, our wireless test solutions will expand to address the ever increasing market requirements of wireless testing.
+In particular, new Global Navigation Satellite Systems such as GLONASS will drive the need for wireless device test solutions that combine this technology with existing GPS capabilities.
+The further growth of smartphones and other data-hungry devices on the 3G CDMA and UMTS networks will drive the need for testing high speed data solutions.
+LTE will require improved and expanded antenna testing by deploying techniques such as Multiple Input Multiple Output Over-the-Air testing, and increase the testing needs to include mobility and location based services.
+The ubiquity of positioning technology is also expected to expand in 2010, as consumer applications utilising global satellite navigation continue to grow.
+We deliver testing solutions that address emerging and growing communication technologies.
+The desire for anytime, anywhere internet access coupled with the growing demand for increased bandwidth is driving the convergence of wireline and wireless technologies across the communications industry creating new opportunities for test and measurement products, solutions and services.
+Service Assurance Market conditions As expected, market conditions remained challenging throughout 2009 for both the service assurance and field test markets.
+In the first half of the year we saw caution around operational and capital spending by service providers across all segments of our business.
+However, in the second half year we began to see indications of increased demand for carrier Ethernet service assurance and triple play field test solutions.
+Several factors are driving carrier investment in these areas which include increased competition, the complexity in the access network and a move towards the improved efficiency of their field engineers.
+Specifically, we have added new customers throughout North America and Europe for 1G and 10G centralised test and performance solutions for the enterprise business services and wireless backhaul markets.
+Spirents next-generation field test unit, Tech-X Flex, has sold into major North American service providers and cable multiple system operators for in-home testing as service providers have begun to launch new advanced services such as multi-room digital video recording.
+For 2010, we expect to see moderate growth in carrier Ethernet service assurance and triple play field test solutions.
+This growth is being driven by increased demand for more efficient and lower cost carrier Ethernet services for business and advanced residential triple play offerings.
+Spirent is well positioned to take advantage of these new areas of spend within cable multiple system operators, wireline, and wireless service providers.
+16 Spirent Communications plc Annual Report 2009 BUSINESS REVIEW Revenue Service Assurance revenues declined by 14 per cent in constant currency year-on-year, as expected, as service providers continued to reduce spend on legacy and DSL solutions.
+Growth in 10GbE monitoring devices was strong and demand for monitoring for cable multiple system operators was robust, but this did not offset legacy decline.
+The second half year saw much more robust order intake, which gives confidence that revenues will stabilise in 2010.
+Profitability While the Service Assurance business saw a decline in revenue in 2009 in constant currency, the business was able to maintain profitability through increased efficiency and continued cost management.
+Product development The division continues to focus on the development of service assurance and field test solutions for next-generation networks.
+In 2009, new 1GbE and 10GbE service assurance solutions were launched for Ethernet business services and 3G 4G wireless backhaul.
+In addition, we completed the development on several new modules for the Tech-X Flex field test product line providing us with a complete suite of in-home and outside the home test capabilities for the service provider and cable multiple system operator markets.
+Systems Change First half Second half Full year at constant million 2009 2009 2009 2008 Change % currency % Revenue 18.3 18.5 36.8 33.2 11 5 Operating profit 2.1 2.9 5.0 4.3 16 23 Return on sales % 11.5 15.7 13.6 13.0 The Systems group comprises PG Drives Technology, a leading supplier of control systems for electrically powered medical and small industrial vehicles.
+The business was affected by the global recession, particularly on industrial sales, but less so on medical mobility despite changes in US government healthcare funding for powered wheelchairs.
+At constant currency revenue was down 5 per cent and operating profit by 23 per cent.
+Nevertheless, the exchange rate benefit was more than enough to offset the effects of the recession on sales and profit, but as we were hedged for much of the year at $1.83:1 we were unable to take full advantage of this effect.
+During 2009 we introduced new products for scooters and wheelchairs and in spite of the recession made good progress in growing market share in the industrial market segment.
+In 2010, we plan to introduce several significant new products which will include new systems for powered wheelchairs and also industrial vehicles.
+In addition, we will continue to take advantage of operational cost improvements through design and by placing more production into China, which also supports our activities in the Asia Pacific region.
+The US dollar to sterling exchange rate has moved significantly in our favour and this should benefit our results in 2010.
+Corporate costs Corporate costs were 3.1 million in 2009 and 2008.
+The cost reductions achieved in prior years were maintained, as were the reduced staff levels.
+Spirent Communications plc 17 Annual Report 2009

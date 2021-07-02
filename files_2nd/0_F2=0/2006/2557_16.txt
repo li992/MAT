@@ -1,0 +1,76 @@
+Statement of Accounting Policies for The BSS Group PLC Group accounts Basis of Preparation These financial statements excluding the Parent Company Balance Sheet, have been prepared in accordance with International Financial Reporting Standards IFRS and IFRIC interpretations in issue and with those parts of the Companies Act 1985 applicable to companies reporting under IFRS.
+A summary of the principal Group accounting policies are set out below and in the notes to the financial statements.
+These policies have been consistently applied to all periods presented unless otherwise stated.
+The following exemptions as set out in IFRS1 First Time Adoption of International Financial Reporting Standards have been adopted: a Business combinations - no retrospective application of IFRS 3 Business Combinations to business combinations that occurred prior to the transition to IFRS on 1st April 2004. b Share based payments - IFRS 2 has been applied only to share based payments made after 7th November 2002 and any cash settled transactions not vested by 1st January 2005. c Foreign exchange differences - cumulative foreign exchange differences included in equity, under previous consolidations, have been set to zero at transition.
+d Financial instruments - the exemption not to restate comparatives for IAS 32 and IAS 39 has been taken.
+Under this option financial instruments are accounted for under UK GAAP at the date of transition.
+In addition, the Group has chosen not to adopt early either IAS 32 Financial Instruments: Disclosure and Presentation or IAS 39 Financial Instruments: Recognition and Measurement for accounting periods beginning before 1st April 2005.
+The financial statements have been prepared under the historical cost convention as modified by the revaluation of certain items as required by IFRS.
+In preparing the financial statements set out on the previous pages, The Group has complied with the UK Listing Authority requirements and has presented a comparative balance sheet at 31st March 2005.
+Basis of Consolidation The consolidated accounts comprise the accounts of The BSS Group PLC and all its subsidiaries at 31st March 2006.
+Subsidiary trading results are fully consolidated from the date on which control is transferred to the Group.
+They are fide-consolidated from the date that control ceases.
+Revenue recognition Revenue represents the value of goods sold arising in the United Kingdom and the Republic of Ireland excluding intra-group sales and value added tax.
+Foreign currency translation With the exception of BSS Ireland Limited, who conduct business in the Republic of Ireland, the principal place of operation is the United Kingdom.
+Consequently the financial statements are presented in GBP pounds sterling.
+The net assets of BSS Ireland Limited are translated at the closing rate at the balance sheet date and its income and expenses at the average rate for the year.
+Differences arising from these translations are taken to reserves in the consolidated financial statements.
+In the financial statements of the parent, differences arising on monetary items forming part of the net investment of the overseas subsidiary are taken to the income statement.
+Derivative financial instruments and hedging activities The Group uses derivative financial instruments to hedge its exposure to interest rate and foreign exchange risks arising from financing activities.
+Derivative financial instruments are stated at fair value.
+The fair value of the derivative financial instruments is the estimated amount the Group would receive or pay to terminate the derivative at the balance sheet date, taking into account current interest and exchange rates and the current creditworthiness of the counterparties.
+Changes in the fair value of derivative financial instruments, that are designated and effective as hedges of the future variability of cash flows, are recognised directly in equity and the ineffective portion is recognised immediately in the income statement.
+For an effective hedge of an exposure to changes in the fair value of a hedged item, the hedged item is adjusted for changes in fair value attributable to the risk being hedged with the corresponding entry in the income statement.
+For derivatives that do not qualify for hedge accounting, any gains or losses arising from changes in fair value are taken to the income statement as they arise.
+The Group does not enter into speculative derivative contracts.
+35 Statement of Accounting Policies of The BSS Group PLC Leases Assets acquired under finance leases are included in property, plant and equipment.
+Depreciation is provided at rates designed to write-off the cost in equal annual amounts over the shorter of the estimated useful lives of the assets and the period of the leases.
+Operating lease payments are charged to the income statement as incurred.
+Property, plant and equipment Property, plant and equipment are included at cost less depreciation or impairment.
+Depreciation is provided on a straight line basis to allocate the cost less residual value over the estimated useful life of the asset and is provided at the following rates:- Freehold land Nil Freehold properties and long leasehold Lesser of 2% on cost or over the lease term Short leasehold properties - tenants improvements 10% on cost Plant, vehicles and other equipment 10% to 35% The assets residual values and useful lives are reviewed and adjusted if appropriate at each balance sheet date.
+Borrowing costs Borrowing costs specifically and directly attributable to the acquisition or construction of assets that necessarily take a substantial period of time to get ready for their intended use or sale, are added to the cost of those assets, until such time as the assets are substantially ready for their intended use or sale.
+Intangible assets a Goodwill Goodwill represents the excess of the cost of an acquisition over the fair value of the Groups share of the net identifiable assets of the acquired subsidiary associate at the date of acquisition.
+Goodwill is tested annually for impairment and carried at cost less accumulated impairment losses.
+Gains and losses on the disposal of an entity include the carrying amount of goodwill relating to the entity sold not previously written off to reserves.
+b Computer software Costs that are directly associated with the development of identifiable and unique software products that will probably generate economic benefits for the Group beyond one year, are recognised as intangible assets.
+Computer software development costs recognised as assets and acquired computer software licences are amortised over their estimated useful lives 3 to 5 years.
+c Acquired assets Intangible assets identified as part of the assets of an acquired business are capitalised separately from goodwill if the fair value can be measured reliably on initial recognition.
+Intangible assets are amortised to the income statement over the useful life of the assets acquired.
+All acquired intangible assets are reviewed annually for impairment.
+Investments Investments in subsidiaries are reflected at cost in the stand alone accounts of the parent and eliminated on consolidation.
+Employee benefit costs a Pension Schemes Group companies operate various pension schemes.
+Contributions to the Groups defined benefit pension schemes are charged in accordance with the advice of the Groups actuaries, so as to spread the cost of pensions over the anticipated service lives of scheme members.
+As permitted under IAS 19 revised, actuarial surpluses and deficits are recognised immediately in the statement of recognised income and expense.
+Contributions to defined contribution pension schemes are charged to the income statement as incurred.
+b Share-based compensation The Group operates various equity settled share option schemes.
+The value of the employee services is determined by reference to the fair value of the options granted using the Black Scholes valuation model.
+This value is then expensed in the income statement in the period between grant date and vesting date vesting period.
+At each balance sheet date, the Group revises its estimates of the number of options expected to be exercised.
+Any net proceeds are credited to equity when the options are exercised.
+Inventories Inventories are stated at the lower of cost and net realisable value, after adjusting for impairment for obsolete and slow moving items and are calculated on a first in first out basis.
+Cost comprises direct materials and where appropriate a proportion of attributable overheads, supplier rebates and discounts.
+Net realisable value is the estimated selling price less further costs expected to be incurred to completion and disposal.
+Trade Receivables Trade receivables are recognised at the value of the sale of goods or services on the date of the transaction.
+Subsequently trade receivables are reduced when objective evidence exists that the Group will not be able to collect all amounts due according to the original terms of the receivables.
+36 Statement of Accounting Policies of The BSS Group PLC Taxation The current taxation charge in the income statement is based on the profit for the year as adjusted for disallowable and not taxable items using current rates and takes into account tax deferred because of the timing differences between the treatment of certain items for taxation and accounting purposes.
+Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+Deferred income tax is determined using tax rates that are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Significant and Exceptional Items Items that are both material and non-recurring and whose significance is sufficient to warrant separate disclosure and identification within the financial statements are referred to as exceptional items and disclosed within their relevant consolidated income statement category.
+Critical Accounting Judgements and Uncertainty The Audit Committee have been party to discussions about the development, selection and disclosure of the Group's critical accounting policies and estimates and about their actual applications.
+Accounting estimates and judgements are detailed in the notes to the accounts where applicable.
+Statement of Accounting Policies for The BSS Group PLC Company accounts Basis of Accounting The accounts have been prepared under the historical cost convention and in accordance with the Companies Act and applicable accounting standards.
+The accounting policies adopted in these accounts are consistent with those used in previous years, except where new standards have been adopted.
+The new standards adopted in the accounts are FRS 20- Share based payments: FRS 21- Events after the balance sheet date: FRS 25- Financial instruments: Presentation and disclosure: and FRS 26- Financial instruments: Measurement.
+Deferred Tax Provision is made for deferred taxation in so far as a liability or asset arose as a result of transactions that had occurred by the balance sheet date and gave rise to an obligation to pay more tax in the future, or a right to pay less tax in the future.
+Pension Schemes Contributions to the Groups defined benefit pension schemes are charged in accordance with the advice of the Groups actuaries, so as to spread the cost of pensions over the anticipated service lives of scheme members.
+Actuarial surpluses and deficits are spread forward over the average remaining service lives of scheme members.
+Contributions to defined contribution pension schemes are charged to the profit and loss account as incurred.
+Leases and Hire Purchase Contracts Rentals payable under operating leases are charged to the profit and loss account on the straight-line basis over the term of the lease.
+Assets held under finance leases are included in fixed assets at their fair value at the inception of the lease.
+Finance charges are amortised over each lease term to give a constant rate of charge on the remaining balance of the lease obligation.
+Borrowings Borrowings are carried at their issue proceeds net of finance costs, less amounts repaid.
+Finance costs are allocated over the term of the borrowings.
+Share based benefits The Group operates various share option schemes.
+This value is then expensed in the profit and loss account in the period between grant date and vesting date vesting period.
+Derivative financial instruments and hedging activities The Company also enters into derivative financial instrument and hedging activities for which the policy is the same as the Group as set out on page 35.

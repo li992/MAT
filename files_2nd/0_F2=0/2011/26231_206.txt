@@ -1,0 +1,35 @@
+OUR GROUP OUR PERFORMANCE OUR APPROACH GOVERNANCE FINANCIAL STATEMENTS OTHER INFORMATION SUPPLEMENTARY FINANCIAL STATEMENTS ANNUAL REPORT AND ACCOUNTS 2011 203 EUROPEAN EMBEDDED VALUE BASIS CONTINUED NOTES TO THE SUPPLEMENTARY FINANCIAL STATEMENTS CONTINUED In recognising the residual value of any projected surplus assets within the with-profits part of the fund in the deterministic projection, it is assumed that terminal bonuses are increased to exhaust all of the assets in the part of the fund over the future lifetime of the in-force with-profits policies.
+However, under stochastic modelling, there may be some extreme economic scenarios when the total projected assets within the with-profits part of the fund are insufficient to pay all projected policyholder claims and associated costs.
+The average additional shareholder cost arising from this shortfall has been included in the time value cost of options and guarantees and is referred to as the with-profits burn-through cost.
+Economic scenarios have been used to assess the time value of the financial guarantees for non profit business by using the ination rate generated in each scenario.
+The ination rate used to project index-linked annuities will be constrained in certain real world scenarios, for example, where negative ination occurs but the annuity payments do not reduce below pre-existing levels.
+The time value cost of FOGs allows for the projected average cost of these constrained payments for the index-linked annuities.
+It also allows for the small additional cost of the guaranteed early retirement and cash commutation terms for the minority of deferred annuity business where such guarantees have been written.
+LGA FOGs relate to guaranteed minimum crediting rates and surrender values on a range of contracts.
+The guaranteed surrender value of the contract is based on the accumulated value of the contract including accrued interest.
+The crediting rates are discretionary but related to the accounting income for the amortising bond portfolio.
+The majority of the guaranteed minimum crediting rates are between 3% and 4%.
+The assets backing these contracts are invested in US Dollar denominated xed interest securities.
+LGN separately provides for two types of guarantees: interest rate guarantees and maturity guarantees.
+Certain contracts provide an interest rate guarantee where there is a minimum crediting rate based on the higher of 1-year Euribor and the policy guarantee rate.
+This guarantee applies on a monthly basis.
+Certain unit linked contracts provide a guaranteed minimum value at maturity where the maturity amount is the higher of the fund value and a guarantee amount.
+The fund values for both these contracts are invested in Euro denominated xed interest securities.
+For LGF, FOGs which have been separately provided for relate to guaranteed minimum crediting rates and surrender values on a range of contracts.
+The guaranteed surrender value of the contract is the accumulated value of the contract including accrued bonuses.
+The bonuses are based on the accounting income for the amortising bond portfolios plus income and releases from realised gains on any equity type investments.
+Policy liabilities equal guaranteed surrender values.
+Local statutory accounting rules require the establishment of a specic liability when the accounting income for a company is less than 125% of the guaranteed minimum credited returns, although this has never been required.
+In general, the guaranteed annual bonus rates are between 0% and 4.5%.
+Risk free rate The risk free rate is set to reect both the pattern of the emerging profits under EEV and the relevant duration of the liabilities where backing assets reect this assumption e. g. equity returns.
+For the UK, it is set by reference to the gross redemption yield on the 15 year gilt index.
+For LGA, the risk free rate is the 10 year US Treasury effective yield, while the 10 year ECB AAA-rated Euro area central government bond par yield is used for LGN and LGF.
+Risk discount rate The risk discount rate RDR is a combination of the risk free rate and a risk margin, which reects the residual risks inherent in the Groups covered businesses, after taking account of prudential margins in the statutory provisions, the required capital and the specic allowance for FOGs.
+The risk margin has been determined based on an assessment of the Groups weighted average cost of capital WACC.
+This assessment incorporates a beta for the Group, which measures the correlation of movements in the Groups share price to movements in a relevant index.
+Beta values therefore allow for the markets assessment of the risks inherent in the business relative to other companies in the chosen index.
+The WACC is derived from the Groups cost of equity and debt, and the proportion of equity to debt in the Groups capital structure measured using market values.
+Each of these three parameters is forward-looking, although informed by historic information.
+The cost of equity is calculated as the risk free rate plus the equity risk premium for the chosen index multiplied by the Companys beta.
+Forward-looking or adjusted betas make allowance for the observed tendency for betas to revert to 1 and therefore a weighted average of the historic beta and 1 tends to be a better estimate of the Companys beta for the future period.
+We have computed the WACC using an arithmetical average of forward-looking betas against the FTSE 100 index.

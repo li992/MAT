@@ -1,0 +1,189 @@
+ANNUAl REPORT 2008 Metrology in Action Five-axis CHampions However, efforts at high-throughput production were frustrated renishaw client turBocAM international by slow, tedious measurement inspection on a legacy co-ordinate specialises in five-axis machining of measuring machine CMM, that required stopping the machine and turbomachinery components impellers, recalibrating for each axis.
+blades and blisks: some of industrys most So, when Renishaw launched the revolutionary Renscan5 complex and exacting shapes.
+REVO ultra-high-speed, automated CMM scanning system, TURBOCAM was quick to see its potential.
+In January 2007 TURBOCAM became one of the first adopters of this new continuous, programmable, five-axis inspection capability.
+Fitted on a new Wenzel lH8.10.7 bridge-type CMM at the company's Dover, New Hampshire, USA plant, Renscan5 transformed part measurement and inspection from a bottleneck to an enabler.
+What used to take three days to program now takes three hours.
+High-speed continuous probing routines are reducing programming time, set-up time and measurement time by 50% and more.
+Besides faster throughput, Renscan5 time-savings allow the taking of many more data points for greater measurement precision, freeing up CMM time for qualification of turned blanks and in-process checks before final machining passes.
+Those powerful advantages led TURBOCAM to become the first company worldwide to add a second Renscan5-equipped CMM in early 2008, this time at their new facility in nearby Barrington.
+Renscan5 transforms part measurement from a bottleneck to an enabler.
+High-speed continuous probing routines are reducing programming, set-up and measurement times by 50% and more.
+PAGE 12 13 REVO five-axis measuring head.
+On complex parts such as blisks integral hub and blades The previous CMM could be repositioned in 2.5 degree machined from a monolithic blank, What used to take three increments.
+Even with this tight resolution, programming, days to program now takes three hours, according to Dave access, stylus change and calibration were incredibly Romaine, Quality Assurance Manager.
+With the previous painful, notes Romaine.
+The REVO head provides infinite CMM, changing part geometries required many different positioning through co-ordinated rotary motion in horizontal probe orientations, he explains.
+We would have to manually and vertical axes, optimising part access and delivering select and calibrate each orientation of the probe.
+That was high-accuracy part measurements.
+compounded as we inspected multiple blades around the REVO gives TURBOCAM many more data points on greatly part.
+Hundreds of calibrations have now been eliminated, reduced cycle times up to 4,000 points per second in saving us hours of calibration time.
+Increased point data allows us to see a REVO employs industrys first tip-sensing probing.
+more complete picture of what were manufacturing, says A laser mounted in the head sends its beam down a Romaine.
+We can see deviations better as they increase hollow stylus to a reflector at the tip.
+The return beam is and decrease along a blade or around a part.
+This lets us received by a position sensor and any deflection used to better trouble-shoot our manufacturing process.
+This allows REVO to perform a complete part inspection routine in a continuous operation without recalibration.
+Quality Assurance Manager, Dave Romaine, says, REVO allows TURBOCAM to better trouble-shoot our manufacturing process.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED make no misTake When it comes to machining JCB is famous the world over for its earthmoving, construction and agricultural vehicles.
+The chassis for its large-wheeled loader is a massive, three-dimensional, welded steel front chassis assemblies for assembly.
+Each one is over 1.5 m tall and weighs more than 2,000 kilogrammes they JcB, errors are not an option.
+represent a substantial investment in work and materials.
+To make error-free machining of these assemblies a reality, JCB invested more than 2m in a state-of-the-art machining cell at its factory in Staffordshire, UK.
+This machining cell brings together the best of British precision engineering innovation: using CNC machine tools from Asquith Butler and the wireless RMP60 touch probe from Renishaw.
+The RMP60 system consists of two separate components: the touch probe and the RMI, a combined receiver-interface unit that interacts with the CNC machines controller.
+After the chassis is craned into position, the RMP60 system is used to locate its position on the machine: at the same time helping to identify if the part is outside specification prior to machining.
+If the part is outside specification, no time is wasted.
+It is removed and the next part to be machined is placed on the table.
+Chris Goodall is responsible for the machining of the JCB large-wheeled loader front chassis, a substantial amount of work and material, and is now able to operate a zero-tolerance policy on machining mistakes.
+RMI radio transceiver conveys and processes signals between the probe and CNC machine control.
+Measuring the part is a simple process that takes a not rely on a fixed radio channel: instead the RMP60 matter of minutes and once machining commences, is the worlds first probe to use frequency hopping the RMP60 system ensures the part is machined spread spectrum FHSS data transmission, as it accurately.
+Total cutting time varies between 1.25 hops through a sequence of frequencies in the and 2.50 hours depending on the assembly.
+And because this process is automated, JCB knows This unique solution allows multiple probes to be that the machine cutter will find the part exactly, part used alongside one another with confidence in heavy after part, day after day.
+industrial environments, even those with debilitating Scrapping an assembly is simply not an option.
+Using this system brings a number of unique levels of electro-magnetic interference.
+The compact radio-transmission design innovation ensures that the vital feedback signal from allows access to any point on the assembly that the touch probe arrives intact and without interruption the machine head can reach.
+Moreover, because to the machine controller and production can machining takes place close to the area where the proceed unhindered.
+assemblies are fabricated, there is a real danger of electromagnetic signal interference caused by welding.
+To overcome this, the touch probe does JCB 426ZX large-wheeled front loader.
+Rare variations in welding and clamping can be picked up by the Renishaw touch probe to guarantee the accuracy of finished machined surfaces.
+Chassis fabrications are measured before machining and programs adjusted for surfaces out of position, when parts are rejected, hours of machining time are saved.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED sHine a LiGHT Historically, biopsy samples from suspected cancer patients were stained and renishaws advances in the then sent for histopathological diagnosis.
+Histopathology is a branch of pathology field of Raman spectroscopy concerned with the study of the microscopic changes in diseased tissues.
+mean that when it comes Now medical teams can detect cancers by directing a laser at the tissue in question to diagnosing and treating and then analysing how the tissue changes the wavelength of the laser light.
+Molecules cancers, what was once within the tissues that relate to the disease will change the light differently to the molecules in healthy tissue.
+science fiction is now becoming science fact.
+The idea of using Raman spectroscopy to identify cancerous cells grew from a discussion in 1996 between Dr. Nick Stone, now head of Biophotonics Research at the Gloucestershire Hospitals NHS Foundation Trust in the UK, and consultant surgeon Professor Hugh Barr, on extending the use of lasers to cover diagnosis as well as treatment.
+Work on turning the theory into reality began a decade ago.
+However, until now, the biggest barrier to routine use of this technique was the time needed to produce the image of the tissue being analysed.
+Enter Renishaws Streamline fast Raman imaging system.
+Work undertaken by the Biophotonics Department of the Gloucestershire Hospitals NHS Foundation Trust, Cranfield University and Renishaw plc has demonstrated that Renishaws Streamline Raman imaging gives between a threeand sevenfold reduction in imaging times, making clinical use of the technology viable for the first time.
+Stained oesophageal tissue section for histopathological diagnosis.
+Dr. Catherine Kendall, Principal Clinical Scientist, Biophotonics Research Group investigating a suspect cervical cancer sample.
+Barrett's gland identified by Raman imaging with corresponding spectral load.
+PAGE 16 17 Raman also could enable doctors to identify preImprovements in the methodology continue to be cancerous cells in vivo at an earlier stage than they made.
+One of the techniques latest developments ordinarily would by using regular endoscopy to has come from work carried out at the Rutherford select areas for biopsy.
+Moreover, instead of random Appleton laboratory in Oxford to enable scientists sampling, doctors are able to carry out thorough to shine a light through several centimetres of tissue checks of an area of tissue.
+In time, doctors believe instead of the traditional method of examining a that it will be possible to carry out diagnosis and specific area through an endoscope.
+Renishaws Streamline Raman imaging gives between a threeand sevenfold reduction in imaging times.
+treatment procedures during one appointment, rather Although the application of Raman spectroscopy than putting patients through the stress of waiting for to histology and endoscopy or cancer diagnosis as treatments after diagnosis.
+a whole is still in its infancy, Renishaws advances in this field offer a brighter future in the detection and treatment of cancers.
+Dr. Nick Stone, head of Biophotonics Research at the Gloucestershire Hospitals NHS Foundation Trust using a Renishaw Raman system in conjunction with Streamline Renishaw's ultraPhotographs and images reproduced with kind permission fast Raman imaging system.
+of Gloucestershire Hospitals NHS Foundation Trust.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED QuaLiTy is CompuLsory Based in Eskisehir, Turkey, Alp achieves this by using Renishaws Productivity software in the aviation industry, when and touch probes.
+a part fails, it could cost lives.
+Alp manufactures aircraft parts for aviation industry leaders, such as Pratt & Whitney and so, when Alp Aviation puts Sikorsky.
+The company started out as an independent enterprise in 1998 and was soon a part into production there making parts for Sikorsky, who was so impressed with Alps service they bought a 50% needs to be total trust in the stake in the business in June 1999. manufacturing process.
+When a new part is introduced, a production engineer is assigned full responsibility for all processes throughout the production cycle.
+Computer aided design CAD data is supplied by the customer.
+Then, using a computer aided manufacturing CAM system, a cutting process for manufacturing the part is planned.
+Probing using Productivity is utilised to set up the part and inspect it during production.
+In the past, some companies may not have been able to get the best from their probing systems because of software limitations and a lack of skilled staff.
+By using Productivity, Alp has removed this barrier and placed probing at the heart of its production engineering process.
+The S-92 helicopter is the most advanced aircraft in Sikorsky's civil product line, certified to the most stringent safety requirements of the Federal Aviation Administration FAA and the European Aviation Safety Agency EASA.
+Typical work for Sikorsky with parts machined by Alp and assembled to this stage.
+The results have been startling.
+Before the implementation Another benefit of Productivity is that the probing of Productivity the operator had to manually align the routines automatically update the machine.
+Previously, part on the table, or Alp would need to fabricate this was done by the operator and errors were easily a special, and expensive, fixture for every variation made, resulting in unnecessary scrap and wasted man of component.
+Accuracy has improved too the probing is We looked at the whole production cycle time and in some cases were able to reduce it by up to 50%.
+Now the operators use a simple clamp and the regularly cross-checked using manual gauges and Alp machine is programmed to locate the part.
+And the is usually able to achieve less than one micron 1 1000 probe is used again later in the process: for example, of a millimetre repeatability.
+every part is checked prior to the finishing cuts and Time and cost savings, accuracy and absolute trust inspected again once finished.
+in the process all made possible by Renishaws In some instances production cycle times have Productivity software and part setting probes.
+Reduced set-up times are particularly important to Alp.
+Parts have many variants and there is a strong need for flexibility in production.
+Some batches can run on a machine for more than a year while other machines can change batches two or three times a day with just a few parts in each batch.
+Machine tools on Alps factory floor.
+Alp Aviation is based in a state-of-the-art factory in Eskisehir, Turkey.
+Alps production engineers use Productivity Active Editor Pro to cut process development times, in some cases by more than 50%.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED sTronG-arm TaCTiCs To provide its latest MROV, Guardian, with the highest levels of A Miniature remotely operated Vehicle manoeuvrability and dexterity, AB Precision, in Poole, UK uses a MroV is designed for use in hostile and network of non-contact encoders that provide positional feedback corrosive environments, where a human to a computer.
+And, when it came to choosing a supplier for those life would be in danger.
+encoders, Renishaw was the natural choice.
+The Guardian is a highly sophisticated vehicle with several moveable parts including the base.
+Operators can also raise, lower, extend and retract the main arm, pan and tilt, plus tilt the camera and a variety of implements.
+In bomb disposal situations, for example, the arm carries a disruptor which fires a jet of very high-pressure water to neutralise a device.
+The water jet disables the circuitry controlling the explosive device and renders it safe without destroying vital forensic evidence.
+In other applications, handling devices or sensors replace the disruptors.
+The onboard rotary encoders, produced by RlS d. o. o. Renishaws Slovenian associate company, detect the positions of all articulated components of the arm and track mechanisms, while a continuous telemetry stream sends data back to the base station control.
+Guardians spatial awareness is as advanced as an electromechanical device can be.
+The arm carries a variety of tools including x-ray right.
+PAGE 20 21 AM512 magnetic sensor and RMB20 high-speed rotary magnetic encoder.
+On a remote control, at a safe distance from whatever Guardian project engineer and the man responsible hazard is being dealt with, the operator is able to see for specifying Renishaw components, Nigel Peter a live, rotating graphical representation of the vehicle says, AM512 sensors are easy to interface: they which, when viewed in conjunction with images from are mounted directly to the controller printed circuit four onboard video cameras, means that Guardian boards so no wiring is required.
+This reduces cost can be operated out-of-sight in confined spaces.
+AM512 sensors are easy to interface: they are mounted directly to the controller printed circuit boards so no wiring is required.
+This reduces cost and increases reliability.
+Thanks to the AM512 magnetic sensors and RMB20 The result is that Guardian has a remote, intelligent high-speed rotary magnetic encoders, Guardians arm with full vision, capable of carrying and using a spatial awareness is about as advanced as an wide variety of tools, depending on the application.
+All of which The reality is that MROVs like Guardian are helping means that Guardian can climb stairs, reach inside or to protect and save human lives every day.
+underneath vehicles, and stand up to 2.6 m tall when fully extended.
+It has bi-directional audio capability and is narrow enough to move down aircraft and train aisles.
+The Guardian is versatile enough to extend 2.6 m high and inspect underneath cars.
+A remote control with four video feeds right enables Guardian to be used out-of-sight in confined situations.
+Because they are non-contact, RMB20 rotary encoders provide seamless feedback through 360 of movement.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED impLanTinG Hope renishaw is proving its reputation for providing Neurological surgical procedures, such as Deep Brain Stimulation DBS used in the treatment of Parkinsons disease, rely on the tools to improve precision and throughput in identification of targets within the brain using medical imaging one of its newest markets.
+systems and plotting target co-ordinates and trajectories.
+Renishaws neuro | guide electrode introducer kit has simplified the process and significantly reduced the amount of time required in theatre.
+Using its extensive experience in identifying the source and levels of distortion in industrial machinery, Renishaw is developing algorithms designed to significantly reduce distortion levels on magnetic resonance image scans used for planning surgery.
+Moreover, when available, neuro | inspire surgical planning software will give additional anatomy identification functions that are designed to provide surgeons with the information they need to identify target brain anatomy, even deep within the brain, with increasing confidence.
+The neuro | guide electrode introducer kit is implanted into the brain to assist in the targeted delivery of DBS electrodes.
+Traditionally, DBS electrodes have been implanted whilst the patient lay awake on the operating table.
+The patient needed to be awake to provide the operating surgeon with information about the side effects of stimulating different parts of the brain whilst they measured signals from it.
+This type of surgery can take as long as 20 hours, is harrowing for both the patient and the surgical team, and can lead to complications along with inaccuracies in delivering the permanently implanted electrodes.
+John Platts life has been transformed by DBS implants introduced to his brain using Renishaws neuro | guide electrode introducer kit.
+Performing a Deep Brain Stimulation DBS electrode implantation procedure.
+PAGE 22 23 neuro I guide electrode introducer kit.
+Guide Tube prior to the deep brain stimulation procedure.
+Using the neuro | guide electrode introducer kit, Professor Steven Gill, consultant neurosurgeon at the surgery can be completed within four hours with Frenchay Hospital has witnessed the improvement in the patient under general anaesthetic throughout.
+surgical technique and, ultimately, patient outcome Further reductions in surgery time will be possible when since he first started using neuro | guide electrode the neuro | inspire surgical planning software is used.
+In May 2006 he operated on John Our lives are transformed: John has so much more independence.
+I have got my husband back physically and emotionally.
+Until now, at Frenchay hospital, in Bristol, UK, Platt, a 64-year-old former teacher to implant DBS surgical planning has been done manually, which electrodes.
+After undergoing this life-changing is particularly time-consuming and introduces the surgery, Mr. Platts wife said, John is three inches possibility of human error.
+Our lives are transformed: John has so much more independence.
+The benefits of surgery are continuing to be revealed and it is hard to remember how tough life was and how bleak the future looked.
+Professor Steven Gill setting up the neuro | guide electrode introducer kit guide tube prior to the Deep Brain Stimulation procedure.
+Inserting the neuro | guide electrode introducer kit guide tube which acts as a conduit for the stylette and the electrode.
+All images courtesy of NHS, North Bristol Trust.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED Laser-GuiDeD aCCuraCy Moreover, in addition to increased accuracy, industry is now demanding certified Machined components can evidence that machines are calibrated to international standards.
+only ever be as accurate as Take into account production schedules and time becomes of the essence the less the machines that produce downtime for calibration, the less disruption there is to production.
+so, regardless of the to time and money saved.
+Accordingly, portability and ease of set-up are important machining technology used, characteristics of calibration equipment.
+it is vital for production To meet this demand, many production companies and smaller machine manufacturers companies to ensure the find it easier and more cost-effective to have their machines calibrated and tested by field accuracy of their machines.
+service engineers using laser interferometer systems.
+The benefit of the compact design of the Xl-80 becomes apparent when calibrating machines... it allows us to obtain measurements that were previously a problem.
+Geo Tec Messtechnik is one such calibration service company.
+Based in Stuttgart, Germany, the company has a long history as a user of the industry-standard Renishaw Ml10 laser.
+However, the extra benefits of using the new Renishaw Xl-80, to Geo Tec and its clients, meant upgrading was virtually mandatory.
+lEDs on the top of the Xl-80 make set-up very straightforward: beam strength can be monitored without going back and forth to the PC.
+The Xl-80 is easily transported in a small case.
+PAGE 24 25 XL-80 laser system with XC-80 compensator and sensors.
+The new systems portability and ease of use Precision is guaranteed by the fact that the Xl-80 minimises transportation and set-up times and it is has a certified linear measurement accuracy of 0.5 robust enough to make it practical to use in a shop ppm possible error of half a micron per metre of floor factory environment.
+path length regardless of ambient conditions.
+When the Xl-80 is paired with the XC-80 compensator unit, Jrgen Emslander of Geo Tec says, The benefit of the external factors, such as fluctuations in temperature, compact design of the Xl-80 becomes apparent when are measured continuously and compensated calibrating machines such as Edel machining centres.
+It is small enough to allow the use of a magnetic base, which allows us to work inside the machine, making Using Renishaws Xl-80 system gives shorter testing the job much quicker and easier.
+This allows calibration when machines are not obtain measurements that were previously a problem.
+running, for example at night or weekends and results in the minimum downtime, saving money, increasing And, lEDs on top of the Xl-80 make setting it up productivity and ensuring accuracy.
+Engineers can monitor the beam strength of the laser interferometer without having to go back and forth to the PC connected to it.
+Jrgen Emslander can test accuracy with the compact Xl-80 in many more positions, even inside machines like this Edel machining centre.
+ANNUAl REPORT 2008 Metrology in Action: CONTINUED enHanCeD CompeTiTive perFormanCe In Asia particularly, there is an increasing drive to produce high quality machinery, renishaw continues to supply both for domestic consumption and export markets.
+machine builders across the Hans laser is Chinas largest producer of laser machining equipment, with applications globe with products that enhance as diverse as laser marking, engraving and wafer slicing.
+It sold 6,000 machines in 2007, the competitive performance of with customers including large electronics businesses such as Foxconn and Panasonic.
+their products, increasing speed We have grown by offering our customers strong local service, by being committed and accuracy of operation, to continuous improvement and by offering much better price-to-performance ratios than and allowing certification to our competitors, explains Qun lei, Hans lasers PCB Division Vice General Manager.
+Hans lasers printed circuit board PCB drilling machines operate at speeds of up to 2 metres per second, and the position and depth of the drilled holes vias is critical to ensure the integrity of the interconnecting circuit traces between the multiple copper layers of the circuit boards.
+To achieve positioning performance on the higher-end machines up to 5 microns, each of the machines two axes is fitted with a Renishaw optical linear encoder, whilst a Renishaw laser calibration system is also used to check for machine performance accuracy during final sign-off.
+With small tools down to 0.1 mm diameter and high-speed drilling spindles, tool breakages are a real possibility, and for each spindle on the machine, a Renishaw NCPCB laser-based, broken tool, detection system is fitted, to rapidly check for breakages during operation.
+Quaser use a Renishaw QC10 to perform tests to 'double-ballbar' standard.
+Qun lei is Vice General Manager of Han's laser's PCB Division.
+He believes the company has grown through its commitment to continuous improvement.
+Xl-80 being used to check for machine performance accuracy.
+PAGE 26 27 RGH22 encoder system as used by Han's Laser.
+Taiwanese manufacturer Quaser Machine Tools is Additionally, Quaser machines are subjected to strongly focused on Western markets, with machining a Renishaw QC10 ballbar test, with all three axes centres sold under its own brand and machines checked using an XY, XZ and YZ test, referred produced for other leading international brands.
+to as the double-ballbar standard.
+Our users within Europe are very diverse, from With a growing order book and an increased focus aerospace suppliers in Switzerland to an Italian forklift on high-accuracy five-axis and horizontal machines, manufacturer, and a subcontractor making parts for Quaser has purchased twelve of the latest Xl-80 laser Ferrari, says Rock liao, Quasers President.
+We are finding the Xl-80 more compact, more portable, more stable and easier to operate.
+Since its formation in 1991, Quaser has used measurement systems.
+Compared to the original Renishaws laser calibration systems to check the Ml10 systems that we had for many years, we are accuracy of its machines, enhance specifications and finding the Xl-80 more compact, more portable, then produce certification to ISO or JIS standards.
+more stable and generally easier to operate, Routines to compensate for machine pitch errors explains Mr liao.
+are carried out as standard, whilst on large and fiveaxis machines, tests for linearity and straightness are also performed.
+Rock liao, Quasers President, on the shop floor.
+Quaser has chosen Renishaw since it was formed in 1991.
+Wang Chin Wei performing accuracy tests at Quaser using a Renishaw Xl-80 laser system.

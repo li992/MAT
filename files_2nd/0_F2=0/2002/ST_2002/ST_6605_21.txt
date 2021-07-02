@@ -1,0 +1,36 @@
+158_CD GlaxoSmithKline_NNP Glossary_NNP of_IN terms_NNS Terms_NNS used_VBN in_IN the_DT Annual_JJ Report_NNP US_NNP equivalent_JJ or_CC brief_JJ description_NN Accelerated_VBN capital_NN allowances_NNS Tax_NNP allowance_NN in_IN excess_NN of_IN depreciation_NN arising_VBG from_IN the_DT purchase_NN of_IN fixed_JJ assets_NNS that_WDT delay_VBP the_DT charging_VBG and_CC payment_NN of_IN tax_NN ._.
+The_DT US_NNP equivalent_NN of_IN tax_NN depreciation_NN ._.
+Advance_NNP Corporation_NNP Tax_NNP ACT_NNP An_DT advance_NN payment_NN of_IN UK_NNP tax_NN that_WDT was_VBD made_VBN when_WRB dividends_NNS are_VBP paid_VBN ._.
+American_JJ Depositary_NNP Receipt_NNP ADR_NNP Receipt_NNP evidencing_VBG title_NN to_TO an_DT ADS_NNPS ._.
+Each_DT GlaxoSmithKline_NNP ADR_NNP represents_VBZ two_CD ordinary_JJ shares_NNS ._.
+American_JJ Depositary_NNP Shares_NNP ADSs_NNP Ordinary_NNP Shares_NNP registered_VBD on_IN the_DT New_NNP York_NNP Stock_NNP Exchange_NNP ._.
+Called-up_JJ share_NN capital_NN Ordinary_NNP Shares_NNP ,_, issued_VBN and_CC fully_RB paid_VBN ._.
+CER_NNP growth_NN Growth_NN at_IN constant_JJ exchange_NN rates_NNS ._.
+Combined_NNP Code_NNP Guidelines_NNS required_VBN by_IN the_DT Listing_NNP Rules_NNP of_IN the_DT Financial_NNP Services_NNPS Authority_NNP to_TO address_VB the_DT principal_JJ aspects_NNS of_IN Corporate_JJ Governance_NN ._.
+Currency_NNP swap_NN An_DT exchange_NN of_IN two_CD currencies_NNS ,_, coupled_VBN with_IN a_DT subsequent_JJ re-exchange_NN of_IN those_DT currencies_NNS ,_, at_IN agreed_VBN exchange_NN rates_NNS and_CC dates_NNS ._.
+Defined_VBN benefit_NN plan_NN Pension_NNP plan_NN with_IN specific_JJ employee_NN benefits_NNS ,_, often_RB called_VBN final_JJ salary_NN scheme_NN ._.
+Defined_VBN contribution_NN plan_NN Pension_NNP plan_NN with_IN specific_JJ contributions_NNS and_CC a_DT level_NN of_IN pension_NN dependent_JJ upon_IN the_DT growth_NN of_IN the_DT pension_NN fund_NN ._.
+Derivative_JJ financial_JJ instrument_NN A_DT financial_JJ instrument_NN that_WDT derives_VBZ its_PRP$ value_NN from_IN the_DT price_NN or_CC rate_NN of_IN some_DT underlying_VBG item_NN ._.
+Diluted_JJ earnings_NNS per_IN share_NN Diluted_JJ income_NN per_IN share_NN ._.
+Dividend_NN cover_NN Profit_NN attributable_JJ to_TO shareholders_NNS net_JJ income_NN divided_VBN by_IN dividends_NNS payable_JJ to_TO shareholders_NNS ._.
+Earnings_NNS per_IN share_NN Basic_JJ income_NN per_IN share_NN ._.
+Employee_NN Share_NN Ownership_NN Trusts_VBZ Trusts_NNS established_VBN by_IN the_DT Group_NNP to_TO satisfy_VB share_NN based_VBN employee_NN incentive_NN plans_NNS ._.
+Equity_NNP shareholders_NNS funds_NNS The_DT aggregation_NN of_IN shares_NNS and_CC reserves_NNS owned_VBN by_IN shareholders_NNS ._.
+The_DT US_NNP equivalent_NN is_VBZ shareholders_NNS equity_NN ._.
+Free_NNP cash_NN flow_NN Cash_NN resources_NNS available_JJ for_IN payment_NN of_IN dividends_NNS to_TO shareholders_NNS and_CC for_IN acquisitions_NNS ._.
+Freehold_NNP Ownership_NNP with_IN absolute_JJ rights_NNS in_IN perpetuity_NN ._.
+Gearing_VBG ratio_NN Net_JJ debt_NN as_IN a_DT percentage_NN of_IN shareholders_NNS funds_NNS net_JJ debt_NN and_CC minority_NN interests_NNS ._.
+The_DT Group_NNP GlaxoSmithKline_NNP plc_NN and_CC its_PRP$ subsidiary_NN undertakings_NNS ._.
+Hedging_VBG The_DT reduction_NN of_IN risk_NN ,_, normally_RB in_IN relation_NN to_TO foreign_JJ currency_NN or_CC interest_NN rate_NN movements_NNS ,_, by_IN making_VBG off-setting_JJ commitments_NNS ._.
+Intangible_JJ fixed_JJ assets_NNS Assets_NNS without_IN physical_JJ substance_NN ,_, such_JJ as_IN brands_NNS ,_, licences_NNS ,_, patents_NNS ,_, know-how_NN and_CC marketing_NN rights_NNS purchased_VBN from_IN outside_JJ parties_NNS ._.
+Interest_NN cover_NN The_DT number_NN of_IN times_NNS profit_NN before_IN interest_NN exceeds_VBZ net_JJ interest_NN payable_JJ ._.
+Non-equity_JJ minority_NN interest_NN Preference_NN shares_NNS issued_VBN by_IN a_DT subsidiary_NN to_TO outside_JJ parties_NNS ._.
+Preference_NN shares_NNS Shares_NNP issued_VBD at_IN varying_VBG dividend_NN rates_NNS that_WDT are_VBP treated_VBN as_IN outside_JJ interests_NNS ._.
+Profit_NN and_CC loss_NN account_NN reserve_NN Retained_VBN earnings_NNS ._.
+Profit_NN attributable_JJ to_TO shareholders_NNS Net_JJ income_NN ._.
+Share_NN capital_NN Ordinary_NNP Shares_NNP ,_, capital_NN stock_NN or_CC common_JJ stock_NN issued_VBN and_CC fully_RB paid_VBN ._.
+Share_NN premium_NN account_NN Additional_JJ paid-up_JJ capital_NN or_CC paid-in_NN surplus_NN not_RB distributable_JJ ._.
+Shares_NNS in_IN issue_NN Shares_NNS outstanding_JJ ._.
+Statement_NN of_IN total_JJ recognized_VBN gains_NNS and_CC losses_NNS Statement_NN of_IN comprehensive_JJ income_NN ._.
+Subsidiary_JJ undertaking_NN An_DT affiliate_NN in_IN which_WDT GlaxoSmithKline_NNP holds_VBZ a_DT majority_NN shareholding_NN and_CC or_CC exercises_VBZ control_NN ._.
+Tangible_JJ fixed_JJ assets_NNS Property_NN ,_, plant_NN and_CC equipment_NN ._.

@@ -1,0 +1,538 @@
+Notes to the financial statements 1 Statement of accounting policies Beazley Group plc is a group domiciled in England and Wales.
+The consolidated financial statements of the group for the year ended 31 December 2006 comprise the parent company and its subsidiaries and the groups interest in associates.
+Both the parent company financial statements and the group financial statements have been prepared and approved by the directors in accordance with IFRSs as adopted by the EU adopted IFRSs.
+On publishing the parent company financial statements here together with the group financial statements, the company is taking advantage of the exemption in s230 of the Companies Act 1985 not to present its individual income statement and related notes that form a part of these approved financial statements.
+These consolidated financial statements have been prepared on the basis of adopted IFRSs in issue that are effective or available for early adoption at 31 December 2006.
+Based on these adopted IFRSs, the directors have applied the accounting policies, as set out below.
+In preparing these consolidated financial statements, the group and the parent company have adopted IFRS 7 Financial Instruments: Disclosures and IAS 1 Presentation of Financial Statements Capital Disclosures prior to their required application date of 1 January 2007.
+The group and the parent company have also adopted the amendments to IAS 19 Employee Benets, in relation to dened benefit plans and the amendment to IAS 39 The Fair Value Option.
+The adoption of IFRS 7 and the amendments to IAS 1 and IAS 19 impacted the type and amount of disclosures made in these financial statements, but had no impact on the reported profits or financial position of the group or the parent company.
+In accordance with the transitional requirements of the standards, the group and the parent company have provided full comparative information.
+The fair value option in IAS 39 has been used to eliminate measurement or recognition inconsistency that would result from measuring assets or liabilities or recognising gains or losses on them on different bases.
+The principal accounting policies applied in the preparation of these financial statements are set out below.
+The policies have been consistently applied to all periods presented unless otherwise stated.
+Basis of presentation These financial statements are prepared using the historical cost convention except that financial instruments are stated at their fair value.
+All amounts presented are stated in sterling and millions, unless noted otherwise.
+Use of estimates The preparation of the financial statements in conformity with IFRSs requires the group to make certain critical estimates and assumptions.
+Although these estimates are based on managements best knowledge of current facts, circumstances and to some extent future events and actions, actual results ultimately may differ from those estimates, possibly signicantly.
+Consolidation Subsidiary undertakings Subsidiary undertakings, which are those entities in which the group, directly or indirectly, has the power to exercise control over financial and operating policies, have been consolidated.
+They are consolidated from the date on which control is transferred to the group and cease to be consolidated from the date on which control ceases.
+The group has used the purchase method of accounting for the acquisition of subsidiaries.
+Under purchase accounting, the cost of acquisition is measured as the fair value of assets given, shares issued or liabilities undertaken at the date of acquisition plus costs directly attributable to the acquisition.
+The excess of the cost of an acquisition over the fair value of the net assets of the subsidiary acquired is recorded as goodwill.
+Certain group subsidiaries underwrite as corporate members of Lloyds on a syndicate managed by Beazley Furlonge Limited.
+In view of the several liability of underwriting members at Lloyds for the transactions of syndicates in which they participate, only attributable share of transactions, assets and liabilities of that syndicate has been included in the financial statements.
+Associates Associates are those entities in which the group has power to exert significant inuence, which it does not control.
+significant inuence is generally presumed if the group has between 20% and 50% of voting rights.
+Investments in associates are accounted for using the equity method of accounting.
+Under this method, the groups share of post-acquisition profits or losses is recognised in the income statement and its share of post-acquisition movements are recognised in reserves.
+The cumulative post-acquisition movements are adjusted against the cost of the investment.
+When the groups share of loss equals or exceeds the carrying amount of the associate, the carrying amount is reduced to nil and recognition for the loss is discontinued except to the extent that the group has incurred obligations in respect of the associate.
+Equity accounting is discontinued when the group no longer has significant inuence over the investment.
+Intercompany balances and transactions All intercompany transactions, balances and unrealised gains or losses on transactions between group companies have been eliminated.
+All accounting policies have been consistently applied throughout the group.
+54 Beazley Annual Report 2006 Foreign currency translation Functional and presentation currency Items included in the financial statements of the parent and the subsidiaries are measured using the currency of the primary economic environment in which it operates the functional currency.
+The consolidated financial statements are presented in sterling, which is the groups presentation currency.
+Transactions and balances Foreign currency transactions are translated into the functional currency using average exchange rates applicable to this period and which the group considers to be a reasonable approximation of the historic rate.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from translation at the period end of monetary assets and liabilities denominated in foreign currencies are recognised in the income statement.
+Non-monetary items recorded at historical cost in foreign currencies are translated using the exchange rate on the date of the initial transaction.
+Group companies The results and financial position of the group companies that have a functional currency different from the presentation currency are translated into the presentation currency as follows: Assets and liabilities are translated at the closing rate ruling at the balance sheet date: Income and expenses for each income statement are translated at average exchange rates for the reporting period: and All resulting exchange differences are recognised as a separate component of equity.
+The exchange differences on disposal of foreign entities are recognised in the income statement as part of the gain or loss on disposal.
+Insurance contracts Insurance contracts including inwards reinsurance contracts are dened as those containing significant insurance risk.
+Insurance risk is considered significant if, and only if, an insured event could cause an insurer to pay significant additional benets in any scenario, excluding scenarios that lack commercial substance.
+Such contracts remain insurance contracts until all rights and obligations are extinguished or expire.
+Net earned premiums Premiums Gross premiums written represent premiums on business commencing in the financial year together with adjustments to premiums written in previous accounting periods and estimates for premiums from contracts entered into during the course of the year.
+Gross premiums written are stated before deduction of brokerage, taxes, duties levied on premiums and other deductions.
+Unearned premiums A provision for unearned premiums gross of reinsurance represents that part of the gross premiums written that is estimated will be earned in the following financial periods.
+It is calculated using the daily pro-rata method where the premium is apportioned over the period of risk.
+Deferred acquisition costs DAC Acquisition costs comprise brokerage, premium levy and staff-related costs of the underwriters acquiring new business and renewing existing contracts.
+The proportion of acquisition costs in respect of unearned premiums is deferred at balance sheet date and recognised in later periods when the related premiums are earned.
+Claims These include the cost of claims and claims handling expenses paid during the period, together with the movements in provisions for outstanding claims, claims incurred but not reported IBNR and claims handling provisions.
+The provision for claims comprises amounts set aside for claims advised and IBNR.
+The IBNR amount is based on estimates calculated using widely accepted actuarial techniques which are reviewed quarterly by the group actuary and annually by Beazleys independent syndicate reporting actuary.
+The techniques generally use projections, based on past experience of the development of claims over time, to form a view on the likely ultimate claims to be experienced.
+For more recent underwriting years, regard is given to the variations in the business portfolio accepted and the underlying terms and conditions.
+Thus, the critical assumptions used when estimating provisions are that past experience is a reasonable predictor of likely future claims development and that the rating and business portfolio assumptions are a fair reection of the likely level of ultimate claims to be incurred for the more recent years.
+Beazley Annual Report 2006 55 Notes to the financial statements continued Liability adequacy testing At each balance sheet date, liability adequacy tests are performed to ensure the adequacy of the claims liabilities net of DAC.
+In performing these tests, current best estimates of future contractual cash ows, claims handling and administration expenses as well as investment income from the assets backing such liabilities are used.
+Any deficiency is immediately charged to the income statement initially by writing off DAC and by subsequently establishing a provision for losses arising from liability adequacy test unexpired risk provision.
+Reinsurance These are contracts entered into by the group with reinsurers under which the group is compensated for losses on contracts issued by the group and that meet the denition of an insurance contract.
+Insurance contracts entered into by the group under which the contract holder is another insurer inwards reinsurance are included with insurance contracts.
+Any benets to which the group is entitled under its reinsurance contracts held are recognised as reinsurance assets.
+These assets consist of balances due from reinsurers and include reinsurers share of provisions for claims.
+These balances are based on calculated amounts of outstanding claims and projections for IBNR, net of estimated irrecoverable amounts having regard to the reinsurance programme in place for the class of business, the claims experience for the period and the current security rating of the reinsurer involved.
+Reinsurance liabilities are primarily premiums payable for reinsurance contracts and are recognised as an expense when due.
+The group assesses its reinsurance assets for impairment.
+If there is objective evidence of impairment, then the carrying amount is reduced to its recoverable amount and the impairment loss is recognised in the income statement.
+Revenue Revenue consists of net earned premium, net investment income, profit commissions earned and managing agents fees.
+profit commissions and managing agents fees are recognised as the services are provided.
+Dividends paid Dividend distribution to the shareholders of the group is recognised in the period in which the dividends are approved by the shareholders in the groups annual general meeting.
+Interim dividends are recognised in the period in which they are paid and approved by the board of directors.
+Plant and equipment All xed assets are recorded at cost less accumulated depreciation.
+Depreciation is calculated using the straight-line method to allocate the cost of the assets to their residual values over their estimated useful lives as follows: Fixtures and ttings Three to five years Computer equipment Three years.
+These assets residual value and useful lives are reviewed at each balance sheet date and adjusted if appropriate.
+Intangible assets Goodwill Goodwill represents the excess of the cost of an acquisition over the fair value of the groups share of the net assets of the acquired subsidiary associate at the date of acquisition.
+Goodwill is carried at cost less accumulated impairment losses.
+Goodwill has an indefinite life and is annually tested for impairment.
+Goodwill is allocated to each cash generating unit for the purpose of impairment testing.
+Goodwill is impaired when the net present value of the forecast future cash ows is insufficient to support its carrying value.
+Licences Licences are shown at historical cost.
+They have an indefinite useful life and are carried at cost less accumulated impairment.
+Licences are annually tested for impairment and provision is made for any impairment when the net present value of future cash ows is less than the carrying value.
+Syndicate capacity The syndicate capacity represents the cost of purchasing the groups participation in syndicate 2623.
+The capacity is capitalised at cost in the balance sheet.
+It has an indefinite useful life and is carried at cost less accumulated impairment.
+It is annually tested for impairment and provision is made for any impairment.
+Computer software Costs that are directly associated with the development of identiable and unique software products and that will probably generate economic benets exceeding costs beyond one year, are recognised as intangible assets.
+Costs include external consultants fees, certain qualifying internal staff costs and other costs incurred to develop software programs.
+These costs are amortised over their estimated useful life three years.
+Other non-qualifying costs have been expensed as incurred.
+56 Beazley Annual Report 2006 Financial instruments Financial instruments are recognised in the balance sheet at such time that the group becomes a party to the contractual provisions of the financial instrument.
+A financial asset is derecognised when the contractual rights to receive cash ows from the financial assets expire, or where the financial assets have been transferred, together with substantially all the risks and rewards of ownership.
+Financial liabilities are derecognised if the groups obligations specified in the contract expire, are discharged or cancelled.
+Purchases and sales of financial assets are recognised on the trade date, which is the date the group commits to purchase or sell the asset.
+Financial assets On acquisition of a financial asset, the group is required to classify the asset into the following categories: financial assets at fair value through profit or loss, loans and receivables, held to maturity and available for sale.
+The group does not make use of the held to maturity and available for sale classications.
+Financial assets at fair value through profit or loss This category has two sub-categories: financial assets held for trading and those designated at fair value through profit or loss at inception.
+Trading assets are those assets which are acquired principally for the purpose of selling in the short term, or which are held as part of a portfolio in which there is evidence of short-term profit taking or if it is designated so by management.
+Derivatives are classied as held for trading unless they are designated as hedges.
+A financial asset is designated as fair value through profit or loss upon initial recognition if it is managed and its performance is evaluated on a fair value basis.
+Information about these financial assets is provided internally on a fair value basis to the groups key management.
+The groups investment strategy is to invest and evaluate their performance with reference to their fair values.
+Upon initial recognition, attributable transaction costs are recognised in the income statement when incurred.
+Financial assets at fair value through profit or loss are measured at fair value, and changes therein are recognised in profit or loss.
+Net changes in the fair value of financial assets at fair value through profit or loss exclude interest and dividend income.
+The fair values of these assets are based on quoted bid price.
+Insurance receivables and payables Insurance receivables and payables are recognised when due.
+These include amounts due to and from agents, brokers and insurance contract holders.
+These are classied as loans and receivables as they are non-derivative financial assets with xed or determinable payments that are not quoted on an active market.
+Insurance receivables are measured at amortised cost less any provision for impairments.
+Other receivables Other receivables principally consist of prepayments, accrued income and sundry debtors and are carried at amortised cost.
+Investment income Investment income consists of dividends, interest, realised and unrealised gains and losses on financial assets at fair value through profit or loss.
+Dividends on equity securities are recorded as revenue on the ex-dividend date.
+Interest is recognised on an accruals basis for financial assets at fair value through profit or loss.
+Realised gain or loss on disposal of an investment is the difference between the proceeds and the carrying value of the investment.
+Unrealised investment gains and losses represent the difference between the carrying value at the balance sheet date, and the carrying value at the previous period end or purchase value during the period.
+Borrowings Borrowings are initially recorded at fair value less transaction costs incurred.
+Subsequently borrowings are stated at amortised cost and interest is recognised in the income statement over the period of the borrowings using the effective interest method.
+Finance costs comprise interest payable, fees paid for the arrangement of debt and letter of credit facility and commissions charged for the utilisation of letters of credit.
+These costs are incurred on borrowings on initial recognition and they are recognised in the income statements using an effective interest method.
+Other payables Other payables are stated at amortised cost.
+Hedge accounting and derivative financial instruments Derivatives are initially recognised at fair value on the date on which a derivative contract is entered into and are subsequently re-measured at their fair value.
+The method of recognising the resulting fair value gains or losses depends on whether the derivative is designated as a hedging instrument and, if so, the nature of the item being hedged.
+Fair values are obtained from quoted market prices in active markets, recent market transactions, and valuation techniques which include discounted cash ow models.
+All derivatives are carried as assets when fair value is positive and as liabilities when fair value is negative.
+Beazley Annual Report 2006 57 Notes to the financial statements continued The best evidence of fair value of a derivative at initial recognition is the transaction price.
+The group designates certain derivatives as cash ow hedges or net investment hedges.
+The group documents at the inception of the transaction the relationship between hedging instruments and hedged items, as well as its risk management objective and strategy for undertaking various hedging transactions.
+The group also documents its assessment, both at hedge inception and on an ongoing basis, of whether the derivatives that are being used in hedging transactions are expected to be and have been highly effective in offsetting changes in fair values or cash ows of hedged items.
+Cash ow hedges The effective portion of changes in the fair value of derivatives that are designated and qualify as cash ow hedges is recognised in equity.
+The gain or loss relating to any ineffective portion is recognised immediately in the income statement within net fair value gains losses on derivative financial instruments.
+If the derivative expires or is sold, terminated, exercised, or no longer meets the criteria for cash ow hedge accounting, or the designation is revoked, then hedge accounting is discontinued and the amount recognised in equity remains in equity until the forecast transaction affects profit or loss.
+If the forecast transaction is no longer expected to occur, then the hedge accounting is discontinued and the balance in equity is recognised immediately in the income statement.
+Fair value hedges When a derivative is designated as a hedge of the change in fair value of a recognised asset or liability or a rm commitment, changes in the fair value of the derivative are recognised immediately in the income statement together with the changes in the fair value of the hedged item that are attributable to the hedged risk.
+If the derivative expires or is sold, terminated, exercised, or no longer meets the criteria for fair value hedge accounting, or the designation is revoked, hedge accounting is discontinued.
+Any adjustment up to that point, to a hedged item for which the effective interest method is used, is amortised to profit or loss as part of the recalculated effective interest rate of the item over its remaining life.
+Net investment hedges Hedges of net investments in foreign operations are accounted for similarly to cash ow hedges.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in equity: the gain or loss relating to the ineffective portion is recognised immediately in the income statement within net fair value gains losses on financial investments through profit or loss.
+Gains and losses accumulated in equity are included in the income statement on disposal of the foreign operation.
+Impairment of assets The group assesses at each balance sheet date whether there is objective evidence that a financial asset or group of financial assets is impaired.
+A financial asset or group of financial assets is impaired and impairment losses are incurred only if there is objective evidence of impairment as a result of one or more events that have occurred after the initial recognition of the assets and that event has an impact on the estimated cash ows of the financial asset or group of financial assets that can be reliably estimated.
+If there is objective evidence that impairment exists, the amount of the loss is measured as the difference between the assets carrying amount and the value of the estimated future cash ows.
+The amount of the loss is recognised in the income statement.
+Cash and cash equivalents Cash and cash equivalents consist of cash at bank and in hand, deposits held at call with banks, bank overdrafts and other short-term highly liquid investments with maturities of three months or less from the date of acquisition.
+Operating leases Leases where a significant portion of the risks and rewards of ownership are retained by the lessor are classied as operating leases.
+Payments made for operating leases are charged to the income statement on a straight-line basis over the period of the lease.
+Employee benets Annual leave and long service leave Employee entitlements to annual leave and long service leave are recognised when they accrue to employees.
+Pension obligations The group operates a dened benefit pension plan that is now closed to future service accruals.
+The scheme is generally funded by payments from the group taking account of the recommendations of an independent qualied actuary.
+All employees now participate in a dened contribution pension plan funded by the group.
+58 Beazley Annual Report 2006 A dened benefit plan is a pension plan that defines an amount of pension benefit that an employee will receive on retirement, usually dependent on one or more factors like age, years of service and compensation.
+The pension costs are assessed using the projected unit credit method.
+Under this method the costs of providing pensions are charged to the income statement so as to spread the regular costs over the service lives of employees in accordance with the advice of the qualied actuary, who values the plans annually.
+The pension obligation is measured at present value of the estimated future cash ows.
+The actuarial gains or losses are recognised in the profit or loss using the corridor approach over the average remaining service lives of employees.
+The corridor approach is dened as the excess of net cumulative unrecognised gains and losses at the end of the previous reporting period and the greater of: 10% of present value of the dened benefit obligation at that date: and 10% of fair value of plan assets at that date.
+For the dened contribution plan, the group pays contributions to a privately administered pension plan.
+Once the contributions have been paid, the group has no further obligations.
+The groups contributions are charged to the income statement in the period to which they relate.
+Share-based compensation The group offers option plans over the groups ordinary shares to certain employees, including the SAYE scheme, details of which are included in the directors remuneration report.
+The group accounts for share compensation plans that were granted after 7 November 2002.
+The cost of providing share-based compensation is based on the fair value of the share options at grant date, which is recognised in the income statement over the expected service period of the related employees and a corresponding entry in reserves.
+The fair value of the share options is determined using the Black Scholes method.
+When the options are exercised, the proceeds received, net of any transaction costs, are credited to share capital nominal value and share premium.
+Income taxes Income tax on the profit or loss for the period presented comprises current and deferred tax.
+Income tax is recognised in the income statement except to the extent that it relates to items recognised directly in equity, in which case it is recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year using tax rates enacted or substantively enacted at balance sheet date and any adjustments to tax payable in respect of prior periods.
+Deferred tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liability and their carrying amounts in the financial statements.
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying amount of the assets and liabilities, using tax rates enacted or substantively enacted at balance sheet date.
+Deferred tax assets are recognised in the balance sheet to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Earnings per share Basic earnings per share are calculated by dividing profit after tax available to shareholders by the weighted average number of ordinary shares in issue during the period.
+For diluted earnings per share, the weighted average number of ordinary shares in issue is adjusted to assume conversion of all dilutive potential ordinary shares such as share options granted to employees.
+The shares held in the employee share options plan ESOP have been excluded from both the calculations until such time as they vest unconditionally with the employees.
+Provisions and contingencies Provisions are recognised when the group has a present legal or constructive obligation as a result of a past event, it is probable that an outow of resources of economic benets will be required to settle the obligation and a reliable estimate of the obligation can be made.
+Where the group expects a provision to be reimbursed, the reimbursement is recognised as a separate asset but only when the reimbursement is virtually certain.
+Contingent liabilities are present obligations that are not recognised because it is not probable that an outow of resources will be required to meet the liabilities or if the amount of the obligation cannot be measured with sufficient reliability.
+2 Risk management The group has identied the risks arising from its activities and has established policies and procedures to manage these items in accordance with its risk appetite.
+The group categorises its risks into six areas: insurance, credit, liquidity, market, operational and group risk.
+The sections below outline the groups risk appetite and explain how it defines and manages each category of risk.
+Beazley Annual Report 2006 59 Notes to the financial statements continued Insurance risk The groups insurance business assumes the risk of loss from persons or organisations that are directly exposed to an underlying loss.
+Insurance risk arises from this risk transfer due to inherent uncertainties about the occurrence, amount and timing of insurance liabilities.
+The four key components of insurance risk are underwriting, reinsurance, claims management, reserving and ultimate reserves.
+Each element is considered below.
+Underwriting risk Underwriting risk comprises four elements that apply to all insurance products offered by the group: Event risk the risk that individual risk losses or catastrophes lead to claims that are higher than anticipated in plans and pricing: Pricing risk the risk that the level of expected loss is understated in the pricing process: Cycle risk the risk that business is written in a soft market without full knowledge as to the in adequacy of rates, terms and conditions: and Expense risk the risk that the allowance for expenses and ination in pricing is inadequate.
+The groups underwriting strategy is to seek a diverse and balanced portfolio of risks in order to limit the variability of outcomes.
+This is achieved by accepting a spread of business over time, segmented between different classes of business.
+The annual business plans for each underwriting team reect the groups underwriting strategy, and set out the classes of business, the territories in which business is to be written and the industry sectors to which the group is prepared to expose itself.
+These plans are approved by the board and monitored by the monthly underwriting committee.
+Our underwriters calculate premiums for risks written based on a range of criteria tailored specically to each individual risk.
+These factors include but are not limited to the financial exposure, loss history, risk characteristics, limits, deductibles, terms and conditions and acquisition expenses.
+The group also recognises that insurance events are, by their nature, random, and the actual number and size of events during any one year may vary from those estimated using established statistical techniques.
+To address this, the group sets out the exposure that it is prepared to accept in certain territories to a range of events such as natural catastrophes and specic scenarios which may result in large industry losses.
+This is monitored through regular calculation of realistic disaster scenarios RDS.
+The aggregate position is monitored at the time of underwriting a risk, and reports are regularly produced to highlight the key aggregations to which the group is exposed.
+The group uses a number of modelling tools to monitor aggregation and to simulate catastrophe losses in order to measure the effectiveness of its reinsurance programmes.
+Stress and scenario tests are also run using these models.
+The range of scenarios considered include natural catastrophes, marine, liability, political, terrorism and war events.
+The greatest likelihood of significant losses to the group arises from natural catastrophe events, such as ood damage, windstorm or earthquake.
+Where possible the group measures geographic accumulations and uses its knowledge of the business, historical loss behaviour and commercial catastrophe modelling software to assess the probable maximum loss PML.
+Upon application of the reinsurance coverage purchased, the key gross and net exposures are calculated on the basis of a 1 in 250 year event.
+The groups high level catastrophe risk appetite is set by the board and the business plans of each team are determined within these parameters.
+The board may adjust these limits during the course of the year as conditions change.
+Currently, the group operates to catastrophe risk appetite for a 1 in 250 modelled event of 20% of underwriting capacity.
+Lloyds has dened its own specic set of RDS events for which all syndicates with relevant exposures must report.
+The groups three largest Lloyds specified natural catastrophe 1 in 250 year stress events are: 2006 2005 Modelled PML Modelled PML Modelled PML Modelled PML before after before after reinsurance reinsurance reinsurance reinsurance LLoyds prescribed natural catastrophe event US $m US $m US $m US $m San Francisco quake US $65bn, 2005: US $54bn 384.4 161.4 361.7 133.6 Gulf of Mexico windstorm US $100bn, 2005: US $60bn 336.3 149.9 306.5 102.3 Florida Pinellas windstorm US $100bn, 2005: US $70bn 331.8 190.1 324.7 175.6 The group has developed limits of authority and business plans which are binding upon all staff authorised to underwrite and are specic to underwriters, classes of business and industry.
+In 2006, the normal maximum gross PML line that any one underwriter could commit the managed syndicate to was US $50m.
+In most cases, maximum lines for classes of business were much lower than this.
+These authority limits are enforced through a comprehensive sign-off process for underwriting transactions including dual sign-off for all line underwriters.
+Exception reports are also run regularly to monitor compliance.
+60 Beazley Annual Report 2006 All underwriters also have a right to refuse renewal or change the terms and conditions of insurance contracts upon renewal.
+Rate monitoring details, including limits, deductibles, exposures, terms and conditions and risk characteristics are also captured and the results are combined to monitor the rating environment for each class of business.
+A proportion of the groups insurance risks is written by third parties under delegated underwriting authorities.
+Each third party is thoroughly vetted by our coverholder approval group before we transact with them, and is subject to rigorous monitoring to maintain underwriting quality and ensure ongoing compliance with contractual guidelines.
+Terms and conditions of insurance risks The groups business is structured as a confederation of four independent business segments utilising the same capital base and central services.
+The group has recognised risk features specic to the main insurance products offered by the group, and these are explained below.
+Specialty lines This segment mainly underwrites professional lines, employment practices liability, specialty liability, political risk, directors and ofcers liability, healthcare, stand-alone terrorism and contingency.
+Whilst most of this business is domiciled in the US, the team also has a presence in the UK, continental Europe and the Far East.
+The liability insurance which is written on a worldwide basis is considered medium tail because claims in this class typically take three to nine years before they are fully assessed and paid by the group for a given accident year.
+The speed of claim reporting and claim settlement is a function of the specic coverage provided, the jurisdiction and any policy provisions applied such as self-insured retentions.
+Other inherent uncertainties encountered through this class include: Whether the event triggering coverage is confined to only one time period or is spread over multiple time periods: The potential financial costs arising from individual claim actions: Whether such claims were reasonably foreseeable and intended to be covered at the time the contracts were written: and The potential for mass claim actions.
+Property Our property segment underwrites commercial, high-value homeowners and engineering property insurance on a worldwide basis.
+Property insurance indemnifies, subject to any limits or excesses, the policyholder against loss or damage to their own material property and business interruption arising from this damage.
+The event giving rise to a claim for damage to buildings or contents usually occurs suddenly as for re and burglary and the cause is easily determinable.
+The claim will thus be notied promptly and can be settled without delay an exception to this is subsidence claims.
+significant geographical concentrations of risk can exist within property portfolios meaning that natural perils such as adverse windstorms or earthquakes may expose large segments of the groups property risks.
+In the event of an earthquake, the property portfolio expects to receive claims for both structural damage and business interruption.
+Reinsurance This division specialises in writing property catastrophe, property per risk, aggregate excess of loss and pro-rata business.
+The two primary risks in this business are: The risk that a catastrophe event does or does not occur: and That future catastrophe experience may turn out to be inconsistent with the assumptions used in the industry-wide pricing models, causing claims experience to be higher than expected.
+Marine This segment underwrites a broad spectrum of marine classes.
+Specialist cover includes hull, energy, cargo & specie and war risks, and the majority of these risks are exposed to catastrophes.
+For example, a significant portion of the energy business is exposed to the Gulf of Mexico and thus has substantial hurricane exposure.
+Some areas of the marine business overlap with other segments which can result in loss accumulations.
+These accumulations, including exposures to catastrophes, are regularly monitored and managed by our reinsurance programmes.
+Reinsurance risk Reinsurance risk to the group arises where reinsurance contracts put in place to reduce gross insurance risk do not perform as anticipated, result in coverage disputes or prove inadequate in terms of the vertical or horizontal limits purchased.
+Failure of a reinsurer to pay a valid claim is considered a credit risk which is detailed separately below.
+The groups reinsurance programmes are determined from the underwriting team business plans and seek to protect group capital from an adverse volume or volatility of claims on both per risk and per event basis.
+In some cases the group deems it more economic to hold capital than purchase reinsurance.
+This is regularly reviewed as an integral part of the business planning and performance monitoring process.
+Beazley Annual Report 2006 61 Notes to the financial statements continued In 2006, the group bought a combination of proportional and non-proportional reinsurance treaties and facultative reinsurance to reduce the maximum net exposure on any one risk for the managed syndicates to US $25m.
+In most classes of business the maximum net exposure is much lower than this.
+The group aims to establish appropriate retention levels and limits of protection to achieve the target rate of return and remain within the boards risk tolerance limits.
+The efcacy of protection sought is assessed against the cost of reinsurance, taking into consideration current and expected market conditions.
+The reinsurance security committee RSC examines and approves all reinsurers to ensure that they possess suitable security.
+The RSC also establishes limits for the reinsurance programme regarding quality and quantity.
+The groups ceded reinsurance team maintains the list of these approved reinsurers and no reinsurance is placed without prior referral from this team.
+This team also monitors erosion of the reinsurance programme and its ongoing adequacy.
+Claims management risk Claims management risk may arise within the group in the event of inaccurate or incomplete case reserves and claims settlements, poor service quality or excessive claims handling costs.
+These risks may damage the group brand and undermine its ability to win and retain business or incur punitive damages.
+These risks can occur at any stage of the claims life-cycle.
+The groups claims teams are focused on delivering quality, reliability and speed of service to both internal and external clients.
+Their aim is to adjust and process claims in a fair, efficient and timely manner, in accordance with the policys terms and conditions, the regulatory environment, and the business broader interests.
+Prompt and accurate case reserves are set for all known claims liabilities, including provisions for expenses.
+Reserving and ultimate reserves risk Reserving and ultimate reserves risk occurs within the group where established insurance liabilities are insufficient through inaccurate forecasting, or where there is inadequate allowance for expenses and reinsurance bad debts in provisions.
+To manage reserving and ultimate reserves risk, our experienced actuarial team uses a range of recognised techniques to project gross premiums written, monitor claims development patterns and stress test ultimate insurance liability balances.
+An external independent actuary also performs an annual review to produce a statement of actuarial opinion for reporting entities within the group.
+The objective of the groups reserving policy is to produce accurate and reliable estimates that are consistent over time and across classes of business.
+The estimates of gross premiums written and claims prepared by the actuarial department are used through a formal quarterly peer review process to independently check the integrity of the estimates produced by the underwriting teams for each class of business.
+These meetings are attended by senior management, senior underwriters, actuarial, claims, and finance representatives.
+Credit risk Credit risk arises where counterparties fail to meet their financial obligations in full as they fall due.
+The primary sources of credit risk for the group are: Reinsurers whereby reinsurers may fail to pay valid claims against a reinsurance contract held by the group: Brokers and intermediaries whereby counterparties fail to pass on premiums or claims collected or paid on behalf of the group: and Investments whereby issuer default results in the group losing all or part of the value of a financial instrument.
+The groups core business is to accept significant insurance risk and the appetite for other risks is low.
+This protects the groups capital from erosion so that it can meet its insurance liabilities.
+To assist in the understanding of credit risks, A. M. Best, Moodys and Standard & Poors S&P ratings are used.
+These ratings have been categorised below as used for Lloyds reporting: A. M. Best Moodys S&P Tier 1 A to A Aaa to A3 AAA to A Tier 2 B to B Baa1 to Ba3 BBB to BB Tier 3 C to C B1 to Caa B to CCC Tier 4 D, E, F, S Ca to C R, U, S 3 The following tables summarise the groups significant concentrations of credit risk: Tier 1 Tier 2 Tier 3 Unrated Total 2006 m m m m m Financial investments 788.7 64.6 5.2 99.9 958.4 Insurance receivables 244.0 244.0 Reinsurance assets 319.9 5.0 20.4 345.3 Cash and cash equivalents 209.4 209.4 Total 1,318.0 69.6 5.2 364.3 1,757.1 62 Beazley Annual Report 2006 Tier 1 Tier 2 Tier 3 Unrated Total 2005 m m m m m Financial investments 684.9 38.4 2.8 45.8 771.9 Insurance receivables 17.3 141.6 158.9 Reinsurance assets 347.3 1.9 45.3 394.5 Cash and cash equivalents 106.8 5.8 112.6 Total 1,156.3 40.3 2.8 238.5 1,437.9 The carrying amount of financial assets at the balance sheet date represents the maximum credit exposure.
+The group has insurance receivables that are past due but not impaired at the reporting date.
+The group believes that impairment of these receivables is not appropriate on the basis of stage of collection of amounts owed.
+An aged analysis of insurance receivables that are past due but not impaired is presented below: Greater than Overdue debtors Up to 30 days 30 60 days 60 90 days 90 days Total 2006 67% 15% 6% 12% 100% 2005 77% 8% 3% 12% 100% This analysis excludes binder and treaty reinsurance receivables.
+An analysis of the overall credit risk exposure indicates that the group has reinsurance assets, insurance receivables and other debtors that are impaired at the reporting date.
+Some reinsurance assets that are individually impaired at 31 December 2006 total 4.8m 2005: 5.2m.
+These assets have been individually impaired after considering information such as the occurrence of significant changes in the counterpartys financial position, pattern of historical payment information and disputes with counterparties.
+The group has developed processes to formally examine all reinsurers before entering into new business arrangements.
+New reinsurers are approved by the RSC, which also reviews arrangements with all existing reinsurers at least annually.
+Vulnerable or slow-paying reinsurers are examined more frequently.
+An approval system also exists for all new brokers, and broker performance is regularly reviewed.
+Regular exception reports highlight trading with non-approved brokers, and the groups outsourced credit control function frequently monitors the ageing and collectibility of debtor balances.
+Any large, aged items are prioritised and the outsourced credit controllers have incentives for collecting these debts.
+The investments committee has established guidelines for the groups investment managers regarding the type, duration and quality of investments acceptable to the group.
+The performance of investment managers is regularly reviewed to confirm adherence to these guidelines.
+Liquidity risk Liquidity risk arises where cash may not be available to pay obligations when due at a reasonable cost.
+The group is exposed to daily calls on its available cash resources, principally from claims arising from its insurance business.
+In the majority of the cases, these claims are settled from the premiums received.
+The groups approach is to manage its liquidity position so that it can reasonably survive a significant individual or market loss event.
+This means that the group maintains sufficient liquid assets, or assets that can be translated into liquid assets at short notice and without any significant capital loss, to meet expected cash ow requirements.
+These liquid funds are regularly monitored using cash ow forecasting to ensure that surplus funds are invested to achieve a higher rate of return.
+The following is an analysis by business segment of the estimated timing of the net cash ows based on the claims liabilities balance held at 31 December 2006.
+Weighted average term Within Greater than to settlement 2006 1 year 2-3 years 4-5 years 5 years Total years Specialty lines 20% 40% 27% 13% 100% 2.7 Property 53% 38% 7% 2% 100% 1.4 Reinsurance 48% 40% 12% 100% 1.5 Marine 41% 43% 15% 1% 100% 1.6 Beazley Annual Report 2006 63 Notes to the financial statements continued Weighted average term Within Greater than to settlement 2005 1 year 2-3 years 4-5 years 5 years Total years Specialty lines 17% 38% 30% 15% 100% 3.0 Property 46% 45% 6% 3% 100% 1.4 Reinsurance 41% 43% 14% 2% 100% 1.6 Marine 41% 43% 15% 1% 100% 1.7 Market risk Market risk arises where the value of assets and liabilities changes as a result of movements in foreign exchange rates, interest rates and market prices.
+Foreign exchange risk The group is exposed to changes in the value of assets and liabilities due to movements in foreign exchange rates.
+The group deals in four main currencies, US dollars, UK sterling, Canadian dollars and Euros.
+Transactions in all other currencies are converted to UK sterling on initial recognition.
+The group manages foreign exchange exposure by projecting forward its US dollar profits for each calendar year and selling one-twelfth of the expected amount each month.
+The amounts sold are periodically validated against actual exposure and additional top-up trades of US dollars are made if required.
+The foreign exchange exposure to Canadian dollars and Euros are closely monitored by the group and a similar approach will be taken to manage the risk as our exposure grows in the future.
+The group also has investment in foreign subsidiaries with functional currencies that are different from the presentational currency.
+This gives rise to an exposure to US dollars, Hong Kong dollars and Singapore dollars, although the exposures to Hong Kong dollars and Singapore dollars are minimal.
+The US dollar exposure is managed by borrowing funds denominated in the same currency.
+Sensitivity analysis If the US dollar, Canadian dollar and Euro weakened against UK sterling by 10%, with all other variables constant, pre-tax profit would have been lower by an estimated 12.4m 2005: 5.5m and net assets would have decreased by an estimated 10.8m 2005: 5.0m.
+The analysis is based on the current information available and our assumptions in performing this analysis are: The closing year end spot rates and the average rates throughout the year were 10% higher: No hedging of currency during the period: The analysis includes an estimate of the impact on our foreign borrowings and cross currency swaps: and The impact of foreign exchange on non-monetary items will be nil.
+Interest rate risk Some of the groups financial instruments, including financial investments, cash and cash equivalents and borrowings, are exposed to movements in market interest rates.
+The group manages interest rate risk by investing in short duration financial investments and cash and cash equivalents.
+The investment committee monitors the duration of these assets on a regular basis.
+64 Beazley Annual Report 2006 The following table shows the average duration of the financial instruments.
+Duration is a commonly used measure of volatility and we believe gives a better indication than maturity of the likely sensitivity of our portfolio to changes in interest rates.
+Further details are provided in notes 24 and 25.
+Sensitivity analysis The group holds financial assets and liabilities that are exposed to interest rate risk.
+An increase in 100 basis points in interest yields, with all other variables constant, would result in a loss of capital on debt securities and a change in value of borrowings and derivative financial instruments.
+This will decrease pre-tax profits for the period by an estimated 10.7m 2005: 4.2m and net assets would have decreased by an estimated 7.5m 2005: 2.5m.
+Price risk The equity securities and hedge funds that are recognised on the balance sheet at their fair value are susceptible to losses due to adverse changes in prices.
+This is referred to as price risk.
+Investments are made in equity and hedge funds depending on the groups appetite for risk.
+These investments are well diversied with high quality, liquid securities.
+The investment committee has established guidelines with investment managers setting out maximum investment limits, diversication across industries and concentrations in any one industry or company.
+Listed investments are recognised on the balance sheet at quoted bid price.
+If the market for the investment is not considered to be active, then the group has established fair value using valuation techniques.
+This includes using recent arms length market transactions, reference to current fair value of other investments that are substantially the same, discounted cash ow models and other valuation techniques that are commonly used by market participants.
+The total change in fair value using these valuation techniques that was recognised in the income statement during the year is 1.8m 2005: 4.1m.
+Beazley Annual Report 2006 65 Notes to the financial statements continued Sensitivity analysis At 31 December 2006, the fair value of hedge funds recognised on the balance sheet was 50.3m 2005: 42.5m.
+If the fair value of the groups hedge fund portfolio were to fall by 10%, then the overall pre-tax impact on net assets would be a decline of 5.0m 2005: 4.3m.
+At 31 December 2006, the fair value of equities recognised on the balance sheet was 40.7m 2005: 4.5m.
+These equities are listed on various global stock exchanges and a 10% fall in the global equity market will result in a pre-tax impact on net assets of 4.1m 2005: 0.5m.
+Operational risk Operational risk arises from the risk of losses resulting from inadequate or failed internal processes, people and systems or from external events.
+The group actively manages these risks and minimises them where appropriate.
+This is achieved by implementing and communicating guidelines to staff and other third parties.
+The group also regularly monitors the performance of its controls and adherence to these guidelines through the risk management reporting process.
+Key components of the group control environment include: ICA modelling of operational risk exposure and scenario testing: Management review of activities: Documentation of policies and procedures: Contingency planning: and Other systems controls.
+Group risk Group risk occurs where business units fail to consider the impact of their activities on other parts of the group, as well as the risks arising from these activities.
+There are three main components of group risk which are explained below.
+Strategic This is the risk that the groups strategy is inappropriate or that the group is unable to implement its strategy.
+There is no tolerance for any breach of guidance issued by the board, and where events supersede the group strategic plan this is escalated at the earliest opportunity through the groups monitoring tools and governance structure.
+Reputation Reputation risk is the risk of negative publicity as a result of the groups contractual arrangements, customers, products and services.
+Key sources of reputation risk include operation of a Lloyds franchise, interaction with capital markets since the groups IPO during 2002, and reliance upon the Beazley brand in the US, Europe and Asia.
+The groups preference is to minimise reputation risks.
+Where it is not possible to avoid all events which can result in reputation risks, the group seeks to minimise their frequency and severity by managing these topics through public relations and communication channels.
+Management stretch Management stretch is the risk that business growth might cause the groups matrix management structure to become overly complex, and undermine accountability and control within the group.
+As the group expands its worldwide business in the US, Europe and Asia, management stretch may make the identication, analysis and control of group risks more complex.
+On a day-to-day basis, operation of the matrix management structure encourages organisational exibility and adaptability, while ensuring that activities are appropriately coordinated and controlled.
+By focusing on the needs of their customers and demonstrating both progressive and responsive abilities, staff, management and outsourced service providers are expected to excel in service and quality.
+Individuals and teams are also expected to transact their activities in an open and transparent way.
+These behavioural expectations reafrm low group risk tolerance by aligning interests to ensure that routine activities, projects and other initiatives are implemented to benefit and protect both local and group resources.
+Capital management The group has two requirements for capital that it complied with during the year: To support underwriting at Lloyds through syndicate 2623.
+This is based on the groups own individual capital adequacy ICA : and To support its underwriting in BICI in the US.
+2006 2005 m m Underwriting at Lloyds through syndicate 2623 ICA 292.0 301.7 Underwriting in US through BICI 30.6 32.6 Total 322.6 334.3 BICI holds adequate capital to meet US regulatory and credit rating requirements.
+66 Beazley Annual Report 2006 ICA We use stochastic modelling techniques to regularly assess our ICA for our Lloyds underwriting operations.
+Through detailed measurement of risk exposures, we allocate capital to support business activities according to risk prole.
+Stress and scenario analysis is performed and the results are documented and reconciled to the boards risk appetite.
+Prudential Importance risk type to group Comment Insurance Dominant This is the largest risk we face as our primary business is to accept insurance and reinsurance risk by means of appropriate premiums to cover claims and operational costs, and to maximise the expected return on regulatory capital.
+Credit Material Both brokers and reinsurers are of good quality.
+Liquidity Low This risk is low because the groups assets are liquid and short-term.
+Market Material Group assets are high quality, well diversied and short-term.
+Operational Low Our allocation of capital to these risks is cautious and is based on a set of worst case dened scenarios.
+Group Low This risk is low, but may increase with growth of the US operation.
+Insurance risk is our biggest risk, and includes both catastrophe and non-catastrophe exposures.
+To manage these exposures we model aggregate risks and the likely financial impact to the group for dened events.
+To manage our underwriting, we assign maximum gross and net line sizes for all underwriters.
+This limit is adjusted according to the nature of the business being underwritten and the experience of the underwriter and cannot be exceeded unless appropriately authorised.
+To ensure that our decisions are robust, there is a comprehensive sign-off process for underwriting transactions including dual sign-off for all line underwriters.
+Reserving activities are rigorously controlled to ensure adequate reserves are set.
+A quarterly peer review process exists for the underwriting teams and group actuary to independently determine required movements.
+3 Segmental analysis Segment information is presented in respect of business segments primary and Lloyds non-Lloyds secondary segments.
+This is based on the groups management and internal reporting structures.
+Segment results, assets and liabilities include items directly attributable to a segment as well as those that can be allocated on a reasonable basis.
+All inter-segment transactions are determined on an arms length basis.
+Primary reporting segment business segments The group is organised into four business segments: specialty lines, property, reinsurance and marine.
+A description of the business undertaken by each segment is given in note 2.
+All foreign exchange differences on non-monetary items have been left unallocated.
+This has been separately disclosed as it provides a fairer representation of the loss ratios, which would otherwise be distorted by the mismatch arising under IFRSs whereby unearned premium reserve, reinsurers share of unearned premium reserve and DAC are treated as non-monetary items and claims reserves are treated as monetary items.
+2006 2005 m m Net earned premiums Lloyds 507.1 372.3 Non-Lloyds 2.5 509.6 372.3 2006 2005 m m Segment assets Lloyds 1,810.9 1,494.2 Non-Lloyds 73.7 49.2 1,884.2 1,543.4 Beazley Annual Report 2006 69 Notes to the financial statements continued Secondary reporting segment geographical segments continued Segment assets are allocated based on where the assets are located.
+2006 2005 m m Capital expenditure Lloyds 10.6 7.5 Non-Lloyds 1.4 5.4 12.0 12.9 Capital expenditure is allocated based on where the assets are located.
+4 Net investment income 2006 2005 m m Investment income at fair value through profit or loss Dividend income Interest income 28.0 31.3 Realised gains losses on financial investments at fair value through profit or loss Realised gains 22.9 1.8 Realised losses 9.9 3.6 Net fair value gains losses on financial investments through profit or loss Fair value gains 24.4 5.7 Fair value losses 15.6 2.7 Net fair value gains losses on fair value hedge Change in interest rate swap 3.0 Change in borrowings 3.0 Investment management expenses 1.5 0.9 Net investment income 48.3 31.6 5 Other income 2006 2005 m m profit commissions 5.5 4.9 Agency fees 1.1 1.3 Other income 0.5 0.7 7.1 6.9 6 Operating expenses 2006 2005 m m Fees payable to the companys auditor for the audit of the companys annual accounts 0.2 0.2 Fees payable to the companys auditor and its associates for other services: Audit of the companys subsidiaries 0.1 0.1 Tax services 0.1 0.1 Other services 0.1 Operating leases 1.7 0.7 profit commission related bonus payments 2003 year of account 2.0 2004 year of account 4.2 1.3 2006 year of account 0.8 Foreign exchange loss gain 22.3 11.7 70 Beazley Annual Report 2006 7 Employee benefit expenses 2006 2005 Group Company Group Company m m m m Wages and salaries 22.2 0.3 15.4 0.2 Short-term incentive payments 8.1 5.8 Social security 2.8 2.4 Share-based remunerations 1.3 0.8 Pension costs 3.7 2.9 38.1 0.3 27.3 0.2 Recharged to syndicate 623 7.8 7.8 30.3 0.3 19.5 0.2 8 Finance costs 2006 2005 m m Interest expense 5.5 1.2 Arrangement fees 0.1 0.6 5.6 1.8 9 Income tax expense 2006 2005 m m Current tax expense Current year 21.4 6.2 Prior year adjustments 1.4 0.8 22.8 7.0 Deferred tax expense Origination and reversal of temporary differences 5.6 1.0 Prior year adjustments 1.5 1.0 4.1 2.0 Income tax expense 26.9 5.0 profit before tax 86.8 16.1 Tax calculated at domestic tax rates 26.0 4.8 Effects of: Tax rates in foreign jurisdictions 0.6 0.3 Non-deductible expenses 0.2 0.1 Under over provided in prior years 0.1 0.2 Tax charge for the period 26.9 5.0 The weighted average applicable tax rate was 30% 2005: 30%.
+Beazley Annual Report 2006 71 Notes to the financial statements continued 10 Earnings per share 2006 2005 m m Basic 16.8p 3.1p Diluted 16.7p 3.1p Basic Basic earnings per share are calculated by dividing profit after tax of 59.9m 2005: 11.1m by the weighted average number of issued shares during the year of 355.8m 2005: 358.8m.
+The shares held in the ESOP have been excluded from the calculation until such time as they vest unconditionally with the employees.
+Diluted Diluted earnings per share are calculated by dividing profit after tax of 59.9m 2005: 11.1m by the adjusted weighted average number of shares of 359.3m 2005: 362.1m.
+The adjusted weighted average number of shares assumes conversion of dilutive potential ordinary shares, being shares from the SAYE, retention and deferred share schemes.
+11 Dividends per share A final dividend of 3.2p 2005: 2.5p per ordinary share is payable on 10 May 2007 to shareholders registered on 13 April 2007 in respect of the year ended 31 December 2006.
+Together with the interim dividend of 1.6p 2005: 1.5p this brings the total to 4.8p 2005: 4.0p.
+These financial statements do not provide for the final dividend as a liability.
+12 Intangible assets Syndicate IT development Goodwill capacity Licences costs Total m m m m m Cost Balance at 1 January 2005 6.0 2.1 8.1 Acquisition of subsidiary 5.1 5.1 Additions 1.6 3.6 5.2 Disposals Foreign exchange 0.1 0.1 Balance at 31 December 2005 6.0 3.7 5.2 3.6 18.5 Balance at 1 January 2006 6.0 3.7 5.2 3.6 18.5 Acquisition of subsidiary 1.9 0.7 2.6 Additions 3.7 3.7 Disposals 0.8 0.8 Foreign exchange 0.6 0.6 Balance at 31 December 2006 7.9 4.4 4.6 6.5 23.4 Amortisation Balance at 1 January 2005 Amortisation for the year 0.3 0.3 Balance at 31 December 2005 0.3 0.3 Balance at 1 January 2006 0.3 0.3 Disposals for the year 0.2 0.2 Amortisation for the year 1.4 1.4 Balance at 31 December 2006 1.5 1.5 Carrying amount 31 December 2006 7.9 4.4 4.6 5.0 21.9 31 December 2005 6.0 3.7 5.2 3.3 18.2 72 Beazley Annual Report 2006 12 Intangible assets continued Impairment tests Goodwill, syndicate capacity and licences are deemed to have indefinite life.
+Consequently, they are not amortised but annually tested for impairment.
+They are allocated to the groups cash generating units CGUs as follows: 2006 2005 Lloyds Non-Lloyds Lloyds Non-Lloyds m m m m Goodwill 7.9 6.0 Syndicate capacity 4.4 3.7 Licences 4.6 5.2 When testing for impairment, the recoverable amount of a CGU is determined based on value in use.
+Value in use is calculated using projected cash ows based on financial budgets approved by management covering a three-year period.
+Cash ows beyond a three-year period are extrapolated using an estimated growth rate of 2% 2005: 2%.
+This growth rate is consistent with the long-term average growth rate for the industry.
+A pre-tax discount rate of 8% 2005: 8% has been used to discount the projected cash ows.
+13 Plant and equipment Fixtures Computer & ttings equipment Total m m m Cost Balance at 1 January 2005 Additions 2.4 0.1 2.5 Disposals Balance at 31 December 2005 2.4 0.1 2.5 Balance at 1 January 2006 2.4 0.1 2.5 Additions 4.9 0.8 5.7 Disposals Balance at 31 December 2006 7.3 0.9 8.2 Accumulated depreciation Balance at 1 January 2005 Depreciation charge for the year Disposals Balance at 31 December 2005 Balance at 1 January 2006 Depreciation charge for the year 1.0 0.2 1.2 Disposals Balance at 31 December 2006 1.0 0.2 1.2 Carrying amounts 31 December 2006 6.3 0.7 7.0 31 December 2005 2.4 0.1 2.5 Beazley Annual Report 2006 73 Notes to the financial statements continued 14 Investment in associates The group has the following interests in associates: Ownership Country 2006 2005 Beazley Finance Limited UK 22.7% 22.7% Beazley Dedicated Limited UK 22.7% 22.7% Summary financial information on associates 100%: Assets Liabilities Equity profit 2006 m m m m Beazley Finance Limited 0.2 0.2 0.1 Beazley Dedicated Limited 2.6 2.6 Total 2.8 0.2 2.6 0.1 2005 Beazley Finance Limited 0.4 0.5 0.1 Beazley Dedicated Limited 4.2 1.6 2.6 Total 4.6 2.1 2.5 On 26 January 2006, the group increased its shareholding in Asia Pacic Underwriting Agency Limited to 100% from 79.8% at 31 December 2005.
+The company has been renamed Beazley Limited.
+Beazley Furlonge Holdings Limited owns 5,000,000 ordinary shares in Beazley Finance Limited, the holding company of Beazley Dedicated Limited, a dedicated corporate member of syndicate 623.
+This share represents 22.7% of the entire share capital of Beazley Finance Limited.
+Beazley Furlonge Holdings Limited has guaranteed a letter of credit of 2m to support underwriting of Beazley Dedicated Limited on syndicate 623.
+The proportion of profits receivable by the group is determined by agreement between AON the majority shareholder in Beazley Finance Limited and the group and varies by year of account.
+Beazley Dedicated Limited participated in syndicate 623 for all years of account up to 2002.
+Reected in these accounts are the results for the 2002 year of account together with the results of Beazley Finance Limited to 31 December 2006.
+15 Deferred acquisition costs 2006 2005 m m Balance at 1 January 52.7 38.3 Additions 155.8 109.9 Amortisation charge 129.6 95.5 Balance at 31 December 78.9 52.7 74 Beazley Annual Report 2006 16 Financial investments 2006 2005 Group Company Group Company m m m m Financial investments at fair value through profit or loss Equity securities-listed 40.7 4.5 Hedge funds 50.3 42.5 Debt securities Fixed interest 672.3 287.2 396.2 111.6 Floating interest 195.1 52.8 328.7 110.3 Total financial investments at fair value through profit or loss 958.4 340.0 771.9 221.9 Current 538.8 297.0 366.7 151.5 Non-current 419.6 43.0 405.2 70.4 Total 958.4 340.0 771.9 221.9 The group has given a xed and oating charge over its investments and other assets to secure obligations to Lloyds in respect of its corporate member subsidiary.
+Further details are provided in note 33.
+17 Insurance receivables 2006 2005 m m Insurance receivables 244.0 158.9 These are receivable within one year and relate to business transacted with brokers and intermediaries.
+All insurance receivables are designated as loans and receivables.
+18 Reinsurance assets 2006 2005 m m Reinsurers share of claims 274.7 344.5 Impairment provision 4.8 5.2 269.9 339.3 Reinsurers share of unearned premium reserve 75.4 55.2 345.3 394.5 19 Cash and cash equivalents 2006 2005 Group Company Group Company m m m m Cash at bank and in hand 16.3 0.6 6.2 0.7 Short-term deposits 131.7 29.2 51.8 6.0 Overseas deposits 61.4 54.6 Cash and cash equivalents 209.4 29.8 112.6 6.7 Beazley Annual Report 2006 75 Notes to the financial statements continued 20 Share capital 2006 2005 No.
+of shares m m shares m m Authorised, issued and fully paid 450,000,000 ordinary shares of 5p each 361.0 18.1 360.6 18.0 Balance at 1 January 360.6 18.0 360.6 18.0 Issue of shares 0.4 0.1 Balance at 31 December 361.0 18.1 360.6 18.0 21 Reserves Foreign currency Employee Employee Share Merger translation share share premium reserve reserve options reserve trust reserve Total Group m m m m m m Balance at 1 January 2005 230.5 1.6 0.4 232.5 Increase in employee share options 0.4 0.4 Acquisition of own shares held in trust 1.6 1.6 Foreign exchange translation differences 0.8 0.8 Balance at 31 December 2005 230.5 1.6 0.8 0.8 1.6 232.1 Issue of shares 0.3 0.3 Increase in employee share options 0.8 0.8 Acquisition of own shares held in trust 4.0 4.0 Change in net investment hedge 0.6 0.6 Foreign exchange translation differences 2.8 2.8 Balance at 31 December 2006 230.8 1.6 2.6 1.6 5.6 225.8 Foreign currency Employee Employee Share Merger translation share share premium reserve reserve options reserve trust reserve Total Company m m m m m m Balance at 1 January 2005 230.5 230.5 Foreign exchange translation differences 1.1 1.1 Balance at 31 December 2005 230.5 1.1 229.4 Issue of shares 0.3 0.3 Foreign exchange translation differences 1.2 1.2 Balance at 31 December 2006 230.8 0.1 230.9 22 Equity compensation plans Employee share trust 2006 2005 Number m m Number m m Costs debited to employee share trust reserve Balance at 1 January 1.9 1.6 Additions 3.3 4.0 1.9 1.6 Balance at 31 December 5.2 5.6 1.9 1.6 The shares are owned by the employee share trust to satisfy awards under the groups deferred share plan and retention plan.
+These shares are purchased on the market and carried at cost.
+On the third anniversary of an award the shares under the deferred share plan are transferred from the trust to the employees.
+Under the retention plan, on the third anniversary, and each year after that, 15.0% of the shares awarded are transferred to the employees.
+The deferred share plan is recognised in the income statement on a straight-line basis over a period of three years, while the retention share plan is recognised in the income statement on a straight-line basis over a period of six years.
+76 Beazley Annual Report 2006 22 Equity compensation plans continued Employee share option plans The group has a long term incentive plan LTIP, approved share option plan, unapproved share option plan, phantom share option and SAYE that entitle employees to purchase shares in the group.
+In accordance with these plans, options are exercisable at the market price of the shares at the date of the grant.
+In addition, the group further granted share options before 7 November 2002.
+The recognition and measurement principles in IFRS 2 Sharebased payment have not been applied to these grants in accordance with the transitional provisions in IFRS 1 First-time Adoption and IFRS 2.
+The terms and conditions of the grants are as follows: Share option plan Grant date No.
+of options m Vesting conditions Contractual life of options LTIP 15 05 2003 0.6 10 years 13 06 2003 0.1 29 03 2004 0.4 Three years service NAV TSR comparator 06 12 2004 0.1 21 03 2005 2.0 21 03 2006 1.7 Approved share option plan 13 11 2002 0.8 Three years service NAV 10 years 29 03 2004 0.5 Unapproved share option plan 15 05 2003 1.1 10 years 13 06 2003 0.2 Three years service NAV 29 03 2004 0.7 06 12 2004 0.3 Phantom share option 08 07 2003 0.4 Three years service NAV TSR comparator 10 years SAYE 20 04 2004 0.4 14 04 2005 0.3 Three years service 13 04 2006 0.6 Total share options outstanding 10.2 Vesting conditions In summary the vesting conditions are dened as: Three years service An employee has to remain in employment until the third anniversary from the grant date.
+NAV The NAV growth is greater than the risk-free rate of return plus a premium per year.
+TSR comparator The groups TSR growth is compared with that of members of the comparator group over a three-year period starting with the year in which the award is made.
+Further details of equity compensation plans can be found in the directors remuneration report on pages 37 to 45.
+The number and weighted average exercise prices of share options are as follows: 2006 2005 Weighted Weighted average exercise average exercise price pence No.
+of options price pence No.
+of options per share m per share m Outstanding at 1 January 50.4 8.8 65.4 6.5 Forfeited during the year 73.2 0.4 62.3 0.1 Exercised during the year 73.0 0.4 Granted during the year 115.0 2.2 10.2 2.4 Outstanding at 31 December 43.2 10.2 50.4 8.8 Exercisable at 31 December Beazley Annual Report 2006 77 Notes to the financial statements continued 22 Equity compensation plans continued Employee share option plans continued The share option programme allows group employees to acquire shares of the company.
+The fair value of options granted is recognised as an employee expense with a corresponding increase in employee share options reserve.
+The fair value of the options granted is measured at grant date and spread over the period in which the employees become unconditionally entitled to the options.
+The fair value of the options granted is measured using the Black Scholes model, taking into account the terms and conditions upon which the options were granted.
+The amount recognised as an expense is adjusted to reect the actual number of share options that vest, except where forfeiture is due to the share option achieving the vesting conditions.
+The following is a summary of the assumptions used to calculate the fair value: 2006 2005 m m Share options charge to income statement 1.0 0.4 Weighted average share price pence per option 95.9 90.1 Weighted average exercise price pence per option 43.2 50.4 Weighted average expected life of options 6.0 yrs 6.0 yrs Expected volatility 25.0% 25.0% Expected dividend yield 4.0% 4.0% Average risk-free interest rate 4.0% 4.0% The expected volatility is based on historic volatility over a period of at least two years.
+23 Insurance liabilities and reinsurance assets 2006 2005 m m Gross Claims reported and loss adjustment expenses 278.2 349.3 Claims incurred but not reported 587.8 479.5 Gross claims liabilities 866.0 828.8 Unearned premiums 359.6 267.6 Total insurance liabilities, gross 1,225.6 1,096.4 Recoverable from reinsurers Claims reported and loss adjustment expenses 103.1 198.5 Claims incurred but not reported 166.8 140.8 Reinsurers share of claims liabilities 269.9 339.3 Unearned premiums 75.4 55.2 Total reinsurers share of insurance liabilities 345.3 394.5 Net Claims reported and loss adjustment expenses 175.0 150.8 Claims incurred but not reported 421.1 338.7 Net claims liabilities 596.1 489.5 Unearned premiums 284.2 212.4 Total insurance liabilities, net 880.3 701.9 The gross claims reported, the loss adjustment liabilities and the liabilities for claims incurred but not reported are net of expected recoveries from salvage and subrogation.
+78 Beazley Annual Report 2006 Movements in insurance liabilities and reinsurance assets Claims and loss adjustment expenses 2006 2005 Gross Reinsurance Net Gross Reinsurance Net m m m m m m Claims reported and loss adjustment expenses 349.3 198.5 150.8 57.4 12.2 45.2 Claims incurred but not reported 479.5 140.8 338.7 209.8 51.1 158.7 Balance at 1 January 828.8 339.3 489.5 267.2 63.3 203.9 Claims paid 258.3 132.5 125.8 140.4 30.5 109.9 Increase in claims Arising from current year claims 394.6 92.9 301.7 498.9 211.7 287.1 Arising from prior year claims 36.3 5.3 31.0 21.8 9.6 12.2 Reinsurance to close 23.4 9.9 13.5 184.6 88.9 95.7 Net exchange differences 86.2 34.4 51.8 40.4 15.5 24.9 Balance at 31 December 866.0 269.9 596.1 828.8 339.3 489.5 Claims reported and loss adjustment expenses 272.3 103.1 169.2 349.3 198.5 150.8 Claims incurred but not reported 593.7 166.8 426.9 479.5 140.8 338.7 Balance at 31 December 866.0 269.9 596.1 828.8 339.3 489.5 Unearned premiums reserve 2006 2005 Gross Reinsurance Net Gross Reinsurance Net m m m m m m Balance at 1 January 267.6 55.2 212.4 193.3 35.0 158.3 Increase in the year 749.5 170.6 578.9 564.6 38.7 525.9 Release in the year 657.5 150.4 507.1 490.3 18.5 471.8 Balance at 31 December 359.6 75.4 284.2 267.6 55.2 212.4 Assumptions, changes in assumptions and sensitivity Process used to decide on assumptions The peer review reserving process Beazley uses a quarterly dual track process to set its reserve: The actuarial team uses several actuarial and statistical methods to estimate the ultimate premium and claims costs.
+The most appropriate methods are selected depending on the nature of each class of business: and The underwriting teams concurrently review the development of the incurred loss ratio over time, work with our claims managers to set specic reserve estimates for agged claims and utilise their detailed understanding of the risks underwritten to establish an alternative estimate of ultimate claims cost which are compared to the actuarially established gures.
+A formal internal peer review process is then undertaken to determine the reserves held for accounting purposes which, in totality, is not lower than the actuarially established gure.
+The group also commissions an annual independent review by the groups syndicate reporting actuary to ensure that the reserves established are reasonable.
+Beazley Annual Report 2006 79 Notes to the financial statements continued Assumptions, changes in assumptions and sensitivity continued Actuarial assumptions Chain-ladder techniques are applied to premiums, paid claims and incurred claims i. e. paid claims plus case estimates.
+The basic technique involves the analysis of historical claims development factors and the selection of estimated development factors based on historical patterns.
+The selected development factors are then applied to cumulative claims data for each underwriting year that is not yet fully developed to produce an estimated ultimate claims cost for each underwriting year.
+Chain-ladder techniques are most appropriate for classes of business that have a relatively stable development pattern.
+Chain-ladder techniques are less suitable in cases in which the insurer does not have a developed claims history for a particular class of business or for underwriting years that are still at immature stages of development where there is a relatively higher level of assumption volatility.
+The Bornhuetter-Ferguson method uses a combination of a benchmark market based estimate and an estimate based on claims experience.
+The former is based on a measure of exposure such as premiums: the latter is based on the paid or incurred claims observed to date.
+The two estimates are combined using a formula that gives more weight to the experience-based estimate as time passes.
+This technique has been used in situations where developed claims experience was not available for the projection i. e. recent underwriting years or new classes of business.
+The expected loss ratio method uses a benchmark market-based estimate applied to the expected premium and is used for classes with little or no relevant historical data.
+The choice of selected results for each underwriting year of each class of business depends on an assessment of the technique that has been most appropriate to observed historical developments.
+In certain instances, this has meant that different techniques or combinations of techniques have been selected for individual underwriting years or groups of underwriting years within the same class of business.
+As such, there are many assumptions used to estimate general insurance liabilities.
+We also review triangulations of the paid outstanding claim ratios as a way of monitoring any changes in the strength of the outstanding claim estimates between underwriting years so that adjustment can be made to mitigate any subsequent over or under reserving.
+To date, this analysis indicates no systematic change to the outstanding claim strength across underwriting years.
+Where a signicantly large loss impacts an underwriting year e. g. the events of 11 September 2001 and the hurricanes in 2004 and 2005, its development is usually very different from the attritional losses.
+In these situations, the large loss is extracted from the remainder of the data and analysed separately by the respective claims managers using exposure analysis of the policies in force in the areas affected.
+Further assumptions are required to convert gross of reinsurance estimates of ultimate claims cost to a net of reinsurance level and to establish reserves for unallocated claims handling expenses and reinsurance bad debt.
+Major assumptions The main assumption underlying these techniques is that the groups past claims development experience with appropriate adjustments for known changes can be used to project future claims development and hence ultimate claims costs.
+As such these methods extrapolate the development of premiums, paid and incurred losses, average costs per claim and claim numbers for each underwriting year based on the observed development of earlier years.
+Throughout, judgement is used to assess the extent to which past trends may not apply in the future, for example, to reect changes in external or market factors such as economic conditions, public attitudes to claiming, levels of claims ination, premium rate changes, judicial decisions and legislation, as well as internal factors such as portfolio mix, policy conditions and claims handling procedures.
+Changes in assumptions As already discussed, general insurance business requires many different assumptions.
+The diagram below illustrates the main categories of assumptions used for each underwriting year and class combinations.
+Specialty lines Property Premium rate change Reinsurance Claims inflation Marine Mix of business Reporting patterns Settlement patterns Judicial decisions Professional judgement Underwriting years 1993 1994... 2005 2006 80 Beazley Annual Report 2006 Classes Assumptions Assumptions, changes in assumptions and sensitivity continued Changes in assumptions continued Given the range of assumptions used, the groups profit or loss is relatively insensitive to changes to a particular assumption used for an underwriting year class combination.
+However, the groups profit or loss is potentially more sensitive to a systematic change in assumptions that affect many classes, such as judicial changes or when catastrophes produce more claims than expected.
+The group uses a range of risk mitigation strategies to reduce the volatility including the purchase of reinsurance.
+In addition, the group holds additional capital as ICA.
+The net of reinsurance estimates of ultimate claims costs on the 2004 and prior underwriting years has improved by 31.0m during 2006 2005: 12.2m.
+This movement has arisen from a combination of better than expected claims experience coupled with small changes to the many assumptions reacting to the observed experience and anticipating any changes as a result of the new business written.
+Sensitivity analysis The estimation of IBNR reserves for future claim notications is subject to a greater degree of uncertainty than the estimation of the outstanding claims already notied.
+This is particularly true for the specialty lines business, which will typically display greater variations between initial estimates and final outcomes as a result of the greater degree of difficulty in estimating these reserves.
+The estimation of IBNR reserves for other business written is generally subject to less variability as claims are generally reported and settled relatively quickly.
+As such, our reserving assumptions contain a reasonable margin for prudence given the uncertainties inherent in the insurance business underwritten, particularly on the longer tailed specialty lines classes.
+Since March 2005, we have identied a range of possible outcomes for each class and underwriting year combination directly from our ICA process.
+Comparing these with our pricing assumptions and reserving estimates gives our management team increased clarity into our perceived reserving strength and relative uncertainties of the business written.
+To illustrate the robustness of our reserves, the loss development tables below provide information about historical claims development by the four segments specialty lines, property, reinsurance and marine.
+The tables are by underwriting year which in our view provides the most transparent reserving basis.
+We have supplied tables for both ultimate gross claims and ultimate net claims.
+The top part of the table illustrates how the groups estimate of claims ratio for each underwriting year has changed at successive year-ends.
+The bottom half of the table reconciles the gross and net claims to the amount appearing in the balance sheet.
+While the information in the table provides a historical perspective on the adequacy of the claims liabilities established in previous years, users of these financial statements are cautioned against extrapolating redundancies or deficiencies of the past on current claims liabilities.
+The group believes that the estimate of total claims liabilities as at 31 December 2006 are adequate.
+However, due to inherent uncertainties in the reserving process, it cannot be assured that such balances will ultimately prove to be adequate.
+The initial property 2006 underwriting year gross and net ultimate loss ratios are higher than the initial 2003 underwriting year ultimate loss ratios because of an increased catastrophe loading following the 2004 and 2005 hurricanes and due to less favourable underwriting conditions in UK homeowners in 2006.
+The initial reinsurance 2006 underwriting year gross and net ultimate loss ratios are lower than the initial 2003 underwriting year ultimate loss ratios as a result of the premium rate increases achieved and the changes made to the business mix following the 2005 hurricanes.
+Development of ultimate loss ratios reading down the columns of the tables Specialty lines The gross and net ultimate loss ratios on all underwriting years have continued to reduce as the impact of increased rates, tighter terms and conditions and an improved claims environment has become clearer.
+Beazley Annual Report 2006 83 Notes to the financial statements continued Analysis of movements in loss development tables continued Property The 2003 underwriting year gross and net ultimate loss ratios have continued to reduce as the level of attritional losses has become clear.
+The 2004 underwriting year gross ultimate loss ratio has been relatively stable with better than expected attritional claim experience and stable 2004 hurricane estimates offsetting the increase following the 2005 hurricanes.
+The net ultimate loss ratio has increased slightly from its 12 month position as a result of the additional premiums paid to reinstate reinsurance cover reinstatement premiums following the 2005 hurricanes which reduced our net premium estimates.
+The 2005 underwriting year reduction has been driven by better than expected attritional claim experience.
+Reinsurance All years show reducing ultimate loss ratios over time reecting our initially cautious reserving philosophy.
+Marine The 2003 underwriting year gross and net ultimate loss ratios have continued to reduce as the level of attritional losses has become clear.
+During the second development year of the 2004 underwriting year we wrote more premium than expected.
+At a gross of reinsurance level, the claims impact of the 2005 hurricanes more than offset this additional premium thereby increasing the gross ultimate loss ratio.
+At a net of reinsurance level, however, the claims impact of the hurricanes was less than the additional premium as a result of the relatively low reinsurance retention thereby reducing the net ultimate loss ratio.
+Thereafter, both gross and net ultimate loss ratios have reduced at the end of the third development year as a result of better than expected attritional claims experience.
+The 2005 underwriting year reduction has been driven by better than expected attritional claims experience.
+The table below illustrates movements in our net claims recognised in the income statement in 2006 by both underwriting year and by business segment: Specialty lines Property Reinsurance Marine Total 2006 m m m m m Current year 164.3 68.2 19.6 49.6 301.7 Prior year 2003 and earlier 12.3 0.7 0.4 0.4 13.8 2004 year of account 4.7 0.7 0.8 3.0 9.2 2005 year of account 1.0 0.5 4.7 1.8 8.0 18.0 1.9 5.9 5.2 31.0 Net insurance claims 146.3 66.3 13.7 44.4 270.7 Specialty lines Property Reinsurance Marine Total 2005 m m m m m Current year 136.5 53.0 60.2 35.5 285.2 Prior year 2002 and earlier 0.5 1.0 2.0 1.2 4.7 2003 year of account 0.8 1.9 1.6 1.6 5.9 2004 year of account 0.6 1.0 0.6 0.6 1.6 0.7 3.9 4.2 3.4 12.2 Net insurance claims 135.8 49.1 56.0 32.1 273.0 24 Borrowings The carrying amount and fair values of the non-current borrowings are as follows: 2006 2005 Group Company Group Company m m m m Carrying value Syndicated loan 18.6 Subordinated debt 9.2 9.2 10.5 10.5 Tier 2 subordinated debt 145.7 147.8 154.9 157.0 29.1 10.5 Fair value Syndicated loan 18.6 Subordinated debt 9.2 9.2 10.7 10.7 Tier 2 subordinated debt 150.2 148.2 159.4 157.4 29.3 10.7 84 Beazley Annual Report 2006 24 Borrowings continued The fair value of the borrowings is based on quoted market prices.
+When quoted market prices are not available, a discounted cash ow model is used based on a current yield curve appropriate for the remaining term to maturity.
+The discount rates used in the valuation techniques are based on the borrowing rates.
+In November 2004, the group issued subordinated debt of US $18m to JPMorgan Chase Bank, N. A. JPMorgan.
+The loan was unsecured and interest was payable at the US London interbank offered rate LIBOR plus a margin of 3.65% per annum.
+The subordinated notes are due in November 2034.
+In October 2006, the group issued 150m of unsecured xed oating rate subordinated notes that are due in October 2026 with a first callable date of October 2016.
+Interest of 7.25% per annum is paid annually in arrears for the period up to October 2016.
+From October 2016, the notes will bear annual interest at the rate of 3.28% above LIBOR.
+The notes were assigned a credit rating of BBB by S&Ps rating services.
+The group entered into a cross-currency swap transaction with Lloyds TSB Bank plc Lloyds TSB and JPMorgan in October 2006.
+In exchange for 42.3m the group received US$40m from each party which will be nally exchanged on termination of the contract, being October 2016.
+Lloyds TSB charges interest at US three-month LIBOR plus 2.25%, while JPMorgan charges interest at US three-month LIBOR plus 2.23%.
+As part of the agreement, the group receives interest at 7.25% from both parties.
+There is an option to terminate the swaps in October 2011 and annually thereafter until October 2016.
+The group also entered into an interest rate swap transaction with Lloyds TSB and JPMorgan in October 2006.
+Under this agreement, the xed interest rate of 7.25% on the balance of 107.7m 53.8m from each party is exchanged for oating interest rate of UK LIBOR plus 2.24% with Lloyds TSB and UK LIBOR plus 2.23% with JPMorgan.
+This agreement terminates on 17 October 2016 with an optional early termination in October 2011 and annually thereafter.
+In 2005, the group had borrowing facilities of 150m available, of which 72m had been drawn down as a letter of credit with a further 18.6m being drawn as a cash borrowing.
+A commitment fee of 0.5% per annum was paid for any undrawn part of the facility.
+The utilised element of the facility drawn as cash was charged an interest of 1.5% above UK LIBOR.
+The utilised element drawn down as a letter of credit was charged an annual rate of 1.5%.
+The facility was repayable in 2008 and the group had given a xed and oating charge over its assets to the syndicated banks led by Lloyds TSB.
+The other banks participating in the syndicate are Calyon, Bank of America N. A. HSH Nordbank AG and Commerzbank AG.
+The draw down part of this facility has now been replaced by the subordinated notes issued during the year.
+The overall facility has been reduced to 50m, none of which was drawn at 31 December 2006.
+25 Derivative financial instruments The group uses fair value interest rate hedges and net investment hedges to manage some of its exposures.
+The group entered into derivative financial instruments to manage this risk.
+2006 2005 m m Fair value Interest rate swap 3.0 Cross-currency swap 0.6 2.4 Fair value hedges As described in note 24, the group has hedged its xed rate borrowing using xed-to-oating interest rate swaps.
+In 2006, the hedge was deemed 100% effective and therefore the group did not recognise any portion in the income statement.
+Hedge of net investment in foreign entity The groups US dollar denominated borrowing is designated as a hedge of the net investment in the groups US subsidiaries.
+The foreign exchange gains of 2.1m on translation of the borrowing to sterling at the balance sheet date was recognised in foreign currency translation reserve.
+This offsets the gain or loss on translation of the net investment in the groups US based subsidiaries.
+In 2006, the hedge was deemed effective and therefore the group did not recognise any portion in the income statement.
+26 Deferred income tax 2006 2005 m m Deferred income tax asset 3.5 2.4 Deferred income tax liability 11.6 6.0 8.1 3.6 Beazley Annual Report 2006 85 Notes to the financial statements continued 26 Deferred income tax continued The movement in the net deferred income tax is as follows: Balance at 1 January 3.6 5.6 Income tax charge 4.1 2.0 Foreign exchange translation differences 0.4 Balance at 31 December 8.1 3.6 Balance Recognised Balance 1 Jan 06 in income 31 Dec 06 m m m Plant and equipment 0.4 0.8 1.2 Intangible assets 0.3 0.4 0.7 Other receivables 0.4 0.3 0.1 Trade and other payables 1.1 1.1 2.2 Syndicate profits 7.7 7.1 14.8 Retirement benefit obligations 0.9 0.3 0.6 Tax losses 2.4 1.1 3.5 Net deferred income tax account 3.6 4.5 8.1 Balance Recognised Balance 1 Jan 05 in income 31 Dec 05 m m m Plant and equipment 0.4 0.4 Intangible assets 0.1 0.2 0.3 Financial investments 0.2 0.2 Other receivables 0.7 0.3 0.4 Trade and other payables 1.2 0.1 1.1 Syndicate profits 7.3 0.4 7.7 Retirement benefit obligations 1.1 0.2 0.9 Tax losses 2.4 2.4 Net deferred income tax account 5.6 2.0 3.6 The group has recognised deferred tax assets on unused tax losses to the extent that it is probable that future taxable profits will be available against which unused tax losses can be utilised.
+27 Other payables 2006 2005 Group Company Group Company m m m m Reinsurance premiums payable 108.2 78.3 Accrued expenses including staff bonuses 25.4 18.0 0.1 Other payables 9.9 0.1 5.2 Amounts due to subsidiaries 37.6 31.5 Due to syndicate 623 and associates 9.2 22.6 1.8 152.7 37.7 124.1 33.4 Current 152.7 37.7 124.1 33.4 Non current 152.7 37.7 124.1 33.4 86 Beazley Annual Report 2006 28 Retirement benefit obligations 2006 2005 m m Retirement benefit obligations 1.9 2.9 Of the 1.9m 2005: 2.9m of retirement benefit obligations 0.5m 2005: 1.3m is recoverable from syndicate 623.
+Beazley Furlonge Limited operates a funded pension scheme the Beazley Furlonge Limited Pension Scheme providing benets based on final pensionable pay, with contributions being charged to the income statement so as to spread the cost of pensions over employees working lives with the company.
+The contributions are determined by a qualied actuary using the projected unit method and the most recent valuation was at 31 December 2006.
+Pension benets 2006 2005 m m Amount recognised in the balance sheet Present value of funded obligations 16.0 14.1 Fair value of plan assets 13.3 10.1 2.7 4.0 Unrecognised actuarial losses 0.8 1.1 Liability in the balance sheet 1.9 2.9 Amounts recognised in the income statement Current service cost 0.3 0.9 Interest cost 0.6 0.6 Expected return on plan assets 0.6 0.5 0.3 1.0 Movement in present value of funded obligations recognised in the balance sheet Balance at 1 January 14.1 10.9 Current service cost 0.3 0.9 Interest cost 0.6 0.5 Actuarial losses 1.0 1.8 Balance at 31 December 16.0 14.1 Movement in fair value of plan assets recognised in the balance sheet Balance at 1 January 10.1 6.7 Expected return on plan assets 0.6 0.4 Actuarial gains 0.5 1.2 Employer contributions 2.1 1.8 Benets paid Balance at 31 December 13.3 10.1 Plan assets are comprised as follows: Equities 10.9 8.2 Bonds 2.4 1.9 Total 13.3 10.1 The actual return on plan assets was 1.2m 2005: 1.5m.
+Principal actuarial assumptions Discount rate 5.2% 4.9% Ination rate 3.2% 2.9% Expected return on plan assets 6.3% 5.8% Future salary increases 4.4% 4.4% Future pensions increases 2.7% 2.5% Life expectancy 84 years 84 years Beazley Annual Report 2006 87 Notes to the financial statements continued 29 Acquisition of subsidiaries On 29 December 2006, the group acquired all the shares in Santam Corporate Limited for 14.5m in cash.
+The company was renamed Tasman Corporate Limited.
+The acquisition had the following effect on the groups assets and liabilities: Fair value of net assets on acquisition m Cash and cash equivalents 12.6 Insurance receivables 0.8 Other receivables 0.6 Other payables 1.7 Intangible assets syndicate capacity 0.5 Intangible assets goodwill 1.7 Consideration paid 14.5 m Revenue 2.8 profit before tax 2.5 On 22 March 2005, the group acquired all the shares in Omaha Property and Casualty Insurance Company for US$20.5m in cash.
+The company was renamed BICI.
+The acquisition had the following effect on the groups assets and liabilities: m Acquirees net assets at the acquisition date: Cash and cash equivalents 6.0 Intangible assets licences 4.6 Consideration paid 10.6 As part of the BICI acquisition, the group acquired licences to underwrite admitted lines business in all 50 states in the US.
+The licences have an indefinite useful life and are carried at cost less accumulated impairment.
+In addition, the group increased its shareholding in Asia Pacic Underwriting Agency Limited to 100% on 26 January 2006 and subsequently changed its name to Beazley Limited.
+The group owned 79.8% at 31 December 2005.
+30 Operating lease commitments The group leases land and buildings under a non-cancellable operating lease agreement.
+The future minimum lease payments under the non-cancellable operating lease are as follows: 2006 2005 m m No later than 1 year 1.3 1.2 Later than 1 year and no later than 5 years 5.3 4.8 Later than 5 years 5.3 5.8 11.9 11.8 88 Beazley Annual Report 2006 31 Related party transactions The group has a related party relationship with syndicate 623, its subsidiaries, associates and its directors.
+Syndicate 623 Beazley Furlonge Limited, a wholly owned subsidiary of the group, received management fees and profit commissions for providing a range of management services to syndicate 623 in which the corporate member subsidiaries participated.
+The value of the services provided and the balances with the syndicate are as follows: 2006 2005 m m Services provided: Syndicate 623 15.9 12.9 Balances due: Due to syndicate 623 6.3 19.7 Key management compensation 2006 2005 m m Salaries and other short-term benets 8.3 7.1 Post-employment benets 0.4 0.4 Share-based remuneration 0.5 0.3 9.2 7.8 Key management includes executives and non-executive directors and key management.
+Further details of directors shareholdings and remuneration can be found in the directors remuneration report on pages 37 to 45.
+Other related party transactions At 31 December 2006, the group had a balance payable to the associates of 1.8m 2005: 2.6m.
+All transactions with associates are priced on an arms length basis.
+32 Subsidiary undertakings The following is a list of all the subsidiaries: Country of Ownership incorporation interest Nature of business Beazley Furlonge Holdings Limited England 100% Intermediate holding company Beazley Furlonge Limited England 100% Lloyds underwriting agents BFHH Limited England 100% Dormant since 30 June 1994 Beazley Investments Limited England 100% Investment company Beazley Corporate Member Limited England 100% Underwriting at Lloyds Beazley Dedicated No.
+2 Limited England 100% Underwriting at Lloyds Global Two Limited England 100% Underwriting at Lloyds Beazley Underwriting Limited England 100% Underwriting at Lloyds Beazley Management Limited England 100% Intermediate management company Beazley Staff Underwriting Limited England 100% Underwriting at Lloyds Beazley Solutions Limited England 100% Insurance services Beazley Corporate Member No.
+2 England 100% Dormant Beazley Corporate Member No.
+3 England 100% Dormant Beazley USA Services, Inc. USA 100% Insurance services Beazley Holdings, Inc. USA 100% Holding company Beazley Group USA General Partnership USA 100% General partnership Beazley Insurance Company, Inc. USA 100% Underwrite admitted lines Beazley Limited Hong Kong 100% Insurance services Tasman Corporate Limited England 100% Underwriting at Lloyds Beazley Pte.
+Limited Singapore 100% Underwriting at Lloyds Beazley Annual Report 2006 89 Notes to the financial statements continued 33 Contingencies Funds at Lloyds The following amounts are subject to a deed of charge in favour of Lloyds to secure underwriting commitments: 2006 2005 Company m m Debt securities and other xed income securities 292.0 231.5 Letter of credit 70.0 292.0 301.5 Collateralised guarantee at Lloyds TSB The collateralised guarantee of 0.5m that existed with Lloyds TSB at the end of 2005 has been disposed of during 2006.
+Foreign exchange rates The group used the following exchange rates to translate foreign currency assets, liabilities, income and expenses into the groups presentation currency: 2006 2005 Average Year end spot Average Year end spot US dollar 1.84 1.96 1.82 1.72 Canadian dollar 2.09 2.28 2.21 2.01 Euro 1.47 1.48 1.46 1.46 90 Beazley Annual Report 2006

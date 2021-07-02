@@ -1,0 +1,34 @@
+Portfolio valuation methodology A description of the methodology used to value the Groups portfolio is set out below in order to provide more detailed information than is included each year in the accounting policies for the valuation of the portfolio.
+The methodology complies in all material aspects with the International private equity and venture capital valuation guidelines endorsed by both the BVCA and EVCA.
+Basis of valuation Investments are reported at the Directors estimate of Fair Value at the reporting date.
+Fair Value represents the amount for which an asset could be exchanged between knowledgeable, willing parties in an arms length transaction.
+General In estimating Fair Value, we seek to use a methodology that is appropriate in light of the nature, facts and circumstances of the investment and its materiality in the context of the total portfolio.
+Methodologies are applied consistently from period to period, except where a change would result in a better estimation of Fair Value.
+Given the uncertainties inherent in estimating Fair Value, a degree of caution is applied in exercising judgments and making the necessary estimates.
+Quoted investments Quoted investments are valued at the closing bid price at the reporting date.
+In accordance with International Financial Reporting Standards, no discount is applied for liquidity of the stock or any dealing restrictions.
+Unquoted investments Most unquoted investments are valued using one of the following methodologies: cost, less any required provision: earnings multiple: net assets: price of recent investment: expected sales proceeds.
+New investments are valued at cost for the first 12 months and then until another methodology becomes more appropriate.
+This generally occurs when the first full set of accounts covering a period of at least six months since the date of investment becomes available.
+Any investment in a company that has failed or is expected to fail within the next 12 months has the equity shares valued at nil and the fixed income shares and loan instruments valued at the lower of cost and net recoverable amount.
+Generally, the process of estimating the Fair Value of an investment involves selecting one of the above methodologies and using that to derive an Enterprise Value for the investee company.
+The process is then to: deduct from the Enterprise Value all financial instruments ranking ahead of the Group: apply an appropriate Marketability Discount: apportion the remaining value over the other financial instruments including the Groups loans, fixed income shares and equity shares.
+Where that apportionment indicates a shortfall against the loans or fixed income shares, then the Group considers whether, in estimating Fair Value, the shortfall should be applied, and if so, to what extent.
+The Marketability Discount will generally be between 10%30% with the level set to reflect the Groups influence over the exit prospects and timing for the investee company.
+When using the earnings multiple methodology, earnings before interest and tax EBIT are normally used, adjusted to a maintainable level.
+Generally, the latest full year historical accounts are used unless there is an indication of a forecast downturn in earnings in the current or forecast year, in which case those earnings may be used.
+An appropriate multiple is applied to these earnings to derive an Enterprise Value.
+Normally the multiple will be the average EBIT multiple for the relevant sector of the FTSE Global SmallCap Europe index, adjusted downwards by the Group to exclude loss-making companies.
+Where a company reports an operating loss or the industry standard valuation methodology is by reference to the asset base, then the value may be estimated using the net assets methodology.
+The price of recent investment methodology is used mainly for investments in venture capital companies and includes cost of the investment or valuation by reference to a subsequent financing round.
+Valuation increases above cost are only recognised if that round involved a new external investor and the company is meeting milestones set by the investors.
+The relevance of this methodology can be eroded over time due to changes in the technology, business or market which may indicate an impairment has occurred.
+In this case, carrying values will be reduced to reflect Fair Value.
+Other factors that may be taken into account include: the expected effect of ratchets, options and liquidation preferences: any industry standard valuation methodology.
+e. g. Discounted cash flows for infrastructure type investments: offers received as part of a sale process, which may either support the value derived from another methodology or be used as the valuation less a Marketability Discount of typically 10%.
+For the Groups smaller investments, the valuation is determined by a more mechanistic approach using information from the latest audited accounts.
+Equity shares are valued at the higher of an earnings or net assets methodology.
+Fixed income shares and loan investments are valued at the lower of cost and net recoverable amount.
+Approximately 15% by value of the Groups unquoted investments are valued using this methodology.
+An analysis of the portfolio by valuation method is given in the portfolio analysis on pages 102 and 103.
+3i Group plc 98 Report and accounts 2007

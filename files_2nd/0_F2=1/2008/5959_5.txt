@@ -1,0 +1,51 @@
+Fidessa group plc 14 Report of the Directors The directors present their report and the audited financial statements for the Company for the year ended 31st December 2008.
+These will be laid before the shareholders at the Annual General Meeting to be held on 28th April 2009.
+1 Directors The Board comprises a non-executive Chairman, three independent non-executive directors the third non-executive director was appointed in October 2008 and two executive directors.
+The Board considers its overall size and composition to be appropriate, having regard to the experience and skills which the Board members bring together and the fact that the Board considers the three non-executive directors to be independent of management.
+The serving directors are: John Hamer age 49, Chairman John Hamer joined the Group in January 1983.
+in Computer Science from Leeds University and was Chief Executive of the Group between 1992 and July 2001 when the Group had multiple business streams, each with its own Chief Executive.
+John became Chairman of the Group in July 2001 when the Group focused on the Fidessa business by divesting the help desk and call centre software businesses.
+The Board considers the Chairman role to be similar to that performed prior to July 2001 when there were multiple businesses and there to be no conflict with Chris Aspinwall, the Chief Executive, who was already the Chief Executive of the Fidessa business prior to July 2001.
+He currently has no other material business commitments.
+Chris Aspinwall age 45, Chief Executive Chris Aspinwall joined the Group in August 1986 as a software engineer and was appointed to the Board in 1992.
+He became Chief Executive of the Fidessa business in 1992 and has grown it to its current world leading position.
+In July 2001 he became Group Chief Executive.
+in Computer Science from York University.
+Andy Malpass age 47, Finance Director Andy Malpass joined the Group in 1995 as Finance Director and has over 20 years' experience in the software industry, with both private and public companies.
+in Accounting and Finance from Lancaster University and is a fellow of the Chartered Institute of Management Accountants.
+Ron Mackintosh age 60, Senior Independent Non-Executive Director Ron Mackintosh was appointed to the Board in June 2004.
+Ron has held a number of senior executive positions in European technology companies.
+Between 1992 and 2000 he was chief executive of Computer Sciences Corporations CSC European business which had revenue of $2.5 billion.
+He is also a former director of Gemplus SA, and the former chairman of each of Smartstream Technologies Ltd, Northgate Information Solutions plc and Differentis.
+Philip Hardaker age 61, Independent Non-Executive Director Philip Hardaker joined the Board as a non-executive director in February 2005.
+Philip is an experienced Chartered Accountant who previously served for 20 years as a partner in KPMG UK.
+As a partner he led teams providing audit, advisory and transaction due diligence services to a broad portfolio of clients.
+He also held a series of managerial and leadership positions in KPMG, both in the UK and overseas.
+Philip is a Trustee of Charities Aid Foundation, chairing the Audit, Risk and Compliance Committee, and is a director of CAF Bank Limited.
+He is also a director of The St. John of Jerusalem Eye Hospital and is an independent non-executive on the Audit Committee of Lovells LLP.
+Elizabeth Lake age 66, Independent Non-Executive Director Elizabeth Lake was appointed to the Board as a non-executive director in October 2008.
+Elizabeth is a director and President of Securities Processing Solutions International at Broadridge Financial Solutions, Inc. a leading global provider of technology based outsourcing solutions to the financial services industry.
+She was a partner in the consultancy practice of KPMG and has also held senior executive positions at CSC Index consultancy within the financial services sector and at Ziff-Davis Technical Information Company where she was responsible for software products and services for the financial services industry.
+Under Article 94 of the Companys Articles of Association the Board has power to appoint any person to be a Director but any Director so appointed shall hold office only until the next following Annual General Meeting and shall then be eligible for election: accordingly Elizabeth Lake is eligible for election.
+Chris Aspinwall retires by rotation at the forthcoming Annual General Meeting in accordance with the Articles of Association and, being eligible, offers himself for re-election.
+The biographies of Elizabeth Lake and Chris Aspinwall are set Annual Report and Accounts 2008 Annual Report and Accounts 2007 15 out above.
+Following formal performance evaluation, the Chairman confirms that the performance of Elizabeth Lake is effective and that the performance of Chris Aspinwall continues to be effective and that they continue to demonstrate commitment to their roles bringing their considerable commercial experience to Board meetings: accordingly the Chairman recommends their respective election and reelection.
+The senior independent director, Ron Mackintosh, confirms that following formal performance evaluation the performance of Mr Hamer, the Chairman, continues to be effective.
+Directors interests in shares and share options in the Company are detailed in the Directors Remuneration Report.
+The appointment and replacement of directors is governed by the Articles of Association of the Company and the Nominations Committee Terms of Reference.
+At the date of this Report of the Directors, indemnities are in force under which the Company has agreed to indemnify the directors and the Company Secretary to the extent permitted by law and by the Companys Articles of Association in respect of all losses arising in their capacity as officer of the Company or of any member of the Group.
+2 Principal activities and business review The Group is a world-leading supplier of multi-asset trading, portfolio analysis, decision support, investment compliance, market data and connectivity solutions for both the buy-side and sell-side globally.
+Available as a simple workstation or as an integrated application suite, the Fidessa and Fidessa LatentZero product suites are built on the clear vision of providing the richest functionality, coverage and distribution to the financial markets community.
+Further details of the Groups primary markets and the development of the business are stated in the Overview and Operations Review.
+The Company is required to set out in this report a fair review of the business of the Group during the financial year ended 31st December 2008 and of the position of the Group at the end of the financial year and a description of the principal risks and uncertainties facing the Group, constituting the business review.
+The information that fulfils the requirements of the business review can be found in this Directors Report and within the Overview, Operations Review and the Finance Review of this Annual Report.
+Details of the Companys compliance with the revised Combined Code on Corporate Governance issued by the Financial Reporting Council in June 2006 the Combined Code are set out in the Corporate Governance section of this Annual Report.
+3 Risk factors Identification and management of risk is an integral part of the day to day activities of the Group: please refer to the paragraph headed Internal Control in the Corporate Governance section of this Annual Report for more detail on the Groups risk management systems.
+There are a number of potential risk factors which could have a material adverse financial effect on the business as well as on the value and liquidity of the Companys securities some of which have been identified below although the list may not be exhaustive.
+Where reasonably possible the Company or the Group as applicable has taken steps to mitigate these risks but they cannot be entirely safeguarded against all of them.
+Deployment schedules under the larger implementations could be delayed in the event that a customers requirements were to change during the deployment process and this could have a negative effect on the Groups cash flow and timing of revenue.
+The Group tries to avoid such delays by assessing jointly with the customer what its requirements are prior to contracting with it and continuing in dialogue with the customer throughout the implementation process.
+The Groups products are dependent on the rapid transmission of data either over the internet or using dedicated communications lines in order to provide financial information to its customer base and to enable customers to effect trades in financial instruments.
+A major power outage, network failure or network interruption whether caused by failure of the network provider, power provider or power infrastructure, interference with or destruction of one of the Groups data centres or errors in or lack of sufficient protection of its software, IT viruses, terrorist attack or sabotage could result in the failure of its hosted service, the transmission of old or incorrect data and trades being missed, repeated or incorrectly executed.
+Such issues could have an adverse impact on the Groups customers and on the Group financially as well as on its reputation in its markets.
+The Group takes these issues very seriously and tries to take appropriate measures including investing heavily in secure data centre space, ensuring it has sufficient power supplies and protecting its systems against sabotage.

@@ -1,0 +1,837 @@
+HSBC HOLDIN G S PL C Notes on the Financial Statements continued Bank Argentina, whose financial statements are made up to 30 June annually to comply with local regulations.
+Accordingly, HSBC uses their audited interim financial statements, drawn up to 31 December annually.
+Entities that are controlled by HSBC are consolidated until the date that control ceases.
+Newly acquired subsidiaries are consolidated from the date that control is transferred to HSBC.
+The purchase method of accounting is used to account for the acquisition of subsidiaries by HSBC.
+The cost of an acquisition is measured at the fair value of the consideration given at the date of exchange, together with costs directly attributable to that acquisition.
+The acquired identifiable assets, liabilities and contingent liabilities are measured at their fair values at the date of acquisition.
+Any excess of the cost of acquisition over the fair value of HSBCs share of the identifiable assets, liabilities and contingent liabilities acquired is recorded as goodwill.
+If the cost of acquisition is less than the fair value of HSBCs share of the identifiable assets, liabilities and contingent liabilities of the business acquired, the difference is recognised immediately in the income statement.
+In accordance with IFRS 1, HSBC has chosen not to restate business combinations that took place prior to 1 January 2004, the date of transition to IFRSs.
+The premium recorded on shares issued in respect of acquisitions that qualified for merger relief under section 131 of the Companies Act 1985 prior to the transition to IFRS is included in the merger reserve.
+All intra-HSBC transactions are eliminated on consolidation.
+The consolidated financial statements of HSBC also include the attributable share of the results and reserves of joint ventures and associates.
+These are based on financial statements made up to 31 December, with the exception of the Bank of Communications Limited and Ping An Insurance Company of China Limited, which are included on the basis of financial statements made up to 30 September.
+Accordingly, HSBC has taken into account changes in the period from 1 October to 31 December that would have materially affected its results.
+These are equity accounted three months in arrears in order to meet the requirements of the Groups reporting timetable.
+c The preparation of financial information requires the use of estimates and assumptions about future conditions.
+Use of available information and application of judgement are inherent in the formation of estimates.
+Actual results in the future may differ from those reported.
+In this regard, management believes that the critical accounting policies where judgement is necessarily applied are those which relate to loan impairment, goodwill impairment and the valuation of financial instruments see Critical Accounting Policies on pages 99 to 102.
+Further information about key assumptions concerning the future, and other key sources of estimation uncertainty, are set out in the notes on these financial statements.
+d A discussion of the significant differences between IFRSs and US GAAP and a reconciliation to US GAAP of certain amounts is contained in Note 47.
+As stated in Note 45, there are no material differences between IFRSs and Hong Kong Generally Accepted Accounting Principles Hong Kong GAAP.
+The Notes on the Financial Statements, taken together with the Financial Review, include the aggregate of all disclosures necessary to satisfy IFRSs, Hong Kong and US reporting requirements.
+2 Summary of significant accounting policies a Interest income and expense Interest income and expense for all interest-bearing financial instruments except for those classified as held-fortrading or designated at fair value other than debt issued by HSBC and related derivatives are recognised in Interest income and Interest expense in the income statement using the effective interest rates of the financial assets or financial liabilities to which they relate.
+The effective interest rate is the rate that exactly discounts estimated future cash receipts or payments earned or paid on a financial asset or financial liability through its expected life or, where appropriate, a shorter period, to the net carrying amount of the financial asset or financial liability.
+When calculating the effective interest rate, HSBC estimates cash flows considering all contractual terms of the financial instrument but not future credit losses.
+The calculation includes all amounts paid or received by HSBC that are an integral part of the effective interest rate, including transaction costs and all other premiums or discounts.
+Interest on impaired financial assets is calculated by applying the original effective interest rate of the financial 244 HSBC HOLDIN G S PL C Notes on the Financial Statements asset to the carrying amount as reduced by any allowance for impairment.
+b Non interest income Fee income HSBC earns fee income from a diverse range of services provided to its customers.
+Fee income is accounted for as follows: income earned on the execution of a significant act is recognised as revenue when the act is completed for example, fees arising from negotiating, or participating in the negotiation of, a transaction for a third party, such as the arrangement for the acquisition of shares or other securities : income earned from the provision of services is recognised as revenue as the services are provided for example, asset management, portfolio and other management advisory and service fees : and income which forms an integral part of the effective interest rate of a financial instrument is recognised as an adjustment to the effective interest rate for example, loan commitment fees and recorded in Interest income Note 2 a.
+Dividend income Dividend income is recognised when the right to receive payment is established.
+This is the ex-dividend date for equity securities.
+Net income from financial instruments designated at fair value Net income from financial instruments designated at fair value includes all gains and losses from changes in the fair value of financial assets and financial liabilities designated at fair value through profit or loss.
+Interest income and expense and dividend income arising on these financial instruments are also included, except for debt securities in issue and derivatives managed in conjunction with debt securities in issue.
+Interest on these instruments is shown in Interest expense.
+Net trading income Net trading income comprises all gains and losses from changes in the fair value of financial assets and financial liabilities held for trading, together with related interest income, expense and dividends.
+c Segment reporting HSBC is organised into five geographical regions, Europe, Hong Kong, Rest of Asia-Pacific, North America and South America, and manages its business through four customer groups: Personal Financial Services: Commercial Banking: Corporate Investment Banking and Markets: and Private Banking.
+The main items reported in the Other segment are the income and expenses of wholesale insurance operations, certain property activities, unallocated investment activities including hsbc.
+com, centrally held investment companies and HSBCs holding company and financing operations.
+Segment income and expenses include transfers between geographical regions and transfers between customer groups.
+These transfers are conducted at arms length.
+d Determination of fair value All financial instruments are recognised initially at fair value.
+The fair value of a financial instrument on initial recognition is normally the transaction price, i. e. the fair value of the consideration given or received.
+In certain circumstances, however, the initial fair value may be based on other observable current market transactions in the same instrument, without modification or repackaging, or on a valuation technique whose variables include only data from observable markets.
+Subsequent to initial recognition, the fair values of financial instruments measured at fair value that are quoted in active markets are based on bid prices for assets held and offer prices for issued liabilities.
+When independent prices are not available, fair values are determined by using valuation techniques which refer to observable market data.
+These include comparison with similar instruments where market observable prices exist, discounted cash flow analysis, option pricing models and other valuation techniques commonly used by market participants.
+245 HSBC HOLDIN G S PL C Notes on the Financial Statements continued For certain derivatives, fair values may be determined in whole or in part using valuation techniques based on assumptions that are not supported by prices from current market transactions or observable market data.
+A number of factors such as bid-offer spread, credit profile, servicing costs of portfolios and model uncertainty are taken into account, as appropriate, when values are calculated using valuation techniques.
+If the fair value of a financial asset measured at fair value becomes negative, it is recorded as a financial liability until its fair value becomes positive, at which time it is recorded as a financial asset, or it is extinguished.
+e Loans and advances to banks and customers Loans and advances to banks and customers include loans and advances originated by HSBC which are not intended to be sold in the short term and have not been classified either as held for trading or designated at fair value.
+Loans and advances are recognised when cash is advanced to borrowers and are derecognised when either borrowers repay their obligations, or the loans are sold or written off.
+They are initially recorded at fair value plus any directly attributable transaction costs and are subsequently measured at amortised cost using the effective interest method, less impairment losses.
+f Loan impairment Losses for impaired loans are recognised promptly when there is objective evidence that impairment of a loan or portfolio of loans has occurred.
+Impairment losses are calculated on individual loans and on loans assessed collectively.
+Losses expected from future events, no matter how likely, are not recognised.
+Individually assessed loans At each balance sheet date, HSBC assesses on a case-by-case basis whether there is any objective evidence that a loan is impaired.
+This procedure is applied to all accounts that are considered individually significant.
+In determining impairment losses on these loans, the following factors are considered: HSBCs aggregate exposure to the customer: the viability of the customers business model and its capability to trade successfully out of financial difficulties and generate sufficient cash flow to service its debt obligations: the amount and timing of expected receipts and recoveries: the likely dividend available on liquidation or bankruptcy: the extent of other creditors commitments ranking ahead of, or pari passu with, HSBC and the likelihood of other creditors continuing to support the company: the complexity of determining the aggregate amount and ranking of all creditor claims and the extent to which legal and insurance uncertainties are evident: the realisable value of security or other credit mitigants and likelihood of successful repossession: the likely deduction of any costs involved in recovery of amounts outstanding: the ability of the borrower to obtain, and make payments in, the currency of the loan if not local currency: and when available, the secondary market price of the debt.
+Impairment losses are calculated by discounting the expected future cash flows of a loan at its original effective interest rate, and comparing the resultant present value with the loans current carrying amount.
+Any loss is charged in the income statement.
+The carrying amount of impaired loans on the balance sheet is reduced through the use of an allowance account.
+Collectively assessed loans Impairment is assessed on a collective basis in two different scenarios: for loans subject to individual assessment, to cover losses which have been incurred but have not yet been identified: and 246 for homogeneous groups of loans that are not considered individually significant.
+Incurred but not yet identified impairment Individually assessed loans for which no evidence of loss has been identified are grouped together according to their credit risk characteristics for the purpose of calculating an estimated collective loss.
+This arises from impairment at the balance sheet date which will only be individually identified in the future.
+The collective impairment allowance is determined after taking into account: historical loss experience in portfolios of similar credit risk characteristics for example, by industry sector, loan grade or product : the estimated period between impairment occurring and the loss being identified and evidenced by the establishment of an appropriate allowance against the individual loan: and managements experienced judgement as to whether current economic and credit conditions are such that the actual level of inherent losses is likely to be greater or less than that suggested by historical experience.
+The period between a loss occurring and its identification is estimated by local management for each identified portfolio.
+Homogeneous groups of loans For homogeneous groups of loans that are not considered individually significant, two alternative methods are used to calculate allowances on a portfolio basis: When appropriate empirical information is available, HSBC utilises roll rate methodology.
+This methodology employs a statistical analysis of historical trends of the probability of default and the amount of consequential loss, assessed at each time period for which the customers contractual payments are overdue.
+The estimated loss is the difference between the present value of expected future cash flows, discounted at the original effective interest rate of the portfolio, and the carrying amount of the portfolio.
+Other historical data and current economic conditions are also evaluated when calculating the appropriate level of allowance required to cover inherent loss.
+In certain highly developed markets, sophisticated models also take into account behavioural and account management trends as revealed in, for example, bankruptcy and rescheduling statistics.
+In other cases, when the portfolio size is small or when information is insufficient or not reliable enough to adopt a roll rate methodology, HSBC adopts a formulaic approach which allocates progressively higher percentage loss rates in line with the period of time for which a customers loan is overdue.
+Loss rates are calculated from the discounted expected future cash flows from a portfolio.
+Roll rates, loss rates and the expected timing of future recoveries are regularly benchmarked against actual outcomes to ensure they remain appropriate.
+Loan write-offs Loans and the related impairment allowance accounts are normally written off, either partially or in full, when there is no realistic prospect of recovery of these amounts and, for collateralised loans, when the proceeds from realising the security have been received.
+Reversals of impairment If the amount of an impairment loss decreases in a subsequent period, and the decrease can be related objectively to an event occurring after the impairment was recognised, the excess is written back by reducing the loan impairment allowance account accordingly.
+The reversal is recognised in the income statement.
+Assets acquired in exchange for loans Non-financial assets acquired in exchange for loans in order to achieve an orderly realisation are recorded as assets held for sale and reported in Other assets.
+The asset acquired is recorded at the lower of its fair value less costs to sell and the carrying amount of the loan net of impairment allowance at the date of exchange.
+No depreciation is provided in respect of assets held for sale.
+Any subsequent write-down of the acquired asset to 247 HSBC HOLDIN G S PL C Notes on the Financial Statements continued fair value less costs to sell is recorded as an impairment loss and included in the income statement.
+Any subsequent increase in the fair value less costs to sell, to the extent this does not exceed the cumulative impairment loss, is recognised in the income statement.
+Renegotiated loans Retail loans, which are generally subject to collective impairment assessment, whose terms have been renegotiated, are no longer considered to be past due or impaired but are treated as new loans only after the minimum required number of payments under the new arrangements have been received.
+Loans subject to individual impairment assessment, whose terms have been renegotiated, are subject to ongoing review to determine whether they remain impaired or are considered to be past due.
+g Trading assets and trading liabilities Treasury bills, debt securities, equity shares and short positions in securities are classified as held for trading if they have been acquired principally for the purpose of selling or repurchasing in the near term, or they form part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
+These financial assets or financial liabilities are recognised on trade date, when HSBC enters into contractual arrangements with counterparties to purchase or sell securities, and are normally derecognised when either sold assets or extinguished liabilities.
+Measurement is initially at fair value, with transaction costs taken to the income statement.
+Subsequently, their fair values are remeasured, and all gains and losses from changes therein are recognised in the income statement in Net trading income as they arise.
+h Financial instruments designated at fair value Financial instruments, other than those held for trading, are classified in this category if they meet one or more of the criteria set out below, and are so designated by management.
+HSBC may designate financial instruments at fair value when the designation: eliminates or significantly reduces valuation or recognition inconsistencies that would otherwise arise from measuring financial assets or financial liabilities, or recognising gains and losses on them, on different bases.
+Under this criterion, the main classes of financial instruments designated by HSBC are: Long-term debt issues The interest payable on certain fixed rate long-term debt securities in issue and subordinated liabilities has been matched with receive fixed pay variable interest rate swaps as part of a documented interest rate risk management strategy.
+An accounting mismatch would arise if the debt securities in issue were accounted for at amortised cost, because the related derivatives are measured at fair value with movements in the fair value taken through the income statement.
+By designating the long-term debt at fair value, the movement in the fair value of the long-term debt will be recorded in the income statement.
+Financial assets and financial liabilities under investment contracts These are managed on a fair value basis and management information is also prepared on this basis.
+Liabilities to customers under linked contracts are determined based on the fair value of the assets held in the linked funds, with changes shown in the income statement.
+Liabilities to customers under other types of investment contracts would be shown at amortised cost.
+If no designation was made for the assets relating to the customer liabilities they would be classified as available-for-sale and the changes in fair value would be recorded directly in equity.
+Designation at fair value of the financial assets and liabilities under investment contracts allows the fair value movements in fair values to be recorded in the income statement and presented in the same line.
+applies to groups of financial assets, financial liabilities or combinations thereof that are managed, and their performance evaluated, on a fair value basis in accordance with a documented risk management or investment strategy, and where information about the groups of financial instruments is reported to management on that basis.
+Under this criterion, certain financial assets held to meet liabilities under insurance contracts are the main class of financial instrument so designated.
+HSBC has documented risk management and investment strategies designed to manage such assets at fair value, taking into consideration the relationship of assets to liabilities in a way that mitigates market risks.
+Reports are 248 provided to management on the fair value of the assets.
+Fair value measurement is also consistent with the regulatory reporting requirements under the appropriate regulations for these insurance operations.
+relates to financial instruments containing one or more embedded derivatives that significantly modify the cash flows resulting from those financial instruments, including certain debt issues and debt securities held.
+The fair value designation, once made, is irrevocable.
+Designated financial assets and financial liabilities are recognised on trade date, when HSBC enters into contractual arrangements with counterparties to purchase or sell securities, and are normally derecognised when sold assets or extinguished liabilities.
+Measurement is initially at fair value, with transaction costs taken directly to the income statement.
+Subsequently, the fair values are remeasured, and gains and losses from changes therein are recognised in Net income from financial instruments designated at fair value.
+Gains and losses arising from changes in the fair value of derivatives that are managed in conjunction with designated financial assets or financial liabilities are also included in Net income from financial instruments designated at fair value.
+Interest on these derivatives is also included in this line, except for interest on derivatives managed with debt securities in issue designated at fair value, which is included in net interest income.
+The amount of change during the period, and cumulatively, in the fair value of designated financial liabilities and loans and receivables that is attributable to changes in their credit risk is determined as the amount of change in fair value that is not attributable to changes in market conditions.
+i Financial investments Treasury bills, debt securities and equity shares intended to be held on a continuing basis, other than those designated at fair value Note 2 h, are classified as available-for-sale or held-to-maturity.
+Financial investments are recognised on trade date, when HSBC enters into contractual arrangements with counterparties to purchase securities, and are normally derecognised when either the securities are sold or the borrowers repay their obligations.
+i Available-for-sale securities are initially measured at fair value plus direct and incremental transaction costs.
+They are subsequently remeasured at fair value, and changes therein are recognised in equity in the Available-for-sale reserve Note 38 until the securities are either sold or impaired.
+When available-forsale securities are sold, cumulative gains or losses previously recognised in equity are recognised in the income statement as Gains less losses from financial investments.
+Interest income is recognised on available-for-sale securities using the effective interest rate method, calculated over the assets expected life.
+Premiums and or discounts arising on the purchase of dated investment securities are included in the calculation of their effective interest rates.
+Dividends are recognised in the income statement when the right to receive payment has been established.
+Financial investments are recognised using trade date accounting.
+At each balance sheet date an assessment is made of whether there is any objective evidence of impairment in the value of a financial asset or group of assets.
+This usually arises when circumstances are such that an adverse effect on future cash flows from the asset or group of assets can be reliably estimated.
+If an available-for-sale security is impaired, the cumulative loss measured as the difference between the assets acquisition cost and its current fair value, less any impairment loss on that asset previously recognised in the income statement is removed from equity and recognised in the income statement.
+Reversals of impairment losses are subject to contrasting treatments depending on the nature of the instrument concerned: if the fair value of a debt instrument classified as available-for-sale increases in a subsequent period, and the increase can be objectively related to an event occurring after the impairment loss was recognised in the income statement, the impairment loss is reversed through the income statement: impairment losses recognised in the income statement on equity instruments are not reversed through the income statement.
+ii Held-to-maturity investments are non-derivative financial assets with fixed or determinable payments and fixed maturities that HSBC positively intends, and is able, to hold until maturity.
+Held-to-maturity investments are initially recorded at fair value plus any directly attributable transaction costs, and are subsequently measured at amortised cost using the effective interest rate method, less any impairment losses.
+249 HSBC HOLDIN G S PL C Notes on the Financial Statements continued j Sale and repurchase agreements including stock lending and borrowing When securities are sold subject to a commitment to repurchase them at a predetermined price repos, they remain on the balance sheet and a liability is recorded in respect of the consideration received.
+Securities purchased under commitments to sell reverse repos are not recognised on the balance sheet and the consideration paid is recorded in Loans and advances to banks or Loans and advances to customers as appropriate.
+The difference between the sale and repurchase price is treated as interest and recognised over the life of the agreement.
+Securities lending and borrowing transactions are generally secured, with collateral taking the form of securities or cash advanced or received.
+The transfer of securities to counterparties is not normally reflected on the balance sheet.
+Cash collateral advanced or received is recorded as an asset or a liability respectively.
+Securities borrowed are not recognised on the balance sheet, unless they are sold to third parties, in which case the obligation to return the securities is recorded as a trading liability and measured at fair value, and any gains or losses are included in Net trading income.
+For repos and security lending, if the counterparty has the right to sell or repledge the securities transferred, the securities are presented separately on the balance sheet from assets that may not be repledged or resold by a counterparty.
+k Derivatives and hedge accounting Derivatives are recognised initially, and are subsequently remeasured, at fair value.
+Fair values of exchangetraded derivatives are obtained from quoted market prices.
+Fair values of over-the-counter OTC derivatives are obtained using valuation techniques, including discounted cashflow models and option pricing models.
+In the normal course of business, the fair value of a derivative on initial recognition is the transaction price that is the fair value of the consideration given or received.
+In certain circumstances, however, the fair value will be based on other observable current market transactions in the same instrument, without modification or repackaging, or on a valuation technique whose variables include only data from observable markets, such as interest rate yield curves, option volatilities and currency rates.
+When such evidence exists, HSBC recognises a trading gain or loss on inception of the derivative.
+When unobservable market data have a significant impact on the valuation of derivatives, the entire initial change in fair value indicated by the valuation model is not recognised immediately in the income statement but is recognised over the life of the transaction on an appropriate basis or is recognised in the income statement when the inputs become observable, or when the transaction matures or is closed out.
+Derivatives may be embedded in other financial instruments, for example, a convertible bond with an embedded conversion option.
+Embedded derivatives are treated as separate derivatives when their economic characteristics and risks are not clearly and closely related to those of the host contract: the terms of the embedded derivative are the same as those of a stand-alone derivative: and the combined contract is not held for trading or designated at fair value through profit and loss.
+These embedded derivatives are measured at fair value with changes therein recognised in the income statement.
+Derivatives are classified as assets when their fair value is positive, or as liabilities when their fair value is negative.
+Derivative assets and liabilities arising from different transactions are only offset if the transactions are with the same counterparty, a legal right of offset exists, and the parties intend to settle the cash flows on a net basis.
+The method of recognising fair value gains and losses depends on whether derivatives are held for trading or are designated as hedging instruments, and if the latter, the nature of the risks being hedged.
+All gains and losses from changes in the fair value of derivatives held for trading are recognised in the income statement.
+When derivatives are designated as hedges, HSBC classifies them as either: i hedges of the change in fair value of recognised assets or liabilities or firm commitments fair value hedges : ii hedges of the variability in highly probable future cash flows attributable to a recognised asset or liability, or a forecast transaction cash flow hedges : or iii hedges of net investments in a foreign operation net investment hedges.
+Hedge accounting is applied to derivatives designated as hedging instruments in a fair value, cash flow or net investment hedge provided certain criteria are met.
+250 Hedge accounting At the inception of a hedging relationship, HSBC documents the relationship between the hedging instruments and hedged items, its risk management objective and its strategy for undertaking the hedge.
+HSBC also requires a documented assessment, both at hedge inception and on an ongoing basis, of whether or not the derivatives that are used in hedging transactions are highly effective in offsetting the changes attributable to the hedged risks in the fair values or cash flows of the hedged items.
+Interest on designated qualifying hedges is included in Net interest income.
+Fair value hedge Changes in the fair value of derivatives that are designated and qualify as fair value hedging instruments are recorded in the income statement, along with changes in the fair value of the assets, liabilities or group thereof, that are attributable to the hedged risk.
+If a hedging relationship no longer meets the criteria for hedge accounting, the cumulative adjustment to the carrying amount of the hedged item is amortised to the income statement based on a recalculated effective interest rate over the residual period to maturity, unless the hedged item has been derecognised whereby it is released to the income statement immediately.
+Cash flow hedge The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges are recognised in equity within the cash flow hedging reserve.
+Any gain or loss in fair value relating to an ineffective portion is recognised immediately in the income statement.
+Amounts accumulated in equity are recycled to the income statement in the periods in which the hedged item will affect profit or loss.
+However, when the forecast transaction that is hedged results in the recognition of a non-financial asset or a non-financial liability, the gains and losses previously deferred in equity are transferred from equity and included in the initial measurement of the cost of the asset or liability.
+When a hedging instrument expires or is sold, or when a hedge no longer meets the criteria for hedge accounting, any cumulative gain or loss existing in equity at that time remains in equity until the forecast transaction is eventually recognised in the income statement.
+When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was reported in equity is immediately transferred to the income statement.
+Net investment hedge Hedges of net investments in foreign operations are accounted for similarly to cash flow hedges.
+Any gain or loss on the hedging instrument relating to the effective portion of the hedge is recognised in equity: the gain or loss relating to the ineffective portion is recognised immediately in the income statement.
+Gains and losses accumulated in equity are included in the income statement on the disposal of the foreign operation.
+Hedge effectiveness testing To qualify for hedge accounting, IAS 39 requires that at the inception of the hedge and throughout its life, each hedge must be expected to be highly effective prospective effectiveness.
+Actual effectiveness retrospective effectiveness must also be demonstrated on an ongoing basis.
+The documentation of each hedging relationship sets out how the effectiveness of the hedge is assessed.
+The method an HSBC entity adopts for assessing hedge effectiveness will depend on its risk management strategy.
+For prospective effectiveness, the hedging instrument must be expected to be highly effective in achieving offsetting changes in fair value or cash flows attributable to the hedged risk during the period for which the hedge is designated.
+For actual effectiveness, the changes in fair value or cash flows must offset each other in the range of 80 per cent to 125 per cent for the hedge to be deemed effective.
+Hedge ineffectiveness is recognised in the income statement in Net trading income.
+Derivatives that do not qualify for hedge accounting 251 HSBC HOLDIN G S PL C Notes on the Financial Statements continued All gains and losses from changes in the fair values of any derivatives that do not qualify for hedge accounting are recognised immediately in the income statement.
+These gains and losses are reported in Net trading income, except where derivatives are managed in conjunction with financial instruments designated at fair value, other than derivatives managed in conjunction with debt securities issued by the Group in which case gains and losses are reported in Net income from financial instruments designated at fair value.
+The interest on derivatives managed in conjunction with debt securities issued by the Group is recognised in Interest expense.
+All other gains and losses on these derivatives are reported in Net income from financial instruments designated at fair value.
+l Derecognition of financial assets and liabilities Financial assets are derecognised when the right to receive cash flows from the assets has expired: or when HSBC has transferred its contractual right to receive the cash flows of the financial assets, and substantially all the risks and rewards of ownership: or where control is not retained.
+Financial liabilities are derecognised when they are extinguished, that is when the obligation is discharged, cancelled or expires.
+m Offsetting financial assets and financial liabilities Financial assets and financial liabilities are offset and the net amount reported in the balance sheet when there is a legally enforceable right to offset the recognised amounts and there is an intention to settle on a net basis, or realise the asset and settle the liability simultaneously.
+n Subsidiaries, associates and joint ventures HSBC Holdings investments in subsidiaries are stated at cost less impairment losses.
+Reversals of impairment losses are recognised in the income statement if there has been a change in the estimates used to determine the recoverable amount of the investment.
+Investments in associates and interests in joint ventures are recognised using the equity method, initially stated at cost, including attributable goodwill, and are adjusted thereafter for the post-acquisition change in HSBCs share of net assets.
+Unrealised gains on transactions between HSBC and its associates and joint ventures are eliminated to the extent of HSBCs interest in the respective associates or joint ventures.
+Unrealised losses are also eliminated to the extent of HSBCs interest in the associates or joint ventures unless the transaction provides evidence of an impairment of the asset transferred.
+o Goodwill and intangible assets i Goodwill arises on business combinations, including the acquisition of subsidiaries, joint ventures or associates, when the cost of acquisition exceeds the fair value of HSBCs share of the identifiable assets, liabilities and contingent liabilities acquired.
+By contrast, if HSBCs interest in the fair value of the identifiable assets, liabilities and contingent liabilities of an acquired business is greater than the cost to acquire, the excess is recognised immediately in the income statement.
+Intangible assets are recognised separately from goodwill when they are separable or arise from contractual or other legal rights, and their fair value can be measured reliably.
+Goodwill is allocated to cash-generating units for the purpose of impairment testing, which is undertaken at the lowest level at which goodwill is monitored for internal management purposes.
+Impairment testing is performed annually by comparing the present value of the expected future cash flows from a business with the carrying amount of its net assets, including attributable goodwill.
+Goodwill is stated at cost less accumulated impairment losses which are charged to the income statement.
+Goodwill on acquisitions of joint ventures or associates is included in Interests in associates and joint ventures.
+At the date of disposal of a business, attributable goodwill is included in HSBCs share of net assets in the calculation of the gain or loss on disposal.
+ii Intangible assets include the value of in-force long-term assurance business, computer software, trade names, mortgage servicing rights, customer lists, core deposit relationships, credit card customer 252 relationships and merchant or other loan relationships.
+Intangible assets are subject to impairment review if there are events or changes in circumstances that indicate that the carrying amount may not be recoverable.
+Intangible assets that have an indefinite useful life, or are not yet ready for use, are tested for impairment annually.
+This impairment test may be performed at any time during the year, provided it is performed at the same time every year.
+An intangible asset recognised during the current period is tested before the end of the current year.
+Intangible assets that have a finite useful life, except for the value of in-force long-term assurance business, are stated at cost less amortisation and accumulated impairment losses and are amortised over their estimated useful lives.
+Estimated useful life is the lower of legal duration and expected economic life.
+The amortisation of mortgage servicing rights is included within Net fee income.
+Equipment, fixtures and fittings including equipment on operating leases where HSBC is the lessor are stated at cost less any impairment losses and depreciation calculated on a straight-line basis to write off the assets over their accumulated useful lives, which run to a maximum of 35 years but are generally between five years and 20 years.
+HSBC holds certain properties as investments to earn rentals or for capital appreciation, or both.
+Investment properties are included in the balance sheet at fair value with changes therein recognised in the income statement in the period of change.
+Fair values are determined by independent professional valuers who apply recognised valuation techniques.
+Property, plant and equipment is subject to an impairment review if there are events or changes in circumstance which indicate that the carrying amount may not be recoverable.
+q Finance and operating leases Agreements which transfer to counterparties substantially all the risks and rewards incidental to the ownership of assets, but not necessarily legal title, are classified as finance leases.
+When HSBC is a lessor under finance leases the amounts due under the leases, after deduction of unearned charges, are included in Loans and advances to banks or Loans and advances to customers as appropriate.
+Finance income receivable is recognised over the periods of the leases so as to give a constant rate of return on the net investment in the leases.
+When HSBC is a lessee under finance leases the leased assets are capitalised and included in Property, plant and equipment and the corresponding liability to the lessor is included in Other liabilities.
+A finance lease and its corresponding liability are recognised initially at the fair value of the asset or, if lower, the present value of the minimum lease payments.
+Finance charges payable are recognised over the period of the lease based on the interest rate implicit in the lease so as to give a constant rate of interest on the remaining balance of the liability.
+253 HSBC HOLDIN G S PL C Notes on the Financial Statements continued All other leases are classified as operating leases.
+When acting as lessor, HSBC includes the assets subject to operating leases in Property, plant and equipment and accounts for them accordingly.
+Impairment losses are recognised to the extent that residual values are not fully recoverable and the carrying value of the equipment is thereby impaired.
+When HSBC is the lessee, leased assets are not recognised on the balance sheet.
+Rentals payable and receivable under operating leases are accounted for on a straight-line basis over the periods of the leases and are included in General and administrative expenses and Other operating income respectively.
+r Income tax Income tax on the profit or loss for the year comprises current tax and deferred tax.
+Income tax is recognised in the income statement except to the extent that it relates to items recognised directly in shareholders equity, in which case it is recognised in shareholders equity.
+Current tax is the tax expected to be payable on the taxable profit for the year, calculated using tax rates enacted or substantially enacted by the balance sheet date, and any adjustment to tax payable in respect of previous years.
+Current tax assets and liabilities are offset when HSBC intends to settle on a net basis and the legal right to offset exists.
+Deferred tax is recognised on temporary differences between the carrying amounts of assets and liabilities in the balance sheet and the amounts attributed to such assets and liabilities for tax purposes.
+Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent it is probable that future taxable profits will be available against which deductible temporary differences can be utilised.
+Deferred tax is calculated using the tax rates expected to apply in the periods in which the assets will be realised or the liabilities settled.
+Deferred tax assets and liabilities are offset when they arise in the same tax reporting group and relate to income taxes levied by the same taxation authority, and when a legal right to offset exists in the entity.
+Deferred tax relating to actuarial gains and losses on post-employment benefits is recognised directly in equity.
+From 1 January 2005, deferred tax relating to fair value remeasurement of available-for-sale investments and cash flow hedges which are charged or credited directly to equity, is also credited or charged directly to equity and is subsequently recognised in the income statement when the deferred fair value gain or loss is recognised in the income statement.
+s Pension and other post-employment benefits HSBC operates a number of pension and other post-employment benefit plans throughout the world.
+These plans include both defined benefit and defined contribution plans and various other post-employment benefits such as post-employment health-care.
+Payments to defined contribution plans and state-managed retirement benefit plans, when HSBCs obligations under the plans are equivalent to a defined contribution plan, are charged as an expense as they fall due.
+The costs recognised for funding defined benefit plans are determined using the Projected Unit Credit Method, with annual actuarial valuations performed on each plan.
+Actuarial differences that arise are recognised in shareholders equity and presented in the Statement of Recognised Income and Expense in the period in which they arise.
+All cumulative actuarial gains and losses on defined benefit plans as at 1 January 2004 were recognised in equity at the date of transition to IFRSs.
+Past service costs are recognised immediately to the extent that the benefits have vested, and are otherwise recognised on a straight-line basis over the average period until the benefits vest.
+Current service costs and any past service costs, together with the unwinding of the discount on plan liabilities less the expected return on plan assets, are charged to operating expenses.
+The defined benefit liability recognised in the balance sheet represents the present value of defined benefit obligations adjusted for unrecognised past service costs and reduced by the fair value of plan assets.
+Any net defined benefit surplus is limited to unrecognised past service costs plus the present value of available refunds and reductions in future contributions to the plan.
+The costs of providing other post-employment benefits such as post-employment health-care are accounted for on the same basis as defined benefit pension plans.
+254 t Equity compensation plans Shares awarded to an employee on joining HSBC that are made available immediately, with no vesting period attached to the award, are expensed immediately.
+When an inducement is awarded to an employee on commencement of employment with HSBC, and the employee must complete a specified period of service before the inducement vests, the expense is spread over the period to vesting.
+The compensation expense of share options is recognised over the vesting period.
+Compensation expense is determined by reference to the fair value of the options on grant date, and the effect of any non-market vesting conditions such as option lapses.
+An option may lapse if, for example, an employee ceases to be employed by HSBC before the end of the vesting period.
+Estimates of future such employee departures are taken into account when accruing the cost during the service period.
+The cost of bonuses awarded in respect of past service, by which an employee is required to complete a specified period of future service to be entitled to the award, is spread over the period of service rendered to the vesting date.
+The compensation expense charged to the income statement is credited to the share-based payment reserve over the vesting period of the shares and options.
+If awards of shares and options lapse during the vesting period due to an employee leaving employment with HSBC, the charge to date is reversed to the income statement.
+If an award lapses due to an employee leaving a plan but not employment with HSBC or due to HSBC cancelling or modifying a plan, this is accounted for as an acceleration of vesting with full immediate recognition of the outstanding charge in the income statement.
+If awards of shares or options lapse after they have fully vested, the amount in respect of the award charged to the share-based payment reserve is transferred to retained profit.
+u Foreign currencies Items included in the financial statements of each of HSBCs entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements of HSBC are presented in US dollars, which is the Groups presentation currency.
+Transactions in foreign currencies are recorded in the functional currency at the rate of exchange prevailing on the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated into the functional currency at the rate of exchange ruling at the balance sheet date.
+Any resulting exchange differences are included in the income statement.
+Non-monetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated into the functional currency using the rate of exchange at the date of the initial transaction, except for goodwill arising on consolidation, which are translated into the functional currency using the rate of exchange ruling at the balance sheet date.
+Non-monetary assets and liabilities measured at fair value in a foreign currency are translated into the functional currency using the rate of exchange at the date the fair value was determined.
+The results of branches, subsidiaries, joint ventures and associates not reporting in US dollars are translated into US dollars at the average rates of exchange for the reporting period.
+Exchange differences arising from the retranslation of opening foreign currency net investments, and exchange differences arising from retranslation of the result for the reporting period from the average rate to the exchange rate prevailing at the period end, are accounted for in a separate foreign exchange reserve.
+Exchange differences on a monetary item that is part of a net investment in a foreign operation are recognised in the income statement of the separate subsidiary financial statements.
+In consolidated financial statements these exchange differences are recognised in the foreign exchange reserve in shareholders equity.
+In accordance with IFRS 1, HSBC has set the cumulative exchange differences for all foreign operations to zero at the date of transition to IFRSs.
+On disposal of a foreign operation, exchange differences relating thereto and previously recognised in reserves are recognised in the income statement.
+v Provisions Provisions are recognised when it is probable that an outflow of economic benefits will be required to settle a current legal or constructive obligation as a result of past events, and a reliable estimate can be made of the amount of the obligation.
+255 HSBC HOLDIN G S PL C Notes on the Financial Statements continued w Insurance contracts Through its insurance subsidiaries, HSBC issues contracts to customers that contain insurance risk, financial risk or a combination thereof.
+A contract under which HSBC accepts significant insurance risk from another party by agreeing to compensate that party on the occurrence of a specified uncertain future event, is classified as an insurance contract.
+An insurance contract may also transfer financial risk, but is accounted for as an insurance contract if the insurance risk is significant.
+Insurance contracts are accounted for as follows: Premiums Gross insurance premiums for non-life insurance business are reported as income over the term of the insurance contract attributable to the risks borne during the accounting period.
+The unearned premium or the proportion of the business underwritten in the accounting year relating to the period of risk after the balance sheet date is calculated on a daily or monthly pro rata basis.
+Premiums for life insurance contracts are accounted for when receivable, except in unit-linked insurance contracts where premiums are accounted for when liabilities are established.
+Reinsurance premiums are accounted for in the same accounting period as the premiums for the direct insurance to which they relate.
+Claims and reinsurance recoveries Gross insurance claims for non-life insurance contracts include paid claims and movements in outstanding claims reserves.
+The outstanding claims reserves are based on the estimated ultimate cost of all claims incurred but not settled at the balance sheet date, whether reported or not, together with related claim-handling costs and a reduction for the expected value of salvage and other recoveries.
+Reserves for claims incurred but not reported are made on an estimated basis, using appropriate statistical techniques.
+Gross insurance claims for life insurance contracts reflect the total cost of claims arising during the year, including claim handling costs and any policyholder bonuses allocated in anticipation of a bonus declaration.
+The liabilities under non-linked life insurance contracts long-term business provision are calculated by each life insurance operation based on local actuarial principles.
+The liabilities under unit-linked life insurance contracts are at least equivalent to the surrender or transfer value which is calculated by reference to the value of the relevant underlying funds or indices.
+Reinsurance recoveries are accounted for in the same period as the related claim.
+Present value of in-force long-term insurance business A value is placed on insurance contracts that are classified as long-term insurance business and are in force at the balance sheet date.
+The present value of in-force long-term insurance business is determined by discounting future earnings expected to emerge from business currently in force using appropriate assumptions in assessing factors such as recent experience and general economic conditions.
+Movements in the present value of in-force long-term insurance business are included in Other operating income on a gross of tax basis.
+x Investment contracts Customer liabilities under non-linked and unit-linked investment contracts and the linked financial assets are measured at fair value, and the movements in fair value are recognised in the income statement in Net income from financial investments designated at fair value.
+Premiums receivable and amounts withdrawn are accounted for as increases or decreases in the liability recorded in respect of investment contracts.
+Investment management fees receivable are recognised in the income statement over the period of the provision of the investment management services.
+The incremental costs directly related to the acquisition of new investment contracts or renewing existing investment contracts are capitalised and amortised over the period during which the investment management services are provided.
+256 y Debt securities in issue and subordinated liabilities Debt securities in issue are initially measured at fair value, which is normally the consideration received net of directly attributable transaction costs incurred.
+Subsequent measurement is at amortised cost, using the effective interest rate method to amortise the difference between proceeds net of directly attributable transaction costs and the redemption amount over the expected life of the debt, unless the securities are designated at fair value Note 2h.
+z Share capital Shares are classified as equity when there is no contractual obligation to transfer cash or other financial assets.
+Incremental costs directly attributable to the issue of equity instruments are shown in equity as a deduction from the proceeds, net of tax.
+HSBC Holdings plc shares held by HSBC are recognised in Total shareholders equity as a deduction from retained earnings until they are cancelled.
+When such shares are subsequently sold, reissued or otherwise disposed of, any consideration received is included in Total shareholders equity, net of any directly attributable incremental transaction costs and related income tax effects.
+aa Cash and cash equivalents For the purpose of the cash flow statement, cash and cash equivalents include highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of change in value.
+Such investments are normally those with less than three months maturity from the date of acquisition, and include cash and balances at central banks, treasury bills and other eligible bills, loans and advances to banks, and certificates of deposit.
+3 Net income from financial instruments designated at fair value Net income from financial instruments designated at fair value includes: all gains and losses from changes in the fair value of financial assets and liabilities designated at fair value, including liabilities under investment contracts: all gains and losses from changes in the fair value of derivatives that are managed in conjunction with financial assets and liabilities designated at fair value: and interest income, interest expense and dividend income in respect of: financial assets and liabilities designated at fair value: derivatives managed in conjunction with the above, except for interest expense arising on HSBCs debt securities in issue and subordinated liabilities, together with the interest element of derivatives managed in conjunction with them, which are recognised in Interest expense.
+In 2005, HSBC recognised a US$70 million loss on changes in the fair value of these instruments arising from changes in HSBCs own credit risk.
+Progressively, HSBC has been moving to defined contribution plans for all new employees.
+The pension cost for defined contribution plans, which cover 35 per cent of HSBCs employees, was US$389 million 2004: US$351 million.
+Both HSBC and, where relevant and appropriate, the Trustees long-term investment objectives for defined benefit plans are: to limit the risk of the assets failing to meet the liability of the plans over the long-term: and to maximise returns consistent with an acceptable level of risk so as to control the long-term costs of the defined benefit plans.
+Both HSBC and, where relevant and appropriate, the Trustees, consider that the investment policy should be consistent with meeting their mutual overall long-term investment objectives.
+In pursuit of these long-term objectives, an overall benchmark is established for the allocation of the defined benefit plan assets between asset classes.
+In addition, each permitted asset class has its own benchmarks, such as stock market or property valuation indices and desired levels of out performance where relevant.
+This is intended to be reviewed at least triennially within 18 months of the date at which the actual valuation is made, or more frequently if circumstances or local legislation so require.
+The process generally involves an extensive asset and liability review.
+The Groups defined benefit plans, which cover 45 per cent of HSBCs employees, are predominantly funded plans with assets, in the case of most of the larger plans, held in trust or similar funds separate from HSBC.
+The plans are reviewed at least annually or in accordance with local practice and regulations by qualified actuaries.
+The actuarial assumptions used to calculate the defined benefit obligation and related current service cost vary according to the economic conditions of the countries in which they are situated.
+The largest plan exists in the United Kingdom, where the HSBC Bank UK Pension Scheme covers employees of HSBC Bank plc and certain other employees of HSBC.
+This plan comprises a funded defined benefit plan the principal plan which is closed and a defined contribution plan which was established on 1 July 1996 for new employees.
+The latest valuation of the principal plan was made at 31 December 2002 by C G Singer, Fellow of the Institute of Actuaries, of Watson Wyatt LLP.
+At that date, the market value of the principal plans assets was US$9,302 million.
+The actuarial value of the plan assets represented 88 per cent of the benefits accrued to members, after allowing for expected future increases in earnings, and the resulting deficit amounted to US$1,270 million.
+The method adopted for this valuation was the projected unit method and the main assumptions used were a long-term investment return of 6.85 per cent per annum, salary increases of 3.0 per cent per annum, and post-retirement pension 260 increases of 2.5 per cent per annum.
+In anticipation of the above valuation result, HSBC made a payment into the principal plan in February 2003 amounting to US$817 million.
+In addition, following receipt of the valuation results, a further payment of US$137 million was made into the principal plan.
+HSBC decided to continue ongoing contributions to the principal plan at the rate of 20 per cent of pensionable salaries until completion of the next actuarial valuation, due as at 31 December 2005.
+However, in anticipation of the valuation results disclosing a continuing deficit, on 22 December 2005 HSBC Bank plc made an additional contribution of US$1,746 million to the principal plan in order to reduce the deficit of the plan.
+In Hong Kong, the HSBC Group Hong Kong Local Staff Retirement Benefit Scheme covers employees of The Hongkong and Shanghai Banking Corporation and certain other employees of HSBC.
+The plan comprises a funded defined benefit plan which provides a lump sum on retirement but which is now closed to new members and a defined contribution plan.
+The latter was established on 1 January 1999 for new employees.
+The latest valuation of the defined benefit plan was made at 31 December 2004 and was performed by E Chiu, Fellow of the Society of Actuaries of the United States of America, of HSBC Life International Limited, a subsidiary of HSBC Holdings.
+At that date, the market value of the defined benefit plans assets was US$942 million.
+On an ongoing basis, the actuarial value of the plans assets represented 115 per cent of the benefits accrued to members, after allowing for expected future increases in salaries, and the resulting surplus amounted to US$121 million.
+On a wind-up basis, the actuarial value of the plans assets represents 128 per cent of the members vested benefits, based on current salaries, and the resulting surplus amounted to US$206 million.
+The actuarial method used was the projected unit credit method and the main assumptions used in this valuation were a discount rate of 4.0 per cent per annum and long-term salary increases of 3.0 per cent per annum with short-term deviation from 2005 to 2008.
+The HSBC North America U. S. Retirement Income Plan was formed with effect from the close of business on 31 December 2004 by the merger of the HSBC Bank USA Pension Plan and the HSBC Finance Corporation Retirement Income Plan.
+This plan covers employees of HSBC Bank USA, HSBC Finance Corporation, and certain other employees of HSBC.
+It comprises a funded defined benefit plan now closed and a cash balance plan.
+All new employees participate in the cash balance plan.
+The first full actuarial valuation of the merged plan was made at 1 January 2005 by Pedro Nebres, Fellow of the Society of Actuaries and Dan Kutliroff, Enrolled Actuary, of Mercer Human Resource Consulting.
+Both are members of the American Academy of Actuaries.
+At that date, the market value of the merged plans assets was US$2,305 million.
+The actuarial value of the assets represents 137 per cent of the benefits accrued to members, after allowing for expected future increases in earnings.
+The resulting surplus amounted to US$622 million.
+The method employed for this valuation was the projected unit credit method and the main assumptions used were a discount rate of 8.0 per cent per annum and average salary increases of 3.75 per cent per annum.
+These results are preliminary until the Inland Revenue Service grants formal approval for the merger of pension plans which is expected by the end of the second quarter of 2006.
+The HSBC Bank UK Pension Scheme, The HSBC Group Hong Kong Local Staff Retirement Benefit Scheme, and the HSBC North America U. S. Retirement Income Plan cover 38 per cent of HSBCs employees.
+HSBC healthcare benefits plans HSBC also provides post-employment healthcare benefits under plans in the United Kingdom, the United States, Canada, Mexico, France and Brazil, the majority of which are unfunded.
+Post-employment healthcare benefits plans are accounted for in the same manner as defined benefit pension plans.
+Total healthcare cost was US$58 million 2004: US$65 million 261 HSBC HOLDINGS PLC Notes on the Financial Statements continued Post-employment defined benefit plans principal actuarial financial assumptions The principal actuarial financial assumptions used to calculate the Groups obligations under its defined benefit pension and post-employment healthcare plans at 31 December 2005, were as follows.
+HSBC determines the discount rates to be applied to its obligations in consultation with the plans local actuaries, on the basis of current average yields of high quality AA rated or equivalent debt instruments, with maturities consistent with that of the defined benefit obligations.
+The expected rate of return on plan assets is based on historical market returns adjusted for additional factors such as the current rate of inflation and interest rates.
+HSBC calculates that each additional year of longevity assumed in calculating its defined benefit obligation for the HSBC Bank UK Pension Scheme increases its obligation by approximately US$600 million.
+Following the US$1,746 million special contribution to the HSBC Bank UK Pension Scheme in 2005, HSBC expects to make US$390 million of contributions to defined benefit pension plans during 2006.
+Total net actuarial losses recognised in equity at 31 December 2005 were US$1,505 million.
+The total effect of the limit on plan surpluses recognised in equity together with net actuarial losses in 2005 was US$4 million gain 2004: US$4 million loss.
+HSBC expects to make US$19 million of contributions to post-employment healthcare benefit plans during 2006.
+Total net actuarial losses recognised in equity at 31 December 2005 were US$38 million.
+The actuarial assumptions of the healthcare cost trend rates have a significant effect on the amounts recognised.
+A one percentage point change in assumed healthcare cost trend rates would have the following effects on amounts recognised in 2005: 1% increase 1% decrease US$m US$m Increase decrease on the aggregate of the current service cost and interest cost.......................... 8 6 Increase decrease on defined benefit obligation........................................................................... 108 86 HSBC Holdings Employee compensation and benefit expense in respect of HSBC Holdings employees in 2005 amounted to US$166 million 2004: US$106 million.
+The average number of persons employed by HSBC Holdings during 2005 was 433 2004: 421.
+Employees of HSBC Holdings who are members of defined benefit pension plans are principally members of either the HSBC Bank UK Pension Scheme or the HSBC International Staff Retirement Benefit Scheme.
+There is no contractual or stated policy for charging the net defined benefit cost to HSBC Holdings, which is recognised in the consolidated accounts of HSBC in the note above.
+HSBC Holdings pays contributions to plans in accordance with schedules determined by the Trustees following consultation with qualified actuaries.
+The provision at 31 December 2005 in respect of unfunded pension obligations to former Directors amounted to US$16,458,975 2004: US$17,016,000.
+During the year, aggregate contributions to pension schemes in respect of Directors were US$4,819,759 2004: US$4,423,122, including US$3,304,081 2004: US$2,198,072 arising from a Directors waiver of bonus.
+Discretionary bonuses for Directors are based on a combination of individual and corporate performance and are determined by the Remuneration Committee.
+The cost of the conditional awards under the Restricted Share Plan is recognised through an annual charge based on the original cost and the likely level of vesting of shares, apportioned 268 over the period of service to which the award relates.
+Details of Directors remuneration, share options and conditional awards under the Restricted Share Plan are included in the Directors Remuneration Report on pages 215 to 232.
+8 General and administrative expenses Auditors remuneration Auditors remuneration in relation to statutory audit amounted to US$47.0 million 2004: US$41.7 million.
+Included in Further assurance services above are fees paid to KPMG in respect of work relating to preparation for reporting under section 404 of the Sarbanes-Oxley Act of US$11.7 million 2004: US$4.1 million.
+Other accounting firms have been paid a total of US$16.7 million 2004: US$6.6 million for work on this project.
+The following is a description of the type of services included within the categories listed above: Audit-related regulatory reporting services include services for assurance and other services that are reasonably related to the performance of the audit or review of financial statements, including comfort letters and interim reviews.
+Further assurance services include services for advice on accounting matters, reporting on internal controls not connected with the financial statements, due diligence work and environmental audits.
+Tax services include tax compliance services and tax advice.
+Other services include other assurance and advisory services such as translation services, review of financial models and advice on IT security.
+In addition to the above, KPMG estimate they have been paid fees of US$4.5 million 2004: US$4.0 million by parties other than HSBC but where HSBC is connected with the contracting party and therefore may be involved in appointing KPMG.
+These fees arise from services such as auditing mutual funds managed by HSBC and reviewing the financial position of corporate concerns which borrow from HSBC.
+9 Share-based payments During 2005, US$540 million was charged to the income statement in respect of equity-settled share-based payment transactions 2004: US$450 million.
+This expense was based on the fair value of the share-based payment transactions when contracted.
+All of the expense arose under employee share awards made within HSBCs reward structures.
+Calculation of fair values Fair values of share options awards, measured at the date of grant of the option award, are calculated using a binomial lattice model methodology that is based on the underlying assumptions of the Black-Scholes model.
+When modelling options awards with vesting dependent on HSBCs Total Shareholder Return over a period, these performance targets are incorporated into the model using Monte Carlo simulation.
+The expected life of options depends on the behaviour of option holders, which is incorporated into the option model consistent with historic 269 HSBC HOLDINGS PLC Notes on the Financial Statements continued observable data.
+The fair values calculated are inherently subjective and uncertain due to the assumptions made and the limitations of the model used.
+The significant weighted average assumptions used to estimate the fair value of the options granted in 2005 were as follows: 3-year 5-year HSBC  Related Related Share The Group Share Share Option Option HSBC Option Plan Plans Plans Share Plan 1 Risk-free interest rate %.......................................... 4.6 4.3 4.3 4.3 2 Expected life years.................................................. 7.8355 3 Expected volatility %.............................................. 20 20 20 20 1 The risk-free rate was determined from the UK gilts yield curve for the HSBC Holdings Group Share Option Plan awards and UK Savings-Related Share Option Plans.
+A similar yield curve was used for the International Savings-Related Share Option Plans.
+2 Expected life is not a single input parameter but a function of various behavioural assumptions.
+3 Expected volatility is estimated by considering both historic average share price volatility and implied volatility derived from traded options over HSBC shares of similar maturity to those of the employee options.
+Expected dividend yield was determined, denominated in US dollars, to be 12 per cent for the first year and 8 per cent thereafter, consistent with consensus analyst forecasts.
+The HSBC Share Plan The HSBC Share Plan was adopted by HSBC in 2005.
+Under this Plan Performance Share awards, Restricted Share awards and Share Option awards may be made.
+The aim of The HSBC Share Plan is to align the interests of executives to the creation of shareholder value and recognise individual performance and potential.
+Awards are also made under this plan for recruitment and retention purposes.
+Performance Share awards Performance Share awards are made to Senior Executives taking into account individual performance in the prior year.
+Performance Share awards are divided into two equal parts for testing attainment against pre-determined benchmarking.
+One half is subject to a Total Shareholder Return measure, based on HSBCs ranking against a comparator group of 28 major banks.
+The other half of the award is subject to an Earnings Per Share target.
+For each element of the award, shares would be released to the employee according to a sliding scale from 30 to 100 per cent of the award, dependent upon the scale of achievement against the benchmarks and provided that a threshold has been passed.
+If the threshold is not passed, 0 per cent will vest for that part of the award.
+Shares will be released after three years to the extent that the performance conditions are satisfied.
+These awards are forfeited in total if HSBC performance fails to meet the minimum criteria.
+The weighted average fair value of shares awarded by HSBC for Performance Share awards in 2005 was US$9.02.
+270 Restricted Share awards Restricted Share awards are made to eligible employees for recruitment and retention purposes or as part of deferral of annual bonus.
+The awards vest between one and three years from date of award.
+The weighted average fair value of shares awarded by HSBC for Restricted Share Awards in 2005 was US$16.66.
+Share options Share options were granted under the Rules of The HSBC Share Plan to employees in France based on their performance in the previous year.
+The share options are subject to the corporate performance condition, which consists of an absolute Earnings Per Share measure and a Total Shareholder Return measure, based on HSBCs ranking against a comparator group of 28 major banks.
+The options vest after three years and are exercisable up to the fourth anniversary of the date of grant, after which they will lapse.
+The remaining contractual life of options outstanding at the balance sheet date is 4 years.
+None of these options are exercisable at the balance sheet date.
+Savings-related share option plans The savings-related share option plans invite eligible employees to enter into savings contracts to save up to 250 per month, with the option to use the savings to acquire shares.
+The aim of the plan is to align the interests of all employees to the creation of shareholder value.
+The options are exercisable within six months following either the third or the fifth anniversary of the commencement of the savings contract depending on conditions set at grant.
+The exercise price is set at a 20 per cent 2004: 20 per cent discount to the market value at the date of grant.
+271 HSBC HOLDINGS PLC Notes on the Financial Statements continued The weighted average fair value of options granted in the year as at the date of grant was US$3.76 2004: US$3.75.
+The aim of the plan was to align the interests of executives to the creation of shareholder value.
+This was achieved by setting certain Total Shareholder Return targets against a peer group of major banks which must normally be attained in order for the awards to vest.
+No further awards will be made under this Plan following adoption of the HSBC Share Plan in 2005 other than from reinvested scrip dividends.
+Additions during the year also include 321,279 shares awarded to employees of HSBC Holdings.
+The weighted average remaining vesting period as at 31 December 2005 was 2.14 years 2004: 2.52 years.
+Restricted share awards made under the HSBC Holdings Restricted Share Plan 2000 Achievement Shares Achievement shares are utilised to promote widespread interest in HSBC shares among employees and to help foster employee engagement.
+They are awarded to eligible employees after taking into account the employees performance in the prior year.
+Shares are awarded without corporate performance conditions and are released to employees after three years providing the employees have remained continuously employed by HSBC for this period.
+During 2005, 10,245 employees each received an average award of 1,146 shares under this scheme.
+Additions during the year also include 384,797 shares awarded to employees of HSBC Holdings.
+The weighted average fair value of shares awarded by HSBC for Achievement Share Awards in 2005 was US$15.88.
+272 Other awards made under the HSBC Holdings Restricted Share Plan 2000 Other awards were made under the HSBC Holdings Restricted Share Plan 2000 as part deferral of annual bonus.
+Awards were also made for recruitment and retention purposes.
+The awards generally vest from one to three years from the date of award.
+Awards made under this plan ceased in May 2005.
+Awards of restricted shares on or after 27 May 2005 were made under the Rules of the HSBC Share Plan.
+The weighted average remaining vesting period as at 31 December 2005 was 1.09 years 2004: 1.47 years.
+HSBC Holdings Group Share Option Plan The HSBC Holdings Group Share Option Plan was a long-term incentive plan under which certain HSBC employees between 2000 and 2005 were awarded share options.
+The aim of the plan was to align the interests of those higher performing employees to the creation of shareholder value.
+This was achieved by setting certain Total Shareholder Return targets which must normally be attained in order for the awards to vest.
+Options were granted at market value and are normally exercisable between the third and tenth anniversaries of the date of grant, subject to vesting conditions.
+Any options granted after May 2005 will be made under the Rules of the HSBC Share Plan.
+The weighted average fair value of options granted in the year as at the date of grant was US$3.09 2004: US$2.96.
+The number of options, weighted average exercise price, and the weighted average remaining contractual life for options outstanding at the balance sheet date, analysed by exercise price range, were as follows: 2005 2004 6.00 - 8.00 8.01 - 10.00 Exercise price range..................................................... 6.00 - 8.00 8.01 - 10.00 Number 000s................................................................ 53,242 156,741 55,246 165,424 Weighted average exercise price................................. 6.91 8.45 6.91 8.46 Weighted average remaining contractual life years........ 5.63 7.05 6.46 7.86 Of which exercisable: Number 000s............................................................ 411 84,145 45,463 Weighted average exercise price............................. 7.46 8.55 8.72 273 HSBC HOLDINGS PLC Notes on the Financial Statements continued HSBC Holdings Executive Share Option Scheme The HSBC Holdings Executive Share Option Scheme was a long-term incentive scheme under which certain senior HSBC employees were awarded share options before the adoption of the HSBC Holdings Group Share Option Plan in 2000.
+The aim of the plan was to align the interests of those higher performing senior employees to the creation of shareholder value.
+This was achieved by setting certain Total Shareholder Return targets to be attained in order for the awards to vest.
+Options were granted at market value and were exercisable between the third and tenth anniversaries of the date of grant, subject to vesting conditions.
+The weighted average fair value of options as at the last date of grant during 2000 was US$5.26.
+Options over HSBC France shares granted between 1994 and 1999 vested upon announcement of HSBCs intent to acquire HSBC France and were therefore included in the valuation of HSBC France.
+HSBC France granted 909,000 options in 2000 after the public announcement of the acquisition and these options did not vest as a result of the change in control.
+The options were subject to continued employment and vested on 1 January 2002.
+The HSBC France shares obtained on exercise of the options are exchangeable for HSBCs ordinary shares of US$0.50 each in the same ratio as the Exchange Offer for Crdit Commercial fide France shares 13 ordinary shares of US$0.50 for each HSBC France share.
+Options were granted at market value and are exercisable within 10 years of the date of grant.
+At the date of its acquisition in 2000, certain of HSBC Frances subsidiary companies also operated employee share 274 option plans under which options could be granted over their respective shares.
+On exercise of certain of these options, the subsidiary shares are exchanged for HSBC ordinary shares.
+The total number of HSBC ordinary shares exchangeable under such arrangements was 821,466 shares during the year.
+HSBC Finance Corporation Upon acquisition, HSBC Finance Corporation share options previously granted were converted to share options over HSBC ordinary shares of US$0.50 each at a rate of 2.675 HSBC share options the same ratio as the Exchange Offer for HSBC Finance Corporation for each HSBC Finance Corporation share option.
+Options granted under HSBC Finances own share option schemes prior to the announcement of the acquisition by HSBC in November 2002 vested as options over HSBC shares upon acquisition by HSBC.
+Options granted after the announcement of the acquisition in November 2002 but prior to its completion on 28 March 2003, generally vest equally over 4 years and expire 10 years from the date of grant.
+Overseas tax included Hong Kong profits tax of US$639 million 2004: US$539 million.
+Subsidiaries in Hong Kong provided for Hong Kong profits tax at the rate of 17.5 per cent 2004: 17.5 per cent on the profits for the year assessable in Hong Kong.
+Other overseas subsidiaries and overseas branches provided for taxation at the appropriate rates in the countries in which they operate.
+In addition to the amount charged to the income statement, the aggregate amount of current and deferred tax, relating to items that are taken directly to equity, was US$437 million 2004: US$319 million.
+11 Dividends Dividends to shareholders of the parent company amounted to US$7,750 million in 2005 2004: US$6,932 million.
+Of this, US$7,729 million was dividends paid on ordinary share capital 2004: US$6,932 million and US$21 million was paid on preference shares classified as equity.
+2005 2004 Settled in Settled in US$ per Total scrip US$ per Total scrip share US$m US$m share US$m US$m Fourth interim dividend previous year............. 0.270 3,007 431 First interim dividend for current year.............. 0.140 1,563 677 0.130 1,425 747 Second interim dividend for current year......... 0.140 1,574 311 0.130 1,436 746 Third interim dividend for current year............ 0.140 1,585 392 0.130 1,444 255 Third interim dividend for previous year.......... 0.240 2,627 346 0.690 7,729 1,811 0.630 6,932 2,094 The Directors have declared a fourth interim dividend in respect of the financial year ended 31 December 2005 of US$0.31 per ordinary share, a distribution of US$3,513 million.
+The fourth interim dividend will be payable on 11 May 2006 to shareholders on the Register at the close of business on 24 March 2006.
+12 Earnings per share Basic earnings per ordinary share was calculated by dividing the earnings of US$15,060 million 2004: US$12,918 million by the weighted average number of ordinary shares, excluding own shares held, outstanding in 2005 of 11,038 million 2004: 10,907 million.
+2005 2004 US$m US$m Profit attributable to shareholders of the parent company.............................................................. 15,081 12,918 Dividend payable on preference shares classified as equity........................................................... 21 Profit attributable to the ordinary shareholders of the parent company.......................................... 15,060 12,918 Diluted earnings per ordinary share was calculated by dividing the basic earnings, which require no adjustment for the effects of dilutive potential ordinary shares including share options outstanding not yet exercised, by the weighted average number of ordinary shares outstanding, excluding own shares held, plus the weighted average number of ordinary shares that would be issued on ordinary conversion of dilutive potential ordinary shares in 2005 of 11,171 million 2004: 11,054 million.
+13 Segment analysis In the following segmental analysis, the benefit of shareholders funds impacts the analysis only to the extent that these funds are actually allocated to businesses in the segment by way of intra-HSBC capital and funding structures.
+By geographical region Geographical information is classified by the location of the principal operations of the subsidiary undertaking, or, for The Hongkong and Shanghai Banking Corporation, HSBC Bank, HSBC Bank Middle East, HSBC Finance and HSBC Bank USA, by the location of the branch responsible for reporting the results or advancing the funds.
+Due to the nature of HSBCs structure, the analysis of profits shown below includes intra-HSBC items between geographical regions with the elimination shown in a separate column.
+The Rest of Asia-Pacific geographical segment includes the Middle East, India and Australasia.
+Shared costs are included in segments on the basis of the actual recharges made.
+279 HSBC HOLDINGS PLC Notes on the Financial Statements continued By customer group HSBCs operations include a number of shared support services and head office functions.
+The costs of these functions are allocated to customer groups, where appropriate, on a systematic and consistent basis.
+In addition, a number of income and expense items include the effect of financial transactions entered into in the ordinary course of business between customer groups co-operating within the integrated HSBC Group.
+The following analysis includes inter-segment amounts within each customer group with the elimination shown in a separate column.
+14 Analysis of financial assets and liabilities by measurement basis Financial assets and financial liabilities are measured on an ongoing basis either at fair value or at amortised cost.
+The summary of significant accounting policies in Note 2 describe how the classes of financial instruments are measured, and how income and expenses, including fair value gains and losses, are recognised.
+Derivatives enable users to increase, reduce or alter exposure to credit or market risks.
+HSBC makes markets in derivatives for its customers and uses derivatives to manage its exposure to credit and market risks.
+Derivatives are carried at fair value and shown in the balance sheet as separate totals of assets and liabilities.
+Asset values represent the cost to HSBC of replacing all transactions with a fair value in HSBCs favour assuming which all HSBCs relevant counterparties default at the same time, and that transactions can be replaced instantaneously.
+Liability values represent the cost to HSBCs counterparties of replacing all their transactions with HSBC with a fair value in their favour if HSBC were to default.
+Derivative assets and liabilities on different transactions are only setoff if the transactions are with the same counterparty, a legal right of set-off exists and the cash flows are intended to be settled on a net basis.
+Use of derivatives HSBC transacts derivatives for three primary purposes: to create risk management solutions for clients, for proprietary trading purposes, and to manage and hedge HSBCs own risks.
+Derivatives except for derivatives which are designated and effective hedging instruments as defined in IAS 39 are held for trading.
+The held for trading classification includes two types of derivatives: those used in sales and trading activities, and those instruments that are used for risk management purposes but which for various reasons do not meet the qualifying criteria for hedge accounting.
+The second type of held for trading category includes derivatives managed in conjunction with financial instruments designated at fair value.
+These activities are described more fully below.
+HSBCs derivative activities give rise to significant open positions in portfolios of derivatives.
+These positions are managed constantly to ensure that they remain within acceptable risk levels, with matching deals being utilised to achieve this where necessary.
+When entering into derivative transactions, HSBC employs the same credit risk management procedures to assess and approve potential credit exposures as are used for traditional lending.
+Trading derivatives Most of HSBCs derivative transactions relate to sales and trading activities.
+Sales activities include the structuring and marketing of derivative products to customers to enable them to take, transfer, modify or reduce current or expected risks.
+Trading activities in derivatives are entered into principally for the purpose of generating profits from short-term fluctuations in price or margin.
+Positions may be traded actively or be held over a period of time to benefit from expected changes in exchange rates, interest rates, equity prices or other market parameters.
+Trading includes market-making, positioning and arbitrage activities.
+Market-making entails quoting bid and offer prices to other market participants for the purpose of generating revenues based on spread and volume: positioning means managing market risk positions in the expectation of benefiting from favourable movements in prices, rates or indices: arbitrage involves identifying and profiting from price differentials between markets and products.
+As mentioned above, other derivatives classified as held for trading include non-qualifying hedging derivatives, ineffective hedging derivatives and the components of hedging derivatives that are excluded from assessing hedge effectiveness.
+Non-qualifying hedging derivatives are entered into for risk management purposes but do not meet the criteria for hedge accounting.
+These include derivatives managed in conjunction with financial instruments designated at fair value.
+Ineffective hedging derivatives were previously designated as hedges under UK GAAP, but no longer meet the criteria for hedge accounting.
+286 Gains and losses from changes in the fair value of derivatives that do not qualify for hedge accounting are reported in Net trading income, except for derivatives managed in conjunction with financial instruments designated at fair value, where gains and losses are reported in Net income from financial instruments designated at fair value together with the gains and losses on the hedged items.
+Changes in the fair values of trading derivatives are inclusive of contractual interest.
+Changes in the fair value of derivatives managed in conjunction with financial instruments designated at fair value are included in Net income from financial instruments designated at fair value inclusive of contractual interest unless the derivatives are managed with debt securities in issue, in which case the contractual interest is shown in interest payable with the interest payable on the issued debt.
+Substantially all of HSBC Holdings derivatives entered into with HSBC undertakings are managed in conjunction with financial liabilities designated at fair value.
+This enables HSBC to optimise the overall cost to the Group of accessing debt capital markets, and to mitigate the market risk which would otherwise arise from structural imbalances in the maturity and other profiles of its assets and liabilities.
+The accounting treatment of hedge transactions varies according to the nature of the instrument hedged and the type of hedge transactions.
+Derivatives may qualify as hedges for accounting purposes if they are fair value hedges, cash flow hedges, or net investment hedges.
+These are described under the relevant headings below: 287 HSBC HOLDINGS PLC Notes on the Financial Statements continued Contract amounts of derivatives held for hedging purposes by product type At 31 December 2005 Cash flow Fair value hedge hedge US$m US$m Foreign exchange........................................................................................................................... 16,940 2,699 Interest rate..................................................................................................................................... 174,875 19,745 191,815 22,444 With respect to exchange rate and interest rate contracts, the notional or contractual amounts of these instruments indicate the nominal value of transactions outstanding at the balance sheet date: they do not represent amounts at risk.
+Fair value hedges HSBCs fair value hedges principally consist of interest rate swaps that are used to protect against changes in the fair value of fixed-rate long-term financial instruments due to movements in market interest rates.
+For qualifying fair value hedges, all changes in the fair value of the derivative and in the fair value of the item in relation to the risk being hedged are recognised in income.
+If the hedge relationship is terminated, the fair value adjustment to the hedged item continues to be reported as part of the basis of the item and is amortised to income as a yield adjustment over the remainder of the hedging period.
+The fair values of outstanding derivatives designated as fair value hedges at 31 December 2005, were assets of US$149 million and liabilities of US$471 million.
+The amounts and timing of future cash flows, representing both principal and interest flows, are projected for each portfolio of financial assets and liabilities on the basis of their contractual terms and other relevant factors, including estimates of prepayments and defaults.
+The aggregate principal balances and interest cash flows across all portfolios over time form the basis for identifying gains and losses on the effective portions of derivatives designated as cash flow hedges of forecast transactions.
+Gains and losses are initially recognised directly in equity, in the cash flow hedging reserve, and are transferred to the income statement when the forecast cash flows affect the income statement.
+At 31 December 2005, the fair values of outstanding derivatives designated as cash flow hedges of forecast transactions were assets of US$3,528 million and liabilities of US$1,062 million.
+At 31 December 2005, a loss of US$96 million was recognised due to hedge ineffectiveness.
+Hedges of net investments in foreign operations HSBCs consolidated balance sheet is affected by exchange differences between the US dollar and all the non-US dollar functional currencies of subsidiaries.
+HSBC hedges structural foreign exchange exposures only in limited circumstances.
+Hedging is undertaken using forward foreign exchange contracts which are accounted for as hedges of a net investment in a foreign operation, or by financing with borrowings in the same currencies as the functional currencies involved.
+At 31 December 2005, the fair values of outstanding financial instruments designated as hedges of net investments in foreign operations were liabilities of US$114 million.
+The ineffectiveness recognised in Net trading income in the year ended 31 December 2005 that arose from hedges in foreign operations was US$nil.
+Sensitivity of fair values to changing significant assumptions to reasonably possible alternatives Fair values of certain derivatives recognised in the financial statements may be determined in whole or in part using valuation techniques based on assumptions that are not supported by prices from current market transactions or observable market data.
+In these instances, the net fair value recorded in the financial statements is the sum of three components: the value given by application of a valuation model, based upon HSBCs best estimate of the most appropriate model inputs: any fair value adjustments to account for market features not included within the valuation model for example, bid-mid spreads, counterparty credit spreads and or market data uncertainty : and inception profit, or an unamortised element thereof, not recognised immediately in the income statement in accordance with Note 2 k. As the valuation models are based upon assumptions, changing the assumptions changes the resultant estimate of fair value.
+HSBC performs various sensitivity analyses on its valuation assumptions.
+The potential effect of using reasonably possible alternative assumptions in valuation models has been quantified as a reduction in assets of approximately US$77 million using less favourable assumptions, and an increase in assets of approximately US$73 million using more favourable assumptions.
+The ranges of reasonably possible alternative assumptions are established by application of professional judgement to an analysis of the data available to support each assumption.
+The total amount of the change in fair value estimated using a valuation technique that was recognised in the year ended 31 December 2005 was a loss of US$129 million.
+The fair value of these was US$68,933 million 2004: US$60,655 million.
+290 Debt Debt Treasury securities securities and other  eligible bills for-sale maturity securities Total US$m US$m US$m US$m US$m Carrying amount at 31 December 2005 Listed on a recognised exchange............... 62,187 4,022 3,394 69,603 Unlisted..................................................... 25,042 79,512 4,060 4,125 112,739 25,042 141,699 8,082 7,519 182,342 The fair value of listed held-to-maturity debt securities as at 31 December 2005 was US$4,143 million.
+Included within listed investments are US$1,246 million 2004: US$3,120 million of investments listed in Hong Kong.
+19 Securitisations and other structured transactions HSBC enters into transactions in the normal course of business by which it transfers recognised financial assets directly to third parties or to special purpose entities.
+These transfers may give rise to the full or partial derecognition of the financial assets concerned.
+Full derecognition occurs when HSBC transfers its contractual right to receive cash flows from the financial assets and substantially all the risks and rewards of ownership.
+The risks include credit, interest rate, currency, prepayment and other price risks.
+Partial derecognition occurs when HSBC sells or otherwise transfers financial assets in such a way that some but not substantially all of the risks and rewards of ownership are transferred but control is retained.
+These financial assets are recognised on the balance sheet to the extent of HSBCs continuing involvement.
+The majority of financial assets that do not qualify for derecognition are i debt securities held by counterparties as collateral under repurchase agreements or ii equity securities lent under securities lending agreements.
+The following table analyses the carrying amount of financial assets at 31 December 2005 that did not qualify for derecognition during the year, and their associated financial liabilities: 291 HSBC HOLDINGS PLC Notes on the Financial Statements continued Carrying Carrying amount of amount of transferred associated assets liabilities US$m US$m Nature of transaction Repurchase agreements.................................................................................................................. 92,989 75,745 Securities lending agreements........................................................................................................ 14,607 5,858 107,596 81,603 A small proportion of financial assets that do not qualify for derecognition relate to loans, credit cards, debt securities and trade receivables that have been securitised under arrangements by which HSBC retains a continuing involvement in such transferred assets.
+Continuing involvement may entail retaining the rights to future cash flows arising from the assets after investors have received their contractual terms for example, interest rate strips : providing subordinated interest: liquidity support: continuing to service the underlying asset: or entering into derivative transactions with the securitisation vehicles.
+As such, HSBC continues to be exposed to risks associated with these transactions.
+The rights and obligations that HSBC retains from its continuing involvement in securitisations are initially recorded as an allocation of the fair value of the financial asset between the part that is derecognised and the part that continues to be recognised on the date of transfer.
+The following analyses the carrying amount of financial assets at 31 December 2005, to the extent of HSBCs continuing involvement, that qualified for partial derecognition during the year, and their associated liabilities: Carrying Carrying amount of Carrying amount of assets amount of assets currently associated original recognised liabilities US$m US$m US$m Nature of transaction Securitisations.............................................................................................. 6,731 256 256 20 Interests in associates and joint ventures Principal associates of HSBC At 31 December 2005 HSBCs Issued Country of interest in equity Carrying Fair incorporation equity capital capital amount value US$m US$m Listed Peoples Republic of Bank of Communications Co. Limited... China 19.9% RMB45,804m 2,480 4,143 Peoples Ping An Insurance Group Company of Republic of China Limited..................................... China 19.9% RMB6,195m 1,837 2,274 The Saudi British Bank........................... Saudi Arabia 40% SR2,500m 772 8,800 5,089 15,217 Unlisted 1,6 AEA Investors Cayman I LP............. 2,7 Barrowgate Limited.............................. Hong Kong 24.64% US$81m 32m fully paid British Arab Commercial Bank Limited.. England 46.51% 5m nil paid Erisa S. A................................................. France 49.99% 115m 3,6 HSBC PE European No.
+Peoples Republic of Industrial Bank Company Limited.......... China 15.98% RMB3,999m Private Equity Portfolio Investment 4,6 LP Inc............................................. 5 Wells Fargo HSBC Trade Bank, N. A...... United States 20% 292 1 Venture Capital Limited partnership.
+Address of principal place of business is c o Walkers SPV Limited, Walker House, 87 Mary Street, PO Box 908GT, George Town, Grand Cayman, Cayman Islands.
+2 Issued equity capital is less than HK$1 million.
+Address of principal place of business is 68 Upper Thames Street, London EC4V 3PE 4 Limited partnership.
+Address of principal place of business is 68 Upper Thames Street, London EC4V 3PE 5 Issued equity capital is less than US$1 million.
+6 Limited partnership where the group owns more than 50 per cent but does not have control due to the limitations within these types of entities.
+7 Investment held through Hang Seng Bank Limited, a 62.14 per cent owned subsidiary of HSBC.
+All the above investments in associates are owned by subsidiaries of HSBC Holdings.
+During the year, HSBCs shareholding of 21.16 per cent in the Cyprus Popular Bank Limited trading as Laiki Group was reclassified as a held for sale asset.
+HSBC has US$4,318 million 2004: US$nil of investments in associates and joint ventures listed in Hong Kong.
+For the year ended 31 December 2005, HSBCs share of associates and joint ventures tax on profit was US$225 million 2004: US$45 million, which is included within share of profit in associates and joint ventures on the income statement.
+HSBCs 15.98 per cent investment in Industrial Bank Company Limited was equity accounted with effect from May 2004, reflecting HSBCs significant influence over this associate.
+HSBCs significant influence was established as a result of representation on the Board of Directors, and in accordance with the Technical Support and Assistance Agreements, HSBC is assisting in the development of financial and operating policies.
+HSBCs 19.9 per cent investment in Ping An Insurance Company of China Limited was equity accounted with effect from 31 August 2005, reflecting HSBCs significant influence over this associate.
+HSBCs significant influence was established as a result of the acquisition of an additional participation of 9.91 per cent on 31 August 2005, for a consideration of US$1,039 million.
+HSBCs significant influence on Bank of Communications Co. Limited was established as a result of representation on the Board of Directors, and in accordance with the Technical Support and Assistance Agreements, HSBC is assisting in the development of financial and operating policies and a number of staff have been seconded to assist in this process.
+The statutory accounting reference date of Bank of Communications Co. Limited and Ping An Insurance Company of China Limited is 31 December.
+For the year ended 31 December 2005, these companies were included on the basis of financial statements made up to 30 September 2005, taking into account changes in the subsequent period from 1 October 2005 to 31 December 2005 that would have materially affected their results.
+HSBC also has a 100 per cent interest in the issued preferred stock less than US$1 million of Wells Fargo HSBC Trade Bank, N. A. HSBC has a 40 per cent economic interest in Wells Fargo HSBC Trade Bank, N. A. by virtue of the joint agreement under which HSBCs equity capital and preferred stock interests are being held.
+293 HSBC HOLDINGS PLC Notes on the Financial Statements continued Interests in joint ventures At 31 December 2005 HSBCs interest in Issued Country of Principal equity equity Incorporation activity capital capital Holding HCM Holdings Limited............................................... England Company 51% 3m HCM Holdings Limited prepares its financial statements up to 31 December and its principal country of operation is the United Kingdom.
+During 2005 HCM Holdings disposed of its trading subsidiary.
+The remaining investment represents an interest in a holding company.
+Although HSBC owns more than 50 per cent of the equity capital of HCM Holdings Limited, the agreement with the other shareholder means that there are severe long-term restrictions which substantially hinder HSBCs rights over the assets and management of the entity.
+HSBC does however continue to exercise significant influence and together with the other shareholder controls the entity.
+The calculation of the PVIF is based upon assumptions that take into account risk and uncertainty.
+To project these cash flows, a variety of assumptions regarding future experience is made by each insurance operation which reflect local market conditions and managements judgement of local future trends.
+Some of the Groups insurance operations incorporate risk margins separately into the projection assumptions for each product, while others incorporate risk margins into the overall discount rate.
+This is reflected in the wide range of risk discount rates applied.
+2 The amortisation charge for the year is recognised within the income statement under Amortisation of intangible assets, with the exception of the amortisation of mortgage servicing rights that are charged to net fee income.
+22 Impairment of assets other than financial instruments During 2005 there was no impairment of goodwill 2004: US$nil.
+Impairment testing in respect of goodwill is performed annually by comparing the recoverable amount of cash generating units CGUs that has been determined at 1 July 2005 based on a value in use calculation.
+That calculation uses cash flow estimates based on managements cash flow projections, extrapolated in perpetuity using a nominal long-term growth rate based on current GDP and inflation for the countries within which the CGU operates.
+The discount rate used is based on the cost of capital HSBC allocates to investments in the countries within which the CGU operates.
+296 The cost of capital assigned to an individual cash-generating unit and used to discount its future cash flows can have a significant effect on its valuation.
+The cost of capital percentage is generally derived from an appropriate Capital Asset Pricing Model, which itself depends on inputs reflecting a number of financial and economic variables including the risk-free rate in the country concerned and a premium to reflect the inherent risk of the business being evaluated.
+These variables are established on the basis of management judgement.
+Management judgement is required in estimating the future cash flows of the cash-generating units.
+These values are sensitive to the cash flows projected for the periods for which detailed forecasts are available, and to assumptions regarding the long-term sustainable pattern of cash flows thereafter.
+While the acceptable range within which underlying assumptions can be applied is governed by the requirement for resulting forecasts to be compared with actual performance and verifiable economic data in future years, the cash flow forecasts necessarily and appropriately reflect managements view of future business prospects.
+The following CGUs include in their carrying value goodwill that is a significant proportion of total goodwill reported by HSBC.
+These CGUs do not carry on their balance sheet any intangible assets with indefinite useful lives, other than goodwill.
+The only circumstances where a reasonably possible change in key assumptions might have caused an impairment loss to be recognised was in respect of Private Banking Europe where: a fall of 0.9% in the long-term growth rate beyond the initial cash flow projections: or an increase of 0.8% in the discount rate would have caused an impairment loss to be recognised.
+Recognising this the calculation of the value in use for Private Banking Europe, based on discounted projected cash flows, has been additionally benchmarked against market transactions in private banking companies in Europe to ensure the carrying value is supportable.
+1 Includes assets with a net book value of US$13 million 2004: US$12 million pledged as security for liabilities.
+2 At 31 December 2005, HSBC had US$1,256 million 2004: US$878 million of contractual commitments to acquire property, plant and equipment.
+Investment properties in Hong Kong, the Macau Special Administrative Region and mainland China, which represent 25 per cent by value of HSBCs investment properties subject to revaluation, were valued by DTZ Debenham Tie Leung Limited, which is a member of the Hong Kong Institute of Surveyors.
+As a result of the revaluation, the net book value of investment properties increased by US$201 million 2004: surplus of US$99 million.
+A surplus of US$201 million 2004: surplus of US$99 million, was credited to the income statement for the year ended 31 December 2005.
+HSBC Holdings had no investment properties at 31 December 2005 or 2004.
+Included within Other operating income was rental income of US$116 million 2004: US$67 million earned by HSBC on its investment properties.
+Direct operating expenses of US$39 million 2004: US$14 million incurred in respect of the investment properties during the year were recognised in General and administrative expenses.
+Direct operating expenses arising in respect of investment properties that did not generate rental income during 2005 amounted to US$3 million 2004: US$1 million.
+HSBC recognised US$10 million 2004: US$9 million as contractual obligations to purchase, construct, develop, maintain or enhance investment properties.
+299 HSBC HOLDINGS PLC Notes on the Financial Statements continued HSBC properties leased to customers HSBC properties leased to customers, none of which was held by HSBC Holdings, included US$646 million at 31 December 2005 2004: US$552 million let under operating leases, net of accumulated depreciation of US$42 million 2004: US$53 million.
+2 Issued equity capital is less than US$1 million.
+All of the above subsidiaries are included in the consolidation.
+Details of all HSBC companies will be annexed to the next Annual Return of HSBC Holdings filed with the UK Registrar of Companies.
+All the above make their financial statements up to 31 December except for HSBC Bank Argentina S. A. HSBC La Buenos Aires Seguros S. A. and Maxima S. A. AFJP, whose financial statements are made up to 30 June annually.
+The principal countries of operation are the same as the countries of incorporation except for HSBC Bank Middle East Limited which operates mainly in the Middle East, and HSBC Life International Limited which operates mainly in Hong Kong.
+301 HSBC HOLDINGS PLC Notes on the Financial Statements continued Subsidiaries which experience significant restrictions on their ability to transfer funds to HSBC in the form of cash dividends or to repay loans and advances None of the Groups subsidiaries has experienced significant restrictions on paying dividends or repaying loans and advances except in the case of HSBC Argentina during the recent debt crisis.
+All regulated banking and insurance entities are subject to regulations which requires them to maintain capital ratios at agreed levels and so govern the availability of funds available for distribution.
+Subsidiaries where HSBC owns less than 50 per cent of the voting rights HSBCs interest in equity capital Description of relationship Subsidiary % that gives HSBC control 2005 Beijing HSBC Insurance Brokers Limited 24.9 HSBC has the right to appoint the majority of the board, therefore has management control.
+HSBC Insurance Brokers India Private Limited 25.9 HSBC has the right to appoint the majority of the board, therefore has management control.
+HSBC Private Equity Fund 3 38.8 HSBC is the fund manager and controls the fund.
+HSBC Continental European Alpha Fund 6.1 The fund is a Wider Purpose Fund and consolidation is required under IAS 27 Consolidated and Separate Financial Statements.
+HSBC Global Technology Alpha Fund 48.7 The fund is a Wider Purpose Fund and consolidation is required under IAS 27.
+2004 Beijing HSBC Insurance Brokers Limited 24.9 HSBC has the right to appoint the majority of the board, therefore has management control.
+HSBC Private Equity Fund 3 47.3 HSBC is the fund manager and controls the fund.
+HSBC Continental European Alpha Fund 19.9 The fund is a Wider Purpose Fund and consolidation is required under IAS 27.
+Investments where HSBC owns 20 per cent or more of the voting rights but does not classify the investment as a subsidiary, joint venture or associate HSBCs interest in equity capital Description of relationship that results in HSBC accounting Investment % for entity as an investment 2005 Zhong-Run Company Limited 25.0 Entity is held by a venture capital organisation which is exempt from classifying investments as associates under IAS 28.
+Acquisitions HSBC made the following acquisitions of subsidiaries or business operations in 2005, which were accounted for using the purchase method: On 1 December 2005, HSBC Financial Corporation Limited, a wholly-owned subsidiary of HSBC, acquired 100 per cent of the share capital of Metris Companies Inc. Metris for a cash consideration of US$1,595 million.
+Metris was the 11th largest issuer of MasterCard and Visa Cards in the US.
+Goodwill of US$521 million arose from this acquisition.
+The goodwill on the Metris acquisition represents value obtainable from synergies with HSBC, expertise HSBC brings to the proposition and the platform the acquisition provides for the Group to extend its presence in the near-prime credit card segment of the US market.
+The post acquisition profit before tax of Metris was US$6 million.
+HSBC also made the following acquisitions of subsidiaries or business operations in 2005, which were accounted for using the purchase method: i On 1 June 2005, HSBC Investments USA Inc. a wholly-owned subsidiary of HSBC, acquired Atlantic Advisors LLC for a contingent consideration of US$9 million.
+Goodwill of US$9 million arose from this 302 acquisition.
+ii On 6 June 2005, HSBC Financial Corporation Limited, a wholly owned subsidiary of HSBC, acquired the entire share capital of Invis Incorporated for a consideration of US$13 million.
+Goodwill of US$4 million arose from this acquisition.
+iii On 31 August 2005, HSBC Bank Panama S. A. a wholly owned subsidiary of HSBC, acquired the entire share capital of the Financomer Group for a cash consideration of US$21 million.
+Goodwill of US$13 million arose from this acquisition.
+iv On 31 August 2005, HSBC acquired a 70.1 per cent equity interest in Dar Es Salaam Investment Bank of Iraq for a cash consideration of US$15 million.
+v Increase in stake in an existing subsidiary is excluded from the table below.
+On 31 December 2005, HSBC increased its stake in HSBC Trinkaus & Burkhardt KGaA by 4.42 per cent to 77.89 per cent for a cash consideration of US$119 million.
+Goodwill of US$76 million arose on the acquisition.
+The sale was completed on 6 February 2006.
+Neither a gain or loss was created on reclassifying this asset as held for sale.
+The interest is presented within the geographical segment Europe.
+Property, plant and equipment The property, plant and equipment classified as held for sale is a result of repossession of property that had been pledged as collateral by the customers.
+These assets are disposed of within 12 months of acquisition.
+Neither a gain or loss was created on reclassifying these assets as held for sale and the majority arose within the geographical segment North America.
+Receivables The receivables classified as held for sale relate to mortgage loans which HSBC no longer offers to its customers.
+An agreement to sell the portfolio has been signed, and the sale is scheduled to be completed in March 2006.
+Neither a gain or loss was created on reclassifying these assets as held for sale.
+They are presented within the geographical segment South America.
+At 31 December 2005, the accumulated amount of the change in fair value attributable to changes in credit risk was US$56 million.
+At 31 December 2005, the accumulated amount of the increase in fair value includes a decrease of US$37 million attributable to changes in credit risk.
+The hedged portion of these debt securities is presented within the balance sheet caption Financial liabilities designated at fair value, with the remaining portion included within Trading liabilities.
+For this reason, no detailed table of claims development has been provided.
+This is because a significant majority of the non-life insurance business claims are settled within a short period of time.
+These include death claims, surrenders, lapses, the setting up of liability to policyholders at the initial inception of the policy, the declaration of bonuses and other amounts attributable to policyholder.
+30 Provisions Total provisions at 31 December 2005 were US$1,966 million 2004: US$4,071 million, of which US$530 million 2004: US$1,435 million relates to deferred tax and US$1,436 million 2004: US$2,636 million relates to other provisions.
+Of this amount, US$458 million 2004: US$569 million has no expiry date and US$377 million 2004: US$404 million is scheduled to expire within 10 years.
+HSBC Holdings Deferred tax liability 2005 2004 US$m US$m Temporary differences: short-term timing differences................................................................................................... 5 1 Provision for tax on profit remitted from overseas.......................................................................... 65 65 70 64 Deferred tax is not recognised on temporary differences associated with investments in subsidiaries and branches because earnings are intended to be indefinitely reinvested in the case of subsidiaries and no further tax is expected to arise in the foreseeable future in the case of branches.
+The total amount of such relevant temporary differences amounted to US$15,367 million 2004: US$12,681 million.
+There are no deductible temporary differences, unused tax losses and unused tax credits for which no deferred tax asset is recognised in the balance sheet.
+Included within Other provisions are: i Provisions for onerous property contracts of US$149 million 2004: US$202 million, of which US$74 million 2004: US$66 million relates to discounted future costs associated with leasehold properties that became vacant as a consequence of HSBCs move to Canary Wharf in 2002.
+The provisions cover rent voids while finding new tenants, shortfalls in expected rent receivable compared with rent payable, and the cost of refurbishing the buildings to attract tenants.
+Uncertainties arise from movements in market rents, delays in finding new tenants and the timing of rental reviews.
+ii Labour, civil and fiscal litigation provisions in HSBCs Brazil operations of US$235 million 2004: US$231 million.
+These relate to labour and overtime litigation claims brought by employees after leaving the bank.
+The provisions are based on the expected number of departing employees, their individual salaries and historical trends.
+The timing of the settlement of these claims is uncertain.
+iii Provisions of US$652 million 2004: US$809 million have been made in respect of costs arising from contingent liabilities and contractual commitments Note 40, including guarantees of US$55 million 2004: US$77 million and commitments of US$122 million 2004: US$71 million.
+Interest rates on the floating rate loan capital are related to interbank offered rates.
+On the remaining subordinated loan capital, interest is payable at fixed rates up to 10.176 per cent.
+1 See Step-up Perpetual Preferred Securities, note a Guaranteed by HSBC Holdings.
+Classified as liabilities from 1 January 2005.
+2 See Step-up Perpetual Preferred Securities, note b Guaranteed by HSBC Bank..
+3 The distributions on the trust preferred securities change in November 2015 to three-month dollar LIBOR plus 1.926 per cent.
+4 The interest rate on the 4.75 per cent callable subordinated notes 2020 changes in September 2015 to three-month sterling LIBOR plus 0.82 per cent.
+310 5 The interest rate on the 4.25 per cent callable subordinated notes changes in March 2011 to three-month EURIBOR plus 1.05 per cent.
+6 The interest rate on the 5.375 per cent callable subordinated step-up notes 2030 changes in November 2025 to three month sterling LIBOR plus 1.50 per cent.
+7 The interest rate on the callable subordinated variable coupon notes 2017 is fixed at 5.75 per cent until June 2012.
+Thereafter, the rate per annum is the sum of the gross redemption yield of the then prevailing five-year UK gilt plus 1.70 per cent.
+8 The interest on the 5 per cent callable subordinated notes 2023 changes in March 2018 to become the rate per annum which is the sum of the gross redemption yield of the prevailing five-year UK gilt plus 1.80 per cent.
+9 The interest margin on the callable subordinated floating notes 2020 increases by 0.5 per cent from September 2015.
+10 The 7.65 per cent subordinated notes 2025 are repayable at the option of each of the holders in May 2007.
+11 The interest rate on the 8.625 per cent step-up updated subordinated notes changes in December 2007 to become, for each successive five year period, the rate per annum which is the sum of the yield on the then five year benchmark UK gilt plus 1.87 per cent.
+12 The interest rate on the 9.25 per cent set-up updated subordinated notes changes in December 2006 to become, for each successive five year period, the rate per annum which is the sum of the yield on the then five year benchmark UK gilt plus 2.15 per cent.
+Footnotes 3 to 12 excluding footnote 10 all relate to notes that are repayable at the option of the borrower on the date of the change of the interest rate, and at subsequent interest rate reset dates and interest payment dates in some cases, subject to the prior consent of the Financial Services Authority.
+Step-up Perpetual Preferred Securities a Guaranteed by HSBC Holdings The seven issues of Non-cumulative Step-up Perpetual Preferred Securities footnote 1 were made by Jersey limited partnerships and are guaranteed, on a subordinated basis, by HSBC Holdings.
+The proceeds of the issues were on-lent to HSBC Holdings by the limited partnerships by issue of subordinated notes.
+The Preferred Securities qualify as innovative tier 1 capital for HSBC.
+The Preferred Securities, together with the guarantee, are intended to provide investors with rights to income and capital distributions and distributions upon liquidation of HSBC Holdings that are equivalent to the rights that they would have had if they had purchased non-cumulative perpetual preference shares of HSBC Holdings.
+The Preferred Securities are perpetual, but redeemable in 2014, 2010, 2013, 2016, 2030, 2015 and 2012 respectively at the option of the general partner of the limited partnerships.
+If not redeemed the distributions payable step-up and become floating rate or, for the sterling issue, for each successive five-year period, the sum of the then five-year benchmark UK gilt plus a margin.
+There are limitations on the payment of distributions if prohibited under UK banking regulations or other requirements, if a payment would cause a breach of HSBCs capital adequacy requirements, or if HSBC Holdings has insufficient distributable reserves as defined.
+HSBC Holdings has covenanted that if it is prevented under certain circumstances from paying distributions on the Preferred Securities in full, it will not pay dividends or other distributions in respect of its ordinary shares, or effect repurchase or redemption of its ordinary shares, until after a distribution has been paid in full.
+If i HSBCs total capital ratio falls below the regulatory minimum ratio required, or ii the Directors expect that, in view of the deteriorating financial condition of HSBC Holdings, i will occur in the near term, then the Preferred Securities will be substituted by Preference Shares of HSBC Holdings having economic terms which are in all material respects equivalent to those of the Preferred Securities and the guarantee taken together.
+b Guaranteed by HSBC Bank The two issues of Non-cumulative Step-up Perpetual Preferred Securities footnote 2 were made by Jersey limited partnerships and are guaranteed, on a subordinated basis, by HSBC Bank.
+The proceeds of the issues were on-lent to HSBC Bank by the limited partnerships by issue of subordinated notes.
+The Preferred Securities qualify as innovative tier 1 capital for HSBC and for HSBC Bank on a solo and consolidated basis and, together with the guarantee, are intended to provide investors with rights to income and capital distributions and distributions upon liquidation of HSBC Bank that are equivalent to the rights they would have had if they had purchased non-cumulative perpetual preference shares of HSBC Bank.
+The Preferred Securities are perpetual, but redeemable in 2031 and 2020, respectively, at the option of the general partner of the limited partnerships.
+If not redeemed the distributions payable step-up and become floating rate.
+The same limitations on the payment of distributions apply to HSBC Bank as to HSBC, as described above.
+HSBC Bank has provided a similar covenant to that provided by HSBC Holdings, also as described above.
+If i any Preferred Securities are outstanding in November 2048 or April 2049, respectively, or ii the total capital ratio of HSBC Bank on a solo and consolidated basis falls below the regulatory minimum ratio required, 311 HSBC HOLDINGS PLC Notes on the Financial Statements continued or iii in view of the deteriorating financial condition of HSBC Bank, the Directors expect ii to occur in the near term, then the Preferred Securities will be substituted by Preference Shares of HSBC Bank having economic terms which are in all material respects equivalent to those of the Preferred Securities and the guarantee taken together.
+The notes are repayable from their step up date at the option of the borrower, subject to the prior consent of the Financial Services Authority.
+2 The interest rate on the 9.875 per cent subordinated bonds 2018 changes in April 2013 to become the higher of i 9.875 per cent or ii the sum of the yield on the relevant benchmark treasury stock plus 2.5 per cent.
+The bonds may be redeemed in April 2013 at par and redemption has also been allowed from April 1998, subject to the prior consent of the Financial Services Authority, for an amount based on the redemption yields of the relevant benchmark treasury stocks.
+3 The interest rate on the 3.625 per cent callable subordinated notes 2020 changes in June 2015 to become three-month EURIBOR plus 0.93 per cent.
+The notes may be redeemed at par from June 2015 at the option of the borrower, subject to the prior consent of the Financial Services Authority.
+Observable market prices are not, however, available for many of HSBCs financial assets and liabilities not measured at fair value.
+The determination of the fair values of the assets and liabilities in the table above are as follows: i Loans and advances to banks and customers The fair values of personal and commercial loans and advances are estimated by discounting anticipated cash flows including interest at contractual rates.
+313 HSBC HOLDINGS PLC Notes on the Financial Statements continued Performing loans are grouped, as far as possible, into homogeneous pools segregated by maturity and the coupon rates of the loans within each pool.
+In general, cash flows are discounted using current market rates for instruments with similar maturity, repricing and credit risk characteristics.
+For fixed rate loans, assumptions are made on the expected prepayment rates appropriate to the type of loan.
+Conforming residential mortgages in the US are treated differently when there is an established market value for asset-backed securities.
+In such cases, fair value is estimated by reference to quoted market prices for loans with similar characteristics and maturities.
+For impaired uncollateralised commercial loans, fair value is estimated by discounting the future cash flows over the time period they are expected to be recovered.
+For impaired commercial loans where collateral exists, fair value is the lower of the carrying values of the loans net of impairment allowances, and the fair value of the collateral, discounted as appropriate.
+ii Financial investments In 2004, financial investments include debt securities and equity shares intended to be held on a continuing basis.
+Such financial investments were included in the balance sheet at cost less provision for any permanent diminution in value.
+From 1 January 2005, on implementation of IAS39, the only financial investments not measured at fair value in the balance sheet are held-to-maturity debt securities.
+Held-to-maturity debt securities are initially recorded at fair value plus any directly attributable transaction costs, and are subsequently measured at amortised cost using the effective interest rate method, less any impairment losses.
+The fair values of listed financial investments are determined using bid market prices.
+The fair values of unlisted financial investments are determined using valuation techniques that take into consideration future earnings streams and valuations of equivalent quoted securities.
+iii Deposits by banks and customer accounts Deposits by banks and customer accounts are grouped by residual maturity.
+Fair values are estimated using discounted cash flows, applying either market rates, where applicable, or current rates offered for deposits of similar remaining maturities.
+iv Debt securities in issue and subordinated liabilities Fair values are determined using quoted market prices at the balance sheet date where applicable, or by reference to quoted market prices for similar instruments.
+The fair values presented in the table above are stated at a specific date and may be significantly different from the amounts which will actually be paid or received on the maturity or settlement dates of the instruments.
+In many cases, it would not be possible to realise immediately the estimated fair values.
+Accordingly these fair values do not represent the value of these financial instruments to HSBC as a going concern.
+The fair values of intangible assets, such as values placed on portfolios of core deposits, credit card relationships and customer goodwill, are not included above, because they are not financial instruments.
+As other financial institutions use different valuation methodologies and assumptions in determining fair values, comparisons of fair values between financial institutions may not be meaningful and users are advised to exercise caution when using this data.
+In addition, the following table lists those financial instruments where the carrying amount is a reasonable approximation of fair value, for example, because they are either short term in nature or reprice to current market rates frequently: Assets Liabilities Cash and balances at central banks Hong Kong Government currency notes in circulation representative of Hong Kong banknotes issued Items in the course of collection Items in the course of transmission Hong Kong Government certificates of indebtedness Endorsements and acceptances representative of Hong Kong banknotes issued Endorsements and acceptances Short-term payables within Other Liabilities Short-term receivables within Other Assets 314 HSBC Holdings 2005 Carrying Fair amount value US$m US$m Assets Loans and advances to HSBC undertakings................................................................................... 14,092 12,252 Liabilities Amounts owed to HSBC undertakings........................................................................................... 4,075 3,728 Subordinated liabilities................................................................................................................... 5,236 6,493 33 Maturity analysis of assets and liabilities The following is an analysis of assets and liabilities by remaining contractual maturities at the balance sheet date for assets and liability line items that combines amounts expected to be recovered or settled in under one year, and after one year.
+Trading assets and liabilities are excluded because they are not held for collection or settlement over the period of contractual maturity.
+Gains or losses on structural foreign exchange exposures are taken to reserves.
+HSBCs management of its structural foreign exchange exposures is discussed in the Market risk section on page 168.
+HSBC Holdings retains foreign exchange exposure to dividends receivable from its UK subsidiaries and eurodenominated loans to subsidiaries.
+2 After deducting sales of Saudi riyals amounting to US$480 million 2004: US$480 million in order to manage the foreign exchange risk of the investments.
+3 The negative net investment in Argentine pesos reflects the deficiency in domestic net assets following the pesification of certain balances formerly denominated in US dollars.
+Collateral accepted as security for assets The fair value of financial assets accepted as collateral that HSBC is permitted to sell or repledge in the absence of default is US$138,303 million.
+317 HSBC HOLDINGS PLC Notes on the Financial Statements continued The fair value of financial assets accepted as collateral that have been sold or repledged is US$97,113 million.
+HSBC is obliged to return equivalent securities.
+These transactions are conducted under terms that are usual and customary to standard stock borrowing and lending activities.
+1 The series B preferred stock is redeemable, at the option of HSBC Finance Corporation, in whole or part, from 24 June 2010 at par.
+2 The Series F and Series G preferred stock are redeemable at par, at the option of HSBC USA Inc. in whole or part, on any dividend payment date on or after 7 April 2010 and at any time from 1 January 2011, respectively.
+3 The Series C and Series D preferred stock are redeemable at a declining premium above par, at the option of HSBC Bank Canada, in whole or part, from 30 June 2010 and 31 December 2010, respectively.
+4 The preferred stock has been redeemable, at the option of HSBC USA Inc. in whole or part, from 1 July 1999 at par.
+5 The preferred stock is redeemable, at the option of HSBC USA Inc. in whole or part, at any time on or after 1 October 2007 at par.
+6 The preferred stock of each series is redeemable, at the option of HSBC USA Inc. in whole or part, on any dividend payment date at par.
+All redemptions are subject to the prior consent of the Financial Services Authority and, where relevant, the local banking regulator.
+37 Called up share capital Authorised The authorised ordinary share capital of HSBC Holdings at 31 December 2005 and 2004 was US$7,500 million divided into 15,000 million ordinary shares of US$0.50 each.
+At 31 December 2005 and 2004, the authorised preference share capital of HSBC Holdings was 10 million noncumulative preference shares of 0.01 each, 10 million non-cumulative preference shares of US$0.01 each, and 318 10 million non-cumulative preference shares of 0.01 each.
+At 31 December 2005 and 2004, the authorised non-voting deferred share capital of HSBC Holdings was 301,500 divided into 301,500 non-voting deferred shares of 1 each.
+The Board of Directors will not declare a dividend if payment of the dividend would cause HSBC not to meet the applicable capital adequacy requirements of the FSA.
+HSBC Holdings may not declare or pay dividends on any class of its shares ranking lower in the right to dividends than the preference shares nor redeem nor purchase in any manner any of its other shares ranking equal with or lower than the preference shares unless it has paid in full, or set aside an amount to provide for payment in full, the dividends on the preference shares for the then-current dividend period.
+The preference shares carry no rights to conversion into ordinary shares of HSBC Holdings.
+Holders of the preference shares will only be entitled to attend and vote at general meetings of shareholders of HSBC Holdings if the dividend payable on the preference shares has not been paid in full for four consecutive dividend payment dates.
+In such circumstances, holders of preference shares will be entitled to vote on all matters put to general meetings until such time as HSBC Holdings shall have paid a full dividend on the preference shares.
+HSBC Holdings may redeem the preference shares in whole at any time on or after 16 December 2010, with the consent of the FSA.
+The 301,500 non-voting deferred shares were in issue throughout 2004 and 2005 and are held by a subsidiary undertaking of HSBC Holdings.
+Holders of the non-voting deferred shares are not entitled to receive dividends on these shares.
+In addition, on winding-up or other return of capital, holders are entitled to receive the amount paid up on their shares after distribution to ordinary shareholders of the amount of 10,000,000 in respect of each ordinary share held by them.
+Details of the options outstanding to subscribe for HSBC Holdings ordinary shares under the HSBC Holdings Group Share Option Plan, HSBC Holdings Executive Share Option Scheme, The HSBC Share Plan and HSBC Holdings savings-related share option plans are given in Note 9, Share-based payments, on pages 269 to 275.
+On exercise of the options, the HSBC France shares are exchangeable for HSBC Holdings ordinary shares in the same ratio as for the acquisition of HSBC France 13 HSBC Holdings ordinary shares for each HSBC France share.
+During 2005, 435,784 2004: 451,080 HSBC France shares were issued following the exercise of employee share options and exchanged for 5,665,192 HSBC Holdings ordinary shares such shares being delivered from The HSBC Holdings Employee Benefit Trust 2001 No.
+During 2005, no options over HSBC France shares lapsed 2004: 800.
+During 2005, 1,500 2004: 9,500 HSBC France shares previously issued following the exercise of employee share options were exchanged for 19,500 2004: 123,500 HSBC Holdings ordinary shares, such shares being delivered from The HSBC Holdings Employee Benefit Trust 2001 No.
+There were 1,732,996 HSBC France employee share options exchangeable for HSBC Holdings ordinary shares outstanding at 31 December 2005 2004: 2,162,780.
+At 31 December 2005, The HSBC Holdings Employee Benefit Trust 2001 No.
+1 held 21,102,823 2004: 26,787,515 HSBC Holdings ordinary shares which may be exchanged for HSBC France shares arising from the exercise of options.
+HSBC France options effectively outstanding over HSBC Holdings ordinary shares under this arrangement are as follows: Number of HSBC France shares exchangeable for HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005............................................... 1,732,996 2006 to 2010 35.52 142.5 31 December 2004................................................ 2,170,280 2005 to 2010 32.78 142.5 31 December 2003................................................ 2,625,660 2004 to 2010 32.78 142.5 There also exist outstanding options over the shares of various HSBC France subsidiaries which are exchangeable for HSBC Holdings ordinary shares, the details of which are set out in the Directors Report on pages 189 to 214 and summarised below.
+On exercise of options over shares of Sinopia Asset Management Sinopia the Sinopia shares were exchangeable for HSBC Holdings ordinary shares in the ratio of 2.143 HSBC Holdings ordinary shares for each Sinopia share.
+During 2005, 125,500 2004: 94,000 Sinopia shares were issued following the exercise of employee share options and exchanged for 268,944 2004: 201,439 HSBC Holdings ordinary shares, such shares being delivered from The CCF Employee Benefit Trust 2001 Sinopia.
+Sinopia options that were effectively outstanding over HSBC Holdings ordinary shares under this arrangement were as follows: Number of Sinopia shares exchangeable for HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005............................................... 31 December 2004................................................ 125,500 2005 18.66 18.80 31 December 2003................................................ 221,500 2004 to 2005 8.61 21.85 On exercise of options over shares of HSBC Private Bank France, the HSBC Private Bank France shares are exchangeable for HSBC Holdings ordinary shares in the ratio of 1.83 HSBC Holdings shares for each HSBC Private Bank France share.
+During 2005, 473,400 HSBC Private Bank France shares were issued following the exercise of employee share options and exchanged for 841,291 HSBC Holdings ordinary shares, such shares being delivered from The CCF Employee Benefit Trust 2001 Private Banking France.
+During 2005, options over 59,875 2004: 126,000 HSBC Private Bank shares lapsed.
+During 2005, 1,150 HSBC Private Bank France shares previously issued following the exercise of employee share options were exchanged for 2,104 HSBC Holdings ordinary shares.
+At 31 320 December 2005, 14,819 2004: 1,125 HSBC Private Bank France shares were in issue and will be exchanged for HSBC Holdings ordinary shares on the fourth anniversary of the date of the awards of the options.
+There were 597,660 HSBC Private Bank France employee share options exchangeable for HSBC Holdings ordinary shares outstanding at 31 December 2005 2004: 1,130,935.
+At 31 December 2005, The CCF Employee Benefit Trust 2001 held 1,452,775 2004: 2,294,066 HSBC Holdings ordinary shares which may be exchanged for HSBC Private Bank France shares arising from the exercise of options.
+HSBC Private Bank France options including shares issued but not exchanged effectively outstanding over HSBC Holdings ordinary shares under this arrangement are as follows: Number of HSBC Private Bank France shares exchangeable for HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005.............................................. 612,479 2006 to 2012 10.84 22.22 31 December 2004................................................ 1,132,060 2005 to 2012 10.84 22.22 31 December 2003............................................... 1,359,810 2004 to 2012 10.84 22.22 On the acquisition of Banque Hervet in 2001, Banque Hervet shares were held in a Plan dEpargne Entreprise on behalf of Banque Hervet employees to vest and be released to employees over a 5 year period.
+It was agreed to exchange these Banque Hervet shares, on vesting, for HSBC Holdings ordinary shares in the ratio of 3.46 HSBC Holdings ordinary shares for each Banque Hervet share.
+During 2005, 7,670 2004: 44,870 Banque Hervet shares were released in connection with the vesting of interests in the Plan dEpargne Entreprise and exchanged for 26,539 2004: 155,219 HSBC Holdings ordinary shares, such shares being delivered from The CCF Employee Benefit Trust 2001 Banque Hervet.
+At 31 December 2005, The CCF Employee Benefit Trust 2001 Banque Hervet held 586,213 2004: 612,752 HSBC Holdings ordinary shares which may be exchanged for Banque Hervet shares from the vesting of interests.
+Banque Hervet shares to be exchanged for HSBC Holdings ordinary shares under this arrangement are as follows: Number of Banque Hervet shares exchangeable for HSBC Holdings ordinary shares Period of vesting 31 December 2005............................................................................................. 169,416 2006 31 December 2004............................................................................................... 177,086 2005 2006 31 December 2003.............................................................................................. 221,956 2004 2006 Following the acquisition of HSBC Finance Corporation in 2003, all outstanding options and equity-based awards over HSBC Finance Corporation common shares were converted into rights to receive HSBC Holdings ordinary shares in the same ratio as the share exchange offer for HSBC Finance Corporation 2.675 HSBC Holdings ordinary shares for each HSBC Finance Corporation common share and the exercise prices per share adjusted accordingly.
+During 2005, options over 3,563,020 2004: 6,073,291 HSBC Holdings ordinary shares were exercised and 2,638,816 2004: 5,771,110 HSBC Holdings ordinary shares delivered from The HSBC Household Employee Benefit Trust 2003 to satisfy the exercise of these options.
+During 2005, options over 152,936 2004: 415,430 HSBC Holdings ordinary shares lapsed.
+At 31 December 2005, The HSBC Household Employee Benefit Trust 2003 held 3,006,623 2004: 5,645,439 HSBC Holdings ordinary shares and 2,198,829 2004: 2,200,000 ADSs, each of which represents five HSBC Holdings ordinary shares, which may be used to satisfy the exercise of these options and equity-based awards under the HSBC Finance Corporation share plans.
+Options and equity-based awards outstanding over HSBC Holdings ordinary shares under the HSBC Finance Corporation share plans are as follows: Number of HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005.............................................. 38,107,930 2006 to 2012 nil US$21.37 31 December 2004............................................... 41,823,886 2005 to 2021 nil US$25.40 31 December 2003............................................... 48,312,607 2004 to 2021 nil US$25.40 321 HSBC HOLDINGS PLC Notes on the Financial Statements continued Prior to its acquisition by HSBC Holdings, HSBC Finance Corporation issued 8.875 per cent Adjustable ConversionRate Equity Security Units Units which included a contract under which the holder agreed to purchase, for US$25 each, HSBC Finance Corporation common shares on 15 February 2006, with an option for early settlement.
+The Units which remained outstanding following the acquisition of HSBC Finance Corporation were converted into contracts to purchase HSBC Holdings ordinary shares.
+Holders of Units electing to settle early received 2.6041 HSBC Holdings ordinary shares per Unit.
+Units exercised at maturity, 15 February 2006, will entitle the holder to receive a number of shares based on the market value of HSBC Holdings ordinary shares at the time, up to a maximum of 2.6041 HSBC Holdings ordinary shares for each Unit.
+During 2005, 324,726 2004: 1,590,319 HSBC Holdings ordinary shares were issued in connection with the early settlement of 124,698 2004: 610,700 Units.
+The maximum number of Units outstanding over HSBC Holdings ordinary shares are as follows: Number of Units exchangeable for HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005............................................... 1,315,142 2006 US$8.00 US$9.60 31 December 2004................................................ 1,439,840 2005 to 2006 US$8.00 US$9.60 31 December 2003................................................ 2,050,540 2004 to 2006 US$8.00 US$9.60 Following the acquisition of Bank of Bermuda in 2004, all outstanding employee share options over Bank of Bermuda shares were converted into rights to receive HSBC Holdings ordinary shares based on the consideration of US$40 for each Bank of Bermuda share and the average closing price of HSBC Holdings ordinary shares, derived from the London Stock Exchange Daily Official List, for the five business days preceding the closing date of the acquisition.
+During 2005, options over 459,091 HSBC Holdings ordinary shares were exercised 2004: 744,727 and delivered from the HSBC Bank of Bermuda Employee Benefit Trust 2004 to satisfy the exercise of these options.
+During 2005, options over 744,421 2004: 23,500 HSBC Holdings ordinary shares lapsed.
+At 31 December 2005, the HSBC Bank of Bermuda Employee Benefit Trust 2004 held 2,796,182 HSBC Holdings ordinary shares which may be used to satisfy the exercise of options.
+Options outstanding over HSBC Holdings ordinary shares under the Bank of Bermuda share plans are as follows: Number of HSBC Holdings ordinary shares Period of exercise Exercise price 31 December 2005............................................... 3,366,455 2006 to 2013 US$7.04 US$18.35 31 December 2004................................................ 4,569,967 2005 to 2013 US$3.86 US$18.35 The maximum obligation at 31 December 2005 to deliver HSBC Holdings ordinary shares under all of the above arrangements, the HSBC Holdings Restricted Share Plan 2000 and The HSBC Share Plan was 486,436,966 2004: 514,846,111.
+The total number of shares at 31 December 2005 held by employee benefit trusts that may be used to satisfy such obligations to deliver HSBC Holdings ordinary shares is 130,812,676 2004: 123,108,967.
+2 Retained earnings include 59,091,472 US$1,939 million of own shares held within HSBCs insurance business, its retirement funds for the benefit of policyholders or beneficiaries within employee trusts for the settlement of shares expected to be delivered under employee share schemes or bonus plans, and the market-making activities in Global Markets.
+3 Statutory share premium relief under Section 131 of the Companies Act 1985 was taken in respect of the acquisition of HSBC Bank plc in 1992, HSBC France in 2000 and HSBC Finance Corporation in 2003 and the shares issued were recorded at their nominal value only.
+In HSBCs consolidated accounts the fair value difference of US$8,290 million in respect of CCF and US$12,768 million in respect of HSBC Finance Corporation is a merger reserve.
+4 In addition, actuarial gains of US$8 million were recorded in minority interests.
+Cumulative goodwill amounting to US$5,138 million has been charged against reserves in respect of acquisitions of subsidiaries prior to 1 January 1998, including US$3,469 million charged against the merger reserve arising on the acquisition of HSBC Bank plc.
+The balance of US$1,669 million has been charged against retained earnings.
+2 In addition, actuarial losses of US$22 million were recorded in minority interests.
+3 Net exchange differences arising on the retranslation of amounts recognised in Retained earnings 4 Statutory share premium relief under Section 131 of the Companies Act 1985 was taken in respect of the acquisition of HSBC Bank plc in 1992, HSBC France in 2000 and HSBC Finance Corporation in 2003 and the shares issued were recorded at their nominal value only.
+Contingent liabilities and commitments are credit-related instruments which include letters of credit, guarantees and commitments to extend credit.
+Contractual amounts represent the amounts at risk should contracts be fully drawn upon and clients default.
+Since a significant portion of guarantees and commitments are expected to expire without being drawn upon, the total of the contractual amounts is not representative of future liquidity requirements.
+At 31 December 2005, HSBC had US$1,218 million 2004: US$1,212 million of capital commitments contracted but not provided for and US$333 million 2004: US$311 million of capital commitments authorised but not contracted for.
+Guarantees HSBC provides guarantees and similar undertakings on behalf of both third party customers and other entities within the HSBC Group.
+These guarantees are generally provided in the normal course of HSBCs banking business.
+The principal types of guarantees provided, and the maximum potential amount of future payments which HSBC could be required to make at 31 December 2005 were as follows: At 31 December 2005 At 31 December 2004 Guarantees Guarantees by HSBC by HSBC Holdings Holdings Guarantees in in favour of Guarantees in favour of favour of other HSBC in favour of other HSBC third parties Group entities third parties Group entities US$m US$m US$m US$m Guarantee type 1 Acceptances and endorsements.................................. 7,214 2 Financial guarantees................................................... 19,080 36,877 18,412 40,708 Standby letters of credit which are financial 3 guarantees.............................................................. 3,649 3,108 4 Other direct credit substitutes..................................... 5,302 6,848 5 Performance bonds..................................................... 6,355 4,910 5 Bid bonds................................................................... 595 382 Standby letters of credit related to particular 5 transactions............................................................ 6,640 5,322 5 Other transaction-related guarantees.......................... 15,709 16,824 Other items.................................................................. 297 79 57,627 36,877 63,099 40,708 327 HSBC HOLDINGS PLC Notes on the Financial Statements continued 1 Acceptances and endorsements arise when HSBC guarantees payments on negotiable instruments drawn up by customers, prior to selling the accepted instruments into the market on a discounted basis.
+From 1 January 2005, acceptances and endorsements are recognised on-balance sheet in Other assets and Other liabilities as a result of the adoption of IAS 39.
+2 Financial guarantees include undertakings to fulfill the obligations of customers or HSBC Group entities should the obligated party fail to do so.
+3 Standby letters of credit which are financial guarantees are irrevocable obligations on the part of HSBC to pay third parties when customers fail to meet commitments.
+4 Other direct credit substitutes include re-insurance letters of credit and trade-related letters of credit issued without provision for the issuing entity to retain title to the underlying shipment.
+5 Performance bonds, bid bonds, standby letters of credit and other transaction-related guarantees are undertakings by which the obligation on HSBC to make payment depends on the outcome of a future event which is unconnected to the creditworthiness of the customer concerned.
+The amounts disclosed in the above table reflect HSBCs maximum exposure under a large number of individual guarantee undertakings.
+The risks and exposures arising from guarantees are captured and managed in accordance with HSBCs overall credit risk management policies and procedures.
+Approximately half of the above guarantees have a term of less than one year.
+Guarantees with terms of more than one year are subject to HSBCs annual credit review process.
+When HSBC gives a guarantee on behalf of a customer, it retains the right to recover from that customer amounts paid under the guarantee.
+A provision is booked only when HSBC considers it probable that it has an obligation under an outstanding guarantee.
+Provisions are disclosed in Note 30.
+Joint ventures and associates HSBC and its operations are contingently liable with respect to lawsuits and other matters that arise in the normal course of business.
+Management is of the opinion that while it is impossible to ascertain the ultimate legal and financial liability with respect to these contingencies, their eventual outcome is not expected to materially affect the Groups financial position and operations.
+In relation to joint ventures, HSBC had no contingent liabilities, incurred jointly or otherwise.
+HSBC had no commitments of its joint ventures at 31 December 2005 2004: US$ nil.
+HSBC had no capital commitments incurred jointly or otherwise in relation to its interests in joint ventures.
+In relation to associates, HSBCs share of those matters, incurred jointly with other investors, that had not been provided for amounted to US$7,733 million 2004: US$5,663 million.
+No matters arose where HSBC was severally liable.
+Post-employment benefit obligations HSBC had no contingent liabilities relating to post-employment benefits.
+41 Lease commitments Finance lease commitments 2005 2004 Total future Total future minimum Interest Present minimum Interest Present payments charges value payments charges value US$m US$m US$m US$m US$m US$m No later than one year............. 50 25 25 51 26 25 Later than one year and no later than five years............ 152 98 54 155 115 40 Later than five years............... 630 70 560 745 115 630 832 193 639 951 256 695 In 2005 US$1 million 2004: US$1 million was paid as contingent rents and charged to General and administrative expenses.
+328 No future minimum sublease payments 2004: US$nil were expected to be received under non-cancellable subleases at 31 December 2005.
+Operating lease commitments At 31 December 2005, HSBC was obligated under a number of non-cancellable operating leases for properties, plant and equipment for which the future minimum lease payments extend over a number of years.
+2005 2004 Land and Land and buildings Equipment buildings Equipment US$m US$m US$m US$m Future minimum lease payments under non-cancellable operating leases: no later than one year.......................................... 712 32 609 29 later than one year and no later than five years... 1,730 24 1,430 20 later than five years............................................. 1,452 1,099 3,894 56 3,138 49 At 31 December 2005, future minimum sublease payments of US$26 million 2004: US$1 million were expected to be received under the non-cancellable subleases at the balance sheet date.
+In 2005, US$1,901 million 2004: US$951 million was charged to General and administrative expenses in respect of lease and sublease agreements, of which US$1,880 million 2004: US$930 million related to minimum lease payments, US$21 million 2004: US$21 million to contingent rents, and US$nil million 2004: US$nil million to sublease payments.
+The contingent rent represents escalation payments made to landlords for operating, tax and other escalation expenses.
+Finance lease receivables 2005 2004 Total future Unearned Total future Unearned minimum finance Present minimum interest Present payments income value payments income value US$m US$m US$m US$m US$m US$m Lease receivables: no later than one year..... 2,170 266 1,904 2,153 287 1,866 later than one year and no later than five years........ 5,908 1,329 4,579 5,843 1,228 4,615 later than five years........ 8,369 3,109 5,260 9,580 2,824 6,756 16,447 4,704 11,743 17,576 4,339 13,237 At 31 December 2005, unguaranteed residual values of US$68 million 2004: US$94 million, had been accrued, and the accumulated allowance for uncollectible minimum lease payments receivable amounted to US$15 million 2004: US$28 million.
+Operating lease receivables 2005 2004 Land and Land and buildings Equipment buildings Equipment US$m US$m US$m US$m Future minimum lease payments under non-cancellable operating leases: no later than one year.......................................... 71 397 48 535 later than one year and no later than five years... 160 1,136 84 1,150 later than five years............................................. 153 456 96 418 384 1,989 228 2,103 In 2005, no material income 2004: US$nil was received as contingent rents and recognised in Other operating income.
+329 HSBC HOLDINGS PLC Notes on the Financial Statements continued HSBC leases a variety of different assets to third parties under operating and finance lease arrangements, including transport assets such as rolling stock, aircraft and motor vehicles, property and general plant and machinery.
+42 Litigation HSBC, through a number of its subsidiary undertakings, is named in and is defending legal actions in various jurisdictions arising from its normal business.
+None of these proceedings is regarded as material litigation.
+The disclosure of the year-end balance and the highest amount outstanding during the year is considered the most meaningful information to represent the amount of the transactions and the amount of outstanding balances during the year.
+1 All of the Directors are key management personnel of HSBC Holdings.
+The highest amount outstanding during the year of loans, credit card transactions and guarantees with HSBC were US$495,791,992, US$617,259 and US$16,336,626 respectively.
+2 Included within Officers are non-Director members of the key management personnel of HSBC Holdings.
+During 2005, 6 non-Director key management personnel and members of their close family entered into loan, credit card transactions and guarantees with HSBC 2004: 4 persons.
+The highest amount outstanding during 2005 of loans, credit card transactions and guarantees with HSBC for the non-Director key management personnel and members of their close family were US$30,116,609, US$287,888 and US$20,385 respectively 2004: US$56,577,166, US$198,545 and US$20,385 respectively.
+The balances of loans and credit card transactions and guarantees with HSBC outstanding at 31 December 2005 for the non-Director key management personnel and members of their close family were US$20,166,452, US$66,467 and US$20,385 respectively 2004: US$24,264,409, US$ 128,093 and US$20,385 respectively.
+Particulars of Directors transactions are recorded in a register held at the Registered Office of HSBC Holdings which is available for inspection by members for 15 days prior to the HSBC Holdings Annual General Meeting and at the Annual General Meeting itself.
+330 Some of the transactions were connected transactions, as defined by the Rules Governing The Listing of Securities on The Stock Exchange of Hong Kong Limited but were exempt from any disclosure requirements under the provisions of those Rules.
+The above transactions were made in the ordinary course of business and on substantially the same terms, including interest rates and security, as for comparable transactions with persons of a similar standing or, where applicable, with other employees.
+The transactions did not involve more than the normal risk of repayment or present other unfavourable features.
+The above outstanding balances arose from the ordinary course of business and on substantially the same terms, including interest rates and security, as for comparable transactions with third party counterparties.
+Pension funds At 31 December 2005, US$19.4 billion 2004: US$19.3 billion of HSBC pension fund assets were under management by HSBC companies.
+Fees of US$50 million 2004: US$35 million were earned by HSBC companies for these management services.
+HSBCs pension funds had placed deposits of US$252 million 2004: US$268 million with its banking subsidiaries.
+HSBC International Staff Retirements Benefits Scheme entered into swap transactions with HSBC to match the return on the plan assets to the benefit payments of the obligations.
+At 31 December 2005, the fair value of the swap is an asset of US$53 million to the pension scheme 2004: US$3 million.

@@ -1,0 +1,85 @@
+Technology and resources Our key technologies and resources include the telecommunications licences that we hold and the related network infrastructure which enable us to operate our telecommunications networks around the world.
+Delivering the best customer experience of GPRS called enhanced data rates for GSM evolution EDGE.
+These We have built extensive coverage across our networks and strive networks provide download speeds of over 200 kilobits per second to deliver the best possible user experience for our customers.
+Over 200,000 base station sites for the transmission of wireless signals.
+Third generation 3G Network traffic of nearly 700 billion minutes and over Our 3G networks, operating the wideband code division multiple 90 petabytes of data per year.
+access W-CDMA standard, provide customers with an optimised Peak download speeds of up to 28.8 Mbps.
+We have continued to expand our service offering on 3G networks, which provide high speed internet and We continue to deliver a high quality customer experience across all email access, video telephony, full track music downloads, mobile TV of our markets, leveraging the extensive knowledge and expertise that and other data services in addition to existing voice and basic data O ur networks we have across the Group.
+We measure key performance indicators connectivity services.
+provide peak across our markets on an ongoing basis to ensure we maintain high download speeds standards of service quality and availability.
+We also participate in High speed packet access HSPA of up to 28.8 Mbps.
+regular network drive test campaigns conducted by independent third HSPA is a 3G wireless technology enhancement enabling significant We expect to party companies to benchmark our networks against those of our increases in data transmission speeds.
+It provides increased mobile major competitors.
+data traffic capacity and improves the customer experience through provide ever faster the availability of 3G broadband services and significantly shorter data speeds in the Over the last year we have introduced advanced tools across all of transfer times.
+All of our markets with 3G capability now support the years to come.
+our established 3G markets in Europe providing us with the ability 3.6 mega bits per second Mbps peak speed evolution of high speed to monitor and proactively manage our customers experience on downlink packet access HSDPA and with peak speeds of up to the network.
+28.8 Mbps peak speed in some areas.
+The figures are theoretical peak rates deliverable by the technology in ideal radio conditions with no Network infrastructure customer contention for resources.
+While HSDPA focuses on the Our network infrastructure provides the means of delivering our downlink network to mobile, high speed uplink packet access mobile and fixed voice, messaging and data services to our customers.
+HSUPA focuses on the uplink mobile to network and peak speeds Our customers are linked via the access part of the network which of up to 1.4 Mbps on the uplink are now available across all of our connects to the core network that manages the set-up and routing of markets, with peak speeds up to 5.8 Mbps available in key areas across calls, transfer of messages and data connections.
+Second generation 2G Evolving our networks We operate 2G networks in all of our mobile operating subsidiaries We continually improve our network and IT capability in order to through global system for mobile GSM networks, offering customers enhance the service we provide our customers.
+services such as voice, text messaging and basic data services.
+In addition, all of the Groups controlled networks operate general packet With the increasing adoption of mobile broadband services and the radio services GPRS, often referred to as 2.5G.
+GPRS allows mobile wider availability of advanced smartphones we are seeing accelerated devices to be used for sending and receiving data over an IP based growth in data traffic across our networks.
+To ensure we continue to network and enabling data service offers such as internet and email deliver the best possible quality of service to our customers we are access.
+In a number of networks, we also provide an advanced version proactively evolving our infrastructure through a range of initiatives.
+18 Vodafone Group Plc Annual Report 2010 Business Customer devices Access and transmission network Core network Other networks As a total communications Our access networks provide the means by which our customers The core network is responsible Our networks connect to company our customers can connect to Vodafone.
+We provide mobile access through a for setting up and controlling a wide range of other can use a broad range of network of base stations and fixed access through consumer digital the connection of our customers networks to enable our devices to access our subscriber lines DSL and optical fibre, or corporate private wire.
+to our voice and data services.
+customers to reach products and services.
+These access networks connect back to our core network via a customers of other transmission network.
+operators and access services beyond Vodafone.
+Base station Circuit switched Base stations manage the The circuit switched domain wireless radio transmissions to provides voice video calls Fixed line operators and from Vodafones customers and some basic data services.
+Smartphones Private wire Transmission Packet switched Mobile operators corporate access infrastructure Netbook and laptop We deliver private branch exchange The transmission infrastructure The packet switched domain computers services to our enterprise customers connects together our access provides our customers access to Internet service via dedicated private wire and core networks.
+Fixed line devices providers connections.
+Desktop computers Fixed broadband IP multimedia subsystem Corporate networks We provide fixed line telephony The IP multimedia subsystem connections enabling our provides advanced control for all customers to connect to the internet protocol IP services.
+internet via DSL and optical fibre GPON technologies.
+Access network evolution in our networks in order to optimise the overall customer experience Population coverage We are actively driving additional 3G data technology enhancements we deliver.
+in Europe to further improve the customers experience and capacity of our networks including evolutions of HSPA technology to increase both We have continued to expand the deployments of IP multimedia the downlink and uplink speeds.
+We have successfully trialled subsystem IMS infrastructure across these markets in order to 99% evolutions of mobile broadband technology delivering peak rates of serve the increasing demand for advanced internet based services with 2G and over 80% with 3G 43.2 Mbps.
+During the 2011 financial year we expect to extend the and applications.
+availability of 28.8 Mbps downlink and 5.8 Mbps uplink speeds within our network.
+Licences The licences held across our operating companies enable us to deliver We have continued to expand our fixed line footprint in accordance fixed and mobile communication services.
+Further detail on the issue with our total communications strategy by building our own and regulation of licences and a table summarising the most significant network and or using wholesale arrangements in 13 countries at mobile licences held by operating subsidiaries and the joint venture 31 March 2010. in Italy at 31 March 2010 can be found in Regulation on page 133.
+In addition, we also have licences to provide fixed line services in many Transmission network evolution of the countries in which we operate.
+We continue to upgrade our access transmission infrastructure from the base stations to the core switching network to deal with the We regularly assess the value of our spectrum holdings and participate increasing bandwidth demands of the access network.
+We have in auctions to supplement our holdings on a case-by-case basis.
+continued to pursue a strategy of implementing scalable and cost effective self-build solutions and are also leveraging our DSL interests Innovation by increasingly backhauling data traffic onto more cost effective DSL We are a pioneer in products and services to enhance customer transport connections.
+During the 2010 financial year we also choice and user experience.
+introduced new high capacity ethernet microwave solutions into our access transmission network and continued to deploy high bandwidth Quality of service for data applications optical fibre more widely across our access transmission network.
+In We have been driving the development of quality of service the core transmission network we have continued to expand our high differentiation in 3G which enables us to carefully manage the capacity optical fibre infrastructure, including technology assignment of capacity in our networks during the busiest times.
+With enhancements, which enable the use of cost effective IP technology increasing data demands, driven by faster HSDPA and fixed broadband, to achieve high quality transport of both voice and data traffic.
+this capability enables us to manage our costs through intelligent allocation of network resources.
+We have already launched quality of Core network evolution service differentiation to customers in Spain and Romania and plan At 31 March 2010 we had consolidated 15 national IP networks into a further launches across the majority of our 3G footprint.
+single IP backbone, including all markets in our Europe region, centralising IP operations to avoid duplication and achieve simplicity and flexibility in the deployment of new services to serve multiple markets.
+We have also introduced advanced yield management capabilities across substantially all of our established 3G markets.
+This provides us with the ability to actively manage the capacity allocated Vodafone Group Plc Annual Report 2010 19 Femtocells formation of the wholesale application community WAC where At 31 March 2010 we had femtocells in service in the UK and Qatar and innovative applications are developed through the global alliance continue to trial the product in several other markets.
+Available as of mobile operators and device manufacturers: Vodafone Sure Signal in the UK, these innovative devices provide a participation in industry-wide initiatives to develop standards for 4G personal 3G mobile phone signal to our customers by connecting to mobile communications: our core network and services via their household broadband delivery of a mobile healthcare programme supporting our connection, providing enhanced coverage to our customers in areas commercial and corporate responsibilities: and where mobile operators are unable to give customers a strong enough a series of prototypes which enhance the mobile experience voice, signal in their homes.
+video, gesture and data by utilising cloud computing technologies.
+Product focus: Vodafone Sure Signal boosts your IT Cost reduction mobile signal at home As we integrate fixed and mobile services together, and as the web While evolving the Groups infrastructure it is also important that we or work.
+becomes increasingly mobile, IT has become a key enabler for service continue to have a tight control over our cost base.
+We have been All you need is a home innovation.
+New IT technologies, such as cloud-based services, which actively driving a variety of initiatives which enable us to manage our broadband connection, provide unlimited processing capabilities by utilising shared resources network investments.
+a 3G phone and our easyon the internet, and service oriented architecture solutions, are to-install Vodafone Sure delivering new revenue generating services and a consistent and Infrastructure sharing Signal box.
+enriched user experience for our consumer and enterprise customers.
+Significant effort has been placed in reducing the costs of deploying mobile network infrastructure and we are now conducting network For example in September 2009 Vodafone 360 was launched across sharing in all of our controlled markets as well as securing network Europe which required a common set of interfaces for partners such sharing agreements on over 75% of the new radio sites we deployed as Google and Nokia.
+This architecture is expected to be the foundation across the Group in the 2010 financial year.
+for future innovative consumer and enterprise propositions.
+Transmission self build Research and development We are driving significant reductions in our ongoing operational costs Research and development is oriented to incubate and deliver through our strategy of building our own high capacity backhaul innovation to the business, from disruptive new technologies to transmission network as opposed to leasing capacity from third party incremental commercial enhancements.
+Supporting our strategic network providers.
+We now own over 75% of the backhaul transmission objectives we have undertaken significant and varied activities during network across the markets in our Europe region.
+Highlights include: IT transformation a way to use the mobile subscriber identity module SIM card to The IT transformation programme launched in the 2009 financial year simplify and authenticate secure virtual private network access to is on track to deliver its targeted savings and business benefits.
+The corporate networks: main focus areas include moving towards a common delivery model, trials of next generation wireless technologies including GSM simplifying the use of applications to minimise complexity and evolution, HSPA evolution and 4G: implementing a standard unified communications toolset including new machine-to-machine capabilities enabling us to deliver new video and audio conferencing on standard PCs.
+services to our customers: near field communications NFC tags that add new functionality to mobile handsets already in use: 20 Vodafone Group Plc Annual Report 2010 Business Supply chain management Proportion of new radio Handsets, network equipment, marketing and IT services account for sites shared the majority of our purchases, with the bulk of these from global suppliers.
+Our supply chain management SCM team is responsible for managing our relationships with all suppliers excluding handsets 75% and for providing cost benefits through utilisation of scale and scope.
+Since the launch of our supplier performance programme, the performance of these global suppliers has improved year-on-year.
+The best performing suppliers are recognised annually during our supplier conference.
+Our SCM team was recently voted as one of the top 20 most admired companies for buy negotiation by a study run by the International Association for Contract & Commercial Management.
+SCM is a major contributor to our cost reduction programme and operates across all local markets, achieving savings that are measured using a unified methodology and are reported regularly to the Executive Committee.
+SCM has been operating its strategic procurement function from the Vodafone Procurement Company VPC in Luxembourg for over two years, driving increased standardisation and cost savings through the use of global price books and contracts, e-auctions and low cost network vendors.
+Worldwide Solar panels powering our base independent benchmarking studies have shown our SCM team has stations in India achieved significant cost advantages and indicate that we are achieving best in class pricing for IT storage and servers.
+We also We are working hard to reduce our own carbon impact through operate through the China Sourcing Centre which has achieved increasing energy efficiency and use significant trading volumes further improving the Groups cost base.
+of renewable energy as well as behaving responsibly by seeking to Our suppliers are expected to comply with the Groups Code of Ethical manage environmental issues in our Purchasing as well as stringent health and safety plans.
+on this can be found in Corporate responsibility on page 45.
+It is our policy to agree terms of transactions, including payment terms, with suppliers and it is our normal practice that payment is made accordingly.
+Vodafone Group Plc Annual Report 2010 21

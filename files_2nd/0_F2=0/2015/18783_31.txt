@@ -1,0 +1,70 @@
+STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS 137 GLOSSARY OF TERMS Due to the technical nature of satellite communications and financial reporting we use a number of terms and abbreviations in this Annual Report and Accounts that are widely used within those industries but are less commonly used by our broader community of stakeholders.
+The principal ones are summarised below.
+A F ACTIVETERMINAL FLEETBROADBAND A terminal that has been used to access commercial services at any time Our flagship maritime service providing voice and broadband data services during the preceding 12 months and is registered with one of our services at across the worlds oceans.
+It includes the average number of certain handheld terminals active on a daily basis during the final month of a period and excludes G M2M terminals.
+GAAP Generally Accepted Accounting Principles is the standard financial reporting ALPHASAT framework as defined by a body of accounting standards and other guidance A satellite developed with the European Space Agency and launched in 2013. used in a given jurisdiction see IFRS.
+It supplements our Inmarsat-4 satellite constellation.
+GEOSTATIONARYORBIT ATC A circular geosynchronous orbit directly above the Earths equator.
+Satellites in Ancillary Terrestrial Components provide communications services from ground geosynchronous orbit match their orbit to the orbit of the earth and so remain stations either as stand-alone services or to complement satellite services.
+permanently in the same area of the sky.
+ATG ALSOCGC GX For our European Aviation Network, the satellite and CGC components are GlobalXpress is the first high-speed broadband satellite network to span the integrated and the CGC is not stand alone.
+ATG means the air to ground globe, from a single operator.
+It uses powerful beams able to reach small terrestrial component of the EAN.
+antennas on earth providing digital connections for aviation, land and maritime use.
+B BAND GMDSS The radio spectrum is divided into different bands which each cover a section Global Maritime Distress and Safety Service.
+Inmarsat is the only approved of frequencies that are usually used for a similar purpose.
+Bands are allocated provider of this Maritime Safety Service by the International Maritime to specific uses at international level by the ITU and regulated at a national Organization IMO.
+level by domestic organisations and governments.
+GROUNDSTATIONS BGAN Our Ground Stations connect Inmarsat satellites to terrestrial networks and the Broadband Global Area Network is a high-speed data satellite network that internet.
+They are manned 24 7 in locations across the globe and continuously spans the globe.
+monitored from our network operations centre in London.
+C THEGROUP COMMISSIONEDTERMINAL The Group refers to Inmarsat plc and all of its subsidiaries.
+We may also use A terminal that is registered with one of our services at the period end.
+we and our in reference to the Group, depending on the context.
+CAGR GSPS The Compound Annual Rate of Growth measures average annual growth Global Satellite Phone Services are our handheld products and services over a period of time and is a key performance indicator for our MSS including IsatPhone Pro and IsatPhone 2. wholesale revenues.
+I CGU IASORIFRS A cash-generating unit is the smallest group of assets that generates cash International Accounting Standards or International Financial Reporting inflows largely independently from the other parts of the business and which Standards are the accounting standards issued by the International represents the lowest level at which goodwill is monitored within the business.
+IFRS is also used to refer to international GAAP as a whole.
+THECOMPANY Where we refer to the Company we are referring to Inmarsat plc, the holding ICAO company of the Inmarsat Group.
+D INMARSAT-2 I-2, INMARSAT-3 I-3, INMARSAT-4 I-4,  INMARSAT-5 I-5, INMARSAT-6 I-6 Defined benefit pensions schemes provide post-employment benefits based The second, third, fourth, fifth and sixth generations of Inmarsat satellites.
+on an employees final salary.
+Defined contribution pension schemes are Individual satellites in each constellation are numbered F1, F2, F3, etc, so I-5 F2 schemes into which Inmarsat makes fixed contributions based on a percentage refers to the second satellite launched in the fifth generation of of an employees salary.
+E ITU EBITDA International Telecommunications Union.
+Earnings before interest, tax, depreciation and amortisation is a key performance indicator used in the commercial and financial management of the business.
+It is a non-GAAP measure under IFRS.
+138 INMARSATPLCANNUAL REPORT AND ACCOUNTS 2015 GLOSSARY OF TERMS CONTINUED K S KA-BAND SAS The frequency band used by our GX satellites, it has higher bandwidth Satellite Access Station is another term for a Ground Station.
+than other bands allowing more data to be transmitted over the same satellite capacity.
+S-BAND The band width we are using for a high-speed broadband service under KU-BAND development for the EU aviation industry.
+The programme will see an Inmarsat A frequency band used by a number of our products and services that S-band satellite fully integrated with a ground network.
+We also use the term we procure from other satellite network operators to complement our S-band to refer to the S-band programme in general.
+ L Carbon emissions as defined by the greenhouse gas protocol.
+L-BAND Scope 1: All direct greenhouse gas emissions.
+The frequency band used by our Inmarsat-3 and Inmarsat-4 satellites and also Scope 2: Indirect emissions from purchased electricity, heat or steam.
+Scope 3: Other indirect emissions including travel.
+LIGHTSQUARED SEP INMARSATGATEWAY A Cooperation Agreement between Inmarsat, LightSquared LP, Skyterra Our Service Enablement Platform for GX delivering customer support, network Canada Inc. and LightSquared Inc. for the use of L-band in North America.
+services and an app store, it also opens up our networks to innovators through On 11 February 2016 LightSquared announced a name change to Ligado a developer portal.
+This is also now referred to as the Inmarsat Gateway.
+We continue to refer to the company as LightSquared in these results, reflecting the position throughout 2015.
+SWIFTBROADBAND A global service providing voice and high-speed data simultaneously through M a single installation on an aircraft.
+T TLCOMSSANSFRONTIRES TSF MSS The telecommunications relief aid organisation, it is a core beneficiary of our Mobile Satellite Services.
+MBPS TERMINALS Megabits per second are the units used to measure data transfer rates in the The consumer hardware used to receive and transmit voice and data from satellite communications industry.
+earth across our satellite network.
+It includes antenna enabled hardware such as satellite phones and on-board antennas.
+N  V The costs of operating our ground stations.
+VSAT Very Small Aperture Terminals are small mobile two-way satellite antennas able O to receive and transmit voice and broadband data to a satellite.
+VSAT services OWNWORKCAPITALISED are typically charged using a fixed monthly fee.
+Employee-related costs including salary and travel costs incurred in bringing property, plant and equipment into use.
+Own work capitalised is capitalised as X part of the total cost of an asset.
+XPRESSLINK XpressLink is a fully-integrated Ku-band and L-band service with VSAT and R FleetBroadband terminals.
+RIGNETINC A distribution partner and the company that acquired the retail energy business that we disposed of in 2014.
+Ship Equip is included in the results from 28 April 2011.
+NewWave Broadband is included in the results from 13 January 2012.
+TC Comms is included in the results from 8 May 2013.
+Globe Wireless is included in the results from 1 January 2014.
+ 5 May Annual General Meeting 12 May Ex-dividend date for 2015 final dividend 13 May Record date for 2015 final dividend 27 May 2015 final dividend payment date August 2016 interim results October 2016 interim dividend payment REGISTEREDOFFICE AUDITOR BROKERS REGISTRARS 99 City Road Deloitte LLP J. P. Morgan Cazenove Equiniti Limited London EC1Y 1AX 2 New Street Square 25 Bank Street PO Box 4630 Tel: 44 0 20 7728 1000 London EC4A 3BZ London E14 5JP Aspect House Fax: 44 0 20 7728 1044 Spencer Road www.
+com SOLICITORS Credit Suisse Lancing Clifford Chance LLP 1 Cabot Square West Sussex BN99 6DA REGISTEREDNUMBER 10 Upper Bank Street London E14 4QJ 4886072 England and Wales London E14 5JJ 140 INMARSATPLCANNUAL REPORT AND ACCOUNTS 2015   Certain statements in this Annual Report constitute forward-looking statements within the meaning of the US Private Securities Litigation Reform Act of 1995.
+These forward-looking statements involve risks, uncertainties and other factors that may cause our actual results, performance or achievements, or industry results, to be materially different from those projected in the forward-looking statements.
+These factors include: general economic and business conditions: changes in technology: timing or delay in signing, commencement, implementation and performance of programmes, or the delivery of products or services under them: structural change in the satellite industry: relationships with customers: competition: and ability to attract personnel.
+You are cautioned not to rely on these forward-looking statements, which speak only as of the date of this Annual Report.
+Inmarsat undertakes no obligation to update or revise any forward-looking statement to reflect any change in its expectations or any change in events, conditions or circumstances, except where it would be required to do so under applicable law.
+Designed and produced by Gather www.
+london The paper used in this Report is derived from sustainable sources INMARSAT PLC ANNUAL REPORT AND ACCOUNTS 2015 Inmarsat plc 99 City Road London EC1Y 1AX United Kingdom inmarsat.

@@ -1,0 +1,59 @@
+61 Enodis annual report and accounts 2002 US GAAP reconciliation Reconciliation to Accounting Principles Generally Accepted in the United States The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United Kingdom UK GAAP, which differ in certain significant respects from those generally accepted in the United States US GAAP.
+The significant adjustments to loss for the period and equity shareholders funds required when reconciling such amounts recorded in the consolidated financial statements to the corresponding amounts in accordance with US GAAP, considering the significant differences between UK GAAP and US GAAP, relate to the following items and the necessary adjustments are shown in the tables that follow.
+This footnote does not include all disclosures required by US GAAP.
+Goodwill amortisation and impairment Under UK GAAP, the policy followed prior to the introduction of FRS10 which is effective for accounting periods ended on or after 23 December 1998 and was adopted on a prospective basis was to write off goodwill against equity shareholders funds in the year of acquisition.
+On the subsequent disposal or termination of a previously acquired business, the profit or loss is calculated after charging the amount of related goodwill previously charged to reserves.
+FRS10 requires goodwill to be capitalised and amortised over its estimated useful economic life.
+Under US GAAP, goodwill arising on all acquisitions must be capitalised and amortised over the estimated period of benefit, but not in excess of 40 years.
+As a result, a difference between UK GAAP and US GAAP arises on goodwill balances on acquisitions pre-implementation of FRS10.
+The Group has adopted a 20 year estimated useful life with respect to goodwill established under both US GAAP and UK GAAP.
+Under US GAAP and UK GAAP, goodwill and other long-lived assets are evaluated for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable.
+Under US GAAP, recoverability of such assets is measured by a comparison of the carrying amount of the asset as adjusted for the UK GAAP to US GAAP adjustments to future undiscounted net cash flows expected to be generated from the assets use at the lowest level at which identifiable cash flows are generated.
+When the cash flow analysis indicates an asset is impaired, the impairment loss to be recognised is measured by the amount by which the carrying amount of the asset exceeds the fair value of the asset.
+Fair value is determined by quoted market prices, discounted cash flows or other valuation techniques.
+In September 2001 and June 2002, the Group recognised goodwill impairments under UK GAAP of 100m and 48.9m, respectively, in respect of Scotsman.
+Under US GAAP, the aforementioned undiscounted net cash flow analysis was performed and it was determined that an impairment should also be recognised.
+Differences in the impairment loss recognised in September 2001 of 9.8m arise as a result of the differences in the carrying value of the underlying goodwill and net assets under UK GAAP and US GAAP.
+Deferred taxation Under UK GAAP, FRS19 requires deferred tax to be provided in full on all liabilities.
+Deferred tax assets are recognised to the extent it is regarded as more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted.
+In certain circumstances where it is expected to take some time for tax losses to be relieved, it may not be appropriate to recognise the deferred tax assets at all.
+FRS19 does not define or provide guidance relating to the phrases some time or more likely than not.
+Under US GAAP, deferred tax assets and liabilities are recognised for the estimated future tax consequences of events attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating and capital loss and tax credit carryforwards.
+Deferred tax assets and liabilities are reduced through the establishment of a valuation allowance at such time as, based on available evidence, it is more likely than not a likelihood of more than 50% that the deferred tax assets will not be realised.
+The resulting adjustment from UK GAAP to US GAAP relates to the recognition of certain deferred tax assets for US GAAP which do not comply with the UK GAAP criteria as well as the tax effect on the other reconciling items.
+Pension costs In the Groups consolidated financial statements, pension costs are accounted for in accordance with SSAP 24, with costs being charged to income over employees estimated working lives.
+Under US GAAP, pension costs are determined in accordance with the requirements of SFAS No.
+87 Employers Accounting for Pensions and SFAS No.
+88 Employers Accounting for Settlements and Curtailments of Defined Benefit Pension Plans and forTermination Benefits.
+Differences between the UK and US GAAP figures arise from the requirement to use different methods and assumptions for valuing scheme assets and a different method of amortising surpluses or deficits.
+Sale Leaseback transactions Under UK GAAP, a gain or loss on the sale of an asset that is leased back is deferred if the leaseback is a finance lease and is recognised immediately when the leaseback is an operating lease.
+Under US GAAP, a gain or loss on the sale of property which is leased back and does not meet certain criteria, is deferred and amortised over future periods.
+The resulting adjustment from UK GAAP to US GAAP relates to the deferral of gains recorded for UK GAAP which do not comply with US GAAP criteria, and the amortisation of such deferred gains over the life of the lease.
+Gain on sale of businesses Differences in the carrying value of the net assets of business under US GAAP give rise to a different calculation of the gain on sale.
+Share option plans and ESOP Trust Under UK GAAP, options issued under the Groups 1995 Executive Share Option Scheme, which includes certain performance criteria, give rise to an accounting entry when the option is exercised.
+Shareholders funds are increased by the product of the number of options multiplied by the original option price.
+Under US GAAP, in situations in which it is probable that specified performance criteria will be met, estimates of compensation cost are recorded in the profit and loss account before the measurement date.
+The resulting adjustment between UK GAAP and US GAAP relates to the recognition of compensation cost related to the 1995 Executive share option plan, for US GAAP purposes, following a determination that the attainment of the related performance criteria is probable.
+Under UK GAAP, ordinary shares of the Group held in an ESOP Trust for distribution on the exercise of share options by employees are accounted for as fixed asset investments.
+Under US GAAP, these shares are accounted for within equity shareholders funds.
+Restructuring Under UK GAAP, the timing criteria for recording restructuring provisions are different to those under US GAAP.
+During 2001, certain accrued losses allowable for recognition under UK GAAP did not meet the definition of an accruable restructuring charge for US GAAP and a timing difference consequently arose.
+During 2002, these charges met the definition of an accruable charge for US GAAP and consequently the difference between UK GAAP and US GAAP no longer exist.
+Derivative instruments Derivative financial instruments are utilised by the Group to reduce foreign currency and interest rate risks.
+The Group does not hold or issue financial instruments for trading purposes.
+The Group enters into forward exchange contracts to hedge certain firm purchase commitments and existing assets or liabilities.
+Under UK GAAP, gains and losses related to qualifying hedges of firm commitments are deferred, and are recognised in income or as adjustments of carrying amounts when the hedged transaction occurs.
+The Group also enters into agreements to manage certain exposures to fluctuations in interest rates.
+Interest rate contracts generally involve the exchange of fixed and floating rate interest payments without the exchange of the underlying principal.
+Under UK GAAP, net amounts paid or received are reflected as adjustments to interest rate expense.
+62 Enodis annual report and accounts 2002 US GAAP reconciliation Reconciliation to Accounting Principles Generally Accepted in the United States continued Under US GAAP in October 2000, the Group adopted SFAS 133, Accounting for Derivative Instruments and Hedging Activities SFAS 133.
+This standard requires the fair values of derivative instruments to be recorded on the balance sheet, and any changes in such fair values which do not meet the criteria for hedge accounting under SFAS 133 to be recorded in the statement of profit and loss account.
+Therefore, differences between UK GAAP and US GAAP arise which are recorded in net loss for US GAAP.
+The Group adopted the provisions of these statements in October 2000 and recorded a gain of 0.2m as a cumulative effect of accounting change to reflect the fair value of those instruments which do not meet the hedging criteria under SFAS 133 as the standard does not permit retroactive restatement.
+This charge was immaterial to basic and diluted earnings per share for the year.
+Subsequent to the adoption of SFAS 133, the Group recorded a 4.0m and an 0.8m loss during 2002 and 2001, respectively, related to changes in the fair value of such derivative instruments.
+Accrual of loss contingencies Under UK GAAP, a provision is recognised for contingencies when an entity has a present obligation legal or constructive as a result of a past event, it is probable that a transfer of economic benefits will be required to settle the obligation, and a reliable estimate can be made of the amount of the obligation.
+Under US GAAP, estimated losses from contingencies are accrued only if it is probable that the contingency will occur and the amount of loss can be reasonably estimated.
+Although the appropriate threshold of probability may vary depending on the situation, in practice a higher threshold is applied when recognising loss contingencies under US GAAP than under UK GAAP.
+The difference in practice has resulted in a reconciling difference between UK GAAP and US GAAP.
+The effects of the differences between UK GAAP and US GAAP on net loss and equity shareholders funds are as follows: 2001 2002 restated m m Net loss Net loss in accordance with UK GAAP 87.0 120.7 Items increasing decreasing operating loss in accordance with UK GAAP Goodwill amortisation 13.5 16.6 Goodwill impairment 9.8 Pension costs 2.5 5.9 Sale leaseback transactions 0.1 1.3 Share option plans 1.1 Restructuring 0.4 0.4 Derivative instruments 4.0 0.6 Loss contingency 2.4 Other 0.7 0.5 Items increasing decreasing other non-operating profit in accordance with UK GAAP Deferred taxation 16.5 8.1 Gain on sale of businesses 18.0 0.8 Net loss in accordance with US GAAP 103.0 113.7 2001 2002 restated m m Equity shareholders funds Equity shareholders funds as reported in accordance with UK GAAP 156.8 114.1 Items increasing decreasing equity shareholders funds Goodwill 242.3 318.3 Amortisation of goodwill 96.5 99.5 Goodwill impairment 9.8 9.8 Deferred taxation 70.5 72.3 Gain on sale leaseback 1.3 1.2 Pension costs 9.9 31.1 Share option plans 1.1 2.2 Derivative instruments 4.8 0.8 Loss contingency 2.4 Restructuring 0.4 Other 0.7 Equity shareholders funds in accordance with US GAAP 368.2 443.0

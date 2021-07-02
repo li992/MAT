@@ -1,0 +1,23 @@
+GL OSS AR Y OF TECHNICAL TERMS BGA A BGA Ball Grid Array is a type of surface mount technology used for packaging integrated circuits.
+Copper damascene Chemicals used to create nanoscale copper connections within semiconductor wafers.
+Die attach products The die refers to the silicon die in active integrated circuit packages.
+The attachment is most commonly a thermal path to help draw the heat out of the package and is typically either a purely metal or a conductive polymeric bond.
+This application is critical to the integrated circuits reliability and ultimate performance.
+Electroplating A plating process that uses electrical current to coat a conductive object with a thin layer of another material in order to bestow a desired property e. g. corrosionresistance and wear-resistance, aesthetic qualities, etc.
+to a surface that otherwise lacks that property.
+Flux A chemical-based material designed to help reduce oxides and clean metal surfaces in order to enable effective wetting of metal surfaces to the molten solder alloy during the creation of a solder joint when attaching an electronic component to a printed circuit board.
+Immersion silver A printed circuit board final finish that provides tarnish resistance, low contact resistance and ease of cleaning.
+Specially designed to meet printed circuit board lead-free assembly and OEM requirements.
+Integrated circuit or IC An electronic circuit manufactured by lithograph, or the patterned diffusion of trace elements into the surface of a thin substrate of semiconductor material.
+Additional materials are deposited and patterned to form interconnections between semiconductor devices.
+Printed circuit board A printed circuit board, a type of circuit board which has conducting tracks superimposed or printed on one or both sides.
+May refer to a board either before or after the assembly process.
+Also referred to as a printed wiring board PWB in the USA.
+Printed circuit Printed circuit board assembly involves attaching components such as semiconductors board assembly and capacitors on to a fabricated board and making the required physical and electrical connections.
+This has to be done with precise accuracy if the finished printed circuit board is to function effectively.
+Semiconductor wafers A semiconductor wafer is a thin slice of semiconducting material, upon which microcircuits are constructed by chemical deposition of various materials.
+Solder An alloy of tin and other metals with a comparatively low melting point used to join less fusible metals.
+Surface mount technology Both a technology design and the electronic components that are used in the process of soldering components to the surface of a printed circuit board.
+Through-hole assembly The use of either older technology parts or parts requiring significant mechanical strength, where the component has wire leads that physically pass through holes in a printed circuit board.
+Wafer bumping products Metal alloys for wafer bump plating, including gold, copper, lead-free alloys and low alpha lead-based alloy.
+142 ALENT ANNUAL REPORT & ACCOUNTS 2013 WWW.

@@ -1,0 +1,19 @@
+Spirent_JJ plc_NN Annual_JJ Report_NNP 2005_CD 119_CD Glossary_NNP 3G_NNP Third_NNP Generation_NNP Future_NNP generation_NN of_IN mobile_JJ communications_NNS following_VBG first_JJ generation_NN analog_NN and_CC second_JJ digital_JJ ._.
+10_CD Gig_NNP E_NNP 10-gigabit_JJ Ethernet_NNP Networking_NNP technology_NN enabling_VBG Ethernet_NNP data_NNS to_TO be_VB transported_VBN at_IN 10_CD gigabits_NNS per_IN second_NN ._.
+Access_NNP The_NNP connection_NN between_IN the_DT local_JJ exchange_NN and_CC the_DT home_NN ofce_NN ,_, etc_NN also_RB referred_VBD to_TO as_IN the_DT Access_NNP Network_NNP or_CC the_DT Local_JJ Loop_NN ._.
+ATM_NNP Asynchronous_NNP High-speed_JJ transmission_NN technology_NN used_VBN for_IN transporting_VBG multiple_JJ simultaneous_JJ services_NNS voice_NN ,_, data_NNS and_CC Transfer_NNP Mode_NNP multimedia_NNS applications_NNS with_IN high_JJ quality_NN of_IN service_NN levels_NNS ._.
+Broadband_NNP Generic_NNP term_NN for_IN devices_NNS with_IN a_DT bandwidth_NN greater_JJR than_IN one_CD megabit_NN per_IN second_JJ ._.
+CDMA_NNP Code_NNP Division_NNP Technology_NNP allowing_VBG communications_NNS circuits_NNS to_TO carry_VB multiple_JJ conversations_NNS simultaneously_RB ,_, thus_RB increasing_VBG Multiple_NNP Access_NNP its_PRP$ capacity_NN ._.
+DSL_NNP Digital_NNP Subscriber_NNP Line_NNP Technology_NNP that_IN uses_VBZ existing_VBG telephone_NN copper_NN lines_NNS to_TO transport_VB high-bandwidth_JJ data_NNS such_JJ as_IN multimedia_NNS and_CC video_NN to_TO service_NN subscribers_NNS ._.
+Ethernet_NNP A_NNP family_NN of_IN networking_VBG technologies_NNS developed_VBN for_IN local_JJ area_NN networks_NNS and_CC now_RB migrating_VBG to_TO metro_NN area_NN networks_NNS ._.
+Gig_NN E_NNP Gigabit_NNP Ethernet_NNP Transmission_NNP protocol_NN over_IN a_DT local_JJ area_NN network_NN that_WDT operates_VBZ at_IN a_DT speed_NN of_IN 10_CD billion_CD bits_NNS gigabit_VBP per_IN second_JJ ._.
+GPS_NNP Global_NNP Positioning_NNP System_NNP A_NNP system_NN for_IN determining_VBG location_NN and_CC height_NN at_IN any_DT point_NN on_IN the_DT earths_JJ surface_NN ._.
+A_DT receiver_NN uses_VBZ minute_JJ differences_NNS in_IN measured_JJ time_NN signals_NNS from_IN clocks_NNS on_IN satellites_NNS to_TO calculate_VB these_DT positions_NNS and_CC altitudes_NNS ._.
+HSDPA_NNP High-speed_VBD Downlink_NNP An_DT evolution_NN of_IN W-CDMA_NNP ._.
+Packet_NN Access_NNP Internet_NNP protocol_NN multimedia_NNS A_DT standardised_JJ next-generation_JJ architecture_NN for_IN telecoms_NNS operators_NNS who_WP want_VBP to_TO provide_VB mobile_JJ and_CC xed_JJ multimedia_NNS subsystem_VBP IMS_NNP services_NNS ._.
+Internet_NNP telephony_NN Generic_JJ term_NN used_VBN to_TO describe_VB various_JJ approaches_NNS to_TO running_VBG voice_NN telephony_NN over_IN IP_NNP Internet_NNP Protocol_NNP ._.
+IP_NNP Internet_NNP Protocol_NNP Data_NNP protocol_NN used_VBN by_IN many_JJ networking_NN devices_NNS to_TO facilitate_VB and_CC control_VB the_DT ow_NN of_IN data_NNS ._.
+Generally_RB excludes_VBZ suburban_JJ zones_NNS but_CC can_MD include_VB university_NN campuses_NNS ._.
+Triple_JJ play_NN Voice_NNP ,_, video_NN and_CC data_NNS transmitted_VBD over_IN a_DT single_JJ transport_NN medium_NN ._.
+VoIP_JJ voice_NN over_IN IP_NNP The_NNP technology_NN that_WDT makes_VBZ it_PRP possible_JJ to_TO have_VB a_DT telephone_NN conversation_NN where_WRB the_DT signal_NN is_VBZ carried_VBN over_IN the_DT Internet_NNP or_CC a_DT dedicated_JJ network_NN in_IN Internet_NNP Protocol_NNP IP_NNP packets_NNS ,_, instead_RB of_IN over_IN dedicated_JJ voice_NN transmission_NN lines_NNS ._.
+W-CDMA_NNP Wideband_NNP CDMA_NNP A_NNP global_JJ standard_NN for_IN mobile_JJ 3G_NNP ._.

@@ -1,0 +1,12 @@
+GlaxoSmithKline_NNP 73_CD Financial_NNP statements_NNS This_DT section_NN comprises_VBZ the_DT Directors_NNS statements_NNS ,_, the_DT independent_JJ auditors_NNS report_VBP on_IN the_DT Financial_NNP statements_NNS ,_, the_DT Financial_NNP statements_NNS consisting_VBG of_IN the_DT principal_JJ Financial_NNP statements_NNS and_CC supporting_VBG notes_NNS ,_, and_CC additional_JJ financial_JJ data_NNS ._.
+74_CD Directors_NNS statements_NNS of_IN responsibility_NN 75_CD Independent_NNP Auditors_NNS report_VBP Financial_JJ statements_NNS 76_CD Consolidated_NNP statement_NN of_IN profit_NN and_CC loss_NN 76_CD Consolidated_NNP statement_NN of_IN total_JJ recognized_VBN gains_NNS and_CC losses_NNS 78_CD Consolidated_NNP statement_NN of_IN cash_NN ow_NN 80_CD Consolidated_NNP balance_NN sheet_NN 80_CD Reconciliation_NNP of_IN movements_NNS in_IN equity_NN shareholders_NNS funds_NNS 81_CD Company_NN balance_NN sheet_NN 82_CD Notes_NNS to_TO the_DT financial_JJ statements_NNS 1_CD ._.
+New_NNP accounting_NN policies_NNS and_CC requirements_NNS 4_LS ._.
+Merger_NN of_IN Glaxo_NNP Wellcome_NNP and_CC SmithKline_NNP Beecham_NNP 6_CD ._.
+Merger_NN items_NNS ,_, restructuring_VBG costs_NNS and_CC divested_JJ businesses_NNS 8_CD ._.
+Joint_NNP ventures_NNS and_CC associated_VBN undertakings_NNS 11_CD ._.
+Provisions_NNS for_IN liabilities_NNS and_CC charges_NNS 24_CD ._.
+Share_NN capital_NN and_CC share_NN premium_NN account_NN 28_CD ._.
+Financial_NNP instruments_NNS and_CC related_VBN disclosures_NNS 33_CD ._.
+GlaxoSmithKline_NNP plc_NN investment_NN in_IN subsidiary_NN companies_NNS 37_CD ._.
+Reconciliation_NNP to_TO US_NNP accounting_NN principles_NNS 38_CD ._.
+Principal_NN Group_NNP companies_NNS Financial_NNP record_NN 142_CD Quarterly_JJ trend_NN 148_CD Five_CD year_NN record_NN

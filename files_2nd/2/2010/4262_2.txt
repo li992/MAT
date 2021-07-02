@@ -1,0 +1,68 @@
+Following the decisive actions we took during the downturn, we made good progress in 2010.
+We have Directors report emerged from the recession as a stronger business, and the first full year since the SiRF integration has delivered a broad-based and diversified company that is well-positioned to exploit extensive growth opportunities in multiple technologies.
+The first six months were buoyant as the industry rebounded from a difficult 2009, and we benefited from significant restocking by our customers.
+Not surprisingly, the second half was more restrained as the industry returned to more normal levels of underlying growth.
+Total revenue for the year rose by 33% to $800.6 million from $601.4 million in 2009.
+SiRF contributed some $270 million to that figure, confirming our belief that the integration would form the basis for immediate financial benefits as well as a competitive long-term product pipeline.
+The maiden dividend announced in October 2010 and our share buy-back programme are further expressions of confidence, underlining our ability to generate earnings growth into the future.
+Market overview Our products enhance the end-user experience across many different devices, from handsets and audio headsets to gaming, cameras and car information and communication systems.
+The phone you carry, the music you listen to, the games you play, the way you navigate from place to place all these experiences and many more are enriched and enhanced by CSR products.
+We are a leading player in one of the fastest-growing Chief segments of the semiconductor industry for connectivity and location.
+Executives And it is those technologies connectivity and location, which are two of the drivers propelling and proliferating the digital, wirefree and connected world.
+Whether in the home, the office, the car or enjoying leisure time, review people demand greater and improved connectivity, and we expect this trend to continue for the foreseeable future.
+Since May 2008, we have focused on the Connectivity Centre, which brings together many aspects of wireless connectivity such as Bluetooth, FM radio, Wi-Fi, high quality audio and Near Field Communications a strategy that is delivering real rewards.
+Location has become an increasingly important aspect of the internet experience and the integration with SiRF has given us a clear market-leading position.
+No longer simply providing guidance from A to B via satellite navigation, location technology is the basis for many services that will soon become part of day-to-day life.
+It will help people find the shops they are looking for, even deep inside shopping centres, meet up with friends and discover the names of the historic monument they have just photographed, among many other examples.
+In both the connectivity and location spaces, the year saw key innovations that are driving CSR forward.
+For example, Bluetooth low energy provides high performance but at such low levels of power consumption that a single battery could last for the entire lifetime of a device such as a TV remote control or a computer mouse.
+Deep Indoors location technology draws on different techniques to establish location, even inside large buildings or shopping centres.
+This is a key technology for applications such as proximity marketing, geotagging, asset tracking and secure shopping.
+Catalysts for near-term growth Focusing on 2011, there are exciting opportunities right across our business.
+For theHandset Business Unit, we are working hard to take advantage of the rapidly-growing smartphone segment.
+Today we recognise that we have had relatively limited exposure to smartphones, particularly with regard to Bluetooth Wi-Fi combination chips.
+This will be addressed during the summer of 2011 when we expect to start sampling our 40nm combination chip product.
+In feature phones, we continue to play to our strengths and have recently launched CSR8000, our eighth-generation family of Bluetooth chips.
+Our partnership with Infineon, which was announced last October, will allow phone manufacturers to quickly and easily integrate Wi-Fi and Bluetooth connectivity with shorter development time and lower associated costs.
+We expect theAudioand Consumer Business Unit to enjoy significant growth in the near-term.
+Partnerships with Intel, Ralink and Realtek are helping us gain market share in the PC segment, while we will continue to have a strong position in digital still cameras through our location capability.
+Gaming remains an area of key competitive advantage and we anticipate increasing our market share during 2011.
+Our already strong position in high-end audio has been strengthened further by the acquisition of aptX, which was completed in July.
+Based in Belfast, aptX has an industry-wide reputation for audio compression technology.
+Through a collaboration which started in 2007, we already had been able to offer this technology to our customers, We believe that the acquisition enables us to enhance our high quality offering in a broad range of audio markets as evidenced by the adoption by Samsung Mobile of our aptX technology.
+We are already shipping to sixteen of the worlds car manufacturers, and our pipeline indicates sustained growth as more customers create automotive infotainment systems that rely on seamless connectivity between devices such as tablets and netbooks, as well as phones and GPS.
+The penetration of all connectivity technologies and GPS is expected to continue to drive strong growth.
+And our design win pipeline bodes well for us: we are for instance designing in our WiFi automotive platforms with four different OEMs.
+In PNDs, we are very strong in China which remains a fast growing region for these products.
+CSR plc Annual Report and Financial Statements 2010 Chief Executives review continued Directors report Strategic priorities Going forward we have the following strategic priorities: 1.
+Focused product differentiation We are investing significantly in R&D to differentiate our products.
+Specifically, we are developing technology that will directly impact the end-user experience when using our products.
+For instance, consumers, listening to a CSR powered Bluetooth stereo headset notice not just a robust Bluetooth link but also excellent audio quality, low power consumption and state of the art echo and noise cancellation.
+This helps us to protect market share and improve gross margins.
+Key differentiators including connectivity, location and audio quality are already enhancing the end-user experience and therefore encouraging our customers to design their products around CSR technology.
+We will continue to focus on differentiated products with unique, high value features, complementing our in-house skills with partnerships, mergers and acquisitions as appropriate.
+Disciplined development execution With the development cycle for a new product sometimes lasting longer than the life of the product itself, timely delivery of products is critical.
+At CSR, we have 700 engineers based at 10 design centres around the world, working under the guidance of our new SVP Development, Klaus Buehring who joined us during 2010.
+A key part of Klaus work is enhancing the existing processes we have for bringing our technologies through the key development phases to sampling with our customers that in turn creates design win opportunities.
+Drawing on his 25 years experience, which includes the turnaround of Freescales billion dollar radio products division, Klaus is introducing new ways of working, which have and will continue to improve the predictability and product development cycle time of our organisation.
+Strong operational efficiency For many years, CSR has been a world leader in developing the process which enables us to package our chips at the wafer-level.
+This approach brings benefits to better manufacturing processes, which are also cost effective an important differentiator in our industry.
+The focus in recent times has been to identify and understand the key issues we face as we move to 40nm technology.
+We have developed a robust process design kit, electronic design automation and computer automated design tools enabling faster development and reduced time to market.
+We are now working closely with our supply chain partners ASE and TSMC each of whom are world leaders in their field to explore new three-dimensional packaging techniques.
+Developing our Platform capabilities Central to our strategy is developing more complete platforms for our customers.
+A platform is a product that contains much of the critical semiconductor functionality in a product.
+For example, our headset products include not only bluetooth technology, but also audio and power management.
+Another example is the SiRFprima platform, which includes most of a PNDs semiconductor technology on one chip.
+Platforms offer our customers a simpler route to designing and manufacturing their products and offer us the opportunities to differentiate.
+Going forward it is our intention to grow further in this area.
+SiRFprimaII and CSR8670 are examples of this strategy.
+Adding adjacent technologies As we have grown, we have added expertise in areas adjacent to Bluetooth, such as GPS, through the acquisition of SIRF, WiFi which we have developed internally, and audio, developed both internally and through acquisitions such as CVC and aptX.
+As opportunities for growth present themselves in adjacent areas, we expect to continue to develop adjacent technologies.
+Looking ahead The last twelve months have seen a return to growth, building on the improvement we saw towards the latter part of 2009.
+Our continued focus on the Connectivity Centre supported by market-leading strengths in location technology have energised our business and yielded a roadmap rich in potential.
+We anticipate that the market will continue to grow at around 15% year-on-year for the next five years.
+We believe that we are well positioned to exploit this growth.
+The opportunities for sustained growth are diverse, exciting and extensive.
+I am confident that we have the strategy, the commitment and the resources to exploit them to the full in the coming years.
+Joep van Beurden, Chief Executive Officer 4 5

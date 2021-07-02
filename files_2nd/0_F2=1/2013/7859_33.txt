@@ -1,0 +1,13 @@
+MIPS processors Imagination has been developing its CPU central processing unit technologies for many years.
+And now we have greatly enhanced our CPU roadmap following the acquisition of MIPS Technologies in February 2013, by integrating the popular MIPS CPU family into our IP portfolio.
+Imagination believes the electronics industry needs a powerful, yet flexible, CPU IP alternative that scales seamlessly from entry-level to high-end, delivering the highest performance and efficiency.
+Thanks to the MIPS family of processors, featuring advanced technologies such as hardware multi-threading, compatible 32-bit and 64-bit instruction set architectures ISAs, and ISA consistency from entry-level to high-end, Imagination can now provide that choice.
+Hardware multi-threading is a key technology for Imagination most of our IP cores already use this approach to extract the maximum possible processor performance from every clock cycle.
+The multi-threading features of the MIPS architecture enable SoCs to make far better use of every memory cycle, getting more done in fewer cycles than other CPUs.
+MIPS is one of only three CPU architectures officially supported by Googles Android, making it ideal for Android-based devices, as well as a wide range of other OS including Linux, and a range of RTOS real-time OS.
+With billions of MIPS-based products already shipped, and many universities and schools around the world teaching CPU architecture using MIPS as their preferred platform, MIPS is truly the ideal CPU for tomorrows SoCs from the highestperformance mobile applications processors to the lowest power connected sensor processors.
+The industry-standard MIPS architecture was created in the early 1980s as a 32-bit RISC processor focused on providing the highest levels of performance together with new levels of silicon efficiency thanks to its clean, elegant design.
+MIPS CPUs deliver lower power consumption and smaller silicon area than other CPUs thanks to an extremely well-defined, clean RISC architecture coupled with many years experience in the most demanding environments from networking to TVs and set-top boxes.
+With Warrior, the new series of MIPS processors that will debut for licensing in FY2013 14, Imagination is creating a compelling new force in CPUs.
+Imagination is now one of the top three CPU companies in the world.
+Imagination CPU, GPU, VPU and RPU technologies are each class leaders in their fields: each works independently of the other and integrate just as well with each other or with other third party IP.

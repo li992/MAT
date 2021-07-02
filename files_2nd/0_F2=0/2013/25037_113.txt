@@ -1,0 +1,24 @@
+INVESTOR RESOURCES AND OTHER INFORMATION: ExAMpLES: SELLINg A CFD ExAMPLEs: sELLING A CFD INTRODUCTION sTEP 4 In this example, on day one you decide to sell a CFD for 20,000 shares in B plc assumed to be a FTSE 100 company as you We will also reflect the impact of any corporate action on the underlying share, such as a dividend or a rights issue.
+In this expect B plcs share price to fall.
+On day two the share price has indeed fallen, and you decide to close your position as you example we have kept things simple and assumed no corporate actions occur: however for more details please see our now believe the share price will rise again.
+As long as your contract is open, your account will show any running profit or loss on your open CFD position not sTEP 5 illustrated below.
+You must have deposited sufficient funds to cover any running losses.
+DAY TWO CLOsING THE POsITION On day two, the share price has fallen and you decide to close the position as you believe the price will now rise.
+You cannot place a trade without having any money in your account.
+In this example, we assume you have 1,000.
+It is The bid offer price at that point is 78.25p 78.35p.
+important to note that you can make losses in excess of your initial deposit requirement referred to as margin requirement in CFD trading, if the market moves against you.
+Trade details You buy a CFD for 20,000 shares at 78.35p the offer price sTEP 1 Commission 15.67 calculated as 20,000 x 78.35p x 0.10% DAY ONE OPENING THE POsITION Profit per individual share 1.9p the difference between the selling and buying price 80.25p - 78.35p The quoted bid offer price for B plc is 80.25p 80.35p.
+Gross profit on the trade 380.00 calculated as 20,000 x 1.9p Trade details You sell a CFD for 20,000 B plc shares at 80.25p the bid price 1 Of course, had the market moved in the opposite direction, you would have made a loss of 100 for every penny the share Your initial margin requirement 803 calculated as 20,000 number of shares x 80.3p the mid-price x 5% price gained, which may have exceeded your initial margin outlay.
+the margin percentage 2 sTEP 6 Commission 16.05 calculated as 20,000 number of shares x 80.25p the bid price x 0.10% commission CALCULATING THE PROFIT OR LOss 1 The margin percentage and therefore margin requirement depends on the size of your CFD position and other factors such as the volatility and liquidity of 1 Client IG Markets the underlying share.
+In this example we have used a margin requirement of 5% 2 Commissions are variable, but for UK FTSE 100 CFDs as assumed for B plc, this was 0.10% on 15 May 2012 Selling commission Step 1 16.05 16.05 Financing charge Step 3 0.81 0.81 sTEP 2 Buying commission Step 5 15.67 15.67 When you open the position, you are required to have enough funds in your account to cover the initial margin plus Gross profit Step 5 380.00 380.00 1 commission on the trade.
+In this example the margin requirement is 803 and the commission is 16.05, so the available IG Markets hedging gain N A 380.00 funds in your account will fall from 1,000 to 180.95 ie 1,000 803 16.05.
+It is important to note that the 803 is held Net gain 347.47 32.53 as a margin requirement against the risk of the open position and will be released on the closing of the position: it is still your money but is not available for withdrawal from the account while the position is open.
+1 This simple example assumes IG Markets is 100% hedged on the client trade and makes an equal and opposite gain on our broker position to the amount paid to the client.
+The cost of our hedging with the broker has been ignored for simplicity.
+Thus our net profit is 25.58, which is recorded in trading revenue and consists of the commission and financing charges levied on the client sTEP 3 Traditionally, clients who held long positions overnight would need to pay a funding charge, while clients with short positions would receive interest if held overnight.
+This charge or interest is calculated as the one-month sterling LIBOR rate - a spread.
+However, with current market interest rates lower than the spread, clients with short positions also incur a charge.
+As at 15 May 2012, the current LIBOR rate was 0.68%, while the spread was 2.5%, resulting in a net financing charge of 1.82% for short CFD positions held overnight which for UK CFDs means those open at 10pm UK time.
+A corresponding long CFD position would incur a charge of 3.18%.
+Closing price day one 80.75p Daily interest charged 0.81 calculated as 20,000 x 80.75p x 1.82% 365 days 162 | IG GROUP HOLDINGS PLC | 2013 ANNUAL REPORT 163

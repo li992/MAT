@@ -1,0 +1,28 @@
+Principal_NN Companies_NNS of_IN the_DT Group_NNP Country_NN of_IN %_NN equity_NN owned_VBN registration_NN &_CC voting_NN rights_NNS at_IN Activity_NN or_CC incorporation_NN 31_CD December_NNP 2004_CD Engineering_NNP Products_NNPS Subsidiaries_NNPS EnviroTech_NNP Pumpsystems_NNPS Inc._NNP ._.
+Clear_NNP Liquid_NN Pumps_VBZ USA_NNP 100_CD trading_NN as_IN Weir_NNP Specialty_NNP Pumps_NNP ,_, Weir_NNP Lewis_NNP and_CC Weir_NNP Rubber_NNP Engineering_NNP Weir_NNP EnviroTech_NNP Pumpsystems_NNP S._NNP A._NNP S._NNP Minerals_NNPS Pumps_NNP France_NNP 100_CD formerly_RB EnviroTech_NNP Pumpsystems_NNP S._NNP A._NNP S._NNP Vulco_NNP S._NNP A._NN trading_NN as_IN Weir_NNP Vulco_NNP Minerals_NNPS Pumps_NNP Chile_NNP 100_CD Warman_NNP International_NNP India_NNP Pvt_NNP Ltd._NNP ._.
+Minerals_NNPS Pumps_NNPS India_NNP 75_CD formerly_RB Warman_NNP India_NNP Private_NNP Ltd._NNP ._.
+Weir_NNP do_VBP Brasil_NNP Ltda_NNP ._.
+Minerals_NNPS Pumps_NNPS Brazil_NNP 100_CD Weir_NNP EnviroTech_NNP Pty_NNP Ltd._NNP ._.
+Minerals_NNPS Pumps_NNPS South_NNP Africa_NNP 100_CD Weir_NNP Floway_NNP Inc._NNP ._.
+Clear_NNP Liquid_NN Pumps_VBZ USA_NNP 100_CD Weir_NNP Hazleton_NNP Inc._NNP ._.
+Minerals_NNPS Pumps_NNPS USA_NNP 100_CD Weir_NNP Netherlands_NNP b._NNP v._CC Minerals_NNPS Pumps_NNP Netherlands_NNP 100_CD Weir_NNP Pumps_NNP Ltd._NNP ._.
+Clear_NNP Liquid_NN Pumps_NNP Scotland_NNP 100_CD Pump_NNP Division_NNP including_VBG Weir_NNP Materials_NNPS and_CC Foundries_NNPS Weir_NNP Slurry_NNP Group_NNP Inc._NNP trading_NN as_IN Weir_NNP Slurry_NNP North_NNP America_NNP Minerals_NNPS Pumps_NNPS USA_NNP 100_CD Weir_NNP Flowguard_NNP Ltd._NNP ._.
+Flow_NNP Control_NNP Equipment_NNP England_NNP 100_CD formerly_RB Weir_NNP Valves_NNP &_CC Controls_NNP Flowguard_NNP Ltd._NNP ._.
+Weir_NNP Valves_NNP &_CC Controls_NNP France_NNP S._NNP A._NNP S._NNP Valves_NNP &_CC Controls_NNP France_NNP 100_CD Weir_NNP Valves_NNP &_CC Controls_NNP UK_NNP Ltd._NNP ._.
+Valves_NNP &_CC Controls_NNP England_NNP 100_CD Weir_NNP Valves_NNP &_CC Controls_NNP USA_NNP Inc._NNP ._.
+Valves_NNP &_CC Controls_NNP USA_NNP 100_CD Weir_NNP Warman_NNP Ltd._NNP ._.
+Minerals_NNPS Pumps_NNP Australia_NNP 100_CD Weir_NNP Warman_NNP Ltd._NNP ._.
+Minerals_NNPS Pumps_NNP England_NNP 100_CD Techna_NNP Subsidiaries_NNPS Entropie_NNP S._NNP A._NNP S._NNP trading_NN as_IN Weir_NNP Entropie_NNP Desalination_NNP &_CC Thermal_JJ Processes_NNP France_NNP 100_CD Liquid_NN Gas_NNP Equipment_NNP Ltd._NNP trading_NN as_IN Weir_NNP LGE_NNP Liquid_NN Gas_NNP Handling_NNP Scotland_NNP 100_CD Strachan_NNP &_CC Henshaw_NNP Ltd._NNP trading_NN as_IN Weir_NNP Strachan_NNP &_CC Henshaw_NNP Mechanical_NNP Handling_NNP Equipment_NNP England_NNP 100_CD Weir_NNP Envig_NNP Pty_NNP Ltd._NNP ._.
+Water_NNP &_CC Efuent_NNP Treatment_NNP South_NNP Africa_NNP 100_CD Weir_NNP Westgarth_NNP Ltd._NNP ._.
+Desalination_NNP &_CC Water_NNP Treatment_NNP Scotland_NNP 100_CD Joint_NNP Venture_NNP European_NNP Nuclear_NNP Technologies_NNPS Ltd_NNP Marketing_NNP Joint_NNP Venture_NNP England_NNP 50_CD Engineering_NNP Services_NNPS Subsidiaries_NNPS Weir_NNP Canada_NNP Inc._NNP formerly_RB Peacock_NNP Inc._NNP ._.
+Engineering_NNP Services_NNPS Canada_NNP 100_CD Weir_NNP Pumps_NNP Ltd._NNP ._.
+Engineering_NNP Services_NNPS Scotland_NNP 100_CD Engineering_NNP Services_NNPS Division_NNP Weir_NNP Services_NNP Australia_NNP Pty_NNP Ltd._NNP ._.
+Engineering_NNP Services_NNP Australia_NNP 100_CD Weir_NNP Services_NNPS USA_NNP Inc._NNP ._.
+Engineering_NNP Services_NNPS USA_NNP 100_CD Joint_NNP Ventures_NNP Renewable_NNP Technology_NNP Ventures_NNP Ltd._NNP ._.
+Renewable_NNP Energy_NNP Scotland_NNP 50_CD Wesco_NNP Abu_NNP Dhabi_NNP L._NNP L._NNP C._NNP Engineering_NNP Services_NNPS U._NNP A._NNP E._NNP 49_CD Associate_NNP Devonport_NNP Management_NNP Ltd._NNP ._.
+Retting_NNP &_CC Maintenance_NNP of_IN Naval_NNP Vessels_NNP England_NNP 24.5_CD holding_VBG company_NN of_IN Devonport_NNP Royal_NNP Dockyard_NNP Ltd._NNP ._.
+Joint_NNP ventures_NNS issued_VBN capital_NN as_IN follows_VBZ :_: European_JJ Nuclear_NNP Technologies_NNPS Ltd._NNP 1,000_CD :_: Renewable_NNP Technology_NNP Ventures_NNP Ltd._NNP 1,000_CD :_: Wesco_NNP Abu_NNP Dhabi_NNP L._NNP L._NNP C._NNP 482,889_CD ._.
+Associates_NNPS issued_VBD capital_NN as_IN follows_VBZ :_: Devonport_NNP Management_NNP Ltd._NNP 400_CD ._.
+Companies_NNS whose_WP$ shares_NNS are_VBP owned_VBN directly_RB by_IN The_DT Weir_NNP Group_NNP PLC._NNP ._.
+The_DT results_NNS of_IN DML_NNP have_VBP been_VBN included_VBN on_IN the_DT basis_NN of_IN the_DT latest_JJS draft_NN statutory_JJ accounts_NNS ._.
+The_DT Weir_NNP Group_NNP PLC_NNP Report_NNP and_CC Accounts_NNPS 2004_CD 69_CD

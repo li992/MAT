@@ -1,0 +1,63 @@
+Half_NN
+of_PIN
+these_DEMO
+expenses_NN
+are_VPRT [SPAU] [PASS]
+now_TIME
+charged_VBN
+to_PIN
+capital_NN
+._.
+The_DT
+figures_NN
+shown_VBN [PRIV] [WZPAST]
+for_PIN
+1995_CD
+and_CC
+subsequent_JJ
+years_NN
+are_VPRT [PASS]
+based_VBN
+on_PIN
+this_DEMO
+new_JJ
+policy_NN
+but_CC
+earlier_TIME
+years_NN
+have_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+restated_VBN
+._.
+Comparative_JJ
+Dividend_NN
+Growth_NN
+100_CD
+75_CD
+50_CD
+25_CD
+0_CD
+-25_CD
+-50_CD
+1992 1993 1994 1995_CD
+1996 1997 1998 1999_CD
+2000 2001 2002_CD
+Temple_NN
+Bar_NN
+Investment_NOMZ
+Trust_NN
+Sector_NN
+FTSE_NN
+All-Share_NN
+Index_NN
+Retail_NN
+Prices_NN
+Index_NN
+Temple_NN
+Bar_NN
+Investment_NOMZ
+Trust_NN
+3_CD
+%_NN
+Change_NN

@@ -1,0 +1,57 @@
+FINANCIAL INSTRUMENTS RISK PROFILE Market Risks The potential market risks are i currency risk, ii interest risk, and iii other price risk.
+Each considered in turn below.
+i Currency Risk The Company invests in global equity markets and therefore is exposed to currency risks as it affects the value of the shares in the base currency.
+These currency exposures are not hedged.
+Currency exposures for the Company as at 31 December 2010 are detailed in the table at the end of this note.
+ii Interest Rate Risk The Company is typically fully invested in global equities but will from time to time hold interest bearing assets.
+These assets are cash balances that earn interest at a floating rate and UK Treasury Bills when large amounts of cash are held.
+At the year end the Companys only interest bearing investment was STE Clean Recycling and Energy but a very limited amount of income is receivable on this investment.
+The Company does not have interest bearing liabilities.
+iii Other Price Risk The principal price risk for the Company is the price volatility of shares that are owned by the Company.
+The Company is well diversified across different sub-sectors and geographies and has a volatility level similar to global stock market indices such as the MSCI World Index to which the Company has an expected tracking error of 9.5%.
+The historic 3-year annualised volatility of the Company to 31 December 2010 is 25.4%.
+Overall Sensitivity The Manager has used the value at risk VAR methodology in UBS PAS a proprietary investment banking model to estimate the maximum expected loss from the portfolio held at 31 December 2010 over 1 day, 5 day, 10 day and 21 day time periods given the historical performance of the fund over the previous five years.
+The data in the previous five years is analysed under discrete periods to provide 1 in 10, 1 in 20 and 1 in 100 possible outcomes.
+The results of the analysis are shown below.
+Expected loss as percentage at limit 1 in 10 90% 1 in 20 95% 1 in 100 99% 1 day return 1.2 1.9 3.5 5 day return 3.4 4.8 7.9 10 day return 4.9 7.1 12.2 21 day return 6.4 9.5 23.3 The above analysis has been based on the following main assumptions: The distribution of share price returns will be the same in the future as they were in the past.
+The portfolio weightings will remain as they were at 31 December 2010.
+The above results suggest, for example, that there is a 5% or less chance of the NAV falling by 4.8% or more over a 5 day period.
+Similarly, there is a 1% or less chance of the NAV falling by 3.5% or more on any given day.
+Credit Risk Cash at bank at 31 December 2010 included 4,157,000 2009: 6,902,000 held at the Companys custodian, The Northern Trust Company.
+The Company also held 10,632,000 2009: 476,000 at Lloyds TSB Bank plc.
+The Board has established guidelines that, under normal circumstances, the maximum level of cash to be held at any one bank should be the lower of i 5% of the Companys net assets and ii 15 million.
+These are guidelines and there may be instances when this amount is exceeded for short periods of time.
+Credit risk arising on transactions with brokers relates to transactions awaiting settlement.
+Risk relating to unsettled transactions is considered to be low as trading is almost always done on a delivery versus payment basis.
+There is a significant credit risk on the unquoted interest bearing investment in STE Clean Recycling and Energy which was valued at 703,000 at the year.
+Substantially all of the assets of the Company are held by The Northern Trust Company the Custodian or sub-custodians of the Custodian.
+Bankruptcy or insolvency of the Custodian or its sub-custodians may cause the Companys rights with respect to securities held by the Custodian to be delayed or limited.
+The Custodian segregates the Companys assets from its own assets and only uses sub-custodians on its approved list of sub-custodians.
+The Company invests in broker issued participatory notes to provide economic exposure to underlying shares or securities when it is impracticable to invest directly in those shares or securities.
+The Company may be exposed to risk of loss in the event of default or insolvency of any counter-party used to acquire such investments.
+The Board has set a maximum limit for investment through participatory notes at 5% of net asset value, subject to a further limit of 2% per broker both limits at time of investment.
+44 IMPAX ENVIRONMENTAL MARKETS PLC Job No.
+: 6661 Proof Event: 7 Park Communications Ltd Alpine Way London E6 6LA Customer: Impax Project Title: Annual Report T: 020 7055 6500 F: 020 7055 6600 6661 Impax R&A 2010 Text:6661 Impax R&A 2010 Text 31 3 11 13:43 Page 45 NOTES TO THE ACCOUNTS CONTINUED 14.
+FINANCIAL INSTRUMENTS RISK PROFILE continued Liquidity Risk The Fund invests in a range of global equities with different market capitalisations and liquidities and therefore needs to be conscious of liquidity risk.
+The Manager monitors the liquidity risk by carrying out a Maturity Analysis of the Companys listed equities based on the 20 Day Average Liquidities of each investment and assuming one third 33.3% of the daily traded volume.
+As shown in the quantitative analysis below, on 31 December 2010, 4% of the portfolio excluding unquoted investments is held in positions which may have taken more than three months to be realised.
+Quantitative Disclosures As described above, the Manager has carried out a maturity analysis of the Companys quoted investments at 31 December 2010 and the results for different time bands are reported as follows: Percentage of portfolio that could be liquidated in one month 82% Percentage of portfolio that could be liquidated in three months 96% Percentage of portfolio that could be liquidated in one year 99% Percentage of portfolio that could be liquidated in five years 100% The Company may invest up to 10% of its net assets into pre-IPO investments which are possible candidates for flotation.
+At the year end the Company held investments in six unquoted companies with an aggregate total value of 16,641,000 2009: 16,298,000 : these investments have been valued at fair value at the year end.
+Classification of financial instruments FRS 29 requires that the classification of financial instruments be valued by reference to the source of inputs used to derive the fair value.
+The following classifications are used: Level 1 quoted prices unadjusted in active markets for identical assets or liabilities: Level 2 inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly or indirectly: and Level 3 inputs for the asset or liability that are not based on observable market data.
+The classification of the Companys investments held at fair value is detailed in the table below: 2010 2009 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total 000 000 000 000 000 000 000 000 Investments at fair value through profit and loss Quoted 412,389 10,736 423,125 369,850 369,850 Unquoted 16,641 16,641 16,898 16,898 412,389 10,736 16,641 439,766 369,850 16,898 386,748 Level 2 investments detailed above are holdings in quoted companies held through broker participatory notes.
+The movement on the Level 3 classied investments during the year is shown below: 2010 2009 000 000 Opening balance at 1 January 16,898 16,586 Additions during the year 1,935 1,611 Valuation adjustments 1,593 1,299 Closing balance at 31 December 16,641 16,898 45 IMPAX ENVIRONMENTAL MARKETS PLC Job No.
+: 6661 Proof Event: 7 Park Communications Ltd Alpine Way London E6 6LA Customer: Impax Project Title: Annual Report T: 020 7055 6500 F: 020 7055 6600 6661 Impax R&A 2010 Text:6661 Impax R&A 2010 Text 31 3 11 13:43 Page 46 NOTES TO THE ACCOUNTS CONTINUED 14.
+FINANCIAL INSTRUMENTS RISK PROFILE continued Financial assets and liabilities The Companys investments are mainly in securities of companies quoted on recognised stock exchanges.
+These investments are carried in the balance sheet at fair value by reference to their market bid prices.
+Any unquoted securities are measured at fair value which is determined by the directors in accordance with the International Private Equity and Venture Capital guidelines.
+All liabilities are included at fair value.
+At 31 December 2010 there were 324,509,373 Ordinary Shares in issue of these shares 6,709,037 were held in Treasury.
+The Company bought back 5,802,032 Ordinary Shares during the year.
+The Company did not have any borrowings during the year.
+The Companys policy on borrowings is detailed in the Directors Report.
+The Manager and the Companys broker, monitor the demand for the Companys shares and the directors review the position at Board meetings.
+Further details on share issues during the year and the Companys policies for issuing further shares and buying back shares can be found in the Directors Report.
+The Company has no externally imposed capital requirements.
+46 IMPAX ENVIRONMENTAL MARKETS PLC Job No.
+: 6661 Proof Event: 7 Park Communications Ltd Alpine Way London E6 6LA Customer: Impax Project Title: Annual Report T: 020 7055 6500 F: 020 7055 6600

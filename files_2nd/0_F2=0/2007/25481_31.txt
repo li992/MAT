@@ -1,0 +1,195 @@
+Accounting policies Basis of presentation The group financial statements are prepared in accordance with International Financial Reporting Standards IFRS, as adopted for use by the European Union EU.
+IFRSs as endorsed by the EU are identical to current IFRSs except for the EU's amendment to IAS 39, under which the application of hedge accounting requirements have been simplified.
+The group has elected not to apply the amendments as adopted by the EU, thus applying the more restrictive requirements under IAS39.
+Accounting policies applied are consistent with those of the prior year.
+Basis of consolidation Investec consists of two separate legal entities, being Investec plc and Investec Limited, that operate under a dual listed company DLC structure.
+The effect of the DLC structure is that Investec plc and its subsidiaries and Investec Limited and its subsidiaries operate together as a single economic entity, with neither assuming a dominant role and accordingly are reported as a single reporting entity under IFRS.
+All subsidiaries in which the group holds more than one half of the voting rights or over which it has the ability to control are consolidated from the effective dates of acquisition that is from when control exists and up to the effective dates of loss of control, except entities which are classified as non-current assets held for sale.
+Subsidiaries classified as non-current assets held for sale are consolidated as discontinued operations.
+Entities, other than subsidiary undertakings, in which the group exercises significant influence over operating and financial policies, are 165 treated as associates.
+In the group accounts, associates are accounted for using the equity method from the date that significant influence commences until the date that significant influence ceases, except as noted below.
+The combined consolidated financial statements include the attributable share of the results and reserves of associated undertakings.
+The group's interests in associated undertakings are included in the consolidated balance sheet at the group's share of net assets of the associate plus goodwill arising on acquisition, less any impairment recognised.
+In circumstances where associates or joint venture holdings arise in which the group has no strategic intention, these investments are classified as venture capital holdings and are designated as held at fair value through profit and loss.
+All intergroup balances, transactions and unrealised gains and losses within the group are eliminated to the extent that they do not reflect an impairment to the asset.
+Segmental reporting A segment is a distinguishable component of the group engaged in providing products or services within a particular economic environment which is subject to risks and rewards that are distinguishable from those of other segments.
+The group's primary segmental reporting is presented in the form of a business analysis primary segment.
+The business analysis is presented in terms of the group's five principal business divisions and Group Services and Other Activities.
+A geographical analysis is presented in terms of the main geographies in which the group operates representing the group's exposure to various economic environments.
+Goodwill Goodwill represents the net excess of the purchase consideration over the fair value of net identifiable assets of entities acquired.
+Goodwill is capitalised and tested for impairment at balance sheet dates or when there is an indication of impairment.
+Goodwill is allocated to cash generating units for the purposes of testing impairment based on the synergies expected in the business combination, with any impairments arising being recognised immediately in the income statement.
+Impairments recognised are not reversed in subsequent periods.
+Financial statements Investec plc and Investec Limited Accounting policies continued In circumstances where the group acquires an interest in the net fair value of the acquiree's identifiable assets, liabilities and contingent liabilities over the cost of the acquisition, the group reassess the identification and measurement of all assets and liabilities including contingent liabilities following which any remaining excess is recognised immediately in profit and loss.
+Goodwill arising is denominated in the functional currency of the foreign operation and is translated to the presentation currency of the group pound sterling at the applicable closing rate.
+Share based payments to employees The group engages in equity settled share-based payments and in certain limited circumstances cash-settled share-based payments in respect of services received from employees.
+The fair value of the services received in respect of equity settled share-based payments is determined by reference to the fair value of the shares or share options on the date of grant to the employee.
+The cost of the share based payment is recognised over the vesting period of the grant in the income statement on a straight-line basis, based on an estimate of the amount of instruments that will eventually vest.
+A liability and expense in respect of cash settled share based payments is recognised over the vesting period of the grant in the income statement on a straight-line basis, based on the fair value of the instrument that will eventually vest.
+The liability is recognised at the current fair value at each balance sheet date, based on an estimate of the number of instruments that will eventually vest.
+Subsequent to vesting the liability is measured at fair value, with gains and losses recognised in the profit and loss account until such time as the liability is settled.
+166 Fair value measurements are based on option pricing models, taking into account the risk-free interest rate, volatility of the underlying equity instrument, expected dividends and current share prices.
+Foreign currency transactions and foreign operations The presentation currency of the group is sterling, being the functional currency of Investec plc.
+The functional currency of Investec Limited is South African Rand.
+Foreign operations are subsidiaries, associates, joint ventures or branches of the group, the activities of which are based in a functional currency other than that of the reporting entity.
+The functional currency of group entities is determined based on the primary economic environment in which the entity operates.
+On consolidation, the results and financial position of foreign operations are translated into the presentation currency of the group as follows: assets and liabilities for each balance sheet presented are translated at the closing rate at the date of the balance sheet.
+income and expense items are translated at exchange rates ruling at the date of the transaction.
+all resulting exchange differences are recognised in equity foreign currency translation reserve, which is recognised in profit and loss on disposal of the foreign operation.
+cash flow items are translated at the exchange rates ruling at the date of the transaction.
+Foreign currency transactions are translated into the functional currency of the entity in which the transaction arises based on rates of exchange ruling at the date of the transaction.
+At each balance sheet date foreign currency items are translated as follows: foreign currency monetary items other than monetary items that form part of the net investment in a foreign operation are translated using closing rates, with gains and losses recognised in profit and loss.
+exchange differences arising on monetary items that form part of the net investment in a foreign operation are determined using closing rates and recognised as a separate component of equity foreign currency translation reserve upon consolidation, and is recognised in the income statement upon disposal of the net investment.
+non-monetary items that are measured at historical costs are translated using the exchange rates ruling at the date of the transaction.
+Financial statements Investec plc and Investec Limited Revenue recognition Interest income is recognised in the income statement using the effective interest method.
+Fees charged on lending transactions are included in the effective yield calculation to the extent that they form an integral part of the effective interest yield, but excludes those fees earned for a separately identifiable significant act, which are recognised upon completion of the act.
+Fees and commissions charged in lieu of interest are recognised as income as part of the effective interest rate on the underlying loan.
+The effective interest method is based on the estimated life of the underlying instrument, and, where this estimate is not readily available, the contractual life.
+Commissions and fees include fees earned from providing advisory services as well as portfolio management.
+All such commissions and fees are recognised as revenue when the related services are performed.
+Fees and commission income are only recognised when they can be estimated reliably.
+Principal transaction income includes trading profits, gains and losses on financial assets and liabilities designated as held at fair value and fair value gains and losses on investment properties.
+Trading profits are shown net of the funding cost of the underlying positions and includes the unrealised profits on trading portfolios, which are marked to market daily.
+Equity investments received in lieu of corporate finance fees are included in trading securities and valued accordingly.
+Trading profits gross of funding costs are disclosed in note 3.
+Financial instruments Financial instruments are initially recognised at their fair value, plus in the case of financial assets or financial liabilities not at fair value through profit and loss, transaction costs that are directly attributable to the acquisition or issue of the financial assets or financial liabilities.
+167 Regular way purchase and sales transactions in respect of financial assets that require delivery of a financial instrument within the time frame established by market convention are recorded at trade date.
+Financial assets and liabilities held at fair value through profit and loss Financial instruments held at fair value through profit and loss include all instruments classified as held as trading and those instruments designated as held at fair value through profit and loss.
+Financial instruments classified as held for trading or designated as held at fair value through profit and loss are recorded at fair value on the balance sheet with changes in fair value recognised in the income statement.
+Financial instruments are classified as trading when they are held with the intention of short-term disposal, held with the intention of generating short-term profits, or are derivatives which are not designated as part of effective hedges.
+Financial instruments designated as held at fair value through profit and loss are designated as such on initial recognition of the instrument and remain in this classification until derecognition.
+In certain instances debt instruments which contain equity features are designated as held at fair value through profit and loss.
+Financial assets and liabilities are designated as held at fair value through profit and loss only if: it eliminates or significantly reduces an inconsistent measurement or recognition that would otherwise arise from measuring assets or liabilities or recognising the gains and losses on them on different bases: or a group of financial assets, financial liabilities or both is managed and its performance is evaluated on a fair value basis in accordance with a documented risk management or investment strategy, and information about the group is provided internally on that basis to the group's key management personnel: and if a contract contains one or more embedded derivatives which significantly modifies the cash flows that would be required by the contract and is not clearly prohibited from separation from the host contract and the group has designated the entire hybrid contract as a financial instrument at fair value through profit and loss.
+Held-to-maturity assets Held to maturity assets are non-derivative financial instruments with fixed or determinable payments and maturity dates.
+Financial assets that the group has the positive intent and ability to hold to maturity are classified as held-to-maturity and are measured at amortised cost using the effective interest method, less impairment losses.
+Financial statements Investec plc and Investec Limited Accounting policies continued Loans and receivables Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market and exclude the following: those that the group intends to trade in, which are classified as held for trading, and those that the group designates as held at fair value through profit and loss.
+those that the group designates as available for sale.
+those for which the holder may not recover substantially all of its initial investment, other than because of credit deterioration, which are accounted for at fair value through profit and loss.
+Loans and receivables are measured at amortised cost, using the effective interest method, less impairment losses subsequent to initial recognition.
+Available for sale assets Financial assets classified as available for sale are measured at fair value on the balance sheet, with unrealised gains and losses recognised in equity.
+Realised gains and losses are recognised in income in the period in which the asset is realised.
+If an available for sale instrument is determined to be impaired, the respective cumulative unrealised losses previously recognised in equity are included in the income statement in the period in which the impairment is identified.
+Impairments on available for sale equity instruments are not reversed once recognised in the income statement.
+Financial liabilities 168 Financial liabilities are classified as non-trading, held for trading or designated as held at fair value through profit and loss.
+Non-trading liabilities are recorded at amortised cost applying the effective interest method.
+Held for trading liabilities or liabilities designated as held at fair value through profit and loss, are accounted for as indicated above.
+Valuation of financial instruments The following financial instruments are held at fair value: Fixed maturity securities classified as trading, held at fair value through profit or loss and available for sale.
+Loans and advances designated as held at fair value through profit and loss available for sale.
+Financial liabilities classified as trading or designated as held at fair value through profit and loss.
+Where available, market prices provide the best basis of fair value.
+Where market prices are not available, the fair value is determined by discounting the expected cash flows, using market interest rates taking into account the credit quality and duration of the investment.
+In certain instances model pricing may be used to determine fair values.
+For private equity investments that are not publicly traded, management uses comparisons to similar companies, relevant third party arm's length transactions and other information specific to the investment.
+Financial statements Investec plc and Investec Limited Impairments of financial assets held at amortised cost Financial assets carried at amortised cost are impaired if there is objective evidence that the group would not receive cash flows according to the original contractual terms.
+Financial assets are assessed for objective evidence of impairment at least at each balance sheet reporting date.
+The test for impairment is based either on specific financial assets or collectively on a portfolio of similar, homogeneous assets.
+Impairments are credited against the carrying value of financial assets.
+The impairment is calculated as the difference between the carrying value of the asset and the expected cash flows discounted at the original effective rate.
+An allowance for impairment is only reversed when there is objective evidence that the credit quality has improved to the extent that there is reasonable assurance of timely collection of principal and interest in terms of the original contractual agreement.
+Assets specifically identified as impaired are removed from the portfolio assessment.
+To cater for any shortfall between regulatory provision requirements in the respective jurisdictions and impairments based on the principles above, a transfer is made from distributable to non distributable reserves, being the regulatory general risk reserve.
+The non distributable regulatory provision reserve ensures that minimum regulatory provisioning requirements are maintained.
+Derecognition of financial assets and liabilities A financial asset or a portion thereof, is derecognised when the group's rights to cash flows have expired: or when the group has transferred its rights to cash flows relating to the financial assets, including the transfer of substantially all the risk and rewards associated with the financial assets or when control over the financial assets has passed.
+A financial liability is derecognised when it is extinguished, that is when the obligation is discharged, cancelled or has expired.
+Derivative instruments All derivative instruments of the group are recorded on balance sheet at fair value.
+Positive and negative fair values are reported as assets and liabilities respectively and are offset when there is both an intention to settle net and a legal right to offset exists.
+Derivative positions are entered into either for trading purposes or as part of the group's asset and liability management activities to 169 manage exposures to interest rate and foreign currency risks.
+Both realised and unrealised profits and losses arising on derivatives are recognised in the income statement as part of trading income other than circumstances in which cash flow hedging is applied as detailed below.
+Hedge accounting The group applies either fair value or cash flow hedge accounting when the transactions meet the specified hedge accounting criteria.
+To qualify for hedge accounting treatment, the group ensures that all of the following conditions are met: At inception of the hedge the group formally documents the relationship between the hedging instrument s and hedged item s including the risk management objectives and the strategy in undertaking the hedge transaction.
+The hedge is expected to be highly effective in achieving offsetting changes in fair value or cash flows attributable to the hedged risk, consistent with the originally documented risk management strategy for that particular hedging relationship.
+For cash flow hedges, a forecasted transaction that is the subject of the hedge must be highly probable and must present an exposure to variations in cash flows that could ultimately affect profit and loss.
+The effectiveness of the hedge can be reliably measured, i. e. the fair value or cash flows of the hedged item that are attributable to the hedged risk and the fair value of the hedging instrument can be reliably measured.
+The hedge effectiveness is assessed on an ongoing basis and determined actually to have been highly effective throughout the financial reporting periods for which the hedge was designated.
+Hedge accounting is discontinued when it is determined that the instrument ceases to be highly effective as a hedge: the hedging instrument expires, or is sold, terminated or exercised: when the hedged item matures or is sold or repaid: or when a forecasted transaction is no longer deemed highly probable.
+For qualifying fair value hedges, the change in fair value of the hedging instrument is recognised in the income statement.
+Changes in fair value of the hedged item that is attributable to the hedged risk are also recognised in the income statement.
+For qualifying cash flow hedges in respect of non-financial assets and liabilities, the change in fair value of the hedging instrument is initially recognised in equity and is released to the initial cost of any asset liability recognised or in all other cases, to the income statement when the hedged firm commitment or forecasted transaction affects net profit.
+Financial statements Investec plc and Investec Limited Accounting policies continued For qualifying cash flow hedges in respect of financial assets and liabilities, the change in fair value of the hedging instrument, which represents an effective hedge, is initially recognised in equity and is released to the income statement in the same period during which the relevant financial asset or liability affects profit or loss.
+Any ineffective portion of the hedge is immediately recognised in profit and loss.
+Derivative instruments transacted as economic hedges but which do not qualify for hedge accounting and derivatives that are entered into for trading purposes are treated in the same way as instruments that are held for trading.
+To the extent that a derivative may be embedded in a host contract and the host contract is not carried at fair value with changes in fair value recorded in the income statement, the embedded derivative is separated from the host contract and accounted for as a standalone derivative if and only if: The economic characteristics and risks of the embedded derivative are not closely related to the economic characteristics and risks of the host contract.
+A separate instrument with the same terms as the embedded derivative would meet the definition of a derivative.
+Offsetting of financial assets and liabilities Financial assets and liabilities are offset when there is both an intention to settle on a net basis or simultaneously and a legal right to offset exists.
+Issued debt and equity financial instruments Financial instruments issued by the group are classified as liabilities if they contain an obligation to transfer economic benefits.
+Financial instruments issued by the group are classified as equity where they confer on the holder a residual interest in the group.
+The components of compound issued financial instruments are accounted for separately with the liability component separated first and 170 any residual amount being allocated to the equity component.
+Equity instruments issued by subsidiaries of Investec plc or Investec Limited are recorded as minority interests on balance sheet.
+Equity instruments are initially measured net of directly attributable issue costs.
+Treasury shares represent issued equity repurchased by the group which has not been cancelled.
+Treasury shares are deducted from shareholders' equity and represent the purchase consideration, including directly attributable costs.
+Where treasury shares are subsequently sold or reissued, net proceeds received are included in shareholders' equity.
+Dividends on ordinary shares are recognised as a deduction from equity at the earlier of payment date or the date that it is approved by Investec plc in relation to dividends declared by Investec plc and Investec Limited in relation to dividends declared by Investec Limited shareholders.
+Sale and repurchase agreements including securities borrowing and lending Where securities are sold subject to a commitment to repurchase them, they remain on balance sheet.
+Proceeds received are recorded as a liability on balance sheet under repurchase agreements and cash collateral on securities lent.
+Securities that are purchased under a commitment to resell the securities at a future date are not recognised on the balance sheet.
+The consideration paid is recognised as an asset under reverse repurchase agreements and cash collateral on securities borrowed.
+Securities borrowing transactions that are not cash collateralised are not included in the balance sheet.
+Securities lending and borrowing transactions which are cash collateralised are accounted for in the same manner as securities sold or purchased subject to repurchase commitments.
+Financial guarantees Financial guarantees are initially recognised at fair value, being the premium received.
+Subsequent to initial recognition, the liability under each guarantee is measured at the higher of the amortised premium and the best estimate of expenditure required to settle any financial obligation arising as a result of the guarantee.
+Subsequent to initial measurement all changes in balance sheet carrying value are recognised in the income statement.
+Financial statements Investec plc and Investec Limited Instalment credit, leases and rental agreements Where classified as a finance lease, amounts outstanding on these contracts, net of unearned finance charges, are included in loans and advances where the entity is the lessor and included in liabilities where the entity is the lessee.
+Finance charges on finance leases and instalment credit transactions are credited or debited to income in proportion to the capital balances outstanding at the rate implicit in the agreement.
+Where classified as operating leases, rentals payable receivable are charged credited in the profit and loss account on a straight line basis over the lease term.
+Contingent rentals if any are accrued to profit and loss account when incurred.
+Property and equipment Property and equipment is recorded at cost less accumulated depreciation and impairments.
+Depreciation is provided on the depreciable amount of each component on a straight-line basis over the anticipated useful life of the asset.
+The depreciable amount related to each asset is determined as the difference between the cost and the residual value of the asset.
+The residual value is the estimated amount, net of disposal costs that the group would currently obtain from the disposal of an asset in similar age and condition as expected at the end of its useful life.
+The current annual depreciation rates for each class of property and equipment is as follows: Computer and related equipment 20-33% Motor vehicles 20-25% Furniture and fittings 10-20% Freehold buildings 2% Leasehold improvements 171 Leasehold improvements depreciation rates are determined by reference to the appropriate useful life of its separate components, limited to the period of the lease.
+No depreciation is provided on freehold land, however, similar to other property related assets, it is subject to impairment testing when deemed necessary.
+Routine servicing and maintenance of assets are expensed as incurred.
+Subsequent expenditure is only capitalised if it is probable that future economic benefits associated with the item will flow to the group.
+Investment property Properties held by the group which are held for capital appreciation or rental yield are classified as investment properties.
+Investment properties are carried on balance sheet at fair value, with fair value gains and losses recognised in the income statement under principal transactions.
+Fair value of investment property is calculated by taking into account the expected rental stream associated with the property, and is supported by market evidence.
+Impairment of non-financial assets At each balance sheet date the group reviews the carrying value of non-financial assets for indication of impairment.
+The recoverable amount, being the lower of fair value less cost to sell and value in use, is determined for any assets for which an indication of impairment is identified.
+If the recoverable amount of an asset is less than its carrying value, the carrying value of the asset is reduced to its recoverable value.
+Impairment losses are recognised as an expense in the income statement in the period in which they are identified.
+Reversal of impairment losses is recognised in income in the period in which the reversal is identified, to the extent that the asset is not revalued to a carrying value that would have been calculated without impairment.
+Financial statements Investec plc and Investec Limited Accounting policies continued Trust and fiduciary activities The group acts as a trustee or in other fiduciary capacities that result in the holding, placing or managing of assets for the account of and at the risk of clients.
+As these are not assets of the group, they are not reflected on the balance sheet but are included at market value as part of assets under administration.
+Taxation and deferred taxation Current tax payable is provided on taxable profits at rates that are enacted and applicable to the relevant period.
+Deferred taxation is provided using the balance sheet method on temporary differences between the carrying amount of an asset or liability in the balance sheet and its tax base, except where such temporary differences arise: from the initial recognition of goodwill.
+from the initial recognition of an asset or liability in a transaction which is not a business combination and at the time of the transaction has no effect on profit or loss.
+in respect of taxable temporary differences associated with the investments in subsidiaries and associates, where the timing of the reversal of the temporary differences can be controlled and it is probable that the temporary differences will not reverse in the foreseeable future.
+Deferred tax assets or liabilities are measured using the tax rates that have been enacted or substantively enacted by the balance sheet 172 date.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the asset can be utilised.
+Items recognised directly in equity are net of related taxation and deferred taxation.
+Insurance contracts Insurance contracts are those contracts in which the group assumes significant insurance risk.
+The deposit components of insurance contracts are unbundled and accounted for separately.
+Insurance premiums are recognised in income in the period in which the group is entitled to the premium.
+Insurance claims are recognised in the income statement in the period in which a contractual obligation arises for the group to make payment under an insurance contract.
+Reinsurance assets and liabilities and associated premiums claims are not offset in the income statement or balance sheet.
+Insurance liabilities are measured at their actuarial values, and are tested for adequacy on an annual basis.
+Any deficiency identified is recognised in the income statement.
+Employee benefits The group operates various defined contribution schemes and two closed defined benefit schemes.
+In respect of the defined contribution scheme all employer contributions are charged to income, as incurred in accordance with the rules of the scheme, and included under staff costs.
+The assets of the defined benefit schemes are measured at their market value at the balance sheet date and the liabilities of the schemes are measured using the projected unit credit method.
+The discount rate used to measure the schemes' liabilities is the current rate of return on an AA corporate bond at the balance sheet date of equivalent term and currency to the liabilities.
+The extent to which the schemes' assets exceed or fall short of the schemes' liabilities is shown as a surplus or deficit in the balance sheet to the extent that it is considered recoverable.
+Actuarial gains and losses related to the defined benefit asset or liability are recognised immediately directly in equity.
+The group has no liabilities for other post retirement benefits.
+Financial statements Investec plc and Investec Limited Intangible assets Intangible assets are recorded at cost less accumulated amortisation and impairments.
+For intangible assets with a finite life, amortisation is provided on the depreciable amount of each intangible asset on a straight-line basis over the anticipated useful life of the asset currently 3 to 8 years.
+The depreciable amount related to each intangible asset is determined as the difference between the cost and the residual value of the asset.
+The residual value is the estimated amount, net of disposal costs, which the group would currently obtain from the disposal of an intangible asset in similar age and condition as expected at the end of its useful life.
+Intangible assets with an indefinite life are not amortised, however they are tested for impairment on an annual basis.
+Borrowing costs Borrowing costs in respect of property developments that take a substantial period of time to develop for sale are capitalised.
+Provisions, contingent liabilities and contingent assets Provisions are liabilities of uncertain timing or amount, and are recognised as soon as the group has created a legal or constructive obligation which will lead to an outflow of economic resources to settle the obligation as a result of a past event.
+Contingent assets and contingent liabilities are not recognised on balance sheet.
+Standards and interpretations not yet effective 173 The following standards and interpretations, which have been issued but are not yet effective, are applicable to the group.
+These standards and interpretations have not been applied in these financial statements.
+The group intends to comply with these standards from the effective dates.
+IFRS 7 - Financial Instruments: Disclosures effective for the financial year beginning 1 April 2007 The standard relates to disclosure requirements for financial instruments and replaces IAS 30 Disclosures in the Financial Statements of Bank and Similar Financial Institutions and elements of IAS 32 Financial Instruments: Disclosure and Presentation.
+Adoption of the standard will change the format of disclosure presented but will not affect recognition or measurement criteria as currently applied.
+IFRS 8 - Operating segments effective for the financial year beginning 1 April 2009 The standard relates to disclosure requirements for segmental information and replaces IAS 14 Segmental Reporting.
+The group believes that segmental information disclosure is closely aligned with the requirements of IFRS 8 and therefore implementation of the standard would result in minimal changes to disclosure.
+Key management assumptions In preparation of the financial statements the group makes estimations and applies judgment that could affect the reported amount of assets and liabilities within the next financial year.
+Key areas in which judgment is applied include: Valuation of unlisted investments in the private equity and direct investments portfolios.
+Key valuation inputs are based on observable market inputs, adjusted for factors that specifically apply to the individual investments and recognise market volatility.
+Valuation of investment properties is performed twice annually by directors that are qualified valuators.
+The valuation is performed by capitalising the budgeted net income of a property at the market related yield applicable at the time.
+Financial statements Investec plc and Investec Limited

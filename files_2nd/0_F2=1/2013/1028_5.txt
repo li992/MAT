@@ -1,0 +1,189 @@
+Anite plc Our businesses 08 Annual report and accounts 2013 Business overview Governance Financial statements Wireless continued Device manufacturers Anite enables major mobile device manufacturers to develop and launch The world is going mobile fuelled by demand quality products.
+Our technology, which for smartphones and tablets, a change from the comprises software, hardware and test scripts, helps them to bring devices to use of the PC to a more mobile device, and an market quickly and at lower cost.
+explosion in mobile data traffic.
+Consumers expect to download more content, more quickly, Chipset manufacturers and with consistent network service at all times.
+Anite works in partnership with industry And thats not all.
+Our test solutions enable them objects, machines or sensors are driving machineto resolve bugs and glitches early in the development cycle.
+This helps them to to-machine M2M technologies at home, in the build quality products and to significantly community and across a broad range of industries.
+reduce deployment and integration costs.
+Mobile network operators Anites systems provide the technology for mobile network operators to evaluate devices before accepting them onto their 1 networks.
+Our Nemobranded products also enable them to measure, monitor and optimise their networks in order to provide a consistent service to their customers.
+Network equipment manufacturers 2 Anites Propsimbranded radio channel emulators enable network equipment manufacturers to optimise their products performance by simulating the characteristics of real-world conditions in a laboratory.
+These, combined with our Nemo-branded products, enable them to validate the latest wireless technologies to ensure quality performance throughout a networks life cycle.
+Independent test companies Anites device-testing solutions help major international test companies win new business and increase revenue.
+Mobile network service contractors use Anites Nemo testing tools to assess the performance and competitiveness of the networks of leading mobile network operators.
+Markets Anite plc 09 Annual report and accounts 2013 Business overview Governance Financial statements A single smartphone is able to generate as much data 1 Global mobile data trafc 2012-17 exabytes per month traffic as 50 basic feature phones, and a tablet as much as 120.
+Many consumers now own both.
+They use 12 them to download content and applications that were 11.2 not available on earlier generation devices.
+In 2012, 8 mobile video accounted for more than half of the 70% 7.4 growth in global mobile data traffic.
+As new devices 4.7 4 with increased capabilities are introduced, mobile data 0.9 2.8 traffic is projected to grow a further 13-fold by 2017, 1.6 with Asia and North America accounting for almost 0 2012 2013 2014 2015 2016 2017 two-thirds of that growth.
+Laptops currently generate Source: Cisco VNI Mobile Forecast, 2013 a disproportionate amount of traffic, but smartphones, tablets and M2M will begin to take a larger share.
+Global mobile devices and connections: M2M, By 2017 it is estimated that there will be 8.6 billion 1 1 smartphones and tablets drive growth Millions mobile devices, and 1.7 billion M2M connections.
+12 LTE 4G networks will go some way towards alleviating the network overload created by this demand for mobile 9 data.
+Current generation mobile networks were not designed for this level of use and 424 operators, in 126 6 countries, are currently investing in LTE 4G.
+To date, 3 there are 175 LTE 4G networks in commercial service in 70 countries, including the UK.
+Of the worlds 6.5 billion mobile phone Source: Cisco VNI Mobile Forecast, 2013 subscriptions, only around 100 million, primarily in Asia Tablets 2.3% M2M 16.5% 2 Other portables 0.9% Smartphones 27.4% and North America, currently subscribe to LTE 4G.
+Laptops 2.6% Non-smartphones 50.3% Continual advances in wireless technology result in increasingly complex mobile devices that need more tools to test them and to bring them to market quickly.
+Each new 3 Global mobile connections K millions technology must be compatible with legacy systems and 2G 3G 4G Total must work on different frequencies and networks around 10 the world.
+Even using our effective testing systems, a typical 8 LTE 4G device needs 2025% more testing than a 3G device.
+6 Maintaining the quality of service which can be affected 4 by devices complexity and technology, and by the 2 insatiable demand for data and speed has become a key E E E E E E E E E 0 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 differentiator for operators.
+To sustain performance and 1 Cisco Visual Networking Source: Gartner historical: Jefferies & Company, Inc. estimates reduce customer churn, they need to assure the quality Index: Global Mobile Data Traffic Forecast of handsets coming onto their networks.
+They also need Update, 2012-2017, to measure, monitor and optimise their networks.
+stage in LTE 4Gs evolution and will deliver even faster February 2013. data rates.
+Research has already begun on 5G which will 2 GSA Evolution to LTE Report, May 2013.
+The predicted doubling of mobile data traffic each year support future demands.
+This will take a considerable 3 Jefferies Telecom means that, even with LTE 4G, capacity and radio spectrum amount of time to develop but is an indication that existing Equipment Wireless will eventually run out.
+Pilot networks for LTE-Advanced and new technology will not cope with this growth.
+In Handset 2020 Update, LTE-A are currently being introduced.
+LTE-A is the next time, this will create more opportunities for testing.
+Our strategy is to maintain our position as a global We have significant skill, knowledge and technology leader in wireless test software and to capitalise on the which can be used to expand our addressable markets opportunities that emerge from the development and as the increasing complexity of mobile technology roll-out of LTE 4G technology and its successors.
+By continues to demand an increase in the amount, continuing to invest in early R&D we will ensure that breadth and complexity of our testing products.
+our highly specialised systems remain at the leading edge and are ready when our customers need them.
+Strategy Trends Anite plc Our businesses 10 Annual report and accounts 2013 Business overview Governance Financial statements Wireless Handset Testing Our Handset Testing business has been a world leader for 20 years.
+Our systems simulate network functionality and real-world radio conditions.
+Chipset, device and network equipment manufacturers, and mobile network operators use our systems to test and improve their products throughout the development process, and to reduce costs and time to market.
+Anite plc 11 Annual report and accounts 2013 Business overview Governance Financial statements Development testing DT Interoperability testing IOT Anites Development Toolset enables the customer Anites IOT solution, SAS, is a network simulator that to test all phases of wireless device development: enables customers to evaluate devices quickly in the from pre-silicon protocol module development, integration, interoperability and carrier acceptance testing to systems integration and verification.
+The first product of its kind, it is the market leader.
+Conformance testing CT Channel emulation CE Anites Conformance Toolset enables the customer to test Anites Propsim radio channel emulators enable the the individual protocol stack layers in wireless devices to customer to simulate the characteristics of real-world ensure that they comply with the latest industry standards.
+They enable the development and testing of high-quality wireless equipment.
+The business employs highly specialised engineers We sell our products worldwide.
+The majority through employees and short-term contractors to a directly employed sales force, others through selected develop its systems.
+We often collaborate sales channel partners in appropriate areas.
+Customers with customers as we both seek to resolve the most commonly buy the initial hardware and software challenges presented by new technologies.
+In addition, they buy annual maintenance and support contracts.
+These entitle them to Our products are built around a core hardware and software upgrade to new software releases as the underlying wireless platform, on which we load one of Handset Testings standards evolve.
+Customers often operate systems, and own applications.
+For certain applications, customers pay for support, for as long as ten years.
+They will typically buy additional test scripts which run exclusively on our buy more software as they continue to use our systems.
+systems that enable them to test their devices against specific simulated situations and characteristics.
+Our systems have a long lifespan and are easy to use.
+As mobile phone technology advances they can be used in conjunction with newer technology.
+To enable our Handset Testing customers to Our acquisition of the Propsim product line has given us exploit developments in technology, and to channel emulation solutions, enabling us to address new expand our markets, we will offer an increasing testing in CT and further expand into the performance range of products and continue to develop the testing market.
+It has also opened up a new customer functionality of our hardware platform.
+base with network equipment manufacturers.
+We will continue to expand into adjacent markets, as We will also maintain our technology leadership in appropriate, to meet our customers demands.
+CT. We will expand the number of new IOT operator eco-systems, worldwide, by anticipating and responding We are planning for generations of technology beyond to operator needs.
+We will continue to work in partnership LTE 4G and LTE-A, and will also continue to support with industry-leading customers to enable them to our products that address legacy technologies.
+build quality products using our DT solutions.
+DT IOT CT CE Growth Business model Solutions Anite plc Our businesses 12 Annual report and accounts 2013 Business overview Governance Financial statements Wireless Trusted by the top ten mobile Handset Testing continued device manufacturers The development of new wireless equipment, mobile Trusted devices and networks is a complex process.
+Purpose designed test solutions form an essential part of the First to submit LTE 4G conformance verification process for new products, enabling real-world test verification conditions to be replicated in the laboratory environment in a controlled and repeatable way.
+Our test systems enable devices to be exercised by connecting them to First simulated networks.
+They also provide the ability to emulate forums.
+These include the Global Certification It enables testing to be more focused and Forum GCF.
+It is a partnership of more repeatable and reduces time and costs.
+the radio channel conditions necessary to test the performance of both device mobile network operators, mobile device Manufacturers need to test their devices against and network equipment, representing manufacturers and the test industry, which real network conditions as early as possible everyday situations experienced by has created an independent programme because it costs more to fix bugs later in consumers.
+For each new technology it is to help ensure interoperability between products life cycles.
+Laboratory-based IOT can also necessary to test compatibility with mobile devices and networks, worldwide.
+As be carried out at an early development stage.
+previous generations to enable devices to technology changes, standards change and function across international networks.
+drive growth in CT. We have consistently Network operators can perform IOT testing led the LTE 4G conformance-testing market in-house or through a managed supply-chain Handset Testing solutions in verified and validated test cases.
+The increasing We focus on four main product areas.
+CT, to number of these schemes we are running is ensure that devices comply with minimum IOT differs substantially from CT in that it is evidence that larger operators are beginning industry standards and are able to deliver driven and endorsed by the larger network to take much stronger control of their supply consistent service.
+DT, in collaboration with operators.
+In theory, mobile networks exist in chains by pushing quality assurance back customers, to develop viable early-stage a standard form, but in reality the combination onto device manufacturers.
+IOT, to ensure that devices function of different manufacturers, devices, radio includes carrier acceptance test scripts that are on different network configurations.
+CE, technologies and network configurations customised to specific network configurations.
+to enable the development and testing creates inconsistencies.
+Operators can of high-quality wireless equipment.
+improve the quality assurance of devices In January 2013, we established a strong coming onto their networks by designing position in the growing performance-testing Our technology tests the entire range of devices, a series of tests around their individual market when we acquired the Propsim channel from second generation 2G to fourth networks settings.
+They see IOT as a major emulation product range.
+It will also test LTE-A devices differentiator because it helps them improve testing is driven by the evolution of LTE 4G as soon as they can be supported by networks.
+the performance of a device on a network.
+technology as well as by the complexity of The need for new mobile devices to contain It is significantly cheaper to retain existing new wireless equipment.
+Our new lab-based legacy as well as new-generation technology subscribers than it is to win new ones and Propsim products simulate the characteristics creates a significant level of commercial IOT is seen to help improve the customer of real-world radio signals and complement protection for us.
+New entrants to the test experience and increase customer loyalty.
+Propsim has broadened market would need to provide a comprehensive our product range, increased our technical range of test cases for 2G, 3G and 4G.
+IOT traditionally involves field-based drive know-how, expanded our installed base tests to assess a devices behaviour.
+Network of common customers, and created a new The CT market is driven by certification simulation, which recreates field-tests in the market in network infrastructure testing.
+schemes that are administered by industry laboratory, is rapidly gaining momentum.
+Anite plc 13 Annual report and accounts 2013 Business overview Governance Financial statements Working in partnership with of Tier-1 device manufacturers Intel to optimise chipset and top-ten mobile operators.
+development and performance With the largest coverage of test cases for conformance and Intel, the worlds largest operator acceptance programmes, semiconductor chipmaker, Anite is a key partner for chipset entered the mobile manufacturers, such as Intel.
+communications market in early We work closely with them 2012.
+Its processors now power to speed up the development more than 15 smartphone and of their new products.
+Anite has been a key contributor Anites wireless test solutions to the development of Intels Slim enable Intel to carry out radio Modem for LTE 4G smartphones protocol and performance testing Intel XMM7160.
+Intel at its sites around the world and also uses our recently acquired to develop and launch highPropsim Channel Emulator quality products quickly and at product range to optimise the a lower cost.
+By using our labperformance of its products by based test solutions to perform simulating the characteristics conformance and interoperability of real-world radio channel testing, Intel ensures that its conditions in a laboratory.
+products meet the expectations Recent industry awards highlight Our unrivalled industry expertise Anites leading position in device in TD-LTE conformance testing in China testing has resulted in us being responsible for more than 90% In early 2013 China Mobile, of all TD-LTE test case verification the worlds largest mobile submissions to the 3GPP RAN5 operator, presented Anite with standards body.
+We were also two prominent awards.
+instrumental in validating the first GCF Inter-RAT test cases.
+The China Mobile Device This has sped up the availability Company 2012 Award for of the TD version of LTE which Best Terminal Quality Control is being adopted in China.
+recognised our contribution to optimising test cases and A China Mobile representative speeding up the maturity of test presented the second award to specification plans, particularly us at an event held by the Global for TD-LTE.
+Anites perseverance TD-LTE Initiative, during the and uncompromising GSMA Mobile World Congress dedication ensured that it 2013.
+This Innovation Award played a key role in developing recognised our achievements as China Mobile Communications a leading vendor of wireless test Corporations mobile device solutions: in particular for our protocol acceptance tests.
+interoperability test solution, SAS, which supports the largest number of tests for Tier-1 device acceptance programmes.
+China Mobile Intel Anite plc Our businesses 14 Annual report and accounts 2013 Business overview Governance Financial statements Wireless Network Testing Our Nemo-brand products enable network operators and network equipment manufacturers to measure networks coverage and quality.
+Operators can ensure that subscribers ability to send and receive telephone calls, SMS messages or data is as unimpaired as possible.
+By identifying anomalies in the radio network, our systems also enable operators to fix reception problems and to maintain consistent quality.
+Anite plc 15 Annual report and accounts 2013 Business overview Governance Financial statements Optimisation Monitoring Anites Optimisation solution offers measurement, Anites Monitoring solution offers automated tools to troubleshooting and maintenance tools for every stage of monitor network and service quality in real-time.
+It provides a networks life cycle, indoors or outside.
+It collects radio steady streams of high-quality data with minimal effort network performance metrics through walk or drive testing.
+Benchmarking Analysis and reporting Anite provides the most complete and flexible set of Anites scalable solution highlights network issues through tools to test multiple devices simultaneously.
+The tools a combination of high-performance analysis of drivebenchmark wireless network coverage and service quality test data and advanced root-cause troubleshooting across service providers and generations of technology.
+Network Testing develops and sells highly specialised Customers are given the option to extend warranties, but software to mobile network operators and service the relatively short life cycle of most products means that companies to help them install, monitor and recurring revenue is not as high as in Anites other businesses.
+maintain their networks around the world.
+Once network operators have made an initial investment in a suite of products to test their networks, however, they We employ a direct sales force in strategically important generally make follow-on purchases as their needs expand locations but given the diverse geographic locations and it becomes necessary to replace equipment that has of customers, we also use a network of distributors become damaged in the harsh environments in which they to sell and support our products.
+Our solutions are typically operate, or as mobile phone technologies evolve.
+developed by our own radio-technology engineers.
+They are usually incorporated in, and run on, commercially available third-party hardware.
+They are sold with a perpetual software licence that includes a period of warranty and support commonly 12 months.
+We will offer an increasing range of products to expand our sales channels.
+We also expect to continue expand our market and to enable our Network Testing to make progress with our market-leading scanner and customers, worldwide, to capitalise on changes benchmarking solutions and, with the strategic partnership in technology.
+we have formed, to offer a new Customer Experience Monitoring CEM solution.
+We will expand into adjacent We have the most comprehensive LTE 4G product portfolio markets, as appropriate, to meet our customers demands.
+We expect the volume of LTE 4G business to increase as commercial networks are rolled out and enter We continue to support products that address legacy into the maintenance phase, when testing tools need to be technologies, and are planning for future generations refreshed and upgraded.
+We will continue to develop next of technology beyond LTE 4G and LTE-A.
+generation solutions to meet market requirements and to O M B A&R Growth Business model Solutions Anite plc Our businesses 16 Annual report and accounts 2013 Business overview Governance Financial statements Wireless Network Testing continued We offer our customers one of the most versatile ranges of network testing products available.
+Network Testing solutions The software embedded in our products Nemo test tools are used by over enables network operators and their subOur tools are designed to meet the needs of 400 customers in over 100 countries all our customers, regardless of their internal contractors to manage and analyse vast processes and means of testing.
+They provide quantities of data, quickly and efficiently.
+a wide range of information, from call quality This is done either on our post-processing and data download and upload speeds, to Analyser or on third-party processing tools.
+signal reliability, the interaction of neighbouring 400 cells, and the efficiency with which devices We sell to around 130 countries and continue hand-off from one cell to another as they to develop our network of local distributors.
+move in a vehicle, on foot or through a building.
+In addition to their sales function, these partners offer technical help to customers.
+Different tools are used for different measurement purposes and roll-out phases.
+They range from Nemo Handy, a lightweight, handheld device that can be used for testing indoor coverage and for quick troubleshooting, to Nemo Invex, a scalable multi-technology network benchmarking and quality survey tool.
+Nemo Outdoor, a powerful laptop-based solution, is used for drive testing all phases of the network life cycle from pilot trials to optimisation and troubleshooting.
+Our scanner Nemo FSR1 is used with Nemo Outdoor for troubleshooting, spectrum clearance and initial network trials with new technologies.
+Our new Nemo Customer Experience Monitoring solution is embedded directly into customers devices and is used by operators to collect data to improve quality for end-users.
+Anite plc 17 Annual report and accounts 2013 Business overview Governance Financial statements VimpelCom is one of the worlds largest Invex multi-measurement solution met its telecommunications companies.
+Listed requirements for the Russian market.
+The on the NYSE, it provides voice and data software is backwards compatible with the services through a range of traditional and existing terminal models used at VimpelCom broadband mobile and fixed technologies and includes all necessary measurement data in Russia, Ukraine, CIS, Europe, North for optimisation purposes.
+In addition, it can be America, Africa and Asia.
+At the end of expanded to include new features, such as voice- 2012 it had 214 million mobile subscribers quality measurements PESQ and POLQA and across ten consumer brands.
+Our local partners and distributors provided VimpelCom with customised In todays highly competitive telecoms training, deployment and technical support.
+market, to maintain market share, operators have constantly to improve voice, video and Nemo Invex, an evolutionary chassis-based data services.
+Measuring multiple networks benchmarking solution, combines powerful, and technologies is vital to ensure the best intuitive software and scalable militarypossible coverage and quality of service.
+In grade hardware design to create superior 2012, VimpelCom was seeking a flexible drive-test systems for wireless networks.
+and robust solution to enable it to make In addition, it provides critical Quality of multiple simultaneous data measurements Service measurements and a wide variety in many demanding environments.
+In order of Quality of Experience service testing, to be cost-efficient, the solution had to be including the latest voice and video quality modular and easily upgradeable to LTE 4G.
+Nemo Invex is flexible and scalable, enabling it to keep pace After a thorough evaluation process, with an evolving network while providing Vladimir Kudryashov, Senior Manager of VimpelCom decided that Anites Nemo the lowest overall total cost of ownership.
+VimpelComs Procurement Department, said: Measurements on multiple networks and technologies are crucial to keep us ahead of the competition and to ensure a quality service.
+Nemo Invex offered exactly what we needed a flexible and modular solution for multi-measurements.
+We have also been very pleased with Anites after-sales support and training.
+VimpelCom Home Sweet Home TRAVEL Anite plc Our businesses 18 Annual report and accounts 2013 Business overview Governance Financial statements Travel Anite is the leading supplier of reservation Travel provides reservations systems that software to European tour operators.
+enable leisure travel companies to run their Our strategy is to capitalise on our businesses more efficiently.
+technological leadership and our customer relationships in the mid and upper-tier leisure travel market by maintaining and developing our products.
+To achieve this, we will continue to meet changing market needs by developing and launching new @com modules.
+In addition, we anticipate that our ability to deliver further successful projects to our existing major customers will lead to new opportunities for add-ons and new territories in these very large organisations.
+We will work to convert our strong sales pipeline in a manner that suits our resources and expect this to result in profitable growth of the business.
+We will also work to provide future stability and profitability by increasing the proportion of support and maintenance revenue from existing projects.
+BOOK 23 Strategy Home Sweet Home TRAVEL Anite plc 19 Annual report and accounts 2013 Business overview Governance Financial statements @com eBusiness Suite @comRes The @com eBusiness Suite, our premier travel product, is Our @com eBusiness Suite is built around the core targeted at the leisure travel sector.
+Its comprehensive suite @comRes software that provides the key reservations of modules supports many types of tour operators and and administration functions.
+These, in turn, support wholesalers, from accommodation wholesalers to highcontent and customer relationship management and volume package and dynamic-packaging tour operators.
+An integrated enterprise resource planning ERP @comRes also provides leisure travel companies with solution, it includes supplier contracting, dynamic multi-channel distribution.
+It has the potential to reduce supplier connectivity, sales, inventory management, tour operators back office costs significantly by customer documentation, supplier notification and standardising processes across all markets and types of accounts receivable and payable, which can be bought holiday.
+It can also be scaled-up to cope with an increasing and implemented in modules.
+It not only enables leisure workload as the business grows.
+travel companies to manage a wider range of products, but also enables international companies to tailor their products and business models to national characteristics.
+Travels software engineers develop systems, based around a common core of code and functionality, which enable leisure travel companies to manage their business life cycles efficiently.
+Individual implementations sometimes involve considerable work to develop interfaces to existing system landscapes.
+If appropriate, bespoke business functionality enhancements can be incorporated into core functionality to maintain a common code base.
+Contract arrangements typically involve an upfront licence fee, together with charges for development and implementation to get the system live.
+Part of our inhouse sales process involves a customer-funded detailed analysis.
+This identifies any gaps between the functionality of our standard product and customers requirements.
+Since replacement is disruptive and creates business continuity risks, systems are often in operation for more than 15 years.
+During that time, customers need maintenance and support.
+This is generally contracted for a five-year minimum term and managed by our single in-house team, although we provide dedicated support if requested.
+Depending on the contracts structure, the potential for annual licences also exists.
+In addition, as the market evolves, customers need ongoing business functionality improvements.
+We also provide a facility for hosting customers infrastructures at our data centre.
+This, again, is typically contracted on the basis of multi-year agreements.

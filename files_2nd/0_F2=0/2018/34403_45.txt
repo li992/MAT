@@ -1,0 +1,219 @@
+The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion In respect of claims, litigation and regulatory risks, the group provides for anticipated costs where an outflow of resources is considered probable and a reasonable estimate can be made of the likely outcome.
+Included within Other are contract loss provisions of 38m 2016 17: 29m relating to the anticipated total losses in respect of certain contracts.
+It is expected that the majority of these provisions will be utilised in the next few years.
+Given the short period remaining to the finalisation of these contracts, any potential future changes to key assumptions made when estimating their future losses are not expected to have a significant impact.
+There is no single change in key variables that could materially affect future expected losses on these contracts.
+Also included in Other are amounts provided for the constructive obligations arising from insurance claims which will be utilised as the obligations are settled and amounts provided for exposures relating to the Italian business investigation, principally potential tax penalties.
+For all risks, the ultimate liability may vary from the amounts provided and will be dependent upon the eventual outcome of any settlement.
+The estimates are discounted using a rate that reflects the passage of time and risk specific to the liability.
+An estimate is also required in assessing the timing of when a provision is recognised.
+The outcome of our estimate of the provisions is disclosed below.
+Network Network a Restructuring Property ARO share Regulatory Litigation Other Total m m m m m m m m At 31 March 2016 20 296 78 60 64 73 152 743 Income statement expense 38 27 5 426 6 34 536 Unwind of discount 12 2 2 16 Utilised or released 10 54 24 17 11 11 8 135 Transfers 3 3 Exchange differences 1 1 2 4 At 31 March 2017 11 292 83 50 479 69 177 1,161 Income statement expense 4 37 2 51 6 33 133 Unwind of discount 11 2 2 15 Utilised or released 2 46 16 19 210 11 32 336 Transfers 85 85 Exchange differences 1 2 3 At 31 March 2018 12 294 71 33 320 64 261 1,055 a Restructuring costs for which the timing and amount are certain.
+These amounts are reflected in trade and other payables.
+Retirement benefit plans Background to BTs pension plans The group has both defined benefit and defined contribution retirement benefit plans.
+The groups main plans are in the UK and the largest by membership is the BT Pension Scheme BTPS which is a defined benefit plan that was closed to new entrants on 31 March 2001.
+After that date new entrants to BT in the UK have been able to join a defined contribution plan, currently the BT Retirement Saving Scheme BTRSS, a contract-based arrangement.
+In March 2018, BT announced the closure of Sections B and C of the BTPS to future benefit accrual which represents over 99% of the BTPS active membership, having reached an agreement with the relevant Unions.
+BT currently expects to close the BTPS from 30 June 2018 when employees will join the BTRSS for future pension accrual.
+EE operates the EE Pension Scheme EEPS, which has a defined benefit section that was closed to future benefit accrual in 2014 and a defined contribution section which is open to new joiners.
+British Telecommunications plc Annual Report & Form 20-F 2018 137 136 British Telecommunications plc Annual Report & Form 20-F 2018 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued What are they?
+How do they impact BTs financial statements?
+Defined contribution plans Benefits in a defined contribution The income statement charge in respect of defined contribution plans plan are linked to: represents the contribution payable by the group based upon a fixed contributions paid percentage of employees pay.
+the performance of each The group has no exposure to investment and other experience risks.
+individuals chosen investments the form in which individuals choose to take their benefits.
+Contributions are paid into an independently administered fund.
+Defined benefit plans Benefits in a defined benefit plan The income statement service cost in respect of defined benefit plans are: represents the increase in the defined benefit liability arising from determined by the plan rules, pension benefits earned by active members in the current period.
+dependent on factors such as The group is exposed to investment and other experience risks and may age, years of service and need to make additional contributions where it is estimated that the pensionable pay benefits will not be met from regular contributions, expected not dependent upon actual investment income and assets held.
+contributions made by the company or members.
+Amounts in the financial statements Group income statement The expense or income arising from all group retirement benefit arrangements recognised in the group income statement is shown below.
+2018 2017 2016 Year ended 31 March m m m Recognised in the income statement before specific items Service cost including administration expenses & PPF levy : defined benefit plans 376 281 301 defined contribution plans 265 240 193 a Past service credit 17 Total operating expense 624 521 494 Net interest expense on pensions deficit included in specific items note 8 218 209 221 Total recognised in the income statement 842 730 715 a Past service credit primarily relates to pension plans operating outside the UK which were closed to future accrual during the year.
+Group statement of comprehensive income Remeasurements of the net pension obligation are recognised in full in the group statement of comprehensive income in the year in which they arise.
+These comprise the impact on the defined benefit obligation of changes in demographic and financial assumptions compared with the start of the year, actual experience being different to those assumptions and the return on plan assets being above or below the amount included in the net pension interest expense.
+Group balance sheet The net pension obligation in respect of defined benefit plans reported in the group balance sheet is set out below.
+2018 2017 Present value Present value Assets of liabilities Deficit Assets of liabilities Deficit At 31 March m m m m m m BTPS 49,894 55,783 5,889 50,090 58,649 8,559 EEPS 763 920 157 748 973 225 a Other plans 299 624 325 274 578 304 Retirement benefit obligation 50,956 57,327 6,371 51,112 60,200 9,088 Adjustments due to effect of asset ceiling IFRIC 14 Deferred tax asset 1,081 1,535 Net pension obligation 5,290 7,553 a Included in the present value of obligations of other plans is 97m 2016 17: 104m related to unfunded pension arrangements.
+138 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 137 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion Included within trade and other payables in the group balance sheet is 17m 2016 17: 15m in respect of contributions payable to defined contribution plans.
+What is IFRIC 14 and how does it impact BT?
+For some pension schemes, IFRIC 14 potentially: limits the amount of accounting surplus in a pension scheme that can be recognised as an asset on the balance sheet: and or requires additional pension liabilities to be recognised where scheduled future deficit contributions are greater than the unadjusted accounting deficit.
+BT is not required to limit any pensions surplus or recognise additional pensions liabilities in individual plans as economic benefits are available in the form of either future refunds or reductions to future contributions.
+This is on the basis that paragraph 11 b of IFRIC 14 applies enabling a refund of surplus following the gradual settlement of the liabilities over time until there are no members remaning in the scheme.
+Movements in defined benefit plan assets and liabilities The table below shows the movements on the pension assets and liabilities and shows where they are reflected in the financial statements.
+Assets Liabilities Deficit m m m At 31 March 2016 43,968 50,350 6,382 Service cost including administration expenses and PPF levy 44 237 281 Interest on pension deficit 1,413 1,622 209 Included in the group income statement 490 Return on plan assets above the amount included in the group income statement 7,475 7,475 a Actuarial loss arising from changes in financial assumptions 10,221 10,221 a Actuarial loss arising from changes in demographic assumptions 206 206 b Actuarial gain arising from experience adjustments 163 163 Included in the group statement of comprehensive income 2,789 Regular contributions by employer 313 313 Deficit contributions by employer 274 274 Included in the group cash flow statement 587 Contributions by employees 8 8 Benefits paid 2,315 2,315 Foreign exchange 20 34 14 Other movements 14 At 31 March 2017 51,112 60,200 9,088 Service cost including administration expenses and PPF levy 67 309 376 Past service credit 17 17 Interest on pension deficit 1,201 1,419 218 Included in the group income statement 577 Return on plan assets above the amount included in the group income statement 10 10 a Actuarial gain arising from changes in financial assumptions 2,251 2,251 a Actuarial loss arising from changes in demographic assumptions 221 221 b Actuarial gain arising from experience adjustments 120 120 Included in the group statement of comprehensive income 2,160 Regular contributions by employer 264 264 Deficit contributions by employer 872 872 Included in the group cash flow statement 1,136 Contributions by employees 2 2 Benefits paid 2,449 2,449 Foreign exchange 11 13 2 Other movements 2 At 31 March 2018 50,956 57,327 6,371 a The actuarial gain or loss arises from changes in the assumptions used to value the defined benefit liabilities at the end of the year compared with the assumptions used at the start of the year.
+This includes both financial assumptions, which are based on market conditions at the year end, and demographic assumptions such as life expectancy.
+b The actuarial loss or gain arising from experience adjustments on defined benefit liabilities represents the impact on the liabilities of differences between actual experience during the year compared with the assumptions made at the start of the year.
+Such differences might arise, for example, from members choosing different benefit options at retirement, actual salary increases being different from those assumed or actual benefit increases being different to the pension increase assumption.
+British Telecommunications plc Annual Report & Form 20-F 2018 139 138 British Telecommunications plc Annual Report & Form 20-F 2018 No THE STRATEGIC REPORT tes to the consolida GOVERNANCE ted financial statemen FINANCIAL STATEMENTS ts continued ADDITIONAL INFORMATION How do we value our retirement benefit plans?
+Valuation methodology The IAS 19 liabilities are measured as the present value of the estimated future benefit cash flows to be paid by each scheme, calculated using the projected unit credit method.
+These calculations are performed for the group by professionally qualified independent actuaries.
+The expected future benefit payments are based on a number of assumptions including future inflation, retirement ages, benefit options chosen and life expectancy and are therefore inherently uncertain.
+Actual benefit payments in a given year may be higher or lower, for example if members retire sooner or later than assumed, or take a greater or lesser cash lump sum at retirement than assumed.
+What are our critical judgements, estimates and assumptions?
+The accounting cost of these benefits and the present value of our pension liabilities involve judgements about uncertain events including the life expectancy of the members, the salary progression of our current employees, price inflation and the discount rate used to calculate the net present value of the future pension payments.
+We use estimates for all of these uncertain events in determining the pension costs and liabilities in our financial statements.
+Our assumptions reflect historical experience, external advice and our judgement regarding future expectations.
+The fair value of some of our pension assets are made up of quoted and unquoted investments.
+The latter require more judgement as their values are not directly observable.
+The assumptions used in valuing unquoted investments are affected by current market conditions and trends which could result in changes in fair value after the measurement date.
+How do we value the assets?
+Under IAS 19, plan assets must be valued at the bid market value at the balance sheet date.
+For the main asset categories: Equities listed on recognised stock exchanges are valued at closing bid prices.
+Properties are valued on the basis of open market value.
+Bonds are measured using a combination of broker quotes and pricing models making assumptions for credit risk, market risk and market yield curves.
+Holdings in investment funds are valued at fair value which is typically the Net Asset Value provided by the investment manager.
+Certain unlisted investments are valued using a model based valuation such as a discounted cash flow.
+The value of the longevity insurance contract held by the BTPS is measured by discounting the projected cash flows payable under the contract projected by an actuary, consistent with the terms of the contract.
+Review of pension benefits Following consultation with employees and the relevant unions, we announced a number of key changes to our main UK pension arrangements in March 2018: An increase to BTs standard maximum contribution rate to 10% for employees building up benefits in the BTRSS, taking effect from 1 June 2018.
+The closure of Sections B and C of the BTPS representing over 99% of the BTPS active membership to future benefit accrual, with the employees impacted by the change able to join the BTRSS for future pension provision, taking effect from 30 June 2018.
+All employees impacted by the closure of the BTPS will receive transition payments into their BTRSS account for a period, as well as having a higher maximum BT contribution rate of 11% for a temporary period.
+The transition payments are 2% of pensionable salary for a period depending on the employees age.
+We will establish a new hybrid pension arrangement over the coming year for non-management employees in the BTPS at closure.
+This new arrangement will combine elements of both defined benefit and defined contribution pension arrangements and support those employees on lower pay scales, giving them another option for their retirement savings.
+We are aiming to have this in place by no later than 1 April 2019.
+These changes keep our pensions fair, flexible and affordable across BT in the UK.
+Overview and governance of the BTPS What is the profile of the BTPS?
+At 31 March 2018 there were 293,000 members of the BTPS.
+Members belong to one of three sections depending upon the date they first joined the BTPS.
+The membership is analysed below.
+140 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 139 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion Analysis of BTPS Active Deferred members members Pensioners Total a Sections A and B liabilities bn 4.9 4.3 29.6 38.8 Section C liabilities bn 7.7 5.7 3.6 17.0 Total IAS 19 liabilities bn 12.6 10.0 33.2 55.8 Total number of members 30,000 60,500 202,500 293,000 a Sections A and B have been aggregated in this table as Section A members have typically elected to take Section B benefits at retirement.
+The estimated duration of the BTPS liabilities, which is an indicator of the weighted average term of the liabilities, is around 16 years although the benefits payable by the BTPS are expected to be paid over more than 70 years.
+Whilst benefit payments are expected to increase over the earlier years, the value of the liabilities is expected to reduce.
+The chart below illustrates the estimated benefits payable from the BTPS forecast using the IAS 19 assumptions.
+a Based on accrued benefits to 30 June 2017.
+What are the benefits under the BTPS?
+Benefits earned for pensionable service prior to 1 April 2009 are based upon a members final salary and a normal pensionable age of 60.
+Between 1 April 2009 and 30 June 2018, Section B and C active members accrue benefits based upon a career average re-valued earnings CARE basis and a normal pensionable age of 65.
+On a CARE basis benefits are built up based upon earnings in each year and the benefit accrued for each year is increased by the lower of inflation or the individuals actual pay increase in each year to retirement.
+Under the Scheme rules the determination of the rate of inflation for statutory minimum rates of revaluation and indexation for the majority of benefits is based upon either the Retail Prices Index RPI or the Consumer Prices Index CPI which apply to each category of member as shown below.
+Active members Deferred members Pensioners a Benefits accrue on a CARE basis increasing Preserved benefits are revalued before Increases in benefits in payment are Section B at the lower of RPI or the individuals actual retirement based upon CPI currently based upon CPI pensionable pay increase Section C Increases in benefits in payment are currently based upon RPI up to a maximum of 5% a Section A members have typically elected to take Section B benefits at retirement.
+British Telecommunications plc Annual Report & Form 20-F 2018 141 140 British Telecommunications plc Annual Report & Form 20-F 2018 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued In December 2017, we sought a decision from the High Court as to whether it would be possible to change the index used to calculate pension increases paid in the future to members of Section C of the BTPS from RPI to another index.
+In its judgment handed down on 19 January 2018, the High Court decided that it is currently not possible to change from RPI to another index.
+BT was then granted permission to appeal the decision to the Court of Appeal.
+The Court of Appeal hearing is due to take place in October 2018.
+How is the BTPS governed and managed?
+BT Pension Scheme Trustees Limited the Trustee has been appointed by BT as an independent trustee to administer and manage the BTPS on behalf of the members in accordance with the terms of the BTPS Trust Deed and Rules and relevant legislation principally the Pension Schemes Act 1993, the Pensions Act 1995 and the Pensions Act 2004.
+Under the terms of the Trust Deed there are nine Trustee directors, all of whom are appointed by BT, as illustrated below.
+Trustee directors are usually appointed for a three-year term but are then eligible for re-appointment.
+142 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 141 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion BTPS assets Asset allocation The allocation of assets between different classes of investment is reviewed regularly and is a key factor in the Trustees investment policy.
+The allocations reflect the Trustees views on the appropriate balance to be struck between seeking returns and incurring risk, and on the extent to which the assets should be allocated to match liabilities.
+Current market conditions and trends are regularly assessed which may lead to adjustments in the asset allocation.
+The fair value of the assets of the BTPS analysed by asset category are shown below.
+These are subdivided by assets that have a quoted market price in an active market and those that do not such as investment funds.
+a a 2018 2017 Total of which Total of which b b assets quoted Total assets quoted Total bn bn % bn bn % Growth Equities UK 0.5 0.5 1 0.7 0.6 2 Overseas developed 7.8 7.3 16 9.1 8.6 18 Emerging markets 0.5 0.4 1 0.5 0.1 1 Private Equity 1.9 4 1.9 4 Property UK 3.9 8 4.1 8 Overseas 1.2 2 1.7 3 c Other growth assets Absolute Return funds 1.5 3 2.3 5 d Non Core Credit 3.4 1.0 7 3.5 1.1 7 Mature Infrastructure 1.4 3 1.7 3 Liability matching Government bonds UK Index Linked 12.5 12.5 25 12.3 12.0 25 Investment grade credit Global 10.0 8.0 20 7.6 5.9 15 Cash, derivatives and other Cash balances 3.8 7 1.7 3 e Longevity insurance contract 0.4 1 0.3 1 f Other non-physical cash 1.9 4 3.3 7 Total 49.9 29.7 100 50.1 28.3 100 a At 31 March 2018, the Schemes assets included equity issued by the group of 3m 2016 17: nil.
+The Scheme also held 10m 2016 17: 10m of index-linked bonds issued by the group.
+b Assets with a quoted price in an active market.
+c This allocation seeks to generate returns irrespective of the direction of markets.
+Managers within this allocation will typically manage their portfoilios without close regard to a specific market benchmark.
+d This allocation includes a range of credit investments, including emerging market, sub-investment grade and unrated credit.
+The allocation seeks to exploit investment opportunities within credit markets using the expertise of a range of specialist investment managers.
+e The Trustee has hedged some of the Schemes longevity risk through a longevity insurance contract which was entered into in 2014.
+The value reflects experience to date on the contract from higher than expected deaths.
+This amount partly offsets a reduction recognised in the Schemes liabilities.
+f Non-physical cash includes offsets in future positions and cash collateral posted in relation to derivatives held by the Scheme.
+British Telecommunications plc Annual Report & Form 20-F 2018 143 142 British Telecommunications plc Annual Report & Form 20-F 2018 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued IAS 19 assumptions The table below summarises the approach used to set the key IAS 19 assumptions for the BTPS.
+Approach to set the assumption Discount rate IAS 19 requires that the discount rate is determined by reference to market yields at the reporting date on high quality corporate bonds.
+The currency and term of these should be consistent with the currency and estimated term of the pension obligations.
+The assumption is calculated by applying the projected BTPS benefit cash flows to a corporate bond yield curve constructed based on the yield on AA-rated corporate bonds.
+In setting the yield curve, judgement is required on the selection of appropriate bonds to be included in the universe and the approach used to then derive the yield curve.
+At 31 March 2018, the discount rate model used to select bonds and derive the yield curve was updated to better reflect yields on corporate bonds over the life of the Scheme.
+A key difference is that the revised model excludes bonds which have either an implicit or explicit Government guarantee, which is more consistent with the requirements of IAS19, and reflects developing practice.
+Both the old and revised models are standard models developed by our external actuary.
+The impact of this change is a 2.1bn reduction in the BTPS liabilities.
+RPI inflation The RPI inflation assumption is set using the entire inflation curve, weighted by projected BTPS benefit cash flows, and making an adjustment for an inflation risk premium to reflect the extra premium paid by investors for inflation protection, which is currently assumed to be 20bps.
+CPI inflation CPI is assessed at a margin below RPI taking into account market forecasts and independent estimates of the expected difference.
+Salary increases Long-term salary increases for BTPS members are assumed to be equal to CPI inflation.
+Pension increases Benefits are assumed to increase in line with the RPI or CPI inflation assumptions, based on the relevant index for increasing benefits, as prescribed by the rules of the BTPS and summarised above.
+Longevity The longevity assumption has been updated to take into account: the actual mortality experience of the BTPS pensioners, based on a formal review conducted at the 2014 triennial funding valuation future improvements in longevity based on a model published by UK actuarial professions Continuous Mortality Investigation using the CMI 2016 Mortality Projections model with a 1.25% per year long-term improvement parameter.
+The key financial assumptions used to measure the liabilities of the BTPS are shown below.
+a Nominal rates per year Real rates per year 2018 2017 2016 2018 2017 2016 At 31 March % % % % % % Rate used to discount liabilities 2.65 2.40 3.30 0.44 0.78 0.44 Inflation increase in RPI 3.10 3.20 2.85 b c d b c d Inflation increase in CPI 2.00 2.00 1.65 1.1 1.2 1.2 a The real rate is calculated relative to RPI inflation.
+b Assumed to be 0.1% higher until 31 March 2023. c Assumed to be 0.5% higher until 31 March 2019. d Assumed to be 0.2% higher until 31 March 2017.
+The BTPS represents over 97% of the groups retirement benefit obligation.
+While the financial assumptions may vary for each plan, the nominal financial assumptions weighted by liabilities across all plans are equal to the figures shown in the table above to the nearest 0.05%.
+144 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 143 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion Based on the IAS 19 longevity assumptions, the forecast life expectancies for BTPS members aged 60 are as follows: 2018 2017 Number of Number of At 31 March years years Male in lower pay bracket 25.8 26.2 Male in medium pay bracket 27.1 27.5 Male in higher pay bracket 28.5 28.9 Female in lower pay bracket 28.5 28.9 Female in higher pay bracket 28.7 29.2 Average improvement for a member retiring at age 60 in 10 years' time 0.7 1.0 Risks underlying the assumptions Background The BTPS faces similar risks to other UK DB schemes: things like future low investment returns, high inflation, longer life expectancy and regulatory changes may all mean the BTPS becomes more of a financial burden.
+Further details are set out on page 41.
+Changes in external factors, such as interest rates, can have an impact on the IAS 19 assumptions, impacting the measurement of BTPS liabilities.
+These factors can also impact the Scheme assets.
+The BTPS hedges some of these risks, including longevity and currency using financial instruments and insurance contracts.
+Some of the key financial risks, and mitigations, for the BTPS are set out in the table below.
+Changes in bond yields A fall in yields on AA-rated corporate bonds, used to set the IAS 19 discount rate, will lead to an increase in the IAS 19 liabilities.
+The BTPSs assets include corporate bonds, government bonds and interest rate derivatives which are expected to partly offset the impact of movements in the discount rate.
+However, yields on these assets may diverge compared with the discount rate in some scenarios.
+Changes in inflation A significant proportion of the benefits paid to members are currently increased in line with RPI or CPI inflation.
+An expectations increase in long-term inflation expectations will lead to an increase in the IAS 19 liabilities.
+The BTPSs assets include index-linked government bonds and inflation derivatives which are expected to partly offset the impact of movements in inflation expectations.
+Changes in life expectancy An increase in the life expectancy of members will result in benefits being paid out for longer, leading to an increase in the BTPS liabilities.
+The BTPS holds a longevity insurance contract which covers around 25% of the BTPSs total exposure to improvements in longevity, providing long-term protection and income to the BTPS in the event that members live longer than currently expected.
+Other risks include volatile asset returns ie where asset returns differ from the discount rate and changes in legislation or regulation which impact the value of the liabilities or value of the assets.
+Quantification BTs independent actuary has assessed the potential negative impact of the key risks that might occur no more than once in every 20 years illustrated as the following three scenarios: 1-in-20 events Scenario 2018 2017 a 1.
+Increase to life expectancy 1.35 years 1.35 years a Scenario assumes a fall in the yields on both government and corporate bonds.
+b Assuming RPI, CPI, pension increases and salary increases all increase by the same amount.
+British Telecommunications plc Annual Report & Form 20-F 2018 145 144 British Telecommunications plc Annual Report & Form 20-F 2018 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued The impact shown under each scenario looks at each event in isolation in practice a combination of events could arise.
+Sensitivity analysis of the principal assumptions to 1-in-20 events used to measure BTPS liabilities bn 12 10 8 6 4 2 0 1.1 percentage point 0.7 percentage point 1.35 year increase to fall in discount rate increase to ination rate life expectancy Increase in liabilities Increase in deficit The sensitivity of the deficit allows for both the change in the liabilities and the assumed change in the assets.
+For example, the increase in the deficit under the life expectancy scenario incorporates the expected movement in the value of the insurance contract held to hedge longevity risk.
+The sensitivities have been prepared using a similar approach as 2016 17 which involves calculating the liabilities and deficit using the alternative assumptions stated.
+BTPS funding Triennial funding valuation The triennial valuation is carried out for the Trustee by a professionally qualified independent actuary.
+The purpose of the valuation is to design a funding plan to ensure that the BTPS has sufficient funds available to meet future benefit payments.
+The latest funding valuation was performed as at 30 June 2017.
+The next funding valuation will have an effective date of no later than 30 June 2020.
+The valuation methodology for funding purposes, which is based on prudent assumptions, is broadly as follows: Assets are valued at market value at the valuation date.
+Liabilities are measured on an actuarial funding basis using the projected unit credit method and discounted to their present value.
+The results of the two most recent triennial valuations are shown below.
+June June 2017 2014 valuation valuation bn bn BTPS liabilities 60.4 47.2 Market value of BTPS assets 49.1 40.2 Funding deficit 11.3 7.0 Percentage of accrued benefits covered by BTPS assets at the valuation date 81.3% 85.2% Percentage of accrued benefits on a solvency basis covered by the BTPS assets at the valuation date 62.2% 63.0% Between June 2014 and June 2017, the Scheme benefited from asset returns of 10.5% a year, that were higher than assumed under the 2014 funding assumptions, and 2.0bn of deficit contributions.
+The fall in long-term real interest rates resulted in an increase in liabilities, which has more than offset the improvements in the Schemes assets.
+There has been a reduction in the liabilities as a result of allowing for slower improvements to life expectancy being forecast by actuaries.
+This impact has been broadly offset by the impact of changes to the investment strategy that have reduced the current and future level of investment risk in the Scheme.
+Key assumptions funding valuation These valuations were determined using the following prudent long-term assumptions.
+a Nominal rates per year Real rates per year June June June June 2017 2014 2017 2014 valuation valuation valuation valuation % % % % Average single equivalent discount rate 2.6 4.5 0.8 1.0 Average long-term increase in RPI 3.4 3.5 Average long-term increase in CPI 2.4 2.5 1.0 1.0 a The real rate is calculated relative to RPI inflation and is shown as a comparator.
+146 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 145 10.6 2.9 4.9 1.3 2.8 2.1 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion The discount rate at 30 June 2017 was derived from prudent return expectations above a risk-free yield curve based on gilt and swap rates.
+The discount rate reflects views of future returns at the valuation date, allowing for the Scheme to hold 45% of its investments in growth assets initially, before fide-risking to a low risk investment approach by 2034.
+This gives a prudent discount rate of 1.4% per year above the yield curve initially, trending down to 0.7% per year above the curve in the long-term.
+The assumption is equivalent to using a flat discount rate of 1.0% per year above the yield curve.
+At the 2014 valuation, the funding approach assumed the Scheme would hold 60% of its investments in growth assets such as equities and property for a period, before fide-risking to a low-risk investment approach by 2034.
+The average life expectancy assumptions at the valuation dates, for members 60 years of age, are as follows.
+June June 2017 2014 Number of years from valuation date assumptions assumptions Male in lower pay bracket 25.9 26.1 Male in medium pay bracket 27.2 27.5 Male in high pay bracket 28.6 29.0 Female in lower pay bracket 28.6 28.9 Female in high pay bracket 28.9 29.2 Average improvement for a member retiring at age 60 in 10 years time 0.9 1.3 Payments made to the BTPS 2018 2017 Year ended 31 March m m Ordinary contributions 248 303 Deficit contributions 850 250 Total contributions in the year 1,098 553 Future funding obligations and recovery plan Under the terms of the Trust Deed, the group is required to have a funding plan, determined at the conclusion of the triennial funding valuation, which is a legal agreement between BT and the Trustee and should address the deficit over a maximum period of 20 years.
+In May 2018, the 2017 triennial funding valuation was finalised, agreed with the Trustee and certified by the Scheme Actuary.
+The funding deficit at 30 June 2017 was 11.3bn.
+The deficit will be met over a 13-year period, maintaining the remaining period of the previous plan.
+The deficit contributions have three components: Payments by BT over the three years to 31 March 2020 totalling 2.1bn.
+This is equal to the amount due over the same period under the previous recovery plan.
+850m of this was paid in March 2018 and the remaining 1,250m is to be paid by 30 June 2019.
+A further 2.0bn contribution, due to be funded from the proceeds of the issuance of bonds, which will be held by the BTPS.
+The bonds will be: issued as soon as practicable under BTs Euro Medium Term Note Programme sterling denominated and have maturities ranging from 2033 to 2042 1.0bn fixed interest and 1.0bn CPI-linked.
+For the 10 years from 1 April 2020 to 31 March 2030, BT will make annual payments of around 900m, typicaly by 31 March each year.
+400m of BTs contribution in the financial year 2020 21 will be made by 30 June 2020.
+This means that the recovery plan includes material contributions by BT to the Scheme of 4.5bn by 30 June 2020, when the next valuation is expected to take place.
+BT is scheduled to make future deficit payments to the BTPS in line with the table below.
+British Telecommunications plc Annual Report & Form 20-F 2018 147 146 British Telecommunications plc Annual Report & Form 20-F 2018 THE STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS ADDITIONAL INFORMATION Notes to the consolidated financial statements continued Based on the 2017 funding valuation agreement, the group expects to make contributions of approximately 2,075m to the BTPS in 2018 19, comprising ordinary contributions of approximately 75m and deficit contributions of 2,000m.
+The reduction in the level of ordinary contributions primarily reflects the closure of the BTPS to Section B and C members, which is currently intended to take place on 30 June 2018.
+In addition, contributions towards the cost of administering the Scheme, PPF levies and providing future benefits for the remaining members will continue to be made after this date.
+Other protections The 2017 funding agreement with the Trustee included additional features for BT to provide support to the BTPS.
+These include: Feature Detail BT will provide additional payments to the BTPS by the amount that shareholder distributions exceed a Shareholder threshold.
+The threshold allows for 10% per year dividend per share growth plus 200m per year of share distributions buybacks on a cumulative basis.
+This will apply until 30 June 2021, or until the finalisation of the next valuation if earlier.
+BT will also consult with the Trustee if it considers share buybacks in excess of 200m per year or making a special dividend.
+This obligation is on-going until otherwise terminated.
+In the event that BT generates net cash proceeds greater than 1.0bn from disposals net of acquisitions in any Material 12-month period ending 30 June, BT will make additional contributions to the BTPS equal to one third of those corporate events net cash proceeds.
+This obligation applies until the next valuation is signed.
+BT will consult with the Trustee if: it considers making acquisitions with a total cost of more than 1.0bn in any 12-month period: or it considers making disposals of more than 1.0bn: or it considers making a Class 1 transaction acquisition or disposal : or it is subject to a takeover offer.
+BT will advise the Trustee should there be other material corporate events which would materially impact BTs covenant to the BTPS.
+Negative pledge A negative pledge that future creditors will not be granted superior security to the BTPS in excess of a 1.5bn threshold, to cover both British Telecommunications plc and BT Group plc.
+This provision applies until the deficit reduces to below 2.0bn at any subsequent funding valuation.
+In the highly unlikely event that the group were to become insolvent there are additional protections of BTPS members benefits: Feature Detail The Crown Guarantee was granted by the Government when the group was privatised in 1984 and would only Crown Guarantee come into effect upon the insolvency of BT.
+The Trustee brought court proceedings to clarify the scope and extent of the Crown Guarantee.
+The Court of Appeal judgment on 16 July 2014 established that: the Crown Guarantee covers BTs funding obligation in relation to the benefits of members of the BTPS who joined post-privatisation as well as those who joined pre-privatisation subject to certain exceptions the funding obligation to which the Crown Guarantee relates is measured with reference to BTs obligation to pay deficit contributions under the rules of the BTPS.
+The Crown Guarantee is not taken into account for the purposes of the actuarial valuation of the BTPS and is an entirely separate matter, only being relevant in the highly unlikely event that BT became insolvent.
+The Pension Protection Fund PPF may take over the BTPS and pay benefits not covered by the Crown Guarantee Pension to members.
+Protection Fund PPF There are limits on the amounts paid by the PPF and the PPF would not provide exactly the same benefits as those provided under the BTPS Rules.
+148 British Telecommunications plc Annual Report & Form 20-F 2018 British Telecommunications plc Annual Report & Form 20-F 2018 147 The STraTegic reporT governance Financial STaTemenTS addiTional inFormaTion Other benefit plans In addition to the BTPS, the group maintains benefit plans around the world with a focus on these being appropriate for the local market and culture.
+EE Pension Scheme EEPS The EEPS is the second largest defined benefit plan sponsored by the group with defined benefit liabilities of around 0.9bn.
+The EEPS also has a defined contribution section with around 11,500 active members.
+At 31 March 2018, the defined benefit sections assets are invested across a number of asset classes including global equities 28%, property and illiquid alternatives 22%, an absolute return portfolio 25% and a liability driven investment portfolio 25%.
+The triennial valuation of the defined benefit section was performed as at 31 December 2015, and agreed in March 2017.
+This showed a funding deficit of 141m.
+The group is scheduled to contribute 1.875m each month between 1 April 2018 and November 2020.
+The next funding valuation will have an effective date of no later than 31 December 2018.
+BTRSS The BTRSS is the largest defined contribution scheme maintained by the group with around 35,000 active members.
+In the year to 31 March 2018, the group contributed 167m to the BTRSS.
+Other schemes BT operates a number of overseas pension schemes.
+In December 2017, BT closed two defined benefit plans which operate in the Netherlands.
+This resulted in a c14m past service credit arising from the change in future indexation obligations.
+A further 3m past service credit was recognised in 2017 18 relating to various other pension plans operating outside the UK.
+British Telecommunications plc Annual Report & Form 20-F 2018 149 148 British Telecommunications plc Annual Report & Form 20-F 2018
