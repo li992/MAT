@@ -275,12 +275,12 @@ def taggerAnalyzer(wordList):
                     word = wordList[i].split('_')
 
             #tags passives
-            if word[0].lower() in be:
-                if((next_word[1].upper() in ["VBD","VBN"] and second_next_word[0].lower()=="by")  or
-                    (next_word[1].upper() in ["RB","XX0"] and second_next_word[1].upper() in ["VBD","VBN"] and third_next_word[0].lower()=="by") or
-                    (next_word[1].upper() in ["RB","XX0"] and second_next_word[1].upper() in ["RB","XX0"] and third_next_word[1].upper() in ["VBD","VBN"] and fourth_next_word[0].lower()=="by") or
-                    (next_word[1].upper() =="XX0" and second_next_word[1].upper() in ["NN","NNP","PRP"] and third_next_word[1].upper() in ["VBD","VBN"] and fourth_next_word[0].lower()=="by") or
-                    (next_word[1].upper() in ["NN","NNP","PRP"] and second_next_word[1].upper() in ["VBD","VBN"] and third_next_word[0].lower()=="by")):
+            if word[0].lower() in be or word[0].lower() in ["have","had","has","get"]:
+                if((next_word[1].upper() in ["VBD","VBN"])  or
+                    (next_word[1].upper() in ["RB","XX0"] and second_next_word[1].upper() in ["VBD","VBN"]) or
+                    (next_word[1].upper() in ["RB","XX0"] and second_next_word[1].upper() in ["RB","XX0"] and third_next_word[1].upper() in ["VBD","VBN"]) or
+                    (next_word[1].upper() =="XX0" and second_next_word[1].upper() in ["NN","NNP","PRP"] and third_next_word[1].upper() in ["VBD","VBN"]) or
+                    (next_word[1].upper() in ["NN","NNP","PRP"] and second_next_word[1].upper() in ["VBD","VBN"])):
                     wordList[i] = wordList[i]+"_PASS" 
                     word = wordList[i].split('_') 
 
@@ -350,22 +350,22 @@ def taggerAnalyzer(wordList):
                 
             #tags 'that' verb complement
             if((previous_word[0].lower() in ["and","nor","but","or","also"] or previous_word[1].upper() in symbols )and word[0].lower()=="that" and (next_word[0].lower()=="there" or next_word[1].upper() in ["DT","QUAN","CD","PRP","NNS","NNP"])):
-                wordList[i] = word[0].lower()+"_THVC"
+                wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
             
             if((previous_word[0].lower() in public or previous_word[0].lower() in private or previous_word[0].lower() in suasive or (previous_word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and previous_word[1].upper() in v)) and word[0].lower()=="that" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have) or next_word[1].upper() in v or next_word[1].upper()=="MD" or next_word[0].lower()=="and"):
-                wordList[i] = word[0].lower()+"_THVC"
+                wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
 
             if((fourth_previous_word[0] in public or fourth_previous_word[0] in private or fourth_previous_word[0] in suasive) and third_previous_word[1].upper()=="PIN" and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = word[0].lower()+"_THVC"
+                wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
 
             if((fifth_previous_word[0] in public or fifth_previous_word[0] in private or fifth_previous_word[0] in suasive ) and fourth_previous_word[1].upper()=="PIN" and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = word[0].lower()+"_THVC"
+                wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
             if((sixth_previous_word[0] in public or sixth_previous_word[0] in private or sixth_previous_word[0] in suasive ) and fifth_previous_word[1].upper()=="PIN" and fourth_previous_word[1].upper() in nn and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = word[0].lower()+"_THVC"
+                wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
 
             #tags 'that' adjective complementss
