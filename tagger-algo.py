@@ -237,12 +237,12 @@ def taggerAnalyzer(wordList):
                 next_word = wordList[i+1].split('_')
             
             #tags phrasal "and" coordination
-            if((word[0].lower()=="and") or
-                (previous_word[1].upper()=="RB" and next_word[1].upper()=="RB") or
+            if((word[0].lower()=="and") and
+                ((previous_word[1].upper()=="RB" and next_word[1].upper()=="RB") or
                 (previous_word[1].upper() in nn and next_word[1].upper() in nn) or
                 (previous_word[1].upper() in v and next_word[1].upper() in v) or
-                (previous_word[1].upper() in ["JJ","PRED"] and next_word[1].upper() in ["JJ","PRED"])):
-                wordList[i]=word[0].lower()+"_PHC"
+                (previous_word[1].upper() in ["JJ","PRED"] and next_word[1].upper() in ["JJ","PRED"]))):
+                wordList[i]=wordList[i]+"_PHC"
                 word = wordList[i].split('_')
 
             #tags pro-verb do
