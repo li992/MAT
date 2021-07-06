@@ -1,8 +1,0 @@
-TEMPLETON_NNP EMERGING_NNP MARKETS_NNP INVESTMENT_NNP TRUST_NNP PLC_NNP SHAREHOLDER_NNP INFORMATION_NNP Contact_NN Details_NNS Phone_NNP Fax_NNP Email_NNP Website_NNP SECRETARY_NNP ADMINISTRATOR_NNP Franklin_NNP Templeton_NNP Investment_NNP 0800 305 306 020_CD 7839_CD 7295_CD clientservices@franklintempleton_NN ._.
-co._FW uk_FW Management_NN Limited_NNP UK_NNP freephone_NN www_NN ._.
-co._FW uk_FW Exchange_NNP Tower_NNP 44 20 7208 7040_CD 19_CD Canning_NNP Street_NNP Non-UK_NNP EDINBURGH_NNP EH3_NNP 8EG_NNP UK_NNP REGISTRAR_NNP Lloyds_NNP TSB_NNP Registrars_NNPS Scotland_NNP 0870 601 5366 0870_CD 600_CD 3980_CD www_NN ._.
-co._FW uk_FW PO_FW Box_NNP 28448_CD Shareholders_NNS Finance_NNP House_NNP Helpdesk_NNP Orchard_NNP Brae_NNP EDINBURGH_NNP EH4_NNP 1WQ_NNP UK_NNP How_WRB to_TO Invest_VB For_IN information_NN on_IN investing_VBG in_IN TEMIT_NNP with_IN a_DT lump_NN sum_NN ,_, regular_JJ savings_NNS plan_NN and_CC gifts_NNS ,_, see_VBP page_NN 62_CD ._.
-Other_JJ Sources_NNS of_IN Information_NNP Please_VB consult_VB the_DT Financial_NNP Times_NNP for_IN further_JJ information_NN on_IN TEMIT_NNP ._.
-Stock_NNP Exchange_NNP Codes_NNP and_CC Net_JJ Asset_NNP Value_NNP Publication_NNP The_NNP Stock_NNP Exchange_NNP Code_NNP for_IN TEMITs_NNP listed_VBN securities_NNS is_VBZ TEM_NNP ._.
-The_DT net_JJ asset_NN value_NN per_IN share_NN is_VBZ published_VBN in_IN the_DT Financial_NNP Times_NNP ._.
-Frequency_NN of_IN Net_JJ Asset_NNP Value_NNP publication_NN The_DT NAV_NNP is_VBZ released_VBN every_DT week_NN through_IN the_DT London_NNP Stock_NNP Exchange_NNP ._.

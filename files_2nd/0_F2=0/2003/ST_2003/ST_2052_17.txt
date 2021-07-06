@@ -1,5 +1,0 @@
-c_NN Fields_NNP that_WDT have_VBP been_VBN disposed_VBN of_IN as_IN part_NN of_IN the_DT UK_NNP asset_NN swap_NN ._.
-d_LS Easington_NNP Catchment_NNP Area_NNP includes_VBZ Mercury_NNP ,_, Minerva_NNP ,_, Neptune_NNP and_CC Wollaston_NNP &_CC Whittle_NNP fields_NNS ._.
-e_LS J-Block_NN includes_VBZ Judy_NNP and_CC Joanne_NNP ._.
-f_LS Joint_NNP operated_VBD in_IN partnership_NN with_IN Agip_NNP ._.
-h_NN Conversion_NNP rate_NN of_IN 6_CD bcf_NN gas_NN per_IN mmboe_NN ._.

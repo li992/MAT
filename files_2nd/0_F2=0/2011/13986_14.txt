@@ -1,6 +1,0 @@
-fide uses our SDL Translation Management System and has now also started to work with Language Services to benefit from a one-stop solution.
-fide AG is a public company and one of the leading European online hotel reservation services.
-The HORIBA Medical Segment designs, develops and distributes worldwide, in vitro diagnostic systems mainly destined for biological analysis in medical laboratories.
-HORIBAs expertise in in vitro diagnostics is one of the most respected in hematology worldwide and contributes today to the health of tomorrow.
-SDL helps them to manage their Global Information Management process by making sure that the content is created and stored efficiently in their content management system, SDL Trisoft, before going to SDL Language Services for translation.
-SDL OPERATING LOCATIONS ASIA BANGKOK SEOUL BANGALORE SHANGHAI NORTH AMERICA BEIJING SHENZHEN CHICAGO SAN JOSE EUROPE CHANGSHA SINGAPORE DENVER SEATTLE HO CHI MINH TAIPEI LOS ANGELES SUPERIOR AMSTERDAM GRANADA MUNICH MUMBAI TOKYO MONTREAL WALTHAM ATHENS HENGELO OSLO NEW YORK WAKEFIELD BAGNOLET HRADEC KRALOVE ROME PLANO VALENCIA BONN ISTANBUL SHEFFIELD BRAY KASLIK ST. PETERSBURG BUCHAREST KIEV STOCKHOLM BUDAPEST LEUVEN STUTTGART BYDGOSZCZ LJUBLJANA THE HAGUE CLUJ-NAPOCA MAIDENHEAD TURKU SOUTH AMERICA COPENHAGEN MECHELEN ZAGREB SANTIAGO SAO PAULO AUSTRALIA SYDNEY 32

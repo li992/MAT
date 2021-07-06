@@ -1,6 +1,0 @@
-THAT_WDT ,_, theAct_NNP ,_, butwithout_NN ,_, ,_, ,_, asdefined_JJ insection80_NN 2_CD oftheAct_NNP ,_, ,_, ,_, ,_, ,_, atany_NN ,_, ._.
-THAT_WDT ,_, theAct_NNP ,_, butwithoutprejudice_NN ,_, empowered_VBN ,_, pursuanttosection95_NNS 1_CD oftheAct_NNP ,_, a_DT asdefinedinsection94_JJ 2_CD oftheAct_NNP for_IN proposedand_NN b_NN sellrelevantshares_NNS asdefinedinsection94_VBP 5_CD oftheAct_JJ sale_NN ,_, 3_CD oftheAct_JJ treasuryshares_NNS forcash_VBP 2_CD oftheAct_NNP ,_, 1_CD oftheActdidnot_NNP ,_, ,_, ,_, ,_, ,_, :_: i_FW 4October2004_NNP ,_, ispassed_VBD :_: ii_VB :_: iii_FW proportion_NN butsubjecttosuch_NN :_: and_CC iv_VB i_FW ,_, ii_FW and_CC iii_FW ofthisresolution_FW ,_, of24_JJ ,134.839_CD :_: ,_, ,_, ._.
-THAT_WDT ,_, theAct_NNP ,_, butwithout_NN ,_, ,_, ,_, 3_CD oftheAct_NNP Company_NNP ordinaryshares_NNS ,_, providedthat_NN :_: 122_CD i_FW ._.
-oftheissued_VBN 3_CD oftheAct_JJ asatthe_NN :_: ii_FW exclusiveofexpenses_FW :_: and_CC iii_FW themaximumprice_FW exclusiveofexpenses_FW 105percent_FW ._.
-ByorderoftheBoard_NNP WMarrackTonkin_NNP ,_, FCCA_NNP Secretary_NNP 80GeorgeStreet_NNP EdinburghEH23BU_NNP 16March2005_NNP Notes_NNP i_FW ,_, onapoll_NN ,_, voteonhis_VBZ herbehalf_NN ._.
-Tobevalid_NNP ,_, sent_VBD ,_, ifany_NN ,_, ,_, attheaddressstated_VBD thereon_NN ,_, ._.

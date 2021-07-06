@@ -1,3 +1,0 @@
-The_DT 0.3_CD m_NN 2001_CD nil_NN joint_JJ ventures_NNS and_CC 0.3_CD m_NN 2001_CD 0.9_CD m_NN associates_NNS goodwill_NN amortisation_NN fall_NN under_IN the_DT UK_NNP segment_NN ._.
-Goodwill_NN amortisation_NN with_IN the_DT exception_NN of_IN 0.9_CD m_NN 2001_CD 0.3_CD m_NN in_IN UK_NNP Retail_NNP ,_, relates_VBZ entirely_RB to_TO Import_NN ,_, Distribution_NN and_CC Retail_NNP ._.
-Note_VB 5_CD provides_VBZ a_DT split_NN of_IN the_DT exceptional_JJ profit_NN loss_NN by_IN country_NN ._.

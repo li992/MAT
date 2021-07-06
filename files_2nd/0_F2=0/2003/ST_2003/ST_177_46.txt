@@ -1,3 +1,0 @@
-Summarised_NNP Group_NNP statements_NNS 69_CD SELECTED_VBN FINANCIAL_NNP INFORMATION_NNP IN_IN THOUSANDS_NNP ,_, EXCEPT_NNP PER_NNP SHARE_VBP DATA_NNP The_NNP following_VBG selected_VBN financial_JJ information_NN for_IN each_DT of_IN the_DT fiscal_JJ years_NNS in_IN the_DT five-year_JJ period_NN ended_VBD 31_CD December_NNP 2003_CD has_VBZ been_VBN derived_VBN from_IN Acambis_NNP audited_VBD Group_NNP financial_JJ statements_NNS ._.
-The_DT selected_VBN financial_JJ data_NNS has_VBZ been_VBN prepared_VBN in_IN accordance_NN with_IN UK_NNP GAAP_NNP ._.
-The_DT Group_NNP financial_JJ statements_NNS for_IN the_DT three-year_JJ period_NN ended_VBD 31_CD December_NNP 2003_CD are_VBP included_VBN elsewhere_RB in_IN this_DT Annual_JJ Report_NNP ._.

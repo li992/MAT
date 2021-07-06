@@ -1,7 +1,0 @@
-GROUP_NNP PROFIT_NNP AND_CC LOSS_NNP ACCOUNT_NNP for_IN the_DT year_NN ended_VBD 30th_JJ June_NNP 2003_CD N_NNP o_FW t_FW e_SYM 2_CD 0_CD 0_CD 32_CD 0_CD 0_CD 2_CD m_NN m_NN G_NNP R_NNP O_NNP U_NNP PT_NNP U_NNP R_NNP N_NNP OV_NNP E_NNP R_NN 2_CD ,_, 1_CD 7_CD 1_CD ._.
-9_CD NET_NNP INTEREST_NN PAYABLE_NN 4_CD 10.0_CD 7.9_CD PROFIT_NNP ON_NNP OR_NNP D_NNP I_PRP N_NNP A_NNP RY_NNP ACTIVITIES_NNP BEFORE_IN TA_NNP X_NNP ATION_NNP 2_CD 288.7_CD 2_CD 2_CD 0_CD ._.
-9_CD PROFIT_NN ON_IN OR_NNP D_NNP I_PRP N_NNP A_NNP RY_NNP ACTIVITIES_NNP AFTER_NNP T_NNP A_NNP X_NNP AT_NNP I_PRP O_VBP N_NNP 6_CD 2_CD 0_CD 6_CD ._.
-7p_CD All_DT activities_NNS of_IN the_DT Group_NNP are_VBP continuing_VBG ._.
-T_NNP h_VBP e_SYM re_FW is_VBZ no_DT diff_NN e_LS rence_NN between_IN profit_NN on_IN ord_NN i_FW n_FW a_DT ry_JJ activities_NNS before_IN taxation_NN and_CC the_DT retained_VBN profit_NN for_IN the_DT year_NN stated_VBN above_IN and_CC their_PRP$ historical_JJ cost_NN equivalents_NNS ._.
-3_CD 6_CD STATEMENT_NNP OF_IN TOTAL_NNP RECOGNISED_NNP GAINS_NNPS AND_CC LOSSES_NNPS for_IN the_DT year_NN ended_VBD 30th_JJ June_NNP 2003_CD 2_CD 0_CD 0_CD 32_CD 0_CD 0_CD 2_CD m_NN m_NN P_NNP rofit_NN on_IN ord_NN i_FW n_FW a_DT ry_JJ activities_NNS after_IN taxation_NN 2_CD 0_CD 6_CD ._.
-1_CD Total_JJ gains_NNS and_CC losses_NNS recognized_VBN since_IN last_JJ annual_JJ re_NN p_NN o_NN rt_NN 2_CD 0_CD 3_CD ._.

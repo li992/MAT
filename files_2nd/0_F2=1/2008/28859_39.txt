@@ -1,8 +1,0 @@
-Business review continued Credit risk asset quality audited Credit risk assets by new AQ1-10 bands unaudited Internal reporting and oversight of risk assets is principally differentiated by credit grades.
-Customers are assigned credit grades, TCRE % based on various credit grading models that reflect the key drivers of 30% default for the customer type.
-All credit grades across the Group map to both a Group level asset quality scale, used for external financial reporting, and a master grading scale for wholesale exposures used for internal management reporting across disparate portfolios.
-Accordingly, 25% measurement of risk is easily aggregated and can be reported at increasing levels of granularity depending on audience and business need.
-20% The Group has adopted, as part of the move to Basel II, a new master grading scale for wholesale exposures which comprises 27 grades.
-These in turn map to ten asset quality AQ bands used for both 15% wholesale and retail exposures.
-This replaced the less granular AQ1-5 bands used prior to 2008.
-10% The relationship between these measures is shown below.

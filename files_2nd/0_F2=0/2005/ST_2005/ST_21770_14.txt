@@ -1,3 +1,0 @@
-38_CD BRADFORD_NNP &_CC BINGLEY_NNP ANNUAL_NNP REPORT_NNP &_CC ACCOUNTS_NNP 2005_CD WWW_NNP ._.
-As_IN explained_VBN in_IN note_NN 1_CD c_NN ,_, the_DT 2004_CD information_NN above_IN does_VBZ not_RB reect_VB IAS_NNP 32_CD or_CC IAS_NNP 39_CD ._.
-The_DT Financial_NNP Statements_NNP were_VBD approved_VBN by_IN the_DT Board_NNP of_IN Directors_NNS and_CC authorised_VBN for_IN issue_NN on_IN 15_CD February_NNP 2006_CD and_CC signed_VBN on_IN its_PRP$ behalf_NN by_IN :_: Steven_NNP Crawshaw_NNP GROUP_NNP CHIEF_JJ EXECUTIVE_NNP Chris_NNP Willford_NNP GROUP_NNP FINANCE_NNP DIRECTOR_NN

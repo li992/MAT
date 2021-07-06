@@ -1,5 +1,0 @@
-ANNUAL_JJ REPORT_NN 2005_CD ANNUAL_NNP FINANCIAL_NNP STATEMENTS_NNS 3_CD ._.
-Net_JJ operating_VBG assets_NNS are_VBP total_JJ net_JJ assets_NNS excluding_VBG convertible_JJ bonds_NNS ,_, loans_NNS and_CC the_DT capitalized_VBN finance_NN lease_NN ._.
-The_DT significant_JJ increase_NN in_IN net_JJ operating_NN assets_NNS is_VBZ as_IN a_DT result_NN of_IN the_DT fixed_JJ asset_NN capitalization_NN of_IN a_DT property_NN finance_NN lease_NN Note_VB 13_CD ._.
-Turnover_NN by_IN destination_NN is_VBZ not_RB materially_RB different_JJ to_TO turnover_NN by_IN origin_NN ._.
-The_DT Directors_NNS consider_VBP that_IN they_PRP operate_VBP one_CD generic_JJ class_NN of_IN business_NN and_CC that_IN business_NN is_VBZ primarily_RB managed_VBN regionally_RB ._.
