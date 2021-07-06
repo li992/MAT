@@ -1,7 +1,0 @@
-PowerVR ray tracing Ray tracing is a technique for rendering cinema quality 3D at a level of near photographic realism that is impractical with traditional 3D graphics techniques.
-Imagination has developed unique and patented technologies to radically lower the cost and dramatically increase the efficiency and performance of ray tracing.
-Building on fundamental Imagination IP, such as OpenRL, an open application programming interface API for ray tracing, we are today creating technologies for tomorrows creative graphics professionals.
-We are aiming to revolutionize graphics with embedded, mass market ray tracing.
-Imagination will use tightly-coupled PowerVR GPU and ray tracing unit RTU technology to drive major innovations in the 3D graphics market.
-Our PowerVR RTU technology will be fully integrated with Imaginations future generation of PowerVR GPUs.
-Created by Marcin Gruszczyk using Visualizer for 3ds Max Created by Ryan Montrucchio using Visualizer for Maya Model courtesy of Pacific Digital Image Visual Studios 32

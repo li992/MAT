@@ -1,3 +1,0 @@
-In_IN 2001_CD long_JJ term_NN liabilities_NNS and_CC reserves_NNS were_VBD restated_VBN to_TO reflect_VB the_DT impact_NN of_IN adopting_VBG FRS_NNP 19_CD Deferred_NNP Tax_NNP in_IN 2002_CD ._.
-In_IN 2002_CD current_JJ assets_NNS ,_, long_JJ term_NN liabilities_NNS ,_, pension_NN liabilities_NNS and_CC profit_NN loss_NN retained_VBN were_VBD restated_VBN to_TO reflect_VB the_DT adoption_NN of_IN FRS_NNP 17_CD Retirement_NNP Benefits_NNPS ._.
-Years_NNS prior_RB to_TO 2002_CD have_VBP not_RB been_VBN restated_VBN for_IN this_DT adoption_NN of_IN FRS_NNP 17_CD ._.
