@@ -1,4 +1,5 @@
 import glob,os,stanza
+from datetime import datetime
 
 # route initiation
 directory_path = os.getcwd()
@@ -30,13 +31,24 @@ narrative = ["ask","asks","asked","asking","tell","tells","told","telling"]
 v = ["VBG","VBN","VB","VBD","VBP","VBZ"]
 nn = ["NN","NNP","NNPS","NNS"]
 
+def printWithTime(Strr):
+    now=datetime.now()
+    dt = now.strftime("%Y-%m-%d %H:%M:%S")
+    print(dt+" INFO: "+Strr)
 
 def tagger(data,file):
+    printWithTime("   Creating Stanford Tags....")
     doc = nlp(data)
-    stftoutfilepath = str(directory_path)+"/output/"+"stft_"+str(file)
-    tagoutfilepath = str(directory_path)+"/outputDims/"+"tagged_"+str(file)
+    printWithTime("   Finished")
+    stftoutfilepath = os.path.join(directory_path,'Results')
+    stftoutfilepath = os.path.join(stftoutfilepath,'StanfordTags')
+    stftoutfilepath = os.path.join(stftoutfilepath,file)
+    tagoutfilepath = os.path.join(directory_path,'Results')
+    tagoutfilepath = os.path.join(tagoutfilepath,'ModifiedTags')
+    tagoutfilepath = os.path.join(tagoutfilepath,file)
     out = open(stftoutfilepath,'w')
     dout = open(tagoutfilepath,'w')
+    printWithTime("   Generating Analyzed Tags...")
     for i,sent in enumerate(doc.sentences):
         linewords=[]
         for word in sent.words:
@@ -46,23 +58,23 @@ def tagger(data,file):
         taglist = taggerAnalyzer(linewords)
         for tags in taglist:
             dout.write(tags+"\n")
+    printWithTime("   Finished")
     out.close()
     dout.close()
     return
 
 def folderProcess():
-    print('folderprocess called')
-    if not os.path.exists('output'):
-        print('Please use biber-dim to generate raw data first')
+    #print('folderprocess called')
+    if not os.path.exists('MergedFiles'):
+        printWithTime('Error: Please use FileMerger.py to generate raw data first')
         return
     else:
-        os.chdir(directory_path+'\output')
+        os.chdir(os.path.join(directory_path,'MergedFiles'))
         filenames = glob.glob('*.txt')
         validnames =[]
         for name in filenames:
-            if (not '_dims' in name) and (not 'stft_' in name):
-                validnames.append(name)
-        print(validnames)
+            validnames.append(name)
+        #print(validnames)
         return validnames
 
 def taggerAnalyzer(wordList):
@@ -739,13 +751,29 @@ def taggerAnalyzer(wordList):
 
         return wordList
 
+def __main__():
+    printWithTime("Tagging program started")
+    if not os.path.exists('Results'):
+        os.mkdir(os.path.join(os.getcwd(),'Results'))
+    os.chdir(os.path.join(os.getcwd(),'Results'))
+    if not os.path.exists('StanfordTags'):
+        os.mkdir(os.path.join(os.getcwd(),'StanfordTags'))
+    if not os.path.exists('ModifiedTags'):
+        os.mkdir(os.path.join(os.getcwd(),'ModifiedTags'))
+    os.chdir('..')
 
+    wordList = folderProcess()
+    for file in wordList:
+        printWithTime("Now processing file: "+file+"...")
+        filepath = os.path.join(directory_path,"MergedFiles")
+        filepath = os.path.join(filepath,file)
+        with open(filepath,'r') as filecontent:
+            data = filecontent.read().replace('\n',' ')
+        tagger(data,file)
+        printWithTime("Tag generation complete: "+file+"")
+        #break
+    printWithTime("Tagging program finished\nPlease use tagger-count.py to generate analysis data")
+    return
 
-wordList = folderProcess()
-for file in wordList:
-    filepath = directory_path+"\\output\\"+file
-    with open(filepath,'r') as filecontent:
-        data = filecontent.read().replace('\n',' ')
-    tagger(data,file)
-    break
+__main__()
     

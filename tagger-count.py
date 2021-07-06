@@ -3,18 +3,18 @@ import nltk,numpy,csv,glob,os,shutil
 directory_path = os.getcwd()
 
 def folderProcess():
-    print('folderprocess called')
-    if not os.path.exists('outputDims'):
-        print('Please use tagger-algo to generate raw tagger first')
-        return
+    #print('folderprocess called')
+    if not os.path.exists('Results'):
+        print('Please use tagger-algo to generate raw data first')
+        return []
     else:
-        os.chdir(directory_path+'\outputDims')
+        os.chdir(os.path.join(os.getcwd(),'Results'))
+        os.chdir(os.path.join(os.getcwd(),'ModifiedTags'))
         filenames = glob.glob('*.txt')
         validnames =[]
         for name in filenames:
-            if 'tagged_' in name:
-                validnames.append(name)
-        print(validnames)
+            validnames.append(name)
+        #print(validnames)
         return validnames
 
 
@@ -90,9 +90,7 @@ def taggerCount(data,filename):
     total_word_length=0
     total_tokens=0
     for line in data:
-        print(line)
         word = line.replace('\n','').split('_')
-        print(word)
         for fragIndex in range(len(word)):
             if fragIndex==0:
                 total_word_length += len(word[fragIndex]) 
@@ -107,8 +105,9 @@ def taggerCount(data,filename):
         if i != "Tokens" and i != "AWL":
             tag_dict[i] = float(tag_dict.get(i))/total_tokens * 100
 
-    OutputFilePath = directory_path+"\\outputDims\\ratios_"+filename
-    OutputFilePath=OutputFilePath.replace('txt','csv').replace('_tagged','')
+    OutputFilePath = os.path.join(directory_path,"Results/FieldScore")
+    OutputFilePath = os.path.join(OutputFilePath,filename)
+    OutputFilePath=OutputFilePath.replace('txt','csv')
     with open (OutputFilePath,'w',newline='') as file:
         writer = csv.writer(file)
         writer.writerow([a for a in tag_dict.keys()])
@@ -130,27 +129,38 @@ def dimensionsCal(tag_dict,filename):
     dimensions["D4"] = tag_dict["TO"] + tag_dict["PRMD"] + tag_dict["SUAV"] + tag_dict["COND"] + tag_dict["NEMD"] + tag_dict["SPAU"]
     dimensions["D5"] = tag_dict["CONJ"] + tag_dict["PASS"] + tag_dict["WZPAST"] + tag_dict["OSUB"]
 
-    out = directory_path + "\\outputDims\\Dims_" +filename
-    out = out.replace('txt','csv').replace('_tagged','')
+    out = os.path.join(directory_path,"Results/DimensionScore")
+    out = os.path.join(out,filename)
+    out = out.replace('txt','csv')
     with open(out,'w',newline='') as file:
         writer = csv.writer(file)
         writer.writerow([a for a in dimensions.keys()])
         writer.writerow(['%.2f' % float(dimensions.get(index)) for index in dimensions.keys()])
         file.close()
-    return
+    return dimensions
 
 def __main__():
+    if not os.path.exists('Results'):
+        os.mkdir(os.path.join(os.getcwd(),'Results'))    
+    os.chdir(os.path.join(os.getcwd(),'Results'))
+    if not os.path.exists('FieldScore'):
+        os.mkdir(os.path.join(os.getcwd(),'FieldScore'))
+    if not os.path.exists('DimensionScore'):
+        os.mkdir(os.path.join(os.getcwd(),'DimensionScore'))
+    os.chdir('..')
+
     files = folderProcess()
     for file in files:
-        filepath = directory_path+"\\outputDims\\"+file
+        filepath = os.path.join(directory_path,"Results/ModifiedTags")
+        filepath = os.path.join(filepath,file)
         reader = open(filepath,'r')
         data=[]
         for line in reader:
-            print(line)
+            #print(line)
             data.append(line)
         reader.close()
         tag_dict = taggerCount(data,file)
         dimensionsCal(tag_dict,file)
-        return
+    return
 
 __main__()
