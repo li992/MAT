@@ -1,4 +1,5 @@
 import glob,os,stanza
+from datetime import datetime
 
 # route initiation
 directory_path = os.getcwd()
@@ -30,13 +31,24 @@ narrative = ["ask","asks","asked","asking","tell","tells","told","telling"]
 v = ["VBG","VBN","VB","VBD","VBP","VBZ"]
 nn = ["NN","NNP","NNPS","NNS"]
 
+def printWithTime(Strr):
+    now=datetime.now()
+    dt = now.strftime("%Y-%m-%d %H:%M:%S")
+    print(dt+" INFO: "+Strr)
 
 def tagger(data,file):
+    printWithTime("   Creating Stanford Tags....")
     doc = nlp(data)
-    stftoutfilepath = str(directory_path)+"/output/"+"stft_"+str(file)
-    tagoutfilepath = str(directory_path)+"/outputDims/"+"tagged_"+str(file)
+    printWithTime("   Finished")
+    stftoutfilepath = os.path.join(directory_path,'Results')
+    stftoutfilepath = os.path.join(stftoutfilepath,'StanfordTags')
+    stftoutfilepath = os.path.join(stftoutfilepath,file)
+    tagoutfilepath = os.path.join(directory_path,'Results')
+    tagoutfilepath = os.path.join(tagoutfilepath,'ModifiedTags')
+    tagoutfilepath = os.path.join(tagoutfilepath,file)
     out = open(stftoutfilepath,'w')
     dout = open(tagoutfilepath,'w')
+    printWithTime("   Generating Analyzed Tags...")
     for i,sent in enumerate(doc.sentences):
         linewords=[]
         for word in sent.words:
@@ -46,26 +58,27 @@ def tagger(data,file):
         taglist = taggerAnalyzer(linewords)
         for tags in taglist:
             dout.write(tags+"\n")
+    printWithTime("   Finished")
     out.close()
     dout.close()
     return
 
 def folderProcess():
-    print('folderprocess called')
-    if not os.path.exists('output'):
-        print('Please use biber-dim to generate raw data first')
+    #print('folderprocess called')
+    if not os.path.exists('MergedFiles'):
+        printWithTime('Error: Please use FileMerger.py to generate raw data first')
         return
     else:
-        os.chdir(directory_path+'\output')
+        os.chdir(os.path.join(directory_path,'MergedFiles'))
         filenames = glob.glob('*.txt')
         validnames =[]
         for name in filenames:
-            if (not '_dims' in name) and (not 'stft_' in name):
-                validnames.append(name)
-        print(validnames)
+            validnames.append(name)
+        #print(validnames)
         return validnames
 
 def taggerAnalyzer(wordList):
+        #first loop to define prepositions
         for i in range(len(wordList)):
             word = wordList[i].split('_')
             if i<len(wordList)-1:
@@ -76,6 +89,7 @@ def taggerAnalyzer(wordList):
             if(word[0].lower()=="to" and (next_word[0] in wp or next_word[1] in ["IN","CD","DT","JJ","PRPS","WPS","NN","NNP","PDT","PRP","WDT","WRB"])):
                 wordList[i] = word[0] + "_PIN"
 
+        #second loop to define simple types
         for i in range(len(wordList)):
             word = wordList[i].split('_')
             # negation
@@ -98,6 +112,7 @@ def taggerAnalyzer(wordList):
             if word[0] in quantifierPN:
                 wordList[i] = word[0] + "_QUPR"
 
+        # third loop to define complex types
         for i in range(len(wordList)):
             word = wordList[i].split('_')
             if i<len(wordList)-4:
@@ -143,7 +158,7 @@ def taggerAnalyzer(wordList):
 
             #adverbial subordinators
             if word[0].lower() in ["since","while","whilst","whereupon","whereas","whereby"]:
-                wordList[i]=word[0].lower()+'_OSUB'
+                wordList[i]=wordList[i]+'_OSUB'
                 word = wordList[i].split('_')
             if (
                 (word[0].lower() == "such" and next_word[0].lower() == "that") or 
@@ -153,12 +168,12 @@ def taggerAnalyzer(wordList):
                 (word[0].lower() == "insomuch" and next_word[0].lower() == "as") or
                 (word[0].lower() == "so" and next_word[0].lower() == "that" and (second_next_word[1].upper() in ["NN","NNP","JJ"])) 
                 ):
-                wordList[i]=word[0].lower()+'_OSUB'
+                wordList[i]=wordList[i]+'_OSUB'
                 word = wordList[i].split('_')
-                wordList[i+1]=next_word[0].lower()+'_NULL'
+                wordList[i+1]=wordList[i]+'_NULL'
                 next_word = wordList[i+1].split('_')
             if ((word[0].lower() =="as") and (next_word[0].lower() in ["long","soon"]) and (second_next_word[0].lower() =="as")):
-                wordList[i]=word[0].lower()+'_OSUB'
+                wordList[i]=wordList[i]+'_OSUB'
                 word = wordList[i].split('_')
                 wordList[i+1]=next_word[0].lower()+'_NULL'
                 next_word = wordList[i+1].split('_')
@@ -167,33 +182,33 @@ def taggerAnalyzer(wordList):
 
             #predicative adjectives
             if (word[0].lower() in be and next_word[1].upper() == "JJ" and second_next_word[1].upper() in ["JJ","RB","NN","NNP"]):
-                wordList[i+1]=next_word[0].lower()+'_PRED'
+                wordList[i+1]=wordList[i+1]+'_PRED'
                 next_word = wordList[i+1].split('_')
             if (word[0].lower() in be and next_word[1].upper() == "RB" and second_next_word[1].upper()=="JJ" and third_next_word[1].upper() in ["JJ","RB","NN","NNP"]):
-                wordList[i+2]=second_next_word[0].lower()+'_PRED'
+                wordList[i+2]=wordList[i+2]+'_PRED'
                 second_next_word = wordList[i+2].split('_')
             if (word[0].lower() in be and next_word[1].upper() == "XX0" and second_next_word[1].upper()=="JJ" and third_next_word[1].upper() in ["JJ","RB","NN","NNP"]):
-                wordList[i+2]=second_next_word[0].lower()+'_PRED'
+                wordList[i+2]=wordList[i+2]+'_PRED'
                 second_next_word = wordList[i+2].split('_')
             if (word[0].lower() in be and next_word[1].upper() == "XX0" and second_next_word[1].upper()=="RB" and third_next_word[1].upper() =="JJ" and fourth_next_word in ["JJ","RB","NN","NNP"]):
-                wordList[i+3]=third_next_word[0].lower()+'_PRED'
+                wordList[i+3]=wordList[i+3]+'_PRED'
                 third_next_word = wordList[i+3].split('_')
             if (word[1].upper() == "JJ" and previous_word[1].upper()=="PHC" and second_previous_word[1].upper()=="PRED"):
-                wordList[i]=word[0].lower()+'_PRED'   
+                wordList[i]=wordList[i]+'_PRED'   
                 word = wordList[i].split('_')
             
             #tags conjuncts
             if (word[0].lower() in symbols and next_word[0].lower() in ["else","altogether","rather"]):
-                wordList[i+1]=next_word[0].lower()+"_CONJ"
+                wordList[i+1]=wordList[i+1]+"_CONJ"
                 next_word = wordList[i+1].split('_')
             if word[0].lower() in conjunctives:
-                wordList[i]=word[0].lower()+"_CONJ"
+                wordList[i]=wordList[i]+"_CONJ"
                 word = wordList[i].split('_')
             if ((word[0].lower()=="in" and next_word[0].lower() in ["comparison","contrast","particular","addition","conclusion","consequence","sum","summary"]) or
                 (word[0].lower()=="for" and next_word[0].lower() in ["example","instance"]) or
                 (word[0].lower()=="instead" and next_word[0].lower()=="of") or
                 (word[0].lower()=="by" and next_word[0].lower() in ["contrast","comparison"])):
-                wordList[i]=word[0].lower()+"_CONJ"
+                wordList[i]=wordList[i]+"_CONJ"
                 wordList[i+1]=next_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
                 next_word = wordList[i+1].split('_')
@@ -201,7 +216,7 @@ def taggerAnalyzer(wordList):
                 (word[0].lower()=="in" and next_word[0].lower()=="other" and second_next_word[0].lower()=="words") or
                 (word[0].lower()=="as" and next_word[0].lower()=="a" and second_next_word[0].lower() in ["consequence","result"]) or
                 (word[0].lower()=="on" and next_word[0].lower()=="the" and second_next_word[0].lower()=="contrary") ):
-                wordList[i]=word[0].lower()+"_CONJ"
+                wordList[i]=wordList[i]+"_CONJ"
                 wordList[i+1]=next_word[0].lower()+"_NULL"
                 wordList[i+2]=second_next_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
@@ -219,27 +234,27 @@ def taggerAnalyzer(wordList):
 
             #tags emphatics
             if word[0].lower() in ["just","really","most","more"]:
-                wordList[i]=word[0].lower()+"_EMPH"
+                wordList[i]=wordList[i]+"_EMPH"
                 word = wordList[i].split('_')
             if((word[0].lower() in ["real","so"] and next_word[1].upper() in ["JJ","PRED"]) or
                 (word[0].lower() in do and next_word[1].upper() in v)):
-                wordList[i]=word[0].lower()+"_EMPH"
+                wordList[i]=wordList[i]+"_EMPH"
                 word = wordList[i].split('_')
             if((word[0].lower() == "for" and next_word[0].lower()=="sure") or
                 (word[0].lower()=="a" and next_word[0].lower()=="lot") or
                 (word[0].lower()=="such" and next_word[0].lower()=="a")):
-                wordList[i]=word[0].lower()+"_EMPH"
+                wordList[i]=wordList[i]+"_EMPH"
                 wordList[i+1]=next_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
                 next_word = wordList[i+1].split('_')
             
             #tags phrasal "and" coordination
-            if((word[0].lower()=="and") or
-                (previous_word[1].upper()=="RB" and next_word[1].upper()=="RB") or
+            if((word[0].lower()=="and") and
+                ((previous_word[1].upper()=="RB" and next_word[1].upper()=="RB") or
                 (previous_word[1].upper() in nn and next_word[1].upper() in nn) or
                 (previous_word[1].upper() in v and next_word[1].upper() in v) or
-                (previous_word[1].upper() in ["JJ","PRED"] and next_word[1].upper() in ["JJ","PRED"])):
-                wordList[i]=word[0].lower()+"_PHC"
+                (previous_word[1].upper() in ["JJ","PRED"] and next_word[1].upper() in ["JJ","PRED"]))):
+                wordList[i]=wordList[i]+"_PHC"
                 word = wordList[i].split('_')
 
             #tags pro-verb do
@@ -349,23 +364,13 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
                 
             #tags 'that' verb complement
-            if((previous_word[0].lower() in ["and","nor","but","or","also"] or previous_word[1].upper() in symbols )and word[0].lower()=="that" and (next_word[0].lower()=="there" or next_word[1].upper() in ["DT","QUAN","CD","PRP","NNS","NNP"])):
-                wordList[i] = wordList[i]+"_THVC"
-                word = wordList[i].split('_')
-            
-            if((previous_word[0].lower() in public or previous_word[0].lower() in private or previous_word[0].lower() in suasive or (previous_word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and previous_word[1].upper() in v)) and word[0].lower()=="that" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have) or next_word[1].upper() in v or next_word[1].upper()=="MD" or next_word[0].lower()=="and"):
-                wordList[i] = wordList[i]+"_THVC"
-                word = wordList[i].split('_')
-
-            if((fourth_previous_word[0] in public or fourth_previous_word[0] in private or fourth_previous_word[0] in suasive) and third_previous_word[1].upper()=="PIN" and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = wordList[i]+"_THVC"
-                word = wordList[i].split('_')
-
-            if((fifth_previous_word[0] in public or fifth_previous_word[0] in private or fifth_previous_word[0] in suasive ) and fourth_previous_word[1].upper()=="PIN" and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = wordList[i]+"_THVC"
-                word = wordList[i].split('_')
-            if((sixth_previous_word[0] in public or sixth_previous_word[0] in private or sixth_previous_word[0] in suasive ) and fifth_previous_word[1].upper()=="PIN" and fourth_previous_word[1].upper() in nn and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that"):
-                wordList[i] = wordList[i]+"_THVC"
+            if((previous_word[0].lower() in ["and","nor","but","or","also"] or previous_word[1].upper() in symbols )and word[0].lower()=="that" and (next_word[0].lower()=="there" or next_word[1].upper() in ["DT","QUAN","CD","PRP","NNS","NNP"]) or
+                ((previous_word[0].lower() in public or previous_word[0].lower() in private or previous_word[0].lower() in suasive or (previous_word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and previous_word[1].upper() in v)) and word[0].lower()=="that" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have) or next_word[1].upper() in v or next_word[1].upper()=="MD" or next_word[0].lower()=="and") or
+                ((fourth_previous_word[0] in public or fourth_previous_word[0] in private or fourth_previous_word[0] in suasive) and third_previous_word[1].upper()=="PIN" and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that") or
+                ((fifth_previous_word[0] in public or fifth_previous_word[0] in private or fifth_previous_word[0] in suasive ) and fourth_previous_word[1].upper()=="PIN" and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that") or
+                ((sixth_previous_word[0] in public or sixth_previous_word[0] in private or sixth_previous_word[0] in suasive ) and fifth_previous_word[1].upper()=="PIN" and fourth_previous_word[1].upper() in nn and third_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and second_previous_word[1].upper() in nn and word[0].lower() =="that")):
+                if(word[0].lower()=="that"):
+                    wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
 
             #tags 'that' adjective complementss
@@ -420,16 +425,16 @@ def taggerAnalyzer(wordList):
 
             #tags hedges
             if word[0].lower()=="maybe":
-                wordList[i]= word[0].lower()+"_HDG"
+                wordList[i]= wordList[i]+"_HDG"
                 word = wordList[i].split('_')
             if((word[0].lower()=="at" and next_word[0].lower()=="about") or
                 (word[0].lower()=="something" and next_word[0].lower()=="like")):
-                wordList[i]= word[0].lower()+"_HDG"
+                wordList[i]= wordList[i]+"_HDG"
                 wordList[i+1]= next_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
                 next_word = wordList[i+1].split('_')
             if word[0].lower()=="more" and next_word[0].lower()=="or" and second_next_word[0].lower()=="less":
-                wordList[i]= word[0].lower()+"_HDG"
+                wordList[i]= wordList[i]+"_HDG"
                 wordList[i+1]= next_word[0].lower()+"_NULL"
                 wordList[i+2]= second_next_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
@@ -437,14 +442,14 @@ def taggerAnalyzer(wordList):
                 second_next_word = wordList[i+2].split('_')
             if (((second_previous_word[1].upper() in ["DT","QUAN","CD","JJ","PRED","PRPS"] or second_previous_word[0].lower() in who) and previous_word[0].lower()=="sort" and word[0].lower()=="of")or
                 ((second_previous_word[1].upper() in ["DT","QUAN","CD","JJ","PRED","PRPS"] or second_previous_word[0].lower() in who) and previous_word[0].lower()=="kind" and word[0].lower()=="of")):
-                wordList[i]= word[0].lower()+"_HDG"
+                wordList[i]= wordList[i]+"_HDG"
                 wordList[i-1]= previous_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
                 previous_word = wordList[i-1].split('_')
 
             #tags discourse particles
             if previous_word[1].upper() in symbols and word[0].lower() in ["well","now","anyhow","anyways"]:
-                wordList[i] = word[0].lower()+"_DPAR"
+                wordList[i] = wordList[i]+"_DPAR"
                 word = wordList[i].split('_')
 
 
@@ -457,7 +462,7 @@ def taggerAnalyzer(wordList):
             #tags demonstrative pronouns
             if ((word[0].lower() in ["that","this","these","those"] and word[1].upper()!="NULL" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or next_word[0].lower() in wp or next_word[1].upper() in v or next_word[1].upper() =="MD" or next_word[0].lower()=="and" or next_word[1].upper() in symbols) and word[1].upper() not in ["TOBJ","TSUB","THAC","THVC"]) or
                 (word[0].lower()=="that" and next_word[0].lower() in ["'s","is"])):
-                wordList[i] = word[0].lower()+"_DEMP"
+                wordList[i] = wordList[i]+"_DEMP"
                 word = wordList[i].split('_')
 
         for i in range(len(wordList)):
@@ -467,8 +472,8 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags demonstratives
-            if word[0].lower() in ["that","this","these","those"] and word[1].upper() not in ["DEMP","TOBJ","TSUB","THAC","THVC","NULL"]:
-                wordList[i] = word[0].lower()+"_DEMO"
+            if word[0].lower() in ["that","this","these","those"] and all(n not in wordList[i] for n in ["DEMP","TOBJ","TSUB","THAC","THVC","NULL"]):
+                wordList[i] = wordList[i]+"_DEMO"
                 word = wordList[i].split('_')
 
         for i in range(len(wordList)):
@@ -508,7 +513,7 @@ def taggerAnalyzer(wordList):
                 (previous_word[1].upper()=="," and word[0].lower()=="and" and next_word[0].lower()=="there" and second_next_word[0].lower() in be) or
                 (previous_word[1].upper() in symbols and word[0].lower()=="and") or
                 (word[0].lower()=="and" and (next_word[0].lower() in wp or next_word[0].lower() in who or next_word[0].lower() in ["because","although","though","tho","if","unless"] or next_word[1].upper() in ["OSUB","DPAR","CONJ"]))):
-                wordList[i] = word[0].lower()+"_ANDC"
+                wordList[i] = wordList[i]+"_ANDC"
                 word = wordList[i].split('_')
 
         for i in range(len(wordList)):
@@ -746,13 +751,29 @@ def taggerAnalyzer(wordList):
 
         return wordList
 
+def __main__():
+    printWithTime("Tagging program started")
+    if not os.path.exists('Results'):
+        os.mkdir(os.path.join(os.getcwd(),'Results'))
+    os.chdir(os.path.join(os.getcwd(),'Results'))
+    if not os.path.exists('StanfordTags'):
+        os.mkdir(os.path.join(os.getcwd(),'StanfordTags'))
+    if not os.path.exists('ModifiedTags'):
+        os.mkdir(os.path.join(os.getcwd(),'ModifiedTags'))
+    os.chdir('..')
 
+    wordList = folderProcess()
+    for file in wordList:
+        printWithTime("Now processing file: "+file+"...")
+        filepath = os.path.join(directory_path,"MergedFiles")
+        filepath = os.path.join(filepath,file)
+        with open(filepath,'r') as filecontent:
+            data = filecontent.read().replace('\n',' ')
+        tagger(data,file)
+        printWithTime("Tag generation complete: "+file+"")
+        #break
+    printWithTime("Tagging program finished\nPlease use tagger-count.py to generate analysis data")
+    return
 
-wordList = folderProcess()
-for file in wordList:
-    filepath = directory_path+"\\output\\"+file
-    with open(filepath,'r') as filecontent:
-        data = filecontent.read().replace('\n',' ')
-    tagger(data,file)
-    break
+__main__()
     
