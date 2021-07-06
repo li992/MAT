@@ -1,4 +1,0 @@
-NoticeofMeeting_VBG thedateofpurchaseand_RB ii_FW thehigherofthe_FW Hotel_NN ,_, CharlotteSquare_NNP ,_, Edinburgh_NNP ,_, on27January_NNP 2006at10_CD .05_CD amor_NN ,_, iflater_NN ,_, immediatelyafterthe_NN :_: d_LS ,_, revokedorrenewed_VBD ,_, the_DT EGM_NNP ,_, forthe_NN :_: 26April2007_NNP ,_, ,_, prior_RB tosuchexpiry_NN ,_, AsOrdinaryBusiness_NNP :_: 1_LS ._.
-ordinary_JJ STOCKPLAN_NNP ,_, AFlyingStart_NNP ,_, stockunits_NNS ,_, providedthat_NN :_: a_DT report_NN ._.
-,_, if_IN Thefinaldividend_NNP ,_, ifapproved_VBD ,_, willbepaidon_NN applicable_JJ ,_, Offer_NN :_: ._.
-,_, maintainedbythe_JJ thehigherof_NN i_FW 105_CD %_NN oftheaverageofthe_NN ,_, will_MD asderivedfromthe_VB ._.

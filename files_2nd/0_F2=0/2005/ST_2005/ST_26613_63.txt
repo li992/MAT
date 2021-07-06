@@ -1,4 +1,0 @@
-Man_NNP Group_NNP plc_NN Annual_JJ Report_NNP 2005_CD 92_CD Notes_NNS to_TO the_DT Accounts_NNPS Notes_NNP to_TO the_DT Accounts_NNPS continued_VBD 39_CD ._.
-Exchange_NNP rates_NNS The_DT following_JJ US_NNP dollar_NN rates_NNS of_IN exchange_NN have_VBP been_VBN used_VBN in_IN preparing_VBG these_DT accounts_NNS ._.
-Fixed_JJ asset_NN investments_NNS of_IN the_DT Company_NN Subsidiaries_NNPS $_$ m_CD At_IN 31_CD March_NNP 2005_CD and_CC at_IN 1_CD April_NNP 2004_CD 1,170_CD Details_NNS of_IN the_DT principal_JJ Group_NNP subsidiaries_NNS and_CC associates_NNS are_VBP given_VBN on_IN page_NN 94_CD ._.
-Debtors_NNS of_IN the_DT Company_NN 2005_CD 2004_CD $_$ m_CD $_$ m_CD Amounts_NNS falling_VBG due_JJ within_IN one_CD year_NN Amounts_NNS owed_VBN by_IN subsidiaries_NNS 692_CD 27_CD Other_JJ debtors_NNS 24_CD Taxation_NNP recoverable_JJ 7_CD 10_CD Prepayments_NNS and_CC accrued_VBN income_NN 13_CD 699_CD 74_CD

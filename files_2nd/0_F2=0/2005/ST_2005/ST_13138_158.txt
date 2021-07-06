@@ -1,9 +1,0 @@
-2_CD Elsevier_NNP 12:00_CD pm_NN ,_, Redcar_NNP ,_, England_NNP ..._: ..._: ..._: ..._: ..._: ._. ._.
-Julian_NNP Barwick_NNP ,_, Research_NNP Scientist_NNP ,_, is_VBZ one_CD of_IN a_DT 45-strong_JJ team_NN dedicated_VBN to_TO solving_VBG problems_NNS such_JJ as_IN why_WRB one_CD material_NN performs_VBZ better_JJR than_IN another_DT ._.
-To_TO do_VB this_DT ,_, he_PRP needs_VBZ to_TO be_VB on_IN top_NN of_IN the_DT latest_JJS scientific_JJ thinking_NN ,_, quickly_RB ._.
-Clear_JJ ,_, detailed_JJ and_CC easy_JJ to_TO use_VB ,_, the_DT ScienceDirect_NNP database_NN is_VBZ the_DT first_JJ information_NN source_NN he_PRP turns_VBZ to_TO ._.
-With_IN access_NN to_TO over_IN seven_CD million_CD articles_NNS ,_, thats_VBZ a_DT lot_NN of_IN data_NNS to_TO digest_VB ._.
-Elsevier_NNP ScienceDirect_NNP is_VBZ the_DT worlds_NNS largest_JJS electronic_JJ collection_NN of_IN science_NN ,_, technology_NN and_CC medicine_NN STM_NNP full_JJ text_NN and_CC bibliographic_JJ information_NN ._.
-Integrated_NNP with_IN other_JJ platforms_NNS and_CC databases_NNS ,_, it_PRP is_VBZ used_VBN by_IN more_JJR than_IN ten_CD million_CD users_NNS based_VBN in_IN thousands_NNS of_IN organizations_NNS in_IN more_JJR than_IN 70_CD countries_NNS ._.
-Since_IN its_PRP$ launch_NN in_IN 1999_CD ,_, over_IN 700_CD million_CD articles_NNS have_VBP been_VBN downloaded_VBN ,_, making_VBG the_DT Elsevier_NNP vision_NN of_IN a_DT digital_JJ STM_NNP library_NN a_DT reality_NN ._.
-Reed_NNP Elsevier_NNP Annual_JJ Review_NNP 2005_CD 3_CD ..._: ..._: ..._: ..._: ICI_NNP Measurement_NNP Science_NNP Group_NNP

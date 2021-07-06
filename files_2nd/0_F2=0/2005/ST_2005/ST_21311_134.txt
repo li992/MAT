@@ -1,3 +1,0 @@
-US_NNP GAAP_NNP financial_JJ data_NNS US_NNP GAAP_NNP financial_JJ data_NNS The_DT following_JJ information_NN has_VBZ been_VBN adjusted_VBN from_IN data_NN prepared_VBN under_IN IFRS_NNP for_IN 2005_CD and_CC 2004_CD ,_, and_CC UK_NNP GAAP_NNP for_IN 2003_CD ,_, 2002_CD and_CC 2001_CD to_TO reflect_VB significant_JJ differences_NNS from_IN accounting_VBG principles_NNS generally_RB accepted_VBN in_IN the_DT United_NNP States_NNPS US_NNP GAAP_NNP ._.
-See_VB Note_VB 63_CD for_IN an_DT explanation_NN of_IN these_DT differences_NNS ._.
-Net_JJ income_NN ,_, shareholders_NNS equity_NN and_CC total_JJ assets_NNS for_IN 2003_CD ,_, 2002_CD and_CC 2001_CD have_VBP been_VBN adjusted_VBN to_TO reflect_VB significant_JJ differences_NNS between_IN UK_NNP and_CC US_NNP GAAP_NNP ._.

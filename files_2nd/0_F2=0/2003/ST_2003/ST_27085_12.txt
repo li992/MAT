@@ -1,6 +1,0 @@
-Discount_NNP is_VBZ the_DT difference_NN between_IN Monks_NNP quoted_VBD share_NN price_NN and_CC its_PRP$ underlying_JJ net_JJ asset_NN value_NN ._.
-Ratio_NN of_IN total_JJ operating_NN costs_NNS to_TO average_JJ shareholders_NNS funds_NNS ._.
-Total_JJ assets_NNS including_VBG all_DT debt_NN used_VBN for_IN investment_NN purposes_NNS less_RBR all_DT cash_NN and_CC fixed_VBN interest_NN securities_NNS excluding_VBG convertibles_NNS divided_VBN by_IN shareholders_NNS funds_NNS ._.
-ll_NN Total_JJ assets_NNS including_VBG all_DT debt_NN used_VBN for_IN investment_NN purposes_NNS divided_VBN by_IN shareholders_NNS funds_NNS ._.
-All_DT per_IN share_NN figures_NNS prior_RB to_TO 2002_CD have_VBP been_VBN restated_VBN for_IN the_DT five_CD for_IN one_CD share_NN split_NN in_IN July_NNP 2001_CD ._.
-THE_DT MONKS_NNP INVESTMENT_NNP TRUST_NNP PLC_NNP 23_CD

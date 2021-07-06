@@ -1,8 +1,0 @@
-Discount_NNP is_VBZ the_DT difference_NN between_IN Scottish_JJ Mortgages_NNS quoted_VBN share_NN price_NN and_CC its_PRP$ underlying_JJ net_JJ asset_NN value_NN ._.
-Ratio_NN of_IN total_JJ operating_NN costs_NNS to_TO average_JJ shareholders_NNS funds_NNS ._.
-Total_JJ assets_NNS including_VBG all_DT debt_NN used_VBN for_IN investment_NN purposes_NNS less_RBR all_DT cash_NN and_CC fixed_VBN interest_NN securities_NNS ex_FW convertibles_NNS divided_VBN by_IN shareholders_NNS funds_NNS ._.
-ll_NN Total_JJ assets_NNS including_VBG all_DT debt_NN used_VBN for_IN investment_NN purposes_NNS divided_VBN by_IN shareholders_NNS funds_NNS ._.
-Restated_VBN for_IN change_NN in_IN accounting_NN policy_NN to_TO charge_VB expenses_NNS 50:50_CD between_IN revenue_NN and_CC capital_NN ._.
-``_`` Source_NN :_: Thomson_NNP Financial_NNP Datastream_NNP ._.
-Past_JJ performance_NN is_VBZ no_DT guarantee_NN of_IN future_JJ performance_NN ._.
-SCOTTISH_NNP MORTGAGE_NNP INVESTMENT_NNP TRUST_NNP PLC_NNP 25_CD

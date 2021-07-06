@@ -1,8 +1,0 @@
-advisers_NNS Head_NNP Office_NNP 3_CD Hancock_NNP Road_NNP ,_, Bromley-by-Bow_NNP ,_, London_NNP E3_NNP 3DA_NNP ._.
-Secretary_NNP and_CC Registered_NNP Office_NNP Roy_NNP Naismith_NNP ,_, 1_CD Old_NNP Burlington_NNP Street_NNP ,_, London_NNP W1S_NNP 3NL_NNP ._.
-Stockbrokers_NNS Deutsche_NNP Bank_NNP ,_, Winchester_NNP House_NNP ,_, 1_CD Great_NNP Winchester_NNP Street_NNP ,_, London_NNP EC2N_NNP 2DB_NNP ._.
-Auditors_NNS KPMG_NNP Audit_NNP Plc_NNP ,_, 8_CD Salisbury_NNP Square_NNP ,_, London_NNP EC4Y_NNP 8BB_NNP ._.
-Solicitors_NNS Davenport_NNP Lyons_NNP ,_, 1_CD Old_NNP Burlington_NNP Street_NNP ,_, London_NNP W1S_NNP 3NL_NNP ._.
-Principal_NN Bankers_NNS Barclays_NNP Bank_NNP PLC_NNP ,_, London_NNP Corporate_NNP Banking_NNP ,_, 50_CD Pall_NNP Mall_NNP ,_, PO_NNP Box_NNP No._NN ._.
-Registrars_NNS and_CC Transfer_NNP Office_NNP Capita_NNP Registrars_NNPS ,_, The_DT Registry_NNP ,_, 34_CD Beckenham_NNP Road_NNP ,_, Beckenham_NNP ,_, Kent_NNP BR3_NNP 4TU_NNP ._.
-financial_JJ calendar_NN 2004_CD 2005_CD 5_CD May_NNP Annual_JJ General_NNP Meeting_VBG 31_CD January_NNP Financial_NNP Year_NNP End_NNP 6_CD July_NNP Payment_NN of_IN final_JJ dividend_NN March_NNP Preliminary_JJ Announcement_NN of_IN results_NNS September_NNP Interim_NNP Statement_NNP October_NNP Payment_NN of_IN interim_JJ dividend_NN 51_CD
