@@ -166,7 +166,7 @@ def taggerAnalyzer(wordList):
                 (word[0].lower() == "forasmuch" and next_word[0].lower() == "as") or
                 (word[0].lower() == "insofar" and next_word[0].lower() == "as") or
                 (word[0].lower() == "insomuch" and next_word[0].lower() == "as") or
-                (word[0].lower() == "so" and next_word[0].lower() == "that" and any(n in wordList[i+2].upper() for n in ["NN","NNP","JJ"])) 
+                (word[0].lower() == "so" and next_word[0].lower() == "that" and any(n in second_next_word for n in ["NN","NNP","JJ"])) 
                 ):
                 wordList[i]=wordList[i]+'_OSUB'
                 word = wordList[i].split('_')
@@ -181,19 +181,19 @@ def taggerAnalyzer(wordList):
                 second_next_word = wordList[i+2].split('_')
 
             #predicative adjectives
-            if (word[0].lower() in be and "JJ" in wordList[i+1].upper() and any(n in wordList[i+2].upper() for n in ["JJ","RB","NN","NNP"])):
+            if (word[0].lower() in be and "JJ" in next_word and any(n in second_next_word for n in ["JJ","RB","NN","NNP"])):
                 wordList[i+1]=wordList[i+1]+'_PRED'
                 next_word = wordList[i+1].split('_')
-            if (word[0].lower() in be and "RB" in wordList[i+1].upper() and "JJ" in wordList[i+2].upper() and any(n in wordList[i+3].upper() for n in ["JJ","RB","NN","NNP"])):
+            if (word[0].lower() in be and "RB" in next_word and "JJ" in second_next_word and any(n in third_next_word for n in ["JJ","RB","NN","NNP"])):
                 wordList[i+2]=wordList[i+2]+'_PRED'
                 second_next_word = wordList[i+2].split('_')
-            if (word[0].lower() in be and "XX0" in wordList[i+1].upper() and "JJ" in wordList[i+2].upper() and any(n in wordList[i+3].upper() for n in ["JJ","RB","NN","NNP"])):
+            if (word[0].lower() in be and "XX0" in next_word and "JJ" in second_next_word and any(n in third_next_word for n in ["JJ","RB","NN","NNP"])):
                 wordList[i+2]=wordList[i+2]+'_PRED'
                 second_next_word = wordList[i+2].split('_')
-            if (word[0].lower() in be and "XX0" in wordList[i+1].upper() and "RB" in wordList[i+2].upper() and "JJ" in wordList[i+3].upper() and any(n in wordList[i+4].upper() for n in ["JJ","RB","NN","NNP"])):
+            if (word[0].lower() in be and "XX0" in next_word and "RB" in second_next_word and "JJ" in third_next_word and any(n in fourth_next_word for n in ["JJ","RB","NN","NNP"])):
                 wordList[i+3]=wordList[i+3]+'_PRED'
                 third_next_word = wordList[i+3].split('_')
-            if ("JJ" in wordList[i].upper() and "PHC" in wordList[i-1].upper() and "PRED" in wordList[i-2].upper()):
+            if ("JJ" in word and "PHC" in previous_word and "PRED" in second_previous_word):
                 wordList[i]=wordList[i]+'_PRED'   
                 word = wordList[i].split('_')
             
@@ -236,8 +236,8 @@ def taggerAnalyzer(wordList):
             if word[0].lower() in ["just","really","most","more"]:
                 wordList[i]=wordList[i]+"_EMPH"
                 word = wordList[i].split('_')
-            if((word[0].lower() in ["real","so"] and any(n in wordList[i+1].upper() for n in ["JJ","PRED"])) or
-                (word[0].lower() in do and any(n in wordList[i+1].upper() for n in v))):
+            if((word[0].lower() in ["real","so"] and any(n in next_word for n in ["JJ","PRED"])) or
+                (word[0].lower() in do and any(n in next_word for n in v))):
                 wordList[i]=wordList[i]+"_EMPH"
                 word = wordList[i].split('_')
             if((word[0].lower() == "for" and next_word[0].lower()=="sure") or
@@ -250,25 +250,25 @@ def taggerAnalyzer(wordList):
             
             #tags phrasal "and" coordination
             if((word[0].lower()=="and") and
-                (("RB" in wordList[i-1].upper() and "RB" in wordList[i+1].upper())) or
-                (any(n in wordList[i-1].upper() for n in nn) and any(n in wordList[i+1].upper() for n in nn)) or
-                (any(n in wordList[i-1].upper() for n in v) and any(n in wordList[i+1].upper() for n in v)) or
-                (any(n in wordList[i-1].upper() for n in ["JJ","PRED"]) and any(n in wordList[i+1].upper() for n in ["JJ","PRED"]))):
+                (("RB" in previous_word and "RB" in next_word)) or
+                (any(n in previous_word for n in nn) and any(n in next_word for n in nn)) or
+                (any(n in previous_word for n in v) and any(n in next_word for n in v)) or
+                (any(n in previous_word for n in ["JJ","PRED"]) and any(n in next_word for n in ["JJ","PRED"]))):
                 wordList[i]=wordList[i]+"_PHC"
                 word = wordList[i].split('_')
 
             #tags pro-verb do
             if word[0].lower() in do:
-                if (all(n not in wordList[i+1].upper() for n in v) and
+                if (all(n not in next_word for n in v) and
                     (previous_word[0].lower() not in symbols) and
-                    (all(n not in wordList[i+1].upper() for n in ["RB","XX0"]) and all(n not in wordList[i-2].upper() for n in v)) and
-                    (all(n not in wordList[i+1].upper() for n in ["RB","XX0"]) and "RB" not in wordList[i+2].upper() and all(n not in wordList[i+3].upper() for n in v)) and
+                    (all(n not in next_word for n in ["RB","XX0"]) and all(n not in second_previous_word for n in v)) and
+                    (all(n not in next_word for n in ["RB","XX0"]) and "RB" not in second_next_word and all(n not in third_next_word for n in v)) and
                     (previous_word[0].lower() in wp or previous_word[0].lower() in who)):
                     wordList[i]=wordList[i]+"_PROD"
                     word = wordList[i].split('_')
             
             #tags WH questions
-            if ((word[0].lower() in symbols and next_word[0].lower() in who and next_word[0].lower() not in ["however","whatever"] and "MD" in wordList[i+2].upper()) or
+            if ((word[0].lower() in symbols and next_word[0].lower() in who and next_word[0].lower() not in ["however","whatever"] and "MD" in second_next_word) or
                 (word[0].lower() in symbols and next_word[0].lower() in who and next_word[0].lower() not in ["however","whatever"] and (second_next_word[0].lower() in do or second_next_word[0].lower() in have or second_next_word[0].lower() in be)) or
                 (word[0].lower() in symbols and second_next_word[0].lower() in who and second_next_word[0].lower() not in ["however","whatever"] and (third_next_word[0].upper() in be))):
                 wordList[i+1]=wordList[i+1]+"_WHQU"
@@ -281,31 +281,31 @@ def taggerAnalyzer(wordList):
 
             #tags perfect aspects
             if word[0].lower() in have:
-                if (any(n in wordList[i+1].upper() for n in ["VBD","VBN"]) or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"])) or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in["RB","XX0"]) and any(n in wordList[i+3].upper() for n in ["VBD","VBN"])) or
-                    (any(n in wordList[i+1].upper() for n in ["NN","NNP","PRP"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"])) or
-                    ("XX0" in wordList[i+1].upper() and any(n in wordList[i+2].upper() for n in["NN","NNP","PRP"]) and any(n in wordList[i+3].upper() for n in ["VBN","VBD"]))):
+                if (any(n in next_word for n in ["VBD","VBN"]) or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["VBD","VBN"])) or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in["RB","XX0"]) and any(n in third_next_word for n in ["VBD","VBN"])) or
+                    (any(n in next_word for n in ["NN","NNP","PRP"]) and any(n in second_next_word for n in ["VBD","VBN"])) or
+                    ("XX0" in next_word and any(n in second_next_word for n in["NN","NNP","PRP"]) and any(n in third_next_word for n in ["VBN","VBD"]))):
                     wordList[i]=wordList[i]+"_PEAS"
                     word = wordList[i].split('_')
 
             #tags passives
             if word[0].lower() in be or word[0].lower() in ["have","had","has","get"]:
-                if((any(n in wordList[i+1].upper() for n in ["VBD","VBN"])) or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"])) or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["RB","XX0"]) and any(n in wordList[i+3].upper() for n in ["VBD","VBN"])) or
-                    ("XX0" in wordList[i+1].upper() and any(n in wordList[i+2].upper() for n in ["NN","NNP","PRP"]) and any(n in wordList[i+3].upper() for n in ["VBD","VBN"])) or
-                    (any(n in wordList[i+1].upper() for n in ["NN","NNP","PRP"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"]))):
+                if((any(n in next_word for n in ["VBD","VBN"])) or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["VBD","VBN"])) or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and any(n in third_next_word for n in ["VBD","VBN"])) or
+                    ("XX0" in next_word and any(n in second_next_word for n in ["NN","NNP","PRP"]) and any(n in third_next_word for n in ["VBD","VBN"])) or
+                    (any(n in next_word for n in ["NN","NNP","PRP"]) and any(n in second_next_word for n in ["VBD","VBN"]))):
                     wordList[i] = wordList[i]+"_PASS" 
                     word = wordList[i].split('_') 
 
             #tags "by passives"
             if word[0].lower() in be or word[0].lower() in ["have","had","has","get"]:
-                if ((any(n in wordList[i+1].upper() for n in ["VBD","VBN"]) and second_next_word[0].lower() =="by") or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"]) and third_next_word[0].lower()=="by") or
-                    (any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["RB","XX0"]) and any(n in wordList[i+3].upper() for n in ["VBD","VBN"]) and fourth_next_word[0].lower()=="by") or
-                    (any(n in wordList[i+1].upper() for n in ["NN","NNP","PRP"]) and any(n in wordList[i+2].upper() for n in ["VBD","VBN"]) and third_next_word[0].lower()=="by") or
-                    ("XX0" in wordList[i+1].upper() and second_next_word[1].upper() in ["NN","NNP","PRP"] and third_next_word[1].upper() in ["VBD","VBN"] and fourth_next_word[0].lower()=="by")):
+                if ((any(n in next_word for n in ["VBD","VBN"]) and second_next_word[0].lower() =="by") or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["VBD","VBN"]) and third_next_word[0].lower()=="by") or
+                    (any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and any(n in third_next_word for n in ["VBD","VBN"]) and fourth_next_word[0].lower()=="by") or
+                    (any(n in next_word for n in ["NN","NNP","PRP"]) and any(n in second_next_word for n in ["VBD","VBN"]) and third_next_word[0].lower()=="by") or
+                    ("XX0" in next_word and any(n in second_next_word for n in ["NN","NNP","PRP"]) and any(n in third_next_word for n in ["VBD","VBN"]) and fourth_next_word[0].lower()=="by")):
                     if ("PASS" in wordList[i]):
                         wordList[i]=wordList[i].replace("PASS","BYPA")
                     else:
@@ -313,40 +313,40 @@ def taggerAnalyzer(wordList):
                     word = wordList[i].split('_')
 
             #tags be as main verb
-            if(("EX" not in wordList[i-2].upper() and "EX" not in wordList[i-1].upper() and word[0].lower() in be and any(n in wordList[i].upper() for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"])) or
-                ("EX" not in wordList[i-2].upper() and "EX" not in wordList[i-1].upper() and word[0].lower() in be and any(n in wordList[i].upper() for n in ["RB","XX0"]) and any(n in wordList[i+1].upper() for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"]))):
+            if(("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"])) or
+                ("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in word for n in ["RB","XX0"]) and any(n in next_word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"]))):
                 wordList[i] = wordList[i]+"_BEMA"
                 word = wordList[i].split('_')
 
             #tags wh clauses
-            if(word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (next_word[0].lower() in wp or next_word[0].lower() in who) and (second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or "MD" in wordList[i+2].upper()): 
+            if(word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (next_word[0].lower() in wp or next_word[0].lower() in who) and (second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or "MD" in second_next_word): 
                 wordList[i+1]=wordList[i+1]+"_WHCL"
                 next_word = wordList[i+1].split('_')
 
             #tags pied-piping relative clauses
-            if "PIN" in wordList[i].upper() and next_word[0].lower() in ["who","whom","whose","which"]:
+            if "PIN" in word and next_word[0].lower() in ["who","whom","whose","which"]:
                 wordList[i+1]=wordList[i+1]+"_PIRE"
                 next_word = wordList[i+1].split('_')
 
             #tags stranded preposisitons
-            if "PIN" in wordList[i].upper() and next_word[0].lower()!="besides" and next_word[0].lower() in [",","."]:
+            if "PIN" in word and next_word[0].lower()!="besides" and next_word[0].lower() in [",","."]:
                 wordList[i] = wordList[i]+"_STPR"
                 word = wordList[i].split('_')
 
             #tags split infinitives
-            if ((word[0].lower()=="to" and any(n in wordList[i+1].upper() for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in wordList[i+2].upper() for n in v)) or
-                (word[0].lower()=="to" and any(n in wordList[i+1].upper() for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in wordList[i+2].upper() for n in ["RB","AMPLIF","DOWNTON"]) and any(n in wordList[i+3].upper() for n in v))):
+            if ((word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in v)) or
+                (word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in ["RB","AMPLIF","DOWNTON"]) and any(n in third_next_word for n in v))):
                 wordList[i] = wordList[i]+"_SPIN"
                 word = wordList[i].split('_')
 
             #tags split auxiliaries
-            if(((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in wordList[i].upper() and any(n in wordList[i+1].upper() for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and any(n in wordList[i+2].upper() for n in v)) or
-                ((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in wordList[i].upper() and any(n in wordList[i+1].upper() for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and "RB" in wordList[i+2].upper() and any(n in wordList[i+3].upper() for n in v))):
+            if(((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in word and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and any(n in second_next_word for n in v)) or
+                ((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in word and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and "RB" in second_next_word and any(n in third_next_word for n in v))):
                 wordList[i] = wordList[i]+"_SPAU"
                 word = wordList[i].split('_')
 
             #tags synthetic negation
-            if((word[0].lower()=="no" and any(n in wordList[i+1].upper() for n in ["JJ","PRED","NN","NNP"])) or
+            if((word[0].lower()=="no" and any(n in next_word for n in ["JJ","PRED","NN","NNP"])) or
                 word[0].lower() =="neither" or 
                 word[0].lower() =="nor"):
                 wordList[i] = word[0].lower()+"_SYNE"
@@ -362,67 +362,67 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags place adverbials
-            if word[0].lower() in placeABV and word[1].upper()!="NNP":
+            if word[0].lower() in placeABV and "NNP" not in word:
                 wordList[i] = word[0].lower()+"_PLACE"
                 word = wordList[i].split('_')
                 
             #tags 'that' verb complement
-            if((previous_word[0].lower() in ["and","nor","but","or","also"] or previous_word[0].upper() in symbols )and word[0].lower()=="that" and (next_word[0].lower()=="there" or any(n in wordList[i+1].upper() for n in ["DT","QUAN","CD","PRP","NNS","NNP"])) or
-                ((previous_word[0].lower() in public or previous_word[0].lower() in private or previous_word[0].lower() in suasive or (previous_word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and any(n in wordList[i-1].upper() for n in v))) and word[0].lower()=="that" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have) or any(n in wordList[i+1].upper() for n in v) or "MD" in wordList[i+1].upper() or next_word[0].lower()=="and") or
-                ((fourth_previous_word[0] in public or fourth_previous_word[0] in private or fourth_previous_word[0] in suasive) and "PIN" in wordList[i-3].upper() and any(n in wordList[i-2].upper() for n in nn) and any(n in wordList[i-1].upper() for n in nn) and word[0].lower() =="that") or
-                ((fifth_previous_word[0] in public or fifth_previous_word[0] in private or fifth_previous_word[0] in suasive ) and "PIN" in wordList[i-4].upper() and any(n in wordList[i-3].upper() for n in nn) and any(n in wordList[i-2].upper() for n in nn) and any(n in wordList[i-1].upper() for n in nn) and word[0].lower() =="that") or
-                ((sixth_previous_word[0] in public or sixth_previous_word[0] in private or sixth_previous_word[0] in suasive ) and "PIN" in wordList[i-5].upper() and any(n in wordList[i-4].upper() for n in nn) and any(n in wordList[i-3].upper() for n in nn) and any(n in wordList[i-2].upper() for n in nn) and any(n in wordList[i-1].upper() for n in nn) and word[0].lower() =="that")):
+            if((previous_word[0].lower() in ["and","nor","but","or","also"] or previous_word[0].upper() in symbols )and word[0].lower()=="that" and (next_word[0].lower()=="there" or any(n in next_word for n in ["DT","QUAN","CD","PRP","NNS","NNP"])) or
+                ((previous_word[0].lower() in public or previous_word[0].lower() in private or previous_word[0].lower() in suasive or (previous_word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and any(n in previous_word for n in v))) and word[0].lower()=="that" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have) or any(n in next_word for n in v) or "MD" in next_word or next_word[0].lower()=="and") or
+                ((fourth_previous_word[0] in public or fourth_previous_word[0] in private or fourth_previous_word[0] in suasive) and "PIN" in third_previous_word and any(n in second_previous_word for n in nn) and any(n in previous_word for n in nn) and word[0].lower() =="that") or
+                ((fifth_previous_word[0] in public or fifth_previous_word[0] in private or fifth_previous_word[0] in suasive ) and "PIN" in fourth_previous_word and any(n in third_previous_word for n in nn) and any(n in second_previous_word for n in nn) and any(n in previous_word for n in nn) and word[0].lower() =="that") or
+                ((sixth_previous_word[0] in public or sixth_previous_word[0] in private or sixth_previous_word[0] in suasive ) and "PIN" in fifth_previous_word and any(n in fourth_previous_word for n in nn) and any(n in third_previous_word for n in nn) and any(n in second_previous_word for n in nn) and any(n in previous_word for n in nn) and word[0].lower() =="that")):
                 if(word[0].lower()=="that"):
                     wordList[i] = wordList[i]+"_THVC"
                 word = wordList[i].split('_')
 
             #tags 'that' adjective complementss
-            if (any(n in wordList[i-1].upper() for n in ["JJ","PRED"]) and word[0].lower()=="that"):
+            if (any(n in previous_word for n in ["JJ","PRED"]) and word[0].lower()=="that"):
                 wordList[i] = wordList[i]+"_THAC"
                 word = wordList[i].split('_')
             
             #tags present participial clauses
-            if previous_word[0].upper() in symbols and "VBG" in wordList[i].upper() and (any(n in wordList[i+1].upper() for n in ["PIN","DT","QUAN","CD","WPs","PRP","RB"]) or next_word[0].lower() in wp or next_word[0].lower() in who):
+            if previous_word[0].upper() in symbols and "VBG" in word and (any(n in next_word for n in ["PIN","DT","QUAN","CD","WPs","PRP","RB"]) or next_word[0].lower() in wp or next_word[0].lower() in who):
                 wordList[i] = wordList[i]+"_PRESP"
                 word = wordList[i].split('_')
 
             #tags past participial clauses
-            if previous_word[0].upper() in symbols and "VBN" in wordList[i].upper() and any(n in wordList[i+1].upper() for n in ["PIN","RB"]):
+            if previous_word[0].upper() in symbols and "VBN" in word and any(n in next_word for n in ["PIN","RB"]):
                 wordList[i] = wordList[i]+"_PASTP"
                 word = wordList[i].split('_')
 
             #tags past participial WHIZ deletion relatives
-            if (any(n in wordList[i-1] for n in nn) or "QUPR" in wordList[i-1].upper()) and "VBN" in wordList[i].upper() and (any(n in wordList[i+1].upper() for n in ["PIN","RB"]) or next_word[0].lower() in be):
+            if (any(n in wordList[i-1] for n in nn) or "QUPR" in previous_word) and "VBN" in word and (any(n in next_word for n in ["PIN","RB"]) or next_word[0].lower() in be):
                 wordList[i] = wordList[i]+"_WZPAST"
                 word = wordList[i].split('_')
 
             #tags present participial WHIZ deletion relatives
-            if any(n in wordList[i-1].upper() for n in nn) and "VBG" in wordList[i].upper():
+            if any(n in previous_word for n in nn) and "VBG" in word:
                 wordList[i] = wordList[i]+"_WZPRES"
                 word = wordList[i].split('_')
 
             #tags "that" relative clauses on subject position
-            if ((any(n in wordList[i-1].upper() for n in nn) and word[0].lower()=="that" and (any(n in wordList[i+1].upper() for n in v) or "MD" in wordList[i+1].upper() or next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have)) or
-                (any(n in wordList[i-1].upper() for n in nn) and word[0].lower()=="that" and any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and (any(n in wordList[i+2].upper() for n in v) or "MD" in wordList[i+2].upper() or second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have)) or
-                (any(n in wordList[i-1].upper() for n in nn) and word[0].lower()=="that" and any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["RB","XX0"]) and (any(n in wordList[i+3].upper() for n in v) or "MD" in wordList[i+3].upper() or third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have))):
+            if ((any(n in previous_word for n in nn) and word[0].lower()=="that" and (any(n in next_word for n in v) or "MD" in next_word or next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have)) or
+                (any(n in previous_word for n in nn) and word[0].lower()=="that" and any(n in next_word for n in ["RB","XX0"]) and (any(n in second_next_word for n in v) or "MD" in second_next_word or second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have)) or
+                (any(n in previous_word for n in nn) and word[0].lower()=="that" and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and (any(n in third_next_word for n in v) or "MD" in third_next_word or third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have))):
                 wordList[i] = word[0].lower()+"_TSUB"
                 word = wordList[i].split('_')
 
             #tags "that" relative clauses on object positionW
-            if((any(n in wordList[i-1].upper() for n in nn) and word[0].lower() =="that" and (next_word[0].lower() in ["it","i","we","he","she","they"] or any(n in wordList[i+1].upper() for n in ["DT","QUAN","CD","JJ","NNS","NNP","PRPS"])))or
-                (any(n in wordList[i-1].upper() for n in nn) and word[0].lower()=="that" and any(n in wordList[i+1].upper() for n in nn) and "POS" in wordList[i+2].upper(0))):
+            if((any(n in previous_word for n in nn) and word[0].lower() =="that" and (next_word[0].lower() in ["it","i","we","he","she","they"] or any(n in next_word for n in ["DT","QUAN","CD","JJ","NNS","NNP","PRPS"])))or
+                (any(n in previous_word for n in nn) and word[0].lower()=="that" and any(n in next_word for n in nn) and "POS" in second_next_word)):
                 wordList[i] = word[0].lower()+"_TOBJ"
                 word = wordList[i].split('_')
 
             #tags WH relative clauses on subject position
-            if((third_previous_word[0].lower() not in narrative and any(n in wordList[i-1].upper() for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in wordList[i+1].upper() for n in v) or next_word=="MD")) or
-                (third_previous_word[0].lower() not in narrative and any(n in wordList[i-1].upper() for n in nn) and word in wp and any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and(second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or any(n in wordList[i+2].upper() for n in v) or "MD" in wordList[i+2].upper())) or
-                (third_previous_word[0].lower() not in narrative and any(n in wordList[i-1].upper() for n in nn) and word in wp and any(n in wordList[i+1].upper() for n in ["RB","XX0"]) and any(n in wordList[i+2].upper() for n in ["RB","XX0"]) and (third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have or any(n in wordList[i+3].upper() for n in v) or "MD" in wordList[i+3].upper()))):
+            if((third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or next_word=="MD")) or
+                (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and(second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or any(n in second_next_word for n in v) or "MD" in second_next_word)) or
+                (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and (third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have or any(n in third_next_word for n in v) or "MD" in third_next_word))):
                 wordList[i] = wordList[i]+"_WHSUB"
                 word = wordList[i].split('_')
 
             #tags WH relative clauses on object position
-            if(third_previous_word[0].lower() not in narrative and any(n in wordList[i-1].upper() for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in wordList[i+1].upper() for n in v) or any(n in wordList[i+1].upper() for n in ["MD","RB","XX0"]))):
+            if(third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or any(n in next_word for n in ["MD","RB","XX0"]))):
                 wordList[i] = wordList[i]+"_WHOBJ"
                 word = wordList[i].split('_')
 
@@ -443,8 +443,8 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
                 next_word = wordList[i+1].split('_')
                 second_next_word = wordList[i+2].split('_')
-            if (((any(n in wordList[i-2].upper() for n in ["DT","QUAN","CD","JJ","PRED","PRPS"]) or second_previous_word[0].lower() in who) and previous_word[0].lower()=="sort" and word[0].lower()=="of")or
-                ((any(n in wordList[i-2].upper() for n in ["DT","QUAN","CD","JJ","PRED","PRPS"]) or second_previous_word[0].lower() in who) and previous_word[0].lower()=="kind" and word[0].lower()=="of")):
+            if (((any(n in second_previous_word for n in ["DT","QUAN","CD","JJ","PRED","PRPS"]) or second_previous_word[0].lower() in who) and previous_word[0].lower()=="sort" and word[0].lower()=="of")or
+                ((any(n in second_previous_word for n in ["DT","QUAN","CD","JJ","PRED","PRPS"]) or second_previous_word[0].lower() in who) and previous_word[0].lower()=="kind" and word[0].lower()=="of")):
                 wordList[i]= wordList[i]+"_HDG"
                 wordList[i-1]= previous_word[0].lower()+"_NULL"
                 word = wordList[i].split('_')
@@ -463,7 +463,7 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags demonstrative pronouns
-            if ((word[0].lower() in ["that","this","these","those"] and word[1].upper()!="NULL" and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or next_word[0].lower() in wp or any(n in wordList[i+1].upper() for n in v) or "MD" in wordList[i+1].upper() or next_word[0].lower()=="and" or next_word[0].upper() in symbols) and all(n not in wordList[i].upper() for n in ["TOBJ","TSUB","THAC","THVC"])) or
+            if ((word[0].lower() in ["that","this","these","those"] and "NULL" not in word and (next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or next_word[0].lower() in wp or any(n in next_word for n in v) or "MD" in next_word or next_word[0].lower()=="and" or next_word[0].upper() in symbols) and all(n not in word for n in ["TOBJ","TSUB","THAC","THVC"])) or
                 (word[0].lower()=="that" and next_word[0].lower() in ["'s","is"])):
                 wordList[i] = wordList[i]+"_DEMP"
                 word = wordList[i].split('_')
@@ -475,7 +475,7 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags demonstratives
-            if word[0].lower() in ["that","this","these","those"] and all(n not in wordList[i].upper() for n in ["DEMP","TOBJ","TSUB","THAC","THVC","NULL"]):
+            if word[0].lower() in ["that","this","these","those"] and all(n not in word for n in ["DEMP","TOBJ","TSUB","THAC","THVC","NULL"]):
                 wordList[i] = wordList[i]+"_DEMO"
                 word = wordList[i].split('_')
 
@@ -498,10 +498,10 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags subordinator-that deletion
-            if (((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (next_word[0].lower() in ["i","we","she","he","they"] or "DEMP" in wordList[i+1].upper())) or
-                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (["PRP"] in wordList[i+1].upper() or any(n in wordList[i+1].upper() for n in nn)) and (second_next_word[0].lower() in do or second_next_word[0].lower() in have or second_next_word[0].lower() in be or any(n in wordList[i+2].upper() for n in v) or "MD" in wordList[i+2].upper())) or
-                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and any(n in wordList[i+1].upper() for n in ["JJ","PRED","RB","DT","QUAN","CD","PRPS"]) and any(n in wordList[i+2].upper() for n in nn) and (third_next_word[0].lower() in do or third_next_word[0].lower() in have or third_next_word[0].lower() in be or any(n in wordList[i+3].upper() in v) or "MD" in wordList[i+3].upper())) or
-                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and any(n in wordList[i+1].upper() for n in ["JJ","PRED","RB","DT","QUAN","CD","PRPS"]) and any(n in wordList[i+2].upper() for n in ["JJ","PRED"]) and any(n in wordList[i+3].upper() for n in nn) and (fourth_next_word[0].lower() in do or fourth_next_word[0].lower() in have or fourth_next_word[0].lower() in be or any(n in wordList[i+4].upper() for n in v) or "MD" in wordList[i+4].upper()))):
+            if (((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (next_word[0].lower() in ["i","we","she","he","they"] or "DEMP" in next_word)) or
+                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (["PRP"] in next_word or any(n in next_word for n in nn)) and (second_next_word[0].lower() in do or second_next_word[0].lower() in have or second_next_word[0].lower() in be or any(n in second_next_word for n in v) or "MD" in second_next_word)) or
+                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and any(n in next_word for n in ["JJ","PRED","RB","DT","QUAN","CD","PRPS"]) and any(n in second_next_word for n in nn) and (third_next_word[0].lower() in do or third_next_word[0].lower() in have or third_next_word[0].lower() in be or any(n in third_next_word for n in v) or "MD" in third_next_word)) or
+                ((word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and any(n in next_word for n in ["JJ","PRED","RB","DT","QUAN","CD","PRPS"]) and any(n in second_next_word for n in ["JJ","PRED"]) and any(n in third_next_word for n in nn) and (fourth_next_word[0].lower() in do or fourth_next_word[0].lower() in have or fourth_next_word[0].lower() in be or any(n in fourth_next_word for n in v) or "MD" in fourth_next_word))):
                 wordList[i] = wordList[i]+"_THATD"
                 word = wordList[i].split('_')
 
@@ -512,10 +512,10 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags independent clause coordination
-            if ((previous_word[0].upper()=="," and word[0].lower()=="and" and (next_word[0].lower() in ["it","so","then","you","u","we","he","she","they"] or "DEMP" in wordList[i+1].upper())) or
+            if ((previous_word[0].upper()=="," and word[0].lower()=="and" and (next_word[0].lower() in ["it","so","then","you","u","we","he","she","they"] or "DEMP" in next_word)) or
                 (previous_word[0].upper()=="," and word[0].lower()=="and" and next_word[0].lower()=="there" and second_next_word[0].lower() in be) or
                 (previous_word[0].upper() in symbols and word[0].lower()=="and") or
-                (word[0].lower()=="and" and (next_word[0].lower() in wp or next_word[0].lower() in who or next_word[0].lower() in ["because","although","though","tho","if","unless"] or any(n in wordList[i+1].upper() for n in ["OSUB","DPAR","CONJ"])))):
+                (word[0].lower()=="and" and (next_word[0].lower() in wp or next_word[0].lower() in who or next_word[0].lower() in ["because","although","though","tho","if","unless"] or any(n in next_word for n in ["OSUB","DPAR","CONJ"])))):
                 wordList[i] = wordList[i]+"_ANDC"
                 word = wordList[i].split('_')
 
@@ -542,7 +542,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if ("tion"in word[0].lower() or "ment" in word[0].lower() or "ness" in word[0].lower() or "nesses" in word[0].lower() or "ity" in word[0].lower() or "ities" in word[0].lower()) and any(n in wordList[i].upper() for n in nn):
+            if ("tion"in word[0].lower() or "ment" in word[0].lower() or "ness" in word[0].lower() or "nesses" in word[0].lower() or "ity" in word[0].lower() or "ities" in word[0].lower()) and any(n in word for n in nn):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -552,7 +552,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if ("ing" in word[0].lower() and any(n in wordList[i].upper() for n in nn)) or ("ings" in word[0].lower() and any(n in wordList[i].upper() for n in nn)):
+            if ("ing" in word[0].lower() and any(n in word for n in nn)) or ("ings" in word[0].lower() and any(n in word for n in nn)):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -562,7 +562,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if any(n in wordList[i].upper() for n in nn):
+            if any(n in word for n in nn):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -570,11 +570,9 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_NN"
                     else:
                         wordList[i] += "_"+word[n]
-                for word in nn:
-                    wordList[i] = wordList[i].replace("_"+word,"")
                 word = wordList[i].split('_')
 
-            if any(n in wordList[i].upper() for n in ["JJS","JJR"]):
+            if any(n in word for n in ["JJS","JJR"]):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -582,11 +580,9 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_JJ"
                     else:
                         wordList[i] += "_"+word[n]
-                for word in ["JJS","JJR"]:
-                    wordList[i] = wordList[i].replace("_"+word,"")
                 word = wordList[i].split('_')
 
-            if any(n in wordList[i].upper() for n in ["RBS","RBR","WRB"]):
+            if any(n in word for n in ["RBS","RBR","WRB"]):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -594,11 +590,9 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_RB"
                     else:
                         wordList[i] += "_"+word[n]
-                for word in ["RBS","RBR","WRB"]:
-                    wordList[i] = wordList[i].replace("_"+word,"")
                 word = wordList[i].split('_')
 
-            if any(n in wordList[i].upper() for n in ["VBP","VBZ"]):
+            if any(n in word for n in ["VBP","VBZ"]):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -606,8 +600,6 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_VPRT"
                     else:
                         wordList[i] += "_"+word[n]
-                for word in ["VBP","VBZ"]:
-                    wordList[i] = wordList[i].replace("_"+word,"")
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["I","me","we","us","my","our","myself","ourselves"]:
@@ -680,7 +672,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if (word[0].lower() in ["can","may","might","could"]) or ("ca" in word[0].lower() and word[1].upper()=="MD"):
+            if (word[0].lower() in ["can","may","might","could"]) or ("ca" in word[0].lower() and "MD" in word):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -700,7 +692,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if (word[0].lower() in ["would","shall"]) or (("will" in word[0].lower() or "ll" in word[0].lower() or "wo" in word[0].lower() or "sha" in word[0].lower() or "'d" in word[0].lower()) and word[1].upper()=="MD"):
+            if (word[0].lower() in ["would","shall"]) or (("will" in word[0].lower() or "ll" in word[0].lower() or "wo" in word[0].lower() or "sha" in word[0].lower() or "'d" in word[0].lower()) and "MD" not in word):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -740,7 +732,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and word[1].upper() in v:
+            if word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and any(n in word for n in v):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -750,7 +742,7 @@ def taggerAnalyzer(wordList):
                         wordList[i] += "_"+word[n]
                 word = wordList[i].split('_')
 
-            if (word[0].lower() in ["\'ll","\'d"] or ("n\'t" in word[0].lower() and "XX0" in wordList[i].upper()) or ("\'" in word[0].lower() and any(n in wordList[i].upper() for n in v))):
+            if (word[0].lower() in ["\'ll","\'d"] or ("n\'t" in word[0].lower() and "XX0" in word) or ("\'" in word[0].lower() and any(n in word for n in v))):
                 for n in range(len(word)):
                     if n==0:
                         wordList[i] = word[0]
@@ -782,7 +774,7 @@ def __main__():
             data = filecontent.read().replace('\n',' ')
         tagger(data,file)
         printWithTime("Tag generation complete: "+file+"")
-        #break
+        break
     printWithTime("Tagging program finished\nPlease use tagger-count.py to generate analysis data")
     return
 
