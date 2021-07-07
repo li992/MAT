@@ -249,13 +249,13 @@ def taggerAnalyzer(wordList):
                 next_word = wordList[i+1].split('_')
             
             #tags phrasal "and" coordination
-            if((word[0].lower()=="and") and
-                (("RB" in previous_word and "RB" in next_word)) or
+            if word[0].lower()=="and":
+                if((("RB" in previous_word and "RB" in next_word)) or
                 (any(n in previous_word for n in nn) and any(n in next_word for n in nn)) or
                 (any(n in previous_word for n in v) and any(n in next_word for n in v)) or
                 (any(n in previous_word for n in ["JJ","PRED"]) and any(n in next_word for n in ["JJ","PRED"]))):
-                wordList[i]=wordList[i]+"_PHC"
-                word = wordList[i].split('_')
+                    wordList[i]=wordList[i]+"_PHC"
+                    word = wordList[i].split('_')
 
             #tags pro-verb do
             if word[0].lower() in do:
@@ -313,8 +313,8 @@ def taggerAnalyzer(wordList):
                     word = wordList[i].split('_')
 
             #tags be as main verb
-            if(("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"])) or
-                ("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in word for n in ["RB","XX0"]) and any(n in next_word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"]))):
+            if(("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in next_word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"])) or
+                ("EX" not in second_previous_word and "EX" not in previous_word and word[0].lower() in be and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["CD","DT","PDT","PRPS","PRP","JJ","PRED","PIN","QUAN"]))):
                 wordList[i] = wordList[i]+"_BEMA"
                 word = wordList[i].split('_')
 
@@ -334,8 +334,8 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags split infinitives
-            if ((word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in v)) or
-                (word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in ["RB","AMPLIF","DOWNTON"]) and any(n in third_next_word for n in v))):
+            if ((word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DWNT"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in v)) or
+                (word[0].lower()=="to" and any(n in next_word for n in ["RB","AMPLIF","DWNT"]) and next_word[0].lower() in ["just","really","most","more"] and any(n in second_next_word for n in ["RB","AMPLIF","DOWNTON"]) and any(n in third_next_word for n in v))):
                 wordList[i] = wordList[i]+"_SPIN"
                 word = wordList[i].split('_')
 
@@ -415,7 +415,7 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags WH relative clauses on subject position
-            if((third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or next_word=="MD")) or
+            if((third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or "MD" in next_word)) or
                 (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and(second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or any(n in second_next_word for n in v) or "MD" in second_next_word)) or
                 (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and (third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have or any(n in third_next_word for n in v) or "MD" in third_next_word))):
                 wordList[i] = wordList[i]+"_WHSUB"
@@ -523,233 +523,103 @@ def taggerAnalyzer(wordList):
             word = wordList[i].split('_')
             #basic tags
             if word[0].lower() in ["absolutely","altogether","completely","enormously","entirely","extremely","fully","greatly","highly","intensely","perfectly","strongly","thoroughly","totally","utterly","very"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_AMP"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_AMP"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["almost","barely","hardly","merely","mildly","nearly","only","partially","partly","practically","scarcely","slightly","somewhat"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_DWNT"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_DWNT"
                 word = wordList[i].split('_')
 
             if ("tion"in word[0].lower() or "ment" in word[0].lower() or "ness" in word[0].lower() or "nesses" in word[0].lower() or "ity" in word[0].lower() or "ities" in word[0].lower()) and any(n in word for n in nn):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_NOMZ"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_NOMZ"
                 word = wordList[i].split('_')
 
             if ("ing" in word[0].lower() and any(n in word for n in nn)) or ("ings" in word[0].lower() and any(n in word for n in nn)):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_GER"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_GER"
                 word = wordList[i].split('_')
 
             if any(n in word for n in nn):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_NN"
-                    else:
-                        wordList[i] += "_"+word[n]
+                for n in nn:
+                    wordList[i]=wordList[i].replace("_"+n,"")
+                wordList[i] += "_NN"
                 word = wordList[i].split('_')
 
             if any(n in word for n in ["JJS","JJR"]):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_JJ"
-                    else:
-                        wordList[i] += "_"+word[n]
+                for n in ["JJS","JJR"]:
+                    wordList[i]=wordList[i].replace("_"+n,"")
+                wordList[i] += "_JJ"
                 word = wordList[i].split('_')
 
             if any(n in word for n in ["RBS","RBR","WRB"]):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_RB"
-                    else:
-                        wordList[i] += "_"+word[n]
+                for n in ["RBS","RBR","WRB"]:
+                    wordList[i]=wordList[i].replace("_"+n,"")
+                wordList[i] += "_RB"
                 word = wordList[i].split('_')
 
             if any(n in word for n in ["VBP","VBZ"]):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_VPRT"
-                    else:
-                        wordList[i] += "_"+word[n]
+                for n in ["VBP","VBZ"]:
+                    wordList[i]=wordList[i].replace("_"+n,"")
+                wordList[i] += "_VPRT"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["I","me","we","us","my","our","myself","ourselves"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_FPP1"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_FPP1"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["you","your","yourself","yourselves","thy","thee","thyself","thou"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_SPP2"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_SPP2"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["she","he","they","her","his","them","him","their","himself","herself","themselves"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_TPP3"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_TPP3"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["it","its","itself"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_PIT"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_PIT"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["because"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_CAUS"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_CAUS"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["although","though","tho"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_CONC"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_CONC"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["if","unless"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_COND"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_COND"
                 word = wordList[i].split('_')
 
             if (word[0].lower() in ["can","may","might","could"]) or ("ca" in word[0].lower() and "MD" in word):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_POMD"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_POMD"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["ought","should","must"]:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_NEMD"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_NEMD"
                 word = wordList[i].split('_')
 
             if (word[0].lower() in ["would","shall"]) or (("will" in word[0].lower() or "ll" in word[0].lower() or "wo" in word[0].lower() or "sha" in word[0].lower() or "'d" in word[0].lower()) and "MD" not in word):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_PRMD"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_PRMD"
                 word = wordList[i].split('_')
 
             if word[0].lower() in public:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_PUBV"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_PUBV"
                 word = wordList[i].split('_')
 
             if word[0].lower() in private:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_PRIV"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_PRIV"
                 word = wordList[i].split('_')
 
             if word[0].lower() in suasive:
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_SUAV"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_SUAV"
                 word = wordList[i].split('_')
 
             if word[0].lower() in ["seem","seems","seemed","seeming","appear","appears","appeared","appearing"] and any(n in word for n in v):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_SMP"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_SMP"
                 word = wordList[i].split('_')
 
             if (word[0].lower() in ["\'ll","\'d"] or ("n\'t" in word[0].lower() and "XX0" in word) or ("\'" in word[0].lower() and any(n in word for n in v))):
-                for n in range(len(word)):
-                    if n==0:
-                        wordList[i] = word[0]
-                    elif n==1:
-                        wordList[i] += "_CONT"
-                    else:
-                        wordList[i] += "_"+word[n]
+                wordList[i] += "_CONT"
                 word = wordList[i].split('_')
 
         return wordList
