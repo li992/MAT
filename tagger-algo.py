@@ -260,10 +260,11 @@ def taggerAnalyzer(wordList):
             #tags pro-verb do
             if word[0].lower() in do:
                 if (all(n not in next_word for n in v) and
-                    (previous_word[0].lower() not in symbols) and
+                    ("XX0" not in next_word) and
                     (all(n not in next_word for n in ["RB","XX0"]) and all(n not in second_previous_word for n in v)) and
-                    (all(n not in next_word for n in ["RB","XX0"]) and "RB" not in second_next_word and all(n not in third_next_word for n in v)) and
-                    (previous_word[0].lower() in wp or previous_word[0].lower() in who)):
+                    (all(n not in next_word for n in ["RB","XX0"]) and ("RB" not in second_next_word )and all(n not in third_next_word for n in v)) and
+                    (previous_word[0] not in symbols) and
+                    ((previous_word[0].lower() not in wp) or (previous_word[0].lower() not in who))):
                     wordList[i]+="_PROD"
                     word = wordList[i].split('_')
             
@@ -319,7 +320,7 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags wh clauses
-            if(word[0].lower() in public or word[0].lower() in private or word[0].lower() in suasive) and (next_word[0].lower() in wp or next_word[0].lower() in who) and (second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or "MD" in second_next_word): 
+            if((word[0].lower() in public) or (word[0].lower() in private) or (word[0].lower() in suasive)) and ((next_word[0].lower() in wp) or (next_word[0].lower() in who)) and ((second_next_word[0].lower() in do) or (second_next_word[0].lower() in be) or (second_next_word[0].lower() in have) or ("MD" in second_next_word)): 
                 wordList[i+1]+="_WHCL"
                 next_word = wordList[i+1].split('_')
 
@@ -340,8 +341,8 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags split auxiliaries
-            if(((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in word and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and any(n in second_next_word for n in v)) or
-                ((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be) and "MD" in word and any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) and (next_word[0].lower() in ["just","really","most","more"]) and "RB" in second_next_word and any(n in third_next_word for n in v))):
+            if(((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be or "MD" in word) and (any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) or (next_word[0].lower() in ["just","really","most","more"])) and any(n in second_next_word for n in v)) or
+                ((word[0].lower() in do or word[0].lower() in have or word[0].lower() in be or "MD" in word) and (any(n in next_word for n in ["RB","AMPLIF","DOWNTON"]) or (next_word[0].lower() in ["just","really","most","more"])) and ("RB" in second_next_word) and any(n in third_next_word for n in v))):
                 wordList[i] +="_SPAU"
                 word = wordList[i].split('_')
 
