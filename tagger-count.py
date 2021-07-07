@@ -123,7 +123,7 @@ def dimensionsCal(tag_dict,filename):
             tag_dict[field] = (tag_dict[field]- biber_means[field]/biber_sds[field])
 
     dimensions ={"D1":0.0,"D2":0.0,"D3":0.0,"D4":0.0,"D5":0.0}
-    dimensions["D1"] = tag_dict["PRIV"] + tag_dict["THATD"] + tag_dict["CONT"] + tag_dict["VPRT"] +tag_dict["SPP2"]+tag_dict["PROD"]+tag_dict["XX0"]+tag_dict["DEMP"]+tag_dict["EMPH"]+tag_dict["FPP1"]+tag_dict["PIT"]+tag_dict["BEMA"]+tag_dict["CAUS"]+tag_dict["DPAR"]+tag_dict["DPAR"]+tag_dict["INPR"]+tag_dict["AMP"]+tag_dict["POMD"]+tag_dict["ANDC"]+tag_dict["STPR"]-tag_dict["NN"]-tag_dict["AWL"]-tag_dict["PIN"]-tag_dict["JJ"]
+    dimensions["D1"] = tag_dict["PRIV"] + tag_dict["THATD"] + tag_dict["CONT"] + tag_dict["VPRT"] +tag_dict["SPP2"]+tag_dict["PROD"]+tag_dict["XX0"]+tag_dict["DEMP"]+tag_dict["EMPH"]+tag_dict["FPP1"]+tag_dict["PIT"]+tag_dict["BEMA"]+tag_dict["CAUS"]+tag_dict["DPAR"]+tag_dict["INPR"]+tag_dict["AMP"]+tag_dict["POMD"]+tag_dict["ANDC"]+tag_dict["STPR"]-tag_dict["NN"]-tag_dict["AWL"]-tag_dict["PIN"]-tag_dict["JJ"]
     dimensions["D2"] = tag_dict["VBD"] + tag_dict["TPP3"] + tag_dict["PEAS"] + tag_dict["PUBV"] + tag_dict["SYNE"] + tag_dict["PRESP"]
     dimensions["D3"] = (tag_dict["WHOBJ"] + tag_dict["WHSUB"] + tag_dict["PHC"] + tag_dict["NOMZ"]) - (tag_dict["TIME"] + tag_dict["PLACE"] + tag_dict["RB"])
     dimensions["D4"] = tag_dict["TO"] + tag_dict["PRMD"] + tag_dict["SUAV"] + tag_dict["COND"] + tag_dict["NEMD"] + tag_dict["SPAU"]
