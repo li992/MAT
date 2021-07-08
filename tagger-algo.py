@@ -269,9 +269,9 @@ def taggerAnalyzer(wordList):
                     word = wordList[i].split('_')
             
             #tags WH questions
-            if ((word[0].lower() in symbols and next_word[0].lower() in who and next_word[0].lower() not in ["however","whatever"] and "MD" in second_next_word) or
-                (word[0].lower() in symbols and next_word[0].lower() in who and next_word[0].lower() not in ["however","whatever"] and (second_next_word[0].lower() in do or second_next_word[0].lower() in have or second_next_word[0].lower() in be)) or
-                (word[0].lower() in symbols and second_next_word[0].lower() in who and second_next_word[0].lower() not in ["however","whatever"] and (third_next_word[0].upper() in be))):
+            if (((word[0].lower() in symbols and word[0]!=',') and (next_word[0].lower() in who) and (next_word[0].lower() not in ["however","whatever"]) and ("MD" in second_next_word)) or
+                ((word[0].lower() in symbols and word[0]!=',') and (next_word[0].lower() in who) and (next_word[0].lower() not in ["however","whatever"]) and ((second_next_word[0].lower() in do) or (second_next_word[0].lower() in have) or (second_next_word[0].lower() in be))) or
+                ((word[0].lower() in symbols and word[0]!=',') and (second_next_word[0].lower())in who) and (second_next_word[0].lower() not in ["however","whatever"]) and (third_next_word[0].lower() in be)):
                 wordList[i+1]+="_WHQU"
                 next_word = wordList[i+1].split('_')
 
@@ -320,7 +320,7 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags wh clauses
-            if((word[0].lower() in public) or (word[0].lower() in private) or (word[0].lower() in suasive)) and ((next_word[0].lower() in wp) or (next_word[0].lower() in who)) and ((second_next_word[0].lower() in do) or (second_next_word[0].lower() in be) or (second_next_word[0].lower() in have) or ("MD" in second_next_word)): 
+            if (any(n in word for n in suasive) or any(n in word for n in public) or any(n in word for n in private)) and (any(n in next_word for n in wp) or any(n in next_word for n in who)) and (all(n not in second_next_word for n in do) and all(n not in second_next_word for n in be) and all(n not in second_next_word for n in have) and ('MD' not in second_next_word)): 
                 wordList[i+1]+="_WHCL"
                 next_word = wordList[i+1].split('_')
 
@@ -416,14 +416,14 @@ def taggerAnalyzer(wordList):
                 word = wordList[i].split('_')
 
             #tags WH relative clauses on subject position
-            if((third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or "MD" in next_word)) or
-                (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and(second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or any(n in second_next_word for n in v) or "MD" in second_next_word)) or
-                (third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and (third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have or any(n in third_next_word for n in v) or "MD" in third_next_word))):
+            if((all(n not in third_previous_word[0].lower() for n in narrative) and any(n in previous_word for n in nn) and (word[0].lower() in wp) and ((next_word[0].lower() in do) or (next_word[0].lower() in be) or (next_word[0].lower() in have) or any(n in next_word for n in v) or ("MD" in next_word))) or
+                (all(n not in third_previous_word[0].lower() for n in narrative) and any(n in previous_word for n in nn) and (word[0].lower() in wp) and any(n in next_word for n in ["RB","XX0"]) and(second_next_word[0].lower() in do or second_next_word[0].lower() in be or second_next_word[0].lower() in have or any(n in second_next_word for n in v) or "MD" in second_next_word)) or
+                (all(n not in third_previous_word[0].lower() for n in narrative) and any(n in previous_word for n in nn) and (word[0].lower() in wp) and any(n in next_word for n in ["RB","XX0"]) and any(n in second_next_word for n in ["RB","XX0"]) and (third_next_word[0].lower() in do or third_next_word[0].lower() in be or third_next_word[0].lower() in have or any(n in third_next_word for n in v) or "MD" in third_next_word))):
                 wordList[i] +="_WHSUB"
                 word = wordList[i].split('_')
 
             #tags WH relative clauses on object position
-            if(third_previous_word[0].lower() not in narrative and any(n in previous_word for n in nn) and word in wp and(next_word[0].lower() in do or next_word[0].lower() in be or next_word[0].lower() in have or any(n in next_word for n in v) or any(n in next_word for n in ["MD","RB","XX0"]))):
+            if(all(n not in third_previous_word[0].lower() for n in narrative) and any(n in previous_word for n in nn) and (word[0].lower() in wp) and ((next_word[0].lower() not in do) and (next_word[0].lower() not in be) and (next_word[0].lower() not in have) and all(n not in next_word for n in v) and all(n not in next_word for n in ["MD","RB","XX0"]))):
                 wordList[i] += "_WHOBJ"
                 word = wordList[i].split('_')
 
@@ -513,10 +513,10 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
             #tags independent clause coordination
-            if (((previous_word[0]==",") and (word[0].lower()=="and") and ((next_word[0].lower() in ["it","so","then","you","u","we","he","she","they"]) or ("DEMP" in next_word))) or
-                ((previous_word[0]==",") and (word[0].lower()=="and") and (next_word[0].lower()=="there") and (second_next_word[0].lower() in be)) or
-                ((previous_word[0] in symbols) and (word[0].lower()=="and")) or
-                ((word[0].lower()=="and") and ((next_word[0].lower() in wp) or (next_word[0].lower() in who) or (next_word[0].lower() in ["because","although","though","tho","if","unless"]) or any(n in next_word for n in ["OSUB","DPAR","CONJ"])))):
+            if (((previous_word[0]==",") and ("and" in word) and (any(n in next_word for n in ["it","so","then","you","u","we","he","she","they"]) or ("DEMP" in next_word))) or
+                ((previous_word[0]==",") and ("and" in word) and (next_word[0].lower()=="there") and any(n in second_next_word for n in be)) or
+                ((previous_word[0] in symbols) and ("and" in word)) or
+                (("and" in word) and (any(n in next_word for n in wp) or any(n in next_word for n in who) or any(n in next_word for n in ["because","although","though","tho","if","unless"]) or any(n in next_word for n in ["OSUB","DPAR","CONJ"])))):
                 wordList[i] = wordList[i].replace(word[1],"ANDC")
                 word = wordList[i].split('_')
 
@@ -637,7 +637,6 @@ def __main__():
             data = filecontent.read().replace('\n',' ')
         tagger(data,file)
         printWithTime("Tag generation complete: "+file+"")
-        break
     printWithTime("Tagging program finished\nPlease use tagger-count.py to generate analysis data")
     return
 
