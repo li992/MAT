@@ -1,4 +1,4 @@
-import csv,glob,os,shutil
+import csv,glob,os,shutil,argparse
 
 def csvRead(filename):
     csvReads = csv.reader(open(filename), delimiter=' ', quotechar='|')
@@ -53,5 +53,17 @@ def find(text):
     else:
         return ''
 
-csvDict = csvRead(os.path.join(os.getcwd(),'files_2nd/##Final.csv'))
+path = os.getcwd()
+outpath = os.getcwd()
+parser = argparse.ArgumentParser(description="Text file merger")
+parser.add_argument('-p','--path',type=str,default=os.getcwd(),help='To define where the seperated text files are, it has to be the root of all flies and contains a #final.csv file')
+
+args = parser.parse_args()
+if args.path != os.getcwd():
+    path = args.path
+    path = os.path.join(path,'##Final.csv')
+else:
+    path = os.path.join(path,'files_2nd/##Final.csv')
+
+csvDict = csvRead(path)
 csvRowProcess(csvDict)
