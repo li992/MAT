@@ -30,7 +30,7 @@ def csvRowProcess(csvDictionary):
             fileName = rowField[7]+".txt"
             fileSpliter = rowField[7].split('_')
             outfilestr = os.path.join(os.getcwd(),'MergedFiles')
-            tempstr = fileSpliter[0]+'_'+rowField[1]+'_'+rowField[5].replace("-","").replace(",","")+'.txt'
+            tempstr = fileSpliter[0]+'_'+rowField[1]+'_'+rowField[5].replace("-","")+'.txt'
             outfilestr = os.path.join(outfilestr,tempstr)
             outfile = open(outfilestr,'a')
             filePath = find(fileName)
