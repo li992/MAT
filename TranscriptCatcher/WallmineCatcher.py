@@ -16,7 +16,7 @@ str1 = 'Earning'
 str2 = 'Call'
 str3 = 'transcript'
 years = ['2017','2018','2019','2020']
-driver = webdriver.Chrome(executable_path=r'C:/Users/Qiaoyi/AppData/Local/WebDriver/chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'C:/Users/Qiaoyi/Desktop/MAT/TranscriptCatcher/WebDriver/chromedriver.exe')
 
 def textCatcher(outfile):
     time.sleep(1)

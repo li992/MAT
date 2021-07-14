@@ -1,4 +1,4 @@
-import nltk,numpy,csv,glob,os,shutil
+import csv,glob,os
 
 directory_path = os.getcwd()
 
@@ -113,6 +113,8 @@ def taggerCount(data,filename):
         writer.writerow([a for a in tag_dict.keys()])
         writer.writerow(['%.2f' % float(tag_dict.get(index)) for index in tag_dict.keys()])
         file.close()
+
+    
     return tag_dict
 
 def dimensionsCal(tag_dict,filename):
@@ -139,7 +141,45 @@ def dimensionsCal(tag_dict,filename):
         file.close()
     return dimensions
 
+def joinGeneralCSV(tags,dims,filename):
+    filenameSep = filename.split('_')
+    print(os.getcwd())
+    generalCSV = os.path.join(directory_path,'Final.csv')
+    if not os.path.exists(generalCSV):
+        head = ['Company','Year']
+        for n in tags.keys():
+            head.append(n)
+        for d in dims.keys():
+            head.append(d)
+        value = []
+        value.append(filenameSep[2])
+        value.append(filenameSep[1])
+        for n in tags.keys():
+            value.append(tags.get(n))
+        for d in dims.keys():
+            value.append(dims.get(d))
+        with open(generalCSV,'w',newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(h for h in head)
+            writer.writerow(v for v in value)
+    else:
+        value = []
+        value.append(filenameSep[2])
+        value.append(filenameSep[1])
+        for n in tags.keys():
+            value.append(tags.get(n))
+        for d in dims.keys():
+            value.append(dims.get(d))
+        with open(generalCSV,'a',newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(v for v in value)
+    return
+
+
+
 def __main__():
+    if os.path.exists('Final.csv'):
+        os.remove(os.path.join(directory_path,'Final.csv'))
     if not os.path.exists('Results'):
         os.mkdir(os.path.join(os.getcwd(),'Results'))    
     os.chdir(os.path.join(os.getcwd(),'Results'))
@@ -148,6 +188,7 @@ def __main__():
     if not os.path.exists('DimensionScore'):
         os.mkdir(os.path.join(os.getcwd(),'DimensionScore'))
     os.chdir('..')
+
 
     files = folderProcess()
     for file in files:
@@ -160,7 +201,9 @@ def __main__():
             data.append(line)
         reader.close()
         tag_dict = taggerCount(data,file)
-        dimensionsCal(tag_dict,file)
+        dim_dict = dimensionsCal(tag_dict,file)
+        print(file)
+        joinGeneralCSV(tag_dict,dim_dict,file)
     return
 
 __main__()
