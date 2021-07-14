@@ -113,11 +113,12 @@ def taggerCount(data,filename):
         writer.writerow([a for a in tag_dict.keys()])
         writer.writerow(['%.2f' % float(tag_dict.get(index)) for index in tag_dict.keys()])
         file.close()
-
-    
     return tag_dict
 
-def dimensionsCal(tag_dict,filename):
+def dimensionsCal(tag,filename):
+    tag_dict = {}
+    for n in tag.keys():
+        tag_dict[n] = tag.get(n)
     biber_means ={"VBD" : 4.01, "PEAS" : 0.86, "VPRT" : 7.77, "PLACE" : 0.31, "TIME" : 0.52, "FPP1" : 2.72, "SPP2" : 0.99, "TPP3" : 2.99, "PIT" : 1.03, "DEMP" : 0.46, "INPR" : 0.14, "PROD" : 0.30, "WHQU" : 0.02, "NOMZ" : 1.99, "GER" : 0.7, "NN" : 18.05, "PASS" : 0.96, "BYPA" : 0.08, "BEMA" : 2.83, "EX" : 0.22, "THVC" : 0.33, "THAC" : 0.03, "WHCL" : 0.06, "TO" : 1.49, "PRESP" : 0.1, "PASTP" : 0.01, "WZPAST" : 0.25, "WZPRES" : 0.16, "TSUB" : 0.04, "TOBJ" : 0.08, "WHSUB" : 0.21, "WHOBJ" : 0.14, "PIRE" : 0.07, "SERE" : 0.01, "CAUS" : 0.11, "CONC" : 0.05, "COND" : 0.25, "OSUB" : 0.1, "PIN" : 11.05, "JJ" : 6.07, "PRED" : 0.47, "RB" : 6.56, "TTR" : 51.1, "AWL" : 4.5, "CONJ" : 0.12, "DWNT" : 0.2, "HDG" : 0.06, "AMP" : 0.27, "EMPH" : 0.63, "DPAR" : 0.12, "DEMO" : 0.99, "POMD" : 0.58, "NEMD" : 0.21, "PRMD" : 0.56, "PUBV" : 0.77, "PRIV" : 1.80, "SUAV" : 0.29, "SMP" : 0.08, "CONT" : 1.35, "THATD" : 0.31, "STPR" : 0.2, "SPIN" : 0, "SPAU" : 0.55, "PHC" : 0.34, "ANDC" : 0.45, "SYNE" : 0.17, "XX0" : 0.85}
     biber_sds ={"VBD" : 3.04, "PEAS" : 0.52, "VPRT" : 3.43, "PLACE" : 0.34, "TIME" : 0.35, "FPP1" : 2.61, "SPP2" : 1.38, "TPP3" : 2.25, "PIT" : 0.71, "DEMP" : 0.48, "INPR" : 0.20, "PROD" : 0.35, "WHQU" : 0.06, "NOMZ" : 1.44, "GER" : 0.38, "NN" : 3.56, "PASS" : 0.66, "BYPA" : 0.13, "BEMA" : 0.95, "EX" : 0.18, "THVC" : 0.29, "THAC" : 0.06, "WHCL" : 0.1, "TO" : 0.56, "PRESP" : 0.17, "PASTP" : 0.04, "WZPAST" : 0.31, "WZPRES" : 0.18, "TSUB" : 0.08, "TOBJ" : 0.11, "WHSUB" : 0.20, "WHOBJ" : 0.17, "PIRE" : 0.11, "SERE" : 0.04, "CAUS" : 0.17, "CONC" : 0.08, "COND" : 0.22, "OSUB" : 0.11, "PIN" : 2.54, "JJ" : 1.88, "PRED" : 0.26, "RB" : 1.76, "TTR" : 5.2, "AWL" : 0.4, "CONJ" : 0.16, "DWNT" : 0.16, "HDG" : 0.13, "AMP" : 0.26, "EMPH" : 0.42, "DPAR" : 0.23, "DEMO" : 0.42, "POMD" : 0.35, "NEMD" : 0.21, "PRMD" : 0.42, "PUBV" : 0.54, "PRIV" : 1.04, "SUAV" : 0.31, "SMP" : 0.1, "CONT" : 1.86, "THATD" : 0.41, "STPR" : 0.27, "SPIN" : 0.00001, "SPAU" : 0.25, "PHC" : 0.27, "ANDC" : 0.48, "SYNE" : 0.16, "XX0" : 0.61}
     for field in tag_dict.keys():
@@ -130,6 +131,8 @@ def dimensionsCal(tag_dict,filename):
     dimensions["D3"] = (tag_dict["WHOBJ"] + tag_dict["WHSUB"] + tag_dict["PHC"] + tag_dict["NOMZ"]) - (tag_dict["TIME"] + tag_dict["PLACE"] + tag_dict["RB"])
     dimensions["D4"] = tag_dict["TO"] + tag_dict["PRMD"] + tag_dict["SUAV"] + tag_dict["COND"] + tag_dict["NEMD"] + tag_dict["SPAU"]
     dimensions["D5"] = tag_dict["CONJ"] + tag_dict["PASS"] + tag_dict["WZPAST"] + tag_dict["OSUB"]
+
+    
 
     out = os.path.join(directory_path,"Results/DimensionScore")
     out = os.path.join(out,filename)
@@ -200,10 +203,9 @@ def __main__():
             #print(line)
             data.append(line)
         reader.close()
-        tag_dict = taggerCount(data,file)
-        dim_dict = dimensionsCal(tag_dict,file)
-        print(file)
-        joinGeneralCSV(tag_dict,dim_dict,file)
+        tag = taggerCount(data,file)
+        dim = dimensionsCal(tag,file)
+        joinGeneralCSV(tag,dim,file)
     return
 
 __main__()
