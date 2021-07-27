@@ -1,24 +1,35 @@
 import csv,glob,os
-
+from datetime import datetime
 directory_path = os.getcwd()
 
+def printWithTime(Strr):
+    now=datetime.now()
+    dt = now.strftime("%Y-%m-%d %H:%M:%S")
+    print(dt+" INFO: "+Strr)
+
 def folderProcess():
-    #print('folderprocess called')
     if not os.path.exists('Results'):
         print('Please use tagger-algo to generate raw data first')
         return []
     else:
-        os.chdir(os.path.join(os.getcwd(),'Results'))
+        os.chdir(os.path.join(directory_path,'Results'))
         os.chdir(os.path.join(os.getcwd(),'ModifiedTags'))
         filenames = glob.glob('*.txt')
         validnames =[]
         for name in filenames:
             validnames.append(name)
-        #print(validnames)
         return validnames
 
+def fragmentProcess():
+    os.chdir(os.path.join(directory_path,'Results'))
+    os.chdir(os.path.join(os.getcwd(),'ModifiedTagsFragment'))
+    filenames = glob.glob('*.txt')
+    validnames =[]
+    for name in filenames:
+        validnames.append(name)
+    return validnames
 
-def taggerCount(data,filename):
+def taggerCount(data,filename,frags):
     tag_dict = {
             'Tokens':0.0,
             'AWL':0.0,
@@ -105,7 +116,10 @@ def taggerCount(data,filename):
         if i != "Tokens" and i != "AWL":
             tag_dict[i] = float(tag_dict.get(i))/total_tokens * 100
 
-    OutputFilePath = os.path.join(directory_path,"Results/FieldScore")
+    if frags == False:
+        OutputFilePath = os.path.join(directory_path,"Results/FieldScore")
+    else:
+        OutputFilePath = os.path.join(directory_path,"Results/FieldScoreFragment")
     OutputFilePath = os.path.join(OutputFilePath,filename)
     OutputFilePath=OutputFilePath.replace('txt','csv')
     with open (OutputFilePath,'w',newline='') as file:
@@ -115,7 +129,7 @@ def taggerCount(data,filename):
         file.close()
     return tag_dict
 
-def dimensionsCal(tag,filename):
+def dimensionsCal(tag,filename,frags):
     tag_dict = {}
     for n in tag.keys():
         tag_dict[n] = tag.get(n)
@@ -132,9 +146,10 @@ def dimensionsCal(tag,filename):
     dimensions["D4"] = tag_dict["TO"] + tag_dict["PRMD"] + tag_dict["SUAV"] + tag_dict["COND"] + tag_dict["NEMD"] + tag_dict["SPAU"]
     dimensions["D5"] = tag_dict["CONJ"] + tag_dict["PASS"] + tag_dict["WZPAST"] + tag_dict["OSUB"]
 
-    
-
-    out = os.path.join(directory_path,"Results/DimensionScore")
+    if frags==False:
+        out = os.path.join(directory_path,"Results/DimensionScore")
+    else:
+        out = os.path.join(directory_path,"Results/DimensionScoreFragment")
     out = os.path.join(out,filename)
     out = out.replace('txt','csv')
     with open(out,'w',newline='') as file:
@@ -144,55 +159,79 @@ def dimensionsCal(tag,filename):
         file.close()
     return dimensions
 
-def joinGeneralCSV(tags,dims,filename):
+def joinGeneralCSV(tags,dims,filename,frags):  
     filenameSep = filename.split('_')
-    print(os.getcwd())
-    generalCSV = os.path.join(directory_path,'Final.csv')
-    if not os.path.exists(generalCSV):
-        head = ['Company','Year']
-        for n in tags.keys():
-            head.append(n)
-        for d in dims.keys():
-            head.append(d)
-        value = []
-        value.append(filenameSep[2])
-        value.append(filenameSep[1])
-        for n in tags.keys():
-            value.append(tags.get(n))
-        for d in dims.keys():
-            value.append(dims.get(d))
-        with open(generalCSV,'w',newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(h for h in head)
-            writer.writerow(v for v in value)
+    if frags==False:
+        generalCSV = os.path.join(directory_path,'Final.csv')
+        if not os.path.exists(generalCSV):
+            head = ['Company','Year']
+            for n in tags.keys():
+                head.append(n)
+            for d in dims.keys():
+                head.append(d)
+            value = []
+            value.append(filenameSep[2])
+            value.append(filenameSep[1])
+            for n in tags.keys():
+                value.append(tags.get(n))
+            for d in dims.keys():
+                value.append("%.2f" % dims.get(d))
+            with open(generalCSV,'w',newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(h for h in head)
+                writer.writerow(v for v in value)
+        else:
+            value = []
+            value.append(filenameSep[2])
+            value.append(filenameSep[1])
+            for n in tags.keys():
+                value.append(tags.get(n))
+            for d in dims.keys():
+                value.append("%.2f" % dims.get(d))
+            with open(generalCSV,'a',newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(v for v in value)
     else:
-        value = []
-        value.append(filenameSep[2])
-        value.append(filenameSep[1])
-        for n in tags.keys():
-            value.append(tags.get(n))
-        for d in dims.keys():
-            value.append(dims.get(d))
-        with open(generalCSV,'a',newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(v for v in value)
+        generalCSV = os.path.join(directory_path,'Final_frags.csv')
+        if not os.path.exists(generalCSV):
+            head = ['Company','Year','Article ID','Fragment ID','Paragraph']
+            for n in tags.keys():
+                head.append(n)
+            for d in dims.keys():
+                head.append(d)
+            value = []
+            value.append(filenameSep[2])
+            value.append(filenameSep[1])
+            value.append(filenameSep[0])
+            value.append(filenameSep[3].split('#')[0])
+            value.append(filenameSep[3].split('#')[1])
+            for n in tags.keys():
+                value.append(tags.get(n))
+            for d in dims.keys():
+                value.append("%.2f" % dims.get(d))
+            with open(generalCSV,'w',newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(h for h in head)
+                writer.writerow(v for v in value)
+        else:
+            value = []
+            value.append(filenameSep[2])
+            value.append(filenameSep[1])
+            value.append(filenameSep[0])
+            value.append(filenameSep[3].split('#')[0])
+            value.append(filenameSep[3].split('#')[1])
+            for n in tags.keys():
+                value.append(tags.get(n))
+            for d in dims.keys():
+                value.append("%.2f" % dims.get(d))
+            with open(generalCSV,'a',newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(v for v in value)
     return
 
 
 
 def __main__():
-    if os.path.exists('Final.csv'):
-        os.remove(os.path.join(directory_path,'Final.csv'))
-    if not os.path.exists('Results'):
-        os.mkdir(os.path.join(os.getcwd(),'Results'))    
-    os.chdir(os.path.join(os.getcwd(),'Results'))
-    if not os.path.exists('FieldScore'):
-        os.mkdir(os.path.join(os.getcwd(),'FieldScore'))
-    if not os.path.exists('DimensionScore'):
-        os.mkdir(os.path.join(os.getcwd(),'DimensionScore'))
-    os.chdir('..')
-
-
     files = folderProcess()
     for file in files:
         filepath = os.path.join(directory_path,"Results/ModifiedTags")
@@ -203,9 +242,51 @@ def __main__():
             #print(line)
             data.append(line)
         reader.close()
-        tag = taggerCount(data,file)
-        dim = dimensionsCal(tag,file)
-        joinGeneralCSV(tag,dim,file)
+        printWithTime("Now Processing file: "+ file)
+        printWithTime("    Taggers analyzing...")
+        tag = taggerCount(data,file,False)
+        printWithTime("    Dimensions analyzing...")
+        dim = dimensionsCal(tag,file,False)
+        printWithTime("    Data printing...")
+        joinGeneralCSV(tag,dim,file,False)
+        printWithTime("    Done")
+
+    frags = fragmentProcess()
+    for frag in frags:
+        fragpath = os.path.join(directory_path,"Results/ModifiedTagsFragment")
+        fragpath = os.path.join(fragpath,frag)
+        reader = open(fragpath,'r')
+        data=[]
+        for line in reader:
+            data.append(line)
+        reader.close()
+        printWithTime("Now Processing fragment: "+ file)
+        printWithTime("    Taggers analyzing...")
+        tag = taggerCount(data,frag,True)
+        printWithTime("    Dimensions analyzing...")
+        dim = dimensionsCal(tag,frag,True)
+        printWithTime("    Data printing...")
+        joinGeneralCSV(tag,dim,frag,True) 
+        printWithTime("    Done")
+
+    printWithTime("Program successfully complete, thank you for using.") 
     return
 
+
+if os.path.exists('Final.csv'):
+    os.remove(os.path.join(directory_path,'Final.csv'))
+if os.path.exists('Final_frags.csv'):
+    os.remove(os.path.join(directory_path,'Final_frags.csv'))
+if not os.path.exists('Results'):
+    os.mkdir(os.path.join(os.getcwd(),'Results'))    
+os.chdir(os.path.join(os.getcwd(),'Results'))
+if not os.path.exists('FieldScore'):
+    os.mkdir(os.path.join(os.getcwd(),'FieldScore'))
+if not os.path.exists('DimensionScore'):
+    os.mkdir(os.path.join(os.getcwd(),'DimensionScore'))
+if not os.path.exists('FieldScoreFragment'):
+    os.mkdir(os.path.join(os.getcwd(),'FieldScoreFragment'))
+if not os.path.exists('DimensionScoreFragment'):
+    os.mkdir(os.path.join(os.getcwd(),'DimensionScoreFragment'))
+os.chdir('..')
 __main__()
