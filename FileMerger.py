@@ -36,7 +36,7 @@ def csvRowProcess(csvDictionary):
             fileSpliter = rowField[7].split('_')
 
             # each fragment path
-            fragFileName = fileSpliter[0]+'_'+rowField[1]+'_'+rowField[5].replace("-","")+'_'+rowField[10].replace("_","#")+'.txt'
+            fragFileName = fileSpliter[0]+'_'+rowField[1]+'_'+rowField[5].replace("-","")+'_'+rowField[10].replace("_","#")
             fragFolderPath = os.path.join(os.getcwd(),'FileFragments')
             fragFolderPath = os.path.join(fragFolderPath,fragFileName)
 
