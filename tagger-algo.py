@@ -125,7 +125,7 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
 
-            if(word[0].lower()=="to" and (next_word[0] in wp or any(n in wordList[i+1] for n in ["IN","CD","DT","JJ","PRPS","WPS","NN","NNP","PDT","PRP","WDT","WRB"]))):
+            if(word[0].lower()=="to" and (next_word[0] in wp or any(n in next_word for n in ["IN","CD","DT","JJ","PRPS","WPS","NN","NNP","PDT","PRP","WDT","WRB"]))):
                 wordList[i] = word[0] + "_PIN"
 
         #second loop to define simple types
