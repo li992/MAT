@@ -1,4 +1,4 @@
-import glob,os,stanza
+import glob,os,stanza,argparse
 from datetime import datetime
 
 # route initiation
@@ -36,15 +36,19 @@ def printWithTime(Strr):
     dt = now.strftime("%Y-%m-%d %H:%M:%S")
     print(dt+" INFO: "+Strr)
 
-def tagger(data,file):
+def tagger(data,file,frags):
     printWithTime("   Creating Stanford Tags....")
     doc = nlp(data)
     printWithTime("   Finished")
     stftoutfilepath = os.path.join(directory_path,'Results')
-    stftoutfilepath = os.path.join(stftoutfilepath,'StanfordTags')
-    stftoutfilepath = os.path.join(stftoutfilepath,file)
     tagoutfilepath = os.path.join(directory_path,'Results')
-    tagoutfilepath = os.path.join(tagoutfilepath,'ModifiedTags')
+    if frags == True:
+        stftoutfilepath = os.path.join(stftoutfilepath,'StanfordTagsFragment')
+        tagoutfilepath = os.path.join(tagoutfilepath,'ModifiedTagsFragment')
+    else:
+        stftoutfilepath = os.path.join(stftoutfilepath,'StanfordTags')
+        tagoutfilepath = os.path.join(tagoutfilepath,'ModifiedTags')
+    stftoutfilepath = os.path.join(stftoutfilepath,file)  
     tagoutfilepath = os.path.join(tagoutfilepath,file)
     out = open(stftoutfilepath,'w')
     dout = open(tagoutfilepath,'w')
@@ -63,11 +67,34 @@ def tagger(data,file):
     dout.close()
     return
 
-def folderProcess():
+def getFinishedFiles(t):
+    returnList =[]
+    if t == "merged":
+        if not os.path.exists(os.path.join(directory_path,'mList.txt')):
+            return returnList
+        else:
+            path = os.path.join(directory_path,'mList.txt')
+            with open(path,'r') as infile:
+                for line in infile:
+                    returnList.append(line.replace('\n',''))
+            return returnList
+    elif t == "fragment":
+        if not os.path.exists(os.path.join(directory_path,'fList.txt')):
+            return returnList
+        else:
+            path = os.path.join(directory_path,'fList.txt')
+            with open(path,'r') as infile:
+                for line in infile:
+                    returnList.append(line.replace('\n',''))
+            return returnList
+    else:
+        return returnList
+
+def MergedfolderProcess():
     #print('folderprocess called')
     if not os.path.exists('MergedFiles'):
-        printWithTime('Error: Please use FileMerger.py to generate raw data first')
-        return
+        printWithTime('Error: Please use FileMerger.py to generate file data first')
+        return []
     else:
         os.chdir(os.path.join(directory_path,'MergedFiles'))
         filenames = glob.glob('*.txt')
@@ -75,6 +102,18 @@ def folderProcess():
         for name in filenames:
             validnames.append(name)
         #print(validnames)
+        return validnames
+
+def FragmentfolderProcess():
+    if not os.path.exists('FileFragments'):
+        printWithTime('Error: Please use FileMerger.py to generate file data first')
+        return []
+    else:
+        os.chdir(os.path.join(directory_path,'FileFragments'))
+        filenames=glob.glob('*.txt')
+        validnames = []
+        for name in filenames:
+            validnames.append(name)
         return validnames
 
 def taggerAnalyzer(wordList):
@@ -86,7 +125,7 @@ def taggerAnalyzer(wordList):
             else:
                 next_word = ['','NULL']
 
-            if(word[0].lower()=="to" and (next_word[0] in wp or any(n in wordList[i+1] for n in ["IN","CD","DT","JJ","PRPS","WPS","NN","NNP","PDT","PRP","WDT","WRB"]))):
+            if(word[0].lower()=="to" and (next_word[0] in wp or any(n in next_word for n in ["IN","CD","DT","JJ","PRPS","WPS","NN","NNP","PDT","PRP","WDT","WRB"]))):
                 wordList[i] = word[0] + "_PIN"
 
         #second loop to define simple types
@@ -617,27 +656,73 @@ def taggerAnalyzer(wordList):
 
         return wordList
 
-def __main__():
-    printWithTime("Tagging program started")
-    if not os.path.exists('Results'):
-        os.mkdir(os.path.join(os.getcwd(),'Results'))
-    os.chdir(os.path.join(os.getcwd(),'Results'))
-    if not os.path.exists('StanfordTags'):
-        os.mkdir(os.path.join(os.getcwd(),'StanfordTags'))
-    if not os.path.exists('ModifiedTags'):
-        os.mkdir(os.path.join(os.getcwd(),'ModifiedTags'))
-    os.chdir('..')
-
-    wordList = folderProcess()
+def merged():
+    printWithTime("Merged files tagging progress started")
+    wordList = MergedfolderProcess()
+    finishedList = getFinishedFiles("merged")
     for file in wordList:
-        printWithTime("Now processing file: "+file+"...")
-        filepath = os.path.join(directory_path,"MergedFiles")
-        filepath = os.path.join(filepath,file)
-        with open(filepath,'r') as filecontent:
-            data = filecontent.read().replace('\n',' ')
-        tagger(data,file)
-        printWithTime("Tag generation complete: "+file+"")
+        if file in finishedList:
+            printWithTime("File: "+file+" has been processed, now moving to the next file")
+            continue
+        else:
+            printWithTime("Now processing file: "+file+"...")
+            filepath = os.path.join(directory_path,"MergedFiles")
+            filepath = os.path.join(filepath,file)
+            with open(filepath,'r') as filecontent:
+                data = filecontent.read().replace('\n',' ')
+            tagger(data,file,False)
+            printWithTime("Tag generation complete: "+file+"")
+            finishedFileRecorder = open(os.path.join(directory_path,'mList.txt'),'a')
+            finishedFileRecorder.write(file+"\n")
     printWithTime("Tagging program finished\nPlease use tagger-count.py to generate analysis data")
     return
 
-__main__()
+def fragments():
+    printWithTime("File fragments tagging progress started")
+    wordList = FragmentfolderProcess()
+    finishedList = getFinishedFiles("fragment")
+    for file in wordList:
+        if file in finishedList:
+            printWithTime("File: "+file+" has been processed, now moving to the next file")
+            continue
+        else:
+            printWithTime("Now processing file: "+file+"...")
+            filepath = os.path.join(directory_path,"FileFragments")
+            filepath = os.path.join(filepath,file)
+            with open(filepath,'r') as filecontent:
+                data = filecontent.read().replace('\n',' ')
+            tagger(data,file,True)
+            printWithTime("Tag generation complete: "+file+"")
+            finishedFileRecorder = open(os.path.join(directory_path,'fList.txt'),'a')
+            finishedFileRecorder.write(file+"\n")
+    printWithTime("Tagging program finished\nPlease use tagger-count.py -f true to generate analysis data")
+
+
+parser = argparse.ArgumentParser(description="MAT tagging algorithm")
+parser.add_argument('-f','--fragment',type=str,default="false",help='To generate tags for merged files, set this value to false; To generate tags for file fragments, set this value to true')
+parser.add_argument('-r','--restart',type=str,default="false",help='If you want to restart the program to let it process from beginning, set this value to true; otherwise, set it to false')
+
+if not os.path.exists('Results'):
+    os.mkdir(os.path.join(os.getcwd(),'Results'))
+os.chdir(os.path.join(os.getcwd(),'Results'))
+if not os.path.exists('StanfordTags'):
+    os.mkdir(os.path.join(os.getcwd(),'StanfordTags'))
+if not os.path.exists('ModifiedTags'):
+    os.mkdir(os.path.join(os.getcwd(),'ModifiedTags'))
+if not os.path.exists('StanfordTagsFragment'):
+    os.mkdir(os.path.join(os.getcwd(),'StanfordTagsFragment'))
+if not os.path.exists('ModifiedTagsFragment'):
+    os.mkdir(os.path.join(os.getcwd(),'ModifiedTagsFragment'))
+os.chdir('..')
+
+args = parser.parse_args()
+if args.fragment == "true":   
+    if args.restart == "true":
+        if os.path.exists('fList.txt'):
+            os.remove(os.path.join(directory_path,'fList.txt'))
+    fragments()
+else:
+    if args.restart == "true":
+        if os.path.exists('mList.txt'):
+            os.remove(os.path.join(directory_path,'mList.txt'))
+    merged()
