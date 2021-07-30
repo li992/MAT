@@ -1,4 +1,4 @@
-import glob,os,csv
+import glob,os
 
 # m stands for merged files, f stands for fragments
 directory_path = os.getcwd()
