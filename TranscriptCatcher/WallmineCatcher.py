@@ -162,7 +162,8 @@ else:
 
 infile = os.path.join(directory_path,"SNP500.txt")
 outpath = os.path.join(directory_path,"ECTnotfounds.txt")
-os.remove(outpath)
+if os.path.exists('ECTnotfounds.txt'):
+    os.remove(outpath)
 driver.get("https://wallmine.com/")
 time.sleep(2)
 
