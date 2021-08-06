@@ -38,8 +38,16 @@ def printWithTime(Strr):
 
 def tagger(data,file,frags):
     printWithTime("   Creating Stanford Tags....")
-    doc = nlp(data)
-    printWithTime("   Finished")
+    try:
+        doc = nlp(data)
+        printWithTime("   Finished")
+    except MemoryError as e:
+        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
+        log = open(MemoryErrorPath,'a')
+        log.write(file+" has error: memory error\n")
+        log.close()
+        printWithTime("   Memory error found, skipping file. Error log can be found in MemoryErrorLog.txt")
+        return
     stftoutfilepath = os.path.join(directory_path,'Results')
     tagoutfilepath = os.path.join(directory_path,'Results')
     if frags == True:
