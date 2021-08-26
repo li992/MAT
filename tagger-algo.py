@@ -48,6 +48,21 @@ def tagger(data,file,frags):
         log.close()
         printWithTime("   Memory error found, skipping file. Error log can be found in MemoryErrorLog.txt")
         return
+    except RecursionError as e:
+        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
+        log = open(MemoryErrorPath,'a')
+        log.write(file+" has error: Recursion Max Depth error\n")
+        log.close()
+        printWithTime("   Recursion Max Depth error found, skipping file. Error log can be found in MemoryErrorLog.txt")
+        return
+    except IndexError as e:
+        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
+        log = open(MemoryErrorPath,'a')
+        log.write(file+" has error: Index error\n")
+        log.close()
+        printWithTime("   Index error found, skipping file. Error log can be found in MemoryErrorLog.txt")
+        return
+
     stftoutfilepath = os.path.join(directory_path,'Results')
     tagoutfilepath = os.path.join(directory_path,'Results')
     if frags == True:
