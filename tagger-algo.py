@@ -38,30 +38,28 @@ def printWithTime(Strr):
 
 def tagger(data,file,frags):
     printWithTime("   Creating Stanford Tags....")
+    MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
+    log = open(MemoryErrorPath,'a')
     try:
         doc = nlp(data)
         printWithTime("   Finished")
     except MemoryError as e:
-        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
-        log = open(MemoryErrorPath,'a')
-        log.write(file+" has error: memory error\n")
-        log.close()
+        log.write(file+"\n")       
         printWithTime("   Memory error found, skipping file. Error log can be found in MemoryErrorLog.txt")
         return
     except RecursionError as e:
-        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
-        log = open(MemoryErrorPath,'a')
-        log.write(file+" has error: Recursion Max Depth error\n")
-        log.close()
+        log.write(file+"\n")
         printWithTime("   Recursion Max Depth error found, skipping file. Error log can be found in MemoryErrorLog.txt")
         return
     except IndexError as e:
-        MemoryErrorPath = os.path.join(directory_path,'MemoryErrorLog.txt')
-        log = open(MemoryErrorPath,'a')
-        log.write(file+" has error: Index error\n")
-        log.close()
+        log.write(file+"")
         printWithTime("   Index error found, skipping file. Error log can be found in MemoryErrorLog.txt")
         return
+    except RuntimeError as e:
+        log.write(file+"")
+        printWithTime("   Runtime error found, skipping file. Error log can be found in MemoryErrorLog.txt")
+        return
+    log.close()
 
     stftoutfilepath = os.path.join(directory_path,'Results')
     tagoutfilepath = os.path.join(directory_path,'Results')
